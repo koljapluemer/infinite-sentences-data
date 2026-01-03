@@ -1,12 +1,105 @@
 {
-  "sentence": "Tom wiar waaraftig min jest Waal.",
+  "sentence": "Ik weet, dat dü en Tom gur Frinjer sen.",
   "credits": [
     "Sentence from Tatoeba by Taam (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom war wirklich meine erste Wahl."
+    "Ich weiß, dass du und Tom befreundet seid."
   ],
   "parts": [
+    {
+      "content": "Ik",
+      "translations": [
+        "Ich",
+        "Ich bin"
+      ],
+      "usageExamples": [
+        [
+          "Ik mai Swets.",
+          "Ich mag Süßes."
+        ],
+        [
+          "Ik haa höm fraaget.",
+          "Ich fragte ihn."
+        ],
+        [
+          "Ik haa junk retet.",
+          "Ich habe euch gerettet."
+        ]
+      ]
+    },
+    {
+      "content": "weet",
+      "translations": [
+        "wissen",
+        "verstehen"
+      ],
+      "usageExamples": [
+        [
+          "Ik weet ek, of ik miaren tö di Seeting kum ken.",
+          "Ich weiß nicht, ob ich morgen zu der Sitzung kommen kann."
+        ],
+        [
+          "Ik weet ek, hur ja sen.",
+          "Ich weiß nicht, wo sie sind."
+        ]
+      ]
+    },
+    {
+      "content": "dat",
+      "translations": [
+        "das",
+        "es gibt"
+      ],
+      "usageExamples": [
+        [
+          "Hat es würklich skaar, dat dü ek wat leenger bliiv kenst!",
+          "Es ist wirklich schade, dass du nicht etwas länger bleiben kannst!"
+        ]
+      ]
+    },
+    {
+      "content": "dü",
+      "translations": [
+        "du",
+        "dein"
+      ],
+      "usageExamples": [
+        [
+          "Forhüürst dü en Uuning?",
+          "Vermietest du ein Appartement?"
+        ],
+        [
+          "Wet dü en Ai iit?",
+          "Willst du ein Ei essen?"
+        ],
+        [
+          "Hat es würklich skaar, dat dü ek wat leenger bliiv kenst!",
+          "Es ist wirklich schade, dass du nicht etwas länger bleiben kannst!"
+        ]
+      ]
+    },
+    {
+      "content": "en",
+      "translations": [
+        "in",
+        "bei"
+      ],
+      "usageExamples": [
+        [
+          "Dit es en Waapen.",
+          "Das ist eine Waffe."
+        ],
+        [
+          "Forhüürst dü en Uuning?",
+          "Vermietest du ein Appartement?"
+        ],
+        [
+          "Dü kenst sagaar en President wiis!",
+          "Du kannst sogar ein Präsident sein!"
+        ]
+      ]
+    },
     {
       "content": "Tom",
       "translations": [
@@ -19,65 +112,53 @@
           "Tom weet ales."
         ],
         [
-          "Hentö nü heer nemen aur en fan Tom sin Witsen lachet.",
-          "Bisher hat niemand über irgendeinen von Toms Witzen gelacht."
+          "Tom heer höm forswaarelk föölt.",
+          "Tom fühlte sich verantwortlich."
         ],
         [
-          "Ich glaube, Tom hat vor Ihnen Angst.",
-          "Ik liiv, Tom heer fuar Juu Ungst."
+          "Tom heer di Pris wonen.",
+          "Tom hat den Preis gewonnen."
         ]
       ]
     },
     {
-      "content": "wiar",
+      "content": "gur",
       "translations": [
-        "wer",
-        "wer ist",
-        "wer da"
+        "gut",
+        "schön",
+        "gut gemacht"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Frinjer",
+      "translations": [
+        "Fringe",
+        "Saum",
+        "Rand"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sen",
+      "translations": [
+        "sen",
+        "sinn"
       ],
       "usageExamples": [
         [
-          "Jane wiar ek bliir.",
-          "Jane war nicht glücklich."
+          "Ik weet ek, hur ja sen.",
+          "Ich weiß nicht, wo sie sind."
         ],
         [
-          "Sin Siil wiar ön Hemel",
-          "Seine Seele war im Himmel."
+          "Di sen altermaal al duar.",
+          "Die sind alle schon tot."
+        ],
+        [
+          "I sen ek töfreer, of?",
+          "Sie sind nicht zufrieden, oder?"
         ]
       ]
-    },
-    {
-      "content": "waaraftig",
-      "translations": [
-        "schwierig",
-        "anstrengend"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "min",
-      "translations": [
-        "min",
-        "mein",
-        "meine"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "jest",
-      "translations": [
-        "ist",
-        "sei"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Waal",
-      "translations": [
-        "Wahl",
-        "Abstimmung"
-      ],
-      "usageExamples": []
     }
   ]
 }

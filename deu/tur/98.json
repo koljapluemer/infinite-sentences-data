@@ -1,87 +1,48 @@
 {
-  "sentence": "Tom'un bir kedisi var.",
+  "sentence": "Tom Boston'da kalıyor.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat eine Katze."
+    "Tom bleibt in Boston."
   ],
   "parts": [
     {
-      "content": "Tom'un",
+      "content": "Tom",
       "translations": [
-        "Tom's",
-        "von Tom"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "Tom'un Avustralyalı aksanı yok.",
-          "Tom hat keinen australischen Akzent."
+          "Tom beni arıyor mu?",
+          "Sucht Tom nach mir?"
         ],
         [
-          "Tom'un çocukları hasta.",
-          "Toms Kinder sind krank."
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?"
         ],
         [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich."
         ]
       ]
     },
     {
-      "content": "bir",
+      "content": "Boston'da",
       "translations": [
-        "eins",
-        "ein"
+        "in Boston",
+        "zu Boston"
       ],
-      "usageExamples": [
-        [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache."
-        ],
-        [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!"
-        ],
-        [
-          "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
-          "Nimm eine kalte Dusche und trinke dann einen heißen Tee!"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "kedisi",
+      "content": "kalıyor",
       "translations": [
-        "Katze",
-        "Kätzchen"
+        "bleibt",
+        "verbleibt"
       ],
-      "usageExamples": [
-        [
-          "Onun bir kedisi ve iki köpeği var.",
-          "Sie hat eine Katze und zwei Hunde."
-        ]
-      ]
-    },
-    {
-      "content": "var",
-      "translations": [
-        "var",
-        "es gibt"
-      ],
-      "usageExamples": [
-        [
-          "Dokuza çeyrek var.",
-          "Es ist Viertel vor neun."
-        ],
-        [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
-        ],
-        [
-          "Köyde beş inek var.",
-          "Im Dorf gibt es fünf Rinder."
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

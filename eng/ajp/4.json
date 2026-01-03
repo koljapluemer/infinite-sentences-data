@@ -1,103 +1,87 @@
 {
-  "sentence": "إنه مش زي عندي إشي أحسن عشان أعمل.",
+  "sentence": "أنت ناوي تعمل هادا مرة تانية بكرا، صح؟",
   "credits": [
     "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's not as if I have anything better to do."
+    "You're planning to do that again tomorrow, aren't you?"
   ],
   "parts": [
     {
-      "content": "إنه",
+      "content": "أنت",
       "translations": [
-        "It is",
-        "He is",
-        "That is"
+        "You",
+        "You are"
       ],
       "usageExamples": []
     },
     {
-      "content": "مش",
+      "content": "ناوي",
       "translations": [
-        "not",
-        "no",
-        "don't"
+        "intending",
+        "planning",
+        "determined",
+        "set on"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "تعمل",
+      "translations": [
+        "to work",
+        "to operate",
+        "to function",
+        "to act"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "هادا",
+      "translations": [
+        "this",
+        "this one",
+        "that"
       ],
       "usageExamples": [
         [
-          "مش معقول!",
-          "Unbelievable!"
-        ],
-        [
-          "مش جاي عبالي أطلع الليلة",
-          "I don't feel like going out this evening."
-        ],
-        [
-          "أنا مش لابس هالزي الغبي.",
-          "I'm not wearing that stupid costume."
+          "هادا سيارته.",
+          "This is his car."
         ]
       ]
     },
     {
-      "content": "زي",
+      "content": "مرة",
       "translations": [
-        "like",
-        "as",
-        "similar to"
+        "once",
+        "time",
+        "a time"
       ],
       "usageExamples": []
     },
     {
-      "content": "عندي",
+      "content": "تانية",
       "translations": [
-        "I have",
-        "I own",
-        "I possess"
-      ],
-      "usageExamples": [
-        [
-          "عندي بسة.",
-          "I have a cat."
-        ]
-      ]
-    },
-    {
-      "content": "إشي",
-      "translations": [
-        "thing",
-        "stuff",
-        "something",
-        "item"
+        "second",
+        "again",
+        "another time"
       ],
       "usageExamples": []
     },
     {
-      "content": "أحسن",
+      "content": "بكرا",
       "translations": [
-        "better",
-        "best",
-        "improved",
-        "excellent"
+        "tomorrow",
+        "by tomorrow"
       ],
       "usageExamples": []
     },
     {
-      "content": "عشان",
+      "content": "صح",
       "translations": [
-        "because",
-        "in order to",
-        "for the sake of",
-        "so that"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أعمل",
-      "translations": [
-        "I work.",
-        "I do",
-        "I am working.",
-        "I make"
+        "correct",
+        "right",
+        "true",
+        "okay"
       ],
       "usageExamples": []
     }

@@ -1,10 +1,10 @@
 {
-  "sentence": "O kazağı beğeniyorum.",
+  "sentence": "O birkaç haftadır kayıp.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I like that sweater."
+    "She had been missing for a couple of weeks."
   ],
   "parts": [
     {
@@ -17,8 +17,8 @@
       ],
       "usageExamples": [
         [
-          "O birkaç haftadır kayıp.",
-          "She had been missing for a couple of weeks."
+          "O kazağı beğeniyorum.",
+          "I like that sweater."
         ],
         [
           "O yoga öğretiyor.",
@@ -31,18 +31,33 @@
       ]
     },
     {
-      "content": "kazağı",
+      "content": "birkaç",
       "translations": [
-        "sweater",
-        "jumper"
+        "a few",
+        "several",
+        "a couple of"
+      ],
+      "usageExamples": [
+        [
+          "Biz ona birkaç tane elma verdik.",
+          "We gave her some apples."
+        ]
+      ]
+    },
+    {
+      "content": "haftadır",
+      "translations": [
+        "for a week",
+        "since a week ago"
       ],
       "usageExamples": []
     },
     {
-      "content": "beğeniyorum",
+      "content": "kayıp",
       "translations": [
-        "I like",
-        "I enjoy"
+        "lost",
+        "missing",
+        "loss"
       ],
       "usageExamples": []
     }

@@ -1,59 +1,75 @@
 {
-  "sentence": "Slovence güzel bir dildir.",
+  "sentence": "Sana gitmen için izin veriyorum.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Slowenisch ist eine schöne Sprache."
+    "Ich erlaube dir zu gehen."
   ],
   "parts": [
     {
-      "content": "Slovence",
+      "content": "Sana",
       "translations": [
-        "Slowene",
-        "Slowenisch"
+        "dir",
+        "sen"
       ],
       "usageExamples": []
     },
     {
-      "content": "güzel",
+      "content": "gitmen",
       "translations": [
-        "schön",
-        "hübsch"
+        "gehen",
+        "weggehen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "için",
+      "translations": [
+        "für",
+        "um zu"
       ],
       "usageExamples": [
         [
-          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
-          "Ich glaube, treffender und besser kann man es kaum darstellen."
+          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
+          "Ich muss für eine Spanienreise Spanisch lernen."
+        ],
+        [
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen."
+        ],
+        [
+          "Benim için ne zaman vaktin olur?",
+          "Wann hast du Zeit für mich?"
         ]
       ]
     },
     {
-      "content": "bir",
+      "content": "izin",
       "translations": [
-        "eins",
-        "ein"
+        "Genehmigung",
+        "Erlaubnis"
       ],
       "usageExamples": [
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
+          "Kapıyı kapatmama izin veriniz.",
+          "Erlauben Sie mir, die Tür zu schließen."
         ],
         [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!"
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
         ],
         [
-          "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
-          "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben."
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen."
         ]
       ]
     },
     {
-      "content": "dildir",
+      "content": "veriyorum",
       "translations": [
-        "Sprache",
-        "Zunge"
+        "ich gebe",
+        "ich biete an"
       ],
       "usageExamples": []
     }

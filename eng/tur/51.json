@@ -1,12 +1,28 @@
 {
-  "sentence": "Tom bütün hafta cümleleri çalıştı bu yüzden hepsini doğru olarak yazabilmeliydi.",
+  "sentence": "Seni öldüremedim, Tom.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom studied the sentences all week so he should have been able to write all correctly."
+    "I couldn't kill you, Tom."
   ],
   "parts": [
+    {
+      "content": "Seni",
+      "translations": [
+        "You",
+        "I miss you."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "öldüremedim",
+      "translations": [
+        "I couldn't kill",
+        "I wasn't able to kill"
+      ],
+      "usageExamples": []
+    },
     {
       "content": "Tom",
       "translations": [
@@ -15,114 +31,18 @@
       ],
       "usageExamples": [
         [
+          "Tom annemin erkek kardeşi.",
+          "Tom is my mother's brother."
+        ],
+        [
           "Tom kötü bir golfçü.",
           "Tom is a bad golfer."
         ],
         [
-          "Seni öldüremedim, Tom.",
-          "I couldn't kill you, Tom."
-        ],
-        [
-          "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
-          "Tom said he didn't know who Mary was getting married to."
+          "Tom heyecanını zar zor bastırdı.",
+          "Tom could hardly contain his excitement."
         ]
       ]
-    },
-    {
-      "content": "bütün",
-      "translations": [
-        "all",
-        "whole",
-        "entire",
-        "every"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "hafta",
-      "translations": [
-        "week",
-        "weekly"
-      ],
-      "usageExamples": [
-        [
-          "Soğuk algınlığımı atlatmam üç haftamı aldı.",
-          "It took three weeks for me to get over my cold."
-        ]
-      ]
-    },
-    {
-      "content": "cümleleri",
-      "translations": [
-        "sentences",
-        "clauses"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "çalıştı",
-      "translations": [
-        "worked",
-        "has worked",
-        "was working",
-        "functioned"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bu",
-      "translations": [
-        "this",
-        "it"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yüzden",
-      "translations": [
-        "because of",
-        "due to",
-        "for the sake of",
-        "on account of"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "hepsini",
-      "translations": [
-        "all of them",
-        "everything",
-        "all"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "doğru",
-      "translations": [
-        "correct",
-        "right",
-        "true",
-        "straight"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "olarak",
-      "translations": [
-        "as",
-        "in the capacity of",
-        "in the role of",
-        "regarding"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yazabilmeliydi",
-      "translations": [
-        "should have been able to write",
-        "ought to have been able to write"
-      ],
-      "usageExamples": []
     }
   ]
 }

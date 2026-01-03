@@ -1,56 +1,57 @@
 {
-  "sentence": "Tom beni arıyor mu?",
+  "sentence": "Sizinle sonucu paylaşma niyetinde değilim.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by eminyilmazki (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sucht Tom nach mir?"
+    "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "sizinle",
       "translations": [
-        "Tom",
-        "Tomas"
+        "mit Ihnen",
+        "mit dir"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sonucu",
+      "translations": [
+        "Ergebnis",
+        "Folge"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "paylaşma",
+      "translations": [
+        "teilen",
+        "Gemeinschaft",
+        "Austausch"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "niyetinde",
+      "translations": [
+        "in der Absicht",
+        "mit der Absicht"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "değilim",
+      "translations": [
+        "ich bin nicht",
+        "bin ich nicht"
       ],
       "usageExamples": [
         [
-          "Tom Boston'da kalıyor.",
-          "Tom bleibt in Boston."
-        ],
-        [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?"
-        ],
-        [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist."
+          "Benim kalmamın mantıklı olduğundan emin değilim.",
+          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben."
         ]
       ]
-    },
-    {
-      "content": "beni",
-      "translations": [
-        "mich",
-        "mir"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "arıyor",
-      "translations": [
-        "ruft an",
-        "sucht"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mu",
-      "translations": [
-        "ich",
-        "mir"
-      ],
-      "usageExamples": []
     }
   ]
 }

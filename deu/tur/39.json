@@ -1,48 +1,57 @@
 {
-  "sentence": "Dokuza çeyrek var.",
+  "sentence": "Ciddi bir konuşmaya başladık.",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es ist Viertel vor neun."
+    "Wir begannen eine ernsthafte Unterhaltung."
   ],
   "parts": [
     {
-      "content": "Dokuza",
+      "content": "Ciddi",
       "translations": [
-        "Neun",
-        "Neun Stück"
+        "ernst",
+        "seriös"
       ],
       "usageExamples": []
     },
     {
-      "content": "çeyrek",
+      "content": "bir",
       "translations": [
-        "Viertel",
-        "Viertelstunde"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "var",
-      "translations": [
-        "var",
-        "es gibt"
+        "eins",
+        "ein"
       ],
       "usageExamples": [
         [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!"
         ],
         [
-          "Köyde beş inek var.",
-          "Im Dorf gibt es fünf Rinder."
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache."
         ],
         [
           "Tom'un bir kedisi var.",
           "Tom hat eine Katze."
         ]
       ]
+    },
+    {
+      "content": "konuşma",
+      "translations": [
+        "Gespräch",
+        "Unterhaltung",
+        "Rede"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "başladık",
+      "translations": [
+        "wir haben begonnen",
+        "wir fangen an"
+      ],
+      "usageExamples": []
     }
   ]
 }

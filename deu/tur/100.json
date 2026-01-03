@@ -1,53 +1,49 @@
 {
-  "sentence": "Tom'un çocukları hasta.",
+  "sentence": "Tom gelince, gidiyorum.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Toms Kinder sind krank."
+    "Wenn Tom kommt, gehe ich."
   ],
   "parts": [
     {
-      "content": "Tom'un",
+      "content": "Tom",
       "translations": [
-        "Tom's",
-        "von Tom"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "Tom'un Avustralyalı aksanı yok.",
-          "Tom hat keinen australischen Akzent."
+          "Tom sonuçları analiz etti.",
+          "Tom analysierte die Ergebnisse."
         ],
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston."
         ],
         [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
+          "Tom'u çağırmamı ister misiniz?",
+          "Wollen Sie, dass ich Tom rufe?"
         ]
       ]
     },
     {
-      "content": "çocukları",
+      "content": "gelince",
       "translations": [
-        "Kinder",
-        "die Kinder"
+        "wenn er/sie kommt",
+        "bei Ankunft",
+        "bei Eintreffen"
       ],
       "usageExamples": []
     },
     {
-      "content": "hasta",
+      "content": "gidiyorum",
       "translations": [
-        "Krücke",
-        "Stock"
+        "Ich gehe",
+        "Ich bin unterwegs"
       ],
-      "usageExamples": [
-        [
-          "Son zamanlarda daha az hasta bana geliyor.",
-          "In letzter Zeit kamen immer weniger Patienten zu mir."
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

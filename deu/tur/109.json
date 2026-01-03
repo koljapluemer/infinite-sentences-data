@@ -1,30 +1,51 @@
 {
-  "sentence": "Yüzmeyi seviyorum.",
+  "sentence": "Tom'un çocukları hasta.",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich schwimme sehr gern."
+    "Toms Kinder sind krank."
   ],
   "parts": [
     {
-      "content": "Yüzme",
+      "content": "Tom'un",
       "translations": [
-        "Schwimmen",
-        "Schwimmsport"
+        "Tom's",
+        "von Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit."
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze."
+        ],
+        [
+          "Tom'un Avustralyalı aksanı yok.",
+          "Tom hat keinen australischen Akzent."
+        ]
+      ]
+    },
+    {
+      "content": "çocukları",
+      "translations": [
+        "Kinder",
+        "die Kinder"
       ],
       "usageExamples": []
     },
     {
-      "content": "seviyorum",
+      "content": "hasta",
       "translations": [
-        "ich liebe dich",
-        "ich mag dich"
+        "Krücke",
+        "Stock"
       ],
       "usageExamples": [
         [
-          "Seni başlangıçta planlanandan daha çok seviyorum.",
-          "Ich liebe dich ein bisschen mehr als ursprünglich geplant."
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir."
         ]
       ]
     }

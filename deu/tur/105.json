@@ -1,43 +1,74 @@
 {
-  "sentence": "Uçurtma ağaçta asılı kaldı.",
+  "sentence": "Tom'u çağırmamı ister misiniz?",
   "credits": [
-    "Sentence from Tatoeba by evka (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Der Drachen hängt im Baum fest."
+    "Wollen Sie, dass ich Tom rufe?"
   ],
   "parts": [
     {
-      "content": "Uçurtma",
+      "content": "Tom",
       "translations": [
-        "Drachen",
-        "Luftballon"
+        "Tom",
+        "Tomas"
+      ],
+      "usageExamples": [
+        [
+          "Tom sonuçları analiz etti.",
+          "Tom analysierte die Ergebnisse."
+        ],
+        [
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen."
+        ],
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
+        ]
+      ]
+    },
+    {
+      "content": "çağır",
+      "translations": [
+        "rufen",
+        "einladen",
+        "herbeirufen"
       ],
       "usageExamples": []
     },
     {
-      "content": "ağaçta",
+      "content": "mam",
       "translations": [
-        "auf dem Baum",
-        "im Baum"
+        "Mama",
+        "Mutti",
+        "Mutter"
       ],
       "usageExamples": []
     },
     {
-      "content": "asılı",
+      "content": "ı",
       "translations": [
-        "hängend",
-        "aufgehängt"
+        "ich",
+        "ich bin"
       ],
       "usageExamples": []
     },
     {
-      "content": "kaldı",
+      "content": "ister",
       "translations": [
-        "bleibt",
-        "verbleibt",
-        "übrig",
-        "ist geblieben"
+        "bitte",
+        "möchten Sie"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "misiniz",
+      "translations": [
+        "sind Sie",
+        "bist du",
+        "sind Sie nicht",
+        "bist du nicht"
       ],
       "usageExamples": []
     }

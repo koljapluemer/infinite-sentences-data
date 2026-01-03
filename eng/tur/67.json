@@ -1,34 +1,37 @@
 {
-  "sentence": "Öğretmene soralım.",
+  "sentence": "Tren zamanında ayrıldı.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's ask the teacher."
+    "The train left on time."
   ],
   "parts": [
     {
-      "content": "Öğretmen",
+      "content": "tren",
       "translations": [
-        "Teacher",
-        "Instructor",
-        "Educator"
+        "train",
+        "trolley"
       ],
       "usageExamples": []
     },
     {
-      "content": "e",
+      "content": "zamanında",
       "translations": [
-        "and",
-        "also"
+        "in time",
+        "on time",
+        "in due time",
+        "at the right time"
       ],
       "usageExamples": []
     },
     {
-      "content": "soralım",
+      "content": "ayrıldı",
       "translations": [
-        "let's ask",
-        "shall we ask"
+        "left",
+        "departed",
+        "split",
+        "separated"
       ],
       "usageExamples": []
     }

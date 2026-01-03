@@ -1,66 +1,71 @@
 {
-  "sentence": "أنا مش لابس هالزي الغبي.",
+  "sentence": "أكلها المفضل وهي زغيرة كان بيتزا.",
   "credits": [
     "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm not wearing that stupid costume."
+    "Her favourite food as a child was pizza."
   ],
   "parts": [
     {
-      "content": "أنا",
+      "content": "أكلها",
       "translations": [
-        "I",
-        "me"
+        "I ate it.",
+        "He/She ate it",
+        "They ate it"
       ],
       "usageExamples": []
     },
     {
-      "content": "مش",
+      "content": "المفضل",
       "translations": [
-        "not",
-        "no",
-        "don't"
+        "preferred",
+        "favorite"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "وهي",
+      "translations": [
+        "and it is",
+        "and she is",
+        "it is",
+        "she is"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "زغيرة",
+      "translations": [
+        "small",
+        "little",
+        "tiny"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كان",
+      "translations": [
+        "was",
+        "were",
+        "has been"
       ],
       "usageExamples": [
         [
-          "مش معقول!",
-          "Unbelievable!"
+          "توم كان بطلي.",
+          "Tom was my hero."
         ],
         [
-          "مش جاي عبالي أطلع الليلة",
-          "I don't feel like going out this evening."
-        ],
-        [
-          "إنه مش زي عندي إشي أحسن عشان أعمل.",
-          "It's not as if I have anything better to do."
+          "ياني كان خجول جدا لروح هناك.",
+          "Yanni was too shy to go there."
         ]
       ]
     },
     {
-      "content": "لابس",
+      "content": "بيتزا",
       "translations": [
-        "wearing",
-        "dressed",
-        "clothed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "هالزي",
-      "translations": [
-        "this",
-        "this one"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "الغبي",
-      "translations": [
-        "the fool",
-        "the stupid one",
-        "the idiot",
-        "the silly person"
+        "pizza",
+        "pizzas"
       ],
       "usageExamples": []
     }

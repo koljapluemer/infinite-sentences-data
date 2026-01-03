@@ -1,48 +1,83 @@
 {
-  "sentence": "Seni öldüremedim, Tom.",
+  "sentence": "Onun bir doktor olup olmadığını bilmiyorum.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I couldn't kill you, Tom."
+    "I don't know if he is a doctor."
   ],
   "parts": [
     {
-      "content": "Seni",
+      "content": "Onun",
       "translations": [
-        "You",
-        "I miss you."
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "öldüremedim",
-      "translations": [
-        "I couldn't kill",
-        "I wasn't able to kill"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Tom",
-        "Tommy"
+        "his",
+        "her",
+        "its"
       ],
       "usageExamples": [
+        [
+          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
+          "His last album garnered him a fourth Grammy award."
+        ]
+      ]
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Sen gerçek bir zavallısın.",
+          "You're a real loser."
+        ],
         [
           "Tom kötü bir golfçü.",
           "Tom is a bad golfer."
         ],
         [
-          "Tom Mary ile konuşmayı bırakamadı.",
-          "Tom couldn't stop talking to Mary."
-        ],
-        [
-          "Tom bütün hafta cümleleri çalıştı bu yüzden hepsini doğru olarak yazabilmeliydi.",
-          "Tom studied the sentences all week so he should have been able to write all correctly."
+          "Görünüşe göre, biz iki ay içerisinde bir artış alacağız.",
+          "Apparently, we'll be getting a raise within two months."
         ]
       ]
+    },
+    {
+      "content": "doktor",
+      "translations": [
+        "doctor",
+        "physician"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "olup",
+      "translations": [
+        "becoming",
+        "happening",
+        "occurring",
+        "taking place"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "olmadığını",
+      "translations": [
+        "that it is not",
+        "that it doesn't exist",
+        "that it isn't",
+        "that there is not"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bilmiyorum",
+      "translations": [
+        "I don't know.",
+        "I'm not sure."
+      ],
+      "usageExamples": []
     }
   ]
 }

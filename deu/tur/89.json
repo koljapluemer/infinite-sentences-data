@@ -1,48 +1,54 @@
 {
-  "sentence": "Tom Boston'da kalıyor.",
+  "sentence": "Size yardım etmek istiyorum.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom bleibt in Boston."
+    "Ich will dir helfen."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Size",
       "translations": [
-        "Tom",
-        "Tomas"
+        "Größe",
+        "Dimension"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "yardım",
+      "translations": [
+        "Hilfe",
+        "Unterstützung"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "etmek",
+      "translations": [
+        "machen",
+        "tun",
+        "verrichten"
       ],
       "usageExamples": [
         [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?"
-        ],
-        [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist."
-        ],
-        [
-          "Bugün Tom, Mary'yi gördü.",
-          "Tom hat Mary heute gesehen."
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten."
         ]
       ]
     },
     {
-      "content": "Boston'da",
+      "content": "istiyorum",
       "translations": [
-        "in Boston",
-        "zu Boston"
+        "ich will",
+        "ich möchte"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "kalıyor",
-      "translations": [
-        "bleibt",
-        "verbleibt"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen."
+        ]
+      ]
     }
   ]
 }

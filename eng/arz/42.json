@@ -1,46 +1,97 @@
 {
-  "sentence": "مفيش أي مشاكل.",
+  "sentence": "توم، سيب أختَك في حالها.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There are no problems."
+    "Tom, leave your sister alone."
   ],
   "parts": [
     {
-      "content": "مفيش",
+      "content": "توم",
       "translations": [
-        "there isn't",
-        "there's none",
-        "not available",
-        "nothing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أي",
-      "translations": [
-        "any",
-        "which",
-        "either",
-        "whichever"
+        "you",
+        "you (singular)"
       ],
       "usageExamples": [
         [
-          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
-          "I think being poor is nothing to be ashamed of."
+          "توم مابصش عليها حتى.",
+          "Tom wouldn't even look at it."
+        ],
+        [
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis."
+        ],
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom."
         ]
       ]
     },
     {
-      "content": "مشاكل",
+      "content": "سيب",
       "translations": [
-        "problems",
-        "issues",
-        "troubles",
-        "challenges"
+        "leave it",
+        "let it be",
+        "forget it",
+        "drop it"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "كوكي، سيب أختَك في حالها.",
+          "Cookie, leave your sister alone."
+        ]
+      ]
+    },
+    {
+      "content": "أختَك",
+      "translations": [
+        "your sister",
+        "sister of yours"
+      ],
+      "usageExamples": [
+        [
+          "كوكي، سيب أختَك في حالها.",
+          "Cookie, leave your sister alone."
+        ]
+      ]
+    },
+    {
+      "content": "في",
+      "translations": [
+        "in",
+        "at",
+        "inside",
+        "within"
+      ],
+      "usageExamples": [
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom."
+        ],
+        [
+          "ساعدوا بعض في الواجب.",
+          "Help each other with homework."
+        ],
+        [
+          "منقدرش نشتغل في الحر ده.",
+          "We can't work in this heat."
+        ]
+      ]
+    },
+    {
+      "content": "حالها",
+      "translations": [
+        "her condition",
+        "her situation",
+        "her state"
+      ],
+      "usageExamples": [
+        [
+          "كوكي، سيب أختَك في حالها.",
+          "Cookie, leave your sister alone."
+        ]
+      ]
     }
   ]
 }

@@ -1,51 +1,90 @@
 {
-  "sentence": "أنا بخاف م الزلازل.",
+  "sentence": "أقدر أشتري البيت ده على كام؟",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm afraid of earthquakes."
+    "How much could I buy this house for?"
   ],
   "parts": [
     {
-      "content": "أنا",
+      "content": "أقدر",
       "translations": [
-        "I am.",
-        "I",
-        "Me"
+        "I can.",
+        "I am able to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "أشتري",
+      "translations": [
+        "I buy",
+        "I will buy",
+        "I am buying"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "البيت",
+      "translations": [
+        "the house",
+        "the home"
       ],
       "usageExamples": [
         [
-          "أنا فخوره بيها جدا.",
-          "I'm very proud of it."
+          "عايز أروّح البيت دلوقتي.",
+          "I would like to go home now."
         ]
       ]
     },
     {
-      "content": "بخاف",
+      "content": "ده",
       "translations": [
-        "I'm afraid.",
-        "I fear",
-        "I'm scared."
+        "this",
+        "that"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "الورد ده رحته مميزة.",
+          "These flowers have a unique smell."
+        ],
+        [
+          "منقدرش نشتغل في الحر ده.",
+          "We can't work in this heat."
+        ]
+      ]
     },
     {
-      "content": "م",
+      "content": "على",
       "translations": [
-        "M",
-        "Em",
-        "Letter M"
+        "on",
+        "upon",
+        "at",
+        "about"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "ثبّتنا السعر على خمستاشر دُلَر.",
+          "We fixed the price at $15."
+        ],
+        [
+          "ما تعاملش الناس بناءً على جنسيتهم أو جنسهم أو شغلهم.",
+          "Don't discriminate against people based on nationality, gender, or occupation."
+        ]
+      ]
     },
     {
-      "content": "الزلازل",
+      "content": "كام",
       "translations": [
-        "earthquakes",
-        "seismic activity"
+        "how much",
+        "how many"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم بيعوم كام ساعه فاليوم؟",
+          "How many hours a day does Tom swim?"
+        ]
+      ]
     }
   ]
 }

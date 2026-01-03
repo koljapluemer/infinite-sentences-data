@@ -1,46 +1,95 @@
 {
-  "sentence": "Bütün bunları ödeyebilir misin?",
+  "sentence": "Bunun için bana ne vereceksin?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Can you pay for all this?"
+    "What'll you give me for this?"
   ],
   "parts": [
     {
-      "content": "Bütün",
+      "content": "bunun",
       "translations": [
-        "all",
-        "whole",
-        "entire",
-        "every"
+        "this",
+        "of this",
+        "about this"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Altmışlık sayı sistemi Babil devletinde uygulandı, bunun sonucunda bir saatte 60 dakika ve günde 24 saat var.",
+          "A sexagesimal system was used in Babylonia. Therefore an hour has sixty minutes and a day has twenty-four hours."
+        ]
+      ]
     },
     {
-      "content": "bunları",
+      "content": "için",
       "translations": [
-        "these",
-        "those"
+        "for",
+        "in order to",
+        "to",
+        "because of"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "En kötüsü için hazırlanıyorum.",
+          "I'm getting ready for the worst."
+        ],
+        [
+          "Yardım etmek için muhtemelen ne yapabilirim?",
+          "What can I possibly do to help?"
+        ],
+        [
+          "Onu görmem için bana izin verilmedi.",
+          "I wasn't permitted to see him."
+        ]
+      ]
     },
     {
-      "content": "ödeyebilir",
+      "content": "bana",
       "translations": [
-        "can pay",
-        "is able to pay",
-        "can afford"
+        "to me",
+        "for me",
+        "give me"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom bana aslında onu yapmak istemediğini söyledi.",
+          "Tom told me he didn't actually want to do that."
+        ],
+        [
+          "Onu görmem için bana izin verilmedi.",
+          "I wasn't permitted to see him."
+        ]
+      ]
     },
     {
-      "content": "misin",
+      "content": "ne",
       "translations": [
-        "are you?",
-        "is it?",
-        "aren't you?",
-        "isn't it?"
+        "what",
+        "huh",
+        "right",
+        "no way"
+      ],
+      "usageExamples": [
+        [
+          "Peki, ona ne denir?",
+          "Well, what's it called?"
+        ],
+        [
+          "O istasyonun adı ne?",
+          "What's the name of that station?"
+        ],
+        [
+          "Yardım etmek için muhtemelen ne yapabilirim?",
+          "What can I possibly do to help?"
+        ]
+      ]
+    },
+    {
+      "content": "vereceksin",
+      "translations": [
+        "you will give",
+        "you are going to give"
       ],
       "usageExamples": []
     }

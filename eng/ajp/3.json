@@ -1,25 +1,71 @@
 {
-  "sentence": "أهلا وسهلا.",
+  "sentence": "أنا مش لابس هالزي الغبي.",
   "credits": [
     "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Welcome."
+    "I'm not wearing that stupid costume."
   ],
   "parts": [
     {
-      "content": "أهلا",
+      "content": "أنا",
       "translations": [
-        "Hello.",
-        "Welcome."
+        "I",
+        "me"
+      ],
+      "usageExamples": [
+        [
+          "أنا متأكد أنه توم بيفهم هاد.",
+          "I'm sure Tom understands that."
+        ]
+      ]
+    },
+    {
+      "content": "مش",
+      "translations": [
+        "not",
+        "no",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "مش معقول!",
+          "Unbelievable!"
+        ],
+        [
+          "مش جاي عبالي أطلع الليلة",
+          "I don't feel like going out this evening."
+        ],
+        [
+          "إنه مش زي عندي إشي أحسن عشان أعمل.",
+          "It's not as if I have anything better to do."
+        ]
+      ]
+    },
+    {
+      "content": "لابس",
+      "translations": [
+        "wearing",
+        "dressed",
+        "clothed"
       ],
       "usageExamples": []
     },
     {
-      "content": "وسهلا",
+      "content": "هالزي",
       "translations": [
-        "Welcome.",
-        "Easy and simple"
+        "this",
+        "this one"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "الغبي",
+      "translations": [
+        "the fool",
+        "the stupid one",
+        "the idiot",
+        "the silly person"
       ],
       "usageExamples": []
     }

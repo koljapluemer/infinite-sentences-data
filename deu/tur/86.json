@@ -1,114 +1,86 @@
 {
-  "sentence": "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
+  "sentence": "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
   "credits": [
-    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Nimm eine kalte Dusche und trinke dann einen heißen Tee!"
+    "Hast du gesagt, dass du deine Fehler akzeptieren sollst?"
   ],
   "parts": [
     {
-      "content": "soğuk",
+      "content": "Sen",
       "translations": [
-        "kalt",
-        "kühl"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bir",
-      "translations": [
-        "eins",
-        "ein"
+        "du",
+        "Sie"
       ],
       "usageExamples": [
         [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!"
-        ],
-        [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache."
-        ],
-        [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
+          "Sen hala oğlumsun.",
+          "Du bist noch immer mein Sohn."
         ]
       ]
     },
     {
-      "content": "duş",
+      "content": "hatalarını",
       "translations": [
-        "Dusche",
-        "Duschbad"
+        "deine Fehler",
+        "ihre Fehler"
       ],
       "usageExamples": []
     },
     {
-      "content": "yap",
+      "content": "kabul",
       "translations": [
-        "machen",
-        "tun"
+        "akzeptieren",
+        "annehmen"
       ],
       "usageExamples": []
     },
     {
-      "content": "ve",
+      "content": "etmen",
       "translations": [
-        "und",
-        "oder"
+        "essen",
+        "verzehren"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gerektiğini",
+      "translations": [
+        "was notwendig",
+        "was erforderlich"
       ],
       "usageExamples": [
         [
-          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
-          "Weißt du, wohin Tom und seine Freunde gegangen sind?"
-        ],
-        [
-          "Gemiler rüzgar ve yağmurdan etkilenirler.",
-          "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen."
-        ],
-        [
-          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
-          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
+          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Ich denke nicht, dass ihr euren Job aufgeben solltet."
         ]
       ]
     },
     {
-      "content": "sonra",
+      "content": "söyledin",
       "translations": [
-        "nachher",
-        "danach"
+        "du hast gesagt",
+        "du hast gesprochen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "ich",
+        "mir"
       ],
       "usageExamples": [
         [
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde."
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?"
+        ],
+        [
+          "Kartla ödeme yapılabilir mi?",
+          "Kann man mit Karte bezahlen?"
         ]
       ]
-    },
-    {
-      "content": "sıcak",
-      "translations": [
-        "heiß",
-        "warm"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "çay",
-      "translations": [
-        "Tee",
-        "Schwarztee"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "iç",
-      "translations": [
-        "innen",
-        "drinnen"
-      ],
-      "usageExamples": []
     }
   ]
 }

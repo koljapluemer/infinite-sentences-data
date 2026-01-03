@@ -1,33 +1,112 @@
 {
-  "sentence": "Tom'a özellikle güvenmiyoruz.",
+  "sentence": "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
   "credits": [
-    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wir trauen Tom nicht besonders."
+    "Nimm eine kalte Dusche und trinke dann einen heißen Tee!"
   ],
   "parts": [
     {
-      "content": "Tom'a",
+      "content": "soğuk",
       "translations": [
-        "Tom",
-        "Tommy"
+        "kalt",
+        "kühl"
       ],
       "usageExamples": []
     },
     {
-      "content": "özellikle",
+      "content": "bir",
       "translations": [
-        "insbesondere",
-        "vor allem"
+        "eins",
+        "ein"
+      ],
+      "usageExamples": [
+        [
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache."
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze."
+        ],
+        [
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!"
+        ]
+      ]
+    },
+    {
+      "content": "duş",
+      "translations": [
+        "Dusche",
+        "Duschbad"
       ],
       "usageExamples": []
     },
     {
-      "content": "güvenmiyoruz",
+      "content": "yap",
       "translations": [
-        "Wir vertrauen nicht.",
-        "Wir haben kein Vertrauen."
+        "machen",
+        "tun"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ve",
+      "translations": [
+        "und",
+        "oder"
+      ],
+      "usageExamples": [
+        [
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
+        ],
+        [
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht."
+        ],
+        [
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen."
+        ]
+      ]
+    },
+    {
+      "content": "sonra",
+      "translations": [
+        "nachher",
+        "danach"
+      ],
+      "usageExamples": [
+        [
+          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde."
+        ]
+      ]
+    },
+    {
+      "content": "sıcak",
+      "translations": [
+        "heiß",
+        "warm"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "çay",
+      "translations": [
+        "Tee",
+        "Schwarztee"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "iç",
+      "translations": [
+        "innen",
+        "drinnen"
       ],
       "usageExamples": []
     }

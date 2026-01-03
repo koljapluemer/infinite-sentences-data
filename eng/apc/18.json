@@ -1,21 +1,12 @@
 {
-  "sentence": "عالأغلب توم لح يساوي يلي لح تطلبه.",
+  "sentence": "توم و ماري ما كانوا كتير عم يستمتعوا",
   "credits": [
     "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I suspect Tom will do whatever you ask."
+    "Tom and Mary didn't really seem to be enjoying themselves."
   ],
   "parts": [
-    {
-      "content": "عالأغلب",
-      "translations": [
-        "most likely",
-        "probably",
-        "generally"
-      ],
-      "usageExamples": []
-    },
     {
       "content": "توم",
       "translations": [
@@ -23,38 +14,94 @@
       ],
       "usageExamples": [
         [
+          "توم خلى عينوا عالولاد",
+          "Tom kept an eye on the children."
+        ],
+        [
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that."
+        ],
+        [
           "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't."
+        ]
+      ]
+    },
+    {
+      "content": "و",
+      "translations": [
+        "and",
+        "also",
+        "as well as"
+      ],
+      "usageExamples": [
+        [
+          "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
+          "I have a cat and a dog. The cat is black and the dog is white."
+        ]
+      ]
+    },
+    {
+      "content": "ماري",
+      "translations": [
+        "Mary",
+        "Maria"
+      ],
+      "usageExamples": [
+        [
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that."
+        ],
+        [
+          "ماري قالت انو مالا مخططا تعمل هيك",
+          "Mary said she's not planning on doing that."
+        ]
+      ]
+    },
+    {
+      "content": "ما",
+      "translations": [
+        "what",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that."
+        ],
+        [
+          "توم يفهم ما لا تفهمه.",
           "Tom understands what you don't."
         ],
         [
           "توم بيفهم اللي هي ما بتفهم.",
           "Tom understands what you don't."
-        ],
-        [
-          "توم و ماري ما كانوا كتير عم يستمتعوا",
-          "Tom and Mary didn't really seem to be enjoying themselves."
         ]
       ]
     },
     {
-      "content": "لح",
+      "content": "كانوا",
       "translations": [
-        "moment",
-        "instant",
-        "while",
-        "time"
+        "they were",
+        "they used to be",
+        "they had been"
       ],
       "usageExamples": []
     },
     {
-      "content": "يلي",
+      "content": "كتير",
       "translations": [
-        "next",
-        "following",
-        "after",
-        "then"
+        "a lot",
+        "many",
+        "very much",
+        "plenty"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "بحبك كتير.",
+          "I love you very much."
+        ]
+      ]
     }
   ]
 }

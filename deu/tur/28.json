@@ -1,10 +1,10 @@
 {
-  "sentence": "Bu sağduyu.",
+  "sentence": "Bu kurallara aykırıdır.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Das entspricht dem gesunden Menschenverstand."
+    "Es ist gegen die Regeln."
   ],
   "parts": [
     {
@@ -20,20 +20,30 @@
           "Das ist kostenlos erhältlich."
         ],
         [
-          "Bu da kim?",
-          "Wer ist das denn?"
+          "Bu sağduyu.",
+          "Das entspricht dem gesunden Menschenverstand."
         ],
         [
-          "Bu kurallara aykırıdır.",
-          "Es ist gegen die Regeln."
+          "Bu da kim?",
+          "Wer ist das denn?"
         ]
       ]
     },
     {
-      "content": "sağduyu",
+      "content": "kurallara",
       "translations": [
-        "gesunder Menschenverstand",
-        "Vernunft"
+        "Regeln",
+        "Vorschriften"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "aykırıdır",
+      "translations": [
+        "ist widersprüchlich",
+        "ist unvereinbar",
+        "ist abwegig",
+        "ist unlogisch"
       ],
       "usageExamples": []
     }

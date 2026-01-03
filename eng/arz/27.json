@@ -1,44 +1,56 @@
 {
-  "sentence": "دي مشكلة كبيرة",
+  "sentence": "بيتكلم أسباني و فرنساوي كمان.",
   "credits": [
-    "Sentence from Tatoeba by adnanmukhtar (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That's a major problem."
+    "He speaks Spanish as well as French."
   ],
   "parts": [
     {
-      "content": "دي",
+      "content": "بيتكلم",
       "translations": [
-        "this",
-        "it"
+        "He is talking",
+        "He speaks",
+        "He is speaking."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "أسباني",
+      "translations": [
+        "Spanish",
+        "Spanish person"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "فرنساوي",
+      "translations": [
+        "French",
+        "French person"
       ],
       "usageExamples": [
         [
-          "هشوفهم الليله دي.",
-          "I'll meet with them tonight."
+          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
+          "You're the only one working here who can speak French."
         ]
       ]
     },
     {
-      "content": "مشكلة",
+      "content": "كمان",
       "translations": [
-        "problem",
-        "issue",
-        "difficulty",
-        "challenge"
+        "also",
+        "too",
+        "as well",
+        "again"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "كبيرة",
-      "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم كان مشغول وأنا كمان كنت مشغول.",
+          "Tom was busy and so was I."
+        ]
+      ]
     }
   ]
 }

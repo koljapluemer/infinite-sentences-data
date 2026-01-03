@@ -1,34 +1,26 @@
 {
-  "sentence": "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
+  "sentence": "توم يفهم ما لا تفهمه.",
   "credits": [
     "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have a cat and a dog. The cat is black and the dog is white."
+    "Tom understands what you don't."
   ],
   "parts": [
     {
-      "content": "عندي",
+      "content": "توم",
       "translations": [
-        "I have",
-        "I possess",
-        "I own"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "عندي قاموس منيح.",
-          "I have a good dictionary."
-        ]
-      ]
-    },
-    {
-      "content": "و",
-      "translations": [
-        "and",
-        "also",
-        "as well as"
-      ],
-      "usageExamples": [
+          "توم خلى عينوا عالولاد",
+          "Tom kept an eye on the children."
+        ],
+        [
+          "عالأغلب توم لح يساوي يلي لح تطلبه.",
+          "I suspect Tom will do whatever you ask."
+        ],
         [
           "توم و ماري ما كانوا كتير عم يستمتعوا",
           "Tom and Mary didn't really seem to be enjoying themselves."
@@ -36,35 +28,41 @@
       ]
     },
     {
-      "content": "كلب",
+      "content": "يفهم",
       "translations": [
-        "dog"
+        "grasp",
+        "get"
       ],
       "usageExamples": []
     },
     {
-      "content": "سودة",
+      "content": "ما",
       "translations": [
-        "black",
-        "dark",
-        "sorrow"
+        "what",
+        "which"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't."
+        ],
+        [
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that."
+        ],
+        [
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't."
+        ]
+      ]
     },
     {
-      "content": "والكلب",
+      "content": "لا",
       "translations": [
-        "the dog"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أبيض",
-      "translations": [
-        "white",
-        "clear",
-        "pure",
-        "blank"
+        "No.",
+        "Not",
+        "None",
+        "Negative."
       ],
       "usageExamples": []
     }

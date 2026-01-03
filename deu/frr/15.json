@@ -1,105 +1,62 @@
 {
-  "sentence": "Ich glaube, Tom hat vor Ihnen Angst.",
+  "sentence": "Gung deling lewer ek.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Taam (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ik liiv, Tom heer fuar Juu Ungst."
+    "Geh heute lieber nicht."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Gung",
       "translations": [
-        "Ich",
-        "Ich selbst"
+        "Schuss",
+        "Schusswaffe"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "deling",
+      "translations": [
+        "teilen",
+        "Aufteilung"
       ],
       "usageExamples": [
         [
-          "Ich habe es bekommen.",
-          "Ik haa et fingen."
-        ],
-        [
-          "Ich brauche eine Brechstange.",
-          "Ik brük en Breekstang."
-        ],
-        [
-          "Ich muss jetzt gehen. Tschüss!",
-          "Ik skel nü gung. Faarwel!"
+          "Ik haa deling niin Tir.",
+          "Ich habe heute keine Zeit."
         ]
       ]
     },
     {
-      "content": "glaube",
+      "content": "lewer",
       "translations": [
-        "glaube",
-        "vertrauen",
-        "überzeugung"
+        "liefern",
+        "bringen",
+        "übergeben"
       ],
       "usageExamples": []
     },
     {
-      "content": "Tom",
+      "content": "ek",
       "translations": [
-        "Tom",
-        "Tomas"
+        "ich",
+        "ich bin"
       ],
       "usageExamples": [
         [
-          "Tom weiß alles.",
-          "Tom weet ales."
+          "Jane wiar ek bliir.",
+          "Jane war nicht glücklich."
         ],
         [
-          "Tom lauschte den Geschichten seiner Großmutter.",
-          "Tom harket di Tialen fan sin Mootji tö."
+          "Hat es ek olterdiip.",
+          "Es ist nicht zu tief."
         ],
         [
-          "Tom lebt auf einer Insel im Südpazifik.",
-          "Tom lewet üp en Ailön ön di Sürpasiifik."
+          "Ik forstön din Fraag ek.",
+          "Ich verstand deine Frage nicht."
         ]
       ]
-    },
-    {
-      "content": "hat",
-      "translations": [
-        "hat",
-        "Hut"
-      ],
-      "usageExamples": [
-        [
-          "Sie hat blaue Augen.",
-          "Jü heer blö Oogen."
-        ],
-        [
-          "Maria hat Sommersprossen.",
-          "Maria heer Senspraken."
-        ]
-      ]
-    },
-    {
-      "content": "vor",
-      "translations": [
-        "vor",
-        "bevor",
-        "vorne"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Ihnen",
-      "translations": [
-        "Ihnen",
-        "Sie"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Angst",
-      "translations": [
-        "Angst",
-        "Furcht",
-        "Ängstlichkeit"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,27 +1,87 @@
 {
-  "sentence": "Yaya gittik.",
+  "sentence": "Tom'un bir kedisi var.",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wir sind zu Fuß gegangen."
+    "Tom hat eine Katze."
   ],
   "parts": [
     {
-      "content": "Yaya",
+      "content": "Tom'un",
       "translations": [
-        "Oma",
-        "Mama"
+        "Tom's",
+        "von Tom"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit."
+        ],
+        [
+          "Tom'un Avustralyalı aksanı yok.",
+          "Tom hat keinen australischen Akzent."
+        ],
+        [
+          "Tom'un çocukları hasta.",
+          "Toms Kinder sind krank."
+        ]
+      ]
     },
     {
-      "content": "gittik",
+      "content": "bir",
       "translations": [
-        "wir haben gegeben",
-        "wir gaben"
+        "eins",
+        "ein"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!"
+        ],
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung."
+        ],
+        [
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache."
+        ]
+      ]
+    },
+    {
+      "content": "kedisi",
+      "translations": [
+        "Katze",
+        "Kätzchen"
+      ],
+      "usageExamples": [
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde."
+        ]
+      ]
+    },
+    {
+      "content": "var",
+      "translations": [
+        "var",
+        "es gibt"
+      ],
+      "usageExamples": [
+        [
+          "Dokuza çeyrek var.",
+          "Es ist Viertel vor neun."
+        ],
+        [
+          "Köyde beş inek var.",
+          "Im Dorf gibt es fünf Rinder."
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit."
+        ]
+      ]
     }
   ]
 }

@@ -1,40 +1,71 @@
 {
-  "sentence": "Yanlış odaya girdim.",
+  "sentence": "Tom'un ayakkabılarını çıkarmasına gerek yok.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I went into the wrong room."
+    "Tom doesn't need to take his shoes off."
   ],
   "parts": [
     {
-      "content": "Yanlış",
+      "content": "Tom'un",
       "translations": [
-        "wrong",
-        "incorrect",
-        "mistaken",
-        "false"
+        "Tom's",
+        "of Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un gitar çalması şaşırtıcı.",
+          "Tom's guitar playing is amazing."
+        ],
+        [
+          "Tom'un bazı iyi fikirleri olabilir.",
+          "Tom may have some good ideas."
+        ]
+      ]
+    },
+    {
+      "content": "ayakkabılarını",
+      "translations": [
+        "your shoes",
+        "the shoes"
       ],
       "usageExamples": []
     },
     {
-      "content": "oda",
+      "content": "çıkarmasına",
       "translations": [
-        "room",
-        "chamber",
-        "suite"
+        "to take out",
+        "to remove",
+        "to extract",
+        "to draw out"
       ],
       "usageExamples": []
     },
     {
-      "content": "girdim",
+      "content": "gerek",
       "translations": [
-        "I entered",
-        "I got in",
-        "I joined",
-        "I logged in"
+        "necessary",
+        "required",
+        "needed",
+        "essential"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "yok",
+      "translations": [
+        "none",
+        "not available",
+        "no",
+        "absent"
+      ],
+      "usageExamples": [
+        [
+          "Sensiz hayatımın bir anlamı yok.",
+          "Without you, I have no reason to live."
+        ]
+      ]
     }
   ]
 }

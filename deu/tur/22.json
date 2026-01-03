@@ -1,10 +1,10 @@
 {
-  "sentence": "Bir zamanlar kafam çok karışıktı.",
+  "sentence": "Bir dil yeterince iyi öğrenilemez.",
   "credits": [
     "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich war einmal so verwirrt."
+    "Man kann keine Sprache genug beherrschen."
   ],
   "parts": [
     {
@@ -15,76 +15,49 @@
       ],
       "usageExamples": [
         [
-          "Bir dil yeterince iyi öğrenilemez.",
-          "Man kann keine Sprache genug beherrschen."
-        ],
-        [
           "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
           "Ich muss für eine Spanienreise Spanisch lernen."
+        ],
+        [
+          "Bir zamanlar kafam çok karışıktı.",
+          "Ich war einmal so verwirrt."
         ]
       ]
     },
     {
-      "content": "zaman",
+      "content": "dil",
       "translations": [
-        "Zeit",
-        "Epoche",
-        "Ära"
+        "Zunge",
+        "Sprache"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "yeterince",
+      "translations": [
+        "genug",
+        "ausreichend"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "iyi",
+      "translations": [
+        "gut",
+        "schön"
       ],
       "usageExamples": [
         [
-          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
-          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst."
-        ],
-        [
-          "Benim için ne zaman vaktin olur?",
-          "Wann hast du Zeit für mich?"
-        ],
-        [
-          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
-          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen."
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
         ]
       ]
     },
     {
-      "content": "kafam",
+      "content": "öğrenilemez",
       "translations": [
-        "Kopf",
-        "Mein Kopf"
-      ],
-      "usageExamples": [
-        [
-          "Benim kafam karıştı.",
-          "Ich bin verwirrt."
-        ]
-      ]
-    },
-    {
-      "content": "çok",
-      "translations": [
-        "sehr",
-        "viel"
-      ],
-      "usageExamples": [
-        [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
-        ],
-        [
-          "Esperanto öğrenmek çok ilginçtir.",
-          "Esperanto zu lernen ist sehr interessant."
-        ],
-        [
-          "Çok fazla Fransızca konuşamam.",
-          "Ich spreche nicht viel Französisch."
-        ]
-      ]
-    },
-    {
-      "content": "karışıktı",
-      "translations": [
-        "es war kompliziert",
-        "es war verwirrend"
+        "unlernbare",
+        "nicht erlernbar"
       ],
       "usageExamples": []
     }

@@ -1,38 +1,56 @@
 {
-  "sentence": "ماليش إخوات صبيان.",
+  "sentence": "توم مبيعرفش يلعب تنس.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't have any brothers."
+    "Tom can't play tennis."
   ],
   "parts": [
     {
-      "content": "ماليش",
+      "content": "توم",
       "translations": [
-        "I don't have",
-        "I don't care.",
-        "It's not my problem.",
-        "I don't mind."
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "توم ممكن يقول لأهله.",
+          "Tom may tell his parents."
+        ],
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom."
+        ],
+        [
+          "توم مابصش عليها حتى.",
+          "Tom wouldn't even look at it."
+        ]
+      ]
+    },
+    {
+      "content": "مبيعرفش",
+      "translations": [
+        "doesn't know",
+        "isn't aware",
+        "has no idea",
+        "doesn't understand"
       ],
       "usageExamples": []
     },
     {
-      "content": "إخوات",
+      "content": "يلعب",
       "translations": [
-        "siblings",
-        "brothers and sisters",
-        "brothers",
-        "sisters"
+        "plays",
+        "is playing"
       ],
       "usageExamples": []
     },
     {
-      "content": "صبيان",
+      "content": "تنس",
       "translations": [
-        "boys",
-        "children",
-        "kids"
+        "tennis",
+        "to play tennis"
       ],
       "usageExamples": []
     }

@@ -1,63 +1,114 @@
 {
-  "sentence": "Bir dil yeterince iyi öğrenilemez.",
+  "sentence": "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Man kann keine Sprache genug beherrschen."
+    "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht."
   ],
   "parts": [
     {
-      "content": "Bir",
+      "content": "bilmediğin",
       "translations": [
-        "Ein",
-        "Eine"
+        "unbekannt",
+        "nicht gewusst",
+        "nicht bekannt"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "eins",
+        "ein"
       ],
       "usageExamples": [
         [
-          "Bir zamanlar kafam çok karışıktı.",
-          "Ich war einmal so verwirrt."
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache."
         ],
         [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen."
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!"
+        ],
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung."
         ]
       ]
     },
     {
-      "content": "dil",
+      "content": "şey",
       "translations": [
-        "Zunge",
-        "Sprache"
+        "Ding",
+        "Sache"
       ],
       "usageExamples": []
     },
     {
-      "content": "yeterince",
+      "content": "biliyorum",
       "translations": [
-        "genug",
-        "ausreichend"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "iyi",
-      "translations": [
-        "gut",
-        "schön"
+        "ich weiß",
+        "ich kenne"
       ],
       "usageExamples": [
         [
-          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
-          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
+          "Artık kimseye aşık olamayacağımı biliyorum.",
+          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde."
         ]
       ]
     },
     {
-      "content": "öğrenilemez",
+      "content": "ve",
       "translations": [
-        "unlernbare",
-        "nicht erlernbar"
+        "und",
+        "oder"
+      ],
+      "usageExamples": [
+        [
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen."
+        ],
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde."
+        ],
+        [
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?"
+        ]
+      ]
+    },
+    {
+      "content": "onu",
+      "translations": [
+        "das",
+        "es"
+      ],
+      "usageExamples": [
+        [
+          "Dün onu gördüm.",
+          "Ich habe sie gestern gesehen."
+        ],
+        [
+          "Babam onu ​​tanıyordu.",
+          "Mein Vater kannte ihn."
+        ]
+      ]
+    },
+    {
+      "content": "sana",
+      "translations": [
+        "dir",
+        "für dich"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "söylemeyeceğim",
+      "translations": [
+        "Ich werde es nicht sagen",
+        "Ich sage es nicht"
       ],
       "usageExamples": []
     }

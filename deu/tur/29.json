@@ -1,10 +1,10 @@
 {
-  "sentence": "Bu ücretsiz ulaşılabilir.",
+  "sentence": "Bu pasajı senin için özetlemek istiyorum.",
   "credits": [
     "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Das ist kostenlos erhältlich."
+    "Ich möchte diese Passage für dich zusammenfassen."
   ],
   "parts": [
     {
@@ -16,34 +16,81 @@
       ],
       "usageExamples": [
         [
-          "Bu kurallara aykırıdır.",
-          "Es ist gegen die Regeln."
+          "Bu da kim?",
+          "Wer ist das denn?"
         ],
         [
           "Bu sağduyu.",
           "Das entspricht dem gesunden Menschenverstand."
         ],
         [
-          "Bu da kim?",
-          "Wer ist das denn?"
+          "Bu ücretsiz ulaşılabilir.",
+          "Das ist kostenlos erhältlich."
         ]
       ]
     },
     {
-      "content": "ücretsiz",
+      "content": "pasajı",
       "translations": [
-        "kostenlos",
-        "gratis"
+        "Passage",
+        "Durchgang"
       ],
       "usageExamples": []
     },
     {
-      "content": "ulaşılabilir",
+      "content": "senin",
       "translations": [
-        "erreichbar",
-        "zugänglich"
+        "dein",
+        "deine"
+      ],
+      "usageExamples": [
+        [
+          "Ben senin babanı tanıyorum.",
+          "Ich kenne deinen Vater."
+        ]
+      ]
+    },
+    {
+      "content": "için",
+      "translations": [
+        "für",
+        "um zu"
+      ],
+      "usageExamples": [
+        [
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen."
+        ],
+        [
+          "Benim için ne zaman vaktin olur?",
+          "Wann hast du Zeit für mich?"
+        ],
+        [
+          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
+          "Ich muss für eine Spanienreise Spanisch lernen."
+        ]
+      ]
+    },
+    {
+      "content": "özetlemek",
+      "translations": [
+        "zusammenfassen",
+        "kurz darstellen"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "istiyorum",
+      "translations": [
+        "ich will",
+        "ich möchte"
+      ],
+      "usageExamples": [
+        [
+          "Size yardım etmek istiyorum.",
+          "Ich will dir helfen."
+        ]
+      ]
     }
   ]
 }

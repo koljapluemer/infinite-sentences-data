@@ -1,71 +1,75 @@
 {
-  "sentence": "Tom heyecanını zar zor bastırdı.",
+  "sentence": "Sensiz hayatımın bir anlamı yok.",
   "credits": [
     "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom could hardly contain his excitement."
+    "Without you, I have no reason to live."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "sensiz",
       "translations": [
-        "Tom",
-        "Tommy"
+        "without you",
+        "lacking you",
+        "in your absence"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hayatımın",
+      "translations": [
+        "my life",
+        "of my life"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
-        [
-          "Seni öldüremedim, Tom.",
-          "I couldn't kill you, Tom."
-        ],
         [
           "Tom kötü bir golfçü.",
           "Tom is a bad golfer."
         ],
         [
-          "Tom bütün hafta cümleleri çalıştı bu yüzden hepsini doğru olarak yazabilmeliydi.",
-          "Tom studied the sentences all week so he should have been able to write all correctly."
+          "Sen gerçek bir zavallısın.",
+          "You're a real loser."
+        ],
+        [
+          "O benim bir kuzenimle evli.",
+          "She's married to a cousin of mine."
         ]
       ]
     },
     {
-      "content": "heyecan",
+      "content": "anlamı",
       "translations": [
-        "excitement",
-        "enthusiasm",
-        "anxiety",
-        "nervousness"
+        "meaning",
+        "significance",
+        "definition",
+        "interpretation"
       ],
       "usageExamples": []
     },
     {
-      "content": "zar",
+      "content": "yok",
       "translations": [
-        "money",
-        "cash",
-        "dough",
-        "bucks"
+        "none",
+        "not available",
+        "no",
+        "absent"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "zor",
-      "translations": [
-        "hard",
-        "difficult",
-        "tough"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bastırdı",
-      "translations": [
-        "suppressed",
-        "repressed",
-        "overcame",
-        "crushed"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'un ayakkabılarını çıkarmasına gerek yok.",
+          "Tom doesn't need to take his shoes off."
+        ]
+      ]
     }
   ]
 }

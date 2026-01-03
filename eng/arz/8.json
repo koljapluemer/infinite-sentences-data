@@ -1,37 +1,45 @@
 {
-  "sentence": "اقعد فى بيتك.",
+  "sentence": "إفتح النور لو سمحت.",
   "credits": [
-    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Stay home."
+    "Turn on the light, please."
   ],
   "parts": [
     {
-      "content": "اقعد",
+      "content": "إفتح",
       "translations": [
-        "sit down",
-        "sit",
-        "take a seat"
+        "Open",
+        "Unlock.",
+        "Turn on",
+        "Access"
       ],
       "usageExamples": []
     },
     {
-      "content": "فى",
+      "content": "النور",
       "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
+        "the light",
+        "light"
       ],
       "usageExamples": []
     },
     {
-      "content": "بيتك",
+      "content": "لو",
       "translations": [
-        "your house",
-        "your home",
-        "your place"
+        "if",
+        "whether"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "سمحت",
+      "translations": [
+        "I allowed",
+        "I permitted",
+        "I let",
+        "I granted"
       ],
       "usageExamples": []
     }

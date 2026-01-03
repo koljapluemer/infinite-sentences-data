@@ -1,82 +1,50 @@
 {
-  "sentence": "توم، سيب أختَك في حالها.",
+  "sentence": "بعمل 100 يورو فاليوم.",
   "credits": [
     "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom, leave your sister alone."
+    "I make €100 a day."
   ],
   "parts": [
     {
-      "content": "توم",
+      "content": "بعمل",
       "translations": [
-        "you",
-        "you (singular)"
+        "I do",
+        "I make",
+        "I work.",
+        "I perform"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "100",
+      "translations": [
+        "one hundred",
+        "100"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يورو",
+      "translations": [
+        "Euro",
+        "EUR"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "فاليوم",
+      "translations": [
+        "today",
+        "this day"
       ],
       "usageExamples": [
         [
-          "توم مبيعرفش يلعب تنس.",
-          "Tom can't play tennis."
-        ],
-        [
-          "توم مابصش عليها حتى.",
-          "Tom wouldn't even look at it."
-        ],
-        [
-          "توم بيشارك في أنشطة خارجية كتيرة.",
-          "Tom participates in many extracurricular activities."
+          "توم بيعوم كام ساعه فاليوم؟",
+          "How many hours a day does Tom swim?"
         ]
       ]
-    },
-    {
-      "content": "سيب",
-      "translations": [
-        "leave it",
-        "let it be",
-        "forget it",
-        "drop it"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أختَك",
-      "translations": [
-        "your sister",
-        "sister of yours"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "في",
-      "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
-      ],
-      "usageExamples": [
-        [
-          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
-          "I think being poor is nothing to be ashamed of."
-        ],
-        [
-          "منقدرش نشتغل في الحر ده.",
-          "We can't work in this heat."
-        ],
-        [
-          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
-          "You're the only one working here who can speak French."
-        ]
-      ]
-    },
-    {
-      "content": "حالها",
-      "translations": [
-        "her condition",
-        "her situation",
-        "her state"
-      ],
-      "usageExamples": []
     }
   ]
 }

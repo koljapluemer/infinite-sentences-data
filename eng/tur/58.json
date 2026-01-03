@@ -1,10 +1,10 @@
 {
-  "sentence": "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
+  "sentence": "Tom bana aslında onu yapmak istemediğini söyledi.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom said he didn't know who Mary was getting married to."
+    "Tom told me he didn't actually want to do that."
   ],
   "parts": [
     {
@@ -15,55 +15,84 @@
       ],
       "usageExamples": [
         [
-          "Seni öldüremedim, Tom.",
-          "I couldn't kill you, Tom."
-        ],
-        [
           "Tom kötü bir golfçü.",
           "Tom is a bad golfer."
         ],
         [
-          "Tom bana aslında onu yapmak istemediğini söyledi.",
-          "Tom told me he didn't actually want to do that."
+          "Seni öldüremedim, Tom.",
+          "I couldn't kill you, Tom."
+        ],
+        [
+          "Tom annemin erkek kardeşi.",
+          "Tom is my mother's brother."
         ]
       ]
     },
     {
-      "content": "Mary",
+      "content": "bana",
       "translations": [
-        "Mary",
-        "Maria"
+        "to me",
+        "for me",
+        "give me"
       ],
       "usageExamples": [
         [
-          "Tom Mary ile konuşmayı bırakamadı.",
-          "Tom couldn't stop talking to Mary."
+          "Onu görmem için bana izin verilmedi.",
+          "I wasn't permitted to see him."
+        ],
+        [
+          "Bunun için bana ne vereceksin?",
+          "What'll you give me for this?"
         ]
       ]
     },
     {
-      "content": "kiminle",
+      "content": "aslında",
       "translations": [
-        "with whom",
-        "who with"
+        "actually",
+        "in fact",
+        "essentially",
+        "really"
       ],
       "usageExamples": []
     },
     {
-      "content": "evlendiğini",
+      "content": "onu",
       "translations": [
-        "you got married",
-        "you are married"
+        "that",
+        "it",
+        "him/her"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Onu hemen yapman gerekmiyor.",
+          "You don't have to do it right away."
+        ],
+        [
+          "Onu yazmamalıydık.",
+          "We shouldn't have written that."
+        ]
+      ]
     },
     {
-      "content": "bilmediğini",
+      "content": "yapmak",
       "translations": [
-        "you don't know it",
-        "that you don't know",
-        "not knowing it",
-        "what you don't know"
+        "to do",
+        "to make"
+      ],
+      "usageExamples": [
+        [
+          "Bunu yapmak zorunda kalacak üç adamdan biriyim.",
+          "I'm one of the three guys who'll have to do that."
+        ]
+      ]
+    },
+    {
+      "content": "istemediğini",
+      "translations": [
+        "what you don't want",
+        "that which you do not want",
+        "the thing you don't want"
       ],
       "usageExamples": []
     },
@@ -76,8 +105,8 @@
       ],
       "usageExamples": [
         [
-          "Tom bana aslında onu yapmak istemediğini söyledi.",
-          "Tom told me he didn't actually want to do that."
+          "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
+          "Tom said he didn't know who Mary was getting married to."
         ]
       ]
     }

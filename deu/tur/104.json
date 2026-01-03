@@ -1,33 +1,69 @@
 {
-  "sentence": "Türkçe konuşur musunuz?",
+  "sentence": "Tom'dan korktuğumu kim söylüyor?",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sprechen Sie Türkisch?"
+    "Wer sagt, dass ich Angst vor Tom hätte?"
   ],
   "parts": [
     {
-      "content": "Türkçe",
+      "content": "Tom",
       "translations": [
-        "Türkisch",
-        "Türkische Sprache"
+        "Tom",
+        "Tomas"
+      ],
+      "usageExamples": [
+        [
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen."
+        ],
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?"
+        ],
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
+        ]
+      ]
+    },
+    {
+      "content": "dan",
+      "translations": [
+        "von",
+        "aus"
       ],
       "usageExamples": []
     },
     {
-      "content": "konuşur",
+      "content": "korktuğumu",
       "translations": [
-        "spricht",
-        "redet"
+        "ich habe Angst",
+        "ich habe Angst gehabt"
       ],
       "usageExamples": []
     },
     {
-      "content": "musunuz",
+      "content": "kim",
       "translations": [
-        "sind Sie",
-        "bist du"
+        "wer",
+        "jemand"
+      ],
+      "usageExamples": [
+        [
+          "Bu da kim?",
+          "Wer ist das denn?"
+        ]
+      ]
+    },
+    {
+      "content": "söylüyor",
+      "translations": [
+        "sagt",
+        "er sagt",
+        "sie sagt",
+        "man sagt"
       ],
       "usageExamples": []
     }

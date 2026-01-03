@@ -1,71 +1,97 @@
 {
-  "sentence": "Peki, ona ne denir?",
+  "sentence": "Onu görmem için bana izin verilmedi.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Well, what's it called?"
+    "I wasn't permitted to see him."
   ],
   "parts": [
     {
-      "content": "Peki",
+      "content": "Onu",
       "translations": [
-        "Okay.",
-        "Alright.",
-        "Well",
-        "Fine"
+        "him",
+        "it"
       ],
       "usageExamples": []
     },
     {
-      "content": "ona",
+      "content": "görmem",
       "translations": [
-        "her",
-        "to her",
-        "that one",
-        "it"
+        "I don't see",
+        "I won't see",
+        "not seeing",
+        "to not see"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "için",
+      "translations": [
+        "for",
+        "in order to",
+        "to",
+        "because of"
       ],
       "usageExamples": [
         [
-          "Biz ona birkaç tane elma verdik.",
-          "We gave her some apples."
+          "En kötüsü için hazırlanıyorum.",
+          "I'm getting ready for the worst."
         ],
         [
-          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
-          "His last album garnered him a fourth Grammy award."
+          "Yardım etmek için muhtemelen ne yapabilirim?",
+          "What can I possibly do to help?"
+        ],
+        [
+          "Bunun için bana ne vereceksin?",
+          "What'll you give me for this?"
         ]
       ]
     },
     {
-      "content": "ne",
+      "content": "bana",
       "translations": [
-        "what",
-        "huh",
-        "right",
-        "no way"
+        "to me",
+        "for me",
+        "give me"
       ],
       "usageExamples": [
-        [
-          "O istasyonun adı ne?",
-          "What's the name of that station?"
-        ],
         [
           "Bunun için bana ne vereceksin?",
           "What'll you give me for this?"
         ],
         [
-          "Yaralılar ne kadar kan kaybetti?",
-          "How much blood has the injured lost?"
+          "Tom bana aslında onu yapmak istemediğini söyledi.",
+          "Tom told me he didn't actually want to do that."
         ]
       ]
     },
     {
-      "content": "denir",
+      "content": "izin",
       "translations": [
-        "it is said",
-        "they say",
-        "one says",
-        "it is told"
+        "permission",
+        "leave",
+        "authorization",
+        "license"
+      ],
+      "usageExamples": [
+        [
+          "Onların işlerini yapmasına izin ver.",
+          "Let them do their jobs."
+        ],
+        [
+          "Polisin sorunla ilgilenmesine izin vermeliydik.",
+          "We should've let the police handle the problem."
+        ]
+      ]
+    },
+    {
+      "content": "verilmedi",
+      "translations": [
+        "not given",
+        "not provided",
+        "not granted",
+        "not delivered"
       ],
       "usageExamples": []
     }

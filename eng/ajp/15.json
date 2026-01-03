@@ -1,64 +1,73 @@
 {
-  "sentence": "قضى كل بعد الظهر بلعب التنس.",
+  "sentence": "توم ما حتى فتح الظرف.",
   "credits": [
     "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom spent the whole afternoon playing tennis."
+    "Tom didn't even open the envelope."
   ],
   "parts": [
     {
-      "content": "قضى",
+      "content": "توم",
       "translations": [
-        "to spend",
-        "to pass",
-        "to fulfill",
-        "to execute"
+        "Tom",
+        "You"
+      ],
+      "usageExamples": [
+        [
+          "توم كان بطلي.",
+          "Tom was my hero."
+        ],
+        [
+          "توم قدر يصلح الراديو المكسور.",
+          "Tom was able to repair the broken radio."
+        ],
+        [
+          "أنا متأكد أنه توم بيفهم هاد.",
+          "I'm sure Tom understands that."
+        ]
+      ]
+    },
+    {
+      "content": "ما",
+      "translations": [
+        "what",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "ما بدنا حل سلمي.",
+          "We don't want a peaceful solution."
+        ]
+      ]
+    },
+    {
+      "content": "حتى",
+      "translations": [
+        "until",
+        "even",
+        "as far as",
+        "up to"
       ],
       "usageExamples": []
     },
     {
-      "content": "كل",
+      "content": "فتح",
       "translations": [
-        "all",
-        "every",
-        "each"
+        "open",
+        "unlock",
+        "start",
+        "begin"
       ],
       "usageExamples": []
     },
     {
-      "content": "بعد",
+      "content": "الظرف",
       "translations": [
-        "after",
-        "following",
-        "later",
-        "next"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "الظهر",
-      "translations": [
-        "the back",
-        "the afternoon",
-        "the spine"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بلعب",
-      "translations": [
-        "I play",
-        "He/She plays",
-        "Playing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "التنس",
-      "translations": [
-        "tennis",
-        "the game of tennis"
+        "the circumstance",
+        "the condition",
+        "the envelope",
+        "the situation"
       ],
       "usageExamples": []
     }

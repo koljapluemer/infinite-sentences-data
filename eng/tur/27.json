@@ -1,55 +1,42 @@
 {
-  "sentence": "Neden biraz elma almıyoruz?",
+  "sentence": "Lütfen rahatınıza bakın.",
   "credits": [
-    "Sentence from Tatoeba by SSibelty (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why don't we buy some apples?"
+    "Please make yourselves comfortable."
   ],
   "parts": [
     {
-      "content": "Neden",
+      "content": "Lütfen",
       "translations": [
-        "Why",
-        "What for",
-        "For what reason"
+        "Please.",
+        "Kindly"
+      ],
+      "usageExamples": [
+        [
+          "Lütfen güncel tutun.",
+          "Please keep us updated."
+        ]
+      ]
+    },
+    {
+      "content": "rahatınıza",
+      "translations": [
+        "to your comfort",
+        "for your convenience",
+        "for your ease",
+        "to your relaxation"
       ],
       "usageExamples": []
     },
     {
-      "content": "biraz",
+      "content": "bakın",
       "translations": [
-        "a little",
-        "somewhat",
-        "a bit"
-      ],
-      "usageExamples": [
-        [
-          "Biraz yardıma ihtiyacın olabileceğini düşündüm.",
-          "I thought you might need some help."
-        ]
-      ]
-    },
-    {
-      "content": "elma",
-      "translations": [
-        "apple",
-        "fruit"
-      ],
-      "usageExamples": [
-        [
-          "Biz ona birkaç tane elma verdik.",
-          "We gave her some apples."
-        ]
-      ]
-    },
-    {
-      "content": "almıyoruz",
-      "translations": [
-        "we are not taking",
-        "we do not accept",
-        "we are not receiving",
-        "we are not getting"
+        "look",
+        "see",
+        "check it out",
+        "take a look"
       ],
       "usageExamples": []
     }

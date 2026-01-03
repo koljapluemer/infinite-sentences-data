@@ -1,33 +1,33 @@
 {
-  "sentence": "مرحبا. كيفك؟",
+  "sentence": "عندي قاموس منيح.",
   "credits": [
     "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hello! How are you?",
-    "Hello, how are you doing?",
-    "Hello, how are you?",
-    "Hi, how are you?",
-    "Hi. How are you doing?"
+    "I have a good dictionary."
   ],
   "parts": [
     {
-      "content": "مرحبا",
+      "content": "عندي",
       "translations": [
-        "Hello.",
-        "Hi.",
-        "Greetings",
-        "Welcome."
+        "I have",
+        "I possess",
+        "I own"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
+          "I have a cat and a dog. The cat's black and the dog's white."
+        ]
+      ]
     },
     {
-      "content": "كيفك",
+      "content": "منيح",
       "translations": [
-        "How are you?",
-        "How's it going?",
-        "How do you do?",
-        "What's up?"
+        "good",
+        "well",
+        "fine",
+        "okay"
       ],
       "usageExamples": []
     }

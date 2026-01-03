@@ -1,83 +1,42 @@
 {
-  "sentence": "توم في نص الميتينج بتاعه.",
+  "sentence": "بتتعلمي لغات إيه؟",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by atitarev (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is in the middle of his meeting."
+    "What languages are you learning?"
   ],
   "parts": [
     {
-      "content": "توم",
+      "content": "بتتعلمي",
       "translations": [
-        "you",
-        "you (singular)"
+        "You are learning",
+        "You are being taught"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "لغات",
+      "translations": [
+        "languages",
+        "tongues"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "إيه",
+      "translations": [
+        "Yes.",
+        "Yeah",
+        "Okay.",
+        "Alright."
       ],
       "usageExamples": [
         [
-          "توم مابصش عليها حتى.",
-          "Tom wouldn't even look at it."
-        ],
-        [
-          "توم مبيعرفش يلعب تنس.",
-          "Tom can't play tennis."
-        ],
-        [
-          "توم كان مشغول وأنا كمان كنت مشغول.",
-          "Tom was busy and so was I."
+          "إيه اللي انت أكلته؟",
+          "What did you have to eat?"
         ]
       ]
-    },
-    {
-      "content": "في",
-      "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
-      ],
-      "usageExamples": [
-        [
-          "واحدة وقعت من مركب في البحر.",
-          "A woman fell from a ship into the sea."
-        ],
-        [
-          "فِضْلوا معايا في الاوضه طول الليل.",
-          "They stayed in the room with me for the whole night."
-        ],
-        [
-          "منقدرش نشتغل في الحر ده.",
-          "We can't work in this heat."
-        ]
-      ]
-    },
-    {
-      "content": "نص",
-      "translations": [
-        "text",
-        "script",
-        "content"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "الميتينج",
-      "translations": [
-        "the meeting",
-        "the gathering",
-        "the conference"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بتاعه",
-      "translations": [
-        "his thing",
-        "that thing",
-        "his stuff",
-        "that one"
-      ],
-      "usageExamples": []
     }
   ]
 }

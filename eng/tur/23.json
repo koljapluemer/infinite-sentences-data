@@ -1,45 +1,47 @@
 {
-  "sentence": "Leyla türbanını çıkarmayı düşünüyordu.",
+  "sentence": "Kendimi çok sıkıyorum.",
   "credits": [
-    "Sentence from Tatoeba by SadeceTurkce (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Layla was thinking about taking her hijab off."
+    "I'm really hard on myself."
   ],
   "parts": [
     {
-      "content": "Leyla",
+      "content": "Kendimi",
       "translations": [
-        "Leyla",
-        "Layla"
+        "myself",
+        "I myself",
+        "me"
       ],
       "usageExamples": []
     },
     {
-      "content": "türban",
+      "content": "çok",
       "translations": [
-        "headscarf",
-        "turban"
+        "very",
+        "a lot",
+        "many",
+        "much"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bu soba çok fazla tütüyor.",
+          "That stove smokes too much."
+        ],
+        [
+          "O dil çok hoş geliyor.",
+          "That language sounds very pretty."
+        ]
+      ]
     },
     {
-      "content": "çıkarmak",
+      "content": "sıkıyorum",
       "translations": [
-        "to take out",
-        "to remove",
-        "to extract",
-        "to issue"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "düşünmek",
-      "translations": [
-        "to think",
-        "to consider",
-        "to reflect",
-        "to ponder"
+        "I'm squeezing",
+        "I'm pressing",
+        "I'm tightening",
+        "I'm constricting"
       ],
       "usageExamples": []
     }

@@ -1,59 +1,218 @@
 {
-  "sentence": "Kapıyı kapatmama izin veriniz.",
+  "sentence": "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
   "credits": [
     "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Erlauben Sie mir, die Tür zu schließen."
+    "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
   ],
   "parts": [
     {
-      "content": "kapıyı",
+      "content": "Her",
       "translations": [
-        "die Tür",
-        "zum Tür"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "kapatmama",
-      "translations": [
-        "nicht schließen",
-        "nicht zumachen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "izin",
-      "translations": [
-        "Genehmigung",
-        "Erlaubnis"
+        "Hier",
+        "Da"
       ],
       "usageExamples": [
         [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
-        ],
-        [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen."
-        ],
-        [
-          "İzin olmadan pazar tezgahı kurulamaz mı?",
-          "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
+          "Her gülüşünde bir yerlerde bir problem ölür.",
+          "Immer wenn du lachst, stirbt irgendwo ein Problem."
         ]
       ]
     },
     {
-      "content": "veriniz",
+      "content": "anne",
       "translations": [
-        "bitte",
-        "geben Sie mir"
+        "Mutter",
+        "Mama"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kızının",
+      "translations": [
+        "deine Tochter",
+        "Tochter"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kendisi",
+      "translations": [
+        "er selbst",
+        "sie selbst"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "daha",
+      "translations": [
+        "mehr",
+        "noch"
       ],
       "usageExamples": [
         [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen."
+          "Seni başlangıçta planlanandan daha çok seviyorum.",
+          "Ich liebe dich ein bisschen mehr als ursprünglich geplant."
+        ],
+        [
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen."
+        ],
+        [
+          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
+          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!"
+        ]
+      ]
+    },
+    {
+      "content": "iyi",
+      "translations": [
+        "gut",
+        "schön"
+      ],
+      "usageExamples": [
+        [
+          "Bir dil yeterince iyi öğrenilemez.",
+          "Man kann keine Sprache genug beherrschen."
+        ]
+      ]
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "eins",
+        "ein"
+      ],
+      "usageExamples": [
+        [
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze."
+        ],
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung."
+        ]
+      ]
+    },
+    {
+      "content": "koca",
+      "translations": [
+        "Ehemann",
+        "Mann",
+        "Ehepartner"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bulacağını",
+      "translations": [
+        "wird sein",
+        "wird werden"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "umar",
+      "translations": [
+        "Umar",
+        "Alter"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ve",
+      "translations": [
+        "und",
+        "oder"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?"
+        ],
+        [
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht."
+        ],
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde."
+        ]
+      ]
+    },
+    {
+      "content": "oğlunun",
+      "translations": [
+        "deines Sohnes",
+        "dein Sohn"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "asla",
+      "translations": [
+        "niemals",
+        "nie",
+        "auf keinen Fall"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "babası",
+      "translations": [
+        "Vater",
+        "Papa"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kadar",
+      "translations": [
+        "bis",
+        "so viel wie"
+      ],
+      "usageExamples": [
+        [
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen."
+        ],
+        [
+          "Neden bu kadar uzun düşünüyorsun?",
+          "Warum überlegen Sie so lange?"
+        ]
+      ]
+    },
+    {
+      "content": "eş",
+      "translations": [
+        "und",
+        "sowie"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bulamayacağına",
+      "translations": [
+        "nicht finden kann",
+        "nicht erreichen kann"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "inanır",
+      "translations": [
+        "glauben",
+        "vertrauen"
+      ],
+      "usageExamples": [
+        [
+          "İlk görüşte aşka inanır mısınız?",
+          "Glauben Sie an die Liebe auf den ersten Blick?"
         ]
       ]
     }

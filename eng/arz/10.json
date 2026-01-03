@@ -1,48 +1,62 @@
 {
-  "sentence": "المجرم ارتكب جريمة فظيعة.",
+  "sentence": "إيه اللي انت أكلته؟",
   "credits": [
-    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The criminal committed a horrible crime."
+    "What did you have to eat?"
   ],
   "parts": [
     {
-      "content": "المجرم",
+      "content": "إيه",
       "translations": [
-        "the criminal",
-        "the offender",
-        "the perpetrator"
+        "Yes.",
+        "Yeah",
+        "Okay.",
+        "Alright."
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "بتتعلمي لغات إيه؟",
+          "What languages are you learning?"
+        ]
+      ]
     },
     {
-      "content": "ارتكب",
+      "content": "اللي",
       "translations": [
-        "committed",
-        "perpetrated",
-        "engaged in",
-        "carried out"
+        "who",
+        "that"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "اديتلو كل الفلوس اللي كت عندي.",
+          "I gave him what money I had."
+        ],
+        [
+          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
+          "You're the only one working here who can speak French."
+        ]
+      ]
     },
     {
-      "content": "جريمة",
+      "content": "انت",
       "translations": [
-        "crime",
-        "offense",
-        "felony",
-        "wrongdoing"
+        "you",
+        "you (singular)"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
+          "You're the only one working here who can speak French."
+        ]
+      ]
     },
     {
-      "content": "فظيعة",
+      "content": "أكلته",
       "translations": [
-        "terrible",
-        "awful",
-        "horrible",
-        "dreadful"
+        "I ate it.",
+        "I have eaten it"
       ],
       "usageExamples": []
     }

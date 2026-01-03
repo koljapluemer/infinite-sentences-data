@@ -1,71 +1,46 @@
 {
-  "sentence": "O benim için gerçekten eğlenceliydi.",
+  "sentence": "Neler olduğunu biliyor musun?",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That was really fun for me."
+    "Do you know what's going on?"
   ],
   "parts": [
     {
-      "content": "o",
+      "content": "Neler",
       "translations": [
-        "oh",
-        "o"
-      ],
-      "usageExamples": [
-        [
-          "Bunu o şekilde seviyorum.",
-          "I like it that way."
-        ]
-      ]
-    },
-    {
-      "content": "benim",
-      "translations": [
-        "my",
-        "mine"
+        "What things",
+        "What else",
+        "What are they",
+        "What is happening"
       ],
       "usageExamples": []
     },
     {
-      "content": "için",
+      "content": "olduğunu",
       "translations": [
-        "for",
-        "in order to",
-        "to",
-        "because of"
-      ],
-      "usageExamples": [
-        [
-          "En kötüsü için hazırlanıyorum.",
-          "I'm getting ready for the worst."
-        ],
-        [
-          "Onu görmem için bana izin verilmedi.",
-          "I wasn't permitted to see him."
-        ],
-        [
-          "Bunun için bana ne vereceksin?",
-          "What'll you give me for this?"
-        ]
-      ]
-    },
-    {
-      "content": "gerçekten",
-      "translations": [
-        "really",
-        "truly",
-        "actually",
-        "genuinely"
+        "that it is",
+        "that it was",
+        "being",
+        "having been"
       ],
       "usageExamples": []
     },
     {
-      "content": "eğlenceliydi",
+      "content": "biliyor",
       "translations": [
-        "It was fun.",
-        "It was enjoyable."
+        "knows",
+        "is aware of"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "musun",
+      "translations": [
+        "are you",
+        "do you have",
+        "do you want"
       ],
       "usageExamples": []
     }

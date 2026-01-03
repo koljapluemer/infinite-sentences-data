@@ -1,63 +1,103 @@
 {
-  "sentence": "الرجل الكبير سكن بالشقة بتلات غرف.",
+  "sentence": "إنه مش زي عندي إشي أحسن عشان أعمل.",
   "credits": [
     "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The old man lived in the three-room apartment."
+    "It's not as if I have anything better to do."
   ],
   "parts": [
     {
-      "content": "الرجل",
+      "content": "إنه",
       "translations": [
-        "the man",
-        "man"
+        "It is",
+        "He is",
+        "That is"
       ],
       "usageExamples": []
     },
     {
-      "content": "الكبير",
+      "content": "مش",
       "translations": [
-        "the big",
-        "the great",
-        "the elder",
-        "the senior"
+        "not",
+        "no",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "مش معقول!",
+          "Unbelievable!"
+        ],
+        [
+          "أنا مش لابس هالزي الغبي.",
+          "I'm not wearing that stupid costume."
+        ],
+        [
+          "مش جاي عبالي أطلع الليلة",
+          "I don't feel like going out this evening."
+        ]
+      ]
+    },
+    {
+      "content": "زي",
+      "translations": [
+        "like",
+        "as",
+        "similar to"
       ],
       "usageExamples": []
     },
     {
-      "content": "سكن",
+      "content": "عندي",
       "translations": [
-        "residence",
-        "housing",
-        "dwelling",
-        "accommodation"
+        "I have",
+        "I own",
+        "I possess"
+      ],
+      "usageExamples": [
+        [
+          "عندي بسة.",
+          "I have a cat."
+        ]
+      ]
+    },
+    {
+      "content": "إشي",
+      "translations": [
+        "thing",
+        "stuff",
+        "something",
+        "item"
       ],
       "usageExamples": []
     },
     {
-      "content": "بالشقة",
+      "content": "أحسن",
       "translations": [
-        "in the apartment",
-        "at the apartment"
+        "better",
+        "best",
+        "improved",
+        "excellent"
       ],
       "usageExamples": []
     },
     {
-      "content": "بتلات",
+      "content": "عشان",
       "translations": [
-        "petals",
-        "flower petals"
+        "because",
+        "in order to",
+        "for the sake of",
+        "so that"
       ],
       "usageExamples": []
     },
     {
-      "content": "غرف",
+      "content": "أعمل",
       "translations": [
-        "rooms",
-        "chambers",
-        "halls",
-        "spaces"
+        "I work.",
+        "I do",
+        "I am working.",
+        "I make"
       ],
       "usageExamples": []
     }

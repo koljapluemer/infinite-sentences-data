@@ -1,41 +1,82 @@
 {
-  "sentence": "هي بتحكي عربي شويه.",
+  "sentence": "كان مشكوك فيها انو هية جاسوسة.",
   "credits": [
-    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She speaks a little Arabic."
+    "She was suspected of being a spy."
   ],
   "parts": [
     {
-      "content": "هي",
+      "content": "كان",
       "translations": [
-        "she",
-        "her"
+        "was",
+        "were",
+        "has been"
       ],
       "usageExamples": [
         [
-          "توم بيفهم اللي هي ما بتفهم.",
-          "Tom understands what you don't."
+          "كان في مرّة...",
+          "Once upon a time..."
+        ],
+        [
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that."
         ]
       ]
     },
     {
-      "content": "بتحكي",
+      "content": "مشكوك",
       "translations": [
-        "She is talking.",
-        "You are talking",
-        "He is speaking."
+        "doubtful",
+        "questionable"
       ],
       "usageExamples": []
     },
     {
-      "content": "شويه",
+      "content": "فيها",
       "translations": [
-        "a little",
-        "some",
-        "a bit",
-        "slightly"
+        "in it"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "انو",
+      "translations": [
+        "this",
+        "that",
+        "it"
+      ],
+      "usageExamples": [
+        [
+          "البربر بيقولوا انو لغتهم اسمها تامازايت.",
+          "Berbers call their language Tamazight."
+        ],
+        [
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that."
+        ],
+        [
+          "ماري قالت انو مالا مخططا تعمل هيك",
+          "Mary said she's not planning on doing that."
+        ]
+      ]
+    },
+    {
+      "content": "هية",
+      "translations": [
+        "it is",
+        "she is",
+        "he is",
+        "this is"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "جاسوسة",
+      "translations": [
+        "spy",
+        "informant"
       ],
       "usageExamples": []
     }

@@ -1,77 +1,54 @@
 {
-  "sentence": "İzin olmadan pazar tezgahı kurulamaz mı?",
+  "sentence": "Yani yalan söylediğimi iddia ediyorsunuz.",
   "credits": [
     "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
+    "Sie behaupten also, dass ich lüge."
   ],
   "parts": [
     {
-      "content": "izin",
+      "content": "yani",
       "translations": [
-        "Genehmigung",
-        "Erlaubnis"
-      ],
-      "usageExamples": [
-        [
-          "Kapıyı kapatmama izin veriniz.",
-          "Erlauben Sie mir, die Tür zu schließen."
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
-        ],
-        [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen."
-        ]
-      ]
-    },
-    {
-      "content": "olmadan",
-      "translations": [
-        "ohne",
-        "ohne zu"
+        "das heißt",
+        "also",
+        "nämlich"
       ],
       "usageExamples": []
     },
     {
-      "content": "pazar",
+      "content": "yalan",
       "translations": [
-        "Markt",
-        "Basar"
+        "Lüge",
+        "Falschheit"
       ],
       "usageExamples": []
     },
     {
-      "content": "tezgah",
+      "content": "söylediğimi",
       "translations": [
-        "Theke",
-        "Verkaufstresen"
+        "was gesagt habe",
+        "was ich gesagt habe"
       ],
       "usageExamples": []
     },
     {
-      "content": "kurulamaz",
+      "content": "iddia",
       "translations": [
-        "nicht eingerichtet",
-        "nicht installiert"
+        "Wette",
+        "Einsatz"
       ],
       "usageExamples": []
     },
     {
-      "content": "mı",
+      "content": "ediyorsunuz",
       "translations": [
-        "ob",
-        "ob nicht"
+        "Sie tun",
+        "Sie machen",
+        "Sie sind am ...",
+        "Sie betreiben"
       ],
-      "usageExamples": [
-        [
-          "O nasıl? Yaşlı mı, genç mi?",
-          "Wie ist er? Alt, oder jung?"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

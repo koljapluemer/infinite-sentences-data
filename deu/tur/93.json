@@ -1,54 +1,97 @@
 {
-  "sentence": "Tom sonuçları analiz etti.",
+  "sentence": "Son zamanlarda daha az hasta bana geliyor.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom analysierte die Ergebnisse."
+    "In letzter Zeit kamen immer weniger Patienten zu mir."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Son",
       "translations": [
-        "Tom",
-        "Tomas"
+        "Sohn",
+        "Sohnemann"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "zamanlarda",
+      "translations": [
+        "zu dieser Zeit",
+        "in diesen Zeiten"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "daha",
+      "translations": [
+        "mehr",
+        "noch"
       ],
       "usageExamples": [
         [
-          "Tom gelince, gidiyorum.",
-          "Wenn Tom kommt, gehe ich."
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
         ],
         [
-          "Tom Boston'da kalıyor.",
-          "Tom bleibt in Boston."
+          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
+          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst."
         ],
         [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist."
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen."
         ]
       ]
     },
     {
-      "content": "sonuçları",
+      "content": "az",
       "translations": [
-        "Ergebnisse",
-        "Resultate"
+        "schlecht",
+        "wenig"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen."
+        ]
+      ]
     },
     {
-      "content": "analiz",
+      "content": "hasta",
       "translations": [
-        "Analyse",
-        "Analysieren"
+        "Krücke",
+        "Stock"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'un çocukları hasta.",
+          "Toms Kinder sind krank."
+        ]
+      ]
     },
     {
-      "content": "etti",
+      "content": "bana",
       "translations": [
-        "acht",
-        "acht Stück"
+        "mir",
+        "zu mir"
+      ],
+      "usageExamples": [
+        [
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen."
+        ],
+        [
+          "Bu şarkı bana birini hatırlatıyor.",
+          "Dieses Lied erinnert mich an jemanden."
+        ]
+      ]
+    },
+    {
+      "content": "geliyor",
+      "translations": [
+        "kommt",
+        "kommt gerade"
       ],
       "usageExamples": []
     }

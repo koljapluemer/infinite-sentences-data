@@ -1,47 +1,54 @@
 {
-  "sentence": "Bunu neden istediğini sormayacağım.",
+  "sentence": "Bugün Tom, Mary'yi gördü.",
   "credits": [
-    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich werde nicht fragen, warum du das willst."
+    "Tom hat Mary heute gesehen."
   ],
   "parts": [
     {
-      "content": "Bunu",
+      "content": "Bugün",
       "translations": [
-        "Das hier",
-        "Das"
+        "Heute",
+        "Heute Abend"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "Bunu yapabileceğimizi düşündüm.",
-          "Ich dachte, dass wir es tun konnten."
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich."
+        ],
+        [
+          "Tom beni arıyor mu?",
+          "Sucht Tom nach mir?"
+        ],
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
         ]
       ]
     },
     {
-      "content": "neden",
+      "content": "Mary'yi",
       "translations": [
-        "warum",
-        "wieso",
-        "weshalb"
+        "Mary",
+        "Maria"
       ],
       "usageExamples": []
     },
     {
-      "content": "istediğini",
+      "content": "gördü",
       "translations": [
-        "was du willst",
-        "was du möchtest"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sormayacağım",
-      "translations": [
-        "ich werde nicht fragen",
-        "ich werde nicht ansprechen"
+        "sahip oldu",
+        "gördü"
       ],
       "usageExamples": []
     }

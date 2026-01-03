@@ -1,39 +1,95 @@
 {
-  "sentence": "كين ولع الشمع.",
+  "sentence": "توم كان مشغول وأنا كمان كنت مشغول.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ken lit the candles."
+    "Tom was busy and so was I."
   ],
   "parts": [
     {
-      "content": "كين",
+      "content": "توم",
       "translations": [
-        "sure",
-        "of course",
-        "yeah",
-        "okay"
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "توم اضطر يروح المستشفى.",
+          "Tom had to go to the hospital."
+        ],
+        [
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis."
+        ],
+        [
+          "توم مابصش عليها حتى.",
+          "Tom wouldn't even look at it."
+        ]
+      ]
+    },
+    {
+      "content": "كان",
+      "translations": [
+        "was",
+        "were",
+        "used to be"
+      ],
+      "usageExamples": [
+        [
+          "كان محتاج نضّارة.",
+          "He needed glasses."
+        ],
+        [
+          "نانسي كان شكلها تعبانة خالص.",
+          "Nancy looks so tired."
+        ]
+      ]
+    },
+    {
+      "content": "مشغول",
+      "translations": [
+        "busy",
+        "occupied"
       ],
       "usageExamples": []
     },
     {
-      "content": "ولع",
+      "content": "وأنا",
       "translations": [
-        "passion",
-        "enthusiasm",
-        "obsession",
-        "fervor"
+        "And I",
+        "As for me"
       ],
       "usageExamples": []
     },
     {
-      "content": "الشمع",
+      "content": "كمان",
       "translations": [
-        "the candle",
-        "the wax"
+        "also",
+        "too",
+        "as well",
+        "again"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "بيتكلم أسباني و فرنساوي كمان.",
+          "He speaks Spanish as well as French."
+        ]
+      ]
+    },
+    {
+      "content": "كنت",
+      "translations": [
+        "I was",
+        "I used to be",
+        "I have been"
+      ],
+      "usageExamples": [
+        [
+          "كنت هنا امبارح.",
+          "I was just here yesterday."
+        ]
+      ]
     }
   ]
 }

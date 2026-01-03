@@ -1,71 +1,73 @@
 {
-  "sentence": "Öğle yemeği için ne istersin?",
+  "sentence": "Tom, Avustralya'da olduğunu söyledi.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Was möchtest du zu essen?"
+    "Tom hat gesagt, dass er in Australien ist."
   ],
   "parts": [
     {
-      "content": "Öğle",
+      "content": "Tom",
       "translations": [
-        "Mittag",
-        "zu Mittag"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yemeği",
-      "translations": [
-        "das Essen",
-        "die Mahlzeit"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "için",
-      "translations": [
-        "für",
-        "um zu"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir."
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?"
         ],
         [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
+          "Tom sonuçları analiz etti.",
+          "Tom analysierte die Ergebnisse."
         ],
         [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen."
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston."
         ]
       ]
     },
     {
-      "content": "ne",
+      "content": "Avustralya",
       "translations": [
-        "nicht",
-        "kein"
+        "Australien",
+        "Australien (Land)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "da",
+      "translations": [
+        "da",
+        "dort",
+        "da drüben"
       ],
       "usageExamples": [
         [
-          "Benim için ne zaman vaktin olur?",
-          "Wann hast du Zeit für mich?"
+          "Ateşsiz duman da çıkabilir.",
+          "Rauch kann auch ohne Feuer entstehen."
         ],
         [
-          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
-          "Unser Wissen wird immer breiter, aber leider nicht tiefer."
+          "Bu da kim?",
+          "Wer ist das denn?"
         ]
       ]
     },
     {
-      "content": "istersin",
+      "content": "olduğunu",
       "translations": [
-        "du bist",
-        "du bist es"
+        "es ist",
+        "war",
+        "ist geworden"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "söyledi",
+      "translations": [
+        "sagte",
+        "hat gesagt"
       ],
       "usageExamples": []
     }

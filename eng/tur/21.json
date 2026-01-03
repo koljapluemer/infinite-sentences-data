@@ -1,43 +1,105 @@
 {
-  "sentence": "Kendimi çok sıkıyorum.",
+  "sentence": "Görünüşe göre, biz iki ay içerisinde bir artış alacağız.",
   "credits": [
-    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm really hard on myself."
+    "Apparently, we'll be getting a raise within two months."
   ],
   "parts": [
     {
-      "content": "Kendimi",
+      "content": "Görünüşe",
       "translations": [
-        "myself",
-        "I myself",
-        "me"
+        "It seems",
+        "Apparently",
+        "Looks like",
+        "Seemingly"
       ],
       "usageExamples": []
     },
     {
-      "content": "çok",
+      "content": "göre",
       "translations": [
-        "very",
-        "a lot",
-        "many",
-        "much"
+        "according to",
+        "in accordance with",
+        "based on",
+        "as per"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "biz",
+      "translations": [
+        "we",
+        "us"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "iki",
+      "translations": [
+        "two",
+        "both"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ay",
+      "translations": [
+        "moon",
+        "month"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "içerisinde",
+      "translations": [
+        "inside",
+        "within",
+        "in it",
+        "included"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "O dil çok hoş geliyor.",
-          "That language sounds very pretty."
+          "Sen gerçek bir zavallısın.",
+          "You're a real loser."
+        ],
+        [
+          "Tom kötü bir golfçü.",
+          "Tom is a bad golfer."
+        ],
+        [
+          "Altmışlık sayı sistemi Babil devletinde uygulandı, bunun sonucunda bir saatte 60 dakika ve günde 24 saat var.",
+          "A sexagesimal system was used in Babylonia. Therefore an hour has sixty minutes and a day has twenty-four hours."
         ]
       ]
     },
     {
-      "content": "sıkıyorum",
+      "content": "artış",
       "translations": [
-        "I'm squeezing",
-        "I'm pressing",
-        "I'm tightening",
-        "I'm constricting"
+        "increase",
+        "rise",
+        "growth",
+        "surge"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "alacağız",
+      "translations": [
+        "we will take",
+        "we will get",
+        "we will receive",
+        "we will have"
       ],
       "usageExamples": []
     }

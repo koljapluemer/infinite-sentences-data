@@ -1,42 +1,86 @@
 {
-  "sentence": "Zehn Mal versagen ist besser als einmal lügen.",
+  "sentence": "Kann mir irgendjemand von euch sagen, was passiert ist?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tiinlop forsii es beeter üs jenlop löög."
+    "Ken mi hoken fan juu sii, wat pasiaret es?",
+    "Ken mi hoken fan juu sii, wat sken es?"
   ],
   "parts": [
     {
-      "content": "Zehn",
+      "content": "Kann",
       "translations": [
-        "Zehn",
-        "10"
+        "kann",
+        "könnte"
       ],
       "usageExamples": []
     },
     {
-      "content": "Mal",
+      "content": "mir",
       "translations": [
-        "schlecht",
-        "böse",
-        "schlimm",
-        "übel"
+        "mir",
+        "mich"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "irgendjemand",
+      "translations": [
+        "jemand",
+        "irgendwer"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "von",
+      "translations": [
+        "von",
+        "aus"
       ],
       "usageExamples": [
         [
-          "Wann hast du das letzte Mal einen Preis gewonnen?",
-          "Wan heest dü dit leest Lop en Pris wonen?"
+          "Sie ging zum Bahnhof, um sich von ihm zu verabschieden.",
+          "Jü ging tö Baanstair om höm faarwel tö siien."
+        ],
+        [
+          "Düye träumt einen Traum von einem Stein.",
+          "Düye dremt en druum faan a stäär."
         ]
       ]
     },
     {
-      "content": "versagen",
+      "content": "euch",
       "translations": [
-        "versagen",
-        "scheitern",
-        "misslingen",
-        "fehlschlagen"
+        "euch",
+        "euch selbst",
+        "euch allen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sagen",
+      "translations": [
+        "sagen",
+        "ausdrücken",
+        "mitteilen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "was",
+      "translations": [
+        "war",
+        "war es"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "passiert",
+      "translations": [
+        "passiert",
+        "geschieht",
+        "erfolgt"
       ],
       "usageExamples": []
     },
@@ -48,59 +92,18 @@
       ],
       "usageExamples": [
         [
-          "Er ist ungefähr in deinem Alter.",
-          "Hi es sawat ön din Ialer."
-        ],
-        [
-          "Kann mir irgendjemand von euch sagen, was passiert ist?",
-          "Ken mi hoken fan juu sii, wat pasiaret es?"
-        ],
-        [
           "Wie hübsch deine Schwester ist!",
           "Hur dailk din Sester es!"
-        ]
-      ]
-    },
-    {
-      "content": "besser",
-      "translations": [
-        "besser",
-        "am besten",
-        "verbessern"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Morgen geht es dir besser. Mein Wort darauf!",
-          "Miaren gair di dit beeter. Min Uurt diarüp!"
+          "Morgen ist auch ein Tag.",
+          "Miaren es uk en Dai."
+        ],
+        [
+          "Zehn Mal versagen ist besser als einmal lügen.",
+          "Tiinlop forsii es beeter üs jenlop löög."
         ]
       ]
-    },
-    {
-      "content": "als",
-      "translations": [
-        "als",
-        "wenn"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "einmal",
-      "translations": [
-        "einmal",
-        "einmalig",
-        "einmal pro",
-        "einmal in"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "lügen",
-      "translations": [
-        "lügen",
-        "anlügen",
-        "belügen"
-      ],
-      "usageExamples": []
     }
   ]
 }

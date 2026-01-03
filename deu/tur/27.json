@@ -1,10 +1,10 @@
 {
-  "sentence": "Bu kurallara aykırıdır.",
+  "sentence": "Bu da kim?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es ist gegen die Regeln."
+    "Wer ist das denn?"
   ],
   "parts": [
     {
@@ -20,32 +20,45 @@
           "Das ist kostenlos erhältlich."
         ],
         [
-          "Bu sağduyu.",
-          "Das entspricht dem gesunden Menschenverstand."
+          "Bu kurallara aykırıdır.",
+          "Es ist gegen die Regeln."
         ],
         [
-          "Bu da kim?",
-          "Wer ist das denn?"
+          "Bu sağduyu.",
+          "Das entspricht dem gesunden Menschenverstand."
         ]
       ]
     },
     {
-      "content": "kurallara",
+      "content": "da",
       "translations": [
-        "Regeln",
-        "Vorschriften"
+        "da",
+        "dort",
+        "da drüben"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
+        ],
+        [
+          "Ateşsiz duman da çıkabilir.",
+          "Rauch kann auch ohne Feuer entstehen."
+        ]
+      ]
     },
     {
-      "content": "aykırıdır",
+      "content": "kim",
       "translations": [
-        "ist widersprüchlich",
-        "ist unvereinbar",
-        "ist abwegig",
-        "ist unlogisch"
+        "wer",
+        "jemand"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?"
+        ]
+      ]
     }
   ]
 }

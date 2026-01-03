@@ -1,56 +1,45 @@
 {
-  "sentence": "Mary politika ile ilgilenir.",
+  "sentence": "Komşularımdan nefret ediyorum.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by blackdove (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Maria interessiert sich für Politik."
+    "Ich hasse meine Nachbarn."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Komşularım",
       "translations": [
-        "Maria",
-        "Miriam"
+        "meine Nachbarn",
+        "die Nachbarn"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "nefret",
+      "translations": [
+        "Hass",
+        "Abneigung"
       ],
       "usageExamples": [
         [
-          "Mary bale dersleri alıyor.",
-          "Maria nimmt Ballettunterricht."
-        ],
-        [
-          "Mary'yi öldürdün mü?",
-          "Hast du Maria umgebracht?"
-        ],
-        [
-          "Mary bir baton kullanarak orkestrayı yönetti.",
-          "Maria dirigierte das Orchester mit einem Taktstock."
+          "Erken kalkmaktan nefret ediyorum/ederim.",
+          "Ich hasse es, früh aufzustehen."
         ]
       ]
     },
     {
-      "content": "politika",
+      "content": "ediyorum",
       "translations": [
-        "Politik",
-        "Politikgestaltung"
+        "ich mache",
+        "ich tue"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "ile",
-      "translations": [
-        "mit",
-        "und"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ilgilenir",
-      "translations": [
-        "interessiert sich",
-        "kümmert sich"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Erken kalkmaktan nefret ediyorum/ederim.",
+          "Ich hasse es, früh aufzustehen."
+        ]
+      ]
     }
   ]
 }

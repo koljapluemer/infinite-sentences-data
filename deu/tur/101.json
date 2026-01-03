@@ -1,80 +1,64 @@
 {
-  "sentence": "Tom'un çok zamanı var.",
+  "sentence": "Tom mutsuz, değil mi?",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat viel Zeit."
+    "Tom ist unglücklich, nicht wahr?"
   ],
   "parts": [
     {
-      "content": "Tom'un",
+      "content": "Tom",
       "translations": [
-        "Tom's",
-        "von Tom"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "Tom'un çocukları hasta.",
-          "Toms Kinder sind krank."
+          "Tom sonuçları analiz etti.",
+          "Tom analysierte die Ergebnisse."
         ],
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?"
         ],
         [
-          "Tom'un Avustralyalı aksanı yok.",
-          "Tom hat keinen australischen Akzent."
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
         ]
       ]
     },
     {
-      "content": "çok",
+      "content": "mutsuz",
       "translations": [
-        "sehr",
-        "viel"
-      ],
-      "usageExamples": [
-        [
-          "Esperanto öğrenmek çok ilginçtir.",
-          "Esperanto zu lernen ist sehr interessant."
-        ],
-        [
-          "Çok fazla Fransızca konuşamam.",
-          "Ich spreche nicht viel Französisch."
-        ],
-        [
-          "Seni başlangıçta planlanandan daha çok seviyorum.",
-          "Ich liebe dich ein bisschen mehr als ursprünglich geplant."
-        ]
-      ]
-    },
-    {
-      "content": "zamanı",
-      "translations": [
-        "Zeit",
-        "Zeitraum"
+        "unglücklich",
+        "traurig",
+        "missmutig"
       ],
       "usageExamples": []
     },
     {
-      "content": "var",
+      "content": "değil",
       "translations": [
-        "var",
-        "es gibt"
+        "nicht",
+        "kein"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "ich",
+        "mir"
       ],
       "usageExamples": [
         [
-          "Dokuza çeyrek var.",
-          "Es ist Viertel vor neun."
+          "Kartla ödeme yapılabilir mi?",
+          "Kann man mit Karte bezahlen?"
         ],
         [
-          "Köyde beş inek var.",
-          "Im Dorf gibt es fünf Rinder."
-        ],
-        [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
+          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?"
         ]
       ]
     }

@@ -1,34 +1,53 @@
 {
-  "sentence": "Yarın kiliseye gitmeliyim.",
+  "sentence": "Tom'un gitar çalması şaşırtıcı.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've got to go to church tomorrow."
+    "Tom's guitar playing is amazing."
   ],
   "parts": [
     {
-      "content": "yarın",
+      "content": "Tom'un",
       "translations": [
-        "tomorrow",
-        "next day"
+        "Tom's",
+        "of Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un ayakkabılarını çıkarmasına gerek yok.",
+          "Tom doesn't need to take his shoes off."
+        ],
+        [
+          "Tom'un bazı iyi fikirleri olabilir.",
+          "Tom may have some good ideas."
+        ]
+      ]
+    },
+    {
+      "content": "gitar",
+      "translations": [
+        "guitar",
+        "guitar instrument"
       ],
       "usageExamples": []
     },
     {
-      "content": "kiliseye",
+      "content": "çalması",
       "translations": [
-        "to the church",
-        "at the church"
+        "to ring",
+        "to play",
+        "to sound"
       ],
       "usageExamples": []
     },
     {
-      "content": "gitmeliyim",
+      "content": "şaşırtıcı",
       "translations": [
-        "I must go",
-        "I have to go.",
-        "I should go"
+        "surprising",
+        "astonishing",
+        "amazing",
+        "startling"
       ],
       "usageExamples": []
     }

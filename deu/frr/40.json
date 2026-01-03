@@ -1,26 +1,43 @@
 {
-  "sentence": "Tom lebt auf einer Insel im Südpazifik.",
+  "sentence": "Ik weet ek, hur ja sen.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Taam (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom lewet üp en Ailön ön di Sürpasiifik."
+    "Ich weiß nicht, wo sie sind."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Ik",
       "translations": [
-        "Tom",
-        "Tomas"
+        "Ich",
+        "Ich bin"
       ],
       "usageExamples": [
         [
-          "Tom weiß alles.",
-          "Tom weet ales."
+          "Ik mai Swets.",
+          "Ich mag Süßes."
         ],
         [
-          "Tom heer di Pris wonen.",
-          "Tom hat den Preis gewonnen."
+          "Ik haa junk retet.",
+          "Ich habe euch gerettet."
+        ],
+        [
+          "Ik haa höm fraaget.",
+          "Ich fragte ihn."
+        ]
+      ]
+    },
+    {
+      "content": "weet",
+      "translations": [
+        "wissen",
+        "verstehen"
+      ],
+      "usageExamples": [
+        [
+          "Ik weet ek, of ik miaren tö di Seeting kum ken.",
+          "Ich weiß nicht, ob ich morgen zu der Sitzung kommen kann."
         ],
         [
           "Ik weet, dat dü en Tom gur Frinjer sen.",
@@ -29,57 +46,68 @@
       ]
     },
     {
-      "content": "lebt",
+      "content": "ek",
       "translations": [
-        "lebt",
-        "lebt gerade",
-        "ist am Leben"
+        "ich",
+        "ich bin"
+      ],
+      "usageExamples": [
+        [
+          "Hat es ek olterdiip.",
+          "Es ist nicht zu tief."
+        ],
+        [
+          "Jane wiar ek bliir.",
+          "Jane war nicht glücklich."
+        ],
+        [
+          "Gung deling lewer ek.",
+          "Geh heute lieber nicht."
+        ]
+      ]
+    },
+    {
+      "content": "hur",
+      "translations": [
+        "wie",
+        "so"
       ],
       "usageExamples": []
     },
     {
-      "content": "auf",
+      "content": "ja",
       "translations": [
-        "auf",
-        "an",
-        "über"
+        "ja",
+        "ja, genau",
+        "ja, richtig"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Haa ja jam tö Tom sin Daat ütert?",
+          "Haben sie sich zu Toms Tat geäußert?"
+        ]
+      ]
     },
     {
-      "content": "einer",
+      "content": "sen",
       "translations": [
-        "einer",
-        "jemand",
-        "ein Typ"
+        "sen",
+        "sinn"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "Insel",
-      "translations": [
-        "Insel",
-        "Eiland"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "im",
-      "translations": [
-        "im",
-        "in dem",
-        "in der",
-        "in das"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Südpazifik",
-      "translations": [
-        "Südsee",
-        "Südpazifik"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Heest min Bröđer ön Park sen?",
+          "Hast du meinen Bruder im Park gesehen?"
+        ],
+        [
+          "Ik weet, dat dü en Tom gur Frinjer sen.",
+          "Ich weiß, dass du und Tom befreundet seid."
+        ],
+        [
+          "Di sen altermaal al duar.",
+          "Die sind alle schon tot."
+        ]
+      ]
     }
   ]
 }

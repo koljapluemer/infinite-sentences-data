@@ -1,56 +1,55 @@
 {
-  "sentence": "Niçin sana iş vermem gerekiyor?",
+  "sentence": "Neden biraz elma almıyoruz?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by SSibelty (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why should I hire you?"
+    "Why don't we buy some apples?"
   ],
   "parts": [
     {
-      "content": "Niçin",
+      "content": "Neden",
       "translations": [
         "Why",
+        "What for",
         "For what reason"
       ],
       "usageExamples": []
     },
     {
-      "content": "sana",
+      "content": "biraz",
       "translations": [
-        "to you",
-        "for you",
-        "your",
-        "to your"
+        "a little",
+        "somewhat",
+        "a bit"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Biraz yardıma ihtiyacın olabileceğini düşündüm.",
+          "I thought you might need some help."
+        ]
+      ]
     },
     {
-      "content": "iş",
+      "content": "elma",
       "translations": [
-        "work",
-        "job",
-        "business",
-        "task"
+        "apple",
+        "fruit"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Biz ona birkaç tane elma verdik.",
+          "We gave her some apples."
+        ]
+      ]
     },
     {
-      "content": "vermem",
+      "content": "almıyoruz",
       "translations": [
-        "to give",
-        "to provide",
-        "to deliver"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gerekiyor",
-      "translations": [
-        "it is necessary",
-        "it is required",
-        "it must be",
-        "one needs to"
+        "we are not taking",
+        "we do not accept",
+        "we are not receiving",
+        "we are not getting"
       ],
       "usageExamples": []
     }

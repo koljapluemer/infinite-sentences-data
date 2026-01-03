@@ -1,40 +1,78 @@
 {
-  "sentence": "هشوفهم الليله دي.",
+  "sentence": "حاولت أقوللها بس هي رفضت تسمعلي.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'll meet with them tonight."
+    "I tried to tell her, but she refused to listen."
   ],
   "parts": [
     {
-      "content": "هشوفهم",
+      "content": "حاولت",
       "translations": [
-        "I'll see them.",
-        "I will see them"
+        "I tried",
+        "I attempted"
       ],
       "usageExamples": []
     },
     {
-      "content": "الليله",
+      "content": "أقوللها",
       "translations": [
-        "tonight",
-        "this evening"
+        "I tell her",
+        "I say to her"
       ],
       "usageExamples": []
     },
     {
-      "content": "دي",
+      "content": "بس",
       "translations": [
-        "this",
+        "just",
+        "only",
+        "simply",
+        "merely"
+      ],
+      "usageExamples": [
+        [
+          "مصر مش بس أهرامات.",
+          "Egypt isn't just pyramids."
+        ],
+        [
+          "لغة وحدة بس ماتكفيش ابداً.",
+          "One language is never enough."
+        ]
+      ]
+    },
+    {
+      "content": "هي",
+      "translations": [
+        "she",
         "it"
       ],
       "usageExamples": [
         [
-          "دي مشكلة كبيرة",
-          "That's a major problem."
+          "هي ف الحمام.",
+          "She's in the restroom."
         ]
       ]
+    },
+    {
+      "content": "رفضت",
+      "translations": [
+        "I refused.",
+        "I rejected",
+        "I declined",
+        "I turned down"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "تسمعلي",
+      "translations": [
+        "Do you hear me?",
+        "Are you listening to me?",
+        "Can you hear me?"
+      ],
+      "usageExamples": []
     }
   ]
 }

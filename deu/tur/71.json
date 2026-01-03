@@ -1,10 +1,10 @@
 {
-  "sentence": "O, benim bir arkadaşım için.",
+  "sentence": "O başka bir adamla dans ediyor.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es ist für einen Freund von mir."
+    "Sie tanzt mit einem anderen Mann."
   ],
   "parts": [
     {
@@ -19,8 +19,8 @@
           "Sie ist ein bisschen verrückt."
         ],
         [
-          "O nasıl? Yaşlı mı, genç mi?",
-          "Wie ist er? Alt, oder jung?"
+          "O, benim bir arkadaşım için.",
+          "Es ist für einen Freund von mir."
         ],
         [
           "O bu sırrı açık etmek istiyor.",
@@ -29,10 +29,11 @@
       ]
     },
     {
-      "content": "benim",
+      "content": "başka",
       "translations": [
-        "mein",
-        "meine"
+        "anderer",
+        "andere",
+        "andres"
       ],
       "usageExamples": []
     },
@@ -44,49 +45,43 @@
       ],
       "usageExamples": [
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
-        ],
-        [
           "Slovence güzel bir dildir.",
           "Slowenisch ist eine schöne Sprache."
         ],
         [
           "İyi bir başlangıç oldu!",
           "Das fängt ja gut an!"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze."
         ]
       ]
     },
     {
-      "content": "arkadaşım",
+      "content": "adamla",
       "translations": [
-        "mein Freund",
-        "meine Freundin",
-        "mein Kumpel",
-        "meine Kumpeline"
+        "Mensch",
+        "Typ",
+        "Kerl"
       ],
       "usageExamples": []
     },
     {
-      "content": "için",
+      "content": "dans",
       "translations": [
-        "für",
-        "um zu"
+        "in",
+        "drin"
       ],
-      "usageExamples": [
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
-        ],
-        [
-          "Öğle yemeği için ne istersin?",
-          "Was möchtest du zu essen?"
-        ],
-        [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen."
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "ediyor",
+      "translations": [
+        "macht",
+        "tut"
+      ],
+      "usageExamples": []
     }
   ]
 }

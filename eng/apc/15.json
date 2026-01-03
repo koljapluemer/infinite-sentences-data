@@ -1,35 +1,100 @@
 {
-  "sentence": "شو إسمك؟",
+  "sentence": "توم بيفهم اللي هي ما بتفهم.",
   "credits": [
-    "Sentence from Tatoeba by TheTRNQplayz_iM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's your name?"
+    "Tom understands what you don't."
   ],
   "parts": [
     {
-      "content": "شو",
+      "content": "توم",
       "translations": [
-        "show",
-        "presentation"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "شو كلمه؟",
-          "What is a word?"
+          "توم خلى عينوا عالولاد",
+          "Tom kept an eye on the children."
         ],
         [
-          "شو بدّك¿",
-          "What do you want?"
+          "عالأغلب توم لح يساوي يلي لح تطلبه.",
+          "I suspect Tom will do whatever you ask."
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves."
         ]
       ]
     },
     {
-      "content": "إسمك",
+      "content": "بيفهم",
       "translations": [
-        "Your name",
-        "What is your name?",
-        "Please tell me your name."
+        "understands",
+        "comprehends",
+        "gets it",
+        "grasp"
+      ],
+      "usageExamples": [
+        [
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't."
+        ]
+      ]
+    },
+    {
+      "content": "اللي",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "the one"
+      ],
+      "usageExamples": [
+        [
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't."
+        ]
+      ]
+    },
+    {
+      "content": "هي",
+      "translations": [
+        "she",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "هي بتحكي عربي شويه.",
+          "She speaks a little Arabic."
+        ]
+      ]
+    },
+    {
+      "content": "ما",
+      "translations": [
+        "what",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "توم يفهم ما لا تفهمه.",
+          "Tom understands what you don't."
+        ],
+        [
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't."
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves."
+        ]
+      ]
+    },
+    {
+      "content": "بتفهم",
+      "translations": [
+        "Do you understand?"
       ],
       "usageExamples": []
     }

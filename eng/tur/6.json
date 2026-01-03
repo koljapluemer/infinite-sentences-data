@@ -1,10 +1,10 @@
 {
-  "sentence": "Bu sorunları nasıl düzeltmemiz gerekir?",
+  "sentence": "Bu soba çok fazla tütüyor.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How are we supposed to fix these issues?"
+    "That stove smokes too much."
   ],
   "parts": [
     {
@@ -13,51 +13,59 @@
         "This",
         "It"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bu sorunları nasıl düzeltmemiz gerekir?",
+          "How are we supposed to fix these issues?"
+        ]
+      ]
     },
     {
-      "content": "sorunları",
+      "content": "soba",
       "translations": [
-        "problems",
-        "issues",
-        "troubles",
-        "challenges"
+        "stove",
+        "oven",
+        "fireplace"
       ],
       "usageExamples": []
     },
     {
-      "content": "nasıl",
+      "content": "çok",
       "translations": [
-        "how",
-        "what way",
-        "in what manner"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "düzeltmemiz",
-      "translations": [
-        "we need to correct",
-        "we should fix",
-        "we must amend",
-        "we have to adjust"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gerekir",
-      "translations": [
-        "necessary",
-        "required",
-        "needed",
-        "must"
+        "very",
+        "a lot",
+        "many",
+        "much"
       ],
       "usageExamples": [
         [
-          "Verimli bir şekilde çalışman gerekir.",
-          "You should study in an efficient manner."
+          "Kendimi çok sıkıyorum.",
+          "I'm really hard on myself."
+        ],
+        [
+          "O dil çok hoş geliyor.",
+          "That language sounds very pretty."
         ]
       ]
+    },
+    {
+      "content": "fazla",
+      "translations": [
+        "too much",
+        "excessive",
+        "a lot",
+        "more than enough"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "tütüyor",
+      "translations": [
+        "it's smoking",
+        "it's burning",
+        "it's steaming"
+      ],
+      "usageExamples": []
     }
   ]
 }

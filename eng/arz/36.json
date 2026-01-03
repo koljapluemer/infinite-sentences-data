@@ -1,47 +1,81 @@
 {
-  "sentence": "كويس إنّك جيت بدري.",
+  "sentence": "توم في نص الميتينج بتاعه.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That you have come early is a good thing."
+    "Tom is in the middle of his meeting."
   ],
   "parts": [
     {
-      "content": "كويس",
+      "content": "توم",
       "translations": [
-        "good",
-        "fine",
-        "okay",
-        "alright"
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it."
+        ],
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom."
+        ],
+        [
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis."
+        ]
+      ]
+    },
+    {
+      "content": "في",
+      "translations": [
+        "in",
+        "at",
+        "inside",
+        "within"
+      ],
+      "usageExamples": [
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom."
+        ],
+        [
+          "ساعدوا بعض في الواجب.",
+          "Help each other with homework."
+        ],
+        [
+          "منقدرش نشتغل في الحر ده.",
+          "We can't work in this heat."
+        ]
+      ]
+    },
+    {
+      "content": "نص",
+      "translations": [
+        "text",
+        "script",
+        "content"
       ],
       "usageExamples": []
     },
     {
-      "content": "إنّك",
+      "content": "الميتينج",
       "translations": [
-        "Indeed you",
-        "Surely you",
-        "You are",
-        "Truly you"
+        "the meeting",
+        "the gathering",
+        "the conference"
       ],
       "usageExamples": []
     },
     {
-      "content": "جيت",
+      "content": "بتاعه",
       "translations": [
-        "I came.",
-        "I arrived.",
-        "I got here"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بدري",
-      "translations": [
-        "early",
-        "soon",
-        "beforehand"
+        "his thing",
+        "that thing",
+        "his stuff",
+        "that one"
       ],
       "usageExamples": []
     }

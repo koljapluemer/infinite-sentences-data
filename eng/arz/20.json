@@ -1,42 +1,78 @@
 {
-  "sentence": "توم بيشارك في أنشطة خارجية كتيرة.",
+  "sentence": "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
   "credits": [
     "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom participates in many extracurricular activities."
+    "You're the only one working here who can speak French."
   ],
   "parts": [
     {
-      "content": "توم",
+      "content": "انت",
       "translations": [
         "you",
         "you (singular)"
       ],
       "usageExamples": [
         [
-          "توم مبيعرفش يلعب تنس.",
-          "Tom can't play tennis."
-        ],
-        [
-          "توم مابصش عليها حتى.",
-          "Tom wouldn't even look at it."
-        ],
-        [
-          "توم، سيب أختَك في حالها.",
-          "Tom, leave your sister alone."
+          "إيه اللي انت أكلته؟",
+          "What did you have to eat?"
         ]
       ]
     },
     {
-      "content": "بيشارك",
+      "content": "الوحيد",
       "translations": [
-        "participates",
-        "takes part",
-        "is involved",
-        "joins in"
+        "the only one",
+        "the unique one",
+        "the sole one"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "اللي",
+      "translations": [
+        "who",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "إيه اللي انت أكلته؟",
+          "What did you have to eat?"
+        ],
+        [
+          "اديتلو كل الفلوس اللي كت عندي.",
+          "I gave him what money I had."
+        ]
+      ]
+    },
+    {
+      "content": "بتتكلم",
+      "translations": [
+        "You are talking",
+        "You speak.",
+        "Are you talking?",
+        "You are speaking"
+      ],
+      "usageExamples": [
+        [
+          "بتتكلم انجليزي؟",
+          "Do you speak English?"
+        ]
+      ]
+    },
+    {
+      "content": "فرنساوي",
+      "translations": [
+        "French",
+        "French person"
+      ],
+      "usageExamples": [
+        [
+          "بيتكلم أسباني و فرنساوي كمان.",
+          "He speaks Spanish as well as French."
+        ]
+      ]
     },
     {
       "content": "في",
@@ -48,48 +84,45 @@
       ],
       "usageExamples": [
         [
-          "توم، سيب أختَك في حالها.",
-          "Tom, leave your sister alone."
+          "ساعدوا بعض في الواجب.",
+          "Help each other with homework."
         ],
         [
-          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
-          "I think being poor is nothing to be ashamed of."
+          "توم ريحته في المكان.",
+          "This place smells like Tom."
         ],
         [
-          "منقدرش نشتغل في الحر ده.",
-          "We can't work in this heat."
+          "كوكي، سيب أختَك في حالها.",
+          "Cookie, leave your sister alone."
         ]
       ]
     },
     {
-      "content": "أنشطة",
+      "content": "شغّالين",
       "translations": [
-        "activities",
-        "events",
-        "tasks",
-        "exercises"
+        "working",
+        "busy",
+        "operating",
+        "active"
       ],
       "usageExamples": []
     },
     {
-      "content": "خارجية",
+      "content": "هنا",
       "translations": [
-        "external",
-        "foreign",
-        "outside",
-        "overseas"
+        "here",
+        "this place"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "كتيرة",
-      "translations": [
-        "a lot",
-        "many",
-        "plenty",
-        "numerous"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "لازم تتكلم بالإنجليزي هنا.",
+          "You have to speak English here."
+        ],
+        [
+          "كنت هنا امبارح.",
+          "I was just here yesterday."
+        ]
+      ]
     }
   ]
 }

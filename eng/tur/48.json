@@ -1,77 +1,71 @@
 {
-  "sentence": "Tatoeba'da Türkçe ve Estonca cümle yaratıyorsanız, büyük olasılıkla boracaslı'sınızdır.",
+  "sentence": "Peki, ona ne denir?",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "If you create sentences in Turkish and Estonian on Tatoeba, there's a large chance that you're boracasli."
+    "Well, what's it called?"
   ],
   "parts": [
     {
-      "content": "Tatoeba",
+      "content": "Peki",
       "translations": [
-        "for example",
-        "such as"
+        "Okay.",
+        "Alright.",
+        "Well",
+        "Fine"
       ],
       "usageExamples": []
     },
     {
-      "content": "Türkçe",
+      "content": "ona",
       "translations": [
-        "Turkish",
-        "in Turkish"
+        "her",
+        "to her",
+        "that one",
+        "it"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Biz ona birkaç tane elma verdik.",
+          "We gave her some apples."
+        ],
+        [
+          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
+          "His last album garnered him a fourth Grammy award."
+        ]
+      ]
     },
     {
-      "content": "Estonca",
+      "content": "ne",
       "translations": [
-        "Estonian",
-        "of Estonia"
+        "what",
+        "huh",
+        "right",
+        "no way"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "O istasyonun adı ne?",
+          "What's the name of that station?"
+        ],
+        [
+          "Yaralılar ne kadar kan kaybetti?",
+          "How much blood has the injured lost?"
+        ],
+        [
+          "Yardım etmek için muhtemelen ne yapabilirim?",
+          "What can I possibly do to help?"
+        ]
+      ]
     },
     {
-      "content": "cümle",
+      "content": "denir",
       "translations": [
-        "sentence",
-        "clause"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yaratıyorsanız",
-      "translations": [
-        "if you are creating",
-        "if you are making",
-        "if you are generating"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "büyük",
-      "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "olasılıkla",
-      "translations": [
-        "probably",
-        "likely",
-        "most likely"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "boracaslı'sınızdır",
-      "translations": [
-        "You are from Borac",
-        "You are a Borac native"
+        "it is said",
+        "they say",
+        "one says",
+        "it is told"
       ],
       "usageExamples": []
     }

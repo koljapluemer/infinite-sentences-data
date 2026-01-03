@@ -1,35 +1,47 @@
 {
-  "sentence": "أنصحك إنك تتأسف.",
+  "sentence": "أنا صايمه النهارده.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should apologize."
+    "I'm fasting today."
   ],
   "parts": [
     {
-      "content": "أنصحك",
+      "content": "أنا",
       "translations": [
-        "I advise you",
-        "I recommend you",
-        "I suggest you"
+        "I am.",
+        "I",
+        "Me"
+      ],
+      "usageExamples": [
+        [
+          "أنا فخوره بيها جدا.",
+          "I'm very proud of it."
+        ],
+        [
+          "أنا بخاف م الزلازل.",
+          "I'm afraid of earthquakes."
+        ],
+        [
+          "هو أنا شكلي إرهابي؟",
+          "Do I look like a terrorist?"
+        ]
+      ]
+    },
+    {
+      "content": "صايمه",
+      "translations": [
+        "she is fasting",
+        "she is observing a fast"
       ],
       "usageExamples": []
     },
     {
-      "content": "إنك",
+      "content": "النهارده",
       "translations": [
-        "You are",
-        "Indeed you are",
-        "You really are"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "تتأسف",
-      "translations": [
-        "I'm sorry.",
-        "I apologize."
+        "today",
+        "this day"
       ],
       "usageExamples": []
     }

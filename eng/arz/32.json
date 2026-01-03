@@ -1,59 +1,62 @@
 {
-  "sentence": "عايز أروّح البيت دلوقتي.",
+  "sentence": "توم اضطر يروح المستشفى.",
   "credits": [
     "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I would like to go home now."
+    "Tom had to go to the hospital."
   ],
   "parts": [
     {
-      "content": "عايز",
+      "content": "توم",
       "translations": [
-        "I want",
-        "I need",
-        "I would like"
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom."
+        ],
+        [
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis."
+        ],
+        [
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it."
+        ]
+      ]
+    },
+    {
+      "content": "اضطر",
+      "translations": [
+        "to force",
+        "to compel",
+        "to necessitate",
+        "to urge"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يروح",
+      "translations": [
+        "to go",
+        "to leave",
+        "to head out"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "المستشفى",
+      "translations": [
+        "the hospital",
+        "hospital"
       ],
       "usageExamples": [
         [
           "عايز أروح المستشفى.",
           "I want to go to the hospital."
-        ],
-        [
-          "عايز أكون ساحر.",
-          "I want to be a magician."
-        ]
-      ]
-    },
-    {
-      "content": "أروّح",
-      "translations": [
-        "I feel better.",
-        "I relax",
-        "I unwind",
-        "I refresh"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "البيت",
-      "translations": [
-        "the house",
-        "the home"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "دلوقتي",
-      "translations": [
-        "now",
-        "right now",
-        "at the moment"
-      ],
-      "usageExamples": [
-        [
-          "معلش اعملها دلوقتي حالا",
-          "Please do this immediately."
         ]
       ]
     }

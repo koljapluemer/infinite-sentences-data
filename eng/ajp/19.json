@@ -1,47 +1,34 @@
 {
-  "sentence": "ما بدنا حل سلمي.",
+  "sentence": "صباح الخير!",
   "credits": [
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We don't want a peaceful solution."
+    "Good morning!"
   ],
   "parts": [
     {
-      "content": "ما",
+      "content": "صباح",
       "translations": [
-        "what",
-        "which"
+        "morning",
+        "good morning"
       ],
       "usageExamples": []
     },
     {
-      "content": "بدنا",
+      "content": "الخير",
       "translations": [
-        "We want",
-        "We need"
+        "goodness",
+        "good",
+        "benefit",
+        "well-being"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "حل",
-      "translations": [
-        "solution",
-        "resolution",
-        "answer",
-        "fix"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "سلمي",
-      "translations": [
-        "peaceful",
-        "safe",
-        "salute",
-        "greet"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "مسا الخير.",
+          "Good evening."
+        ]
+      ]
     }
   ]
 }

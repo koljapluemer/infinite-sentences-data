@@ -1,68 +1,54 @@
 {
-  "sentence": "Dolap kapağını sola doğru açın , şişeler oradadır.",
+  "sentence": "Bugün Tom, Mary'yi gördü.",
   "credits": [
-    "Sentence from Tatoeba by erayavci (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mach den Schrank auf der linken Seite auf, dort sind die Flaschen."
+    "Tom hat Mary heute gesehen."
   ],
   "parts": [
     {
-      "content": "Dolap",
+      "content": "Bugün",
       "translations": [
-        "Schrank",
-        "Regal"
+        "Heute",
+        "Heute Abend"
       ],
       "usageExamples": []
     },
     {
-      "content": "kapağı",
+      "content": "Tom",
       "translations": [
-        "Deckel",
-        "Kapuze",
-        "Bedeckung"
+        "Tom",
+        "Tomas"
+      ],
+      "usageExamples": [
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
+        ],
+        [
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich."
+        ],
+        [
+          "Tom beni arıyor mu?",
+          "Sucht Tom nach mir?"
+        ]
+      ]
+    },
+    {
+      "content": "Mary'yi",
+      "translations": [
+        "Mary",
+        "Maria"
       ],
       "usageExamples": []
     },
     {
-      "content": "sola",
+      "content": "gördü",
       "translations": [
-        "allein",
-        "einsam",
-        "nur"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "doğru",
-      "translations": [
-        "richtig",
-        "korrekt"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "açın",
-      "translations": [
-        "öffnen",
-        "aufmachen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "şişeler",
-      "translations": [
-        "Flaschen",
-        "Gläser"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "oradadır",
-      "translations": [
-        "da",
-        "dort",
-        "an diesem Ort"
+        "sahip oldu",
+        "gördü"
       ],
       "usageExamples": []
     }

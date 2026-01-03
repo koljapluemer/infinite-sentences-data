@@ -1,52 +1,49 @@
 {
-  "sentence": "Doktoru, Tom'a haftanın en az üç gününde alkol içmemesini önerdi.",
+  "sentence": "Bunu yapmak zorunda kalacak üç adamdan biriyim.",
   "credits": [
-    "Sentence from Tatoeba by Konanen (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The doctor advised Tom to have at least three alcohol-free days per week."
+    "I'm one of the three guys who'll have to do that."
   ],
   "parts": [
     {
-      "content": "Doktoru",
+      "content": "bunu",
       "translations": [
-        "the doctor",
-        "doctor's"
+        "this",
+        "it"
       ],
       "usageExamples": []
     },
     {
-      "content": "Tom'a",
+      "content": "yapmak",
       "translations": [
-        "Tom's",
-        "Tom's place",
-        "Tom's house"
+        "to do",
+        "to make"
+      ],
+      "usageExamples": [
+        [
+          "Tom bana aslında onu yapmak istemediğini söyledi.",
+          "Tom told me he didn't actually want to do that."
+        ]
+      ]
+    },
+    {
+      "content": "zorunda",
+      "translations": [
+        "have to",
+        "must",
+        "obliged to",
+        "required to"
       ],
       "usageExamples": []
     },
     {
-      "content": "haftanın",
+      "content": "kalacak",
       "translations": [
-        "of the week",
-        "weekly"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "en",
-      "translations": [
-        "yes",
-        "in agreement"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "az",
-      "translations": [
-        "low",
-        "few",
-        "little",
-        "less"
+        "to stay",
+        "to remain",
+        "to be left"
       ],
       "usageExamples": []
     },
@@ -58,47 +55,30 @@
       ],
       "usageExamples": [
         [
-          "Soğuk algınlığımı atlatmam üç haftamı aldı.",
-          "It took three weeks for me to get over my cold."
+          "Doktoru, Tom'a haftanın en az üç gününde alkol içmemesini önerdi.",
+          "The doctor advised Tom to have at least three alcohol-free days per week."
         ],
         [
-          "Bunu yapmak zorunda kalacak üç adamdan biriyim.",
-          "I'm one of the three guys who'll have to do that."
+          "Soğuk algınlığımı atlatmam üç haftamı aldı.",
+          "It took three weeks for me to get over my cold."
         ]
       ]
     },
     {
-      "content": "gününde",
+      "content": "adamdan",
       "translations": [
-        "on time",
-        "in due time",
-        "on the day",
-        "in a timely manner"
+        "from a man",
+        "of a man",
+        "from the man"
       ],
       "usageExamples": []
     },
     {
-      "content": "alkol",
+      "content": "biriyim",
       "translations": [
-        "alcohol",
-        "liquor",
-        "spirits"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "içmemesini",
-      "translations": [
-        "not to drink",
-        "to refrain from drinking"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "önerdi",
-      "translations": [
-        "recommended",
-        "suggested"
+        "I am one",
+        "I am a person",
+        "I am someone"
       ],
       "usageExamples": []
     }

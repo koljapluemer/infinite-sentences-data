@@ -1,50 +1,30 @@
 {
-  "sentence": "Köyde beş inek var.",
+  "sentence": "Hava nasıl?",
   "credits": [
-    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Im Dorf gibt es fünf Rinder."
+    "Wie ist das Wetter?"
   ],
   "parts": [
     {
-      "content": "Köyde",
+      "content": "Hava",
       "translations": [
-        "im Dorf",
-        "auf dem Land"
+        "Luft",
+        "Wetter"
       ],
       "usageExamples": []
     },
     {
-      "content": "beş",
+      "content": "nasıl",
       "translations": [
-        "fünf",
-        "5"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "inek",
-      "translations": [
-        "Kuh",
-        "Rind"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "var",
-      "translations": [
-        "var",
-        "es gibt"
+        "wie",
+        "was für ein"
       ],
       "usageExamples": [
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
-        ],
-        [
-          "Onun bir kedisi ve iki köpeği var.",
-          "Sie hat eine Katze und zwei Hunde."
+          "O nasıl? Yaşlı mı, genç mi?",
+          "Wie ist er? Alt, oder jung?"
         ]
       ]
     }

@@ -1,43 +1,104 @@
 {
-  "sentence": "Kendimi çok sıkıyorum.",
+  "sentence": "Doktoru, Tom'a haftanın en az üç gününde alkol içmemesini önerdi.",
   "credits": [
-    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Konanen (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm really hard on myself."
+    "The doctor advised Tom to have at least three alcohol-free days per week."
   ],
   "parts": [
     {
-      "content": "Kendimi",
+      "content": "Doktoru",
       "translations": [
-        "myself",
-        "I myself",
-        "me"
+        "the doctor",
+        "doctor's"
       ],
       "usageExamples": []
     },
     {
-      "content": "çok",
+      "content": "Tom'a",
       "translations": [
-        "very",
-        "a lot",
-        "many",
-        "much"
+        "Tom's",
+        "Tom's place",
+        "Tom's house"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "haftanın",
+      "translations": [
+        "of the week",
+        "weekly"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "yes",
+        "in agreement"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "az",
+      "translations": [
+        "low",
+        "few",
+        "little",
+        "less"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "üç",
+      "translations": [
+        "three",
+        "3"
       ],
       "usageExamples": [
         [
-          "O dil çok hoş geliyor.",
-          "That language sounds very pretty."
+          "Bunu yapmak zorunda kalacak üç adamdan biriyim.",
+          "I'm one of the three guys who'll have to do that."
+        ],
+        [
+          "Soğuk algınlığımı atlatmam üç haftamı aldı.",
+          "It took three weeks for me to get over my cold."
         ]
       ]
     },
     {
-      "content": "sıkıyorum",
+      "content": "gününde",
       "translations": [
-        "I'm squeezing",
-        "I'm pressing",
-        "I'm tightening",
-        "I'm constricting"
+        "on time",
+        "in due time",
+        "on the day",
+        "in a timely manner"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "alkol",
+      "translations": [
+        "alcohol",
+        "liquor",
+        "spirits"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "içmemesini",
+      "translations": [
+        "not to drink",
+        "to refrain from drinking"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "önerdi",
+      "translations": [
+        "recommended",
+        "suggested"
       ],
       "usageExamples": []
     }

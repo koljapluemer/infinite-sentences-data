@@ -1,63 +1,78 @@
 {
-  "sentence": "Ben de böyle olsun istemezdim.",
+  "sentence": "Bana sorunu çözmeme izin veriniz.",
   "credits": [
-    "Sentence from Tatoeba by TR724 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich hab auch nicht gewollt, dass es so kommt."
+    "Erlauben Sie mir, das Problem zu lösen."
   ],
   "parts": [
     {
-      "content": "Ben",
+      "content": "bana",
       "translations": [
-        "Ich",
-        "Mir"
+        "mir",
+        "zu mir"
       ],
       "usageExamples": [
         [
-          "Ben hatırlamak istiyordum.",
-          "Ich wollte mich erinnern."
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir."
         ],
         [
-          "Ben senin babanı tanıyorum.",
-          "Ich kenne deinen Vater."
+          "Bu şarkı bana birini hatırlatıyor.",
+          "Dieses Lied erinnert mich an jemanden."
         ]
       ]
     },
     {
-      "content": "de",
+      "content": "sorunu",
       "translations": [
-        "von",
-        "aus"
+        "Problem",
+        "Schwierigkeit"
       ],
       "usageExamples": []
     },
     {
-      "content": "böyle",
+      "content": "çözmeme",
       "translations": [
-        "so",
-        "solch",
-        "dieser Art"
+        "nicht lösen",
+        "nicht auflösen"
       ],
       "usageExamples": []
     },
     {
-      "content": "olsun",
+      "content": "izin",
       "translations": [
-        "macht nichts",
-        "ist schon gut",
-        "kein Problem",
-        "alles gut"
+        "Genehmigung",
+        "Erlaubnis"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Kapıyı kapatmama izin veriniz.",
+          "Erlauben Sie mir, die Tür zu schließen."
+        ],
+        [
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen."
+        ],
+        [
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
+        ]
+      ]
     },
     {
-      "content": "istemezdim",
+      "content": "veriniz",
       "translations": [
-        "ich wollte nicht",
-        "ich hätte nicht gewollt"
+        "bitte",
+        "geben Sie mir"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Kapıyı kapatmama izin veriniz.",
+          "Erlauben Sie mir, die Tür zu schließen."
+        ]
+      ]
     }
   ]
 }

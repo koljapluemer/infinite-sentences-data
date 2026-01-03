@@ -1,52 +1,46 @@
 {
-  "sentence": "Yani yalan söylediğimi iddia ediyorsunuz.",
+  "sentence": "Tom Boston'da kalıyor.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sie behaupten also, dass ich lüge."
+    "Tom bleibt in Boston."
   ],
   "parts": [
     {
-      "content": "yani",
+      "content": "Tom",
       "translations": [
-        "das heißt",
-        "also",
-        "nämlich"
+        "Tom",
+        "Tomas"
+      ],
+      "usageExamples": [
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?"
+        ],
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
+        ],
+        [
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen."
+        ]
+      ]
+    },
+    {
+      "content": "Boston'da",
+      "translations": [
+        "in Boston",
+        "zu Boston"
       ],
       "usageExamples": []
     },
     {
-      "content": "yalan",
+      "content": "kalıyor",
       "translations": [
-        "Lüge",
-        "Falschheit"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "söylediğimi",
-      "translations": [
-        "was gesagt habe",
-        "was ich gesagt habe"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "iddia",
-      "translations": [
-        "Wette",
-        "Einsatz"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ediyorsunuz",
-      "translations": [
-        "Sie tun",
-        "Sie machen",
-        "Sie sind am ...",
-        "Sie betreiben"
+        "bleibt",
+        "verbleibt"
       ],
       "usageExamples": []
     }

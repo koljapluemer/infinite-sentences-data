@@ -1,23 +1,36 @@
 {
-  "sentence": "Bir dil yeterince iyi öğrenilemez.",
+  "sentence": "Benim kafam karıştı.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Man kann keine Sprache genug beherrschen."
+    "Ich bin verwirrt."
   ],
   "parts": [
     {
-      "content": "Bir",
+      "content": "Benim",
       "translations": [
-        "Ein",
-        "Eine"
+        "mein",
+        "meine"
       ],
       "usageExamples": [
         [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen."
+          "Benim için ne zaman vaktin olur?",
+          "Wann hast du Zeit für mich?"
         ],
+        [
+          "Benim kalmamın mantıklı olduğundan emin değilim.",
+          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben."
+        ]
+      ]
+    },
+    {
+      "content": "kafam",
+      "translations": [
+        "Kopf",
+        "Mein Kopf"
+      ],
+      "usageExamples": [
         [
           "Bir zamanlar kafam çok karışıktı.",
           "Ich war einmal so verwirrt."
@@ -25,39 +38,10 @@
       ]
     },
     {
-      "content": "dil",
+      "content": "karıştı",
       "translations": [
-        "Zunge",
-        "Sprache"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yeterince",
-      "translations": [
-        "genug",
-        "ausreichend"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "iyi",
-      "translations": [
-        "gut",
-        "schön"
-      ],
-      "usageExamples": [
-        [
-          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
-          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
-        ]
-      ]
-    },
-    {
-      "content": "öğrenilemez",
-      "translations": [
-        "unlernbare",
-        "nicht erlernbar"
+        "verwirrt",
+        "durcheinander"
       ],
       "usageExamples": []
     }

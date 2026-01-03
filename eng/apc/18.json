@@ -1,26 +1,58 @@
 {
-  "sentence": "هيدي‎ تفاحة جون.",
+  "sentence": "عالأغلب توم لح يساوي يلي لح تطلبه.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It is John's apple.",
-    "It's John's apple."
+    "I suspect Tom will do whatever you ask."
   ],
   "parts": [
     {
-      "content": "هيدي",
+      "content": "عالأغلب",
       "translations": [
-        "this",
-        "this one"
+        "most likely",
+        "probably",
+        "generally"
       ],
       "usageExamples": []
     },
     {
-      "content": "تفاحة",
+      "content": "توم",
       "translations": [
-        "apple",
-        "fruit"
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't."
+        ],
+        [
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't."
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves."
+        ]
+      ]
+    },
+    {
+      "content": "لح",
+      "translations": [
+        "moment",
+        "instant",
+        "while",
+        "time"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يلي",
+      "translations": [
+        "next",
+        "following",
+        "after",
+        "then"
       ],
       "usageExamples": []
     }

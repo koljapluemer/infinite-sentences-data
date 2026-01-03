@@ -1,25 +1,54 @@
 {
-  "sentence": "Otobüs boştu.",
+  "sentence": "Mary politika ile ilgilenir.",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Der Bus war leer."
+    "Maria interessiert sich für Politik."
   ],
   "parts": [
     {
-      "content": "Otobüs",
+      "content": "Mary",
       "translations": [
-        "Bus",
-        "Omnibus"
+        "Maria",
+        "Miriam"
+      ],
+      "usageExamples": [
+        [
+          "Mary bale dersleri alıyor.",
+          "Maria nimmt Ballettunterricht."
+        ],
+        [
+          "Mary'yi öldürdün mü?",
+          "Hast du Maria umgebracht?"
+        ],
+        [
+          "Mary bir baton kullanarak orkestrayı yönetti.",
+          "Maria dirigierte das Orchester mit einem Taktstock."
+        ]
+      ]
+    },
+    {
+      "content": "politika",
+      "translations": [
+        "Politik",
+        "Politikgestaltung"
       ],
       "usageExamples": []
     },
     {
-      "content": "boştu",
+      "content": "ile",
       "translations": [
-        "leer",
-        "frei"
+        "mit",
+        "und"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ilgilenir",
+      "translations": [
+        "interessiert sich",
+        "kümmert sich"
       ],
       "usageExamples": []
     }

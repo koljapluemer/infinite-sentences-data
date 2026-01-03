@@ -1,33 +1,54 @@
 {
-  "sentence": "Yeşil elmaları yedim.",
+  "sentence": "Tom beni arıyor mu?",
   "credits": [
-    "Sentence from Tatoeba by hesaplarinkrali (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich aß die grünen Äpfel."
+    "Sucht Tom nach mir?"
   ],
   "parts": [
     {
-      "content": "Yeşil",
+      "content": "Tom",
       "translations": [
-        "grün",
-        "grüne"
+        "Tom",
+        "Tomas"
+      ],
+      "usageExamples": [
+        [
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston."
+        ],
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?"
+        ],
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
+        ]
+      ]
+    },
+    {
+      "content": "beni",
+      "translations": [
+        "mich",
+        "mir"
       ],
       "usageExamples": []
     },
     {
-      "content": "elmaları",
+      "content": "arıyor",
       "translations": [
-        "die Äpfel",
-        "Äpfel"
+        "ruft an",
+        "sucht"
       ],
       "usageExamples": []
     },
     {
-      "content": "yedim",
+      "content": "mu",
       "translations": [
-        "ich habe gegessen",
-        "ich aß"
+        "ich",
+        "mir"
       ],
       "usageExamples": []
     }

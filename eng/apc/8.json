@@ -1,35 +1,34 @@
 {
-  "sentence": "شو بدّك¿",
+  "sentence": "بحبك كتير.",
   "credits": [
-    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What do you want?"
+    "I love you very much."
   ],
   "parts": [
     {
-      "content": "شو",
+      "content": "بحبك",
       "translations": [
-        "show"
+        "I love you.",
+        "I'm in love with you.",
+        "I care for you"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كتير",
+      "translations": [
+        "a lot",
+        "many",
+        "plenty"
       ],
       "usageExamples": [
         [
-          "شو كلمه؟",
-          "What is a word?"
-        ],
-        [
-          "شو إسمك؟",
-          "What is your name?"
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves."
         ]
       ]
-    },
-    {
-      "content": "بدّك",
-      "translations": [
-        "You want",
-        "Do you want"
-      ],
-      "usageExamples": []
     }
   ]
 }

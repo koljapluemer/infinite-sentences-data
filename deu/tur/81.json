@@ -1,56 +1,90 @@
 {
-  "sentence": "Tom'un Avustralyalı aksanı yok.",
+  "sentence": "Seni başlangıçta planlanandan daha çok seviyorum.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat keinen australischen Akzent."
+    "Ich liebe dich ein bisschen mehr als ursprünglich geplant."
   ],
   "parts": [
     {
-      "content": "Tom'un",
+      "content": "Seni",
       "translations": [
-        "Tom's",
-        "von Tom"
+        "dich",
+        "dir"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "başlangıçta",
+      "translations": [
+        "zu Beginn",
+        "anfangs"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "planlanandan",
+      "translations": [
+        "geplant",
+        "vorgesehen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "daha",
+      "translations": [
+        "mehr",
+        "noch"
       ],
       "usageExamples": [
         [
-          "Tom'un çocukları hasta.",
-          "Toms Kinder sind krank."
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen."
         ],
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
+          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
+          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!"
         ],
         [
-          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
-          "Weißt du, wohin Tom und seine Freunde gegangen sind?"
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
         ]
       ]
     },
     {
-      "content": "Avustralyalı",
+      "content": "çok",
       "translations": [
-        "Australier",
-        "Australische Person"
+        "sehr",
+        "viel"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit."
+        ],
+        [
+          "Çok fazla Fransızca konuşamam.",
+          "Ich spreche nicht viel Französisch."
+        ],
+        [
+          "Esperanto öğrenmek çok ilginçtir.",
+          "Esperanto zu lernen ist sehr interessant."
+        ]
+      ]
     },
     {
-      "content": "aksanı",
+      "content": "seviyorum",
       "translations": [
-        "Akzent",
-        "Aussprache"
+        "ich liebe dich",
+        "ich mag dich"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "yok",
-      "translations": [
-        "nicht",
-        "kein"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Yüzmeyi seviyorum.",
+          "Ich schwimme sehr gern."
+        ]
+      ]
     }
   ]
 }

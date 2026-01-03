@@ -1,58 +1,69 @@
 {
-  "sentence": "İyi bir başlangıç oldu!",
+  "sentence": "Tom'dan korktuğumu kim söylüyor?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Das fängt ja gut an!"
+    "Wer sagt, dass ich Angst vor Tom hätte?"
   ],
   "parts": [
     {
-      "content": "İyi",
+      "content": "Tom",
       "translations": [
-        "gut",
-        "schön",
-        "in Ordnung",
-        "toll"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bir",
-      "translations": [
-        "eins",
-        "ein"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
         ],
         [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache."
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich."
         ],
         [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir."
+          "Tom'u çağırmamı ister misiniz?",
+          "Wollen Sie, dass ich Tom rufe?"
         ]
       ]
     },
     {
-      "content": "başlangıç",
+      "content": "dan",
       "translations": [
-        "Anfang",
-        "Start"
+        "von",
+        "aus"
       ],
       "usageExamples": []
     },
     {
-      "content": "oldu",
+      "content": "korktuğumu",
       "translations": [
-        "es war",
-        "es ist passiert",
-        "es wurde",
-        "es geschah"
+        "ich habe Angst",
+        "ich habe Angst gehabt"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kim",
+      "translations": [
+        "wer",
+        "jemand"
+      ],
+      "usageExamples": [
+        [
+          "Bu da kim?",
+          "Wer ist das denn?"
+        ]
+      ]
+    },
+    {
+      "content": "söylüyor",
+      "translations": [
+        "sagt",
+        "er sagt",
+        "sie sagt",
+        "man sagt"
       ],
       "usageExamples": []
     }

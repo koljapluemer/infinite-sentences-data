@@ -1,77 +1,76 @@
 {
-  "sentence": "İzin olmadan pazar tezgahı kurulamaz mı?",
+  "sentence": "Tom'u çağırmamı ister misiniz?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
+    "Wollen Sie, dass ich Tom rufe?"
   ],
   "parts": [
     {
-      "content": "izin",
+      "content": "Tom",
       "translations": [
-        "Genehmigung",
-        "Erlaubnis"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "Kapıyı kapatmama izin veriniz.",
-          "Erlauben Sie mir, die Tür zu schließen."
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?"
         ],
         [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
+          "Tom beni arıyor mu?",
+          "Sucht Tom nach mir?"
         ],
         [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen."
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston."
         ]
       ]
     },
     {
-      "content": "olmadan",
+      "content": "çağır",
       "translations": [
-        "ohne",
-        "ohne zu"
+        "rufen",
+        "einladen",
+        "herbeirufen"
       ],
       "usageExamples": []
     },
     {
-      "content": "pazar",
+      "content": "mam",
       "translations": [
-        "Markt",
-        "Basar"
+        "Mama",
+        "Mutti",
+        "Mutter"
       ],
       "usageExamples": []
     },
     {
-      "content": "tezgah",
+      "content": "ı",
       "translations": [
-        "Theke",
-        "Verkaufstresen"
+        "ich",
+        "ich bin"
       ],
       "usageExamples": []
     },
     {
-      "content": "kurulamaz",
+      "content": "ister",
       "translations": [
-        "nicht eingerichtet",
-        "nicht installiert"
+        "bitte",
+        "möchten Sie"
       ],
       "usageExamples": []
     },
     {
-      "content": "mı",
+      "content": "misiniz",
       "translations": [
-        "ob",
-        "ob nicht"
+        "sind Sie",
+        "bist du",
+        "sind Sie nicht",
+        "bist du nicht"
       ],
-      "usageExamples": [
-        [
-          "O nasıl? Yaşlı mı, genç mi?",
-          "Wie ist er? Alt, oder jung?"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

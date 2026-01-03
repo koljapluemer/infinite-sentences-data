@@ -1,25 +1,35 @@
 {
-  "sentence": "مرأتي رح ع السوق",
+  "sentence": "شو إسمك؟",
   "credits": [
-    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by TheTRNQplayz_iM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My wife is going to the market."
+    "What's your name?"
   ],
   "parts": [
     {
-      "content": "رح",
+      "content": "شو",
       "translations": [
-        "to go",
-        "to leave",
-        "to depart"
+        "show",
+        "presentation"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "شو كلمه؟",
+          "What is a word?"
+        ],
+        [
+          "شو بدّك¿",
+          "What do you want?"
+        ]
+      ]
     },
     {
-      "content": "ع",
+      "content": "إسمك",
       "translations": [
-        "A"
+        "Your name",
+        "What is your name?",
+        "Please tell me your name."
       ],
       "usageExamples": []
     }

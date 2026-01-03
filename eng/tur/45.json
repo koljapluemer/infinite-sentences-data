@@ -1,27 +1,33 @@
 {
-  "sentence": "Verimli bir şekilde çalışman gerekir.",
+  "sentence": "Seni öldüremedim, Tom.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should study in an efficient manner."
+    "I couldn't kill you, Tom."
   ],
   "parts": [
     {
-      "content": "Verimli",
+      "content": "Seni",
       "translations": [
-        "efficient",
-        "productive",
-        "effective"
+        "You",
+        "I miss you."
       ],
       "usageExamples": []
     },
     {
-      "content": "bir",
+      "content": "öldüremedim",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "I couldn't kill",
+        "I wasn't able to kill"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Tom",
+        "Tommy"
       ],
       "usageExamples": [
         [
@@ -29,46 +35,12 @@
           "Tom is a bad golfer."
         ],
         [
-          "Sen gerçek bir zavallısın.",
-          "You're a real loser."
+          "Tom Mary ile konuşmayı bırakamadı.",
+          "Tom couldn't stop talking to Mary."
         ],
         [
-          "Sensiz hayatımın bir anlamı yok.",
-          "Without you, I have no reason to live."
-        ]
-      ]
-    },
-    {
-      "content": "şekilde",
-      "translations": [
-        "in a way",
-        "in a manner",
-        "like this",
-        "as such"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "çalışman",
-      "translations": [
-        "you work",
-        "you are working",
-        "your work"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gerekir",
-      "translations": [
-        "necessary",
-        "required",
-        "needed",
-        "must"
-      ],
-      "usageExamples": [
-        [
-          "Bu sorunları nasıl düzeltmemiz gerekir?",
-          "How are we supposed to fix these issues?"
+          "Tom bütün hafta cümleleri çalıştı bu yüzden hepsini doğru olarak yazabilmeliydi.",
+          "Tom studied the sentences all week so he should have been able to write all correctly."
         ]
       ]
     }

@@ -1,25 +1,38 @@
 {
-  "sentence": "Slovence güzel bir dildir.",
+  "sentence": "O, benim bir arkadaşım için.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Slowenisch ist eine schöne Sprache."
+    "Es ist für einen Freund von mir."
   ],
   "parts": [
     {
-      "content": "Slovence",
+      "content": "O",
       "translations": [
-        "Slowene",
-        "Slowenisch"
+        "O",
+        "Oh"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "O biraz çatlak.",
+          "Sie ist ein bisschen verrückt."
+        ],
+        [
+          "O nasıl? Yaşlı mı, genç mi?",
+          "Wie ist er? Alt, oder jung?"
+        ],
+        [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten."
+        ]
+      ]
     },
     {
-      "content": "güzel",
+      "content": "benim",
       "translations": [
-        "schön",
-        "hübsch"
+        "mein",
+        "meine"
       ],
       "usageExamples": []
     },
@@ -35,22 +48,45 @@
           "Tom hat eine Katze."
         ],
         [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!"
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache."
         ],
         [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir."
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!"
         ]
       ]
     },
     {
-      "content": "dildir",
+      "content": "arkadaşım",
       "translations": [
-        "Sprache",
-        "Zunge"
+        "mein Freund",
+        "meine Freundin",
+        "mein Kumpel",
+        "meine Kumpeline"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "için",
+      "translations": [
+        "für",
+        "um zu"
+      ],
+      "usageExamples": [
+        [
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen."
+        ],
+        [
+          "Öğle yemeği için ne istersin?",
+          "Was möchtest du zu essen?"
+        ],
+        [
+          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
+          "Ich muss für eine Spanienreise Spanisch lernen."
+        ]
+      ]
     }
   ]
 }

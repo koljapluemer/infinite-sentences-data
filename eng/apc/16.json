@@ -1,31 +1,34 @@
 {
-  "sentence": "مرحبا. كيفك؟",
+  "sentence": "شو بدّك¿",
   "credits": [
-    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hello, how are you?",
-    "Hi, how are you?",
-    "Hi. How are you?"
+    "What do you want?"
   ],
   "parts": [
     {
-      "content": "مرحبا",
+      "content": "شو",
       "translations": [
-        "Hello.",
-        "Hi.",
-        "Greetings",
-        "Welcome."
+        "show",
+        "presentation"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "شو كلمه؟",
+          "What is a word?"
+        ],
+        [
+          "شو إسمك؟",
+          "What's your name?"
+        ]
+      ]
     },
     {
-      "content": "كيفك",
+      "content": "بدّك",
       "translations": [
-        "How are you?",
-        "How's it going?",
-        "How do you do?",
-        "What's up?"
+        "You want",
+        "Do you want"
       ],
       "usageExamples": []
     }

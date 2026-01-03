@@ -1,40 +1,75 @@
 {
-  "sentence": "Yanlış odaya girdim.",
+  "sentence": "Sensiz hayatımın bir anlamı yok.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I went into the wrong room."
+    "Without you, I have no reason to live."
   ],
   "parts": [
     {
-      "content": "Yanlış",
+      "content": "sensiz",
       "translations": [
-        "wrong",
-        "incorrect",
-        "mistaken",
-        "false"
+        "without you",
+        "lacking you",
+        "in your absence"
       ],
       "usageExamples": []
     },
     {
-      "content": "oda",
+      "content": "hayatımın",
       "translations": [
-        "room",
-        "chamber",
-        "suite"
+        "my life",
+        "of my life"
       ],
       "usageExamples": []
     },
     {
-      "content": "girdim",
+      "content": "bir",
       "translations": [
-        "I entered",
-        "I got in",
-        "I joined",
-        "I logged in"
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Tom kötü bir golfçü.",
+          "Tom is a bad golfer."
+        ],
+        [
+          "Sen gerçek bir zavallısın.",
+          "You're a real loser."
+        ],
+        [
+          "Altmışlık sayı sistemi Babil devletinde uygulandı, bunun sonucunda bir saatte 60 dakika ve günde 24 saat var.",
+          "A sexagesimal system was used in Babylonia. Therefore an hour has sixty minutes and a day has twenty-four hours."
+        ]
+      ]
+    },
+    {
+      "content": "anlamı",
+      "translations": [
+        "meaning",
+        "significance",
+        "definition",
+        "interpretation"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "yok",
+      "translations": [
+        "none",
+        "not available",
+        "no",
+        "absent"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un ayakkabılarını çıkarmasına gerek yok.",
+          "Tom doesn't need to take his shoes off."
+        ]
+      ]
     }
   ]
 }

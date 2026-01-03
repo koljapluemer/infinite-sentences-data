@@ -1,85 +1,73 @@
 {
-  "sentence": "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
+  "sentence": "Peki, ona ne denir?",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom said he didn't know who Mary was getting married to."
+    "Well, what's it called?"
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Peki",
       "translations": [
-        "Tom",
-        "Tommy"
+        "Okay.",
+        "Alright.",
+        "Well",
+        "Fine"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ona",
+      "translations": [
+        "her",
+        "to her",
+        "that one",
+        "it"
       ],
       "usageExamples": [
         [
-          "Tom kötü bir golfçü.",
-          "Tom is a bad golfer."
+          "Biz ona birkaç tane elma verdik.",
+          "We gave her some apples."
         ],
         [
-          "Tom şişesinden bir yudum aldı.",
-          "Tom took a swig from his flask."
+          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
+          "His last album garnered him a fourth Grammy award."
+        ]
+      ]
+    },
+    {
+      "content": "ne",
+      "translations": [
+        "what",
+        "huh",
+        "right",
+        "no way"
+      ],
+      "usageExamples": [
+        [
+          "O istasyonun adı ne?",
+          "What's the name of that station?"
         ],
         [
-          "Tom heyecanını zar zor bastırdı.",
-          "Tom could hardly contain his excitement."
-        ]
-      ]
-    },
-    {
-      "content": "Mary",
-      "translations": [
-        "Mary",
-        "Maria"
-      ],
-      "usageExamples": [
+          "Bunun için bana ne vereceksin?",
+          "What'll you give me for this?"
+        ],
         [
-          "Tom Mary ile konuşmayı bırakamadı.",
-          "Tom couldn't stop talking to Mary."
+          "Yaralılar ne kadar kan kaybetti?",
+          "How much blood has the injured lost?"
         ]
       ]
     },
     {
-      "content": "kiminle",
+      "content": "denir",
       "translations": [
-        "with whom",
-        "who with"
+        "it is said",
+        "they say",
+        "one says",
+        "it is told"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "evlendiğini",
-      "translations": [
-        "you got married",
-        "you are married"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bilmediğini",
-      "translations": [
-        "you don't know it",
-        "that you don't know",
-        "not knowing it",
-        "what you don't know"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "söyledi",
-      "translations": [
-        "he/she said",
-        "they said",
-        "said"
-      ],
-      "usageExamples": [
-        [
-          "Tom bana aslında onu yapmak istemediğini söyledi.",
-          "Tom told me he didn't actually want to do that."
-        ]
-      ]
     }
   ]
 }

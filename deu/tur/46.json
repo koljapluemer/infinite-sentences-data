@@ -1,49 +1,36 @@
 {
-  "sentence": "Kartla ödeme yapılabilir mi?",
+  "sentence": "Gecikmelere sinir oluyorum.",
   "credits": [
     "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Kann man mit Karte bezahlen?"
+    "Ich ärgere mich über Verspätungen."
   ],
   "parts": [
     {
-      "content": "Kartla",
+      "content": "Gecikmelere",
       "translations": [
-        "Karte",
-        "Landkarte"
+        "Verspätungen",
+        "Verspätung"
       ],
       "usageExamples": []
     },
     {
-      "content": "ödeme",
+      "content": "sinir",
       "translations": [
-        "Zahlung",
-        "Bezahlung"
+        "Nerv",
+        "Wut",
+        "Ärger"
       ],
       "usageExamples": []
     },
     {
-      "content": "yapılabilir",
+      "content": "oluyorum",
       "translations": [
-        "machbar",
-        "durchführbar",
-        "realisierbar"
+        "ich mache",
+        "ich tue"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "mi",
-      "translations": [
-        "ich",
-        "mir"
-      ],
-      "usageExamples": [
-        [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?"
-        ]
-      ]
     }
   ]
 }

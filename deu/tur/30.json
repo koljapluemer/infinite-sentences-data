@@ -1,49 +1,73 @@
 {
-  "sentence": "Bütün oy pusulalarını saymak zorundayız.",
+  "sentence": "Bu şarkı bana birini hatırlatıyor.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wir müssen alle Stimmzettel auszählen."
+    "Dieses Lied erinnert mich an jemanden."
   ],
   "parts": [
     {
-      "content": "Bütün",
+      "content": "Bu",
       "translations": [
-        "alles",
-        "gesamt"
+        "Das",
+        "Dieses",
+        "Das hier"
+      ],
+      "usageExamples": [
+        [
+          "Bu sağduyu.",
+          "Das entspricht dem gesunden Menschenverstand."
+        ],
+        [
+          "Bu kurallara aykırıdır.",
+          "Es ist gegen die Regeln."
+        ],
+        [
+          "Bu da kim?",
+          "Wer ist das denn?"
+        ]
+      ]
+    },
+    {
+      "content": "şarkı",
+      "translations": [
+        "Lied",
+        "Song"
       ],
       "usageExamples": []
     },
     {
-      "content": "oy",
+      "content": "bana",
       "translations": [
-        "oh",
-        "ach"
+        "mir",
+        "zu mir"
+      ],
+      "usageExamples": [
+        [
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen."
+        ],
+        [
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir."
+        ]
+      ]
+    },
+    {
+      "content": "birini",
+      "translations": [
+        "einen",
+        "jemanden"
       ],
       "usageExamples": []
     },
     {
-      "content": "pusulalarını",
+      "content": "hatırlatıyor",
       "translations": [
-        "Wahlzettel",
-        "Stimmzettel"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "saymak",
-      "translations": [
-        "zählen",
-        "aufzählen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "zorundayız",
-      "translations": [
-        "wir sind verpflichtet",
-        "wir müssen"
+        "erinnert an",
+        "erinnert",
+        "macht aufmerksam auf"
       ],
       "usageExamples": []
     }

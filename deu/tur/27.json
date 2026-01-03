@@ -1,41 +1,49 @@
 {
-  "sentence": "Bugünün işini yarına bırakma.",
+  "sentence": "Bu kurallara aykırıdır.",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Was du heute kannst besorgen, das verschiebe nicht auf morgen."
+    "Es ist gegen die Regeln."
   ],
   "parts": [
     {
-      "content": "Bugünün",
+      "content": "Bu",
       "translations": [
-        "Heute",
-        "Von heute"
+        "Das",
+        "Dieses",
+        "Das hier"
+      ],
+      "usageExamples": [
+        [
+          "Bu ücretsiz ulaşılabilir.",
+          "Das ist kostenlos erhältlich."
+        ],
+        [
+          "Bu sağduyu.",
+          "Das entspricht dem gesunden Menschenverstand."
+        ],
+        [
+          "Bu da kim?",
+          "Wer ist das denn?"
+        ]
+      ]
+    },
+    {
+      "content": "kurallara",
+      "translations": [
+        "Regeln",
+        "Vorschriften"
       ],
       "usageExamples": []
     },
     {
-      "content": "işini",
+      "content": "aykırıdır",
       "translations": [
-        "seine Arbeit",
-        "seinen Job"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yarına",
-      "translations": [
-        "für morgen",
-        "bis morgen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bırakma",
-      "translations": [
-        "lass es nicht los",
-        "gib nicht auf"
+        "ist widersprüchlich",
+        "ist unvereinbar",
+        "ist abwegig",
+        "ist unlogisch"
       ],
       "usageExamples": []
     }

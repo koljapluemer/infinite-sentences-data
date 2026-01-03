@@ -1,38 +1,46 @@
 {
-  "sentence": "Dün onu gördüm.",
+  "sentence": "Bugünün işini yarına bırakma.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich habe sie gestern gesehen."
+    "Was du heute kannst besorgen, das verschiebe nicht auf morgen."
   ],
   "parts": [
     {
-      "content": "Dün",
+      "content": "Bugünün",
       "translations": [
-        "gestern",
-        "vorgestern"
+        "Heute",
+        "Von heute"
       ],
       "usageExamples": []
     },
     {
-      "content": "onu",
+      "content": "işini",
       "translations": [
-        "das",
-        "es"
+        "seine Arbeit",
+        "seinen Job"
       ],
       "usageExamples": [
         [
-          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
-          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht."
+          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Ich denke nicht, dass ihr euren Job aufgeben solltet."
         ]
       ]
     },
     {
-      "content": "gördüm",
+      "content": "yarına",
       "translations": [
-        "ich sah",
-        "ich habe gesehen"
+        "für morgen",
+        "bis morgen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bırakma",
+      "translations": [
+        "lass es nicht los",
+        "gib nicht auf"
       ],
       "usageExamples": []
     }

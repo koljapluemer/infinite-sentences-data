@@ -1,61 +1,89 @@
 {
-  "sentence": "Kapıyı kapatmama izin veriniz.",
+  "sentence": "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Erlauben Sie mir, die Tür zu schließen."
+    "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben."
   ],
   "parts": [
     {
-      "content": "kapıyı",
+      "content": "Eğer",
       "translations": [
-        "die Tür",
-        "zum Tür"
+        "Wenn",
+        "Falls"
       ],
       "usageExamples": []
     },
     {
-      "content": "kapatmama",
+      "content": "bir",
       "translations": [
-        "nicht schließen",
-        "nicht zumachen"
+        "eins",
+        "ein"
+      ],
+      "usageExamples": [
+        [
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache."
+        ],
+        [
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze."
+        ]
+      ]
+    },
+    {
+      "content": "ilişki",
+      "translations": [
+        "Beziehung",
+        "Verhältnis"
       ],
       "usageExamples": []
     },
     {
-      "content": "izin",
+      "content": "yalanlardan",
       "translations": [
-        "Genehmigung",
-        "Erlaubnis"
+        "von Lügen",
+        "aus Lügen"
       ],
-      "usageExamples": [
-        [
-          "İzin olmadan pazar tezgahı kurulamaz mı?",
-          "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
-        ],
-        [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen."
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "veriniz",
+      "content": "oluşuyorsa",
       "translations": [
-        "bitte",
-        "geben Sie mir"
+        "wenn es entsteht",
+        "falls es entsteht",
+        "sofern es entsteht"
       ],
-      "usageExamples": [
-        [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen."
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "sonunda",
+      "translations": [
+        "schließlich",
+        "endlich"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gerçeklerden",
+      "translations": [
+        "von der Realität",
+        "aus der Realität"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ölecek",
+      "translations": [
+        "sterben",
+        "tot sein"
+      ],
+      "usageExamples": []
     }
   ]
 }

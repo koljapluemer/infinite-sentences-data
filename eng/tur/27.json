@@ -1,36 +1,55 @@
 {
-  "sentence": "Onu yazmamalıydık.",
+  "sentence": "Neden biraz elma almıyoruz?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by SSibelty (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We shouldn't have written that."
+    "Why don't we buy some apples?"
   ],
   "parts": [
     {
-      "content": "onu",
+      "content": "Neden",
       "translations": [
-        "that",
-        "it",
-        "him/her"
+        "Why",
+        "What for",
+        "For what reason"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "biraz",
+      "translations": [
+        "a little",
+        "somewhat",
+        "a bit"
       ],
       "usageExamples": [
         [
-          "Onu hemen yapman gerekmiyor.",
-          "You don't have to do it right away."
-        ],
-        [
-          "Tom bana aslında onu yapmak istemediğini söyledi.",
-          "Tom told me he didn't actually want to do that."
+          "Biraz yardıma ihtiyacın olabileceğini düşündüm.",
+          "I thought you might need some help."
         ]
       ]
     },
     {
-      "content": "yazmamalıydık",
+      "content": "elma",
       "translations": [
-        "we shouldn't have written",
-        "we ought not to have written",
-        "we must not have written"
+        "apple",
+        "fruit"
+      ],
+      "usageExamples": [
+        [
+          "Biz ona birkaç tane elma verdik.",
+          "We gave her some apples."
+        ]
+      ]
+    },
+    {
+      "content": "almıyoruz",
+      "translations": [
+        "we are not taking",
+        "we do not accept",
+        "we are not receiving",
+        "we are not getting"
       ],
       "usageExamples": []
     }

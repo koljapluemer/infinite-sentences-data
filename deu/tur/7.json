@@ -1,78 +1,35 @@
 {
-  "sentence": "Bana sorunu çözmeme izin veriniz.",
+  "sentence": "Aşağı yukarı anlıyorum.",
   "credits": [
     "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Erlauben Sie mir, das Problem zu lösen."
+    "Ich verstehe ungefähr."
   ],
   "parts": [
     {
-      "content": "bana",
+      "content": "Aşağı",
       "translations": [
-        "mir",
-        "zu mir"
-      ],
-      "usageExamples": [
-        [
-          "Bu şarkı bana birini hatırlatıyor.",
-          "Dieses Lied erinnert mich an jemanden."
-        ],
-        [
-          "Son zamanlarda daha az hasta bana geliyor.",
-          "In letzter Zeit kamen immer weniger Patienten zu mir."
-        ]
-      ]
-    },
-    {
-      "content": "sorunu",
-      "translations": [
-        "Problem",
-        "Schwierigkeit"
+        "unten",
+        "nach unten"
       ],
       "usageExamples": []
     },
     {
-      "content": "çözmeme",
+      "content": "yukarı",
       "translations": [
-        "nicht lösen",
-        "nicht auflösen"
+        "oben",
+        "nach oben"
       ],
       "usageExamples": []
     },
     {
-      "content": "izin",
+      "content": "anlıyorum",
       "translations": [
-        "Genehmigung",
-        "Erlaubnis"
+        "ich verstehe",
+        "ich begreife"
       ],
-      "usageExamples": [
-        [
-          "Kapıyı kapatmama izin veriniz.",
-          "Erlauben Sie mir, die Tür zu schließen."
-        ],
-        [
-          "İzin olmadan pazar tezgahı kurulamaz mı?",
-          "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
-        ]
-      ]
-    },
-    {
-      "content": "veriniz",
-      "translations": [
-        "bitte",
-        "geben Sie mir"
-      ],
-      "usageExamples": [
-        [
-          "Kapıyı kapatmama izin veriniz.",
-          "Erlauben Sie mir, die Tür zu schließen."
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

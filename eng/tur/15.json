@@ -1,37 +1,55 @@
 {
-  "sentence": "Lütfen rahatınıza bakın.",
+  "sentence": "En son kaça olur?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please make yourselves comfortable."
+    "Quote me your best price."
   ],
   "parts": [
     {
-      "content": "Lütfen",
+      "content": "En",
       "translations": [
-        "Please.",
-        "Kindly"
+        "In",
+        "Inside",
+        "Within"
+      ],
+      "usageExamples": [
+        [
+          "En kötüsü için hazırlanıyorum.",
+          "I'm getting ready for the worst."
+        ]
+      ]
+    },
+    {
+      "content": "son",
+      "translations": [
+        "last",
+        "final",
+        "end"
+      ],
+      "usageExamples": [
+        [
+          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
+          "His last album garnered him a fourth Grammy award."
+        ]
+      ]
+    },
+    {
+      "content": "kaça",
+      "translations": [
+        "how much",
+        "how many"
       ],
       "usageExamples": []
     },
     {
-      "content": "rahatınıza",
+      "content": "olur",
       "translations": [
-        "to your comfort",
-        "for your convenience",
-        "for your ease",
-        "to your relaxation"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bakın",
-      "translations": [
-        "look",
-        "see",
-        "check it out",
-        "take a look"
+        "it happens",
+        "it will be",
+        "that's fine",
+        "okay"
       ],
       "usageExamples": []
     }

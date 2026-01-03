@@ -1,25 +1,62 @@
 {
-  "sentence": "Karımı arıyorum.",
+  "sentence": "Gemiler rüzgar ve yağmurdan etkilenirler.",
   "credits": [
-    "Sentence from Tatoeba by janTuki (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich suche meine Frau."
+    "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen."
   ],
   "parts": [
     {
-      "content": "Karımı",
+      "content": "Gemiler",
       "translations": [
-        "meine Frau",
-        "meine Ehefrau"
+        "Schiffe",
+        "Boote"
       ],
       "usageExamples": []
     },
     {
-      "content": "arıyorum",
+      "content": "rüzgar",
       "translations": [
-        "ich suche",
-        "ich rufe an"
+        "Wind",
+        "Luftzug"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ve",
+      "translations": [
+        "und",
+        "oder"
+      ],
+      "usageExamples": [
+        [
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen."
+        ],
+        [
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
+        ],
+        [
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?"
+        ]
+      ]
+    },
+    {
+      "content": "yağmurdan",
+      "translations": [
+        "aus dem Regen",
+        "vor dem Regen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "etkilenirler",
+      "translations": [
+        "sie werden beeinflusst",
+        "sie sind betroffen"
       ],
       "usageExamples": []
     }

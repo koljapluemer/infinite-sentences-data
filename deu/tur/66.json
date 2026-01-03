@@ -1,36 +1,72 @@
 {
-  "sentence": "Sakın pes etme!",
+  "sentence": "Neden bu kadar uzun düşünüyorsun?",
   "credits": [
-    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Nur nicht aufgeben!"
+    "Warum überlegen Sie so lange?"
   ],
   "parts": [
     {
-      "content": "Sakın",
+      "content": "Neden",
       "translations": [
-        "Vorsicht",
-        "Achtung",
-        "Sei vorsichtig",
-        "Pass auf"
+        "Warum",
+        "Weshalb",
+        "Wieso"
       ],
       "usageExamples": []
     },
     {
-      "content": "pes",
+      "content": "bu",
       "translations": [
-        "Füße",
-        "Beine"
+        "dies",
+        "das"
+      ],
+      "usageExamples": [
+        [
+          "Bence bu inanılmaz.",
+          "Ich denke, es ist unglaublich."
+        ],
+        [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten."
+        ],
+        [
+          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde."
+        ]
+      ]
+    },
+    {
+      "content": "kadar",
+      "translations": [
+        "bis",
+        "so viel wie"
+      ],
+      "usageExamples": [
+        [
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
+        ],
+        [
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen."
+        ]
+      ]
+    },
+    {
+      "content": "uzun",
+      "translations": [
+        "lang",
+        "langwierig"
       ],
       "usageExamples": []
     },
     {
-      "content": "etme",
+      "content": "düşünüyorsun",
       "translations": [
-        "tu es nicht",
-        "mach es nicht",
-        "lass es sein"
+        "du denkst",
+        "du überlegst"
       ],
       "usageExamples": []
     }

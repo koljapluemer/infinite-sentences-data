@@ -1,44 +1,70 @@
 {
-  "sentence": "كم مدرسة في بمدينتك؟",
+  "sentence": "توم يفهم ما لا تفهمه.",
   "credits": [
     "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How many schools are there in your city?"
+    "Tom understands what you don't."
   ],
   "parts": [
     {
-      "content": "كم",
+      "content": "توم",
       "translations": [
-        "How much?",
-        "How many?"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "مدرسة",
-      "translations": [
-        "school",
-        "educational institution",
-        "academy",
-        "learning center"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "في",
-      "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "كان في مرّة...",
-          "Once upon a time..."
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves."
+        ],
+        [
+          "عالأغلب توم لح يساوي يلي لح تطلبه.",
+          "I suspect Tom will do whatever you ask."
+        ],
+        [
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't."
         ]
       ]
+    },
+    {
+      "content": "يفهم",
+      "translations": [
+        "grasp",
+        "get"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ما",
+      "translations": [
+        "what",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't."
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves."
+        ],
+        [
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't."
+        ]
+      ]
+    },
+    {
+      "content": "لا",
+      "translations": [
+        "No.",
+        "Not",
+        "None",
+        "Negative."
+      ],
+      "usageExamples": []
     }
   ]
 }

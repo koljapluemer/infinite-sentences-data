@@ -1,28 +1,71 @@
 {
-  "sentence": "Deli! Çılgın!",
+  "sentence": "Bu şehrin nüfusu her yıl azalıyor.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Verrückt!"
+    "Die Bevölkerung dieser Stadt wird jedes Jahr kleiner."
   ],
   "parts": [
     {
-      "content": "Deli",
+      "content": "Bu",
       "translations": [
-        "verrückt",
-        "crazy",
-        "narr",
-        "toll"
+        "Das",
+        "Dieses",
+        "Das hier"
+      ],
+      "usageExamples": [
+        [
+          "Bu da kim?",
+          "Wer ist das denn?"
+        ],
+        [
+          "Bu sağduyu.",
+          "Das entspricht dem gesunden Menschenverstand."
+        ],
+        [
+          "Bu kurallara aykırıdır.",
+          "Es ist gegen die Regeln."
+        ]
+      ]
+    },
+    {
+      "content": "şehrin",
+      "translations": [
+        "der Stadt",
+        "der Stadtteil"
       ],
       "usageExamples": []
     },
     {
-      "content": "Çılgın",
+      "content": "nüfusu",
       "translations": [
-        "verrückt",
-        "wahnsinnig",
-        "crazy"
+        "Bevölkerung",
+        "Einwohnerzahl"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "her",
+      "translations": [
+        "hier",
+        "da"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "yıl",
+      "translations": [
+        "Jahr",
+        "Jahre"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "azalıyor",
+      "translations": [
+        "nimmt ab",
+        "verringert sich"
       ],
       "usageExamples": []
     }

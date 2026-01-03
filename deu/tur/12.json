@@ -1,53 +1,44 @@
 {
-  "sentence": "Bence bu inanılmaz.",
+  "sentence": "Ben hatırlamak istiyordum.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich denke, es ist unglaublich."
+    "Ich wollte mich erinnern."
   ],
   "parts": [
     {
-      "content": "bence",
+      "content": "Ben",
       "translations": [
-        "ich denke",
-        "meiner Meinung nach"
+        "Ich",
+        "Mir"
+      ],
+      "usageExamples": [
+        [
+          "Ben senin babanı tanıyorum.",
+          "Ich kenne deinen Vater."
+        ],
+        [
+          "Ben de böyle olsun istemezdim.",
+          "Ich hab auch nicht gewollt, dass es so kommt."
+        ]
+      ]
+    },
+    {
+      "content": "hatırlamak",
+      "translations": [
+        "erinnern",
+        "sich erinnern"
       ],
       "usageExamples": []
     },
     {
-      "content": "bu",
+      "content": "istiyordum",
       "translations": [
-        "dies",
-        "das"
+        "ich wollte",
+        "ich habe gewollt"
       ],
-      "usageExamples": [
-        [
-          "Neden bu kadar uzun düşünüyorsun?",
-          "Warum überlegen Sie so lange?"
-        ],
-        [
-          "O bu sırrı açık etmek istiyor.",
-          "Sie wollte das Geheimnis verraten."
-        ],
-        [
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde."
-        ]
-      ]
-    },
-    {
-      "content": "inanılmaz",
-      "translations": [
-        "unglaublich",
-        "unfassbar"
-      ],
-      "usageExamples": [
-        [
-          "Onun bunu başarması inanılmaz.",
-          "Es ist unwahrscheinlich, dass es ihm gelungen ist."
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

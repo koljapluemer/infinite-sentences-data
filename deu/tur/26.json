@@ -1,56 +1,64 @@
 {
-  "sentence": "Bugün Tom, Mary'yi gördü.",
+  "sentence": "Bu da kim?",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat Mary heute gesehen."
+    "Wer ist das denn?"
   ],
   "parts": [
     {
-      "content": "Bugün",
+      "content": "Bu",
       "translations": [
-        "Heute",
-        "Heute Abend"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Tom",
-        "Tomas"
+        "Das",
+        "Dieses",
+        "Das hier"
       ],
       "usageExamples": [
         [
-          "Tom'u çağırmamı ister misiniz?",
-          "Wollen Sie, dass ich Tom rufe?"
+          "Bu sağduyu.",
+          "Das entspricht dem gesunden Menschenverstand."
         ],
         [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?"
+          "Bu kurallara aykırıdır.",
+          "Es ist gegen die Regeln."
         ],
         [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist."
+          "Bu ücretsiz ulaşılabilir.",
+          "Das ist kostenlos erhältlich."
         ]
       ]
     },
     {
-      "content": "Mary'yi",
+      "content": "da",
       "translations": [
-        "Mary",
-        "Maria"
+        "da",
+        "dort",
+        "da drüben"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
+        ],
+        [
+          "Ateşsiz duman da çıkabilir.",
+          "Rauch kann auch ohne Feuer entstehen."
+        ]
+      ]
     },
     {
-      "content": "gördü",
+      "content": "kim",
       "translations": [
-        "sahip oldu",
-        "gördü"
+        "wer",
+        "jemand"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?"
+        ]
+      ]
     }
   ]
 }

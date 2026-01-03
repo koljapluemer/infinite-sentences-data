@@ -1,26 +1,65 @@
 {
-  "sentence": "Konser nasıldı?",
+  "sentence": "En kötüsü için hazırlanıyorum.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How was the concert?"
+    "I'm getting ready for the worst."
   ],
   "parts": [
     {
-      "content": "Konser",
+      "content": "En",
       "translations": [
-        "concert",
-        "gig",
-        "show"
+        "In",
+        "Inside",
+        "Within"
+      ],
+      "usageExamples": [
+        [
+          "En son kaça olur?",
+          "Quote me your best price."
+        ]
+      ]
+    },
+    {
+      "content": "kötüsü",
+      "translations": [
+        "the worst",
+        "bad one",
+        "the bad part",
+        "the downside"
       ],
       "usageExamples": []
     },
     {
-      "content": "nasıldı",
+      "content": "için",
       "translations": [
-        "how was it",
-        "how did it go"
+        "for",
+        "in order to",
+        "to",
+        "because of"
+      ],
+      "usageExamples": [
+        [
+          "Onu görmem için bana izin verilmedi.",
+          "I wasn't permitted to see him."
+        ],
+        [
+          "O benim için gerçekten eğlenceliydi.",
+          "That was really fun for me."
+        ],
+        [
+          "Bunun için bana ne vereceksin?",
+          "What'll you give me for this?"
+        ]
+      ]
+    },
+    {
+      "content": "hazırlanıyorum",
+      "translations": [
+        "I am getting ready.",
+        "I am preparing",
+        "I am getting prepared"
       ],
       "usageExamples": []
     }

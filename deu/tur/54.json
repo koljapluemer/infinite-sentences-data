@@ -1,70 +1,61 @@
 {
-  "sentence": "Neden bu kadar uzun düşünüyorsun?",
+  "sentence": "Kapıyı kapatmama izin veriniz.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Warum überlegen Sie so lange?"
+    "Erlauben Sie mir, die Tür zu schließen."
   ],
   "parts": [
     {
-      "content": "Neden",
+      "content": "kapıyı",
       "translations": [
-        "Warum",
-        "Weshalb",
-        "Wieso"
+        "die Tür",
+        "zum Tür"
       ],
       "usageExamples": []
     },
     {
-      "content": "bu",
+      "content": "kapatmama",
       "translations": [
-        "dies",
-        "das"
+        "nicht schließen",
+        "nicht zumachen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "izin",
+      "translations": [
+        "Genehmigung",
+        "Erlaubnis"
       ],
       "usageExamples": [
         [
-          "Bence bu inanılmaz.",
-          "Ich denke, es ist unglaublich."
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen."
         ],
         [
-          "O bu sırrı açık etmek istiyor.",
-          "Sie wollte das Geheimnis verraten."
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen."
         ],
         [
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde."
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
         ]
       ]
     },
     {
-      "content": "kadar",
+      "content": "veriniz",
       "translations": [
-        "bis",
-        "so viel wie"
+        "bitte",
+        "geben Sie mir"
       ],
       "usageExamples": [
         [
-          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
-          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen."
         ]
       ]
-    },
-    {
-      "content": "uzun",
-      "translations": [
-        "lang",
-        "langwierig"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "düşünüyorsun",
-      "translations": [
-        "du denkst",
-        "du überlegst"
-      ],
-      "usageExamples": []
     }
   ]
 }

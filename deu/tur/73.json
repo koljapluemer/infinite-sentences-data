@@ -1,36 +1,53 @@
 {
-  "sentence": "Spor sever misin?",
+  "sentence": "Onun bunu başarması inanılmaz.",
   "credits": [
-    "Sentence from Tatoeba by ritualesatanum (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by odien16 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Magst du Sport?"
+    "Es ist unwahrscheinlich, dass es ihm gelungen ist."
   ],
   "parts": [
     {
-      "content": "Spor",
+      "content": "Onun",
       "translations": [
-        "Sport",
-        "Spor"
+        "seine",
+        "ihr"
+      ],
+      "usageExamples": [
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde."
+        ]
+      ]
+    },
+    {
+      "content": "bunu",
+      "translations": [
+        "das",
+        "dieses"
       ],
       "usageExamples": []
     },
     {
-      "content": "sever",
+      "content": "başarması",
       "translations": [
-        "trennen",
-        "abteilen",
-        "teilen"
+        "es schaffen",
+        "es gelingen"
       ],
       "usageExamples": []
     },
     {
-      "content": "misin",
+      "content": "inanılmaz",
       "translations": [
-        "wie",
-        "als ob"
+        "unglaublich",
+        "unfassbar"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bence bu inanılmaz.",
+          "Ich denke, es ist unglaublich."
+        ]
+      ]
     }
   ]
 }

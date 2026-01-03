@@ -1,48 +1,63 @@
 {
-  "sentence": "Cümlenin sonunda nokta eksik.",
+  "sentence": "Bu sorunları nasıl düzeltmemiz gerekir?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The period is missing at the end of the sentence."
+    "How are we supposed to fix these issues?"
   ],
   "parts": [
     {
-      "content": "Cümlenin",
+      "content": "Bu",
       "translations": [
-        "The sentence's",
-        "Of the sentence"
+        "This",
+        "It"
       ],
       "usageExamples": []
     },
     {
-      "content": "sonunda",
+      "content": "sorunları",
       "translations": [
-        "finally",
-        "at last",
-        "in the end",
-        "ultimately"
+        "problems",
+        "issues",
+        "troubles",
+        "challenges"
       ],
       "usageExamples": []
     },
     {
-      "content": "nokta",
+      "content": "nasıl",
       "translations": [
-        "point",
-        "dot",
-        "spot"
+        "how",
+        "what way",
+        "in what manner"
       ],
       "usageExamples": []
     },
     {
-      "content": "eksik",
+      "content": "düzeltmemiz",
       "translations": [
-        "missing",
-        "deficient",
-        "lacking",
-        "incomplete"
+        "we need to correct",
+        "we should fix",
+        "we must amend",
+        "we have to adjust"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "gerekir",
+      "translations": [
+        "necessary",
+        "required",
+        "needed",
+        "must"
+      ],
+      "usageExamples": [
+        [
+          "Verimli bir şekilde çalışman gerekir.",
+          "You should study in an efficient manner."
+        ]
+      ]
     }
   ]
 }

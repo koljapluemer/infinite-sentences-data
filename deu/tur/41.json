@@ -1,32 +1,44 @@
 {
-  "sentence": "Hava nasıl?",
+  "sentence": "Dün onu gördüm.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wie ist das Wetter?"
+    "Ich habe sie gestern gesehen."
   ],
   "parts": [
     {
-      "content": "Hava",
+      "content": "Dün",
       "translations": [
-        "Luft",
-        "Wetter"
+        "gestern",
+        "vorgestern"
       ],
       "usageExamples": []
     },
     {
-      "content": "nasıl",
+      "content": "onu",
       "translations": [
-        "wie",
-        "was für ein"
+        "das",
+        "es"
       ],
       "usageExamples": [
         [
-          "O nasıl? Yaşlı mı, genç mi?",
-          "Wie ist er? Alt, oder jung?"
+          "Babam onu ​​tanıyordu.",
+          "Mein Vater kannte ihn."
+        ],
+        [
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht."
         ]
       ]
+    },
+    {
+      "content": "gördüm",
+      "translations": [
+        "ich sah",
+        "ich habe gesehen"
+      ],
+      "usageExamples": []
     }
   ]
 }

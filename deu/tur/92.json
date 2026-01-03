@@ -1,69 +1,62 @@
 {
-  "sentence": "Öğle yemeği için ne istersin?",
+  "sentence": "Tom mutsuz, değil mi?",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Was möchtest du zu essen?"
+    "Tom ist unglücklich, nicht wahr?"
   ],
   "parts": [
     {
-      "content": "Öğle",
+      "content": "Tom",
       "translations": [
-        "Mittag",
-        "zu Mittag"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yemeği",
-      "translations": [
-        "das Essen",
-        "die Mahlzeit"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "için",
-      "translations": [
-        "für",
-        "um zu"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir."
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist."
         ],
         [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen."
         ],
         [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen."
+          "Tom sonuçları analiz etti.",
+          "Tom analysierte die Ergebnisse."
         ]
       ]
     },
     {
-      "content": "ne",
+      "content": "mutsuz",
+      "translations": [
+        "unglücklich",
+        "traurig",
+        "missmutig"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "değil",
       "translations": [
         "nicht",
         "kein"
       ],
-      "usageExamples": [
-        [
-          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
-          "Unser Wissen wird immer breiter, aber leider nicht tiefer."
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "istersin",
+      "content": "mi",
       "translations": [
-        "du bist",
-        "du bist es"
+        "ich",
+        "mir"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Kartla ödeme yapılabilir mi?",
+          "Kann man mit Karte bezahlen?"
+        ]
+      ]
     }
   ]
 }

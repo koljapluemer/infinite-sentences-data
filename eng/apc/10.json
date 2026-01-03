@@ -1,67 +1,88 @@
 {
-  "sentence": "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
+  "sentence": "توم بيفهم اللي انت ما بتفهمه.",
   "credits": [
     "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have a cat and a dog. The cat is black and the dog is white."
+    "Tom understands what you don't."
   ],
   "parts": [
     {
-      "content": "عندي",
+      "content": "توم",
       "translations": [
-        "I have",
-        "I possess",
-        "I own"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "عندي قاموس منيح.",
-          "I have a good dictionary."
+          "عالأغلب توم لح يساوي يلي لح تطلبه.",
+          "I suspect Tom will do whatever you ask."
+        ],
+        [
+          "توم يفهم ما لا تفهمه.",
+          "Tom understands what you don't."
+        ],
+        [
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't."
         ]
       ]
     },
     {
-      "content": "و",
+      "content": "بيفهم",
       "translations": [
-        "and",
-        "also",
-        "as well as"
+        "understands",
+        "grasp"
+      ],
+      "usageExamples": [
+        [
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't."
+        ]
+      ]
+    },
+    {
+      "content": "اللي",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "the one"
+      ],
+      "usageExamples": [
+        [
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't."
+        ]
+      ]
+    },
+    {
+      "content": "انت",
+      "translations": [
+        "You",
+        "You are"
       ],
       "usageExamples": []
     },
     {
-      "content": "كلب",
+      "content": "ما",
       "translations": [
-        "dog"
+        "what",
+        "which"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "سودة",
-      "translations": [
-        "black",
-        "dark",
-        "sorrow"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "والكلب",
-      "translations": [
-        "the dog"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أبيض",
-      "translations": [
-        "white",
-        "clear",
-        "pure",
-        "blank"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't."
+        ],
+        [
+          "توم يفهم ما لا تفهمه.",
+          "Tom understands what you don't."
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves."
+        ]
+      ]
     }
   ]
 }

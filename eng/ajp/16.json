@@ -1,76 +1,128 @@
 {
-  "sentence": "تون بيحب يعمل هاد الساعة ٢:٣٠.",
+  "sentence": "توم قال إنه ممكن رح يمشي على الشغل بكرا.",
   "credits": [
-    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom likes to do that at 2:30."
+    "Tom said he may walk to work tomorrow."
   ],
   "parts": [
     {
-      "content": "تون",
+      "content": "توم",
       "translations": [
-        "you",
-        "your"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بيحب",
-      "translations": [
-        "he loves",
-        "he likes"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "يعمل",
-      "translations": [
-        "works",
-        "is working",
-        "functions",
-        "operates"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "هاد",
-      "translations": [
-        "this",
-        "that"
+        "Tom",
+        "You"
       ],
       "usageExamples": [
         [
-          "فيهم يعملو هاد لحالهم.",
-          "They're able to do that on their own."
+          "رحنا لنوشف توم.",
+          "We went to see Tom.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
         ],
         [
-          "كيف نشرح هاد؟",
-          "How do we explain this?"
+          "توم كان بطلي.",
+          "Tom was my hero.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
         ],
         [
-          "أنا متأكد أنه توم بيفهم هاد.",
-          "I'm sure Tom understands that."
+          "توم ما حتى فتح الظرف.",
+          "Tom didn't even open the envelope.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "الساعة",
+      "content": "قال",
       "translations": [
-        "the hour",
-        "the clock",
-        "o'clock"
+        "he said",
+        "he stated",
+        "he mentioned",
+        "he told"
+      ],
+      "usageExamples": [
+        [
+          "قال اِنُّه كْتير بَرْدان",
+          "He said that he was very cold.",
+          "Sentence from Tatoeba by karimique (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "إنه",
+      "translations": [
+        "It is",
+        "He is",
+        "That is"
+      ],
+      "usageExamples": [
+        [
+          "إنه مش زي عندي إشي أحسن عشان أعمل.",
+          "It's not as if I have anything better to do.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ممكن",
+      "translations": [
+        "possible",
+        "can",
+        "may",
+        "is it possible"
       ],
       "usageExamples": []
     },
     {
-      "content": "٢:٣٠",
+      "content": "رح",
       "translations": [
-        "2:30",
-        "two thirty",
-        "half past two"
+        "Go",
+        "Come"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "يمشي",
+      "translations": [
+        "walks",
+        "is walking",
+        "goes"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "على",
+      "translations": [
+        "on",
+        "upon",
+        "at",
+        "about"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "الشغل",
+      "translations": [
+        "work",
+        "job",
+        "business",
+        "task"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "بكرا",
+      "translations": [
+        "tomorrow",
+        "by tomorrow"
+      ],
+      "usageExamples": [
+        [
+          "أنت ناوي تعمل هادا مرة تانية بكرا، صح؟",
+          "You're planning to do that again tomorrow, aren't you?",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

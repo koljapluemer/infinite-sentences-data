@@ -1,66 +1,52 @@
 {
-  "sentence": "عايز أروّح البيت دلوقتي.",
+  "sentence": "توم مبيشربش شاي.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I would like to go home now."
+    "Tom doesn't drink tea."
   ],
   "parts": [
     {
-      "content": "عايز",
+      "content": "توم",
       "translations": [
-        "I want",
-        "I need",
-        "I would like"
+        "you",
+        "you (singular)"
       ],
       "usageExamples": [
         [
-          "عايز أروح المستشفى.",
-          "I want to go to the hospital."
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ],
         [
-          "عايز أكون ساحر.",
-          "I want to be a magician."
+          "توم ممكن يقول لأهله.",
+          "Tom may tell his parents.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مابصش عليها حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "أروّح",
+      "content": "مبيشربش",
       "translations": [
-        "I feel better.",
-        "I relax",
-        "I unwind",
-        "I refresh"
+        "doesn't drink",
+        "not drinking"
       ],
       "usageExamples": []
     },
     {
-      "content": "البيت",
+      "content": "شاي",
       "translations": [
-        "the house",
-        "the home"
+        "tea",
+        "chai"
       ],
-      "usageExamples": [
-        [
-          "أقدر أشتري البيت ده على كام؟",
-          "How much could I buy this house for?"
-        ]
-      ]
-    },
-    {
-      "content": "دلوقتي",
-      "translations": [
-        "now",
-        "right now",
-        "at the moment"
-      ],
-      "usageExamples": [
-        [
-          "معلش اعملها دلوقتي حالا",
-          "Please do this immediately."
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

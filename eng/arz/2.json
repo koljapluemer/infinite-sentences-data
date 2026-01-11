@@ -1,64 +1,106 @@
 {
-  "sentence": "أنا بخاف م الزلازل.",
+  "sentence": "أقدر أشتري البيت ده على كام؟",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm afraid of earthquakes."
+    "How much could I buy this house for?"
   ],
   "parts": [
     {
-      "content": "أنا",
+      "content": "أقدر",
       "translations": [
-        "I am.",
-        "I",
-        "Me"
-      ],
-      "usageExamples": [
-        [
-          "أنا لسه شايفه.",
-          "I just saw him."
-        ],
-        [
-          "أنا فخوره بيها جدا.",
-          "I'm very proud of it."
-        ],
-        [
-          "هو أنا شكلي إرهابي؟",
-          "Do I look like a terrorist?"
-        ]
-      ]
-    },
-    {
-      "content": "بخاف",
-      "translations": [
-        "I'm afraid.",
-        "I fear",
-        "I'm scared."
+        "I can.",
+        "I am able to"
       ],
       "usageExamples": []
     },
     {
-      "content": "م",
+      "content": "أشتري",
       "translations": [
-        "M",
-        "Em",
-        "Letter M"
+        "I buy",
+        "I will buy",
+        "I am buying"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "البيت",
+      "translations": [
+        "the house",
+        "the home"
       ],
       "usageExamples": [
         [
-          "مات م السرطان.",
-          "He died of cancer."
+          "عايز أروّح البيت دلوقتي.",
+          "I would like to go home now.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "شكرا انك وصّلتني البيت. تصبح على خير.",
+          "Thanks for bringing me home. Good night.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "الزلازل",
+      "content": "ده",
       "translations": [
-        "earthquakes",
-        "seismic activity"
+        "this",
+        "that"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "الورد ده رحته مميزة.",
+          "These flowers have a unique smell.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "منقدرش نشتغل في الحر ده.",
+          "We can't work in this heat.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "على",
+      "translations": [
+        "on",
+        "upon",
+        "at",
+        "about"
+      ],
+      "usageExamples": [
+        [
+          "ثبّتنا السعر على خمستاشر دُلَر.",
+          "We fixed the price at $15.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "ما تعاملش الناس بناءً على جنسيتهم أو جنسهم أو شغلهم.",
+          "Don't discriminate against people based on nationality, gender, or occupation.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "شكرا انك وصّلتني البيت. تصبح على خير.",
+          "Thanks for bringing me home. Good night.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "كام",
+      "translations": [
+        "how much",
+        "how many"
+      ],
+      "usageExamples": [
+        [
+          "توم بيعوم كام ساعه فاليوم؟",
+          "How many hours a day does Tom swim?",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

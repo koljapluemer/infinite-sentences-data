@@ -1,47 +1,50 @@
 {
-  "sentence": "كويس إنّك جيت بدري.",
+  "sentence": "حستها حاجه غريبه.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That you have come early is a good thing."
+    "I thought that it was weird."
   ],
   "parts": [
     {
-      "content": "كويس",
+      "content": "حستها",
       "translations": [
-        "good",
-        "fine",
-        "okay",
-        "alright"
+        "I felt it",
+        "I sensed it",
+        "I noticed it"
       ],
       "usageExamples": []
     },
     {
-      "content": "إنّك",
+      "content": "حاجه",
       "translations": [
-        "Indeed you",
-        "Surely you",
-        "You are",
-        "Truly you"
+        "thing",
+        "need",
+        "requirement",
+        "matter"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "هعمل اي حاجه عشانك.",
+          "I'll do anything for you.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "مَتْقلش حاجه بس.",
+          "Just don't say anything.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "جيت",
+      "content": "غريبه",
       "translations": [
-        "I came.",
-        "I arrived.",
-        "I got here"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بدري",
-      "translations": [
-        "early",
-        "soon",
-        "beforehand"
+        "strange",
+        "weird",
+        "odd",
+        "unusual"
       ],
       "usageExamples": []
     }

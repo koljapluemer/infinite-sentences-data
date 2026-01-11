@@ -1,56 +1,51 @@
 {
-  "sentence": "بيتكلم أسباني و فرنساوي كمان.",
+  "sentence": "المجرم ارتكب جريمة فظيعة.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He speaks Spanish as well as French."
+    "The criminal committed a horrible crime."
   ],
   "parts": [
     {
-      "content": "بيتكلم",
+      "content": "المجرم",
       "translations": [
-        "He is talking",
-        "He speaks",
-        "He is speaking."
+        "the criminal",
+        "the offender",
+        "the perpetrator"
       ],
       "usageExamples": []
     },
     {
-      "content": "أسباني",
+      "content": "ارتكب",
       "translations": [
-        "Spanish",
-        "Spanish person"
+        "committed",
+        "perpetrated",
+        "engaged in",
+        "carried out"
       ],
       "usageExamples": []
     },
     {
-      "content": "فرنساوي",
+      "content": "جريمة",
       "translations": [
-        "French",
-        "French person"
+        "crime",
+        "offense",
+        "felony",
+        "wrongdoing"
       ],
-      "usageExamples": [
-        [
-          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
-          "You're the only one working here who can speak French."
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "كمان",
+      "content": "فظيعة",
       "translations": [
-        "also",
-        "too",
-        "as well",
-        "again"
+        "terrible",
+        "awful",
+        "horrible",
+        "dreadful"
       ],
-      "usageExamples": [
-        [
-          "توم كان مشغول وأنا كمان كنت مشغول.",
-          "Tom was busy and so was I."
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

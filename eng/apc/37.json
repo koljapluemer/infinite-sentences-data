@@ -1,41 +1,45 @@
 {
-  "sentence": "يا ريتني كنت أطول",
+  "sentence": "هي بتحكي عربي شويه.",
   "credits": [
-    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I wish I was taller."
+    "She speaks a little Arabic."
   ],
   "parts": [
     {
-      "content": "يا",
+      "content": "هي",
       "translations": [
-        "O",
-        "Oh.",
-        "Hey.",
-        "Ya"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ريتني",
-      "translations": [
-        "Let me know."
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "كنت",
-      "translations": [
-        "I was",
-        "You were"
+        "she",
+        "her"
       ],
       "usageExamples": [
         [
-          "كنت مشغول.",
-          "You were busy."
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "بتحكي",
+      "translations": [
+        "She is talking.",
+        "You are talking",
+        "He is speaking."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "شويه",
+      "translations": [
+        "a little",
+        "some",
+        "a bit",
+        "slightly"
+      ],
+      "usageExamples": []
     }
   ]
 }

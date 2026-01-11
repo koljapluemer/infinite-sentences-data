@@ -1,46 +1,134 @@
 {
-  "sentence": "سواق التاكسي متعورش جامد.",
+  "sentence": "توم كان مشغول وأنا كمان كنت مشغول.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The cab driver wasn't seriously injured."
+    "Tom was busy and so was I."
   ],
   "parts": [
     {
-      "content": "سواق",
+      "content": "توم",
       "translations": [
-        "driver",
-        "chauffeur"
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "توم ممكن يقول لأهله.",
+          "Tom may tell his parents.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "كان",
+      "translations": [
+        "was",
+        "were",
+        "used to be"
+      ],
+      "usageExamples": [
+        [
+          "كان محتاج نضّارة.",
+          "He needed glasses.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "نانسي كان شكلها تعبانة خالص.",
+          "Nancy looks so tired.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "المسرح كان بيبقى فاتح كل يوم في الأسبوع.",
+          "The theater used to open every day of the week.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "مشغول",
+      "translations": [
+        "busy",
+        "occupied"
       ],
       "usageExamples": []
     },
     {
-      "content": "التاكسي",
+      "content": "وأنا",
       "translations": [
-        "the taxi",
-        "taxi"
+        "And I",
+        "As for me"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
+          "\"She likes music.\" \"So do I.\"",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "متعورش",
+      "content": "كمان",
       "translations": [
-        "not hungry",
-        "not starving",
-        "not in need of food"
+        "also",
+        "too",
+        "as well",
+        "again"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "جرب كمان مرة.",
+          "Try it again.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "بيتكلم أسباني و فرنساوي كمان.",
+          "He speaks Spanish as well as French.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
+          "\"She likes music.\" \"So do I.\"",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "جامد",
+      "content": "كنت",
       "translations": [
-        "solid",
-        "stiff",
-        "rigid",
-        "inflexible"
+        "I was",
+        "I used to be",
+        "I have been"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "كنت بحلم.",
+          "I was dreaming.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت في المستشفى.",
+          "I was in the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت هنا امبارح.",
+          "I was just here yesterday.",
+          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

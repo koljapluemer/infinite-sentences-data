@@ -1,27 +1,44 @@
 {
-  "sentence": "ساعدوا بعض في الواجب.",
+  "sentence": "توم ريحته في المكان.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Help each other with homework."
+    "This place smells like Tom."
   ],
   "parts": [
     {
-      "content": "ساعدوا",
+      "content": "توم",
       "translations": [
-        "help them",
-        "assist them"
+        "you",
+        "you (singular)"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم مابصش عليها حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم ممكن يقول لأهله.",
+          "Tom may tell his parents.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مبيشربش شاي.",
+          "Tom doesn't drink tea.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "بعض",
+      "content": "ريحته",
       "translations": [
-        "some",
-        "a few",
-        "certain",
-        "several"
+        "his scent",
+        "its smell",
+        "his fragrance",
+        "its aroma"
       ],
       "usageExamples": []
     },
@@ -35,26 +52,29 @@
       ],
       "usageExamples": [
         [
-          "توم ريحته في المكان.",
-          "This place smells like Tom."
+          "ساعدوا بعض في الواجب.",
+          "Help each other with homework.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
         [
-          "هو ساكن في العمارة دي؟",
-          "Does he live in this building?"
+          "مكتبها في الدور العاشر.",
+          "Her office is on the tenth floor.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ],
         [
-          "واحدة وقعت من مركب في البحر.",
-          "A woman fell from a ship into the sea."
+          "هي في إجازة دلوقتي.",
+          "She is now on vacation.",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "الواجب",
+      "content": "المكان",
       "translations": [
-        "duty",
-        "obligation",
-        "requirement",
-        "necessity"
+        "the place",
+        "the location",
+        "the area",
+        "the spot"
       ],
       "usageExamples": []
     }

@@ -1,87 +1,53 @@
 {
-  "sentence": "Tom'un bir kedisi var.",
+  "sentence": "Tom gelince, gidiyorum.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat eine Katze."
+    "Wenn Tom kommt, gehe ich."
   ],
   "parts": [
     {
-      "content": "Tom'un",
+      "content": "Tom",
       "translations": [
-        "Tom's",
-        "von Tom"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom'un Avustralyalı aksanı yok.",
-          "Tom hat keinen australischen Akzent."
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom'un çocukları hasta.",
-          "Toms Kinder sind krank."
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bir",
+      "content": "gelince",
       "translations": [
-        "eins",
-        "ein"
+        "wenn er/sie kommt",
+        "bei Ankunft",
+        "bei Eintreffen"
       ],
-      "usageExamples": [
-        [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!"
-        ],
-        [
-          "Ciddi bir konuşmaya başladık.",
-          "Wir begannen eine ernsthafte Unterhaltung."
-        ],
-        [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache."
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "kedisi",
+      "content": "gidiyorum",
       "translations": [
-        "Katze",
-        "Kätzchen"
+        "Ich gehe",
+        "Ich bin unterwegs"
       ],
-      "usageExamples": [
-        [
-          "Onun bir kedisi ve iki köpeği var.",
-          "Sie hat eine Katze und zwei Hunde."
-        ]
-      ]
-    },
-    {
-      "content": "var",
-      "translations": [
-        "var",
-        "es gibt"
-      ],
-      "usageExamples": [
-        [
-          "Dokuza çeyrek var.",
-          "Es ist Viertel vor neun."
-        ],
-        [
-          "Köyde beş inek var.",
-          "Im Dorf gibt es fünf Rinder."
-        ],
-        [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

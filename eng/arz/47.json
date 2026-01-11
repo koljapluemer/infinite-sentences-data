@@ -1,52 +1,80 @@
 {
-  "sentence": "دي مشكلة كبيرة",
+  "sentence": "توم بيعوم كام ساعه فاليوم؟",
   "credits": [
-    "Sentence from Tatoeba by adnanmukhtar (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That's a major problem."
+    "How many hours a day does Tom swim?"
   ],
   "parts": [
     {
-      "content": "دي",
+      "content": "توم",
       "translations": [
-        "this",
-        "it"
+        "you",
+        "you (singular)"
       ],
       "usageExamples": [
         [
-          "هشوفهم الليله دي.",
-          "I'll meet with them tonight."
+          "توم مابصش عليها حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ],
         [
-          "دي صورة أختي الصغيرة.",
-          "It's a picture of my younger sister."
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
         [
-          "هو ساكن في العمارة دي؟",
-          "Does he live in this building?"
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "مشكلة",
+      "content": "بيعوم",
       "translations": [
-        "problem",
-        "issue",
-        "difficulty",
-        "challenge"
+        "to sell",
+        "selling"
       ],
       "usageExamples": []
     },
     {
-      "content": "كبيرة",
+      "content": "كام",
       "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
+        "how much",
+        "how many"
+      ],
+      "usageExamples": [
+        [
+          "أقدر أشتري البيت ده على كام؟",
+          "How much could I buy this house for?",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ساعه",
+      "translations": [
+        "hour",
+        "clock"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "فاليوم",
+      "translations": [
+        "today",
+        "this day"
+      ],
+      "usageExamples": [
+        [
+          "بعمل 100 يورو فاليوم.",
+          "I make €100 a day.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

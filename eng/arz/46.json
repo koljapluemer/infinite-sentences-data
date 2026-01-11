@@ -1,55 +1,100 @@
 {
-  "sentence": "دي صورة أختي الصغيرة.",
+  "sentence": "توم بيشارك في أنشطة خارجية كتيرة.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's a picture of my younger sister."
+    "Tom participates in many extracurricular activities."
   ],
   "parts": [
     {
-      "content": "دي",
+      "content": "توم",
       "translations": [
-        "this",
-        "it"
+        "you",
+        "you (singular)"
       ],
       "usageExamples": [
         [
-          "هشوفهم الليله دي.",
-          "I'll meet with them tonight."
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ],
         [
-          "دي مشكلة كبيرة",
-          "That's a major problem."
+          "توم اضطر يروح المستشفى.",
+          "Tom had to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "هو ساكن في العمارة دي؟",
-          "Does he live in this building?"
+          "توم مبيشربش شاي.",
+          "Tom doesn't drink tea.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "صورة",
+      "content": "بيشارك",
       "translations": [
-        "image",
-        "picture",
-        "photo"
+        "participates",
+        "takes part",
+        "is involved",
+        "joins in"
       ],
       "usageExamples": []
     },
     {
-      "content": "أختي",
+      "content": "في",
       "translations": [
-        "my sister",
-        "sister"
+        "in",
+        "at",
+        "inside",
+        "within"
+      ],
+      "usageExamples": [
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت في المستشفى.",
+          "I was in the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "هي في إجازة دلوقتي.",
+          "She is now on vacation.",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "أنشطة",
+      "translations": [
+        "activities",
+        "events",
+        "tasks",
+        "exercises"
       ],
       "usageExamples": []
     },
     {
-      "content": "الصغيرة",
+      "content": "خارجية",
       "translations": [
-        "the small one",
-        "the little one"
+        "external",
+        "foreign",
+        "outside",
+        "overseas"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كتيرة",
+      "translations": [
+        "a lot",
+        "many",
+        "plenty",
+        "numerous"
       ],
       "usageExamples": []
     }

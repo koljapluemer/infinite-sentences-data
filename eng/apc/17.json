@@ -1,10 +1,11 @@
 {
-  "sentence": "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+  "sentence": "توم بيفهم اللي هي ما بتفهم.",
   "credits": [
-    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom and Mary told John that they were unwilling to do that."
+    "Tom understands what you don't."
   ],
   "parts": [
     {
@@ -15,54 +16,64 @@
       "usageExamples": [
         [
           "توم خلى عينوا عالولاد",
-          "Tom kept an eye on the children."
+          "Tom kept an eye on the children.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ],
         [
-          "توم بيفهم اللي هي ما بتفهم.",
-          "Tom understands what you don't."
+          "توم يفهم ما لا تفهمه.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ],
+        [
+          "عالأغلب توم لح يساوي يلي لح تطلبه.",
+          "I suspect Tom will do whatever you ask.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "بيفهم",
+      "translations": [
+        "understands",
+        "comprehends",
+        "gets it",
+        "grasp"
+      ],
+      "usageExamples": [
         [
           "توم بيفهم اللي انت ما بتفهمه.",
-          "Tom understands what you don't."
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ماري",
+      "content": "اللي",
       "translations": [
-        "Mary",
-        "Maria"
-      ],
-      "usageExamples": [
-        [
-          "توم و ماري ما كانوا كتير عم يستمتعوا",
-          "Tom and Mary didn't really seem to be enjoying themselves."
-        ],
-        [
-          "ماري قالت انو مالا مخططا تعمل هيك",
-          "Mary said she's not planning on doing that."
-        ]
-      ]
-    },
-    {
-      "content": "انو",
-      "translations": [
-        "this",
+        "the",
         "that",
-        "it"
+        "which",
+        "the one"
       ],
       "usageExamples": [
         [
-          "ماري قالت انو مالا مخططا تعمل هيك",
-          "Mary said she's not planning on doing that."
-        ],
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "هي",
+      "translations": [
+        "she",
+        "her"
+      ],
+      "usageExamples": [
         [
-          "البربر بيقولوا انو لغتهم اسمها تامازايت.",
-          "Berbers call their language Tamazight."
-        ],
-        [
-          "كان مشكوك فيها انو هية جاسوسة.",
-          "She was suspected of being a spy."
+          "هي بتحكي عربي شويه.",
+          "She speaks a little Arabic.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -74,65 +85,26 @@
       ],
       "usageExamples": [
         [
-          "توم يفهم ما لا تفهمه.",
-          "Tom understands what you don't."
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ],
         [
           "توم بيفهم اللي انت ما بتفهمه.",
-          "Tom understands what you don't."
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ],
         [
-          "توم و ماري ما كانوا كتير عم يستمتعوا",
-          "Tom and Mary didn't really seem to be enjoying themselves."
+          "توم يفهم ما لا تفهمه.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "كان",
+      "content": "بتفهم",
       "translations": [
-        "was",
-        "were",
-        "has been"
-      ],
-      "usageExamples": [
-        [
-          "كان في مرّة...",
-          "Once upon a time..."
-        ],
-        [
-          "كان مشكوك فيها انو هية جاسوسة.",
-          "She was suspected of being a spy."
-        ]
-      ]
-    },
-    {
-      "content": "عندهم",
-      "translations": [
-        "They have"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "رغبة",
-      "translations": [
-        "desire",
-        "wish",
-        "longing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "يعملوا",
-      "translations": [
-        "they work"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "هالإشي",
-      "translations": [
-        "this thing",
-        "this item"
+        "Do you understand?"
       ],
       "usageExamples": []
     }

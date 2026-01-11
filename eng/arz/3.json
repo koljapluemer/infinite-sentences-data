@@ -1,10 +1,11 @@
 {
-  "sentence": "أنا صايمه النهارده.",
+  "sentence": "أنا بخاف م الزلازل.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm fasting today."
+    "I'm afraid of earthquakes."
   ],
   "parts": [
     {
@@ -16,32 +17,51 @@
       ],
       "usageExamples": [
         [
+          "أنا صايمه النهارده.",
+          "I'm fasting today.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا كرهتها.",
+          "I hated her.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
           "أنا فخوره بيها جدا.",
-          "I'm very proud of it."
-        ],
-        [
-          "أنا بخاف م الزلازل.",
-          "I'm afraid of earthquakes."
-        ],
-        [
-          "هو أنا شكلي إرهابي؟",
-          "Do I look like a terrorist?"
+          "I'm very proud of it.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "صايمه",
+      "content": "بخاف",
       "translations": [
-        "she is fasting",
-        "she is observing a fast"
+        "I'm afraid.",
+        "I fear",
+        "I'm scared."
       ],
       "usageExamples": []
     },
     {
-      "content": "النهارده",
+      "content": "م",
       "translations": [
-        "today",
-        "this day"
+        "M",
+        "Em",
+        "Letter M"
+      ],
+      "usageExamples": [
+        [
+          "مات م السرطان.",
+          "He died of cancer.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "الزلازل",
+      "translations": [
+        "earthquakes",
+        "seismic activity"
       ],
       "usageExamples": []
     }

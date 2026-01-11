@@ -1,58 +1,66 @@
 {
-  "sentence": "Bence bu inanılmaz.",
+  "sentence": "Ben senin babanı tanıyorum.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich denke, es ist unglaublich."
+    "Ich kenne deinen Vater."
   ],
   "parts": [
     {
-      "content": "bence",
+      "content": "Ben",
       "translations": [
-        "ich denke",
-        "meiner Meinung nach"
+        "Ich",
+        "Mir"
       ],
       "usageExamples": [
         [
-          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
-          "Ich glaube, treffender und besser kann man es kaum darstellen."
+          "Ben hatırlamak istiyordum.",
+          "Ich wollte mich erinnern.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ben olsam iki kere düşünürdüm.",
+          "Ich würde mir das zweimal überlegen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ben de böyle olsun istemezdim.",
+          "Ich hab auch nicht gewollt, dass es so kommt.",
+          "Sentence from Tatoeba by TR724 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bu",
+      "content": "senin",
       "translations": [
-        "dies",
-        "das"
+        "dein",
+        "deine"
       ],
       "usageExamples": [
         [
-          "O bu sırrı açık etmek istiyor.",
-          "Sie wollte das Geheimnis verraten."
-        ],
-        [
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde."
-        ],
-        [
-          "Neden bu kadar uzun düşünüyorsun?",
-          "Warum überlegen Sie so lange?"
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "inanılmaz",
+      "content": "baban",
       "translations": [
-        "unglaublich",
-        "unfassbar"
+        "Vater",
+        "Papa"
       ],
-      "usageExamples": [
-        [
-          "Onun bunu başarması inanılmaz.",
-          "Es ist unwahrscheinlich, dass es ihm gelungen ist."
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "tanıyorum",
+      "translations": [
+        "ich kenne",
+        "ich weiß"
+      ],
+      "usageExamples": []
     }
   ]
 }

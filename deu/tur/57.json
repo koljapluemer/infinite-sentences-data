@@ -1,27 +1,235 @@
 {
-  "sentence": "Ismini sevdim.",
+  "sentence": "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mir gefällt dein Vorname."
+    "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater."
   ],
   "parts": [
     {
-      "content": "Ismini",
+      "content": "Her",
       "translations": [
-        "dein Name",
-        "dein Vorname"
+        "Hier",
+        "Da"
+      ],
+      "usageExamples": [
+        [
+          "Her gülüşünde bir yerlerde bir problem ölür.",
+          "Immer wenn du lachst, stirbt irgendwo ein Problem.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "anne",
+      "translations": [
+        "Mutter",
+        "Mama"
       ],
       "usageExamples": []
     },
     {
-      "content": "sevdim",
+      "content": "kızının",
       "translations": [
-        "ich habe geliebt",
-        "ich liebte"
+        "deine Tochter",
+        "Tochter"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "kendisi",
+      "translations": [
+        "er selbst",
+        "sie selbst"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "daha",
+      "translations": [
+        "mehr",
+        "noch"
+      ],
+      "usageExamples": [
+        [
+          "Seni başlangıçta planlanandan daha çok seviyorum.",
+          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "iyi",
+      "translations": [
+        "gut",
+        "schön"
+      ],
+      "usageExamples": [
+        [
+          "Bir dil yeterince iyi öğrenilemez.",
+          "Man kann keine Sprache genug beherrschen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "eins",
+        "ein"
+      ],
+      "usageExamples": [
+        [
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "koca",
+      "translations": [
+        "Ehemann",
+        "Mann",
+        "Ehepartner"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bulacağını",
+      "translations": [
+        "wird sein",
+        "wird werden"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "umar",
+      "translations": [
+        "Umar",
+        "Alter"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ve",
+      "translations": [
+        "und",
+        "oder"
+      ],
+      "usageExamples": [
+        [
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "oğlunun",
+      "translations": [
+        "deines Sohnes",
+        "dein Sohn"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "asla",
+      "translations": [
+        "niemals",
+        "nie",
+        "auf keinen Fall"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "babası",
+      "translations": [
+        "Vater",
+        "Papa"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kadar",
+      "translations": [
+        "bis",
+        "so viel wie"
+      ],
+      "usageExamples": [
+        [
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Neden bu kadar uzun düşünüyorsun?",
+          "Warum überlegen Sie so lange?",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "eş",
+      "translations": [
+        "und",
+        "sowie"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bulamayacağına",
+      "translations": [
+        "nicht finden kann",
+        "nicht erreichen kann"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "inanır",
+      "translations": [
+        "glauben",
+        "vertrauen"
+      ],
+      "usageExamples": [
+        [
+          "İlk görüşte aşka inanır mısınız?",
+          "Glauben Sie an die Liebe auf den ersten Blick?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

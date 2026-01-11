@@ -1,60 +1,59 @@
 {
-  "sentence": "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
+  "sentence": "Sizinle sonucu paylaşma niyetinde değilim.",
   "credits": [
-    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by eminyilmazki (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt."
+    "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen."
   ],
   "parts": [
     {
-      "content": "Sütten",
+      "content": "sizinle",
       "translations": [
-        "aus der Milch",
-        "von der Milch"
+        "mit Ihnen",
+        "mit dir"
       ],
       "usageExamples": []
     },
     {
-      "content": "ağzı",
+      "content": "sonucu",
       "translations": [
-        "Mund",
-        "Mundwinkel"
+        "Ergebnis",
+        "Folge"
       ],
       "usageExamples": []
     },
     {
-      "content": "yanan",
+      "content": "paylaşma",
       "translations": [
-        "brennend",
-        "flammend"
+        "teilen",
+        "Gemeinschaft",
+        "Austausch"
       ],
       "usageExamples": []
     },
     {
-      "content": "yoğurdu",
+      "content": "niyetinde",
       "translations": [
-        "Joghurt",
-        "Yoghurt"
+        "in der Absicht",
+        "mit der Absicht"
       ],
       "usageExamples": []
     },
     {
-      "content": "üfleyerek",
+      "content": "değilim",
       "translations": [
-        "pfeifend",
-        "mit einem Pfiff"
+        "ich bin nicht",
+        "bin ich nicht"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "yer",
-      "translations": [
-        "Ort",
-        "Platz",
-        "Stelle"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Benim kalmamın mantıklı olduğundan emin değilim.",
+          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

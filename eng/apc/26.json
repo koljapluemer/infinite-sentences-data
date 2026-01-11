@@ -1,33 +1,62 @@
 {
-  "sentence": "عندي قاموس منيح.",
+  "sentence": "عالأغلب توم لح يساوي يلي لح تطلبه.",
   "credits": [
-    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have a good dictionary."
+    "I suspect Tom will do whatever you ask."
   ],
   "parts": [
     {
-      "content": "عندي",
+      "content": "عالأغلب",
       "translations": [
-        "I have",
-        "I possess",
-        "I own"
+        "most likely",
+        "probably",
+        "generally"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "توم",
+      "translations": [
+        "Tom"
       ],
       "usageExamples": [
         [
-          "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
-          "I have a cat and a dog. The cat's black and the dog's white."
+          "توم خلى عينوا عالولاد",
+          "Tom kept an eye on the children.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم يفهم ما لا تفهمه.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "منيح",
+      "content": "لح",
       "translations": [
-        "good",
-        "well",
-        "fine",
-        "okay"
+        "moment",
+        "instant",
+        "while",
+        "time"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يلي",
+      "translations": [
+        "next",
+        "following",
+        "after",
+        "then"
       ],
       "usageExamples": []
     }

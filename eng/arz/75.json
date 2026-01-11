@@ -1,52 +1,85 @@
 {
-  "sentence": "معلش اعملها دلوقتي حالا",
+  "sentence": "عصفور في الإيد و لا عشرة عالشجرة.",
   "credits": [
-    "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please do this immediately."
+    "A bird in the hand is worth two in the bush."
   ],
   "parts": [
     {
-      "content": "معلش",
+      "content": "عصفور",
       "translations": [
-        "It's okay.",
-        "No problem.",
-        "Don't worry.",
-        "Never mind."
+        "bird",
+        "sparrow"
       ],
       "usageExamples": []
     },
     {
-      "content": "اعملها",
+      "content": "في",
       "translations": [
-        "Do it.",
-        "Make it happen",
-        "Get it done",
-        "Go for it."
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "دلوقتي",
-      "translations": [
-        "now",
-        "right now",
-        "at the moment"
+        "in",
+        "at",
+        "inside",
+        "within"
       ],
       "usageExamples": [
         [
-          "عايز أروّح البيت دلوقتي.",
-          "I would like to go home now."
+          "هي في إجازة دلوقتي.",
+          "She is now on vacation.",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت في المستشفى.",
+          "I was in the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "مكتبها في الدور العاشر.",
+          "Her office is on the tenth floor.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "حالا",
+      "content": "الإيد",
       "translations": [
-        "now",
-        "right now",
-        "at this moment"
+        "the hand",
+        "the arm",
+        "the aid"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ولا",
+      "translations": [
+        "nor",
+        "and not",
+        "neither",
+        "not even"
+      ],
+      "usageExamples": [
+        [
+          "من زمان أوي والناس مبهورة بقدرته الفظيعة إنه يحل مسائل الرياضة في دماغه من غير ورقة ولا قلم.",
+          "From a very early age he amazed everyone with his extraordinary abilities to do mathematical calculations in his head without the use of pen and paper.",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "عشرة",
+      "translations": [
+        "ten",
+        "a decade"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "عالشجرة",
+      "translations": [
+        "on the tree",
+        "in the tree"
       ],
       "usageExamples": []
     }

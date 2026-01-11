@@ -1,54 +1,93 @@
 {
-  "sentence": "يا استاذ! استنى لحظة.",
+  "sentence": "ما افتكرش ان الفقر عيب.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by jakov (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hey you! Please wait."
+    "I think being poor is nothing to be ashamed of."
   ],
   "parts": [
     {
-      "content": "يا",
+      "content": "ما",
       "translations": [
-        "Oh.",
-        "Hey.",
-        "Ya",
-        "O"
+        "what",
+        "what is it",
+        "what's up"
       ],
       "usageExamples": [
         [
-          "يا راجل؟! بتكّلم جد؟",
-          "Really?! Man, you're kidding right?"
+          "ما بطيقوش.",
+          "I can't stand him.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "ما عملتش حاجة غلط.",
+          "I haven't done anything wrong.",
+          "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+        ],
+        [
+          "عمري ما حبيت البيولوجي.",
+          "I never liked biology.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "استاذ",
+      "content": "افتكرش",
       "translations": [
-        "teacher",
-        "professor",
-        "instructor"
+        "I don't think so.",
+        "I don't believe so",
+        "I doubt it",
+        "I don't reckon"
+      ],
+      "usageExamples": [
+        [
+          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
+          "I think being poor is nothing to be ashamed of.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ان",
+      "translations": [
+        "and",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
+          "I think being poor is nothing to be ashamed of.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "الفقر",
+      "translations": [
+        "poverty",
+        "destitution",
+        "indigence",
+        "lack of resources"
       ],
       "usageExamples": []
     },
     {
-      "content": "استنى",
+      "content": "عيب",
       "translations": [
-        "wait",
-        "hold on",
-        "hang on",
-        "just a moment"
+        "shame",
+        "fault",
+        "defect",
+        "disgrace"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "لحظة",
-      "translations": [
-        "moment",
-        "second",
-        "instant"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
+          "I think being poor is nothing to be ashamed of.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

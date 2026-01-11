@@ -1,36 +1,57 @@
 {
-  "sentence": "Spor sever misin?",
+  "sentence": "Size yardım etmek istiyorum.",
   "credits": [
-    "Sentence from Tatoeba by ritualesatanum (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Magst du Sport?"
+    "Ich will dir helfen."
   ],
   "parts": [
     {
-      "content": "Spor",
+      "content": "Size",
       "translations": [
-        "Sport",
-        "Spor"
+        "Größe",
+        "Dimension"
       ],
       "usageExamples": []
     },
     {
-      "content": "sever",
+      "content": "yardım",
       "translations": [
-        "trennen",
-        "abteilen",
-        "teilen"
+        "Hilfe",
+        "Unterstützung"
       ],
       "usageExamples": []
     },
     {
-      "content": "misin",
+      "content": "etmek",
       "translations": [
-        "wie",
-        "als ob"
+        "machen",
+        "tun",
+        "verrichten"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "istiyorum",
+      "translations": [
+        "ich will",
+        "ich möchte"
+      ],
+      "usageExamples": [
+        [
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,35 +1,55 @@
 {
-  "sentence": "مرحباً يا شيكاغو!",
+  "sentence": "قال اِنُّه كْتير بَرْدان",
   "credits": [
-    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by karimique (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hello, Chicago!"
+    "He said that he was very cold."
   ],
   "parts": [
     {
-      "content": "مرحباً",
+      "content": "قال",
       "translations": [
-        "Hello.",
-        "Hi."
+        "he said",
+        "he stated",
+        "he mentioned",
+        "he told"
+      ],
+      "usageExamples": [
+        [
+          "توم قال إنه ممكن رح يمشي على الشغل بكرا.",
+          "Tom said he may walk to work tomorrow.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "اِنُّه",
+      "translations": [
+        "Indeed",
+        "Verily",
+        "Certainly.",
+        "Surely"
       ],
       "usageExamples": []
     },
     {
-      "content": "يا",
+      "content": "كْتير",
       "translations": [
-        "Oh.",
-        "Hey.",
-        "Ya",
-        "O"
+        "a lot",
+        "very much",
+        "many",
+        "plenty"
       ],
       "usageExamples": []
     },
     {
-      "content": "شيكاغو",
+      "content": "بَرْدان",
       "translations": [
-        "Chicago",
-        "City of Chicago"
+        "cold",
+        "chilly",
+        "cool"
       ],
       "usageExamples": []
     }

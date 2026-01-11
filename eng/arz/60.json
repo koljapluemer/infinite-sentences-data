@@ -1,84 +1,97 @@
 {
-  "sentence": "كوكي، سيب أختَك في حالها.",
+  "sentence": "حاولت أقوللها بس هي رفضت تسمعلي.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Cookie, leave your sister alone."
+    "I tried to tell her, but she refused to listen."
   ],
   "parts": [
     {
-      "content": "كوكي",
+      "content": "حاولت",
       "translations": [
-        "cookie",
-        "biscuit"
+        "I tried",
+        "I attempted"
       ],
       "usageExamples": []
     },
     {
-      "content": "سيب",
+      "content": "أقوللها",
       "translations": [
-        "leave it",
-        "let it be",
-        "forget it",
-        "drop it"
+        "I tell her",
+        "I say to her"
       ],
-      "usageExamples": [
-        [
-          "توم، سيب أختَك في حالها.",
-          "Tom, leave your sister alone."
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "أختَك",
+      "content": "بس",
       "translations": [
-        "your sister",
-        "sister of yours"
+        "just",
+        "only",
+        "simply",
+        "merely"
       ],
       "usageExamples": [
         [
-          "توم، سيب أختَك في حالها.",
-          "Tom, leave your sister alone."
-        ]
-      ]
-    },
-    {
-      "content": "في",
-      "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
-      ],
-      "usageExamples": [
-        [
-          "توم ريحته في المكان.",
-          "This place smells like Tom."
+          "مَتْقلش حاجه بس.",
+          "Just don't say anything.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "ساعدوا بعض في الواجب.",
-          "Help each other with homework."
+          "مصر مش بس أهرامات.",
+          "Egypt isn't just pyramids.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "توم، سيب أختَك في حالها.",
-          "Tom, leave your sister alone."
+          "نجح ف متحان واحد ، بس سقط ف التاني.",
+          "He passed one test, but failed the other.",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "حالها",
+      "content": "هي",
       "translations": [
-        "her condition",
-        "her situation",
-        "her state"
+        "she",
+        "it"
       ],
       "usageExamples": [
         [
-          "توم، سيب أختَك في حالها.",
-          "Tom, leave your sister alone."
+          "هي سابت لك رسالة.",
+          "She left you a message.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "هي في إجازة دلوقتي.",
+          "She is now on vacation.",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+        ],
+        [
+          "هي ف الحمام.",
+          "She's in the restroom.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "رفضت",
+      "translations": [
+        "I refused.",
+        "I rejected",
+        "I declined",
+        "I turned down"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "تسمعلي",
+      "translations": [
+        "Do you hear me?",
+        "Are you listening to me?",
+        "Can you hear me?"
+      ],
+      "usageExamples": []
     }
   ]
 }

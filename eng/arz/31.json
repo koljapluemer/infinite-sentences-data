@@ -1,29 +1,149 @@
 {
-  "sentence": "تليفوني رن.",
+  "sentence": "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My phone rang."
+    "You're the only one working here who can speak French."
   ],
   "parts": [
     {
-      "content": "تليفوني",
+      "content": "انت",
       "translations": [
-        "my phone",
-        "telephone",
-        "phone of mine"
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "إيه اللي انت أكلته؟",
+          "What did you have to eat?",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "مش فاهم انت عاوز تقول إيه.",
+          "I don't understand what you're saying.",
+          "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "الوحيد",
+      "translations": [
+        "the only one",
+        "the unique one",
+        "the sole one"
       ],
       "usageExamples": []
     },
     {
-      "content": "رن",
+      "content": "اللي",
       "translations": [
-        "run",
-        "to run",
-        "running"
+        "who",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "عجبك الورد اللي بعتهولك؟",
+          "Did you like the flowers that I sent you?",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "إيه اللي انت أكلته؟",
+          "What did you have to eat?",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "لسه بفكر في اللي توم كان بيحاول يقولهولي.",
+          "I am still thinking about what Tom was trying to tell me.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "بتتكلم",
+      "translations": [
+        "You are talking",
+        "You speak.",
+        "Are you talking?",
+        "You are speaking"
+      ],
+      "usageExamples": [
+        [
+          "بتتكلم انجليزي؟",
+          "Do you speak English?",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "فرنساوي",
+      "translations": [
+        "French",
+        "French person"
+      ],
+      "usageExamples": [
+        [
+          "بيتكلم أسباني و فرنساوي كمان.",
+          "He speaks Spanish as well as French.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "في",
+      "translations": [
+        "in",
+        "at",
+        "inside",
+        "within"
+      ],
+      "usageExamples": [
+        [
+          "كنت في المستشفى.",
+          "I was in the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "ساعدوا بعض في الواجب.",
+          "Help each other with homework.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "مكتبها في الدور العاشر.",
+          "Her office is on the tenth floor.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "شغّالين",
+      "translations": [
+        "working",
+        "busy",
+        "operating",
+        "active"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "هنا",
+      "translations": [
+        "here",
+        "this place"
+      ],
+      "usageExamples": [
+        [
+          "لازم تتكلم بالإنجليزي هنا.",
+          "You have to speak English here.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت هنا امبارح.",
+          "I was just here yesterday.",
+          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

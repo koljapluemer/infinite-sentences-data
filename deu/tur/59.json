@@ -1,53 +1,37 @@
 {
-  "sentence": "Kartla ödeme yapılabilir mi?",
+  "sentence": "Hikayeyi okumadım.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Kann man mit Karte bezahlen?"
+    "Ich habe die Geschichte nicht gelesen."
   ],
   "parts": [
     {
-      "content": "Kartla",
+      "content": "hikaye",
       "translations": [
-        "Karte",
-        "Landkarte"
+        "Geschichte",
+        "Erzählung"
       ],
       "usageExamples": []
     },
     {
-      "content": "ödeme",
+      "content": "yi",
       "translations": [
-        "Zahlung",
-        "Bezahlung"
+        "gut",
+        "schön",
+        "gut gemacht"
       ],
       "usageExamples": []
     },
     {
-      "content": "yapılabilir",
+      "content": "okumadım",
       "translations": [
-        "machbar",
-        "durchführbar",
-        "realisierbar"
+        "Ich habe nicht gelesen",
+        "Ich habe nicht studiert"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "mi",
-      "translations": [
-        "ich",
-        "mir"
-      ],
-      "usageExamples": [
-        [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?"
-        ],
-        [
-          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
-          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?"
-        ]
-      ]
     }
   ]
 }

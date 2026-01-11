@@ -1,51 +1,91 @@
 {
-  "sentence": "هعمل اي حاجه عشانك.",
+  "sentence": "كوكي، سيب أختَك في حالها.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'll do anything for you."
+    "Cookie, leave your sister alone."
   ],
   "parts": [
     {
-      "content": "هعمل",
+      "content": "كوكي",
       "translations": [
-        "I will do",
-        "I will make",
-        "I will work on",
-        "I will perform"
+        "cookie",
+        "biscuit"
       ],
       "usageExamples": []
     },
     {
-      "content": "اي",
+      "content": "سيب",
       "translations": [
-        "Oh.",
-        "Hey.",
-        "What",
-        "Yes."
+        "leave it",
+        "let it be",
+        "forget it",
+        "drop it"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم، سيب أختَك في حالها.",
+          "Tom, leave your sister alone.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "حاجه",
+      "content": "أختَك",
       "translations": [
-        "thing",
-        "need",
-        "requirement",
-        "matter"
+        "your sister",
+        "sister of yours"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم، سيب أختَك في حالها.",
+          "Tom, leave your sister alone.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "عشانك",
+      "content": "في",
       "translations": [
-        "For you",
-        "Because of you",
-        "In your favor",
-        "On your behalf"
+        "in",
+        "at",
+        "inside",
+        "within"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "ساعدوا بعض في الواجب.",
+          "Help each other with homework.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت في المستشفى.",
+          "I was in the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "حالها",
+      "translations": [
+        "her condition",
+        "her situation",
+        "her state"
+      ],
+      "usageExamples": [
+        [
+          "توم، سيب أختَك في حالها.",
+          "Tom, leave your sister alone.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

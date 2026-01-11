@@ -1,31 +1,66 @@
 {
-  "sentence": "عندي بسة.",
+  "sentence": "دفنوه في المقبرة عند الكنيسة.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CS (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have a cat."
+    "They buried him in the graveyard by the church."
   ],
   "parts": [
     {
-      "content": "عندي",
+      "content": "دفنوه",
       "translations": [
-        "I have",
-        "I own",
-        "I possess"
+        "They buried him",
+        "He was buried"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "في",
+      "translations": [
+        "in",
+        "at",
+        "inside",
+        "within"
       ],
       "usageExamples": [
         [
-          "إنه مش زي عندي إشي أحسن عشان أعمل.",
-          "It's not as if I have anything better to do."
+          "ليلى حطت الGPS في الجزء الخلفي من سيارتها.",
+          "Layla put the GPS in the back of her vehicle.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "مناد كان في وضع فظيع.",
+          "Mennad was in a horrible situation.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "بسة",
+      "content": "المقبرة",
       "translations": [
-        "cat",
-        "kitten"
+        "the cemetery",
+        "the graveyard",
+        "the burial ground"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "عند",
+      "translations": [
+        "at",
+        "when",
+        "upon",
+        "by"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "الكنيسة",
+      "translations": [
+        "the church",
+        "the cathedral"
       ],
       "usageExamples": []
     }

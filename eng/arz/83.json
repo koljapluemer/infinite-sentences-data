@@ -1,37 +1,82 @@
 {
-  "sentence": "هخلّي بالي أكتر.",
+  "sentence": "كنت في المستشفى.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I will be more careful."
+    "I was in the hospital."
   ],
   "parts": [
     {
-      "content": "هخلّي",
+      "content": "كنت",
       "translations": [
-        "I will let",
-        "I will allow",
-        "I will leave",
-        "I will make sure"
+        "I was",
+        "I used to be",
+        "I have been"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "كنت بحلم.",
+          "I was dreaming.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت هنا امبارح.",
+          "I was just here yesterday.",
+          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم كان مشغول وأنا كمان كنت مشغول.",
+          "Tom was busy and so was I.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "بال",
+      "content": "في",
       "translations": [
-        "ball",
-        "spherical object"
+        "in",
+        "at",
+        "inside",
+        "within"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "مكتبها في الدور العاشر.",
+          "Her office is on the tenth floor.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "هي في إجازة دلوقتي.",
+          "She is now on vacation.",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+        ],
+        [
+          "ساعدوا بعض في الواجب.",
+          "Help each other with homework.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "أكتر",
+      "content": "المستشفى",
       "translations": [
-        "more",
-        "most"
+        "the hospital",
+        "hospital"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "عايز أروح المستشفى.",
+          "I want to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم اضطر يروح المستشفى.",
+          "Tom had to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

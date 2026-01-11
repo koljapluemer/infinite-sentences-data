@@ -1,31 +1,48 @@
 {
-  "sentence": "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
+  "sentence": "اديتلو كل الفلوس اللي كت عندي.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're the only one working here who can speak French."
+    "I gave him what money I had."
   ],
   "parts": [
     {
-      "content": "انت",
+      "content": "اديتلو",
       "translations": [
-        "you",
-        "you (singular)"
+        "I gave him",
+        "I handed it to him"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كل",
+      "translations": [
+        "all",
+        "every",
+        "each"
       ],
       "usageExamples": [
         [
-          "إيه اللي انت أكلته؟",
-          "What did you have to eat?"
+          "كل ولد عندو بسكلتّه.",
+          "Each boy has a bike.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "المسرح كان بيبقى فاتح كل يوم في الأسبوع.",
+          "The theater used to open every day of the week.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "الوحيد",
+      "content": "الفلوس",
       "translations": [
-        "the only one",
-        "the unique one",
-        "the sole one"
+        "money",
+        "cash",
+        "funds",
+        "finance"
       ],
       "usageExamples": []
     },
@@ -38,91 +55,37 @@
       "usageExamples": [
         [
           "إيه اللي انت أكلته؟",
-          "What did you have to eat?"
+          "What did you have to eat?",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
         [
-          "اديتلو كل الفلوس اللي كت عندي.",
-          "I gave him what money I had."
-        ]
-      ]
-    },
-    {
-      "content": "بتتكلم",
-      "translations": [
-        "You are talking",
-        "You speak.",
-        "Are you talking?",
-        "You are speaking"
-      ],
-      "usageExamples": [
-        [
-          "بتتكلم انجليزي؟",
-          "Do you speak English?"
-        ]
-      ]
-    },
-    {
-      "content": "فرنساوي",
-      "translations": [
-        "French",
-        "French person"
-      ],
-      "usageExamples": [
-        [
-          "بيتكلم أسباني و فرنساوي كمان.",
-          "He speaks Spanish as well as French."
-        ]
-      ]
-    },
-    {
-      "content": "في",
-      "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
-      ],
-      "usageExamples": [
-        [
-          "ساعدوا بعض في الواجب.",
-          "Help each other with homework."
+          "عجبك الورد اللي بعتهولك؟",
+          "Did you like the flowers that I sent you?",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "توم ريحته في المكان.",
-          "This place smells like Tom."
-        ],
-        [
-          "كوكي، سيب أختَك في حالها.",
-          "Cookie, leave your sister alone."
+          "لسه بفكر في اللي توم كان بيحاول يقولهولي.",
+          "I am still thinking about what Tom was trying to tell me.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "شغّالين",
+      "content": "كت",
       "translations": [
-        "working",
-        "busy",
-        "operating",
-        "active"
+        "write",
+        "wrote"
       ],
       "usageExamples": []
     },
     {
-      "content": "هنا",
+      "content": "عندي",
       "translations": [
-        "here",
-        "this place"
+        "I have",
+        "I own",
+        "I possess"
       ],
-      "usageExamples": [
-        [
-          "لازم تتكلم بالإنجليزي هنا.",
-          "You have to speak English here."
-        ],
-        [
-          "كنت هنا امبارح.",
-          "I was just here yesterday."
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

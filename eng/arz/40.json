@@ -1,58 +1,69 @@
 {
-  "sentence": "توم مبيعرفش يلعب تنس.",
+  "sentence": "بيتكلم أسباني و فرنساوي كمان.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by blay_paul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom can't play tennis."
+    "He speaks Spanish as well as French."
   ],
   "parts": [
     {
-      "content": "توم",
+      "content": "بيتكلم",
       "translations": [
-        "you",
-        "you (singular)"
+        "He is talking",
+        "He speaks",
+        "He is speaking."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "أسباني",
+      "translations": [
+        "Spanish",
+        "Spanish person"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "فرنساوي",
+      "translations": [
+        "French",
+        "French person"
       ],
       "usageExamples": [
         [
-          "توم ممكن يقول لأهله.",
-          "Tom may tell his parents."
-        ],
-        [
-          "توم ريحته في المكان.",
-          "This place smells like Tom."
-        ],
-        [
-          "توم مابصش عليها حتى.",
-          "Tom wouldn't even look at it."
+          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
+          "You're the only one working here who can speak French.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "مبيعرفش",
+      "content": "كمان",
       "translations": [
-        "doesn't know",
-        "isn't aware",
-        "has no idea",
-        "doesn't understand"
+        "also",
+        "too",
+        "as well",
+        "again"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "يلعب",
-      "translations": [
-        "plays",
-        "is playing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "تنس",
-      "translations": [
-        "tennis",
-        "to play tennis"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "جرب كمان مرة.",
+          "Try it again.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
+          "\"She likes music.\" \"So do I.\"",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم كان مشغول وأنا كمان كنت مشغول.",
+          "Tom was busy and so was I.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

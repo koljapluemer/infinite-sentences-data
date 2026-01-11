@@ -1,50 +1,61 @@
 {
-  "sentence": "ما بدنا حل سلمي.",
+  "sentence": "فيهم يعملو هاد لحالهم.",
   "credits": [
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We don't want a peaceful solution."
+    "They're able to do that on their own."
   ],
   "parts": [
     {
-      "content": "ما",
+      "content": "فيهم",
       "translations": [
-        "what",
-        "which"
+        "in them",
+        "among them",
+        "within them"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يعملو",
+      "translations": [
+        "they work",
+        "they do",
+        "they make"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "هاد",
+      "translations": [
+        "this",
+        "that"
       ],
       "usageExamples": [
         [
-          "توم ما حتى فتح الظرف.",
-          "Tom didn't even open the envelope."
+          "كيف نشرح هاد؟",
+          "How do we explain this?",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "تون بيحب يعمل هاد الساعة ٢:٣٠.",
+          "Tom likes to do that at 2:30.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا متأكد أنه توم بيفهم هاد.",
+          "I'm sure Tom understands that.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "بدنا",
+      "content": "لحالهم",
       "translations": [
-        "We want",
-        "We need"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "حل",
-      "translations": [
-        "solution",
-        "resolution",
-        "answer",
-        "fix"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "سلمي",
-      "translations": [
-        "peaceful",
-        "safe",
-        "salute",
-        "greet"
+        "by themselves",
+        "on their own",
+        "independently"
       ],
       "usageExamples": []
     }

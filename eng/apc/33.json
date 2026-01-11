@@ -1,30 +1,90 @@
 {
-  "sentence": "مرحبا. كيفك؟",
+  "sentence": "ماري قالت انو مالا مخططا تعمل هيك",
   "credits": [
-    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hello! How are you?",
-    "Hi, how are you?"
+    "Mary said she's not planning on doing that."
   ],
   "parts": [
     {
-      "content": "مرحبا",
+      "content": "ماري",
       "translations": [
-        "Hello.",
-        "Hi.",
-        "Greetings",
-        "Welcome."
+        "Mary",
+        "Mariam",
+        "Maria"
+      ],
+      "usageExamples": [
+        [
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "انو",
+      "translations": [
+        "this",
+        "that",
+        "it"
+      ],
+      "usageExamples": [
+        [
+          "البربر بيقولوا انو لغتهم اسمها تامازايت.",
+          "Berbers call their language Tamazight.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "كان مشكوك فيها انو هية جاسوسة.",
+          "She was suspected of being a spy.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "مالا",
+      "translations": [
+        "money",
+        "property"
       ],
       "usageExamples": []
     },
     {
-      "content": "كيفك",
+      "content": "مخططا",
       "translations": [
-        "How are you?",
-        "How's it going?",
-        "How do you do?",
-        "What's up?"
+        "scheme",
+        "outline"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "تعمل",
+      "translations": [
+        "to work",
+        "to operate",
+        "to function",
+        "to act"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "هيك",
+      "translations": [
+        "like this",
+        "this way",
+        "such"
       ],
       "usageExamples": []
     }

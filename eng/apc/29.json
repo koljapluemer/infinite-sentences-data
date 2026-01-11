@@ -1,29 +1,32 @@
 {
-  "sentence": "كم مدرسة في بمدينتك؟",
+  "sentence": "كان في مرّة...",
   "credits": [
-    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by NextMessenger (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How many schools are there in your city?"
+    "Once upon a time..."
   ],
   "parts": [
     {
-      "content": "كم",
+      "content": "كان",
       "translations": [
-        "How much?",
-        "How many?"
+        "was",
+        "were",
+        "has been"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "مدرسة",
-      "translations": [
-        "school",
-        "educational institution",
-        "academy",
-        "learning center"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "كان مشكوك فيها انو هية جاسوسة.",
+          "She was suspected of being a spy.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "في",
@@ -35,10 +38,20 @@
       ],
       "usageExamples": [
         [
-          "كان في مرّة...",
-          "Once upon a time..."
+          "كم مدرسة في بمدينتك؟",
+          "How many schools are there in your city?",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "مرّة",
+      "translations": [
+        "once",
+        "one time",
+        "a time"
+      ],
+      "usageExamples": []
     }
   ]
 }

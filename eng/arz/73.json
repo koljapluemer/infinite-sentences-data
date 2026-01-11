@@ -1,48 +1,69 @@
 {
-  "sentence": "مش هيعرف يجي.",
+  "sentence": "عايزه تذكرة لباريس، لو سمحتي.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He won't know how to come."
+    "I'd like a ticket to Paris, please."
   ],
   "parts": [
     {
-      "content": "مش",
+      "content": "عايزه",
       "translations": [
-        "no",
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "مصر مش بس أهرامات.",
-          "Egypt isn't just pyramids."
-        ],
-        [
-          "مش فاهم قصدك ايه.",
-          "I don't know what you mean."
-        ],
-        [
-          "بيتي بنت جميلة، مش كده؟",
-          "Betty is a pretty girl, isn't she?"
-        ]
-      ]
-    },
-    {
-      "content": "هيعرف",
-      "translations": [
-        "He will know",
-        "He will find out",
-        "He will be aware"
+        "I want",
+        "I need",
+        "I would like"
       ],
       "usageExamples": []
     },
     {
-      "content": "يجي",
+      "content": "تذكرة",
       "translations": [
-        "he comes",
-        "he arrives",
-        "he's coming"
+        "ticket",
+        "reminder",
+        "note"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ل",
+      "translations": [
+        "to",
+        "for",
+        "at"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "باريس",
+      "translations": [
+        "Paris",
+        "the city of Paris"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "لو",
+      "translations": [
+        "if",
+        "whether"
+      ],
+      "usageExamples": [
+        [
+          "إفتح النور لو سمحت.",
+          "Turn on the light, please.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "سمحتي",
+      "translations": [
+        "Excuse me.",
+        "Sorry...",
+        "Pardon me",
+        "Please."
       ],
       "usageExamples": []
     }

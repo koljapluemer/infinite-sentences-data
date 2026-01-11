@@ -1,53 +1,60 @@
 {
-  "sentence": "Tom'un çocukları hasta.",
+  "sentence": "Tom sonuçları analiz etti.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Toms Kinder sind krank."
+    "Tom analysierte die Ergebnisse."
   ],
   "parts": [
     {
-      "content": "Tom'un",
+      "content": "Tom",
       "translations": [
-        "Tom's",
-        "von Tom"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Tom'un Avustralyalı aksanı yok.",
-          "Tom hat keinen australischen Akzent."
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "çocukları",
+      "content": "sonuçları",
       "translations": [
-        "Kinder",
-        "die Kinder"
+        "Ergebnisse",
+        "Resultate"
       ],
       "usageExamples": []
     },
     {
-      "content": "hasta",
+      "content": "analiz",
       "translations": [
-        "Krücke",
-        "Stock"
+        "Analyse",
+        "Analysieren"
       ],
-      "usageExamples": [
-        [
-          "Son zamanlarda daha az hasta bana geliyor.",
-          "In letzter Zeit kamen immer weniger Patienten zu mir."
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "etti",
+      "translations": [
+        "acht",
+        "acht Stück"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,61 +1,82 @@
 {
-  "sentence": "Kapıyı kapatmama izin veriniz.",
+  "sentence": "Her gülüşünde bir yerlerde bir problem ölür.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Erlauben Sie mir, die Tür zu schließen."
+    "Immer wenn du lachst, stirbt irgendwo ein Problem."
   ],
   "parts": [
     {
-      "content": "kapıyı",
+      "content": "Her",
       "translations": [
-        "die Tür",
-        "zum Tür"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "kapatmama",
-      "translations": [
-        "nicht schließen",
-        "nicht zumachen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "izin",
-      "translations": [
-        "Genehmigung",
-        "Erlaubnis"
+        "Hier",
+        "Da"
       ],
       "usageExamples": [
         [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen."
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
-        ],
-        [
-          "İzin olmadan pazar tezgahı kurulamaz mı?",
-          "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "veriniz",
+      "content": "gülüşünde",
       "translations": [
-        "bitte",
-        "geben Sie mir"
+        "in deinem Lächeln",
+        "in deinem Lachen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "eins",
+        "ein"
       ],
       "usageExamples": [
         [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen."
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "yerlerde",
+      "translations": [
+        "auf den Böden",
+        "auf den Orten"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "problem",
+      "translations": [
+        "Problem",
+        "Schwierigkeit"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ölür",
+      "translations": [
+        "stirbt",
+        "verstorben"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,56 +1,37 @@
 {
-  "sentence": "Köyde beş inek var.",
+  "sentence": "Kaç işlem yaptın?",
   "credits": [
-    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Im Dorf gibt es fünf Rinder."
+    "Wie viel Abfertigung hast du bekommen?"
   ],
   "parts": [
     {
-      "content": "Köyde",
+      "content": "Kaç",
       "translations": [
-        "im Dorf",
-        "auf dem Land"
+        "Wie viel",
+        "Wie viele"
       ],
       "usageExamples": []
     },
     {
-      "content": "beş",
+      "content": "işlem",
       "translations": [
-        "fünf",
-        "5"
+        "Prozess",
+        "Vorgang",
+        "Operation"
       ],
       "usageExamples": []
     },
     {
-      "content": "inek",
+      "content": "yaptın",
       "translations": [
-        "Kuh",
-        "Rind"
+        "du hast gemacht",
+        "du hast getan"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "var",
-      "translations": [
-        "var",
-        "es gibt"
-      ],
-      "usageExamples": [
-        [
-          "Dokuza çeyrek var.",
-          "Es ist Viertel vor neun."
-        ],
-        [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
-        ],
-        [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze."
-        ]
-      ]
     }
   ]
 }

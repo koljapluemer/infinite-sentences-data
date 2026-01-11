@@ -1,25 +1,45 @@
 {
-  "sentence": "Otobüs boştu.",
+  "sentence": "Okul nasıl gidiyor?",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Der Bus war leer."
+    "Wie geht es in der Schule?"
   ],
   "parts": [
     {
-      "content": "Otobüs",
+      "content": "Okul",
       "translations": [
-        "Bus",
-        "Omnibus"
+        "Schule",
+        "Bildungseinrichtung"
       ],
       "usageExamples": []
     },
     {
-      "content": "boştu",
+      "content": "nasıl",
       "translations": [
-        "leer",
-        "frei"
+        "wie",
+        "was für ein"
+      ],
+      "usageExamples": [
+        [
+          "Hava nasıl?",
+          "Wie ist das Wetter?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O nasıl? Yaşlı mı, genç mi?",
+          "Wie ist er? Alt, oder jung?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gidiyor",
+      "translations": [
+        "geht",
+        "fährt"
       ],
       "usageExamples": []
     }

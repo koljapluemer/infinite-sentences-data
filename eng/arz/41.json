@@ -1,62 +1,93 @@
 {
-  "sentence": "توم ممكن يقول لأهله.",
+  "sentence": "بيتي بنت جميلة، مش كده؟",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom may tell his parents."
+    "Betty is a pretty girl, isn't she?"
   ],
   "parts": [
     {
-      "content": "توم",
+      "content": "بيتي",
       "translations": [
-        "you",
-        "you (singular)"
+        "my house",
+        "my home"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "بنت",
+      "translations": [
+        "girl",
+        "daughter"
       ],
       "usageExamples": [
         [
-          "توم مبيعرفش يلعب تنس.",
-          "Tom can't play tennis."
-        ],
-        [
-          "توم ريحته في المكان.",
-          "This place smells like Tom."
-        ],
-        [
-          "توم اضطر يروح المستشفى.",
-          "Tom had to go to the hospital."
+          "ماري بنت شجاعة.",
+          "Mary is a brave girl.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ممكن",
+      "content": "جميلة",
       "translations": [
-        "possible",
-        "can",
-        "may",
-        "is it possible"
+        "beautiful",
+        "pretty",
+        "lovely"
       ],
       "usageExamples": []
     },
     {
-      "content": "يقول",
+      "content": "مش",
       "translations": [
-        "he says",
-        "he is saying",
-        "it is said",
-        "they say"
+        "no",
+        "not"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "مش هيعرف يجي.",
+          "He won't know how to come.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "مش فاهم قصدك ايه.",
+          "I don't know what you mean.",
+          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+        ],
+        [
+          "مش هسيبك تعملي كده.",
+          "I won't let you do this.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "لأهله",
+      "content": "كده",
       "translations": [
-        "to his family",
-        "for his family",
-        "to his folks",
-        "for his folks"
+        "like this",
+        "this way",
+        "so",
+        "like that"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "مش هسيبك تعملي كده.",
+          "I won't let you do this.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "إستحالة أعمل كده.",
+          "There's no way I'm going to do that.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "دي ممكن تبقى آخر فرصة لينا نعمل كده.",
+          "This might be our last chance to do that.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

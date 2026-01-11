@@ -1,37 +1,39 @@
 {
-  "sentence": "بحبك كتير.",
+  "sentence": "التفاحات لسا مالون ناضجين أو جاهزين للأكل",
   "credits": [
-    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I love you a lot.",
-    "I love you so much.",
-    "I love you very much."
+    "Those apples aren't ripe yet."
   ],
   "parts": [
     {
-      "content": "بحبك",
+      "content": "التفاحات",
       "translations": [
-        "I love you.",
-        "I'm in love with you.",
-        "I care for you"
+        "the apples",
+        "apples"
       ],
       "usageExamples": []
     },
     {
-      "content": "كتير",
+      "content": "لسا",
       "translations": [
-        "a lot",
-        "many",
-        "very much",
-        "plenty"
+        "still",
+        "yet",
+        "not yet"
       ],
-      "usageExamples": [
-        [
-          "توم و ماري ما كانوا كتير عم يستمتعوا",
-          "Tom and Mary didn't really seem to be enjoying themselves."
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "أو",
+      "translations": [
+        "or",
+        "either",
+        "alternatively",
+        "otherwise"
+      ],
+      "usageExamples": []
     }
   ]
 }

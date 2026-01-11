@@ -1,85 +1,46 @@
 {
-  "sentence": "ماري قالت انو مالا مخططا تعمل هيك",
+  "sentence": "كم مدرسة في بمدينتك؟",
   "credits": [
-    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary said she's not planning on doing that."
+    "How many schools are there in your city?"
   ],
   "parts": [
     {
-      "content": "ماري",
+      "content": "كم",
       "translations": [
-        "Mary",
-        "Maria"
+        "How much?",
+        "How many?"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "مدرسة",
+      "translations": [
+        "school",
+        "educational institution",
+        "academy",
+        "learning center"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "في",
+      "translations": [
+        "in",
+        "at",
+        "inside",
+        "within"
       ],
       "usageExamples": [
         [
-          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
-          "Tom and Mary told John that they were unwilling to do that."
-        ],
-        [
-          "توم و ماري ما كانوا كتير عم يستمتعوا",
-          "Tom and Mary didn't really seem to be enjoying themselves."
+          "كان في مرّة...",
+          "Once upon a time...",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "انو",
-      "translations": [
-        "this",
-        "that",
-        "it"
-      ],
-      "usageExamples": [
-        [
-          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
-          "Tom and Mary told John that they were unwilling to do that."
-        ],
-        [
-          "البربر بيقولوا انو لغتهم اسمها تامازايت.",
-          "Berbers call their language Tamazight."
-        ],
-        [
-          "كان مشكوك فيها انو هية جاسوسة.",
-          "She was suspected of being a spy."
-        ]
-      ]
-    },
-    {
-      "content": "مالا",
-      "translations": [
-        "money",
-        "property"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "مخططا",
-      "translations": [
-        "scheme",
-        "outline"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "تعمل",
-      "translations": [
-        "to work",
-        "to operate",
-        "to function",
-        "to act"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "هيك",
-      "translations": [
-        "like this",
-        "this way",
-        "such"
-      ],
-      "usageExamples": []
     }
   ]
 }

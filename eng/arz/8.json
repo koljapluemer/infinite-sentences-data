@@ -1,45 +1,77 @@
 {
-  "sentence": "إفتح النور لو سمحت.",
+  "sentence": "أنا من أهل سابورو.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Turn on the light, please."
+    "I'm from Sapporo."
   ],
   "parts": [
     {
-      "content": "إفتح",
+      "content": "أنا",
       "translations": [
-        "Open",
-        "Unlock.",
-        "Turn on",
-        "Access"
+        "I am.",
+        "I",
+        "Me"
+      ],
+      "usageExamples": [
+        [
+          "أنا فخوره بيها جدا.",
+          "I'm very proud of it.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا صايمه النهارده.",
+          "I'm fasting today.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا كرهتها.",
+          "I hated her.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "من",
+      "translations": [
+        "from",
+        "of"
+      ],
+      "usageExamples": [
+        [
+          "من فضلك ساعديني.",
+          "Please help me.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "واحدة وقعت من مركب في البحر.",
+          "A woman fell from a ship into the sea.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "من زمان أوي والناس مبهورة بقدرته الفظيعة إنه يحل مسائل الرياضة في دماغه من غير ورقة ولا قلم.",
+          "From a very early age he amazed everyone with his extraordinary abilities to do mathematical calculations in his head without the use of pen and paper.",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "أهل",
+      "translations": [
+        "family",
+        "people",
+        "folks",
+        "relatives"
       ],
       "usageExamples": []
     },
     {
-      "content": "النور",
+      "content": "سابورو",
       "translations": [
-        "the light",
-        "light"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "لو",
-      "translations": [
-        "if",
-        "whether"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "سمحت",
-      "translations": [
-        "I allowed",
-        "I permitted",
-        "I let",
-        "I granted"
+        "Saburo",
+        "Saboro"
       ],
       "usageExamples": []
     }

@@ -1,45 +1,60 @@
 {
-  "sentence": "عايز أكون ساحر.",
+  "sentence": "توم مبيعرفش يلعب تنس.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I want to be a magician."
+    "Tom can't play tennis."
   ],
   "parts": [
     {
-      "content": "عايز",
+      "content": "توم",
       "translations": [
-        "I want",
-        "I need",
-        "I would like"
+        "you",
+        "you (singular)"
       ],
       "usageExamples": [
         [
-          "عايز أروّح البيت دلوقتي.",
-          "I would like to go home now."
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ],
         [
-          "عايز أروح المستشفى.",
-          "I want to go to the hospital."
+          "توم مابصش عليها حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم اضطر يروح المستشفى.",
+          "Tom had to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "أكون",
+      "content": "مبيعرفش",
       "translations": [
-        "I am.",
-        "I will be",
-        "I become"
+        "doesn't know",
+        "isn't aware",
+        "has no idea",
+        "doesn't understand"
       ],
       "usageExamples": []
     },
     {
-      "content": "ساحر",
+      "content": "يلعب",
       "translations": [
-        "sorcerer",
-        "magician",
-        "wizard"
+        "plays",
+        "is playing"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "تنس",
+      "translations": [
+        "tennis",
+        "to play tennis"
       ],
       "usageExamples": []
     }

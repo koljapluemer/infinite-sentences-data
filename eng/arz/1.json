@@ -1,90 +1,45 @@
 {
-  "sentence": "أقدر أشتري البيت ده على كام؟",
+  "sentence": "أحياناً بيتفرج ع التلفزيون.",
   "credits": [
-    "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How much could I buy this house for?"
+    "He sometimes watches TV."
   ],
   "parts": [
     {
-      "content": "أقدر",
+      "content": "أحياناً",
       "translations": [
-        "I can.",
-        "I am able to"
+        "sometimes",
+        "occasionally"
       ],
       "usageExamples": []
     },
     {
-      "content": "أشتري",
+      "content": "بيتفرج",
       "translations": [
-        "I buy",
-        "I will buy",
-        "I am buying"
+        "watching",
+        "looking at",
+        "checking out"
       ],
       "usageExamples": []
     },
     {
-      "content": "البيت",
+      "content": "ع",
       "translations": [
-        "the house",
-        "the home"
+        "A",
+        "I"
       ],
-      "usageExamples": [
-        [
-          "عايز أروّح البيت دلوقتي.",
-          "I would like to go home now."
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "ده",
+      "content": "التلفزيون",
       "translations": [
-        "this",
-        "that"
+        "the television",
+        "TV"
       ],
-      "usageExamples": [
-        [
-          "الورد ده رحته مميزة.",
-          "These flowers have a unique smell."
-        ],
-        [
-          "منقدرش نشتغل في الحر ده.",
-          "We can't work in this heat."
-        ]
-      ]
-    },
-    {
-      "content": "على",
-      "translations": [
-        "on",
-        "upon",
-        "at",
-        "about"
-      ],
-      "usageExamples": [
-        [
-          "ثبّتنا السعر على خمستاشر دُلَر.",
-          "We fixed the price at $15."
-        ],
-        [
-          "ما تعاملش الناس بناءً على جنسيتهم أو جنسهم أو شغلهم.",
-          "Don't discriminate against people based on nationality, gender, or occupation."
-        ]
-      ]
-    },
-    {
-      "content": "كام",
-      "translations": [
-        "how much",
-        "how many"
-      ],
-      "usageExamples": [
-        [
-          "توم بيعوم كام ساعه فاليوم؟",
-          "How many hours a day does Tom swim?"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

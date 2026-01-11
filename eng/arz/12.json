@@ -1,33 +1,56 @@
 {
-  "sentence": "احنا رجّالة.",
+  "sentence": "إستحالة أعمل كده.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We are men."
+    "There's no way I'm going to do that."
   ],
   "parts": [
     {
-      "content": "احنا",
+      "content": "إستحالة",
       "translations": [
-        "we",
-        "us"
+        "impossibility",
+        "infeasibility",
+        "unfeasibility"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "أعمل",
+      "translations": [
+        "I work.",
+        "I do",
+        "I make"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كده",
+      "translations": [
+        "like this",
+        "this way",
+        "so",
+        "like that"
       ],
       "usageExamples": [
         [
-          "احنا بنزرع خضار ف جنينتنا.",
-          "We grow vegetables in our garden."
+          "مش هسيبك تعملي كده.",
+          "I won't let you do this.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "بيتي بنت جميلة، مش كده؟",
+          "Betty is a pretty girl, isn't she?",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "دي ممكن تبقى آخر فرصة لينا نعمل كده.",
+          "This might be our last chance to do that.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "رجّالة",
-      "translations": [
-        "men",
-        "guys",
-        "dudes"
-      ],
-      "usageExamples": []
     }
   ]
 }

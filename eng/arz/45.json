@@ -1,78 +1,80 @@
 {
-  "sentence": "حاولت أقوللها بس هي رفضت تسمعلي.",
+  "sentence": "توم اضطر يروح المستشفى.",
   "credits": [
-    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I tried to tell her, but she refused to listen."
+    "Tom had to go to the hospital."
   ],
   "parts": [
     {
-      "content": "حاولت",
+      "content": "توم",
       "translations": [
-        "I tried",
-        "I attempted"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أقوللها",
-      "translations": [
-        "I tell her",
-        "I say to her"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بس",
-      "translations": [
-        "just",
-        "only",
-        "simply",
-        "merely"
+        "you",
+        "you (singular)"
       ],
       "usageExamples": [
         [
-          "مصر مش بس أهرامات.",
-          "Egypt isn't just pyramids."
+          "توم مبيشربش شاي.",
+          "Tom doesn't drink tea.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "لغة وحدة بس ماتكفيش ابداً.",
-          "One language is never enough."
+          "توم ريحته في المكان.",
+          "This place smells like Tom.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "هي",
+      "content": "اضطر",
       "translations": [
-        "she",
-        "it"
+        "to force",
+        "to compel",
+        "to necessitate",
+        "to urge"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يروح",
+      "translations": [
+        "to go",
+        "to leave",
+        "to head out"
       ],
       "usageExamples": [
         [
-          "هي ف الحمام.",
-          "She's in the restroom."
+          "هيضطر يروح هناك.",
+          "He will have to go there.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "رفضت",
+      "content": "المستشفى",
       "translations": [
-        "I refused.",
-        "I rejected",
-        "I declined",
-        "I turned down"
+        "the hospital",
+        "hospital"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "تسمعلي",
-      "translations": [
-        "Do you hear me?",
-        "Are you listening to me?",
-        "Can you hear me?"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "كنت في المستشفى.",
+          "I was in the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "عايز أروح المستشفى.",
+          "I want to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,44 +1,61 @@
 {
-  "sentence": "إستحالة أعمل كده.",
+  "sentence": "أنا لسه شايفه.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There's no way I'm going to do that."
+    "I just saw him."
   ],
   "parts": [
     {
-      "content": "إستحالة",
+      "content": "أنا",
       "translations": [
-        "impossibility",
-        "infeasibility",
-        "unfeasibility"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أعمل",
-      "translations": [
-        "I work.",
-        "I do",
-        "I make"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "كده",
-      "translations": [
-        "like this",
-        "this way",
-        "so",
-        "like that"
+        "I am.",
+        "I",
+        "Me"
       ],
       "usageExamples": [
         [
-          "بيتي بنت جميلة، مش كده؟",
-          "Betty is a pretty girl, isn't she?"
+          "أنا فخوره بيها جدا.",
+          "I'm very proud of it.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "هو أنا شكلي إرهابي؟",
+          "Do I look like a terrorist?",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا هروح لوحدي",
+          "I'll go on my own.",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "لسه",
+      "translations": [
+        "still",
+        "not yet",
+        "yet"
+      ],
+      "usageExamples": [
+        [
+          "لسه بفكر في اللي توم كان بيحاول يقولهولي.",
+          "I am still thinking about what Tom was trying to tell me.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "شايفه",
+      "translations": [
+        "I see her",
+        "I can see her.",
+        "I am seeing her"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,55 +1,56 @@
 {
-  "sentence": "كنت هنا امبارح.",
+  "sentence": "جرب كمان مرة.",
   "credits": [
-    "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I was just here yesterday."
+    "Try it again."
   ],
   "parts": [
     {
-      "content": "كنت",
+      "content": "جرب",
       "translations": [
-        "I was",
-        "I used to be",
-        "I have been"
+        "try",
+        "test",
+        "attempt"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كمان",
+      "translations": [
+        "also",
+        "too",
+        "as well",
+        "again"
       ],
       "usageExamples": [
         [
           "توم كان مشغول وأنا كمان كنت مشغول.",
-          "Tom was busy and so was I."
-        ]
-      ]
-    },
-    {
-      "content": "هنا",
-      "translations": [
-        "here",
-        "this place"
-      ],
-      "usageExamples": [
-        [
-          "لازم تتكلم بالإنجليزي هنا.",
-          "You have to speak English here."
+          "Tom was busy and so was I.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
-          "You're the only one working here who can speak French."
+          "بيتكلم أسباني و فرنساوي كمان.",
+          "He speaks Spanish as well as French.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
+          "\"She likes music.\" \"So do I.\"",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "امبارح",
+      "content": "مرة",
       "translations": [
-        "yesterday",
-        "last night"
+        "once",
+        "a time",
+        "one time"
       ],
-      "usageExamples": [
-        [
-          "البضاعة وصلت امبارح.",
-          "The goods arrived yesterday."
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

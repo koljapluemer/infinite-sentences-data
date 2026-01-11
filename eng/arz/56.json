@@ -1,39 +1,107 @@
 {
-  "sentence": "فين أقرب أجزخانة؟",
+  "sentence": "توم، سيب أختَك في حالها.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Where's the nearest drugstore?"
+    "Tom, leave your sister alone."
   ],
   "parts": [
     {
-      "content": "فين",
+      "content": "توم",
       "translations": [
-        "where",
-        "where is"
+        "you",
+        "you (singular)"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم اضطر يروح المستشفى.",
+          "Tom had to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "أقرب",
+      "content": "سيب",
       "translations": [
-        "closest",
-        "nearer",
-        "nearest",
-        "approaching"
+        "leave it",
+        "let it be",
+        "forget it",
+        "drop it"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "كوكي، سيب أختَك في حالها.",
+          "Cookie, leave your sister alone.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "أجزخانة",
+      "content": "أختَك",
       "translations": [
-        "pharmacy",
-        "drugstore",
-        "chemist's",
-        "apothecary"
+        "your sister",
+        "sister of yours"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "كوكي، سيب أختَك في حالها.",
+          "Cookie, leave your sister alone.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "في",
+      "translations": [
+        "in",
+        "at",
+        "inside",
+        "within"
+      ],
+      "usageExamples": [
+        [
+          "ساعدوا بعض في الواجب.",
+          "Help each other with homework.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "هي في إجازة دلوقتي.",
+          "She is now on vacation.",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "حالها",
+      "translations": [
+        "her condition",
+        "her situation",
+        "her state"
+      ],
+      "usageExamples": [
+        [
+          "كوكي، سيب أختَك في حالها.",
+          "Cookie, leave your sister alone.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

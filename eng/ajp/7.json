@@ -1,36 +1,114 @@
 {
-  "sentence": "ارْدوغان رَئيس تُرْكِيّا",
+  "sentence": "إنه مش زي عندي إشي أحسن عشان أعمل.",
   "credits": [
-    "Sentence from Tatoeba by karimique (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by sundown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Erdoğan is the president of Turkey."
+    "It's not as if I have anything better to do."
   ],
   "parts": [
     {
-      "content": "ارْدوغان",
+      "content": "إنه",
       "translations": [
-        "Erdogan",
-        "President Erdogan",
-        "Recep Tayyip Erdogan"
+        "It is",
+        "He is",
+        "That is"
+      ],
+      "usageExamples": [
+        [
+          "توم قال إنه ممكن رح يمشي على الشغل بكرا.",
+          "Tom said he may walk to work tomorrow.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "مش",
+      "translations": [
+        "not",
+        "no",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "مش معقول!",
+          "Unbelievable!",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "مش فاهم.",
+          "I don't understand.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "مش جاي عبالي أطلع الليلة",
+          "I don't feel like going out this evening.",
+          "Sentence from Tatoeba by danielestrigi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "زي",
+      "translations": [
+        "like",
+        "as",
+        "similar to"
       ],
       "usageExamples": []
     },
     {
-      "content": "رَئيس",
+      "content": "عندي",
       "translations": [
-        "president",
-        "chief",
-        "head",
-        "leader"
+        "I have",
+        "I own",
+        "I possess"
+      ],
+      "usageExamples": [
+        [
+          "عندي بسة.",
+          "I have a cat.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "إشي",
+      "translations": [
+        "thing",
+        "stuff",
+        "something",
+        "item"
       ],
       "usageExamples": []
     },
     {
-      "content": "تُرْكِيّا",
+      "content": "أحسن",
       "translations": [
-        "Turkey",
-        "Turkish Republic"
+        "better",
+        "best",
+        "improved",
+        "excellent"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "عشان",
+      "translations": [
+        "because",
+        "in order to",
+        "for the sake of",
+        "so that"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "أعمل",
+      "translations": [
+        "I work.",
+        "I do",
+        "I am working.",
+        "I make"
       ],
       "usageExamples": []
     }

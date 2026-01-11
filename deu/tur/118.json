@@ -1,32 +1,86 @@
 {
-  "sentence": "Yüzmeyi seviyorum.",
+  "sentence": "Tom, Avustralya'da olduğunu söyledi.",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich schwimme sehr gern."
+    "Tom hat gesagt, dass er in Australien ist."
   ],
   "parts": [
     {
-      "content": "Yüzme",
+      "content": "Tom",
       "translations": [
-        "Schwimmen",
-        "Schwimmsport"
+        "Tom",
+        "Tomas"
+      ],
+      "usageExamples": [
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sonuçları analiz etti.",
+          "Tom analysierte die Ergebnisse.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Avustralya",
+      "translations": [
+        "Australien",
+        "Australien (Land)"
       ],
       "usageExamples": []
     },
     {
-      "content": "seviyorum",
+      "content": "da",
       "translations": [
-        "ich liebe dich",
-        "ich mag dich"
+        "da",
+        "dort",
+        "da drüben"
       ],
       "usageExamples": [
         [
-          "Seni başlangıçta planlanandan daha çok seviyorum.",
-          "Ich liebe dich ein bisschen mehr als ursprünglich geplant."
+          "Ateşsiz duman da çıkabilir.",
+          "Rauch kann auch ohne Feuer entstehen.",
+          "Sentence from Tatoeba by hrkucuk (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu da kim?",
+          "Wer ist das denn?",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "olduğunu",
+      "translations": [
+        "es ist",
+        "war",
+        "ist geworden"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "söyledi",
+      "translations": [
+        "sagte",
+        "hat gesagt"
+      ],
+      "usageExamples": []
     }
   ]
 }

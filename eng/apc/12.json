@@ -1,31 +1,32 @@
 {
-  "sentence": "بدي أسكن بالمدينة.",
+  "sentence": "انا بشغل معك.",
   "credits": [
-    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I want to live in the city."
+    "I'm working with you."
   ],
   "parts": [
     {
-      "content": "بدي",
+      "content": "انا",
       "translations": [
-        "I want",
-        "I need",
-        "I would like",
-        "I desire"
+        "I",
+        "me"
       ],
-      "usageExamples": [
-        [
-          "بدي أشتري بيت.",
-          "I want to buy a house."
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "أسكن",
+      "content": "بشغل",
       "translations": [
-        "I live"
+        "I am working."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "معك",
+      "translations": [
+        "with you"
       ],
       "usageExamples": []
     }

@@ -1,10 +1,11 @@
 {
-  "sentence": "Tom'u çağırmamı ister misiniz?",
+  "sentence": "Tom bana tam tersini söylemişti.",
   "credits": [
-    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wollen Sie, dass ich Tom rufe?"
+    "Tom hat mir genau das Gegenteil gesagt."
   ],
   "parts": [
     {
@@ -15,60 +16,69 @@
       ],
       "usageExamples": [
         [
-          "Tom sonuçları analiz etti.",
-          "Tom analysierte die Ergebnisse."
+          "Tom, buna vaktimiz yok!",
+          "Tom, wir haben dafür keine Zeit!",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
         ],
         [
-          "Bugün Tom, Mary'yi gördü.",
-          "Tom hat Mary heute gesehen."
+          "Tom'u çağırmamı ister misiniz?",
+          "Wollen Sie, dass ich Tom rufe?",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist."
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "çağır",
+      "content": "bana",
       "translations": [
-        "rufen",
-        "einladen",
-        "herbeirufen"
+        "mir",
+        "zu mir"
+      ],
+      "usageExamples": [
+        [
+          "Bu şarkı bana birini hatırlatıyor.",
+          "Dieses Lied erinnert mich an jemanden.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tam",
+      "translations": [
+        "so",
+        "so sehr",
+        "so viel"
       ],
       "usageExamples": []
     },
     {
-      "content": "mam",
+      "content": "tersini",
       "translations": [
-        "Mama",
-        "Mutti",
-        "Mutter"
+        "umgekehrt",
+        "das Gegenteil"
       ],
       "usageExamples": []
     },
     {
-      "content": "ı",
+      "content": "söylemişti",
       "translations": [
-        "ich",
-        "ich bin"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ister",
-      "translations": [
-        "bitte",
-        "möchten Sie"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "misiniz",
-      "translations": [
-        "sind Sie",
-        "bist du",
-        "sind Sie nicht",
-        "bist du nicht"
+        "hatte gesagt",
+        "sagte er/sie",
+        "hatte gesprochen"
       ],
       "usageExamples": []
     }

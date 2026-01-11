@@ -1,29 +1,78 @@
 {
-  "sentence": "عن جد؟",
+  "sentence": "تون بيحب يعمل هاد الساعة ٢:٣٠.",
   "credits": [
-    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Really?"
+    "Tom likes to do that at 2:30."
   ],
   "parts": [
     {
-      "content": "عن",
+      "content": "تون",
       "translations": [
-        "about",
-        "concerning",
-        "regarding",
-        "on"
+        "you",
+        "your"
       ],
       "usageExamples": []
     },
     {
-      "content": "جد",
+      "content": "بيحب",
       "translations": [
-        "find",
-        "get",
-        "search for",
-        "obtain"
+        "he loves",
+        "he likes"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يعمل",
+      "translations": [
+        "works",
+        "is working",
+        "functions",
+        "operates"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "هاد",
+      "translations": [
+        "this",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "كيف نشرح هاد؟",
+          "How do we explain this?",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "فيهم يعملو هاد لحالهم.",
+          "They're able to do that on their own.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا متأكد أنه توم بيفهم هاد.",
+          "I'm sure Tom understands that.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "الساعة",
+      "translations": [
+        "the hour",
+        "the clock",
+        "o'clock"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "٢:٣٠",
+      "translations": [
+        "2:30",
+        "two thirty",
+        "half past two"
       ],
       "usageExamples": []
     }

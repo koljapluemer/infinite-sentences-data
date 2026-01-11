@@ -1,35 +1,52 @@
 {
-  "sentence": "إنت بتشوفه دايما؟",
+  "sentence": "أنا هروح لوحدي",
   "credits": [
-    "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you see him often?"
+    "I'll go on my own."
   ],
   "parts": [
     {
-      "content": "إنت",
+      "content": "أنا",
       "translations": [
-        "You",
-        "You're"
+        "I am.",
+        "I",
+        "Me"
+      ],
+      "usageExamples": [
+        [
+          "أنا صايمه النهارده.",
+          "I'm fasting today.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا لسه شايفه.",
+          "I just saw him.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا فخوره بيها جدا.",
+          "I'm very proud of it.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "هروح",
+      "translations": [
+        "I will go.",
+        "I'm going."
       ],
       "usageExamples": []
     },
     {
-      "content": "بتشوفه",
+      "content": "لوحدي",
       "translations": [
-        "You see him",
-        "You will see him",
-        "Do you see him?"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "دايما",
-      "translations": [
-        "always",
-        "forever",
-        "constantly"
+        "by myself",
+        "alone",
+        "on my own"
       ],
       "usageExamples": []
     }

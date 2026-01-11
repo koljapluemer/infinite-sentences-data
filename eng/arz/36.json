@@ -1,83 +1,35 @@
 {
-  "sentence": "توم في نص الميتينج بتاعه.",
+  "sentence": "بتتكلمي انجليزي؟",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is in the middle of his meeting."
+    "Do you speak English?"
   ],
   "parts": [
     {
-      "content": "توم",
+      "content": "بتتكلمي",
       "translations": [
-        "you",
-        "you (singular)"
+        "Are you speaking?",
+        "Do you speak?",
+        "Are you talking?"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "انجليزي",
+      "translations": [
+        "English",
+        "in English"
       ],
       "usageExamples": [
         [
-          "توم مابصش عليه حتى.",
-          "Tom wouldn't even look at it."
-        ],
-        [
-          "توم ريحته في المكان.",
-          "This place smells like Tom."
-        ],
-        [
-          "توم مبيعرفش يلعب تنس.",
-          "Tom can't play tennis."
+          "بتتكلم انجليزي؟",
+          "Do you speak English?",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "في",
-      "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
-      ],
-      "usageExamples": [
-        [
-          "توم ريحته في المكان.",
-          "This place smells like Tom."
-        ],
-        [
-          "ساعدوا بعض في الواجب.",
-          "Help each other with homework."
-        ],
-        [
-          "منقدرش نشتغل في الحر ده.",
-          "We can't work in this heat."
-        ]
-      ]
-    },
-    {
-      "content": "نص",
-      "translations": [
-        "text",
-        "script",
-        "content"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "الميتينج",
-      "translations": [
-        "the meeting",
-        "the gathering",
-        "the conference"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بتاعه",
-      "translations": [
-        "his thing",
-        "that thing",
-        "his stuff",
-        "that one"
-      ],
-      "usageExamples": []
     }
   ]
 }

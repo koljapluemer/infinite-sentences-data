@@ -1,40 +1,86 @@
 {
-  "sentence": "ماليش إخوات صبيان.",
+  "sentence": "عايز أروّح البيت دلوقتي.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't have any brothers."
+    "I would like to go home now."
   ],
   "parts": [
     {
-      "content": "ماليش",
+      "content": "عايز",
       "translations": [
-        "I don't have",
-        "I don't care.",
-        "It's not my problem.",
-        "I don't mind."
+        "I want",
+        "I need",
+        "I would like"
+      ],
+      "usageExamples": [
+        [
+          "عايز أكون ساحر.",
+          "I want to be a magician.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "عايز أروح المستشفى.",
+          "I want to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "قولّهم أنت عايز تعمل ايه.",
+          "Tell them what you want to do.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "أروّح",
+      "translations": [
+        "I feel better.",
+        "I relax",
+        "I unwind",
+        "I refresh"
       ],
       "usageExamples": []
     },
     {
-      "content": "إخوات",
+      "content": "البيت",
       "translations": [
-        "siblings",
-        "brothers and sisters",
-        "brothers",
-        "sisters"
+        "the house",
+        "the home"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "أقدر أشتري البيت ده على كام؟",
+          "How much could I buy this house for?",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+        ],
+        [
+          "شكرا انك وصّلتني البيت. تصبح على خير.",
+          "Thanks for bringing me home. Good night.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "صبيان",
+      "content": "دلوقتي",
       "translations": [
-        "boys",
-        "children",
-        "kids"
+        "now",
+        "right now",
+        "at the moment"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "معلش اعملها دلوقتي حالا",
+          "Please do this immediately.",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+        ],
+        [
+          "هي في إجازة دلوقتي.",
+          "She is now on vacation.",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,45 +1,98 @@
 {
-  "sentence": "Uçurtma ağaçta asılı kaldı.",
+  "sentence": "Tom'un bir kedisi var.",
   "credits": [
-    "Sentence from Tatoeba by evka (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Der Drachen hängt im Baum fest."
+    "Tom hat eine Katze."
   ],
   "parts": [
     {
-      "content": "Uçurtma",
+      "content": "Tom'un",
       "translations": [
-        "Drachen",
-        "Luftballon"
+        "Tom's",
+        "von Tom"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'un Avustralyalı aksanı yok.",
+          "Tom hat keinen australischen Akzent.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çocukları hasta.",
+          "Toms Kinder sind krank.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "ağaçta",
+      "content": "bir",
       "translations": [
-        "auf dem Baum",
-        "im Baum"
+        "eins",
+        "ein"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ],
+        [
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "asılı",
+      "content": "kedisi",
       "translations": [
-        "hängend",
-        "aufgehängt"
+        "Katze",
+        "Kätzchen"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "kaldı",
+      "content": "var",
       "translations": [
-        "bleibt",
-        "verbleibt",
-        "übrig",
-        "ist geblieben"
+        "var",
+        "es gibt"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bir alternatifin var.",
+          "Du hast eine Alternative.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Köyde beş inek var.",
+          "Im Dorf gibt es fünf Rinder.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

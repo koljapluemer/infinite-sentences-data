@@ -1,10 +1,11 @@
 {
-  "sentence": "O, benim bir arkadaşım için.",
+  "sentence": "O başka bir adamla dans ediyor.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es ist für einen Freund von mir."
+    "Sie tanzt mit einem anderen Mann."
   ],
   "parts": [
     {
@@ -16,25 +17,35 @@
       "usageExamples": [
         [
           "O biraz çatlak.",
-          "Sie ist ein bisschen verrückt."
+          "Sie ist ein bisschen verrückt.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "O bu sırrı açık etmek istiyor.",
-          "Sie wollte das Geheimnis verraten."
+          "O, benim bir arkadaşım için.",
+          "Es ist für einen Freund von mir.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "O başka bir adamla dans ediyor.",
-          "Sie tanzt mit einem anderen Mann."
+          "O nasıl? Yaşlı mı, genç mi?",
+          "Wie ist er? Alt, oder jung?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "benim",
+      "content": "başka",
       "translations": [
-        "mein",
-        "meine"
+        "anderer",
+        "andere",
+        "andres"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "bir",
@@ -44,49 +55,46 @@
       ],
       "usageExamples": [
         [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache."
-        ],
-        [
           "Ciddi bir konuşmaya başladık.",
-          "Wir begannen eine ernsthafte Unterhaltung."
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
         ],
         [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!"
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "arkadaşım",
+      "content": "adamla",
       "translations": [
-        "mein Freund",
-        "meine Freundin",
-        "mein Kumpel",
-        "meine Kumpeline"
+        "Mensch",
+        "Typ",
+        "Kerl"
       ],
       "usageExamples": []
     },
     {
-      "content": "için",
+      "content": "dans",
       "translations": [
-        "für",
-        "um zu"
+        "in",
+        "drin"
       ],
-      "usageExamples": [
-        [
-          "Bu pasajı senin için özetlemek istiyorum.",
-          "Ich möchte diese Passage für dich zusammenfassen."
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen."
-        ],
-        [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen."
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "ediyor",
+      "translations": [
+        "macht",
+        "tut"
+      ],
+      "usageExamples": []
     }
   ]
 }

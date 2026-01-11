@@ -1,27 +1,68 @@
 {
-  "sentence": "ممنوع السباحة.",
+  "sentence": "كان أنت اللي عمله؟",
   "credits": [
-    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by maaster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "No swimming."
+    "Was it you who did it?"
   ],
   "parts": [
     {
-      "content": "ممنوع",
+      "content": "كان",
       "translations": [
-        "Prohibited",
-        "Forbidden",
-        "Not allowed",
-        "Banned"
+        "was",
+        "were",
+        "has been"
+      ],
+      "usageExamples": [
+        [
+          "توم كان بطلي.",
+          "Tom was my hero.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا بتذكره كأنه مبارح، بس بالحقيقة كان من خمستعش سنة.",
+          "I remember it as if it were yesterday, but in reality it was fifteen years ago.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "أكلها المفضل وهي زغيرة كان بيتزا.",
+          "Her favourite food as a child was pizza.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "أنت",
+      "translations": [
+        "You",
+        "You are"
+      ],
+      "usageExamples": [
+        [
+          "أنت ناوي تعمل هادا مرة تانية بكرا، صح؟",
+          "You're planning to do that again tomorrow, aren't you?",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "اللي",
+      "translations": [
+        "who",
+        "that",
+        "which"
       ],
       "usageExamples": []
     },
     {
-      "content": "السباحة",
+      "content": "عمله",
       "translations": [
-        "swimming",
-        "the act of swimming"
+        "his work",
+        "his job",
+        "his task",
+        "his deed"
       ],
       "usageExamples": []
     }

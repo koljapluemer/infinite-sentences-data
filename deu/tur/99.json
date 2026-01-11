@@ -1,54 +1,110 @@
 {
-  "sentence": "Tom beni arıyor mu?",
+  "sentence": "Son zamanlarda daha az hasta bana geliyor.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sucht Tom nach mir?"
+    "In letzter Zeit kamen immer weniger Patienten zu mir."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Son",
       "translations": [
-        "Tom",
-        "Tomas"
+        "Sohn",
+        "Sohnemann"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "zamanlarda",
+      "translations": [
+        "zu dieser Zeit",
+        "in diesen Zeiten"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "daha",
+      "translations": [
+        "mehr",
+        "noch"
       ],
       "usageExamples": [
         [
-          "Tom gelince, gidiyorum.",
-          "Wenn Tom kommt, gehe ich."
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist."
+          "Seni başlangıçta planlanandan daha çok seviyorum.",
+          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "Tom Boston'da kalıyor.",
-          "Tom bleibt in Boston."
+          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
+          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "beni",
+      "content": "az",
       "translations": [
-        "mich",
-        "mir"
+        "schlecht",
+        "wenig"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "arıyor",
+      "content": "hasta",
       "translations": [
-        "ruft an",
-        "sucht"
+        "Krücke",
+        "Stock"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'un çocukları hasta.",
+          "Toms Kinder sind krank.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "mu",
+      "content": "bana",
       "translations": [
-        "ich",
-        "mir"
+        "mir",
+        "zu mir"
+      ],
+      "usageExamples": [
+        [
+          "Tom bana tam tersini söylemişti.",
+          "Tom hat mir genau das Gegenteil gesagt.",
+          "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu şarkı bana birini hatırlatıyor.",
+          "Dieses Lied erinnert mich an jemanden.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "geliyor",
+      "translations": [
+        "kommt",
+        "kommt gerade"
       ],
       "usageExamples": []
     }

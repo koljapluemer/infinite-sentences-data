@@ -1,35 +1,66 @@
 {
-  "sentence": "Türkçe konuşur musunuz?",
+  "sentence": "Tom'un Avustralyalı aksanı yok.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sprechen Sie Türkisch?"
+    "Tom hat keinen australischen Akzent."
   ],
   "parts": [
     {
-      "content": "Türkçe",
+      "content": "Tom'un",
       "translations": [
-        "Türkisch",
-        "Türkische Sprache"
+        "Tom's",
+        "von Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çocukları hasta.",
+          "Toms Kinder sind krank.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Avustralyalı",
+      "translations": [
+        "Australier",
+        "Australische Person"
       ],
       "usageExamples": []
     },
     {
-      "content": "konuşur",
+      "content": "aksanı",
       "translations": [
-        "spricht",
-        "redet"
+        "Akzent",
+        "Aussprache"
       ],
       "usageExamples": []
     },
     {
-      "content": "musunuz",
+      "content": "yok",
       "translations": [
-        "sind Sie",
-        "bist du"
+        "nicht",
+        "kein"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom, buna vaktimiz yok!",
+          "Tom, wir haben dafür keine Zeit!",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

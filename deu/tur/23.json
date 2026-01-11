@@ -1,10 +1,11 @@
 {
-  "sentence": "Bir zamanlar kafam çok karışıktı.",
+  "sentence": "Bir alternatifin var.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich war einmal so verwirrt."
+    "Du hast eine Alternative."
   ],
   "parts": [
     {
@@ -16,77 +17,52 @@
       "usageExamples": [
         [
           "Bir dil yeterince iyi öğrenilemez.",
-          "Man kann keine Sprache genug beherrschen."
+          "Man kann keine Sprache genug beherrschen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
           "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen."
+          "Ich muss für eine Spanienreise Spanisch lernen.",
+          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bir zamanlar kafam çok karışıktı.",
+          "Ich war einmal so verwirrt.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "zaman",
+      "content": "alternatifin",
       "translations": [
-        "Zeit",
-        "Epoche",
-        "Ära"
-      ],
-      "usageExamples": [
-        [
-          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
-          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst."
-        ],
-        [
-          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
-          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen."
-        ],
-        [
-          "Benim için ne zaman vaktin olur?",
-          "Wann hast du Zeit für mich?"
-        ]
-      ]
-    },
-    {
-      "content": "kafam",
-      "translations": [
-        "Kopf",
-        "Mein Kopf"
-      ],
-      "usageExamples": [
-        [
-          "Benim kafam karıştı.",
-          "Ich bin verwirrt."
-        ]
-      ]
-    },
-    {
-      "content": "çok",
-      "translations": [
-        "sehr",
-        "viel"
-      ],
-      "usageExamples": [
-        [
-          "Çok fazla Fransızca konuşamam.",
-          "Ich spreche nicht viel Französisch."
-        ],
-        [
-          "Esperanto öğrenmek çok ilginçtir.",
-          "Esperanto zu lernen ist sehr interessant."
-        ],
-        [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit."
-        ]
-      ]
-    },
-    {
-      "content": "karışıktı",
-      "translations": [
-        "es war kompliziert",
-        "es war verwirrend"
+        "Alternativ",
+        "Alternative"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "var",
+      "translations": [
+        "var",
+        "es gibt"
+      ],
+      "usageExamples": [
+        [
+          "Dokuza çeyrek var.",
+          "Es ist Viertel vor neun.",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Köyde beş inek var.",
+          "Im Dorf gibt es fünf Rinder.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

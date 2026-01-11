@@ -1,45 +1,39 @@
 {
-  "sentence": "بدي أشتري بيت.",
+  "sentence": "بحبك كتير.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by sysko (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I want to buy a house."
+    "I love you so much.",
+    "I love you very much."
   ],
   "parts": [
     {
-      "content": "بدي",
+      "content": "بحبك",
       "translations": [
-        "I want",
-        "I need",
-        "I would like",
-        "I desire"
+        "I love you.",
+        "I'm in love with you.",
+        "I care for you"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كتير",
+      "translations": [
+        "a lot",
+        "many",
+        "very much",
+        "plenty"
       ],
       "usageExamples": [
         [
-          "بدي أسكن بالمدينة.",
-          "I want to live in the city."
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "أشتري",
-      "translations": [
-        "I buy",
-        "I am buying",
-        "I purchase"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بيت",
-      "translations": [
-        "house",
-        "home",
-        "dwelling",
-        "residence"
-      ],
-      "usageExamples": []
     }
   ]
 }

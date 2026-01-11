@@ -1,38 +1,43 @@
 {
-  "sentence": "بحب اكُل برّه.",
+  "sentence": "السمك رخيص النهارده.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I like to eat out."
+    "Fish is cheap today."
   ],
   "parts": [
     {
-      "content": "بحب",
+      "content": "السمك",
       "translations": [
-        "I love",
-        "I like",
-        "I care for",
-        "I'm fond of"
+        "fish",
+        "the fish"
       ],
       "usageExamples": []
     },
     {
-      "content": "اكُل",
+      "content": "رخيص",
       "translations": [
-        "food",
-        "meal",
-        "eating"
+        "cheap",
+        "inexpensive",
+        "affordable"
       ],
       "usageExamples": []
     },
     {
-      "content": "برّه",
+      "content": "النهارده",
       "translations": [
-        "outside",
-        "out"
+        "today",
+        "this day"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "أنا صايمه النهارده.",
+          "I'm fasting today.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

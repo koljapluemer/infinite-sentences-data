@@ -1,10 +1,11 @@
 {
-  "sentence": "أنا مش لابس هالزي الغبي.",
+  "sentence": "أنا متأكد أنه توم بيفهم هاد.",
   "credits": [
-    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm not wearing that stupid costume."
+    "I'm sure Tom understands that."
   ],
   "parts": [
     {
@@ -15,59 +16,93 @@
       ],
       "usageExamples": [
         [
-          "أنا متأكد أنه توم بيفهم هاد.",
-          "I'm sure Tom understands that."
+          "أنا مش لابس هالزي الغبي.",
+          "I'm not wearing that stupid costume.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا بتذكره كأنه مبارح، بس بالحقيقة كان من خمستعش سنة.",
+          "I remember it as if it were yesterday, but in reality it was fifteen years ago.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "مش",
+      "content": "متأكد",
       "translations": [
-        "not",
-        "no",
-        "don't"
+        "sure",
+        "certain",
+        "confident"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "أنه",
+      "translations": [
+        "that",
+        "he",
+        "it is",
+        "there is"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "توم",
+      "translations": [
+        "Tom",
+        "You"
       ],
       "usageExamples": [
         [
-          "مش معقول!",
-          "Unbelievable!"
+          "توم كان بطلي.",
+          "Tom was my hero.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
         ],
         [
-          "مش جاي عبالي أطلع الليلة",
-          "I don't feel like going out this evening."
+          "رحنا لنوشف توم.",
+          "We went to see Tom.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
         ],
         [
-          "إنه مش زي عندي إشي أحسن عشان أعمل.",
-          "It's not as if I have anything better to do."
+          "ما بفكر انهم توم ومريم عندهم كتير أصحاب بوسطن.",
+          "I don't think Tom and Mary have very many friends in Boston.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "لابس",
+      "content": "بيفهم",
       "translations": [
-        "wearing",
-        "dressed",
-        "clothed"
+        "understands",
+        "comprehends",
+        "gets it",
+        "is aware"
       ],
       "usageExamples": []
     },
     {
-      "content": "هالزي",
+      "content": "هاد",
       "translations": [
         "this",
-        "this one"
+        "that"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "الغبي",
-      "translations": [
-        "the fool",
-        "the stupid one",
-        "the idiot",
-        "the silly person"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "كيف نشرح هاد؟",
+          "How do we explain this?",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "فيهم يعملو هاد لحالهم.",
+          "They're able to do that on their own.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ],
+        [
+          "تون بيحب يعمل هاد الساعة ٢:٣٠.",
+          "Tom likes to do that at 2:30.",
+          "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

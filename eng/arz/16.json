@@ -1,27 +1,87 @@
 {
-  "sentence": "السعادة اختيار.",
+  "sentence": "إيه اللي انت أكلته؟",
   "credits": [
-    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Happiness is a choice."
+    "What did you have to eat?"
   ],
   "parts": [
     {
-      "content": "السعادة",
+      "content": "إيه",
       "translations": [
-        "happiness",
-        "joy"
+        "Yes.",
+        "Yeah",
+        "Okay.",
+        "Alright."
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "بتتعلمي لغات إيه؟",
+          "What languages are you learning?",
+          "Sentence from Tatoeba by atitarev (CC-BY 2.0 FR)"
+        ],
+        [
+          "إنت اسمك إيه؟",
+          "What is your name?",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+        ],
+        [
+          "مش فاهم انت عاوز تقول إيه.",
+          "I don't understand what you're saying.",
+          "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "اختيار",
+      "content": "اللي",
       "translations": [
-        "choice",
-        "selection",
-        "option",
-        "pick"
+        "who",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "عجبك الورد اللي بعتهولك؟",
+          "Did you like the flowers that I sent you?",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "اديتلو كل الفلوس اللي كت عندي.",
+          "I gave him what money I had.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
+          "You're the only one working here who can speak French.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "انت",
+      "translations": [
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
+          "You're the only one working here who can speak French.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "مش فاهم انت عاوز تقول إيه.",
+          "I don't understand what you're saying.",
+          "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "أكلته",
+      "translations": [
+        "I ate it.",
+        "I have eaten it"
       ],
       "usageExamples": []
     }

@@ -1,53 +1,92 @@
 {
-  "sentence": "Onun bunu başarması inanılmaz.",
+  "sentence": "O nasıl? Yaşlı mı, genç mi?",
   "credits": [
-    "Sentence from Tatoeba by odien16 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es ist unwahrscheinlich, dass es ihm gelungen ist."
+    "Wie ist er? Alt, oder jung?"
   ],
   "parts": [
     {
-      "content": "Onun",
+      "content": "O",
       "translations": [
-        "seine",
-        "ihr"
+        "O",
+        "Oh"
       ],
       "usageExamples": [
         [
-          "Onun bir kedisi ve iki köpeği var.",
-          "Sie hat eine Katze und zwei Hunde."
+          "O biraz çatlak.",
+          "Sie ist ein bisschen verrückt.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ],
+        [
+          "O, benim bir arkadaşım için.",
+          "Es ist für einen Freund von mir.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bunu",
+      "content": "nasıl",
       "translations": [
-        "das",
-        "dieses"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "başarması",
-      "translations": [
-        "es schaffen",
-        "es gelingen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "inanılmaz",
-      "translations": [
-        "unglaublich",
-        "unfassbar"
+        "wie",
+        "was für ein"
       ],
       "usageExamples": [
         [
-          "Bence bu inanılmaz.",
-          "Ich denke, es ist unglaublich."
+          "Hava nasıl?",
+          "Wie ist das Wetter?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Okul nasıl gidiyor?",
+          "Wie geht es in der Schule?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "Yaşlı",
+      "translations": [
+        "alt",
+        "älter",
+        "senior",
+        "altmodisch"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mı",
+      "translations": [
+        "ob",
+        "ob nicht"
+      ],
+      "usageExamples": [
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "genç",
+      "translations": [
+        "jung",
+        "junge"
+      ],
+      "usageExamples": []
     }
   ]
 }

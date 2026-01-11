@@ -1,54 +1,106 @@
 {
-  "sentence": "Yani yalan söylediğimi iddia ediyorsunuz.",
+  "sentence": "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sie behaupten also, dass ich lüge."
+    "Weißt du, wohin Tom und seine Freunde gegangen sind?"
   ],
   "parts": [
     {
-      "content": "yani",
+      "content": "Tom'un",
       "translations": [
-        "das heißt",
-        "also",
-        "nämlich"
+        "Tom's",
+        "von Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un çocukları hasta.",
+          "Toms Kinder sind krank.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ve",
+      "translations": [
+        "und",
+        "oder"
+      ],
+      "usageExamples": [
+        [
+          "Gemiler rüzgar ve yağmurdan etkilenirler.",
+          "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "arkadaşlarının",
+      "translations": [
+        "deine Freunde",
+        "deine Freundinnen"
       ],
       "usageExamples": []
     },
     {
-      "content": "yalan",
+      "content": "nereye",
       "translations": [
-        "Lüge",
-        "Falschheit"
+        "wohin",
+        "nach wo"
       ],
       "usageExamples": []
     },
     {
-      "content": "söylediğimi",
+      "content": "gittiğini",
       "translations": [
-        "was gesagt habe",
-        "was ich gesagt habe"
+        "du bist gegangen",
+        "du bist weg"
       ],
       "usageExamples": []
     },
     {
-      "content": "iddia",
+      "content": "biliyor",
       "translations": [
-        "Wette",
-        "Einsatz"
+        "weiß",
+        "kennt"
       ],
       "usageExamples": []
     },
     {
-      "content": "ediyorsunuz",
+      "content": "musun",
       "translations": [
-        "Sie tun",
-        "Sie machen",
-        "Sie sind am ...",
-        "Sie betreiben"
+        "bist du?",
+        "hast du?"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Adını saklayan adamı ciddiye almayacağımı bilmiyor musun?",
+          "Weißt du, dass ich nichts von einem Menschen halte, der seinen Namen verbirgt?",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

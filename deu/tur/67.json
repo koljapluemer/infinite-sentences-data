@@ -1,56 +1,60 @@
 {
-  "sentence": "Mary politika ile ilgilenir.",
+  "sentence": "Köyde beş inek var.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Maria interessiert sich für Politik."
+    "Im Dorf gibt es fünf Rinder."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Köyde",
       "translations": [
-        "Maria",
-        "Miriam"
+        "im Dorf",
+        "auf dem Land"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "beş",
+      "translations": [
+        "fünf",
+        "5"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "inek",
+      "translations": [
+        "Kuh",
+        "Rind"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "var",
+      "translations": [
+        "var",
+        "es gibt"
       ],
       "usageExamples": [
         [
-          "Mary'yi öldürdün mü?",
-          "Hast du Maria umgebracht?"
+          "Bir alternatifin var.",
+          "Du hast eine Alternative.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Mary bale dersleri alıyor.",
-          "Maria nimmt Ballettunterricht."
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Mary bir baton kullanarak orkestrayı yönetti.",
-          "Maria dirigierte das Orchester mit einem Taktstock."
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "politika",
-      "translations": [
-        "Politik",
-        "Politikgestaltung"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ile",
-      "translations": [
-        "mit",
-        "und"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ilgilenir",
-      "translations": [
-        "interessiert sich",
-        "kümmert sich"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,27 +1,56 @@
 {
-  "sentence": "Kimden öğrendin?",
+  "sentence": "Kartla ödeme yapılabilir mi?",
   "credits": [
-    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Von wem hast du es erfahren?"
+    "Kann man mit Karte bezahlen?"
   ],
   "parts": [
     {
-      "content": "Kimden",
+      "content": "Kartla",
       "translations": [
-        "Von wem",
-        "Von welcher Person"
+        "Karte",
+        "Landkarte"
       ],
       "usageExamples": []
     },
     {
-      "content": "öğrendin",
+      "content": "ödeme",
       "translations": [
-        "du hast gelernt",
-        "du hast erfahren"
+        "Zahlung",
+        "Bezahlung"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "yapılabilir",
+      "translations": [
+        "machbar",
+        "durchführbar",
+        "realisierbar"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "ich",
+        "mir"
+      ],
+      "usageExamples": [
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
+          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

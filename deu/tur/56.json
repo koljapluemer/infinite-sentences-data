@@ -1,36 +1,39 @@
 {
-  "sentence": "Hikayeyi okumadım.",
+  "sentence": "Hava nasıl?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich habe die Geschichte nicht gelesen."
+    "Wie ist das Wetter?"
   ],
   "parts": [
     {
-      "content": "hikaye",
+      "content": "Hava",
       "translations": [
-        "Geschichte",
-        "Erzählung"
+        "Luft",
+        "Wetter"
       ],
       "usageExamples": []
     },
     {
-      "content": "yi",
+      "content": "nasıl",
       "translations": [
-        "gut",
-        "schön",
-        "gut gemacht"
+        "wie",
+        "was für ein"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "okumadım",
-      "translations": [
-        "Ich habe nicht gelesen",
-        "Ich habe nicht studiert"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Okul nasıl gidiyor?",
+          "Wie geht es in der Schule?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ],
+        [
+          "O nasıl? Yaşlı mı, genç mi?",
+          "Wie ist er? Alt, oder jung?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

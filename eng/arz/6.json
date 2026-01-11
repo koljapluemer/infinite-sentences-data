@@ -1,35 +1,43 @@
 {
-  "sentence": "أنصحك إنك تتأسف.",
+  "sentence": "أنا كرهتها.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should apologize."
+    "I hated her."
   ],
   "parts": [
     {
-      "content": "أنصحك",
+      "content": "أنا",
       "translations": [
-        "I advise you",
-        "I recommend you",
-        "I suggest you"
+        "I am.",
+        "I",
+        "Me"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "أنا بخاف م الزلازل.",
+          "I'm afraid of earthquakes.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا لسه شايفه.",
+          "I just saw him.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا صايمه النهارده.",
+          "I'm fasting today.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "إنك",
+      "content": "كرهتها",
       "translations": [
-        "You are",
-        "Indeed you are",
-        "You really are"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "تتأسف",
-      "translations": [
-        "I'm sorry.",
-        "I apologize."
+        "I hated her.",
+        "I disliked her"
       ],
       "usageExamples": []
     }

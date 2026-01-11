@@ -1,34 +1,46 @@
 {
-  "sentence": "بتتكلم انجليزي؟",
+  "sentence": "البضاعة وصلت امبارح.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you speak English?"
+    "The goods arrived yesterday."
   ],
   "parts": [
     {
-      "content": "بتتكلم",
+      "content": "البضاعة",
       "translations": [
-        "You are talking",
-        "You speak.",
-        "Are you talking?",
-        "You are speaking"
+        "the goods",
+        "the merchandise",
+        "the products",
+        "the items"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "وصلت",
+      "translations": [
+        "arrived",
+        "reached",
+        "got here",
+        "came"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "امبارح",
+      "translations": [
+        "yesterday",
+        "last night"
       ],
       "usageExamples": [
         [
-          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
-          "You're the only one working here who can speak French."
+          "كنت هنا امبارح.",
+          "I was just here yesterday.",
+          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "انجليزي",
-      "translations": [
-        "English",
-        "in English"
-      ],
-      "usageExamples": []
     }
   ]
 }

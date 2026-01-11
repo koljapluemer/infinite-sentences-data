@@ -1,10 +1,11 @@
 {
-  "sentence": "توم يفهم ما لا تفهمه.",
+  "sentence": "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
   "credits": [
-    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom understands what you don't."
+    "Tom and Mary told John that they were unwilling to do that."
   ],
   "parts": [
     {
@@ -15,25 +16,65 @@
       "usageExamples": [
         [
           "توم خلى عينوا عالولاد",
-          "Tom kept an eye on the children."
-        ],
-        [
-          "عالأغلب توم لح يساوي يلي لح تطلبه.",
-          "I suspect Tom will do whatever you ask."
+          "Tom kept an eye on the children.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ],
         [
           "توم و ماري ما كانوا كتير عم يستمتعوا",
-          "Tom and Mary didn't really seem to be enjoying themselves."
+          "Tom and Mary didn't really seem to be enjoying themselves.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "يفهم",
+      "content": "ماري",
       "translations": [
-        "grasp",
-        "get"
+        "Mary",
+        "Mariam",
+        "Maria"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "ماري قالت انو مالا مخططا تعمل هيك",
+          "Mary said she's not planning on doing that.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "انو",
+      "translations": [
+        "this",
+        "that",
+        "it"
+      ],
+      "usageExamples": [
+        [
+          "كان مشكوك فيها انو هية جاسوسة.",
+          "She was suspected of being a spy.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "البربر بيقولوا انو لغتهم اسمها تامازايت.",
+          "Berbers call their language Tamazight.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "ماري قالت انو مالا مخططا تعمل هيك",
+          "Mary said she's not planning on doing that.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "ما",
@@ -43,26 +84,70 @@
       ],
       "usageExamples": [
         [
-          "توم بيفهم اللي انت ما بتفهمه.",
-          "Tom understands what you don't."
+          "توم يفهم ما لا تفهمه.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ],
         [
-          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
-          "Tom and Mary told John that they were unwilling to do that."
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ],
         [
           "توم بيفهم اللي هي ما بتفهم.",
-          "Tom understands what you don't."
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "لا",
+      "content": "كان",
       "translations": [
-        "No.",
-        "Not",
-        "None",
-        "Negative."
+        "was",
+        "were",
+        "has been"
+      ],
+      "usageExamples": [
+        [
+          "كان في مرّة...",
+          "Once upon a time...",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+        ],
+        [
+          "كان مشكوك فيها انو هية جاسوسة.",
+          "She was suspected of being a spy.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "عندهم",
+      "translations": [
+        "They have"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "رغبة",
+      "translations": [
+        "desire",
+        "wish",
+        "longing"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يعملوا",
+      "translations": [
+        "they work"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "هالإشي",
+      "translations": [
+        "this thing",
+        "this item"
       ],
       "usageExamples": []
     }

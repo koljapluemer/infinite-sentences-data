@@ -1,36 +1,68 @@
 {
-  "sentence": "Hava nasıl?",
+  "sentence": "Gemiler rüzgar ve yağmurdan etkilenirler.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wie ist das Wetter?"
+    "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen."
   ],
   "parts": [
     {
-      "content": "Hava",
+      "content": "Gemiler",
       "translations": [
-        "Luft",
-        "Wetter"
+        "Schiffe",
+        "Boote"
       ],
       "usageExamples": []
     },
     {
-      "content": "nasıl",
+      "content": "rüzgar",
       "translations": [
-        "wie",
-        "was für ein"
+        "Wind",
+        "Luftzug"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ve",
+      "translations": [
+        "und",
+        "oder"
       ],
       "usageExamples": [
         [
-          "Okul nasıl gidiyor?",
-          "Wie geht es in der Schule?"
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "O nasıl? Yaşlı mı, genç mi?",
-          "Wie ist er? Alt, oder jung?"
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ],
+        [
+          "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
+          "Nimm eine kalte Dusche und trinke dann einen heißen Tee!",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "yağmurdan",
+      "translations": [
+        "aus dem Regen",
+        "vor dem Regen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "etkilenirler",
+      "translations": [
+        "sie werden beeinflusst",
+        "sie sind betroffen"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,60 +1,66 @@
 {
-  "sentence": "Çok fazla Fransızca konuşamam.",
+  "sentence": "Tom, buna vaktimiz yok!",
   "credits": [
-    "Sentence from Tatoeba by oxyii (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich spreche nicht viel Französisch."
+    "Tom, wir haben dafür keine Zeit!"
   ],
   "parts": [
     {
-      "content": "çok",
+      "content": "Tom",
       "translations": [
-        "sehr",
-        "viel"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
-          "Esperanto öğrenmek çok ilginçtir.",
-          "Esperanto zu lernen ist sehr interessant.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit.",
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Bir zamanlar kafam çok karışıktı.",
-          "Ich war einmal so verwirrt.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fazla",
+      "content": "buna",
       "translations": [
-        "zu viel",
-        "übermäßig"
+        "das hier",
+        "dieses"
       ],
       "usageExamples": []
     },
     {
-      "content": "Fransızca",
+      "content": "vaktimiz",
       "translations": [
-        "Französisch",
-        "Französische Sprache"
+        "unsere Zeit",
+        "unser Termin"
       ],
       "usageExamples": []
     },
     {
-      "content": "konuşamam",
+      "content": "yok",
       "translations": [
-        "ich kann nicht sprechen",
-        "ich kann nicht reden"
+        "nicht",
+        "kein"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'un Avustralyalı aksanı yok.",
+          "Tom hat keinen australischen Akzent.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

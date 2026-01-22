@@ -1,35 +1,90 @@
 {
-  "sentence": "Otobüsle seyahat etmiyorum.",
+  "sentence": "O nasıl? Yaşlı mı, genç mi?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich fahre mit keinem Bus."
+    "Wie ist er? Alt, oder jung?"
   ],
   "parts": [
     {
-      "content": "Otobüsle",
+      "content": "O",
       "translations": [
-        "mit dem Bus",
-        "per Bus"
+        "O",
+        "Oh"
+      ],
+      "usageExamples": [
+        [
+          "O biraz çatlak.",
+          "Sie ist ein bisschen verrückt.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "O başka bir adamla dans ediyor.",
+          "Sie tanzt mit einem anderen Mann.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O, benim bir arkadaşım için.",
+          "Es ist für einen Freund von mir.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nasıl",
+      "translations": [
+        "wie",
+        "was für ein"
+      ],
+      "usageExamples": [
+        [
+          "Okul nasıl gidiyor?",
+          "Wie geht es in der Schule?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hava nasıl?",
+          "Wie ist das Wetter?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Yaşlı",
+      "translations": [
+        "alt",
+        "älter",
+        "senior",
+        "altmodisch"
       ],
       "usageExamples": []
     },
     {
-      "content": "seyahat",
+      "content": "mı",
       "translations": [
-        "Reise",
-        "Fahrt"
+        "ob",
+        "ob nicht"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "etmiyorum",
+      "content": "genç",
       "translations": [
-        "ich höre auf",
-        "ich lasse es sein",
-        "ich mache nicht mehr mit"
+        "jung",
+        "junge"
       ],
       "usageExamples": []
     }

@@ -1,26 +1,56 @@
 {
-  "sentence": "مرأتي رح ع السوق",
+  "sentence": "كم مدرسة في بمدينتك؟",
   "credits": [
-    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My wife is going to the market."
+    "How many schools are there in your city?"
   ],
   "parts": [
     {
-      "content": "رح",
+      "content": "كم",
       "translations": [
-        "to go",
-        "to leave",
-        "to depart"
+        "How much?",
+        "How many?",
+        "What amount?",
+        "What quantity?"
       ],
       "usageExamples": []
     },
     {
-      "content": "ع",
+      "content": "مدرسة",
       "translations": [
-        "A"
+        "school",
+        "educational institution",
+        "academy",
+        "learning center"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "في",
+      "translations": [
+        "in",
+        "at",
+        "inside",
+        "within"
+      ],
+      "usageExamples": [
+        [
+          "كان في مرّة...",
+          "Once upon a time...",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "مدينتك",
+      "translations": [
+        "Your city",
+        "The city you live in",
+        "Your hometown",
+        "The place you call home"
       ],
       "usageExamples": []
     }

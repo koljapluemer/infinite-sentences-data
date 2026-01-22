@@ -1,34 +1,51 @@
 {
-  "sentence": "Oraya geri dönmeyeceğim.",
+  "sentence": "O biraz çatlak.",
   "credits": [
-    "Sentence from Tatoeba by barbaros505 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich gehe nicht dorthin zurück."
+    "Sie ist ein bisschen verrückt."
   ],
   "parts": [
     {
-      "content": "oraya",
+      "content": "O",
       "translations": [
-        "dorthin",
-        "dahin"
+        "O",
+        "Oh"
+      ],
+      "usageExamples": [
+        [
+          "O, benim bir arkadaşım için.",
+          "Es ist für einen Freund von mir.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ],
+        [
+          "O başka bir adamla dans ediyor.",
+          "Sie tanzt mit einem anderen Mann.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "biraz",
+      "translations": [
+        "ein bisschen",
+        "ein wenig"
       ],
       "usageExamples": []
     },
     {
-      "content": "geri",
+      "content": "çatlak",
       "translations": [
-        "zurück",
-        "rückwärts"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dönmeyeceğim",
-      "translations": [
-        "Ich werde nicht zurückkehren",
-        "Ich komme nicht zurück"
+        "Riss",
+        "Rissstelle",
+        "Spalt"
       ],
       "usageExamples": []
     }

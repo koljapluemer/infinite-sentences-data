@@ -1,51 +1,47 @@
 {
-  "sentence": "يا ريتني كنت أطول",
+  "sentence": "مشّت الكلب تبعها",
   "credits": [
-    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I wish I was taller."
+    "She took her dog for a walk."
   ],
   "parts": [
     {
-      "content": "يا",
+      "content": "مشّت",
       "translations": [
-        "O",
-        "Oh.",
-        "Hey.",
-        "Ya"
+        "she walked",
+        "she moved",
+        "she went",
+        "she strolled"
       ],
       "usageExamples": []
     },
     {
-      "content": "ريت",
+      "content": "الكلب",
       "translations": [
-        "to see",
-        "to look"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ني",
-      "translations": [
-        "me",
-        "I"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "كنت",
-      "translations": [
-        "I was",
-        "You were"
+        "the dog",
+        "a dog",
+        "canine"
       ],
       "usageExamples": [
         [
-          "كنت مشغول.",
-          "You were busy.",
+          "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
+          "I have a cat and a dog. The cat is black and the dog is white.",
           "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "تبعها",
+      "translations": [
+        "followed it",
+        "was accompanied by it",
+        "came after it",
+        "ensued"
+      ],
+      "usageExamples": []
     }
   ]
 }

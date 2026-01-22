@@ -1,17 +1,19 @@
 {
-  "sentence": "توم يفهم ما لا تفهمه.",
+  "sentence": "توم و ماري ما كانوا كتير عم يستمتعوا",
   "credits": [
-    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom understands what you don't."
+    "Tom and Mary didn't really seem to be enjoying themselves."
   ],
   "parts": [
     {
       "content": "توم",
       "translations": [
-        "Tom"
+        "Tom",
+        "Tome",
+        "Tommie"
       ],
       "usageExamples": [
         [
@@ -20,8 +22,44 @@
           "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ],
         [
-          "عالأغلب توم لح يساوي يلي لح تطلبه.",
-          "I suspect Tom will do whatever you ask.",
+          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
+          "Tom and Mary told John that they were unwilling to do that.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "و",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition to"
+      ],
+      "usageExamples": [
+        [
+          "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
+          "I have a cat and a dog. The cat is black and the dog is white.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ماري",
+      "translations": [
+        "Mary",
+        "Mariam",
+        "Maria"
+      ],
+      "usageExamples": [
+        [
+          "ماري قالت انو مالا مخططا تعمل هيك",
+          "Mary said she's not planning on doing that.",
           "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ],
         [
@@ -32,29 +70,22 @@
       ]
     },
     {
-      "content": "يفهم",
-      "translations": [
-        "grasp",
-        "get"
-      ],
-      "usageExamples": []
-    },
-    {
       "content": "ما",
       "translations": [
         "what",
-        "which"
+        "which",
+        "that which"
       ],
       "usageExamples": [
         [
-          "توم بيفهم اللي انت ما بتفهمه.",
+          "توم يفهم ما لا تفهمه.",
           "Tom understands what you don't.",
           "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ],
         [
-          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
-          "Tom and Mary told John that they were unwilling to do that.",
-          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ],
         [
           "توم بيفهم اللي هي ما بتفهم.",
@@ -64,12 +95,46 @@
       ]
     },
     {
-      "content": "لا",
+      "content": "كانوا",
       "translations": [
-        "No.",
-        "Not",
-        "None",
-        "Negative."
+        "they were",
+        "they used to be",
+        "they had been"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كتير",
+      "translations": [
+        "a lot",
+        "many",
+        "very much",
+        "plenty"
+      ],
+      "usageExamples": [
+        [
+          "بحبك كتير.",
+          "I love you so much.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "عم",
+      "translations": [
+        "Uncle",
+        "Paternal uncle",
+        "Father's brother"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يستمتعوا",
+      "translations": [
+        "they enjoy",
+        "they are enjoying",
+        "let them enjoy",
+        "they should enjoy"
       ],
       "usageExamples": []
     }

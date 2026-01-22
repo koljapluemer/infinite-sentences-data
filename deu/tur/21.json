@@ -1,89 +1,79 @@
 {
-  "sentence": "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
+  "sentence": "Benim kalmamın mantıklı olduğundan emin değilim.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Unser Wissen wird immer breiter, aber leider nicht tiefer."
+    "Ich bin nicht sicher, ob es vernünftig ist zu bleiben."
   ],
   "parts": [
     {
-      "content": "Bilgimiz",
+      "content": "Benim",
       "translations": [
-        "Unser Wissen",
-        "Unsere Kenntnisse"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "giderek",
-      "translations": [
-        "immer mehr",
-        "zunehmend"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "genişliyor",
-      "translations": [
-        "wächst",
-        "erweitert sich",
-        "dehnt sich aus"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ama",
-      "translations": [
-        "aber",
-        "doch"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ne",
-      "translations": [
-        "nicht",
-        "kein"
+        "mein",
+        "meine"
       ],
       "usageExamples": [
+        [
+          "Benim kafam karıştı.",
+          "Ich bin verwirrt.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
         [
           "Benim için ne zaman vaktin olur?",
           "Wann hast du Zeit für mich?",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Öğle yemeği için ne istersin?",
-          "Was möchtest du zu essen?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "yazık",
+      "content": "kalmamın",
       "translations": [
-        "schade",
-        "arm",
-        "leider"
+        "meine Ruhe",
+        "mein Frieden"
       ],
       "usageExamples": []
     },
     {
-      "content": "ki",
+      "content": "mantıklı",
       "translations": [
-        "wer",
-        "derjenige"
+        "vernünftig",
+        "sinnvoll",
+        "logisch"
       ],
       "usageExamples": []
     },
     {
-      "content": "derinleşmiyor",
+      "content": "olduğundan",
       "translations": [
-        "vertieft sich nicht",
-        "wird nicht tiefer"
+        "weil es so ist",
+        "da es so ist",
+        "da es so war"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "emin",
+      "translations": [
+        "mein",
+        "mein lieber"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "değilim",
+      "translations": [
+        "ich bin nicht",
+        "bin ich nicht"
+      ],
+      "usageExamples": [
+        [
+          "Sizinle sonucu paylaşma niyetinde değilim.",
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sentence from Tatoeba by eminyilmazki (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

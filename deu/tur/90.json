@@ -1,41 +1,69 @@
 {
-  "sentence": "Sen hala oğlumsun.",
+  "sentence": "Onun ne dediğini anlayamadım.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Du bist noch immer mein Sohn."
+    "Ich habe nicht verstanden, was er gesagt hat."
   ],
   "parts": [
     {
-      "content": "Sen",
+      "content": "Onun",
       "translations": [
-        "du",
-        "Sie"
+        "seine",
+        "ihr"
       ],
       "usageExamples": [
         [
-          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
-          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
-          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
+          "Onun bunu başarması inanılmaz.",
+          "Es ist unwahrscheinlich, dass es ihm gelungen ist.",
+          "Sentence from Tatoeba by odien16 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hala",
+      "content": "ne",
       "translations": [
-        "immer noch",
-        "noch",
-        "trotzdem"
+        "nicht",
+        "kein"
+      ],
+      "usageExamples": [
+        [
+          "Hepsi ne ediyor?",
+          "Was macht das alles zusammen?",
+          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+        ],
+        [
+          "Öğle yemeği için ne istersin?",
+          "Was möchtest du zu essen?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Benim için ne zaman vaktin olur?",
+          "Wann hast du Zeit für mich?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dediğini",
+      "translations": [
+        "was gesagt",
+        "was du gesagt hast"
       ],
       "usageExamples": []
     },
     {
-      "content": "oğlumsun",
+      "content": "anlayamadım",
       "translations": [
-        "du bist mein Sohn",
-        "du bist mein Kind"
+        "Ich habe es nicht verstanden",
+        "Ich konnte es nicht verstehen"
       ],
       "usageExamples": []
     }

@@ -1,52 +1,60 @@
 {
-  "sentence": "Mary'yi öldürdün mü?",
+  "sentence": "Köyde beş inek var.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hast du Maria umgebracht?"
+    "Im Dorf gibt es fünf Rinder."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Köyde",
       "translations": [
-        "Maria",
-        "Miriam"
+        "im Dorf",
+        "auf dem Land"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "beş",
+      "translations": [
+        "fünf",
+        "5"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "inek",
+      "translations": [
+        "Kuh",
+        "Rind"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "var",
+      "translations": [
+        "var",
+        "es gibt"
       ],
       "usageExamples": [
         [
-          "Mary bale dersleri alıyor.",
-          "Maria nimmt Ballettunterricht.",
-          "Sentence from Tatoeba by tulin (CC-BY 2.0 FR)"
+          "Dokuza çeyrek var.",
+          "Es ist Viertel vor neun.",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
         ],
         [
-          "Mary politika ile ilgilenir.",
-          "Maria interessiert sich für Politik.",
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Mary bir baton kullanarak orkestrayı yönetti.",
-          "Maria dirigierte das Orchester mit einem Taktstock.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Bir alternatifin var.",
+          "Du hast eine Alternative.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "öldürdün",
-      "translations": [
-        "du hast getötet",
-        "du hast umgebracht"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mü",
-      "translations": [
-        "mü",
-        "Milch"
-      ],
-      "usageExamples": []
     }
   ]
 }

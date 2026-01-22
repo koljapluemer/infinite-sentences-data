@@ -1,37 +1,59 @@
 {
-  "sentence": "Artık kocamı sevmiyorum.",
+  "sentence": "Artık kimseye aşık olamayacağımı biliyorum.",
   "credits": [
     "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich liebe meinen Mann nicht mehr."
+    "Ich weiß, dass ich mich in niemanden mehr verlieben können werde."
   ],
   "parts": [
     {
-      "content": "Artık",
+      "content": "artık",
       "translations": [
-        "schon",
         "jetzt",
-        "bereits"
+        "schon",
+        "nicht mehr"
       ],
       "usageExamples": []
     },
     {
-      "content": "kocamı",
+      "content": "kimseye",
       "translations": [
-        "meinen Mann",
-        "mein Ehemann"
+        "niemandem",
+        "keiner Person"
       ],
       "usageExamples": []
     },
     {
-      "content": "sevmiyorum",
+      "content": "aşık",
       "translations": [
-        "ich liebe nicht",
-        "ich mag nicht"
+        "Liebhaber",
+        "Verehrer"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "olamayacağımı",
+      "translations": [
+        "ich kann nicht",
+        "ich werde nicht können"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "biliyorum",
+      "translations": [
+        "ich weiß",
+        "ich kenne"
+      ],
+      "usageExamples": [
+        [
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,85 +1,32 @@
 {
-  "sentence": "İzin olmadan pazar tezgahı kurulamaz mı?",
+  "sentence": "Yüzmeyi seviyorum.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
+    "Ich schwimme sehr gern."
   ],
   "parts": [
     {
-      "content": "izin",
+      "content": "Yüzme",
       "translations": [
-        "Genehmigung",
-        "Erlaubnis"
+        "Schwimmen",
+        "Schwimmsport"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "seviyorum",
+      "translations": [
+        "ich liebe dich",
+        "ich mag dich"
       ],
       "usageExamples": [
         [
-          "Kapıyı kapatmama izin veriniz.",
-          "Erlauben Sie mir, die Tür zu schließen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "olmadan",
-      "translations": [
-        "ohne",
-        "ohne zu"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "pazar",
-      "translations": [
-        "Markt",
-        "Basar"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tezgah",
-      "translations": [
-        "Theke",
-        "Verkaufstresen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "kurulamaz",
-      "translations": [
-        "nicht eingerichtet",
-        "nicht installiert"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mı",
-      "translations": [
-        "ob",
-        "ob nicht"
-      ],
-      "usageExamples": [
-        [
-          "Şekerleme ya da başka bir şey yapalım mı?",
-          "Sollen wir ein Nickerchen machen oder so?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "O nasıl? Yaşlı mı, genç mi?",
-          "Wie ist er? Alt, oder jung?",
-          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+          "Seni başlangıçta planlanandan daha çok seviyorum.",
+          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
     }

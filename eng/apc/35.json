@@ -1,40 +1,36 @@
 {
-  "sentence": "مرحبا. كيفك؟",
+  "sentence": "كنت مشغول.",
   "credits": [
     "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Disconnect (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by erinspice (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by exjimmy (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by pegah (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by witbrock (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hello! How are you?",
-    "Hello, how are you?",
-    "Hi, how are you?",
-    "Hi, how's it going?",
-    "Hi. How are you doing?",
-    "Hi. How are you?"
+    "You were busy."
   ],
   "parts": [
     {
-      "content": "مرحبا",
+      "content": "كنت",
       "translations": [
-        "Hello.",
-        "Hi.",
-        "Greetings",
-        "Welcome."
+        "I was",
+        "You were",
+        "He/She/It was",
+        "We were"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "يا ريتني كنت أطول",
+          "I wish I was taller.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "كيفك",
+      "content": "مشغول",
       "translations": [
-        "How are you?",
-        "How's it going?",
-        "How do you do?",
-        "What's up?"
+        "busy",
+        "occupied",
+        "engaged",
+        "preoccupied"
       ],
       "usageExamples": []
     }

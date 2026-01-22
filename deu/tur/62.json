@@ -1,56 +1,82 @@
 {
-  "sentence": "Kartla ödeme yapılabilir mi?",
+  "sentence": "Her gülüşünde bir yerlerde bir problem ölür.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Kann man mit Karte bezahlen?"
+    "Immer wenn du lachst, stirbt irgendwo ein Problem."
   ],
   "parts": [
     {
-      "content": "Kartla",
+      "content": "Her",
       "translations": [
-        "Karte",
-        "Landkarte"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ödeme",
-      "translations": [
-        "Zahlung",
-        "Bezahlung"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yapılabilir",
-      "translations": [
-        "machbar",
-        "durchführbar",
-        "realisierbar"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mi",
-      "translations": [
-        "ich",
-        "mir"
+        "Hier",
+        "Da"
       ],
       "usageExamples": [
         [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gülüşünde",
+      "translations": [
+        "in deinem Lächeln",
+        "in deinem Lachen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "eins",
+        "ein"
+      ],
+      "usageExamples": [
+        [
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "İyi bir kamera aldım.",
+          "Ich habe mir eine gute Kamera gekauft.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
-          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
-          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "yerlerde",
+      "translations": [
+        "auf den Böden",
+        "auf den Orten"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "problem",
+      "translations": [
+        "Problem",
+        "Schwierigkeit"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ölür",
+      "translations": [
+        "stirbt",
+        "verstorben"
+      ],
+      "usageExamples": []
     }
   ]
 }

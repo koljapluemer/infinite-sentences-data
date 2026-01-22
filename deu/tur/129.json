@@ -1,77 +1,34 @@
 {
-  "sentence": "Öğle yemeği için ne istersin?",
+  "sentence": "Türkçe konuşur musunuz?",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Was möchtest du zu essen?"
+    "Sprechen Sie Türkisch?"
   ],
   "parts": [
     {
-      "content": "Öğle",
+      "content": "Türkçe",
       "translations": [
-        "Mittag",
-        "zu Mittag"
+        "Türkisch",
+        "Türkische Sprache"
       ],
       "usageExamples": []
     },
     {
-      "content": "yemeği",
+      "content": "konuşur",
       "translations": [
-        "das Essen",
-        "die Mahlzeit"
+        "spricht",
+        "redet"
       ],
       "usageExamples": []
     },
     {
-      "content": "için",
+      "content": "musunuz",
       "translations": [
-        "für",
-        "um zu"
-      ],
-      "usageExamples": [
-        [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mali desteği, bu projemiz için vazgeçilmezdir.",
-          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
-          "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ne",
-      "translations": [
-        "nicht",
-        "kein"
-      ],
-      "usageExamples": [
-        [
-          "Benim için ne zaman vaktin olur?",
-          "Wann hast du Zeit für mich?",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
-          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "istersin",
-      "translations": [
-        "du bist",
-        "du bist es"
+        "sind Sie",
+        "bist du"
       ],
       "usageExamples": []
     }

@@ -1,28 +1,58 @@
 {
-  "sentence": "Yaya gittik.",
+  "sentence": "Tom'un çocukları hasta.",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wir sind zu Fuß gegangen."
+    "Toms Kinder sind krank."
   ],
   "parts": [
     {
-      "content": "Yaya",
+      "content": "Tom'un",
       "translations": [
-        "Oma",
-        "Mama"
+        "Tom's",
+        "von Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un Avustralyalı aksanı yok.",
+          "Tom hat keinen australischen Akzent.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "çocukları",
+      "translations": [
+        "Kinder",
+        "die Kinder"
       ],
       "usageExamples": []
     },
     {
-      "content": "gittik",
+      "content": "hasta",
       "translations": [
-        "wir haben gegeben",
-        "wir gaben"
+        "Krücke",
+        "Stock"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

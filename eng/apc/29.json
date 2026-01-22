@@ -1,55 +1,85 @@
 {
-  "sentence": "كان في مرّة...",
+  "sentence": "عالأغلب توم لح يساوي يلي لح تطلبه.",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by NextMessenger (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Once upon a time..."
+    "I suspect Tom will do whatever you ask."
   ],
   "parts": [
     {
-      "content": "كان",
+      "content": "عالأغلب",
       "translations": [
-        "was",
-        "were",
-        "has been"
+        "most likely",
+        "probably",
+        "in all likelihood",
+        "generally"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "توم",
+      "translations": [
+        "Tom",
+        "Tome",
+        "Tommie"
       ],
       "usageExamples": [
         [
-          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
-          "Tom and Mary told John that they were unwilling to do that.",
+          "توم خلى عينوا عالولاد",
+          "Tom kept an eye on the children.",
           "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ],
         [
-          "كان مشكوك فيها انو هية جاسوسة.",
-          "She was suspected of being a spy.",
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
           "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "في",
-      "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
-      ],
-      "usageExamples": [
+        ],
         [
-          "كم مدرسة في بمدينتك؟",
-          "How many schools are there in your city?",
+          "توم يفهم ما لا تفهمه.",
+          "Tom understands what you don't.",
           "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "مرّة",
+      "content": "لح",
       "translations": [
-        "once",
-        "one time",
-        "a time"
+        "moment",
+        "instant",
+        "while",
+        "time"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يساوي",
+      "translations": [
+        "equals",
+        "is equal to",
+        "is equivalent to",
+        "amounts to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يلي",
+      "translations": [
+        "next",
+        "following",
+        "after",
+        "then"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "تطلبه",
+      "translations": [
+        "You request it",
+        "You ask for it",
+        "It is requested by you",
+        "You demand it"
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Bu pasajı senin için özetlemek istiyorum.",
+  "sentence": "Bu da kim?",
   "credits": [
-    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich möchte diese Passage für dich zusammenfassen."
+    "Wer ist das denn?"
   ],
   "parts": [
     {
@@ -17,6 +17,11 @@
       ],
       "usageExamples": [
         [
+          "Bu ücretsiz ulaşılabilir.",
+          "Das ist kostenlos erhältlich.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ],
+        [
           "Bu kurallara aykırıdır.",
           "Es ist gegen die Regeln.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
@@ -25,79 +30,45 @@
           "Bu sağduyu.",
           "Das entspricht dem gesunden Menschenverstand.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bu ücretsiz ulaşılabilir.",
-          "Das ist kostenlos erhältlich.",
-          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pasajı",
+      "content": "da",
       "translations": [
-        "Passage",
-        "Durchgang"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "senin",
-      "translations": [
-        "dein",
-        "deine"
+        "da",
+        "dort",
+        "da drüben"
       ],
       "usageExamples": [
         [
-          "Ben senin babanı tanıyorum.",
-          "Ich kenne deinen Vater.",
-          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "için",
-      "translations": [
-        "für",
-        "um zu"
-      ],
-      "usageExamples": [
-        [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen.",
-          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
+          "Ateşsiz duman da çıkabilir.",
+          "Rauch kann auch ohne Feuer entstehen.",
+          "Sentence from Tatoeba by hrkucuk (CC-BY 2.0 FR)"
         ],
         [
-          "Öğle yemeği için ne istersin?",
-          "Was möchtest du zu essen?",
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "özetlemek",
+      "content": "kim",
       "translations": [
-        "zusammenfassen",
-        "kurz darstellen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "istiyorum",
-      "translations": [
-        "ich will",
-        "ich möchte"
+        "wer",
+        "jemand"
       ],
       "usageExamples": [
         [
-          "Size yardım etmek istiyorum.",
-          "Ich will dir helfen.",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     }

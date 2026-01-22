@@ -1,48 +1,87 @@
 {
-  "sentence": "Baykuşların büyük gözleri olur.",
+  "sentence": "Bana sorunu çözmeme izin veriniz.",
   "credits": [
-    "Sentence from Tatoeba by faruk (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Eulen haben große Augen."
+    "Erlauben Sie mir, das Problem zu lösen."
   ],
   "parts": [
     {
-      "content": "Baykuşların",
+      "content": "bana",
       "translations": [
-        "Die Eulen",
-        "Eulen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "büyük",
-      "translations": [
-        "groß",
-        "big"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gözleri",
-      "translations": [
-        "Augen",
-        "die Augen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "olur",
-      "translations": [
-        "es wird",
-        "es ist möglich",
-        "es kann sein"
+        "mir",
+        "zu mir"
       ],
       "usageExamples": [
         [
-          "Benim için ne zaman vaktin olur?",
-          "Wann hast du Zeit für mich?",
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bana tam tersini söylemişti.",
+          "Tom hat mir genau das Gegenteil gesagt.",
+          "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu şarkı bana birini hatırlatıyor.",
+          "Dieses Lied erinnert mich an jemanden.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sorunu",
+      "translations": [
+        "Problem",
+        "Schwierigkeit"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "çözmeme",
+      "translations": [
+        "nicht lösen",
+        "nicht auflösen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "izin",
+      "translations": [
+        "Genehmigung",
+        "Erlaubnis"
+      ],
+      "usageExamples": [
+        [
+          "Kapıyı kapatmama izin veriniz.",
+          "Erlauben Sie mir, die Tür zu schließen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "veriniz",
+      "translations": [
+        "bitte",
+        "geben Sie mir"
+      ],
+      "usageExamples": [
+        [
+          "Kapıyı kapatmama izin veriniz.",
+          "Erlauben Sie mir, die Tür zu schließen.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]

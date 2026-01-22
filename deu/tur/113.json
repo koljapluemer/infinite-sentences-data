@@ -1,66 +1,86 @@
 {
-  "sentence": "Tom'un Avustralyalı aksanı yok.",
+  "sentence": "Tom bana tam tersini söylemişti.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat keinen australischen Akzent."
+    "Tom hat mir genau das Gegenteil gesagt."
   ],
   "parts": [
     {
-      "content": "Tom'un",
+      "content": "Tom",
       "translations": [
-        "Tom's",
-        "von Tom"
-      ],
-      "usageExamples": [
-        [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom'un çocukları hasta.",
-          "Toms Kinder sind krank.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Avustralyalı",
-      "translations": [
-        "Australier",
-        "Australische Person"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "aksanı",
-      "translations": [
-        "Akzent",
-        "Aussprache"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yok",
-      "translations": [
-        "nicht",
-        "kein"
+        "Tom",
+        "Tomas"
       ],
       "usageExamples": [
         [
           "Tom, buna vaktimiz yok!",
           "Tom, wir haben dafür keine Zeit!",
           "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "bana",
+      "translations": [
+        "mir",
+        "zu mir"
+      ],
+      "usageExamples": [
+        [
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu şarkı bana birini hatırlatıyor.",
+          "Dieses Lied erinnert mich an jemanden.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tam",
+      "translations": [
+        "so",
+        "so sehr",
+        "so viel"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "tersini",
+      "translations": [
+        "umgekehrt",
+        "das Gegenteil"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "söylemişti",
+      "translations": [
+        "hatte gesagt",
+        "sagte er/sie",
+        "hatte gesprochen"
+      ],
+      "usageExamples": []
     }
   ]
 }

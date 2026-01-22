@@ -1,112 +1,91 @@
 {
-  "sentence": "Son zamanlarda daha az hasta bana geliyor.",
+  "sentence": "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "In letzter Zeit kamen immer weniger Patienten zu mir."
+    "Hast du gesagt, dass du deine Fehler akzeptieren sollst?"
   ],
   "parts": [
     {
-      "content": "Son",
+      "content": "Sen",
       "translations": [
-        "Sohn",
-        "Sohnemann"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "zamanlarda",
-      "translations": [
-        "zu dieser Zeit",
-        "in diesen Zeiten"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "daha",
-      "translations": [
-        "mehr",
-        "noch"
+        "du",
+        "Sie"
       ],
       "usageExamples": [
         [
-          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
-          "Ich glaube, treffender und besser kann man es kaum darstellen.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "Seni başlangıçta planlanandan daha çok seviyorum.",
-          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
-          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "az",
-      "translations": [
-        "schlecht",
-        "wenig"
-      ],
-      "usageExamples": [
-        [
-          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
-          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "hasta",
-      "translations": [
-        "Krücke",
-        "Stock"
-      ],
-      "usageExamples": [
-        [
-          "Tom'un çocukları hasta.",
-          "Toms Kinder sind krank.",
+          "Sen hala oğlumsun.",
+          "Du bist noch immer mein Sohn.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bana",
+      "content": "hatalarını",
       "translations": [
-        "mir",
-        "zu mir"
+        "deine Fehler",
+        "ihre Fehler"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kabul",
+      "translations": [
+        "akzeptieren",
+        "annehmen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "etmen",
+      "translations": [
+        "essen",
+        "verzehren"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gerektiğini",
+      "translations": [
+        "was notwendig",
+        "was erforderlich"
       ],
       "usageExamples": [
         [
-          "Tom bana tam tersini söylemişti.",
-          "Tom hat mir genau das Gegenteil gesagt.",
-          "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bu şarkı bana birini hatırlatıyor.",
-          "Dieses Lied erinnert mich an jemanden.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen.",
+          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "geliyor",
+      "content": "söyledin",
       "translations": [
-        "kommt",
-        "kommt gerade"
+        "du hast gesagt",
+        "du hast gesprochen"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "ich",
+        "mir"
+      ],
+      "usageExamples": [
+        [
+          "Kartla ödeme yapılabilir mi?",
+          "Kann man mit Karte bezahlen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

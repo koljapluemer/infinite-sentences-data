@@ -1,61 +1,65 @@
 {
-  "sentence": "İlk görüşte aşka inanır mısınız?",
+  "sentence": "Yani yalan söylediğimi iddia ediyorsunuz.",
   "credits": [
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Glauben Sie an die Liebe auf den ersten Blick?"
+    "Sie behaupten also, dass ich lüge."
   ],
   "parts": [
     {
-      "content": "ilk",
+      "content": "yani",
       "translations": [
-        "erste",
-        "anfänglich"
+        "das heißt",
+        "also",
+        "nämlich"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "yalan",
+      "translations": [
+        "Lüge",
+        "Falschheit"
       ],
       "usageExamples": [
         [
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
+          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
+          "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "görüşte",
+      "content": "söylediğimi",
       "translations": [
-        "in der Meinung",
-        "in der Ansicht"
+        "was gesagt habe",
+        "was ich gesagt habe"
       ],
       "usageExamples": []
     },
     {
-      "content": "aşka",
+      "content": "iddia",
       "translations": [
-        "Liebe",
-        "Zuneigung"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "inanır",
-      "translations": [
-        "glauben",
-        "vertrauen"
+        "Wette",
+        "Einsatz"
       ],
       "usageExamples": [
         [
-          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
-          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Bunun doğru olmadığını iddia ediyorum.",
+          "Ich behaupte, dass das nicht stimmt.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mısınız",
+      "content": "ediyorsunuz",
       "translations": [
-        "sind Sie",
-        "möchten Sie"
+        "Sie tun",
+        "Sie machen",
+        "Sie sind am ...",
+        "Sie betreiben"
       ],
       "usageExamples": []
     }

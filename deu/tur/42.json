@@ -1,31 +1,75 @@
 {
-  "sentence": "Deli! Çılgın!",
+  "sentence": "Bunun doğru olmadığını iddia ediyorum.",
   "credits": [
     "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Verrückt!"
+    "Ich behaupte, dass das nicht stimmt."
   ],
   "parts": [
     {
-      "content": "Deli",
+      "content": "Bunun",
       "translations": [
-        "verrückt",
-        "crazy",
-        "narr",
-        "toll"
+        "Das",
+        "Dieses"
       ],
       "usageExamples": []
     },
     {
-      "content": "Çılgın",
+      "content": "doğru",
       "translations": [
-        "verrückt",
-        "wahnsinnig",
-        "crazy"
+        "richtig",
+        "korrekt"
+      ],
+      "usageExamples": [
+        [
+          "Dolap kapağını sola doğru açın , şişeler oradadır.",
+          "Mach den Schrank auf der linken Seite auf, dort sind die Flaschen.",
+          "Sentence from Tatoeba by erayavci (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "olmadığını",
+      "translations": [
+        "nicht sein",
+        "nicht vorhanden"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "iddia",
+      "translations": [
+        "Wette",
+        "Einsatz"
+      ],
+      "usageExamples": [
+        [
+          "Yani yalan söylediğimi iddia ediyorsunuz.",
+          "Sie behaupten also, dass ich lüge.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ediyorum",
+      "translations": [
+        "ich mache",
+        "ich tue"
+      ],
+      "usageExamples": [
+        [
+          "Komşularımdan nefret ediyorum.",
+          "Ich hasse meine Nachbarn.",
+          "Sentence from Tatoeba by blackdove (CC-BY 2.0 FR)"
+        ],
+        [
+          "Erken kalkmaktan nefret ediyorum/ederim.",
+          "Ich hasse es, früh aufzustehen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

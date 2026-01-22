@@ -1,17 +1,19 @@
 {
-  "sentence": "توم و ماري ما كانوا كتير عم يستمتعوا",
+  "sentence": "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
   "credits": [
     "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom and Mary didn't really seem to be enjoying themselves."
+    "Tom and Mary told John that they were unwilling to do that."
   ],
   "parts": [
     {
       "content": "توم",
       "translations": [
-        "Tom"
+        "Tom",
+        "Tome",
+        "Tommie"
       ],
       "usageExamples": [
         [
@@ -20,29 +22,14 @@
           "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ],
         [
-          "عالأغلب توم لح يساوي يلي لح تطلبه.",
-          "I suspect Tom will do whatever you ask.",
-          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم يفهم ما لا تفهمه.",
+          "توم بيفهم اللي انت ما بتفهمه.",
           "Tom understands what you don't.",
           "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "و",
-      "translations": [
-        "and",
-        "also",
-        "as well as"
-      ],
-      "usageExamples": [
+        ],
         [
-          "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
-          "I have a cat and a dog. The cat is black and the dog is white.",
-          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+          "توم بيفهم اللي هي ما بتفهم.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -60,8 +47,53 @@
           "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ],
         [
-          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
-          "Tom and Mary told John that they were unwilling to do that.",
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "قالوا",
+      "translations": [
+        "They said",
+        "They stated",
+        "They reported",
+        "They mentioned"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "لجون",
+      "translations": [
+        "Lajun",
+        "Lajoon",
+        "Lajun (a type of traditional dish)",
+        "Lajun (a type of pastry)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "انو",
+      "translations": [
+        "this",
+        "that",
+        "it"
+      ],
+      "usageExamples": [
+        [
+          "البربر بيقولوا انو لغتهم اسمها تامازايت.",
+          "Berbers call their language Tamazight.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "كان مشكوك فيها انو هية جاسوسة.",
+          "She was suspected of being a spy.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "ماري قالت انو مالا مخططا تعمل هيك",
+          "Mary said she's not planning on doing that.",
           "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ]
       ]
@@ -70,50 +102,87 @@
       "content": "ما",
       "translations": [
         "what",
-        "which"
+        "which",
+        "that which"
       ],
       "usageExamples": [
-        [
-          "توم بيفهم اللي انت ما بتفهمه.",
-          "Tom understands what you don't.",
-          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
-        ],
         [
           "توم يفهم ما لا تفهمه.",
           "Tom understands what you don't.",
           "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
         ],
         [
-          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
-          "Tom and Mary told John that they were unwilling to do that.",
+          "توم بيفهم اللي انت ما بتفهمه.",
+          "Tom understands what you don't.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
           "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "كانوا",
+      "content": "كان",
       "translations": [
-        "they were",
-        "they used to be",
-        "they had been"
+        "was",
+        "were",
+        "has been",
+        "had been"
+      ],
+      "usageExamples": [
+        [
+          "كان في مرّة...",
+          "Once upon a time...",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+        ],
+        [
+          "كان مشكوك فيها انو هية جاسوسة.",
+          "She was suspected of being a spy.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "عندهم",
+      "translations": [
+        "They have",
+        "At their place",
+        "With them",
+        "In their possession"
       ],
       "usageExamples": []
     },
     {
-      "content": "كتير",
+      "content": "رغبة",
       "translations": [
-        "a lot",
-        "many",
-        "very much",
-        "plenty"
+        "desire",
+        "wish",
+        "longing",
+        "yearning"
       ],
-      "usageExamples": [
-        [
-          "بحبك كتير.",
-          "I love you so much.",
-          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "يعملوا",
+      "translations": [
+        "they work",
+        "they are working",
+        "they do work",
+        "they will work"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "هالإشي",
+      "translations": [
+        "this thing",
+        "this item",
+        "this stuff",
+        "this matter"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,29 +1,57 @@
 {
-  "sentence": "Tamamen unutmuşum.",
+  "sentence": "Size yardım etmek istiyorum.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich hatte es völlig vergessen."
+    "Ich will dir helfen."
   ],
   "parts": [
     {
-      "content": "Tamamen",
+      "content": "Size",
       "translations": [
-        "vollständig",
-        "ganz",
-        "komplett"
+        "Größe",
+        "Dimension"
       ],
       "usageExamples": []
     },
     {
-      "content": "unutmuşum",
+      "content": "yardım",
       "translations": [
-        "ich habe vergessen",
-        "ich habe es vergessen"
+        "Hilfe",
+        "Unterstützung"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "etmek",
+      "translations": [
+        "machen",
+        "tun",
+        "verrichten"
+      ],
+      "usageExamples": [
+        [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "istiyorum",
+      "translations": [
+        "ich will",
+        "ich möchte"
+      ],
+      "usageExamples": [
+        [
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,66 +1,88 @@
 {
-  "sentence": "Iremos cuando pare de llover.",
+  "sentence": "Dime algo que no sepa.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We'll go when it quits raining."
+    "Tell me something that I don't know."
   ],
   "parts": [
     {
-      "content": "Iremos",
+      "content": "Dime",
       "translations": [
-        "We will go",
-        "Let's go."
+        "Tell me",
+        "Say to me",
+        "Speak to me"
       ],
       "usageExamples": []
     },
     {
-      "content": "cuando",
+      "content": "algo",
       "translations": [
-        "when",
-        "whenever"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "pare",
-      "translations": [
-        "stop",
-        "pair",
-        "cut"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "de",
-      "translations": [
-        "to"
+        "something"
       ],
       "usageExamples": [
         [
-          "Vengo de la playa.",
-          "I come from the beach.",
-          ""
-        ],
-        [
-          "¿Dónde está la parada de colectivos más cercana?",
-          "Where's the nearest bus stop?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Con tal de mantenerse en el poder, hacen cualquier cosa.",
-          "They'll do anything to stay in power.",
+          "Me gustaría tomar algo.",
+          "I'd like something to drink.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "llover",
+      "content": "que",
       "translations": [
-        "to rain",
-        "to fall (as rain)"
+        "that",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "Hay una película que quiero ver por TV mañana en la noche.",
+          "There's a movie I want to watch on TV tomorrow night.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
+          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pretendo decirle a Tom que no quiero ir.",
+          "I plan to tell Tom that I don't want to go.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "no",
+      "translations": [
+        "not"
+      ],
+      "usageExamples": [
+        [
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pretendo decirle a Tom que no quiero ir.",
+          "I plan to tell Tom that I don't want to go.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sepa",
+      "translations": [
+        "know",
+        "understand",
+        "be aware"
       ],
       "usageExamples": []
     }

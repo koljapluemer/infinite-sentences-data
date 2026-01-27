@@ -1,78 +1,52 @@
 {
-  "sentence": "توم مابصش عليه حتى.",
+  "sentence": "حستها حاجه غريبه.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom wouldn't even look at it."
+    "I thought that it was weird."
   ],
   "parts": [
     {
-      "content": "توم",
+      "content": "حستها",
       "translations": [
-        "you",
-        "you (singular)"
+        "I felt it",
+        "I sensed it",
+        "I noticed it"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "حاجه",
+      "translations": [
+        "thing",
+        "need",
+        "requirement",
+        "matter"
       ],
       "usageExamples": [
         [
-          "توم مبيعرفش يلعب تنس.",
-          "Tom can't play tennis.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "هعمل اي حاجه عشانك.",
+          "I'll do anything for you.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "توم مابصش عليها حتى.",
-          "Tom wouldn't even look at it.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم ممكن يقول لأهله.",
-          "Tom may tell his parents.",
+          "مَتْقلش حاجه بس.",
+          "Just don't say anything.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "مابصش",
+      "content": "غريبه",
       "translations": [
-        "I didn't look.",
-        "I didn't pay attention.",
-        "I ignored it",
-        "I didn't notice"
-      ],
-      "usageExamples": [
-        [
-          "توم مابصش عليها حتى.",
-          "Tom wouldn't even look at it.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "عليه",
-      "translations": [
-        "on him",
-        "upon him",
-        "about him",
-        "regarding him"
+        "strange",
+        "weird",
+        "odd",
+        "unusual"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "حتى",
-      "translations": [
-        "until",
-        "even",
-        "as far as",
-        "up to"
-      ],
-      "usageExamples": [
-        [
-          "توم مابصش عليها حتى.",
-          "Tom wouldn't even look at it.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

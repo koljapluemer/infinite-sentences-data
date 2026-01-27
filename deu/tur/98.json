@@ -1,18 +1,48 @@
 {
-  "sentence": "Sen hala oğlumsun.",
+  "sentence": "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Du bist noch immer mein Sohn."
+    "Ich denke nicht, dass ihr euren Job aufgeben solltet."
   ],
   "parts": [
     {
-      "content": "Sen",
+      "content": "Sizlerin",
       "translations": [
-        "du",
+        "euch",
         "Sie"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "işini",
+      "translations": [
+        "seine Arbeit",
+        "seinen Job"
+      ],
+      "usageExamples": [
+        [
+          "Bugünün işini yarına bırakma.",
+          "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bırakmanız",
+      "translations": [
+        "lassen Sie es los",
+        "lassen Sie es fallen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gerektiğini",
+      "translations": [
+        "was notwendig",
+        "was erforderlich"
       ],
       "usageExamples": [
         [
@@ -23,19 +53,10 @@
       ]
     },
     {
-      "content": "hala",
+      "content": "düşünmüyorum",
       "translations": [
-        "immer noch",
-        "noch",
-        "trotzdem"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "oğlumsun",
-      "translations": [
-        "du bist mein Sohn",
-        "du bist mein Kind"
+        "Ich denke nicht",
+        "Ich überlege nicht"
       ],
       "usageExamples": []
     }

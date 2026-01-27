@@ -1,42 +1,173 @@
 {
-  "sentence": "Sono stati assassinati.",
+  "sentence": "Prendi in prestito le biro dai tuoi amici.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They were murdered."
+    "You borrow pens from your friends."
   ],
   "parts": [
     {
-      "content": "Sono",
+      "content": "Prendi",
       "translations": [
-        "I am.",
-        "I exist.",
-        "I am here.",
-        "I am present"
+        "Take",
+        "Grab",
+        "Get",
+        "Receive"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "stati",
+      "content": "in",
       "translations": [
-        "were",
-        "have been",
-        "stood",
-        "remained"
+        "inside",
+        "within",
+        "into"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "assassinati",
+      "content": "prestito",
       "translations": [
-        "assassinated",
-        "murdered",
-        "killed",
-        "executed"
+        "loan",
+        "borrowing",
+        "credit",
+        "advance"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+          "Mary said she'd like to borrow a few books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
+      ],
+      "usageExamples": [
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piacciono le mele, vero?",
+          "Mary doesn't like apples, does she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "biro",
+      "translations": [
+        "ballpoint pen",
+        "biro pen",
+        "ball pen",
+        "ink pen"
+      ],
+      "usageExamples": [
+        [
+          "Ti darò questa biro.",
+          "I'll give you this pen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dai",
+      "translations": [
+        "from",
+        "by",
+        "of",
+        "since"
+      ],
+      "usageExamples": [
+        [
+          "Più della metà delle persone condannate dai tribunali è innocente.",
+          "More than half of the people convicted by the courts are innocent.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tuoi",
+      "translations": [
+        "your",
+        "yours",
+        "of yours"
+      ],
+      "usageExamples": [
+        [
+          "Quali sono i tuoi piani?",
+          "What are your plans?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "amici",
+      "translations": [
+        "friends",
+        "buddies",
+        "companions",
+        "mates"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace scambiare francobolli con i suoi amici.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

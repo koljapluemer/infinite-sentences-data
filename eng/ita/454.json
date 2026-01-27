@@ -1,68 +1,127 @@
 {
-  "sentence": "Mi descriva Tom.",
+  "sentence": "L'autobus non arriva sempre in orario.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Describe Tom to me."
+    "The bus doesn't always come on time."
   ],
   "parts": [
     {
-      "content": "Mi",
+      "content": "L'autobus",
       "translations": [
-        "Me",
-        "I",
-        "Myself"
+        "The bus",
+        "A bus",
+        "The coach"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi importa di lei.",
-          "I care about her.",
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "descriva",
+      "content": "arriva",
       "translations": [
-        "describe",
-        "depict",
-        "portray",
-        "outline"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
+        "arrives",
+        "comes",
+        "gets here",
+        "shows up"
       ],
       "usageExamples": [
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sempre",
+      "translations": [
+        "always",
+        "forever",
+        "at all times",
+        "constantly"
+      ],
+      "usageExamples": [
+        [
+          "Dice sempre la stessa cosa.",
+          "She always says the same thing.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+          "Io sono sempre stato un repubblicano.",
+          "I've always been a Republican.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
+          "Mio nonno si siede sempre su questa sedia.",
+          "My grandfather always sits in this chair.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "orario",
+      "translations": [
+        "schedule",
+        "timetable",
+        "itinerary",
+        "agenda"
+      ],
+      "usageExamples": [
+        [
+          "È sempre in orario, vero?",
+          "She's always on time, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

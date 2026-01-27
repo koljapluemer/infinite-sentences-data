@@ -1,54 +1,64 @@
 {
-  "sentence": "إفتح النور لو سمحت.",
+  "sentence": "إنت اسمك إيه؟",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Turn on the light, please."
+    "What is your name?"
   ],
   "parts": [
     {
-      "content": "إفتح",
+      "content": "إنت",
       "translations": [
-        "Open",
-        "Unlock.",
-        "Turn on",
-        "Access"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "النور",
-      "translations": [
-        "the light",
-        "light"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "لو",
-      "translations": [
-        "if",
-        "whether"
+        "You",
+        "You're"
       ],
       "usageExamples": [
         [
-          "عايزه تذكرة لباريس، لو سمحتي.",
-          "I'd like a ticket to Paris, please.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "إنت بتشوفه دايما؟",
+          "Do you see him often?",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "سمحت",
+      "content": "اسمك",
       "translations": [
-        "I allowed",
-        "I permitted",
-        "I let",
-        "I granted"
+        "Your name",
+        "What is your name?"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "إيه",
+      "translations": [
+        "Yes.",
+        "Yeah",
+        "Okay.",
+        "Alright.",
+        "what",
+        "what do you think?",
+        "How about...",
+        "what's"
+      ],
+      "usageExamples": [
+        [
+          "إيه الحكاية؟",
+          "what's the matter?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "إيه السكوت الفجأة ده؟",
+          "what's with this sudden silence?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "إيه ده؟",
+          "what is this?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
     }
   ]
 }

@@ -1,66 +1,84 @@
 {
-  "sentence": "Tom, buna vaktimiz yok!",
+  "sentence": "Öğle yemeği için ne istersin?",
   "credits": [
-    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom, wir haben dafür keine Zeit!"
+    "Was möchtest du zu essen?"
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Öğle",
       "translations": [
-        "Tom",
-        "Tomas"
+        "Mittag",
+        "zu Mittag"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "yemeği",
+      "translations": [
+        "das Essen",
+        "die Mahlzeit"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "için",
+      "translations": [
+        "für",
+        "um zu"
       ],
       "usageExamples": [
         [
-          "Tom'dan korktuğumu kim söylüyor?",
-          "Wer sagt, dass ich Angst vor Tom hätte?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
+          "Ich muss für eine Spanienreise Spanisch lernen.",
+          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
         ],
         [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Mali desteği, bu projemiz için vazgeçilmezdir.",
+          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
+          "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
         ],
         [
-          "Tom gelince, gidiyorum.",
-          "Wenn Tom kommt, gehe ich.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "buna",
-      "translations": [
-        "das hier",
-        "dieses"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "vaktimiz",
-      "translations": [
-        "unsere Zeit",
-        "unser Termin"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yok",
+      "content": "ne",
       "translations": [
         "nicht",
         "kein"
       ],
       "usageExamples": [
         [
-          "Tom'un Avustralyalı aksanı yok.",
-          "Tom hat keinen australischen Akzent.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Hepsi ne ediyor?",
+          "Was macht das alles zusammen?",
+          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+        ],
+        [
+          "Onun ne dediğini anlayamadım.",
+          "Ich habe nicht verstanden, was er gesagt hat.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
+          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "istersin",
+      "translations": [
+        "du bist",
+        "du bist es"
+      ],
+      "usageExamples": []
     }
   ]
 }

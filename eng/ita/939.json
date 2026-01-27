@@ -1,100 +1,123 @@
 {
-  "sentence": "Vorrei cambiare il mio biglietto.",
+  "sentence": "Tom ha qualche problema psicologico.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by tanay (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd like to change my ticket."
+    "Tom has some psychological issues."
   ],
   "parts": [
     {
-      "content": "Vorrei",
+      "content": "Tom",
       "translations": [
-        "I would like",
-        "I want",
-        "I would love to",
-        "I wish to"
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra impegnato.",
+          "Tom looks busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "L'ha salvata.",
+          "He rescued her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già finito?",
+          "Have you finished yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "qualche",
+      "translations": [
+        "some",
+        "a few",
+        "several",
+        "a couple of"
+      ],
+      "usageExamples": [
+        [
+          "Accendiamo qualche candela.",
+          "Let's light some candles.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+          "Mary said she'd like to borrow a few books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ho qualche idea per te.",
+          "I have a few ideas for you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "problema",
+      "translations": [
+        "problem",
+        "issue",
+        "challenge",
+        "difficulty"
+      ],
+      "usageExamples": [
+        [
+          "È il mio problema con lui.",
+          "That's my problem with him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era facile risolvere quel problema.",
+          "It was easy to solve that problem.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che hai un problema.",
+          "I know you have a problem.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "psicologico",
+      "translations": [
+        "psychological",
+        "mental",
+        "cognitive",
+        "emotional"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "cambiare",
-      "translations": [
-        "to change",
-        "to exchange",
-        "to switch",
-        "to alter"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mio",
-      "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
-      ],
-      "usageExamples": [
-        [
-          "È mio nemico.",
-          "He's my enemy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ai miei genitori non piace il mio ragazzo.",
-          "My parents don't like my boyfriend.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Posso riavere il mio coltello?",
-          "Can I have my knife back?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "biglietto",
-      "translations": [
-        "ticket",
-        "note",
-        "bill",
-        "card"
-      ],
-      "usageExamples": [
-        [
-          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
-          "When riding a bus or a train, you need to pay the fare.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

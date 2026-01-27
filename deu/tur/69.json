@@ -1,26 +1,59 @@
 {
-  "sentence": "Kimden öğrendin?",
+  "sentence": "Mary bale dersleri alıyor.",
   "credits": [
-    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by tulin (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Von wem hast du es erfahren?"
+    "Maria nimmt Ballettunterricht."
   ],
   "parts": [
     {
-      "content": "Kimden",
+      "content": "Mary",
       "translations": [
-        "Von wem",
-        "Von welcher Person"
+        "Maria",
+        "Miriam"
+      ],
+      "usageExamples": [
+        [
+          "Mary'yi öldürdün mü?",
+          "Hast du Maria umgebracht?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary politika ile ilgilenir.",
+          "Maria interessiert sich für Politik.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary bir baton kullanarak orkestrayı yönetti.",
+          "Maria dirigierte das Orchester mit einem Taktstock.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bale",
+      "translations": [
+        "Ball",
+        "Kugel",
+        "Balle"
       ],
       "usageExamples": []
     },
     {
-      "content": "öğrendin",
+      "content": "dersleri",
       "translations": [
-        "du hast gelernt",
-        "du hast erfahren"
+        "die Lektionen",
+        "die Kurse"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "alıyor",
+      "translations": [
+        "nimmt",
+        "holt"
       ],
       "usageExamples": []
     }

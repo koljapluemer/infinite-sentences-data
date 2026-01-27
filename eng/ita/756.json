@@ -1,32 +1,100 @@
 {
-  "sentence": "Sono coinvolti.",
+  "sentence": "Posso riavere il mio coltello?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They're involved."
+    "Can I have my knife back?"
   ],
   "parts": [
     {
-      "content": "Sono",
+      "content": "Posso",
       "translations": [
-        "I am.",
-        "I exist.",
-        "I am here.",
-        "I am present"
+        "I can.",
+        "I am able to",
+        "I may",
+        "I might"
       ],
       "usageExamples": []
     },
     {
-      "content": "coinvolti",
+      "content": "riavere",
       "translations": [
-        "involved",
-        "engaged",
-        "participating",
-        "affected"
+        "to see again",
+        "to regain",
+        "to have back",
+        "to recover"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mio",
+      "translations": [
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
+      ],
+      "usageExamples": [
+        [
+          "È mio nemico.",
+          "He is my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È mio cugino da parte di padre.",
+          "He is my cousin on the father's side.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha il mio libro.",
+          "Tom has my book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "coltello",
+      "translations": [
+        "knife",
+        "blade",
+        "cutter",
+        "scalpel"
+      ],
+      "usageExamples": [
+        [
+          "Perché ti serve un coltello?",
+          "Why do you need a knife?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,78 +1,110 @@
 {
-  "sentence": "Tatoeba'da Türkçe ve Estonca cümle yaratıyorsanız, büyük olasılıkla boracaslı'sınızdır.",
+  "sentence": "Onu görmem için bana izin verilmedi.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by LittleBoy (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "If you create sentences in Turkish and Estonian on Tatoeba, there's a large chance that you're boracasli."
+    "I wasn't permitted to see him."
   ],
   "parts": [
     {
-      "content": "Tatoeba",
+      "content": "Onu",
       "translations": [
-        "for example",
-        "such as"
+        "him",
+        "it"
       ],
       "usageExamples": []
     },
     {
-      "content": "Türkçe",
+      "content": "görmem",
       "translations": [
-        "Turkish",
-        "in Turkish"
+        "I don't see",
+        "I won't see",
+        "not seeing",
+        "to not see"
       ],
       "usageExamples": []
     },
     {
-      "content": "Estonca",
+      "content": "için",
       "translations": [
-        "Estonian",
-        "of Estonia"
+        "for",
+        "in order to",
+        "to",
+        "because of"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "En kötüsü için hazırlanıyorum.",
+          "I'm getting ready for the worst.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Doğru söyleyip söylemediğimi anlamak için beni iyice süzdü.",
+          "His eyes searched my face to see if I was talking straight.",
+          "Sentence from Tatoeba by selcukbasak (CC-BY 2.0 FR)"
+        ],
+        [
+          "Her şey benim için yeniydi.",
+          "Everything was new to me.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "cümle",
+      "content": "bana",
       "translations": [
-        "sentence",
-        "clause"
+        "to me",
+        "for me",
+        "give me"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bunun için bana ne vereceksin?",
+          "What'll you give me for this?",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bana aslında onu yapmak istemediğini söyledi.",
+          "Tom told me he didn't actually want to do that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "yaratıyorsanız",
+      "content": "izin",
       "translations": [
-        "if you are creating",
-        "if you are making",
-        "if you are generating"
+        "permission",
+        "leave",
+        "authorization",
+        "license"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Polisin sorunla ilgilenmesine izin vermeliydik.",
+          "We should've let the police handle the problem.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Onların işlerini yapmasına izin ver.",
+          "Let them do their jobs.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu insanların bize ne yapacağımızı söylemelerine izin veremeyiz.",
+          "We cannot let these people tell us what to do.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "büyük",
+      "content": "verilmedi",
       "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "olasılıkla",
-      "translations": [
-        "probably",
-        "likely",
-        "most likely"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "boracaslı'sınızdır",
-      "translations": [
-        "You are from Borac",
-        "You are a Borac native"
+        "not given",
+        "not provided",
+        "not granted",
+        "not delivered"
       ],
       "usageExamples": []
     }

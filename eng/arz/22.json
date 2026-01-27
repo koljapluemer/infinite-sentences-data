@@ -1,36 +1,107 @@
 {
-  "sentence": "البس لبس المدرسة.",
+  "sentence": "اللغة الصينية أصعب من اللغات الأجنبية التانية.",
   "credits": [
     "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Put your school uniform on."
+    "Chinese is harder than other foreign languages."
   ],
   "parts": [
     {
-      "content": "البس",
+      "content": "اللغة",
       "translations": [
-        "wear",
-        "put on"
+        "language",
+        "the language",
+        "year,",
+        "year"
+      ],
+      "usageExamples": [
+        [
+          "دائماً في فرصة ثانية في امتحان اللغة",
+          "there is always a second chance in the language exam",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "الصينية",
+      "translations": [
+        "the plate",
+        "the dish"
       ],
       "usageExamples": []
     },
     {
-      "content": "لبس",
+      "content": "أصعب",
       "translations": [
-        "wear",
-        "put on",
-        "dress",
-        "clothe"
+        "hardest",
+        "most difficult"
       ],
       "usageExamples": []
     },
     {
-      "content": "المدرسة",
+      "content": "من",
       "translations": [
-        "the school",
-        "school"
+        "from",
+        "of",
+        "for",
+        "since",
+        "with",
+        "about",
+        "by",
+        "because of",
+        "through",
+        "unintentionally",
+        "accidentally",
+        "than",
+        "am sick of",
+        "(become) bored (with)",
+        "(be) sick (of)",
+        "please",
+        "without",
+        "recently"
+      ],
+      "usageExamples": [
+        [
+          "سيح الفَرخة من الفريزر",
+          "defrost the chicken from the freezer",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "من فضلك ساعديني.",
+          "Please help me.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا من أهل سابورو.",
+          "I'm from Sapporo.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "اللغات",
+      "translations": [
+        "languages",
+        "the languages"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "الأجنبية",
+      "translations": [
+        "foreign",
+        "foreigner",
+        "foreign language"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "التانية",
+      "translations": [
+        "the second",
+        "the other"
       ],
       "usageExamples": []
     }

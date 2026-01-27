@@ -1,91 +1,103 @@
 {
-  "sentence": "Ha perso qualcosa?",
+  "sentence": "Avete provato l'hot pot a Taiwan?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ajje (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Lumi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you lose something?",
-    "Have you lost something?"
+    "Have you tried the hot pot in Taiwan?"
   ],
   "parts": [
     {
-      "content": "Ha",
+      "content": "Avete",
       "translations": [
-        "He has",
-        "There is",
-        "It has"
+        "You have",
+        "Do you have?",
+        "You all have",
+        "Have you?"
       ],
       "usageExamples": [
         [
-          "Ha perso la partita.",
-          "She lost the game.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha a malapena toccato la sua cena.",
-          "He barely touched his dinner.",
+          "Avete mai provato?",
+          "Did you ever try?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha fatto qualcosa di incredibilmente stupido.",
-          "You did something incredibly stupid.",
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "perso",
+      "content": "provato",
       "translations": [
-        "lost",
-        "missing",
-        "absent",
-        "gone"
+        "tried",
+        "tested",
+        "proven",
+        "experienced"
       ],
       "usageExamples": [
         [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha perso la partita.",
-          "You lost the game.",
+          "Avete mai provato?",
+          "Did you ever try?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha ritrovato per caso la macchina fotografica che aveva perso.",
-          "He found his lost camera by chance.",
-          "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)"
+          "Ho provato a seguire le sue instruzioni.",
+          "I tried to follow your instructions.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qualcosa",
+      "content": "l'hot pot",
       "translations": [
-        "something",
-        "anything",
-        "a thing",
-        "a little something"
+        "hot pot",
+        "Chinese stew",
+        "simmering pot",
+        "communal cooking pot"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "Volate fino a Londra.",
+          "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Layla dimenticò qualcosa.",
-          "Layla forgot something.",
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha fatto qualcosa di incredibilmente stupido.",
-          "You did something incredibly stupid.",
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "Taiwan",
+      "translations": [
+        "Republic of China",
+        "Taiwan Province",
+        "Taiwan Island"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,50 +1,77 @@
 {
-  "sentence": "Tom Boston'da kalıyor.",
+  "sentence": "Tom'u çağırmamı ister misiniz?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom bleibt in Boston."
+    "Wollen Sie, dass ich Tom rufe?"
   ],
   "parts": [
     {
       "content": "Tom",
       "translations": [
-        "Tom",
-        "Tomas"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Tom, buna vaktimiz yok!",
-          "Tom, wir haben dafür keine Zeit!",
-          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+          "Tom beni arıyor mu?",
+          "Sucht Tom nach mir?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom gelince, gidiyorum.",
-          "Wenn Tom kommt, gehe ich.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+          "Tom sonuçları analiz etti.",
+          "Tom analysierte die Ergebnisse.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?",
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Boston'da",
+      "content": "çağır",
       "translations": [
-        "in Boston",
-        "zu Boston"
+        "rufen",
+        "einladen",
+        "herbeirufen"
       ],
       "usageExamples": []
     },
     {
-      "content": "kalıyor",
+      "content": "mam",
       "translations": [
-        "bleibt",
-        "verbleibt"
+        "Mama",
+        "Mutti",
+        "Mutter"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ı",
+      "translations": [
+        "ich",
+        "ich bin"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ister",
+      "translations": [
+        "bitte",
+        "möchten Sie"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "misiniz",
+      "translations": [
+        "sind Sie",
+        "bist du",
+        "sind Sie nicht",
+        "bist du nicht"
       ],
       "usageExamples": []
     }

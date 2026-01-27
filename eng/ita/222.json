@@ -1,82 +1,64 @@
 {
-  "sentence": "Il bambino mi sorrise.",
+  "sentence": "Conosce i cavalli.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The baby smiled at me."
+    "He knows horses."
   ],
   "parts": [
     {
-      "content": "Il",
+      "content": "Conosce",
       "translations": [
-        "The",
-        "It"
+        "He/She knows",
+        "You know",
+        "It is known",
+        "They know"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Noi studiamo tutti i giorni inglese.",
+          "We study English every day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il gatto mangia.",
-          "The cat eats.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "Aart è conosciuto per i suoi tweet razzisti.",
+          "Aart is known for his racist tweets.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il libro è arrivato.",
-          "The book came.",
+          "A Henrietta non piacciono i gatti.",
+          "Henrietta doesn't like cats.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bambino",
+      "content": "cavalli",
       "translations": [
-        "child",
-        "baby",
-        "kid",
-        "infant"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mi",
-      "translations": [
-        "me",
-        "myself",
-        "to me",
-        "for me"
+        "horses",
+        "stallions",
+        "cavalry",
+        "equines"
       ],
       "usageExamples": [
         [
-          "Non mi sento abbastanza forte per dirglielo.",
-          "I don’t feel strong enough to tell him.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom mi ha lasciato entrare.",
-          "Tom let me in.",
+          "A Hokkaido fanno cavalli di paglia.",
+          "In Hokkaido, they make horses of straw.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non mi piace la città in cui vive.",
-          "I don't like the city in which he lives.",
-          "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "sorrise",
-      "translations": [
-        "smiled",
-        "grinned",
-        "beamed",
-        "laughed"
-      ],
-      "usageExamples": []
     }
   ]
 }

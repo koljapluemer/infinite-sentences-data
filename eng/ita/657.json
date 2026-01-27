@@ -1,107 +1,191 @@
 {
-  "sentence": "Quante persone ha ucciso Tom?",
+  "sentence": "Non mi piace la città in cui vive.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How many people did Tom kill?"
+    "I don't like the city in which he lives."
   ],
   "parts": [
     {
-      "content": "Quante",
+      "content": "Non",
       "translations": [
-        "How many",
-        "How much",
-        "How many of them",
-        "How many pieces"
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
+      ],
+      "usageExamples": [
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "me",
+        "myself",
+        "to me",
+        "for me"
+      ],
+      "usageExamples": [
+        [
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non era più malata.",
+          "Mary told me she wasn't sick anymore.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mi chiese se avevo fame.",
+          "Tom asked me whether I was hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "città",
+      "translations": [
+        "city",
+        "town",
+        "urban area",
+        "metropolis"
+      ],
+      "usageExamples": [
+        [
+          "Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firenze.",
+          "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La città russa Togliatti è stata nominata in onore del comunista italiano Palmiro Togliatti.",
+          "The Russian city Togliatti was named in honor of the Italian communist Palmiro Togliatti.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cui",
+      "translations": [
+        "to whom",
+        "for whom",
+        "to which",
+        "for which"
+      ],
+      "usageExamples": [
+        [
+          "Non ho niente di cui vantarmi.",
+          "I have nothing to boast about.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vive",
+      "translations": [
+        "live",
+        "to live",
+        "alive",
+        "to be alive"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "persone",
-      "translations": [
-        "people",
-        "persons",
-        "individuals",
-        "human beings"
-      ],
-      "usageExamples": [
-        [
-          "È quello che fanno le persone intelligenti.",
-          "That's what smart people do.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Più della metà delle persone condannate dai tribunali è innocente.",
-          "More than half of the people convicted by the courts are innocent.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non crederesti alla roba che le persone buttano via.",
-          "You wouldn't believe the stuff people throw away.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ha",
-      "translations": [
-        "has",
-        "he has",
-        "there is"
-      ],
-      "usageExamples": [
-        [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "L'ha salvata.",
-          "He rescued her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ucciso",
-      "translations": [
-        "killed",
-        "murdered",
-        "slain",
-        "assassinated"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
-      ],
-      "usageExamples": [
-        [
-          "Tom acconsentì con riluttanza.",
-          "Tom reluctantly agreed.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ha molti amici?",
-          "Does Tom have lots of friends?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

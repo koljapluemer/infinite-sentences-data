@@ -1,48 +1,53 @@
 {
-  "sentence": "Leyla türbanını çıkarmayı düşünüyordu.",
+  "sentence": "Gerçekten onu ummuyordum.",
   "credits": [
-    "Sentence from Tatoeba by SadeceTurkce (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Layla was thinking about taking her hijab off."
+    "I didn't actually anticipate that."
   ],
   "parts": [
     {
-      "content": "Leyla",
+      "content": "gerçekten",
       "translations": [
-        "Leyla",
-        "Layla"
+        "really",
+        "truly",
+        "actually",
+        "genuinely"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "O benim için gerçekten eğlenceliydi.",
+          "That was really fun for me.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "türban",
+      "content": "onu",
       "translations": [
-        "headscarf",
-        "turban"
+        "that",
+        "it",
+        "him/her"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "çıkarmak",
-      "translations": [
-        "to take out",
-        "to remove",
-        "to extract",
-        "to issue"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "düşünmek",
-      "translations": [
-        "to think",
-        "to consider",
-        "to reflect",
-        "to ponder"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Onu hemen yapman gerekmiyor.",
+          "You don't have to do it right away.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Onu yazmamalıydık.",
+          "We shouldn't have written that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bana aslında onu yapmak istemediğini söyledi.",
+          "Tom told me he didn't actually want to do that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,41 +1,90 @@
 {
-  "sentence": "السمك رخيص النهارده.",
+  "sentence": "الناس بتحب الكلام والكلام والكلام.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Ahmed_Waleed (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Fish is cheap today."
+    "People love to talk, talk, talk."
   ],
   "parts": [
     {
-      "content": "السمك",
+      "content": "الناس",
       "translations": [
-        "fish",
-        "the fish"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "رخيص",
-      "translations": [
-        "cheap",
-        "inexpensive",
-        "affordable"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "النهارده",
-      "translations": [
-        "today",
-        "this day"
+        "people",
+        "humans",
+        "individuals",
+        "folk"
       ],
       "usageExamples": [
         [
-          "أنا صايمه النهارده.",
-          "I'm fasting today.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "الجو حار والشمس بتحرق في الناس",
+          "the weather is hot and the sun is burning people",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "الناس لازم تخلي المبنى في الحال",
+          "people must leave the building right away",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "ما تعاملش الناس بناءً على جنسيتهم أو جنسهم أو شغلهم.",
+          "Don't discriminate against people based on nationality, gender, or occupation.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "بتحب",
+      "translations": [
+        "Do you love?",
+        "You love",
+        "You like",
+        "Are you fond of?"
+      ],
+      "usageExamples": [
+        [
+          "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
+          "\"She likes music.\" \"So do I.\"",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "الكلام",
+      "translations": [
+        "the speech",
+        "the talk",
+        "the conversation",
+        "the words"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "و",
+      "translations": [
+        "and",
+        "also",
+        "AND",
+        "honey",
+        "when",
+        "while"
+      ],
+      "usageExamples": [
+        [
+          "أبو يا إهتم بي وأنا صغير",
+          "my father cared for me when I was young",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "اِلواحِد لاَزِم يِبُصّ يِمين و شِمال، قَبل ما يِعدّي اِلشارِع",
+          "a person must look left AND right before crossing the road",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "سامي و ليلى كانوا مجانين.",
+          "Sami and Layla were fucking insane.",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
         ]
       ]
     }

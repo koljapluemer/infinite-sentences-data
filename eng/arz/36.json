@@ -1,35 +1,150 @@
 {
-  "sentence": "بتتكلمي انجليزي؟",
+  "sentence": "توم بيشارك في أنشطة خارجية كتيرة.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you speak English?"
+    "Tom participates in many extracurricular activities."
   ],
   "parts": [
     {
-      "content": "بتتكلمي",
+      "content": "توم",
       "translations": [
-        "Are you speaking?",
-        "Do you speak?",
-        "Are you talking?"
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مبيشربش شاي.",
+          "Tom doesn't drink tea.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "بيشارك",
+      "translations": [
+        "participates",
+        "takes part",
+        "is involved",
+        "joins in"
       ],
       "usageExamples": []
     },
     {
-      "content": "انجليزي",
+      "content": "في",
       "translations": [
-        "English.",
-        "in English."
+        "in",
+        "at",
+        "inside",
+        "within",
+        "into",
+        "there",
+        "there is",
+        "for for",
+        "for",
+        "on",
+        "about",
+        "year",
+        "opposite",
+        "facing",
+        "In",
+        "the",
+        "percent",
+        "there was",
+        "right away",
+        "there are",
+        "there be",
+        "probably",
+        "failed",
+        "fail",
+        "somewhere",
+        "everywhere",
+        "whenever",
+        "by o'clock,",
+        "by",
+        "appointment",
+        "mix up",
+        "(get) confused",
+        "Is there",
+        "the is",
+        "don't",
+        "siblings",
+        "sibling",
+        "of",
+        "sweet",
+        "what is saying",
+        "speech",
+        "talk",
+        "what (so.) is saying",
+        "burning",
+        "burn",
+        "at home",
+        "(at) home",
+        "during",
+        "had",
+        "last night",
+        "age",
+        "to"
       ],
       "usageExamples": [
         [
-          "بتتكلم انجليزي؟",
-          "Do you speak English?",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+          "ساعدوا بعض في الواجب.",
+          "Help each other with homework.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "في بُقعَةٍ عَلى قَميصِكَ",
+          "there is a stain on your shirt",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "أنشطة",
+      "translations": [
+        "activities",
+        "events",
+        "tasks",
+        "exercises"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "خارجية",
+      "translations": [
+        "external",
+        "foreign",
+        "outside",
+        "overseas"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كتيرة",
+      "translations": [
+        "a lot",
+        "many",
+        "plenty",
+        "numerous"
+      ],
+      "usageExamples": []
     }
   ]
 }

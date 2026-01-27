@@ -1,103 +1,141 @@
 {
-  "sentence": "Adesso che abbiamo mangiato, andiamo.",
+  "sentence": "A Betty piace la musica classica.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by zumley (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Now that we have eaten, let's go."
+    "Betty likes classical music."
   ],
   "parts": [
     {
-      "content": "Adesso",
+      "content": "A",
       "translations": [
-        "Now",
-        "Right now",
-        "At this moment",
-        "Currently"
+        "Item: A",
+        "Article: A",
+        "Object: A"
+      ],
+      "usageExamples": [
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Betty",
+      "translations": [
+        "Betty",
+        "Betsy"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "piace",
       "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
         "that",
         "which",
-        "who",
-        "what"
+        "those"
       ],
       "usageExamples": [
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said that she loved him.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "abbiamo",
+      "content": "musica",
       "translations": [
-        "we have",
-        "we've got",
-        "we possess"
+        "music",
+        "musical piece",
+        "tune",
+        "song"
       ],
       "usageExamples": [
         [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Che musica ascoltate?",
+          "What music do you listen to?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Pensi che abbiamo convinto Tom?",
-          "Do you think we convinced Tom?",
+          "Non hanno orecchio per la musica.",
+          "They don't have an ear for music.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Robert piace la musica classica.",
+          "Robert likes classical music.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mangiato",
+      "content": "classica",
       "translations": [
-        "eaten",
-        "consumed",
-        "devoured",
-        "ingested"
+        "classical",
+        "classic",
+        "traditional",
+        "standard"
       ],
       "usageExamples": [
         [
-          "Io non ho ancora mangiato niente oggi.",
-          "I haven't yet eaten anything today.",
+          "A proposito di musica classica, qual è il vostro compositore preferito?",
+          "Talking of classical music, who is your favorite composer?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Robert piace la musica classica.",
+          "Robert likes classical music.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "andiamo",
-      "translations": [
-        "let's go",
-        "we go",
-        "come on",
-        "let's move"
-      ],
-      "usageExamples": [
-        [
-          "Domani andiamo in montagna.",
-          "Tomorrow we'll go to the mountains.",
-          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,41 +1,91 @@
 {
-  "sentence": "بجد مبتعرفش تسبح؟",
+  "sentence": "توم بيعوم كام ساعه فاليوم؟",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Can you really not swim?"
+    "How many hours a day does Tom swim?"
   ],
   "parts": [
     {
-      "content": "بجد",
+      "content": "توم",
       "translations": [
-        "seriously",
-        "for real",
-        "honestly",
-        "really"
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم اضطر يروح المستشفى.",
+          "Tom had to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مبيشربش شاي.",
+          "Tom doesn't drink tea.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "بيعوم",
+      "translations": [
+        "to sell",
+        "selling"
       ],
       "usageExamples": []
     },
     {
-      "content": "مبتعرفش",
+      "content": "كام",
       "translations": [
-        "You don't know",
-        "You don't recognize",
-        "You have no idea",
-        "You aren't aware"
+        "how much",
+        "how many",
+        "How many"
+      ],
+      "usageExamples": [
+        [
+          "عايز كام كيلو تفاح؟",
+          "How many kilos of apples do you want?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "عايز كام بيضة؟",
+          "how many eggs do you want?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "أقدر أشتري البيت ده على كام؟",
+          "How much could I buy this house for?",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ساعه",
+      "translations": [
+        "hour",
+        "clock"
       ],
       "usageExamples": []
     },
     {
-      "content": "تسبح",
+      "content": "فاليوم",
       "translations": [
-        "to swim",
-        "to float",
-        "to drift"
+        "today",
+        "this day"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "بعمل 100 يورو فاليوم.",
+          "I make €100 a day.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

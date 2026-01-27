@@ -1,39 +1,57 @@
 {
-  "sentence": "Sakın pes etme!",
+  "sentence": "Size yardım etmek istiyorum.",
   "credits": [
-    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Nur nicht aufgeben!"
+    "Ich will dir helfen."
   ],
   "parts": [
     {
-      "content": "Sakın",
+      "content": "Size",
       "translations": [
-        "Vorsicht",
-        "Achtung",
-        "Sei vorsichtig",
-        "Pass auf"
+        "Größe",
+        "Dimension"
       ],
       "usageExamples": []
     },
     {
-      "content": "pes",
+      "content": "yardım",
       "translations": [
-        "Füße",
-        "Beine"
+        "Hilfe",
+        "Unterstützung"
       ],
       "usageExamples": []
     },
     {
-      "content": "etme",
+      "content": "etmek",
       "translations": [
-        "tu es nicht",
-        "mach es nicht",
-        "lass es sein"
+        "machen",
+        "tun",
+        "verrichten"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "istiyorum",
+      "translations": [
+        "ich will",
+        "ich möchte"
+      ],
+      "usageExamples": [
+        [
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,187 +1,107 @@
 {
-  "sentence": "Io spero che Tom e Mary siano qui.",
+  "sentence": "Ha perso la partita.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Conjuice (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Jesse (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I hope Tom and Mary are here."
+    "He lost the game.",
+    "She lost the game.",
+    "You lost the game."
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "Ha",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "He has",
+        "There is",
+        "It has"
       ],
       "usageExamples": [
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "Ha perso qualcosa?",
+          "Have you lost something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io l'ho comprata.",
-          "I bought it.",
+          "Ha gridato contro il suo computer.",
+          "She yelled at her computer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io so com'era Tom.",
-          "I know how Tom used to be.",
+          "Ha a malapena toccato la sua cena.",
+          "He barely touched his dinner.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "spero",
+      "content": "perso",
       "translations": [
-        "I hope.",
-        "I expect",
-        "I trust",
-        "I wish"
+        "lost",
+        "missing",
+        "absent",
+        "gone"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso qualcosa?",
+          "Have you lost something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Alla fine ha perso la pazienza.",
+          "Finally, he lost his temper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "che",
+      "content": "la",
       "translations": [
+        "the",
         "that",
         "which",
-        "who",
-        "what"
+        "those"
       ],
       "usageExamples": [
         [
-          "Disse che lo amava.",
-          "She said that she loved him.",
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Lui accese la radio.",
+          "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "partita",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "match",
+        "game",
+        "part",
+        "session"
       ],
       "usageExamples": [
         [
-          "Tom vende funghi psichedelici.",
-          "Tom sells psychedelic mushrooms.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non cambia mai.",
-          "Tom never changes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta lavorando, vero?",
-          "Tom is working, isn't he?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "e",
-      "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
-      ],
-      "usageExamples": [
-        [
-          "Io e Tom non siamo così.",
-          "Tom and I aren't like that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Jack ha un gatto e un pappagallo a casa.",
-          "Jack keeps a cat and a parrot at home.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Rima e Skura sono quasi annegate.",
-          "Rima and Skura almost drowned.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Mary",
-      "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
-      ],
-      "usageExamples": [
-        [
-          "So che Tom e Mary devono andare a Boston.",
-          "I know Tom and Mary have to go to Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A volte Mary lo fa e a volte non lo fa.",
-          "Sometimes Mary does that and sometimes she doesn't.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary ha preparato la colazione.",
-          "Mary made breakfast.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "siano",
-      "translations": [
-        "they are",
-        "let them be",
-        "may they be"
-      ],
-      "usageExamples": [
-        [
-          "Non so se i padrini di mio figlio siano ancora vivi.",
-          "I don't know if my son's godparents are still alive.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "qui",
-      "translations": [
-        "who",
-        "that",
-        "which",
-        "whom"
-      ],
-      "usageExamples": [
-        [
-          "Odio qui.",
-          "I hate it here.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Erano proprio qui.",
-          "They were right here.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché sono qui?",
-          "Why are they here?",
-          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
         ]
       ]
     }

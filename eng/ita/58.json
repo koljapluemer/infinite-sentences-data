@@ -1,48 +1,122 @@
 {
-  "sentence": "Che fallito!",
+  "sentence": "A José piace la musica latina.",
   "credits": [
-    "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What a loser!"
+    "José likes latin music."
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "A",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Che altro vorresti?",
-          "What more would you want?",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "A quale proposito?",
+          "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che musica ascoltate?",
-          "What music do you listen to?",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fallito",
+      "content": "José",
       "translations": [
-        "failed",
-        "failed attempt",
-        "failure",
-        "unsuccessful"
+        "Joseph",
+        "Joe"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "musica",
+      "translations": [
+        "music",
+        "musical piece",
+        "tune",
+        "song"
+      ],
+      "usageExamples": [
+        [
+          "Che musica ascoltate?",
+          "What music do you listen to?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio hobby è la musica.",
+          "My hobby is music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken piace molto la musica.",
+          "Ken likes music very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

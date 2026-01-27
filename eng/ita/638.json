@@ -1,43 +1,110 @@
 {
-  "sentence": "Pranzammo presto.",
+  "sentence": "Non giocherelli con il vetro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We ate lunch early."
+    "Don't play around with the glass."
   ],
   "parts": [
     {
-      "content": "Pranzammo",
+      "content": "Non",
       "translations": [
-        "We had lunch.",
-        "We ate lunch",
-        "We lunched",
-        "We dined at noon"
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
+      ],
+      "usageExamples": [
+        [
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non l'ho riconosciuto.",
+          "I didn't recognize it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "giocherelli",
+      "translations": [
+        "little games",
+        "playful activities",
+        "small toys",
+        "fun games"
       ],
       "usageExamples": []
     },
     {
-      "content": "presto",
+      "content": "con",
       "translations": [
-        "quick",
-        "fast",
-        "soon",
-        "immediately"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
-          "Farà presto buio.",
-          "It's going to get dark soon.",
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli alberi saranno presto vuoti.",
-          "The trees will soon be bare.",
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vetro",
+      "translations": [
+        "glass",
+        "pane",
+        "window glass",
+        "vitreous material"
+      ],
+      "usageExamples": []
     }
   ]
 }

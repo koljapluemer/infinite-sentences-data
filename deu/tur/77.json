@@ -1,60 +1,106 @@
 {
-  "sentence": "Mary politika ile ilgilenir.",
+  "sentence": "O başka bir adamla dans ediyor.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Maria interessiert sich für Politik."
+    "Sie tanzt mit einem anderen Mann."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "O",
       "translations": [
-        "Maria",
-        "Miriam"
+        "O",
+        "Oh"
       ],
       "usageExamples": [
         [
-          "Mary bale dersleri alıyor.",
-          "Maria nimmt Ballettunterricht.",
-          "Sentence from Tatoeba by tulin (CC-BY 2.0 FR)"
+          "O biraz çatlak.",
+          "Sie ist ein bisschen verrückt.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "Mary'yi öldürdün mü?",
-          "Hast du Maria umgebracht?",
+          "O zamandan beri onu kimse görmedi.",
+          "Niemand hat ihn mehr gesehen seitdem.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Mary bir baton kullanarak orkestrayı yönetti.",
-          "Maria dirigierte das Orchester mit einem Taktstock.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "O nasıl? Yaşlı mı, genç mi?",
+          "Wie ist er? Alt, oder jung?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "politika",
+      "content": "başka",
       "translations": [
-        "Politik",
-        "Politikgestaltung"
+        "anderer",
+        "andere",
+        "andres"
+      ],
+      "usageExamples": [
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "eins",
+        "ein"
+      ],
+      "usageExamples": [
+        [
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "adamla",
+      "translations": [
+        "Mensch",
+        "Typ",
+        "Kerl"
       ],
       "usageExamples": []
     },
     {
-      "content": "ile",
+      "content": "dans",
       "translations": [
-        "mit",
-        "und"
+        "in",
+        "drin"
       ],
       "usageExamples": []
     },
     {
-      "content": "ilgilenir",
+      "content": "ediyor",
       "translations": [
-        "interessiert sich",
-        "kümmert sich"
+        "macht",
+        "tut"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Hepsi ne ediyor?",
+          "Was macht das alles zusammen?",
+          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

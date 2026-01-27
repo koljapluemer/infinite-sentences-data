@@ -1,78 +1,125 @@
 {
-  "sentence": "Beve latte di mucca.",
+  "sentence": "A Heather fanno male i denti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Aghanim (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He drinks cow's milk."
+    "Heather has a toothache."
   ],
   "parts": [
     {
-      "content": "Beve",
+      "content": "A",
       "translations": [
-        "edge",
-        "bevel",
-        "slant",
-        "slope"
+        "Item: A",
+        "Article: A",
+        "Object: A"
+      ],
+      "usageExamples": [
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Heather",
+      "translations": [
+        "Heather",
+        "Erica"
       ],
       "usageExamples": []
     },
     {
-      "content": "latte",
+      "content": "fanno",
       "translations": [
-        "milk",
-        "dairy milk",
-        "cow's milk",
-        "liquid milk"
+        "they do",
+        "they make",
+        "they are doing",
+        "they are making"
       ],
       "usageExamples": [
         [
-          "Di solito bevo molto latte.",
-          "I usually drink a lot of milk.",
+          "A Hokkaido fanno cavalli di paglia.",
+          "In Hokkaido, they make horses of straw.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che fanno le persone intelligenti.",
+          "That's what smart people do.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "male",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "man",
+        "masculine",
+        "boy"
       ],
       "usageExamples": [
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "Fa male! Smettila!",
+          "That hurts! Stop it!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
+          "Non gli feci mai del male.",
+          "I never harmed him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Può fare di meglio.",
-          "You can do better.",
+          "Tutto il nostro cibo è andato a male.",
+          "All our food was spoiled.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mucca",
+      "content": "i",
       "translations": [
-        "cow",
-        "female bovine"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Vladimir è forte come una mucca.",
-          "Vladimir is strong as a cow.",
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non accarezzo i vostri cani.",
+          "I don't pet your dogs.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo articolo ridicolizza i vegetariani.",
+          "This article makes fun of vegetarians.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "denti",
+      "translations": [
+        "teeth",
+        "tooth"
+      ],
+      "usageExamples": []
     }
   ]
 }

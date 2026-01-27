@@ -1,36 +1,76 @@
 {
-  "sentence": "ضربته قلم.",
+  "sentence": "كان محتاج نضّارة.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She slapped his face."
+    "He needed glasses."
   ],
   "parts": [
     {
-      "content": "ضربته",
+      "content": "كان",
       "translations": [
-        "I hit him.",
-        "I struck him",
-        "I beat him."
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "قلم",
-      "translations": [
-        "pen",
-        "pencil",
-        "writing instrument"
+        "was",
+        "were",
+        "used to be",
+        "are",
+        "be",
+        "exist",
+        "will",
+        "have",
+        "could have",
+        "was a"
       ],
       "usageExamples": [
         [
-          "من زمان أوي والناس مبهورة بقدرته الفظيعة إنه يحل مسائل الرياضة في دماغه من غير ورقة ولا قلم.",
-          "From a very early age he amazed everyone with his extraordinary abilities to do mathematical calculations in his head without the use of pen and paper.",
-          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+          "إمبارح كان الجو جميل",
+          "yesterday the weather was beautiful",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "إذا كان في بيض، ممكن نعمل عجة",
+          "[If] there are eggs, we can make omelette",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "كان في قداس في الكنيسة النهاردة",
+          "there was a service at the church today",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
+    },
+    {
+      "content": "محتاج",
+      "translations": [
+        "in need",
+        "needing",
+        "requiring",
+        "wanting",
+        "need",
+        "need (to)"
+      ],
+      "usageExamples": [
+        [
+          "أنا محتاج نضارة شمس",
+          "I need sunglasses",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "أنا محتاج علاج طبيعي لكتف ي",
+          "I need physiotherapy for my shoulder",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "نضّارة",
+      "translations": [
+        "glasses",
+        "spectacles",
+        "eyewear"
+      ],
+      "usageExamples": []
     }
   ]
 }

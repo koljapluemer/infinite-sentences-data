@@ -1,48 +1,54 @@
 {
-  "sentence": "عندي قاموس منيح.",
+  "sentence": "رحنا لنوشف توم.",
   "credits": [
-    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by xahmie (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have a good dictionary."
+    "We went to see Tom."
   ],
   "parts": [
     {
-      "content": "عندي",
+      "content": "رحنا",
       "translations": [
-        "I have",
-        "I possess",
-        "I own",
-        "I am in possession of"
+        "We went",
+        "We have gone",
+        "We are gone"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "لنوشف",
+      "translations": [
+        "Let's eat.",
+        "Let's have a meal"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "توم",
+      "translations": [
+        "Tom",
+        "Tome",
+        "Tommie"
       ],
       "usageExamples": [
         [
-          "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
-          "I have a cat and a dog. The cat is black and the dog is white.",
-          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+          "توم خلى عينوا عالولاد",
+          "Tom kept an eye on the children.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "عالأغلب توم لح يساوي يلي لح تطلبه.",
+          "I suspect Tom will do whatever you ask.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "قاموس",
-      "translations": [
-        "dictionary",
-        "lexicon",
-        "wordbook",
-        "glossary"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "منيح",
-      "translations": [
-        "good",
-        "well",
-        "fine",
-        "okay"
-      ],
-      "usageExamples": []
     }
   ]
 }

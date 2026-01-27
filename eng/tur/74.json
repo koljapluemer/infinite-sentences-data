@@ -1,35 +1,70 @@
 {
-  "sentence": "Yarın kiliseye gitmeliyim.",
+  "sentence": "Tom annemin erkek kardeşi.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've got to go to church tomorrow."
+    "Tom is my mother's brother."
   ],
   "parts": [
     {
-      "content": "yarın",
+      "content": "Tom",
       "translations": [
-        "tomorrow",
-        "next day"
+        "Tom",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Seni öldüremedim, Tom.",
+          "I couldn't kill you, Tom.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom Mary'ye bekleyeceğini söyledi.",
+          "Tom told Mary he'd wait.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "annemin",
+      "translations": [
+        "my mother",
+        "mother of mine"
       ],
       "usageExamples": []
     },
     {
-      "content": "kiliseye",
+      "content": "erkek",
       "translations": [
-        "to the church",
-        "at the church"
+        "man",
+        "male"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "İyi bir erkek çocuğu gibi davranmazsan bir doğum günü hediyesi almazsın.",
+          "If you don't act like a good boy, you won't get a birthday present.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom benim üvey erkek kardeşim.",
+          "Tom is my stepbrother.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "gitmeliyim",
+      "content": "kardeşi",
       "translations": [
-        "I must go",
-        "I have to go.",
-        "I should go"
+        "sibling",
+        "brother",
+        "sister"
       ],
       "usageExamples": []
     }

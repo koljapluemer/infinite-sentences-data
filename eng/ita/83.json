@@ -1,38 +1,174 @@
 {
-  "sentence": "Conosci quell'hotel?",
+  "sentence": "A Madre Teresa è stato dato il Premio Nobel.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you know that hotel?"
+    "Mother Teresa was given the Nobel prize."
   ],
   "parts": [
     {
-      "content": "Conosci",
+      "content": "A",
       "translations": [
-        "Do you know?",
-        "Are you familiar with?",
-        "Have you heard of?",
-        "Do you recognize?"
+        "Item: A",
+        "Article: A",
+        "Object: A"
+      ],
+      "usageExamples": [
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Madre",
+      "translations": [
+        "Mother",
+        "Mom",
+        "Mama",
+        "Mum"
       ],
       "usageExamples": []
     },
     {
-      "content": "quell'",
+      "content": "Teresa",
       "translations": [
-        "that one",
-        "that",
-        "the one"
+        "Teresa",
+        "Terry",
+        "Tess"
       ],
       "usageExamples": []
     },
     {
-      "content": "hotel",
+      "content": "è",
       "translations": [
-        "inn",
-        "lodging",
-        "accommodation"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stato",
+      "translations": [
+        "state",
+        "status",
+        "condition",
+        "situation"
+      ],
+      "usageExamples": [
+        [
+          "È stato scaricato.",
+          "He was dumped.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei mai stato in Francia?",
+          "Have you ever been to France?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dato",
+      "translations": [
+        "given",
+        "data",
+        "fact",
+        "information"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha dato dell'idiota all'arbitro.",
+          "Tom called the referee an idiot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il dottore gli ha dato un sedativo.",
+          "The doctor gave him a sedative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Madre Teresa fu dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Premio",
+      "translations": [
+        "prize",
+        "award"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Nobel",
+      "translations": [
+        "Nobel Prize",
+        "Nobel laureate"
       ],
       "usageExamples": []
     }

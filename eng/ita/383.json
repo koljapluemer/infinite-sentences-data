@@ -1,112 +1,231 @@
 {
-  "sentence": "Lei ha già finito?",
+  "sentence": "In realtà il nero non è un colore. È l'assenza di colore.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you done yet?",
-    "Are you finished yet?",
-    "Are you through yet?",
-    "Have you already finished?",
-    "Have you finished yet?"
+    "In reality black is not a color; it is the absence of color."
   ],
   "parts": [
     {
-      "content": "Lei",
+      "content": "In",
       "translations": [
-        "You (formal)",
-        "She",
-        "Mrs.",
-        "Ma'am"
+        "Inside",
+        "Within",
+        "Into"
       ],
       "usageExamples": [
         [
-          "Lei ha frenato.",
-          "She braked.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è americano?",
-          "Are you American?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "In realtà non l'ho mai incontrata.",
+          "I've never actually met her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "realtà",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "reality",
+        "fact",
+        "truth",
+        "actuality"
       ],
       "usageExamples": [
         [
-          "Lei ha frenato.",
-          "She braked.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ha molti amici?",
-          "Does Tom have lots of friends?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cookie ha 15 anni.",
-          "Cookie is 15.",
+          "In realtà non l'ho mai incontrata.",
+          "I never actually met her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "già",
+      "content": "il",
       "translations": [
-        "already",
-        "now",
-        "yet",
-        "at this point"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Lei ha già cominciato.",
-          "She has already begun.",
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Pensavo che avesse già parlato con Tom.",
-          "I thought you'd already talked to Tom.",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai già visto il campus?",
-          "Have you seen the campus yet?",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "finito",
+      "content": "nero",
       "translations": [
-        "finished",
-        "done",
-        "completed",
-        "over"
+        "black",
+        "dark",
+        "noir"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had a good time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono un tipo solitario.",
+          "I'm a loner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "colore",
+      "translations": [
+        "color",
+        "hue",
+        "shade",
+        "tint"
+      ],
+      "usageExamples": [
+        [
+          "A Dan non piace il colore delle pareti.",
+          "Dan doesn't like the color of the walls.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "È",
+      "translations": [
+        "It is",
+        "He is",
+        "She is",
+        "There is"
+      ],
+      "usageExamples": [
+        [
+          "È un portiere.",
+          "He's a goal keeper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una maledizione.",
+          "It's a curse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "l'assenza",
+      "translations": [
+        "the absence",
+        "lack",
+        "nonexistence",
+        "void"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

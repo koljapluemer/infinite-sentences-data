@@ -1,67 +1,113 @@
 {
-  "sentence": "Devo studiare stasera.",
+  "sentence": "A Mary manca Boston.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have to study tonight."
+    "Mary misses Boston."
   ],
   "parts": [
     {
-      "content": "Devo",
+      "content": "A",
       "translations": [
-        "I must.",
-        "I have to.",
-        "I need to",
-        "I ought to"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Devo andare a trovarli.",
-          "I have to go find them.",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Devo aspettarli qua.",
-          "I have to wait here for them.",
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary sta caricando la macchina, vero?",
+          "Mary is loading the car, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che voleva comprare qualcosa di più economico.",
+          "Mary said she wanted to buy something cheaper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "studiare",
+      "content": "manca",
       "translations": [
-        "to study",
-        "to learn",
-        "to examine",
-        "to review"
+        "missing",
+        "lacking",
+        "absent",
+        "deficient"
       ],
       "usageExamples": [
         [
-          "Voglio studiare matematica.",
-          "I want to study math.",
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho intenzione questo pomeriggio di studiare inglese.",
-          "I'm going to study English this afternoon.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+          "A Mary manca molto la sua famiglia.",
+          "Mary misses her family a lot.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
-          "Andò in Italia a studiare la musica.",
-          "He went to Italy to study music.",
+          "A Mary manca suo marito.",
+          "Mary misses her husband.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stasera",
+      "content": "Boston",
       "translations": [
-        "tonight",
-        "this evening"
+        "City of Boston",
+        "Boston, Massachusetts",
+        "The Hub"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "So che Tom e Mary devono andare a Boston.",
+          "I know Tom and Mary have to go to Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha acconsentito ad andare a Boston con lei.",
+          "He agreed to go to Boston with her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io e Tom andremo a Boston.",
+          "Tom and I'll go to Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

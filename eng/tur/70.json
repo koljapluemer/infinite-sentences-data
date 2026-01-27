@@ -1,47 +1,84 @@
 {
-  "sentence": "Yakayı ele vermeden kaçtım.",
+  "sentence": "Tatoeba'da Türkçe ve Estonca cümle yaratıyorsanız, büyük olasılıkla boracaslı'sınızdır.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by LittleBoy (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I got away with it."
+    "If you create sentences in Turkish and Estonian on Tatoeba, there's a large chance that you're boracasli."
   ],
   "parts": [
     {
-      "content": "yakayı",
+      "content": "Tatoeba",
       "translations": [
-        "the collar",
-        "the neck",
-        "the lapel"
+        "for example",
+        "such as"
       ],
       "usageExamples": []
     },
     {
-      "content": "ele",
+      "content": "Türkçe",
       "translations": [
-        "he",
-        "she",
-        "it"
+        "Turkish",
+        "in Turkish"
       ],
       "usageExamples": []
     },
     {
-      "content": "vermeden",
+      "content": "Estonca",
       "translations": [
-        "unintentionally",
-        "without realizing",
-        "inadvertently",
-        "accidentally"
+        "Estonian",
+        "of Estonia"
       ],
       "usageExamples": []
     },
     {
-      "content": "kaçtım",
+      "content": "cümle",
       "translations": [
-        "I ran away.",
-        "I escaped.",
-        "I fled."
+        "sentence",
+        "clause"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "yaratıyorsanız",
+      "translations": [
+        "if you are creating",
+        "if you are making",
+        "if you are generating"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "büyük",
+      "translations": [
+        "big",
+        "large",
+        "great",
+        "huge"
+      ],
+      "usageExamples": [
+        [
+          "Boston büyük bir şehirdir.",
+          "Boston is a large city.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "olasılıkla",
+      "translations": [
+        "probably",
+        "likely",
+        "most likely"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "boracaslı'sınızdır",
+      "translations": [
+        "You are from Borac",
+        "You are a Borac native"
       ],
       "usageExamples": []
     }

@@ -1,90 +1,65 @@
 {
-  "sentence": "توم في نص الميتينج بتاعه.",
+  "sentence": "جرب كمان مرة.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is in the middle of his meeting."
+    "Try it again."
   ],
   "parts": [
     {
-      "content": "توم",
+      "content": "جرب",
       "translations": [
-        "you",
-        "you (singular)"
+        "try",
+        "test",
+        "attempt"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "كمان",
+      "translations": [
+        "also",
+        "too",
+        "as well",
+        "again"
       ],
       "usageExamples": [
         [
-          "توم مبيعرفش يلعب تنس.",
-          "Tom can't play tennis.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "بيتكلم أسباني و فرنساوي كمان.",
+          "He speaks Spanish as well as French.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "توم مابصش عليه حتى.",
-          "Tom wouldn't even look at it.",
+          "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
+          "\"She likes music.\" \"So do I.\"",
           "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ],
         [
-          "توم ريحته في المكان.",
-          "This place smells like Tom.",
+          "توم كان مشغول وأنا كمان كنت مشغول.",
+          "Tom was busy and so was I.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "في",
+      "content": "مرة",
       "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
+        "once",
+        "a time",
+        "one time",
+        "time",
+        "occasion",
+        "instance"
       ],
       "usageExamples": [
         [
-          "ساعدوا بعض في الواجب.",
-          "Help each other with homework.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "هي في إجازة دلوقتي.",
-          "She is now on vacation.",
-          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم ريحته في المكان.",
-          "This place smells like Tom.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "إبن يسقط في الامتحان مرة ثانية",
+          "my son failed the test a second time",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
-    },
-    {
-      "content": "نص",
-      "translations": [
-        "text",
-        "script",
-        "content"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "الميتينج",
-      "translations": [
-        "the meeting",
-        "the gathering",
-        "the conference"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بتاعه",
-      "translations": [
-        "his thing",
-        "that thing",
-        "his stuff",
-        "that one"
-      ],
-      "usageExamples": []
     }
   ]
 }

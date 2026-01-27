@@ -1,35 +1,89 @@
 {
-  "sentence": "Kaç işlem yaptın?",
+  "sentence": "Mali desteği, bu projemiz için vazgeçilmezdir.",
   "credits": [
-    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wie viel Abfertigung hast du bekommen?"
+    "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich."
   ],
   "parts": [
     {
-      "content": "Kaç",
+      "content": "Mali",
       "translations": [
-        "Wie viel",
-        "Wie viele"
+        "Mali"
       ],
       "usageExamples": []
     },
     {
-      "content": "işlem",
+      "content": "desteği",
       "translations": [
-        "Prozess",
-        "Vorgang",
-        "Operation"
+        "Unterstützung",
+        "Hilfe"
       ],
       "usageExamples": []
     },
     {
-      "content": "yaptın",
+      "content": "bu",
       "translations": [
-        "du hast gemacht",
-        "du hast getan"
+        "dies",
+        "das"
+      ],
+      "usageExamples": [
+        [
+          "Bence bu inanılmaz.",
+          "Ich denke, es ist unglaublich.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ],
+        [
+          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "projemiz",
+      "translations": [
+        "unser Projekt",
+        "unser Vorhaben"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "için",
+      "translations": [
+        "für",
+        "um zu"
+      ],
+      "usageExamples": [
+        [
+          "Belki sizin için hâlâ umut vardır.",
+          "Vielleicht gibt es ja noch Hoffnung für Sie.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
+          "Ich muss für eine Spanienreise Spanisch lernen.",
+          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vazgeçilmezdir",
+      "translations": [
+        "unverzichtbar",
+        "unentbehrlich"
       ],
       "usageExamples": []
     }

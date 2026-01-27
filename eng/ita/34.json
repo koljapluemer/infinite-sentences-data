@@ -1,35 +1,110 @@
 {
-  "sentence": "Avete il nostro rispetto.",
+  "sentence": "A Dan non piace il colore delle pareti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You have our respect."
+    "Dan doesn't like the color of the walls."
   ],
   "parts": [
     {
-      "content": "Avete",
+      "content": "A",
       "translations": [
-        "You have",
-        "Do you have?",
-        "You all have",
-        "Have you?"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Avete mai provato?",
-          "Did you ever try?",
+          "A Judy piace lui.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete visitato la città dove è nato vostro padre?",
-          "Have you visited the town where your father was born?",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete annotato il numero di telefono?",
-          "Did you write down the telephone number?",
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Dan",
+      "translations": [
+        "Dan",
+        "Dan (name)",
+        "Dan (as in 'to give')"
+      ],
+      "usageExamples": [
+        [
+          "A Dan non sono piaciuti i commenti di Linda.",
+          "Dan didn't like Linda's comments.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Dan è stato permesso di entrare nella stanza degli interrogatori.",
+          "Dan was allowed into the interrogation room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Dan non piacciono i dittatori.",
+          "Dan doesn't like dictators.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -44,61 +119,61 @@
       ],
       "usageExamples": [
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Non conosco il sistema.",
           "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "nostro",
-      "translations": [
-        "our",
-        "ours",
-        "of ours",
-        "belonging to us"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Si unisca al nostro gruppo di lettura.",
-          "Join our book club.",
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Se non ci sbrighiamo, perderemo il nostro treno.",
-          "If we don't hurry, we'll miss our train.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tutto il nostro cibo è andato a male.",
-          "All our food was spoiled.",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "rispetto",
+      "content": "colore",
       "translations": [
-        "respect",
-        "regard",
-        "consideration",
-        "esteem"
+        "color",
+        "hue",
+        "shade",
+        "tint"
       ],
       "usageExamples": [
         [
-          "Mi sento unico rispetto agli altri.",
-          "I feel unique compared to others.",
+          "In realtà il nero non è un colore. È l'assenza di colore.",
+          "In reality black is not a color; it is the absence of color.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "delle",
+      "translations": [
+        "of the",
+        "some",
+        "of them",
+        "from the"
+      ],
+      "usageExamples": [
+        [
+          "Siamo tutte delle codarde.",
+          "We're all cowards.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Più della metà delle persone condannate dai tribunali è innocente.",
+          "More than half of the people convicted by the courts are innocent.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno delle famiglie da sfamare.",
+          "They have families to feed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

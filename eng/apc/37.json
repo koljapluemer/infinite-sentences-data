@@ -1,50 +1,106 @@
 {
-  "sentence": "مرأتي رح ع السوق",
+  "sentence": "عندي بسينة وكلب, البسينة سودة والكلب أبيض.",
   "credits": [
-    "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by kebukebu (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My wife is going to the market."
+    "I have a cat and a dog. The cat is black and the dog is white."
   ],
   "parts": [
     {
-      "content": "مرأتي",
+      "content": "عندي",
       "translations": [
-        "my mirror",
-        "my reflection",
-        "my looking glass",
-        "my image"
+        "I have",
+        "I possess",
+        "I own",
+        "I am in possession of"
+      ],
+      "usageExamples": [
+        [
+          "عندي قاموس منيح.",
+          "I have a good dictionary.",
+          "Sentence from Tatoeba by ofxxx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "بسينة",
+      "translations": [
+        "small fish",
+        "minnow",
+        "bait fish",
+        "little fish"
       ],
       "usageExamples": []
     },
     {
-      "content": "رح",
+      "content": "و",
       "translations": [
-        "to go",
-        "to leave",
-        "to depart",
-        "to walk away"
+        "and",
+        "also",
+        "as well as",
+        "in addition to"
+      ],
+      "usageExamples": [
+        [
+          "توم و ماري ما كانوا كتير عم يستمتعوا",
+          "Tom and Mary didn't really seem to be enjoying themselves.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "كلب",
+      "translations": [
+        "dog",
+        "canine",
+        "puppy",
+        "hound"
       ],
       "usageExamples": []
     },
     {
-      "content": "ع",
+      "content": "البسينة",
       "translations": [
-        "A",
-        "Alif",
-        "Letter A",
-        "First letter of the Arabic alphabet"
+        "The little girl",
+        "The young girl",
+        "The small girl"
       ],
       "usageExamples": []
     },
     {
-      "content": "السوق",
+      "content": "سودة",
       "translations": [
-        "the market",
-        "the souk",
-        "the bazaar",
-        "the marketplace"
+        "black",
+        "dark",
+        "blackness",
+        "sorrow"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "الكلب",
+      "translations": [
+        "the dog",
+        "a dog",
+        "canine"
+      ],
+      "usageExamples": [
+        [
+          "مشّت الكلب تبعها",
+          "She took her dog for a walk.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "أبيض",
+      "translations": [
+        "white",
+        "clear",
+        "pure",
+        "blank"
       ],
       "usageExamples": []
     }

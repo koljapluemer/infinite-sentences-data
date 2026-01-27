@@ -1,49 +1,76 @@
 {
-  "sentence": "Por favor, vayan abajo.",
+  "sentence": "Escriba a su congresista.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please come downstairs."
+    "Write your congressman."
   ],
   "parts": [
     {
-      "content": "Por",
+      "content": "Escriba",
       "translations": [
-        "for",
-        "by",
-        "through",
-        "per"
+        "Write.",
+        "Write down",
+        "Type"
       ],
       "usageExamples": []
     },
     {
-      "content": "favor",
+      "content": "a",
       "translations": [
-        "favor",
-        "favoritism",
-        "kindness",
-        "support"
+        "to"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ellos ahora están a bordo del barco.",
+          "They are now aboard the ship.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "vayan",
+      "content": "su",
       "translations": [
-        "go",
-        "let's go",
-        "they go",
-        "you all go"
+        "his",
+        "her",
+        "its"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella quiere cerrar su pequeño negocio.",
+          "She wants to wind up her small business.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Él sería la última persona en romper su palabra.",
+          "He would be the last man to break his word.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "abajo",
+      "content": "congresista",
       "translations": [
-        "down",
-        "below",
-        "under"
+        "congressman",
+        "congresswoman",
+        "legislator"
       ],
       "usageExamples": []
     }

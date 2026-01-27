@@ -1,26 +1,35 @@
 {
-  "sentence": "Ismini sevdim.",
+  "sentence": "Kaç işlem yaptın?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mir gefällt dein Vorname."
+    "Wie viel Abfertigung hast du bekommen?"
   ],
   "parts": [
     {
-      "content": "Ismini",
+      "content": "Kaç",
       "translations": [
-        "dein Name",
-        "dein Vorname"
+        "Wie viel",
+        "Wie viele"
       ],
       "usageExamples": []
     },
     {
-      "content": "sevdim",
+      "content": "işlem",
       "translations": [
-        "ich habe geliebt",
-        "ich liebte"
+        "Prozess",
+        "Vorgang",
+        "Operation"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "yaptın",
+      "translations": [
+        "du hast gemacht",
+        "du hast getan"
       ],
       "usageExamples": []
     }

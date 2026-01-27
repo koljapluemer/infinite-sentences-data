@@ -1,72 +1,91 @@
 {
-  "sentence": "Non vuole fermarla.",
+  "sentence": "Mary spera di poter vincere.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He doesn't want to stop her."
+    "Mary hopes that she can win."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Mary",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Non voglio guardarlo.",
-          "I don't want to look at him.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "spera",
+      "translations": [
+        "hope",
+        "expectation",
+        "wish",
+        "trust"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
         [
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vuole",
+      "content": "poter",
       "translations": [
-        "wants",
-        "desires",
-        "wishes",
-        "intends"
+        "to be able",
+        "can",
+        "to have the ability",
+        "to be capable of"
       ],
-      "usageExamples": [
-        [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mia madre vuole che io studi in Svizzera.",
-          "My mother wants me to study in Switzerland.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary vuole che i suoi genitori le comprino un pony.",
-          "Mary wants her parents to buy her a pony.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "fermarla",
+      "content": "vincere",
       "translations": [
-        "stop it",
-        "halt it",
-        "hold it",
-        "prevent it"
+        "to win",
+        "to conquer",
+        "to defeat",
+        "to overcome"
       ],
       "usageExamples": []
     }

@@ -1,41 +1,94 @@
 {
-  "sentence": "بيتكلم أسباني و فرنساوي كمان.",
+  "sentence": "توم كان مشغول وأنا كمان كنت مشغول.",
   "credits": [
     "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by blay_paul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He speaks Spanish as well as French."
+    "Tom was busy and so was I."
   ],
   "parts": [
     {
-      "content": "بيتكلم",
+      "content": "توم",
       "translations": [
-        "He is talking",
-        "He speaks",
-        "He is speaking."
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أسباني",
-      "translations": [
-        "Spanish",
-        "Spanish person"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "فرنساوي",
-      "translations": [
-        "French",
-        "French person"
+        "you",
+        "you (singular)"
       ],
       "usageExamples": [
         [
-          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
-          "You're the only one working here who can speak French.",
+          "توم مبيشربش شاي.",
+          "Tom doesn't drink tea.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم ريحته في المكان.",
+          "This place smells like Tom.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "كان",
+      "translations": [
+        "was",
+        "were",
+        "used to be",
+        "are",
+        "be",
+        "exist",
+        "will",
+        "have",
+        "could have",
+        "was a"
+      ],
+      "usageExamples": [
+        [
+          "كان محتاج نضّارة.",
+          "He needed glasses.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "إمبارح كان الجو جميل",
+          "yesterday the weather was beautiful",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "إذا كان معك فلوس، سلّفني خمسين جنيه",
+          "If you have some money, lend me fifty pounds",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "مشغول",
+      "translations": [
+        "busy",
+        "occupied"
+      ],
+      "usageExamples": [
+        [
+          "أوقات بكون مشغول أوي",
+          "sometimes I am very busy",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "وأنا",
+      "translations": [
+        "And I",
+        "As for me"
+      ],
+      "usageExamples": [
+        [
+          "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
+          "\"She likes music.\" \"So do I.\"",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -54,13 +107,43 @@
           "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
         [
+          "بيتكلم أسباني و فرنساوي كمان.",
+          "He speaks Spanish as well as French.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
           "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
           "\"She likes music.\" \"So do I.\"",
           "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "كنت",
+      "translations": [
+        "I was",
+        "I used to be",
+        "I have been",
+        "was",
+        "be",
+        "exist",
+        "will",
+        "have"
+      ],
+      "usageExamples": [
+        [
+          "كنت هنا امبارح.",
+          "I was just here yesterday.",
+          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
         ],
         [
-          "توم كان مشغول وأنا كمان كنت مشغول.",
-          "Tom was busy and so was I.",
+          "كنت بحلم.",
+          "I was dreaming.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت في المستشفى.",
+          "I was in the hospital.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]

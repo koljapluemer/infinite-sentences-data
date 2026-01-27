@@ -1,56 +1,68 @@
 {
-  "sentence": "أي كتاب أحسن؟",
+  "sentence": "إستحالة أعمل كده.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Which book is better?"
+    "There's no way I'm going to do that."
   ],
   "parts": [
     {
-      "content": "أي",
+      "content": "إستحالة",
       "translations": [
-        "any",
-        "which",
-        "either",
-        "whichever"
+        "impossibility",
+        "infeasibility",
+        "unfeasibility"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "أعمل",
+      "translations": [
+        "I work.",
+        "I do",
+        "I make",
+        "make"
       ],
       "usageExamples": [
         [
-          "مفيش أي مشاكل.",
-          "There are no problems.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "مفيش أي غلط.",
-          "There's no mistake.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
-          "I think being poor is nothing to be ashamed of.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "عايزة أعمل توست على الفطار",
+          "I(f) want to make toast for breakfast",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "كتاب",
+      "content": "كده",
       "translations": [
-        "book",
-        "a book"
+        "like this",
+        "this way",
+        "so",
+        "like that",
+        "moreover",
+        "this one",
+        "this",
+        "that",
+        "in this way"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "أحسن",
-      "translations": [
-        "better",
-        "best",
-        "improved",
-        "excellent"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "مش هسيبك تعملي كده.",
+          "I won't let you do this.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "بيتي بنت جميلة، مش كده؟",
+          "Betty is a pretty girl, isn't she?",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "هُمَّ فاكرين نفسهم جامدين كده ليه؟",
+          "why do they think they are so cool?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
     }
   ]
 }

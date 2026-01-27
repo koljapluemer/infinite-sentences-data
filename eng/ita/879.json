@@ -1,71 +1,81 @@
 {
-  "sentence": "Tom è famoso.",
+  "sentence": "Spesso la paella include lumache.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by papabear (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is famous.",
-    "Tom's famous."
+    "Paella often includes snails."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Spesso",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "often",
+        "frequently",
+        "many times",
+        "regularly"
       ],
       "usageExamples": [
         [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Spesso un gesto vale più di mille parole.",
+          "One gesture is often worth more than a thousand words.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "la",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mangia finché è caldo.",
-          "Eat while it's warm.",
+          "Ha perso la partita.",
+          "She lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il tempo è finito.",
-          "Time is up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "famoso",
+      "content": "paella",
       "translations": [
-        "famous",
-        "well-known",
-        "renowned",
-        "celebrated"
+        "Spanish rice dish",
+        "seafood and rice casserole",
+        "traditional Valencian dish"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "include",
+      "translations": [
+        "to include",
+        "to incorporate",
+        "to contain",
+        "to comprise"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "lumache",
+      "translations": [
+        "snails",
+        "escargot",
+        "land snails",
+        "shellfish"
       ],
       "usageExamples": []
     }

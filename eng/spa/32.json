@@ -1,146 +1,75 @@
 {
-  "sentence": "Pretendo decirle a Tom que no quiero ir.",
+  "sentence": "Eso ocurrió hace mucho tiempo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I plan to tell Tom that I don't want to go."
+    "It happened a long time ago."
   ],
   "parts": [
     {
-      "content": "Pretendo",
+      "content": "Eso",
       "translations": [
-        "I intend",
-        "I plan",
-        "I aim",
-        "I expect"
+        "That",
+        "It"
       ],
       "usageExamples": []
     },
     {
-      "content": "decirle",
+      "content": "hace",
       "translations": [
-        "to tell him/her",
-        "to say to him/her"
+        "it makes",
+        "it does",
+        "ago",
+        "there is"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "mucho",
       "translations": [
-        "to"
+        "a lot",
+        "much",
+        "many",
+        "very"
       ],
       "usageExamples": [
+        [
+          "Dijo que tenía mucho dinero.",
+          "He said that he had a lot of money.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No caí en la cuenta hasta mucho después.",
+          "I didn't realize it until much later.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tiempo",
+      "translations": [
+        "time",
+        "weather"
+      ],
+      "usageExamples": [
+        [
+          "Ayer tuvimos buen tiempo.",
+          "We had nice weather yesterday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No tengo tiempo.",
+          "I don't have time.",
+          ""
+        ],
         [
           "Llegaste a tiempo.",
           "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Escriba a su congresista.",
-          "Write your congressman.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ten tu pistola a mano.",
-          "Keep your gun handy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Tom",
-        "Thomas"
-      ],
-      "usageExamples": [
-        [
-          "La casa de Tom tiene grandes ventanas.",
-          "Tom's house has large windows.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se está lavando la cara.",
-          "Tom is washing his face.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se pegó un tiro en la cabeza.",
-          "Tom shot himself in the head.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "que",
-      "translations": [
-        "that",
-        "which"
-      ],
-      "usageExamples": [
-        [
-          "¿Sabes lo que dijo Mary?",
-          "Do you know what Mary said?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
-          "This is the way the world ends. Not with a bang but a whimper.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ése ha sido mi sueño desde que era una niña pequeña.",
-          "It's been my dream since I was a little girl.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "no",
-      "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El té sabe muy amargo y no está bueno.",
-          "The tea is really bitter and doesn't taste good.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "quiero",
-      "translations": [
-        "I want",
-        "I would like"
-      ],
-      "usageExamples": [
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ir",
-      "translations": [
-        "to go",
-        "to be going"
-      ],
-      "usageExamples": []
     }
   ]
 }

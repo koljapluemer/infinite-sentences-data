@@ -1,13 +1,59 @@
 {
-  "sentence": "Tom l'ha fatta per voi.",
+  "sentence": "Scusami, sto cercando Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom did it for you."
+    "Excuse me, I'm looking for Tom."
   ],
   "parts": [
+    {
+      "content": "Scusami",
+      "translations": [
+        "Excuse me.",
+        "Sorry.",
+        "Pardon me",
+        "My apologies"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sto",
+      "translations": [
+        "I stand",
+        "I am standing",
+        "I stay",
+        "I am staying"
+      ],
+      "usageExamples": [
+        [
+          "Mi sto riposando ora.",
+          "I'm resting now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sto diventando piccolo!",
+          "I am getting small!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sto per andare in vacanza.",
+          "I'm about to go on vacation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cercando",
+      "translations": [
+        "searching",
+        "looking for",
+        "seeking",
+        "hunting"
+      ],
+      "usageExamples": []
+    },
     {
       "content": "Tom",
       "translations": [
@@ -16,111 +62,18 @@
       ],
       "usageExamples": [
         [
-          "Non lasciate guidare Tom.",
-          "Don't let Tom drive.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Mi descriva Tom.",
           "Describe Tom to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io appoggiavo Tom.",
-          "I used to support Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "l'ha",
-      "translations": [
-        "he has it",
-        "she has it",
-        "it has",
-        "he's got it"
-      ],
-      "usageExamples": [
-        [
-          "Tom non l'ha mostrato a Mary.",
-          "Tom didn't show that to Mary.",
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei l'ha colpito con un martello.",
-          "She hit him with a hammer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non me l'ha restituita.",
-          "Tom didn't give it back to me.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "fatta",
-      "translations": [
-        "made",
-        "done",
-        "created",
-        "produced"
-      ],
-      "usageExamples": [
-        [
-          "Loro l'hanno fatta davvero.",
-          "They really did it.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "per",
-      "translations": [
-        "for",
-        "by",
-        "through"
-      ],
-      "usageExamples": [
-        [
-          "Sei speciale per me.",
-          "You're special to me.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono preparata per morire.",
-          "I'm prepared to die.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "voi",
-      "translations": [
-        "you (plural)",
-        "you all",
-        "you guys",
-        "y'all"
-      ],
-      "usageExamples": [
-        [
-          "Odio tornare da lui. Voglio vivere con voi.",
-          "I hate going back to him. I want to live with you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non farei niente per Tom se fossi in voi.",
-          "I wouldn't do anything for Tom if I were you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "OK, mi ricorderò di voi.",
-          "OK, I'll remind you.",
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

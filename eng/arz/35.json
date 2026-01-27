@@ -1,40 +1,78 @@
 {
-  "sentence": "بتتكلم انجليزي؟",
+  "sentence": "توم اضطر يروح المستشفى.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you speak English?"
+    "Tom had to go to the hospital."
   ],
   "parts": [
     {
-      "content": "بتتكلم",
+      "content": "توم",
       "translations": [
-        "You are talking",
-        "You speak.",
-        "Are you talking?",
-        "You are speaking."
+        "you",
+        "you (singular)"
       ],
       "usageExamples": [
         [
-          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
-          "You're the only one working here who can speak French.",
+          "توم مبيشربش شاي.",
+          "Tom doesn't drink tea.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مابصش عليها حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مبيعرفش يلعب تنس.",
+          "Tom can't play tennis.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "اضطر",
+      "translations": [
+        "to force",
+        "to compel",
+        "to necessitate",
+        "to urge"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "يروح",
+      "translations": [
+        "to go",
+        "to leave",
+        "to head out"
+      ],
+      "usageExamples": [
+        [
+          "هيضطر يروح هناك.",
+          "He will have to go there.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "انجليزي",
+      "content": "المستشفى",
       "translations": [
-        "English.",
-        "in English."
+        "the hospital",
+        "hospital"
       ],
       "usageExamples": [
         [
-          "بتتكلمي انجليزي؟",
-          "Do you speak English?",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+          "عايز أروح المستشفى.",
+          "I want to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت في المستشفى.",
+          "I was in the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     }

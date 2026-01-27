@@ -1,171 +1,82 @@
 {
-  "sentence": "Qual è la tua canzone preferita dei Rolling Stones?",
+  "sentence": "Non lasciate guidare Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's your favorite song by the Rolling Stones?"
+    "Don't let Tom drive."
   ],
   "parts": [
     {
-      "content": "Qual",
+      "content": "Non",
       "translations": [
-        "Which",
-        "What",
-        "What kind of",
-        "What type of"
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
+      ],
+      "usageExamples": [
+        [
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lasciate",
+      "translations": [
+        "let go",
+        "leave behind",
+        "abandon",
+        "allow"
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "guidare",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
-      ],
-      "usageExamples": [
-        [
-          "Il tempo è finito.",
-          "Time is up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è addolcito.",
-          "Tom relented.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è un esperto.",
-          "Tom is a pro.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Apprezzo la tua onestà.",
-          "I appreciate your honesty.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha perso la partita.",
-          "She lost the game.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai guardato la partita?",
-          "Did you watch the game?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tua",
-      "translations": [
-        "your",
-        "yours",
-        "of you",
-        "belonging to you"
-      ],
-      "usageExamples": [
-        [
-          "Apprezzo la tua onestà.",
-          "I appreciate your honesty.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
-          "\"Where's your girlfriend from?\" \"She's Russian.\"",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu lasceresti tua moglie per me?",
-          "Would you leave your wife for me?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "canzone",
-      "translations": [
-        "song",
-        "tune",
-        "track",
-        "melody"
-      ],
-      "usageExamples": [
-        [
-          "Che canzone strana...",
-          "What a weird song...",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "preferita",
-      "translations": [
-        "favorite",
-        "preferred",
-        "most liked",
-        "chosen"
+        "to drive",
+        "to guide",
+        "to lead",
+        "to steer"
       ],
       "usageExamples": []
     },
     {
-      "content": "dei",
+      "content": "Tom",
       "translations": [
-        "gods",
-        "deities",
-        "divine beings",
-        "spirits"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Mi servono dei francobolli.",
-          "I need stamps.",
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ziri mangiò dei datteri.",
-          "Ziri ate dates.",
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non mandarmi dei messaggi.",
-          "Don't send me messages.",
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "Rolling",
-      "translations": [
-        "To roll",
-        "Rolling motion",
-        "Rolling action"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Stones",
-      "translations": [
-        "Rocks",
-        "Pebbles",
-        "Boulders",
-        "Minerals"
-      ],
-      "usageExamples": []
     }
   ]
 }

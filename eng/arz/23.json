@@ -1,46 +1,51 @@
 {
-  "sentence": "البضاعة وصلت امبارح.",
+  "sentence": "المجرم ارتكب جريمة فظيعة.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The goods arrived yesterday."
+    "The criminal committed a horrible crime."
   ],
   "parts": [
     {
-      "content": "البضاعة",
+      "content": "المجرم",
       "translations": [
-        "the goods",
-        "the merchandise",
-        "the products",
-        "the items"
+        "the criminal",
+        "the offender",
+        "the perpetrator"
       ],
       "usageExamples": []
     },
     {
-      "content": "وصلت",
+      "content": "ارتكب",
       "translations": [
-        "arrived",
-        "reached",
-        "got here",
-        "came"
+        "committed",
+        "perpetrated",
+        "engaged in",
+        "carried out"
       ],
       "usageExamples": []
     },
     {
-      "content": "امبارح",
+      "content": "جريمة",
       "translations": [
-        "yesterday",
-        "last night"
+        "crime",
+        "offense",
+        "felony",
+        "wrongdoing"
       ],
-      "usageExamples": [
-        [
-          "كنت هنا امبارح.",
-          "I was just here yesterday.",
-          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "فظيعة",
+      "translations": [
+        "terrible",
+        "awful",
+        "horrible",
+        "dreadful"
+      ],
+      "usageExamples": []
     }
   ]
 }

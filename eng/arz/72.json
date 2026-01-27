@@ -1,55 +1,81 @@
 {
-  "sentence": "عايز أكون ساحر.",
+  "sentence": "كنت هنا امبارح.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I want to be a magician."
+    "I was just here yesterday."
   ],
   "parts": [
     {
-      "content": "عايز",
+      "content": "كنت",
       "translations": [
-        "I want",
-        "I need",
-        "I would like"
+        "I was",
+        "I used to be",
+        "I have been",
+        "was",
+        "be",
+        "exist",
+        "will",
+        "have"
       ],
       "usageExamples": [
         [
-          "عايز أروح المستشفى.",
-          "I want to go to the hospital.",
+          "كنت في المستشفى.",
+          "I was in the hospital.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "عايز أروّح البيت دلوقتي.",
-          "I would like to go home now.",
+          "كنت بحلم.",
+          "I was dreaming.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "قولّهم أنت عايز تعمل ايه.",
-          "Tell them what you want to do.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "أنا كنت في سيناء من قريب",
+          "I was in Sinai recently",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "أكون",
+      "content": "هنا",
       "translations": [
-        "I am.",
-        "I will be",
-        "I become"
+        "here",
+        "this place",
+        "here?"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "لازم تتكلم بالإنجليزي هنا.",
+          "You have to speak English here.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "عايز أستعلم عن أسعار الرحلات هنا",
+          "I need to enquire about the prices for the tours here",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "عايز توقيع ولي الأمر هنا",
+          "I need the guardian's signature here",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
     },
     {
-      "content": "ساحر",
+      "content": "امبارح",
       "translations": [
-        "sorcerer",
-        "magician",
-        "wizard"
+        "yesterday",
+        "last night"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "البضاعة وصلت امبارح.",
+          "The goods arrived yesterday.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

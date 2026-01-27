@@ -1,63 +1,56 @@
 {
-  "sentence": "Io ho le mani grandi.",
+  "sentence": "Ehi, Tom, dimentica le tue paure.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lindoula (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have big hands."
+    "Hey, Tom, forget about your worries."
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "Ehi",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "Hey.",
+        "Hello.",
+        "Hi.",
+        "Yo"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Io parlo bosniaco.",
-          "I speak Bosnian.",
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io l'ho comprata.",
-          "I bought it.",
+          "Tom sembra impegnato.",
+          "Tom looks busy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io consegno pizze.",
-          "I deliver pizzas.",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ho",
+      "content": "dimentica",
       "translations": [
-        "I have",
-        "I've got",
-        "I possess",
-        "I own"
+        "forget",
+        "overlook",
+        "neglect",
+        "dismiss"
       ],
-      "usageExamples": [
-        [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io l'ho comprata.",
-          "I bought it.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi scuso se ho ferito i suoi sentimenti.",
-          "I apologize if I hurt your feelings.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "le",
@@ -69,47 +62,40 @@
       ],
       "usageExamples": [
         [
-          "Non le vogliamo là.",
-          "We don't want them there.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Non le può licenziare.",
           "You can't fire them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non capisco perché non tutte le ragazze sono lesbiche.",
-          "I don't get why not all girls are lesbians.",
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
+          "Tom should've closed all his windows.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mani",
+      "content": "tue",
       "translations": [
-        "hands",
-        "paws",
-        "claws",
-        "fingers"
+        "your",
+        "yours",
+        "of you"
       ],
       "usageExamples": []
     },
     {
-      "content": "grandi",
+      "content": "paure",
       "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
+        "fear",
+        "scare",
+        "anxiety",
+        "dread"
       ],
-      "usageExamples": [
-        [
-          "I contadini più stupidi hanno le patate più grandi.",
-          "The dumbest farmers have the biggest potatoes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

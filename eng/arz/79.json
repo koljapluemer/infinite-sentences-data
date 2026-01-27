@@ -1,82 +1,111 @@
 {
-  "sentence": "قولّهم أنت عايز تعمل ايه.",
+  "sentence": "ما افتكرش ان الفقر عيب.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by jakov (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tell them what you want to do."
+    "I think being poor is nothing to be ashamed of."
   ],
   "parts": [
     {
-      "content": "قولّهم",
+      "content": "ما",
       "translations": [
-        "Tell them.",
-        "Say to them"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أنت",
-      "translations": [
-        "You",
-        "You are"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "عايز",
-      "translations": [
-        "I want",
-        "I need",
-        "I would like"
+        "what",
+        "what is it",
+        "what's up",
+        "before",
+        "somewhere",
+        "everywhere",
+        "don't",
+        "come",
+        "come (to)",
+        "turn up (at)",
+        "until",
+        "till",
+        "without",
+        "has not",
+        "not",
+        "is not",
+        "will not"
       ],
       "usageExamples": [
         [
-          "عايز أروّح البيت دلوقتي.",
-          "I would like to go home now.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "ما عملتش حاجة غلط.",
+          "I haven't done anything wrong.",
+          "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
         ],
         [
-          "عايز أكون ساحر.",
-          "I want to be a magician.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "ما بطيقوش.",
+          "I can't stand him.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
         [
-          "عايز أروح المستشفى.",
-          "I want to go to the hospital.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "عمري ما حبيت البيولوجي.",
+          "I never liked biology.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "تعمل",
+      "content": "افتكرش",
       "translations": [
-        "to work",
-        "to operate",
-        "to function",
-        "to act"
+        "I don't think so.",
+        "I don't believe so",
+        "I doubt it",
+        "I don't reckon"
+      ],
+      "usageExamples": [
+        [
+          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
+          "I think being poor is nothing to be ashamed of.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ان",
+      "translations": [
+        "and",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
+          "I think being poor is nothing to be ashamed of.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "الفقر",
+      "translations": [
+        "poverty",
+        "destitution",
+        "indigence",
+        "lack of resources"
       ],
       "usageExamples": []
     },
     {
-      "content": "ايه",
+      "content": "عيب",
       "translations": [
-        "What?",
-        "Yes.",
-        "Oh.",
-        "Really?"
+        "shame",
+        "fault",
+        "defect",
+        "disgrace",
+        "vice"
       ],
       "usageExamples": [
         [
-          "مش فاهم قصدك ايه.",
-          "I don't know what you mean.",
-          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
+          "I think being poor is nothing to be ashamed of.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
         [
-          "ايه عنوان سكنك؟",
-          "What's your home address?",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "عيب الراجل ده إنه بيكلم كتير",
+          "that man's vice is that he talks a lot",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     }

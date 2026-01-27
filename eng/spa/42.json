@@ -1,68 +1,68 @@
 {
-  "sentence": "Yo también lo creo.",
+  "sentence": "Llegaste a tiempo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Ploomich (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I also think so."
+    "You arrived on time."
   ],
   "parts": [
     {
-      "content": "Yo",
+      "content": "Llegaste",
       "translations": [
-        "I",
-        "Me"
+        "You arrived",
+        "You have arrived",
+        "You came"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "to"
       ],
       "usageExamples": [
         [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Robert ayudó a Sandra a bajar del árbol.",
+          "Robert helped Sandra down the tree.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "también",
+      "content": "tiempo",
       "translations": [
-        "also",
-        "too",
-        "as well"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "lo",
-      "translations": [
-        "the",
-        "it"
+        "time",
+        "weather"
       ],
       "usageExamples": [
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "No tengo tiempo.",
+          "I'm out of time.",
+          ""
         ],
         [
-          "Nadie lo diría.",
-          "No one would say it.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "El tiempo vuela.",
+          "Time flies.",
+          ""
         ],
         [
-          "¿Sabes lo que dijo Mary?",
-          "Do you know what Mary said?",
+          "Ayer tuvimos buen tiempo.",
+          "We had nice weather yesterday.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "creo",
-      "translations": [
-        "I believe",
-        "I think.",
-        "I create"
-      ],
-      "usageExamples": []
     }
   ]
 }

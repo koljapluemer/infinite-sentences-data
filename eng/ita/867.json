@@ -1,13 +1,101 @@
 {
-  "sentence": "Tom sta perdendo la concentrazione.",
+  "sentence": "Sono ancora sposato con Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is losing his concentration."
+    "I'm still married to Tom."
   ],
   "parts": [
+    {
+      "content": "Sono",
+      "translations": [
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ancora",
+      "translations": [
+        "anchor",
+        "still",
+        "yet",
+        "also"
+      ],
+      "usageExamples": [
+        [
+          "Non siamo ancora molto affamati.",
+          "We aren't very hungry yet.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
+          "The train is taking off and we haven't bought our tickets!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che sei ancora arrabbiata con me.",
+          "I know you're still mad at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sposato",
+      "translations": [
+        "married",
+        "spouse",
+        "wedded",
+        "in a marital relationship"
+      ],
+      "usageExamples": [
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non è sposato con Tom?",
+          "Aren't you married to Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sappiamo nemmeno con chi si è sposato Tom.",
+          "We don't even know who Tom got married to.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
+      ],
+      "usageExamples": [
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
     {
       "content": "Tom",
       "translations": [
@@ -16,93 +104,21 @@
       ],
       "usageExamples": [
         [
-          "Tom ha molti amici?",
-          "Does Tom have lots of friends?",
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un esperto.",
-          "Tom is a pro.",
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "sta",
-      "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
-      ],
-      "usageExamples": [
-        [
-          "Cosa la sta causando?",
-          "What's causing it?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta gemendo.",
-          "Tom is groaning.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta lavorando, vero?",
-          "Tom is working, isn't he?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "perdendo",
-      "translations": [
-        "losing",
-        "by losing",
-        "in losing",
-        "while losing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Apprezzo la tua onestà.",
-          "I appreciate your honesty.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dovette pulire la cucina.",
-          "He had to clean the kitchen.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "concentrazione",
-      "translations": [
-        "concentration",
-        "focus",
-        "attention",
-        "intensity"
-      ],
-      "usageExamples": []
     }
   ]
 }

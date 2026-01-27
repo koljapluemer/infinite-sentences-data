@@ -1,29 +1,81 @@
 {
-  "sentence": "Tamamen unutmuşum.",
+  "sentence": "Tom'dan korktuğumu kim söylüyor?",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich hatte es völlig vergessen."
+    "Wer sagt, dass ich Angst vor Tom hätte?"
   ],
   "parts": [
     {
-      "content": "Tamamen",
+      "content": "Tom",
       "translations": [
-        "vollständig",
-        "ganz",
-        "komplett"
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom'u çağırmamı ister misiniz?",
+          "Wollen Sie, dass ich Tom rufe?",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom, buna vaktimiz yok!",
+          "Tom, wir haben dafür keine Zeit!",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dan",
+      "translations": [
+        "von",
+        "aus"
       ],
       "usageExamples": []
     },
     {
-      "content": "unutmuşum",
+      "content": "korktuğumu",
       "translations": [
-        "ich habe vergessen",
-        "ich habe es vergessen"
+        "ich habe Angst",
+        "ich habe Angst gehabt"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "kim",
+      "translations": [
+        "wer",
+        "jemand"
+      ],
+      "usageExamples": [
+        [
+          "Bu da kim?",
+          "Wer ist das denn?",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "söylüyor",
+      "translations": [
+        "sagt",
+        "er sagt",
+        "sie sagt",
+        "man sagt"
+      ],
+      "usageExamples": [
+        [
+          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
+          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
+          "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,132 +1,115 @@
 {
-  "sentence": "Tom corse per prendere l'ultimo treno.",
+  "sentence": "Questo messaggio non ha senso.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by iltrex (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom ran to catch the last train."
+    "This message doesn't make sense."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Questo",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "This",
+        "This one",
+        "This thing",
+        "This item"
       ],
       "usageExamples": [
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
+          "Questo è un test?",
+          "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io so com'era Tom.",
-          "I know how Tom used to be.",
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "corse",
+      "content": "messaggio",
       "translations": [
-        "course",
-        "path",
-        "route",
-        "track"
+        "message",
+        "note",
+        "communication",
+        "notification"
+      ],
+      "usageExamples": [
+        [
+          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
+          "Tom received an urgent message to call his wife.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "senso",
+      "translations": [
+        "sense",
+        "meaning",
+        "feeling",
+        "perception"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "per",
-      "translations": [
-        "for",
-        "by",
-        "through"
-      ],
-      "usageExamples": [
-        [
-          "Mandatela per posta aerea.",
-          "Send it by airmail.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hey, grazie per l'aiuto.",
-          "Hey, thanks for the help.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "prendere",
-      "translations": [
-        "to take",
-        "to grab",
-        "to catch",
-        "to seize"
-      ],
-      "usageExamples": [
-        [
-          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
-          "He moved to Madrid to take the reins of his father's business.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
-          "He doesn't want to take responsibility for what he did.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Odio prendere i mezzi pubblici.",
-          "I hate taking public transportation.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "l'ultimo",
-      "translations": [
-        "the last",
-        "the latest",
-        "the final"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "treno",
-      "translations": [
-        "train",
-        "railway",
-        "locomotive",
-        "train service"
-      ],
-      "usageExamples": [
-        [
-          "Non so se lui verrà in treno o in auto.",
-          "I don't know whether he'll come by train or by car.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
-          "The train is taking off and we haven't bought our tickets!",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Siamo arrivati ieri in treno.",
-          "We arrived yesterday afternoon by train.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

@@ -1,73 +1,93 @@
 {
-  "sentence": "Sta mangiando del gelato.",
+  "sentence": "Qualcuno sta osservando Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She's eating ice cream."
+    "Someone is watching Tom."
   ],
   "parts": [
     {
-      "content": "Sta",
+      "content": "Qualcuno",
+      "translations": [
+        "Someone",
+        "Somebody",
+        "Anyone",
+        "A person"
+      ],
+      "usageExamples": [
+        [
+          "Qualcuno ha rubato la mia borsa.",
+          "Somebody has stolen my bag.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno ha pugnalato l'uomo nella gamba.",
+          "Someone stabbed the man in the leg.",
+          "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sta",
       "translations": [
         "is",
         "stands",
-        "stays",
-        "remains"
+        "is located",
+        "exists"
       ],
       "usageExamples": [
         [
-          "Sta guidando.",
-          "He's driving.",
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li sta confondendo.",
+          "You're confusing them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mangiando",
+      "content": "osservando",
       "translations": [
-        "eating",
-        "while eating",
-        "during eating",
-        "in the act of eating"
+        "observing",
+        "watching",
+        "noticing",
+        "monitoring"
       ],
       "usageExamples": []
     },
     {
-      "content": "del",
+      "content": "Tom",
       "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Yanni comprò del cibo.",
-          "Yanni bought food.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Un gruppo di gangster ha rubato del denaro.",
-          "A group of gangsters stole money.",
+          "Tom sembra compiaciuto.",
+          "Tom looks smug.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io ho preparato dello spezzatino.",
-          "I've made stew.",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "gelato",
-      "translations": [
-        "ice cream",
-        "Italian ice cream",
-        "frozen dessert"
-      ],
-      "usageExamples": []
     }
   ]
 }

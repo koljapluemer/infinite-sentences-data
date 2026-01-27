@@ -1,64 +1,84 @@
 {
-  "sentence": "عمري ما حبيت البيولوجي.",
+  "sentence": "لازم تتكلم بالإنجليزي هنا.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by brauliobezerra (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I never liked biology."
+    "You have to speak English here."
   ],
   "parts": [
     {
-      "content": "عمري",
+      "content": "لازم",
       "translations": [
-        "my age",
-        "my life",
-        "my time"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ما",
-      "translations": [
-        "what",
-        "what is it",
-        "what's up"
+        "necessary",
+        "must",
+        "required",
+        "essential",
+        "have to",
+        "need (to)",
+        "need to"
       ],
       "usageExamples": [
         [
-          "ما عملتش حاجة غلط.",
-          "I haven't done anything wrong.",
-          "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+          "أنا لازم أشتري عروسة",
+          "I need to buy a doll",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "ما بطيقوش.",
-          "I can't stand him.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "خُصوصاً في الظُروف الحالية لازم تاخد بالك من استهلاك المياه",
+          "especially in the current circumstances you have to take care with water consumption",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "ما تعاملش الناس بناءً على جنسيتهم أو جنسهم أو شغلهم.",
-          "Don't discriminate against people based on nationality, gender, or occupation.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "الناس لازم تخلي المبنى في الحال",
+          "people must leave the building right away",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "حبيت",
+      "content": "تتكلم",
       "translations": [
-        "I loved",
-        "I liked",
-        "I have loved",
-        "I have liked"
+        "talking",
+        "speaking",
+        "you speak",
+        "to speak"
       ],
       "usageExamples": []
     },
     {
-      "content": "البيولوجي",
+      "content": "بالإنجليزي",
       "translations": [
-        "biological",
-        "the biologist"
+        "in English.",
+        "in the English language"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "هنا",
+      "translations": [
+        "here",
+        "this place",
+        "here?"
+      ],
+      "usageExamples": [
+        [
+          "كنت هنا امبارح.",
+          "I was just here yesterday.",
+          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+        ],
+        [
+          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
+          "You're the only one working here who can speak French.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "عايز توقيع ولي الأمر هنا",
+          "I need the guardian's signature here",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
     }
   ]
 }

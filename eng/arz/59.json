@@ -1,56 +1,91 @@
 {
-  "sentence": "جرب كمان مرة.",
+  "sentence": "عايز أروح المستشفى.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Try it again."
+    "I want to go to the hospital."
   ],
   "parts": [
     {
-      "content": "جرب",
+      "content": "عايز",
       "translations": [
-        "try",
-        "test",
-        "attempt"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "كمان",
-      "translations": [
-        "also",
-        "too",
-        "as well",
-        "again"
+        "I want",
+        "I need",
+        "I would like",
+        "want",
+        "wanting",
+        "want?",
+        "need",
+        "need (to)",
+        "need to"
       ],
       "usageExamples": [
         [
-          "توم كان مشغول وأنا كمان كنت مشغول.",
-          "Tom was busy and so was I.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "عايز كام بيضة؟",
+          "how many eggs do you want?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "بيتكلم أسباني و فرنساوي كمان.",
-          "He speaks Spanish as well as French.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "عايز شيبسي مع مشروبك؟",
+          "Do you(m) want (some) crisps with your drink?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
-          "\"She likes music.\" \"So do I.\"",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+          "عايز تشرب حلبة؟",
+          "Do you want to drink fenugreek?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "مرة",
+      "content": "أروح",
       "translations": [
-        "once",
-        "a time",
-        "one time"
+        "I go",
+        "I'm going.",
+        "I will go.",
+        "I'll go.",
+        "go to",
+        "go (to)",
+        "going"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "أنا قادرة أروح الشغل",
+          "I(f) am able to go to work",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "هاخدلي تعسيله قبل ما أروح الشغل",
+          "I will take a nap before I go to work",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "عايز أروح المرور علشان أطلع الرخصة",
+          "I want to go to the traffic office to get my licence",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "المستشفى",
+      "translations": [
+        "the hospital",
+        "hospital"
+      ],
+      "usageExamples": [
+        [
+          "توم اضطر يروح المستشفى.",
+          "Tom had to go to the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "كنت في المستشفى.",
+          "I was in the hospital.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

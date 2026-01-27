@@ -1,48 +1,72 @@
 {
-  "sentence": "Inscatola questo.",
+  "sentence": "Domani andiamo in montagna.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Eccles17 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by gcaplan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Box this up."
+    "Tomorrow we'll go to the mountains."
   ],
   "parts": [
     {
-      "content": "Inscatola",
+      "content": "Domani",
       "translations": [
-        "boxed",
-        "packaged",
-        "in a box",
-        "enclosed"
+        "Tomorrow",
+        "Next day",
+        "The following day"
       ],
       "usageExamples": []
     },
     {
-      "content": "questo",
+      "content": "andiamo",
       "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
+        "let's go",
+        "we go",
+        "come on",
+        "let's move"
       ],
       "usageExamples": [
         [
-          "Prenda questo denaro.",
-          "Take this money.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Trasporti questo.",
-          "Carry this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
+          "Adesso che abbiamo mangiato, andiamo.",
+          "Now that we have eaten, let's go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "montagna",
+      "translations": [
+        "mountain",
+        "mount",
+        "peak",
+        "hill"
+      ],
+      "usageExamples": []
     }
   ]
 }

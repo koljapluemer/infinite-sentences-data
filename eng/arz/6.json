@@ -1,11 +1,11 @@
 {
-  "sentence": "أنا كرهتها.",
+  "sentence": "أنا لسه شايفه.",
   "credits": [
     "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I hated her."
+    "I just saw him."
   ],
   "parts": [
     {
@@ -13,31 +13,67 @@
       "translations": [
         "I am.",
         "I",
-        "Me"
+        "Me",
+        "I(male)",
+        "I(f)",
+        "I I",
+        "I(m)",
+        "I(f) I'm",
+        "I'm"
       ],
       "usageExamples": [
         [
-          "أنا هروح لوحدي",
-          "I'll go on my own.",
-          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
+          "أنا مش متجوز",
+          "I am [not] married",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "أنا صايمه النهارده.",
-          "I'm fasting today.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "أنا شوفت كُلّ الاِستِمارات",
+          "I checked every form",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "أنا بخاف م الزلازل.",
-          "I'm afraid of earthquakes.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "أنا حَرّان أوي دلوقتي",
+          "I feel very hot now",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "كرهتها",
+      "content": "لسه",
       "translations": [
-        "I hated her.",
-        "I disliked her"
+        "still",
+        "not yet",
+        "yet",
+        "hasn't",
+        "not",
+        "is not",
+        "will not"
+      ],
+      "usageExamples": [
+        [
+          "عين البوتاجاز لسه متولعة",
+          "the gas ring is still lit",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "الموقف في البلد لسه تحت السيطرة",
+          "the situation in the country is still under control",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "لسه بفكر في اللي توم كان بيحاول يقولهولي.",
+          "I am still thinking about what Tom was trying to tell me.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "شايفه",
+      "translations": [
+        "I see her",
+        "I can see her.",
+        "I am seeing her"
       ],
       "usageExamples": []
     }

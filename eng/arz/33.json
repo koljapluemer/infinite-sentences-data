@@ -1,52 +1,69 @@
 {
-  "sentence": "ايه عنوان سكنك؟",
+  "sentence": "بيتكلم أسباني و فرنساوي كمان.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by blay_paul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's your home address?"
+    "He speaks Spanish as well as French."
   ],
   "parts": [
     {
-      "content": "ايه",
+      "content": "بيتكلم",
       "translations": [
-        "What?",
-        "Yes.",
-        "Oh.",
-        "Really?"
+        "He is talking",
+        "He speaks",
+        "He is speaking."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "أسباني",
+      "translations": [
+        "Spanish",
+        "Spanish person"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "فرنساوي",
+      "translations": [
+        "French",
+        "French person"
       ],
       "usageExamples": [
         [
-          "مش فاهم قصدك ايه.",
-          "I don't know what you mean.",
-          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
-        ],
-        [
-          "قولّهم أنت عايز تعمل ايه.",
-          "Tell them what you want to do.",
+          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
+          "You're the only one working here who can speak French.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "عنوان",
+      "content": "كمان",
       "translations": [
-        "title",
-        "headline",
-        "heading"
+        "also",
+        "too",
+        "as well",
+        "again"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "سكنك",
-      "translations": [
-        "your residence",
-        "your home",
-        "where you live",
-        "your place"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "جرب كمان مرة.",
+          "Try it again.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "\"هي بتحب الموسيقى.\" \"وأنا كمان.\"",
+          "\"She likes music.\" \"So do I.\"",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم كان مشغول وأنا كمان كنت مشغول.",
+          "Tom was busy and so was I.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

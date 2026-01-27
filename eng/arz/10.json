@@ -1,36 +1,64 @@
 {
-  "sentence": "أنصحك إنك تتأسف.",
+  "sentence": "أي كتاب أحسن؟",
   "credits": [
     "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should apologize."
+    "Which book is better?"
   ],
   "parts": [
     {
-      "content": "أنصحك",
+      "content": "أي",
       "translations": [
-        "I advise you",
-        "I recommend you",
-        "I suggest you"
+        "any",
+        "which",
+        "either",
+        "whichever",
+        "all",
+        "anybody's",
+        "anyone",
+        "anybody",
+        "whoever",
+        "anything",
+        "whenever",
+        "it",
+        "useless,",
+        "useless"
+      ],
+      "usageExamples": [
+        [
+          "مفيش أي مشاكل.",
+          "There are no problems.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "مفيش أي غلط.",
+          "There's no mistake.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "أكيد الرياضة بتفرق في حياة أي حد",
+          "sport certainly makes a difference in anybody's life",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "كتاب",
+      "translations": [
+        "book",
+        "a book"
       ],
       "usageExamples": []
     },
     {
-      "content": "إنك",
+      "content": "أحسن",
       "translations": [
-        "You are",
-        "Indeed you are",
-        "You really are"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "تتأسف",
-      "translations": [
-        "I'm sorry.",
-        "I apologize."
+        "better",
+        "best",
+        "improved",
+        "excellent"
       ],
       "usageExamples": []
     }

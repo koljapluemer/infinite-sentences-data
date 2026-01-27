@@ -1,80 +1,125 @@
 {
-  "sentence": "Ho iniziato dal fondo.",
+  "sentence": "Che ha detto lo specialista?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I started at the bottom."
+    "What did the specialist say?"
   ],
   "parts": [
     {
-      "content": "Ho",
+      "content": "Che",
       "translations": [
-        "I have",
-        "I possess",
-        "I hold",
-        "I own"
+        "What",
+        "Which",
+        "That",
+        "Who"
       ],
       "usageExamples": [
         [
-          "Ho abbastanza amici.",
-          "I have enough friends.",
+          "Che altro vorresti?",
+          "What more would you want?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho letto un fumetto.",
-          "I read a comic book.",
+          "Che canzone strana...",
+          "What a weird song...",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Che musica ascoltate?",
+          "What music do you listen to?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "iniziato",
+      "content": "ha",
       "translations": [
-        "started",
-        "begun",
-        "initiated",
-        "commenced"
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "detto",
+      "translations": [
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
+      ],
+      "usageExamples": [
+        [
+          "Tom mi ha detto che eravate felici.",
+          "Tom told me you were happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+          "Mary said she'd like to borrow a few books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho detto delle cose così orribili. Mi dispiace.",
+          "I said such horrible things to you. I'm sorry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lo",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "specialista",
+      "translations": [
+        "specialist",
+        "expert",
+        "professional",
+        "consultant"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "dal",
-      "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
-      ],
-      "usageExamples": [
-        [
-          "Non hai paura di essere infettata dal virus?",
-          "Aren't you afraid of getting infected by the virus?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "fondo",
-      "translations": [
-        "background",
-        "fund",
-        "bottom",
-        "base"
-      ],
-      "usageExamples": [
-        [
-          "Vede spesso il fondo del bicchiere.",
-          "He often sees the bottom of the glass.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

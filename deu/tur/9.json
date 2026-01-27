@@ -1,34 +1,50 @@
 {
-  "sentence": "Aşağı yukarı anlıyorum.",
+  "sentence": "Babam onu ​​tanıyordu.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich verstehe ungefähr."
+    "Mein Vater kannte ihn."
   ],
   "parts": [
     {
-      "content": "Aşağı",
+      "content": "Babam",
       "translations": [
-        "unten",
-        "nach unten"
+        "Mein Vater",
+        "Vater"
       ],
       "usageExamples": []
     },
     {
-      "content": "yukarı",
+      "content": "onu",
       "translations": [
-        "oben",
-        "nach oben"
+        "das",
+        "es"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dün onu gördüm.",
+          "Ich habe sie gestern gesehen.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O zamandan beri onu kimse görmedi.",
+          "Niemand hat ihn mehr gesehen seitdem.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "anlıyorum",
+      "content": "tanıyordu",
       "translations": [
-        "ich verstehe",
-        "ich begreife"
+        "er kannte",
+        "sie kannte"
       ],
       "usageExamples": []
     }

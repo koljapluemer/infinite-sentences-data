@@ -1,83 +1,241 @@
 {
-  "sentence": "Dovette pulire la cucina.",
+  "sentence": "A Mary non piace il latte nel suo caffè.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Conjuice (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He had to clean the kitchen."
+    "Mary doesn't like milk in her coffee."
   ],
   "parts": [
     {
-      "content": "Dovette",
+      "content": "A",
       "translations": [
-        "Should have",
-        "Ought to have",
-        "Had to",
-        "Was supposed to"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "pulire",
-      "translations": [
-        "to clean",
-        "to tidy up",
-        "to purify",
-        "to polish"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Ho passato tutta la mattina a pulire la mia camera.",
-          "I've spent the entire morning cleaning my room.",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non dispiaceva vivere da sola.",
+          "Mary didn't mind living by herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
       "translations": [
         "the",
-        "that",
-        "which",
-        "those"
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha perso la partita.",
-          "He lost the game.",
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cucina",
+      "content": "latte",
       "translations": [
-        "kitchen",
-        "cooking area",
-        "culinary space",
-        "kitchenette"
+        "milk",
+        "dairy milk",
+        "cow's milk",
+        "liquid milk"
       ],
       "usageExamples": [
         [
-          "È uscito dalla cucina.",
-          "He got out of the kitchen.",
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Riconosco il tuo contributo per tenere pulita la cucina.",
-          "I recognize your contribution to keeping the kitchen clean.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Di solito bevo molto latte.",
+          "I usually drink a lot of milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nel",
+      "translations": [
+        "in the",
+        "inside the",
+        "within the",
+        "at the"
+      ],
+      "usageExamples": [
+        [
+          "I suoi figli sono nel giardino.",
+          "Her sons are in the garden.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'Angola è diventata indipendente nel 1975.",
+          "Angola became independent in 1975.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary è nel suo ufficio.",
+          "Mary is in her office.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suo",
+      "translations": [
+        "his",
+        "her",
+        "its",
+        "their"
+      ],
+      "usageExamples": [
+        [
+          "A Mary non piaceva il suo sandwich.",
+          "Mary didn't like her sandwich.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom decise di rinunciare ad andare in skateboard dopo il suo incidente.",
+          "Tom decided to give up skateboarding after his accident.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo avreste dovuto aiutare con il suo lavoro.",
+          "You should have helped him with his work.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "caffè",
+      "translations": [
+        "coffee",
+        "café",
+        "espresso",
+        "java"
+      ],
+      "usageExamples": [
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bevo solo caffè decaffeinato.",
+          "I only drink decaffeinated coffee.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho bevuto del caffè questa mattina.",
+          "I drank coffee this morning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

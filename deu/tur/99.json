@@ -1,91 +1,66 @@
 {
-  "sentence": "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+  "sentence": "Slovence güzel bir dildir.",
   "credits": [
-    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hast du gesagt, dass du deine Fehler akzeptieren sollst?"
+    "Slowenisch ist eine schöne Sprache."
   ],
   "parts": [
     {
-      "content": "Sen",
+      "content": "Slovence",
       "translations": [
-        "du",
-        "Sie"
+        "Slowene",
+        "Slowenisch"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "güzel",
+      "translations": [
+        "schön",
+        "hübsch"
       ],
       "usageExamples": [
         [
-          "Sen hala oğlumsun.",
-          "Du bist noch immer mein Sohn.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hatalarını",
+      "content": "bir",
       "translations": [
-        "deine Fehler",
-        "ihre Fehler"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "kabul",
-      "translations": [
-        "akzeptieren",
-        "annehmen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "etmen",
-      "translations": [
-        "essen",
-        "verzehren"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gerektiğini",
-      "translations": [
-        "was notwendig",
-        "was erforderlich"
+        "eins",
+        "ein"
       ],
       "usageExamples": [
         [
-          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
-          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "söyledin",
-      "translations": [
-        "du hast gesagt",
-        "du hast gesprochen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mi",
-      "translations": [
-        "ich",
-        "mir"
-      ],
-      "usageExamples": [
+          "İyi bir kamera aldım.",
+          "Ich habe mir eine gute Kamera gekauft.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
         [
-          "Kartla ödeme yapılabilir mi?",
-          "Kann man mit Karte bezahlen?",
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?",
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "dildir",
+      "translations": [
+        "Sprache",
+        "Zunge"
+      ],
+      "usageExamples": []
     }
   ]
 }

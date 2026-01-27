@@ -1,54 +1,46 @@
 {
-  "sentence": "O kazağı beğeniyorum.",
+  "sentence": "\"Ne istiyorsun?\" \"Köpek istiyorum.\"",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by newton55 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by blay_paul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I like that sweater."
+    "\"What do you want?\" \"I want a dog.\""
   ],
   "parts": [
     {
-      "content": "O",
+      "content": "Ne",
       "translations": [
-        "Oh.",
-        "O",
-        "Wow",
-        "Hey."
+        "What",
+        "Huh",
+        "Excuse me.",
+        "Pardon?"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Köpek",
+      "translations": [
+        "Dog",
+        "Pooch",
+        "Canine",
+        "Hound"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "istiyorum",
+      "translations": [
+        "I want",
+        "I would like"
       ],
       "usageExamples": [
         [
-          "O yoga öğretiyor.",
-          "She teaches yoga.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "O birkaç haftadır kayıp.",
-          "She had been missing for a couple of weeks.",
+          "İyi bir iş istiyorum.",
+          "I want a good job.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "O istasyonun adı ne?",
-          "What's the name of that station?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "kazağı",
-      "translations": [
-        "sweater",
-        "jumper"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "beğeniyorum",
-      "translations": [
-        "I like",
-        "I enjoy"
-      ],
-      "usageExamples": []
     }
   ]
 }

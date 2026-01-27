@@ -1,80 +1,63 @@
 {
-  "sentence": "Tom'dan korktuğumu kim söylüyor?",
+  "sentence": "Tom, buna vaktimiz yok!",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wer sagt, dass ich Angst vor Tom hätte?"
+    "Tom, wir haben dafür keine Zeit!"
   ],
   "parts": [
     {
       "content": "Tom",
       "translations": [
-        "Tom",
-        "Tomas"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Bugün Tom, Mary'yi gördü.",
-          "Tom hat Mary heute gesehen.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom mutsuz, değil mi?",
-          "Tom ist unglücklich, nicht wahr?",
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
           "Tom, Avustralya'da olduğunu söyledi.",
           "Tom hat gesagt, dass er in Australien ist.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom nehirde yüzüyor.",
+          "Tom schwimmt im Fluss.",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dan",
+      "content": "buna",
       "translations": [
-        "von",
-        "aus"
+        "das hier",
+        "dieses"
       ],
       "usageExamples": []
     },
     {
-      "content": "korktuğumu",
+      "content": "vaktimiz",
       "translations": [
-        "ich habe Angst",
-        "ich habe Angst gehabt"
+        "unsere Zeit",
+        "unser Termin"
       ],
       "usageExamples": []
     },
     {
-      "content": "kim",
+      "content": "yok",
       "translations": [
-        "wer",
-        "jemand"
+        "nicht",
+        "kein"
       ],
       "usageExamples": [
         [
-          "Bu da kim?",
-          "Wer ist das denn?",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "söylüyor",
-      "translations": [
-        "sagt",
-        "er sagt",
-        "sie sagt",
-        "man sagt"
-      ],
-      "usageExamples": [
-        [
-          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
-          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
-          "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)"
+          "Tom'un Avustralyalı aksanı yok.",
+          "Tom hat keinen australischen Akzent.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     }

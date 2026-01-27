@@ -1,92 +1,146 @@
 {
-  "sentence": "Mali desteği, bu projemiz için vazgeçilmezdir.",
+  "sentence": "Ne yazık ki, her zaman çok fazla veriyorum.",
   "credits": [
-    "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich."
+    "Ich gebe leider immer zu viel."
   ],
   "parts": [
     {
-      "content": "Mali",
+      "content": "Ne",
       "translations": [
-        "Mali",
-        "Mali (Land)"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "desteği",
-      "translations": [
-        "Unterstützung",
-        "Hilfe"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bu",
-      "translations": [
-        "dies",
-        "das"
+        "Nein",
+        "Was?"
       ],
       "usageExamples": [
         [
-          "Bence bu inanılmaz.",
-          "Ich denke, es ist unglaublich.",
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "yazık",
+      "translations": [
+        "schade",
+        "arm",
+        "leider"
+      ],
+      "usageExamples": [
         [
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
-        ],
+          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
+          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ki",
+      "translations": [
+        "wer",
+        "derjenige"
+      ],
+      "usageExamples": [
         [
-          "O bu sırrı açık etmek istiyor.",
-          "Sie wollte das Geheimnis verraten.",
+          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
+          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "her",
+      "translations": [
+        "hier",
+        "da"
+      ],
+      "usageExamples": [
+        [
+          "Bu şehrin nüfusu her yıl azalıyor.",
+          "Die Bevölkerung dieser Stadt wird jedes Jahr kleiner.",
           "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "projemiz",
+      "content": "zaman",
       "translations": [
-        "unser Projekt",
-        "unser Vorhaben"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "için",
-      "translations": [
-        "für",
-        "um zu"
+        "Zeit",
+        "Epoche",
+        "Ära"
       ],
       "usageExamples": [
         [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
+          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
           "Benim için ne zaman vaktin olur?",
           "Wann hast du Zeit für mich?",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "çok",
+      "translations": [
+        "sehr",
+        "viel"
+      ],
+      "usageExamples": [
+        [
+          "Esperanto öğrenmek çok ilginçtir.",
+          "Esperanto zu lernen ist sehr interessant.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
+        [
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fazla",
+      "translations": [
+        "zu viel",
+        "übermäßig"
+      ],
+      "usageExamples": [
+        [
+          "Çok fazla Fransızca konuşamam.",
+          "Ich spreche nicht viel Französisch.",
+          "Sentence from Tatoeba by oxyii (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "veriyorum",
+      "translations": [
+        "ich gebe",
+        "ich biete an"
+      ],
+      "usageExamples": [
         [
           "Sana gitmen için izin veriyorum.",
           "Ich erlaube dir zu gehen.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "vazgeçilmezdir",
-      "translations": [
-        "unverzichtbar",
-        "unentbehrlich"
-      ],
-      "usageExamples": []
     }
   ]
 }

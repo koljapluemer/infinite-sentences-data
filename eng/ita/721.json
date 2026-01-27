@@ -1,38 +1,74 @@
 {
-  "sentence": "Sei un testimone.",
+  "sentence": "Per favore, dammi un altro po' di tè.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You are a witness."
+    "Please give me a little more tea."
   ],
   "parts": [
     {
-      "content": "Sei",
+      "content": "Per",
       "translations": [
-        "You are",
-        "You exist",
-        "You live",
-        "You are being"
+        "for",
+        "by",
+        "through",
+        "per"
       ],
       "usageExamples": [
         [
-          "Sei sospesa?",
-          "Are you suspended?",
+          "Per favore, digli di partire.",
+          "Please tell him to leave.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Per favore, faccia un bagno al cane.",
+          "Please give the dog a bath.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "favore",
+      "translations": [
+        "favor",
+        "support",
+        "kindness",
+        "assistance"
+      ],
+      "usageExamples": [
+        [
+          "Vorrei un po' di vino bianco, per favore.",
+          "I'd like some white wine, please.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, faccia un bagno al cane.",
+          "Please give the dog a bath.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, digli di partire.",
+          "Please tell him to leave.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dammi",
+      "translations": [
+        "give me",
+        "hand me",
+        "pass me",
+        "bring me"
+      ],
+      "usageExamples": []
     },
     {
       "content": "un",
@@ -43,29 +79,107 @@
       ],
       "usageExamples": [
         [
-          "Ti compro un regalo.",
-          "I buy you a present.",
+          "È un portiere.",
+          "He's a goal keeper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui sembra un delinquente.",
-          "He looks like a gangster.",
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho letto un fumetto.",
-          "I read a comic book.",
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "testimone",
+      "content": "altro",
       "translations": [
-        "witness",
-        "testifier",
-        "evidence",
-        "attester"
+        "other",
+        "another",
+        "else",
+        "additional"
+      ],
+      "usageExamples": [
+        [
+          "Che altro stai considerando?",
+          "What else are you considering?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che altro vorresti?",
+          "What more would you want?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che altro volete che compri?",
+          "What else do you want me to buy?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "po'",
+      "translations": [
+        "a little",
+        "somewhat",
+        "a bit",
+        "rather"
+      ],
+      "usageExamples": [
+        [
+          "'Aspetti qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da lei immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non resti un po' più a lungo?",
+          "Why don't you stay a little longer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorrei un po' di vino bianco, per favore.",
+          "I'd like some white wine, please.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tè",
+      "translations": [
+        "tea",
+        "herbal tea",
+        "tea beverage",
+        "infusion"
       ],
       "usageExamples": []
     }

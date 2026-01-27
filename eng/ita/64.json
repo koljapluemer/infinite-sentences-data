@@ -1,77 +1,137 @@
 {
-  "sentence": "Chi lavora in quell'ufficio?",
+  "sentence": "A Ken piace davvero Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Who works in that office?"
+    "Ken does like Tom."
   ],
   "parts": [
     {
-      "content": "Chi",
+      "content": "A",
       "translations": [
-        "Who",
-        "Whom",
-        "Who is it",
-        "Who is that"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Chi potrebbe incolparci?",
-          "Who could blame us?",
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Chi era qua?",
-          "Who was here?",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lavora",
+      "content": "Ken",
       "translations": [
-        "works",
-        "operates",
-        "functions",
-        "acts"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "inside",
-        "within",
-        "into"
+        "Ken",
+        "Yes.",
+        "Okay."
       ],
       "usageExamples": [
         [
-          "Tutti erano in ansia.",
-          "Everyone was apprehensive.",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi siamo in Finlandia.",
-          "We are in Finland.",
+          "A Ken piace sul serio Tom.",
+          "Ken does like Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
+          "A Ken piace molto la musica.",
+          "Ken likes music very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quell'ufficio",
+      "content": "piace",
       "translations": [
-        "that office",
-        "the office",
-        "this office"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "davvero",
+      "translations": [
+        "really",
+        "truly",
+        "actually",
+        "indeed"
+      ],
+      "usageExamples": [
+        [
+          "Loro l'hanno fatta davvero.",
+          "They really did it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voglio andare davvero al parco oggi.",
+          "I really wanna go to the park today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono divertita davvero alla festa.",
+          "I really enjoyed myself at the party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra compiaciuto.",
+          "Tom looks smug.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

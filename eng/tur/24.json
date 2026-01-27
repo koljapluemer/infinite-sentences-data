@@ -1,27 +1,57 @@
 {
-  "sentence": "Konser nasıldı?",
+  "sentence": "Gaz denizin altında bulundu.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by pauldhunt (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Muelisto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How was the concert?"
+    "Gas has been found below the sea."
   ],
   "parts": [
     {
-      "content": "Konser",
+      "content": "Gaz",
       "translations": [
-        "concert",
-        "gig",
-        "show"
+        "Gas",
+        "Fuel",
+        "Petrol"
       ],
       "usageExamples": []
     },
     {
-      "content": "nasıldı",
+      "content": "deniz",
       "translations": [
-        "how was it",
-        "how did it go"
+        "sea",
+        "ocean"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "altında",
+      "translations": [
+        "under",
+        "beneath",
+        "below"
+      ],
+      "usageExamples": [
+        [
+          "Öğretmenler odası ve spor salonu onarım altında.",
+          "The teachers' room and the gym are under renovation.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Güneş altında herhangi bir şey hakkında konuşabilirsiniz.",
+          "You can talk about anything under the sun.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bulundu",
+      "translations": [
+        "found",
+        "located",
+        "present",
+        "available"
       ],
       "usageExamples": []
     }

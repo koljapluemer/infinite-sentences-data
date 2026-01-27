@@ -1,39 +1,75 @@
 {
-  "sentence": "ماليش إخوات صبيان.",
+  "sentence": "من فضلك ساعديني.",
   "credits": [
     "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't have any brothers."
+    "Please help me."
   ],
   "parts": [
     {
-      "content": "ماليش",
+      "content": "من",
       "translations": [
-        "I don't have",
-        "I don't care.",
-        "It's not my problem.",
-        "I don't mind."
+        "from",
+        "of",
+        "for",
+        "since",
+        "with",
+        "about",
+        "by",
+        "because of",
+        "through",
+        "unintentionally",
+        "accidentally",
+        "than",
+        "am sick of",
+        "(become) bored (with)",
+        "(be) sick (of)",
+        "please",
+        "without",
+        "recently"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "سيح الفَرخة من الفريزر",
+          "defrost the chicken from the freezer",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "أنا من أهل سابورو.",
+          "I'm from Sapporo.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "الدنيا مطرت إمبارح و المياه تسربت من السطح على يا",
+          "it rained yesterday and water leaked through the roof onto me",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
     },
     {
-      "content": "إخوات",
+      "content": "فضلك",
       "translations": [
-        "siblings",
-        "brothers and sisters",
-        "brothers",
-        "sisters"
+        "Your grace",
+        "Your favor",
+        "Please.",
+        "Kindly.",
+        "please"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "عايز شاي زيادة من فضلك",
+          "could I(m) have extra tea, please",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
     },
     {
-      "content": "صبيان",
+      "content": "ساعديني",
       "translations": [
-        "boys",
-        "children",
-        "kids"
+        "Help me.",
+        "Assist me"
       ],
       "usageExamples": []
     }

@@ -1,57 +1,115 @@
 {
-  "sentence": "Io consegno pizze.",
+  "sentence": "Dovrebbe chiamare a casa adesso.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I deliver pizzas."
+    "You should call home now."
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "Dovrebbe",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "should",
+        "ought to",
+        "is supposed to",
+        "is to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "chiamare",
+      "translations": [
+        "to call",
+        "to name",
+        "to invoke",
+        "to summon"
       ],
       "usageExamples": [
         [
-          "Io sono una patata.",
-          "I am a potato.",
+          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
+          "Tom received an urgent message to call his wife.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "Volate fino a Londra.",
+          "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io parlo bosniaco.",
-          "I speak Bosnian.",
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "consegno",
+      "content": "casa",
       "translations": [
-        "delivery",
-        "hand over",
-        "submission",
-        "consignment"
+        "house",
+        "home",
+        "dwelling",
+        "residence"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa è casa sua adesso.",
+          "This is your house now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo devo fare prima di potere andare a casa oggi.",
+          "I have to do that before I can go home today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "pizze",
+      "content": "adesso",
       "translations": [
-        "pizzas",
-        "pies",
-        "flatbreads",
-        "savory tarts"
+        "now",
+        "right now",
+        "at this moment",
+        "currently"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

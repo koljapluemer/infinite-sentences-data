@@ -1,82 +1,45 @@
 {
-  "sentence": "كنت في المستشفى.",
+  "sentence": "مات م السرطان.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I was in the hospital."
+    "He died of cancer."
   ],
   "parts": [
     {
-      "content": "كنت",
+      "content": "مات",
       "translations": [
-        "I was",
-        "I used to be",
-        "I have been"
+        "died",
+        "passed away",
+        "has died",
+        "is dead"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "م",
+      "translations": [
+        "M",
+        "Em",
+        "Letter M"
       ],
       "usageExamples": [
         [
-          "كنت هنا امبارح.",
-          "I was just here yesterday.",
-          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
-        ],
-        [
-          "كنت بحلم.",
-          "I was dreaming.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم كان مشغول وأنا كمان كنت مشغول.",
-          "Tom was busy and so was I.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "أنا بخاف م الزلازل.",
+          "I'm afraid of earthquakes.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "في",
+      "content": "السرطان",
       "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
+        "cancer",
+        "the crab"
       ],
-      "usageExamples": [
-        [
-          "هي في إجازة دلوقتي.",
-          "She is now on vacation.",
-          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم ريحته في المكان.",
-          "This place smells like Tom.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "مكتبها في الدور العاشر.",
-          "Her office is on the tenth floor.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "المستشفى",
-      "translations": [
-        "the hospital",
-        "hospital"
-      ],
-      "usageExamples": [
-        [
-          "عايز أروح المستشفى.",
-          "I want to go to the hospital.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم اضطر يروح المستشفى.",
-          "Tom had to go to the hospital.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

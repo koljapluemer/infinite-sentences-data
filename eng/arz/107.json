@@ -1,54 +1,60 @@
 {
-  "sentence": "مش هيعرف يجي.",
+  "sentence": "هشوفهم الليله دي.",
   "credits": [
     "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by IntiKissed (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He won't know how to come."
+    "I'll meet with them tonight."
   ],
   "parts": [
     {
-      "content": "مش",
+      "content": "هشوفهم",
       "translations": [
-        "no",
-        "not"
+        "I'll see them.",
+        "I will see them"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "الليله",
+      "translations": [
+        "tonight",
+        "this evening"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "دي",
+      "translations": [
+        "this",
+        "it",
+        "these",
+        "that",
+        "the this",
+        "to",
+        "the the",
+        "these days",
+        "nowadays",
+        "(these) days"
       ],
       "usageExamples": [
         [
-          "مش مشكلة كبيرة.",
-          "That isn't a big problem.",
-          "Sentence from Tatoeba by frpzzd (CC-BY 2.0 FR)"
+          "اَلْعَرَبِيَّةُ أَسْرَعُ بِكَثِيرٍ",
+          "this car is much faster",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "مش هسيبك تعملي كده.",
-          "I won't let you do this.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "دي مشكلة كبيرة",
+          "That's a major problem.",
+          "Sentence from Tatoeba by adnanmukhtar (CC-BY 2.0 FR)"
         ],
         [
-          "مش فاهم قصدك ايه.",
-          "I don't know what you mean.",
-          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+          "اِلسَّاعَةُ ضِدُّ الْمِيَاهِ",
+          "this watch is waterproof",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
-    },
-    {
-      "content": "هيعرف",
-      "translations": [
-        "He will know",
-        "He will find out",
-        "He will be aware"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "يجي",
-      "translations": [
-        "he comes",
-        "he arrives",
-        "he's coming"
-      ],
-      "usageExamples": []
     }
   ]
 }

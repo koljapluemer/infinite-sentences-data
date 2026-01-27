@@ -1,40 +1,53 @@
 {
-  "sentence": "اقعد فى بيتك.",
+  "sentence": "السمك رخيص النهارده.",
   "credits": [
-    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Stay home."
+    "Fish is cheap today."
   ],
   "parts": [
     {
-      "content": "اقعد",
+      "content": "السمك",
       "translations": [
-        "sit down",
-        "sit",
-        "take a seat"
+        "fish",
+        "the fish"
       ],
       "usageExamples": []
     },
     {
-      "content": "فى",
+      "content": "رخيص",
       "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
+        "cheap",
+        "inexpensive",
+        "affordable"
       ],
       "usageExamples": []
     },
     {
-      "content": "بيتك",
+      "content": "النهارده",
       "translations": [
-        "your house",
-        "your home",
-        "your place"
+        "today",
+        "this day"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "الجو رائع النهارده",
+          "the weather is wonderful today",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "أنا هَرَوَّح بَدري النهارده",
+          "I will go home early today",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "الدُنيا حَرّ النهارده",
+          "it is hot today",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
     }
   ]
 }

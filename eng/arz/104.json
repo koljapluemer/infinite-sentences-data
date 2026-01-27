@@ -1,68 +1,129 @@
 {
-  "sentence": "مش مشكلة كبيرة.",
+  "sentence": "نجح ف متحان واحد ، بس سقط ف التاني.",
   "credits": [
-    "Sentence from Tatoeba by frpzzd (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That isn't a big problem."
+    "He passed one test, but failed the other."
   ],
   "parts": [
     {
-      "content": "مش",
+      "content": "نجح",
       "translations": [
-        "no",
-        "not"
+        "succeeded",
+        "passed",
+        "achieved",
+        "triumphed"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ف",
+      "translations": [
+        "and",
+        "so",
+        "then"
       ],
       "usageExamples": [
         [
-          "مش مهم.",
-          "This is not important.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+          "هي ف الحمام.",
+          "She's in the restroom.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
         [
-          "مش هيعرف يجي.",
-          "He won't know how to come.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
+          "I think being poor is nothing to be ashamed of.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
+        [
+          "احنا بنزرع خضار ف جنينتنا.",
+          "We grow vegetables in our garden.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "متحان",
+      "translations": [
+        "exam",
+        "test",
+        "quiz"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "واحد",
+      "translations": [
+        "one",
+        "a person",
+        "somebody",
+        "someone",
+        "friend"
+      ],
+      "usageExamples": [
+        [
+          "إنتَ شَبَه واحد عارفة",
+          "you(m) look like somebody that I(f) know",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "عايز واحد بس",
+          "I want [only] one",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "واحد صاحب يخطب الأسبوع اللي فات",
+          "a friend of mine got engaged last week",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "بس",
+      "translations": [
+        "just",
+        "only",
+        "simply",
+        "merely",
+        "[only]",
+        "but"
+      ],
+      "usageExamples": [
         [
           "مصر مش بس أهرامات.",
           "Egypt isn't just pyramids.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "مَتْقلش حاجه بس.",
+          "Just don't say anything.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "عايز واحد بس",
+          "I want [only] one",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "مشكلة",
+      "content": "سقط",
       "translations": [
-        "problem",
-        "issue",
-        "difficulty",
-        "challenge"
+        "fell",
+        "dropped",
+        "collapsed",
+        "failed"
       ],
-      "usageExamples": [
-        [
-          "دي مشكلة كبيرة",
-          "That's a major problem.",
-          "Sentence from Tatoeba by adnanmukhtar (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "كبيرة",
+      "content": "التاني",
       "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
+        "the second",
+        "the other"
       ],
-      "usageExamples": [
-        [
-          "دي مشكلة كبيرة",
-          "That's a major problem.",
-          "Sentence from Tatoeba by adnanmukhtar (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

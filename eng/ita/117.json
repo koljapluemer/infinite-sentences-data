@@ -1,94 +1,165 @@
 {
-  "sentence": "Dove li avete oliati?",
+  "sentence": "A Mary non piacciono le mele, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Where did you oil them?"
+    "Mary doesn't like apples, does she?"
   ],
   "parts": [
     {
-      "content": "Dove",
+      "content": "A",
       "translations": [
-        "Where",
-        "Where is it?",
-        "Where to?",
-        "Where are you?"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Dove ha portato il mio lenzuolo?",
-          "Where did you take my blanket?",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dove sei in questo momento?",
-          "Where are you right now?",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A quale proposito?",
+          "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "li",
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha comprato del cibo a Mary.",
+          "Tom bought some food for Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piacciono",
+      "translations": [
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
+      ],
+      "usageExamples": [
+        [
+          "A Dan non piacciono i dittatori.",
+          "Dan doesn't like dictators.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono gli sport, vero?",
+          "Mary likes sports, doesn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Cookie non piacciono i baci.",
+          "Cookie doesn't like kisses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "le",
       "translations": [
         "the",
-        "it",
-        "him",
-        "them"
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
-          "Perché li hai attaccati?",
-          "Why did you attack them?",
+          "Non le può licenziare.",
+          "You can't fire them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tutti li ignorarono.",
-          "Everyone ignored them.",
+          "Non le vogliamo là.",
+          "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary li ha ingannati tutti.",
-          "Mary tricked them all.",
+          "Non capisco perché non tutte le ragazze sono lesbiche.",
+          "I don't get why girls aren't all lesbians.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "avete",
+      "content": "vero",
       "translations": [
-        "you have",
-        "you've got",
-        "are you having"
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
       ],
       "usageExamples": [
         [
-          "Cosa avete consigliato?",
-          "What did you recommend?",
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li avete rapiti?",
-          "Did you kidnap them?",
+          "Non vinse, vero?",
+          "He didn't win, did he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Voi avete mai avuto un animale domestico?",
-          "Have you ever had a pet?",
+          "È piuttosto avventurosa, vero?",
+          "She's pretty adventurous, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "oliati",
-      "translations": [
-        "oiled",
-        "greased",
-        "lubricated",
-        "oily"
-      ],
-      "usageExamples": []
     }
   ]
 }

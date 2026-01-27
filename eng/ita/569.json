@@ -1,71 +1,146 @@
 {
-  "sentence": "Non voglio guardarlo.",
+  "sentence": "Mary non ha nessuno ad aiutarla.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't want to look at him.",
-    "I don't want to watch that."
+    "Mary doesn't have anybody to help her."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Mary",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Non mandarmi dei messaggi.",
-          "Don't send me messages.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che Tom e Mary devono andare a Boston.",
+          "I know Tom and Mary have to go to Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ],
         [
           "Non ha un fidanzato?",
           "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non volevo intromettermi.",
-          "I didn't want to intrude.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "voglio",
+      "content": "nessuno",
       "translations": [
-        "I want",
-        "I would like",
-        "I wish",
-        "I desire"
+        "nobody",
+        "no one",
+        "none",
+        "not anyone"
       ],
       "usageExamples": [
         [
-          "Io voglio andare in Inghilterra.",
-          "I want to go to England.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io non voglio che cambi.",
-          "I don't want it to change.",
+          "Perché nessuno è ancora qui?",
+          "Why is no one here yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "guardarlo",
+      "content": "ad",
       "translations": [
-        "to keep it",
-        "to store it",
-        "to save it",
-        "to hold it"
+        "to",
+        "at",
+        "toward",
+        "for"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "State provando ad escludermi?",
+          "Are you trying to exclude me?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li vada ad aiutare.",
+          "Go help them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno cominciato ad innervosirsi.",
+          "They started to get nervous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aiutarla",
+      "translations": [
+        "help her",
+        "assist her",
+        "support her",
+        "aid her"
+      ],
+      "usageExamples": [
+        [
+          "Non doveva aiutarla.",
+          "He didn't have to help her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

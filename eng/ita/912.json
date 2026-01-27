@@ -1,54 +1,131 @@
 {
-  "sentence": "Vedemmo un lupo.",
+  "sentence": "Tom dice di non aver nuotato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Agestur (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We saw a wolf."
+    "Tom says he didn't swim."
   ],
   "parts": [
     {
-      "content": "Vedemmo",
+      "content": "Tom",
       "translations": [
-        "We saw",
-        "We have seen",
-        "We looked at",
-        "We observed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "È un nuovo libro.",
-          "It's a new book.",
+          "Tom è famoso.",
+          "Tom's famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei un testimone.",
-          "You are a witness.",
+          "Tom sembra compiaciuto.",
+          "Tom seems pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lupo",
+      "content": "dice",
       "translations": [
-        "wolf",
-        "werewolf",
-        "lone wolf"
+        "to say",
+        "to tell",
+        "to speak",
+        "to declare"
+      ],
+      "usageExamples": [
+        [
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom dice di non voler più vivere così.",
+          "Tom says he doesn't want to live like this anymore.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciò che si fa è più importante di ciò che si dice.",
+          "What you do is more important than what you say.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aver",
+      "translations": [
+        "to have",
+        "to possess",
+        "to hold"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "nuotato",
+      "translations": [
+        "swum",
+        "swimming",
+        "has swum",
+        "was swimming"
       ],
       "usageExamples": []
     }

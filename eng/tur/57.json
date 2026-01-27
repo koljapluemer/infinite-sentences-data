@@ -1,59 +1,86 @@
 {
-  "sentence": "Tom annemin erkek kardeşi.",
+  "sentence": "Onun bir doktor olup olmadığını bilmiyorum.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is my mother's brother."
+    "I don't know if he is a doctor."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Onun",
       "translations": [
-        "Tom",
-        "Tommy"
+        "his",
+        "her",
+        "its"
       ],
       "usageExamples": [
         [
-          "Seni öldüremedim, Tom.",
-          "I couldn't kill you, Tom.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom kötü bir golfçü.",
-          "Tom is a bad golfer.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom heyecanını zar zor bastırdı.",
-          "Tom could hardly contain his excitement.",
-          "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
+          "His last album garnered him a fourth Grammy award.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "annemin",
+      "content": "bir",
       "translations": [
-        "my mother",
-        "mother of mine"
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Boston büyük bir şehirdir.",
+          "Boston is a large city.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bir üstat değil.",
+          "He is not a virtuoso.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sen gerçek bir zavallısın.",
+          "You're a real loser.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "doktor",
+      "translations": [
+        "doctor",
+        "physician"
       ],
       "usageExamples": []
     },
     {
-      "content": "erkek",
+      "content": "olup",
       "translations": [
-        "man",
-        "male"
+        "becoming",
+        "happening",
+        "occurring",
+        "taking place"
       ],
       "usageExamples": []
     },
     {
-      "content": "kardeşi",
+      "content": "olmadığını",
       "translations": [
-        "sibling",
-        "brother",
-        "sister"
+        "that it is not",
+        "that it doesn't exist",
+        "that it isn't",
+        "that there is not"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bilmiyorum",
+      "translations": [
+        "I don't know.",
+        "I'm not sure."
       ],
       "usageExamples": []
     }

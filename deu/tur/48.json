@@ -1,75 +1,50 @@
 {
-  "sentence": "Dolap kapağını sola doğru açın , şişeler oradadır.",
+  "sentence": "Dün onu gördüm.",
   "credits": [
-    "Sentence from Tatoeba by erayavci (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mach den Schrank auf der linken Seite auf, dort sind die Flaschen."
+    "Ich habe sie gestern gesehen."
   ],
   "parts": [
     {
-      "content": "Dolap",
+      "content": "Dün",
       "translations": [
-        "Schrank",
-        "Regal"
+        "gestern",
+        "vorgestern"
       ],
       "usageExamples": []
     },
     {
-      "content": "kapağı",
+      "content": "onu",
       "translations": [
-        "Deckel",
-        "Kapuze",
-        "Bedeckung"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sola",
-      "translations": [
-        "allein",
-        "einsam",
-        "nur"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "doğru",
-      "translations": [
-        "richtig",
-        "korrekt"
+        "das",
+        "es"
       ],
       "usageExamples": [
         [
-          "Bunun doğru olmadığını iddia ediyorum.",
-          "Ich behaupte, dass das nicht stimmt.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Babam onu ​​tanıyordu.",
+          "Mein Vater kannte ihn.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O zamandan beri onu kimse görmedi.",
+          "Niemand hat ihn mehr gesehen seitdem.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "açın",
+      "content": "gördüm",
       "translations": [
-        "öffnen",
-        "aufmachen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "şişeler",
-      "translations": [
-        "Flaschen",
-        "Gläser"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "oradadır",
-      "translations": [
-        "da",
-        "dort",
-        "an diesem Ort"
+        "ich sah",
+        "ich habe gesehen"
       ],
       "usageExamples": []
     }

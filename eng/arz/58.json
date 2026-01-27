@@ -1,37 +1,130 @@
 {
-  "sentence": "جاك بيجمّع طوابع.",
+  "sentence": "شكرا انك وصّلتني البيت. تصبح على خير.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by helloroto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Jack collects stamps."
+    "Thanks for bringing me home. Good night."
   ],
   "parts": [
     {
-      "content": "جاك",
+      "content": "شكرا",
       "translations": [
-        "you have",
-        "you got"
+        "Thank you.",
+        "Thanks."
       ],
       "usageExamples": []
     },
     {
-      "content": "بيجمّع",
+      "content": "انك",
       "translations": [
-        "gather",
-        "collect",
-        "assemble",
-        "accumulate"
+        "you are",
+        "you've got",
+        "you're"
       ],
       "usageExamples": []
     },
     {
-      "content": "طوابع",
+      "content": "وصّلتني",
       "translations": [
-        "stamps",
-        "postage stamps",
-        "stickers"
+        "You made me arrive",
+        "You brought me",
+        "You got me here",
+        "You delivered me"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "البيت",
+      "translations": [
+        "the house",
+        "the home",
+        "household shopping",
+        "shopping list",
+        "house",
+        "home"
+      ],
+      "usageExamples": [
+        [
+          "أكل البيت وحشني",
+          "I missed home cooking",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "عايز أروّح البيت دلوقتي.",
+          "I would like to go home now.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "لَمّا تِشتري طَلَبات البيت مَرَّه كُل أُسبوع أوَفَّر كِتير",
+          "when you buy your household shopping once weekly you save a lot",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "تصبح",
+      "translations": [
+        "good morning",
+        "good day",
+        "rise",
+        "become"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "على",
+      "translations": [
+        "on",
+        "upon",
+        "at",
+        "about",
+        "onto",
+        "against",
+        "in general",
+        "mainly",
+        "in the main",
+        "(in) general",
+        "fully",
+        "extremely",
+        "moreover",
+        "until",
+        "care",
+        "look after",
+        "care (for)",
+        "looking for",
+        "look (for)",
+        "search (for)",
+        "find",
+        "for",
+        "for for"
+      ],
+      "usageExamples": [
+        [
+          "الأكل على النار",
+          "the food is on the cooker",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "سَخَّنَ الأكلَ على البوتاجاز",
+          "heat up the food on the stove",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "المُوبَيل إتشَحَن على الآخِر",
+          "the mobile is fully charged",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "خير",
+      "translations": [
+        "good",
+        "well",
+        "benefit",
+        "prosperity"
       ],
       "usageExamples": []
     }

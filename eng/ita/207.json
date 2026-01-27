@@ -1,48 +1,98 @@
 {
-  "sentence": "Ho sognato di baciare Tom.",
+  "sentence": "Chiamatemi se avete bisogno di assistenza.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I dreamed about kissing Tom."
+    "Call me if you need assistance."
   ],
   "parts": [
     {
-      "content": "Ho",
+      "content": "Chiamatemi",
       "translations": [
-        "I have",
-        "I possess",
-        "I hold",
-        "I own"
+        "Call me.",
+        "You can call me",
+        "Just call me"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "se",
+      "translations": [
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
       "usageExamples": [
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho ammesso la sconfitta.",
-          "I admitted defeat.",
+          "A Mary importava solo di se stessa.",
+          "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho iniziato dal fondo.",
-          "I started at the bottom.",
+          "A Mary importava solamente di se stessa.",
+          "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sognato",
+      "content": "avete",
       "translations": [
-        "dreamed",
-        "dreamt",
-        "imagined",
-        "envisioned"
+        "you have",
+        "you've got",
+        "are you having"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bisogno",
+      "translations": [
+        "need",
+        "requirement",
+        "necessity",
+        "desire"
+      ],
+      "usageExamples": [
+        [
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho bisogno di parlarti stanotte.",
+          "I need to talk to you tonight.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorrei che capissero il mio bisogno di pace.",
+          "I wish they would understand my need for peace.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "di",
@@ -54,55 +104,31 @@
       ],
       "usageExamples": [
         [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ],
         [
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "baciare",
+      "content": "assistenza",
       "translations": [
-        "to kiss",
-        "kissing",
-        "to peck",
-        "to smooch"
+        "assistance",
+        "support",
+        "help",
+        "aid"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
-      ],
-      "usageExamples": [
-        [
-          "Tom era creativo.",
-          "Tom was creative.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta gemendo.",
-          "Tom is whining.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

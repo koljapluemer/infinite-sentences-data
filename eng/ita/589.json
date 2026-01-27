@@ -1,107 +1,108 @@
 {
-  "sentence": "Pensi che abbiamo convinto Tom?",
+  "sentence": "Mi mandi la sua posizione.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ajje (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you think we convinced Tom?"
+    "Send me your position."
   ],
   "parts": [
     {
-      "content": "Pensi",
+      "content": "Mi",
       "translations": [
-        "Thoughts",
-        "Considerations",
-        "Reflections",
-        "Opinions"
+        "Me",
+        "I",
+        "Myself"
+      ],
+      "usageExamples": [
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mandi",
+      "translations": [
+        "to wash",
+        "to bathe",
+        "to cleanse"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "la",
       "translations": [
+        "the",
         "that",
         "which",
-        "who",
-        "what"
+        "those"
       ],
       "usageExamples": [
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "abbiamo",
+      "content": "sua",
       "translations": [
-        "we have",
-        "we've got",
-        "we possess"
+        "your",
+        "yours",
+        "his",
+        "her"
       ],
       "usageExamples": [
         [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è del tutto diversa da sua madre.",
+          "She is not anything like her mother.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non abbiamo cantato per Tom.",
-          "We didn't sing for Tom.",
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "convinto",
+      "content": "posizione",
       "translations": [
-        "convinced",
-        "persuaded",
-        "won over",
-        "assured"
+        "position",
+        "location",
+        "stance",
+        "situation"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
-      ],
-      "usageExamples": [
-        [
-          "Dovremmo avvertire Tom.",
-          "We should warn Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom vende funghi psichedelici.",
-          "Tom sells psychedelic mushrooms.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è ovviamente arrabbiato.",
-          "Tom is obviously angry.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

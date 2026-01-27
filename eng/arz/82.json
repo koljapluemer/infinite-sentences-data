@@ -1,45 +1,100 @@
 {
-  "sentence": "كنت بحلم.",
+  "sentence": "ما عملتش حاجة غلط.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I was dreaming."
+    "I haven't done anything wrong."
   ],
   "parts": [
     {
-      "content": "كنت",
+      "content": "ما",
       "translations": [
-        "I was",
-        "I used to be",
-        "I have been"
+        "what",
+        "what is it",
+        "what's up",
+        "before",
+        "somewhere",
+        "everywhere",
+        "don't",
+        "come",
+        "come (to)",
+        "turn up (at)",
+        "until",
+        "till",
+        "without",
+        "has not",
+        "not",
+        "is not",
+        "will not"
       ],
       "usageExamples": [
         [
-          "كنت هنا امبارح.",
-          "I was just here yesterday.",
-          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
+          "ما تسوقش بِسُرعَة",
+          "don't drive fast",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "كنت في المستشفى.",
-          "I was in the hospital.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "ما بطيقوش.",
+          "I can't stand him.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
         [
-          "توم كان مشغول وأنا كمان كنت مشغول.",
-          "Tom was busy and so was I.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "خاَلِد عَمرُه ما سِكِّر",
+          "Khalid has not been drunk in his life",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "بحلم",
+      "content": "عملتش",
       "translations": [
-        "I dream.",
-        "I'm dreaming."
+        "I didn't do it.",
+        "I haven't done it",
+        "I didn't make it",
+        "I didn't work on it"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "حاجة",
+      "translations": [
+        "need",
+        "thing",
+        "requirement",
+        "necessity",
+        "everything",
+        "all"
+      ],
+      "usageExamples": [
+        [
+          "في الساعة الخامسة، كل حاجة هتكون جاهزة",
+          "by five o'clock, everything will be ready",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "غلط",
+      "translations": [
+        "wrong",
+        "incorrect",
+        "mistake",
+        "error"
+      ],
+      "usageExamples": [
+        [
+          "هو جاوب غلط.",
+          "He answered incorrectly.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "مفيش أي غلط.",
+          "There's no mistake.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

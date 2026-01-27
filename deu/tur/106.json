@@ -1,64 +1,57 @@
 {
-  "sentence": "Slovence güzel bir dildir.",
+  "sentence": "Tom beni arıyor mu?",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Slowenisch ist eine schöne Sprache."
+    "Sucht Tom nach mir?"
   ],
   "parts": [
     {
-      "content": "Slovence",
+      "content": "Tom",
       "translations": [
-        "Slowene",
-        "Slowenisch"
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "Hangi dilleri konuşabiliyorsun, Tom?",
+          "Welche Sprachen sprichst du, Tom?",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "beni",
+      "translations": [
+        "mich",
+        "mir"
       ],
       "usageExamples": []
     },
     {
-      "content": "güzel",
+      "content": "arıyor",
       "translations": [
-        "schön",
-        "hübsch"
+        "ruft an",
+        "sucht"
       ],
-      "usageExamples": [
-        [
-          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
-          "Ich glaube, treffender und besser kann man es kaum darstellen.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "bir",
+      "content": "mu",
       "translations": [
-        "eins",
-        "ein"
-      ],
-      "usageExamples": [
-        [
-          "Ciddi bir konuşmaya başladık.",
-          "Wir begannen eine ernsthafte Unterhaltung.",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
-        ],
-        [
-          "İyi bir kamera aldım.",
-          "Ich habe mir eine gute Kamera gekauft.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dildir",
-      "translations": [
-        "Sprache",
-        "Zunge"
+        "ich",
+        "mir"
       ],
       "usageExamples": []
     }

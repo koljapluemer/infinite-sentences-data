@@ -1,52 +1,77 @@
 {
-  "sentence": "Dokuza çeyrek var.",
+  "sentence": "Dolap kapağını sola doğru açın , şişeler oradadır.",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by erayavci (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es ist Viertel vor neun."
+    "Mach den Schrank auf der linken Seite auf, dort sind die Flaschen."
   ],
   "parts": [
     {
-      "content": "Dokuza",
+      "content": "Dolap",
       "translations": [
-        "Neun",
-        "Neun Stück"
+        "Schrank",
+        "Regal"
       ],
       "usageExamples": []
     },
     {
-      "content": "çeyrek",
+      "content": "kapağı",
       "translations": [
-        "Viertel",
-        "Viertelstunde"
+        "Deckel",
+        "Kapuze",
+        "Bedeckung"
       ],
       "usageExamples": []
     },
     {
-      "content": "var",
+      "content": "sola",
       "translations": [
-        "var",
-        "es gibt"
+        "allein",
+        "einsam",
+        "nur"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "doğru",
+      "translations": [
+        "richtig",
+        "korrekt"
       ],
       "usageExamples": [
         [
-          "Bir alternatifin var.",
-          "Du hast eine Alternative.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Bunun doğru olmadığını iddia ediyorum.",
+          "Ich behaupte, dass das nicht stimmt.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "açın",
+      "translations": [
+        "öffnen",
+        "aufmachen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "şişeler",
+      "translations": [
+        "Flaschen",
+        "Gläser"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "oradadır",
+      "translations": [
+        "da",
+        "dort",
+        "an diesem Ort"
+      ],
+      "usageExamples": []
     }
   ]
 }

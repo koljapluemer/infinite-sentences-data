@@ -1,48 +1,149 @@
 {
-  "sentence": "Sei sospesa?",
+  "sentence": "Penso che Tom ti chiederà di sposarlo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you suspended?"
+    "I think Tom will ask you to marry him."
   ],
   "parts": [
     {
-      "content": "Sei",
+      "content": "Penso",
       "translations": [
-        "You are",
-        "You exist",
-        "You live",
-        "You are being"
+        "I think.",
+        "I believe",
+        "I consider",
+        "I reflect"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei motivato.",
-          "You're motivated.",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sospesa",
+      "content": "Tom",
       "translations": [
-        "suspended",
-        "hanging",
-        "pending",
-        "on hold"
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ti",
+      "translations": [
+        "you",
+        "yourself",
+        "to you",
+        "for you"
+      ],
+      "usageExamples": [
+        [
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa ti fa andare il cuore a tutta velocità?",
+          "What makes your heart race?",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "chiederà",
+      "translations": [
+        "will ask",
+        "will request",
+        "will inquire",
+        "will demand"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sposarlo",
+      "translations": [
+        "to marry him",
+        "to marry her",
+        "to marry them"
+      ],
+      "usageExamples": [
+        [
+          "Dovresti sposarlo.",
+          "You should marry him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

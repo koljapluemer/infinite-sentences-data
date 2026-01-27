@@ -1,37 +1,52 @@
 {
-  "sentence": "Dişlerimi fırçalamak isterim.",
+  "sentence": "Dokuza çeyrek var.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich möchte mir die Zähne putzen."
+    "Es ist Viertel vor neun."
   ],
   "parts": [
     {
-      "content": "Dişlerimi",
+      "content": "Dokuza",
       "translations": [
-        "meine Zähne",
-        "Zähne von mir"
+        "Neun",
+        "Neun Stück"
       ],
       "usageExamples": []
     },
     {
-      "content": "fırçalamak",
+      "content": "çeyrek",
       "translations": [
-        "bürsten",
-        "putzen",
-        "abreiben"
+        "Viertel",
+        "Viertelstunde"
       ],
       "usageExamples": []
     },
     {
-      "content": "isterim",
+      "content": "var",
       "translations": [
-        "ich will",
-        "ich möchte"
+        "var",
+        "es gibt"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Köyde beş inek var.",
+          "Im Dorf gibt es fünf Rinder.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

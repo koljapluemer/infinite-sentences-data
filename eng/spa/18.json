@@ -1,30 +1,83 @@
 {
-  "sentence": "Logró escaparse.",
+  "sentence": "El hombre huele la leche.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He managed to escape."
+    "The man smells the milk."
   ],
   "parts": [
     {
-      "content": "Logró",
+      "content": "El",
       "translations": [
-        "achieved",
-        "managed",
-        "succeeded",
-        "got"
+        "The",
+        "He"
+      ],
+      "usageExamples": [
+        [
+          "El té sabe muy amargo y no está bueno.",
+          "The tea is really bitter and doesn't taste good.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El gran crítico y el poeta viajan juntos.",
+          "The great critic and the poet are traveling together.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El tiempo está muy malo.",
+          "The weather is very bad.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hombre",
+      "translations": [
+        "man",
+        "male"
       ],
       "usageExamples": []
     },
     {
-      "content": "escaparse",
+      "content": "huele",
       "translations": [
-        "to escape",
-        "to slip away",
-        "to get away",
-        "to sneak out"
+        "smells",
+        "scent",
+        "fragrance",
+        "odor"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La casa es grande.",
+          "The house is large.",
+          ""
+        ],
+        [
+          "La comida está lista.",
+          "The meal is prepared.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "leche",
+      "translations": [
+        "milk",
+        "dairy"
       ],
       "usageExamples": []
     }

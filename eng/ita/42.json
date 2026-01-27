@@ -1,72 +1,112 @@
 {
-  "sentence": "Beh, sicuramente lo richiederò.",
+  "sentence": "A Felicja piace guardare la TV.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Well, I'll surely ask again."
+    "Felicja enjoys watching TV."
   ],
   "parts": [
     {
-      "content": "Beh",
+      "content": "A",
       "translations": [
-        "Well",
-        "So"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Beh, eccoci qui alla fine!",
-          "Well, here we are at last!",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sicuramente",
+      "content": "Felicja",
       "translations": [
-        "certainly",
-        "surely",
-        "definitely",
-        "without a doubt"
+        "Felicia",
+        "Happy"
       ],
       "usageExamples": []
     },
     {
-      "content": "lo",
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
       "translations": [
         "the",
-        "it",
-        "him",
-        "that"
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "richiederò",
+      "content": "TV",
       "translations": [
-        "I will request",
-        "I will ask for",
-        "I will demand",
-        "I will require"
+        "television",
+        "TV set",
+        "television set",
+        "flat-screen TV"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io guardo la TV quasi ogni sera.",
+          "I watch TV almost every night.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

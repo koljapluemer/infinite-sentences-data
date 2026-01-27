@@ -1,34 +1,36 @@
 {
-  "sentence": "Polis burada.",
+  "sentence": "Senin araban hızlıdır.",
   "credits": [
-    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Die Polizei ist hier."
+    "Dein Auto ist schnell."
   ],
   "parts": [
     {
-      "content": "Polis",
+      "content": "Senin",
       "translations": [
-        "Stadt",
-        "Polizei"
+        "dein",
+        "deine"
       ],
       "usageExamples": []
     },
     {
-      "content": "burada",
+      "content": "araban",
       "translations": [
-        "hier",
-        "dort"
+        "Auto",
+        "Wagen"
       ],
-      "usageExamples": [
-        [
-          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
-          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "hızlıdır",
+      "translations": [
+        "schnell",
+        "ist schnell"
+      ],
+      "usageExamples": []
     }
   ]
 }

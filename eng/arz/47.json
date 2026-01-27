@@ -1,80 +1,90 @@
 {
-  "sentence": "توم بيعوم كام ساعه فاليوم؟",
+  "sentence": "ثبّتنا السعر على خمستاشر دُلَر.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How many hours a day does Tom swim?"
+    "We fixed the price at $15."
   ],
   "parts": [
     {
-      "content": "توم",
+      "content": "ثبّتنا",
       "translations": [
-        "you",
-        "you (singular)"
-      ],
-      "usageExamples": [
-        [
-          "توم مابصش عليها حتى.",
-          "Tom wouldn't even look at it.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم مبيشربش شاي.",
-          "Tom doesn't drink tea.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم اضطر يروح المستشفى.",
-          "Tom had to go to the hospital.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "بيعوم",
-      "translations": [
-        "to sell",
-        "selling"
+        "We confirmed",
+        "We established",
+        "We solidified"
       ],
       "usageExamples": []
     },
     {
-      "content": "كام",
+      "content": "السعر",
       "translations": [
-        "how much",
-        "how many"
-      ],
-      "usageExamples": [
-        [
-          "أقدر أشتري البيت ده على كام؟",
-          "How much could I buy this house for?",
-          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ساعه",
-      "translations": [
-        "hour",
-        "clock"
+        "the price",
+        "the cost"
       ],
       "usageExamples": []
     },
     {
-      "content": "فاليوم",
+      "content": "على",
       "translations": [
-        "today",
-        "this day"
+        "on",
+        "upon",
+        "at",
+        "about",
+        "onto",
+        "against",
+        "in general",
+        "mainly",
+        "in the main",
+        "(in) general",
+        "fully",
+        "extremely",
+        "moreover",
+        "until",
+        "care",
+        "look after",
+        "care (for)",
+        "looking for",
+        "look (for)",
+        "search (for)",
+        "find",
+        "for",
+        "for for"
       ],
       "usageExamples": [
         [
-          "بعمل 100 يورو فاليوم.",
-          "I make €100 a day.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "سَخَّنَ الأكلَ على البوتاجاز",
+          "heat up the food on the stove",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "الشعب كله على الرئيس",
+          "the people are all against the president",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "فيه أُتوبيس على الكبري",
+          "there is a bus on the bridge",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
+    },
+    {
+      "content": "خمستاشر",
+      "translations": [
+        "fifteen",
+        "15"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "دُلَر",
+      "translations": [
+        "dollar",
+        "currency"
+      ],
+      "usageExamples": []
     }
   ]
 }

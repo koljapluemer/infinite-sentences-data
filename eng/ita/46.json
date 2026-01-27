@@ -1,54 +1,108 @@
 {
-  "sentence": "C'era sangue dappertutto.",
+  "sentence": "A Hokkaido fanno cavalli di paglia.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Blood was everywhere.",
-    "There was blood everywhere."
+    "In Hokkaido, they make horses of straw."
   ],
   "parts": [
     {
-      "content": "C'era",
+      "content": "A",
       "translations": [
-        "There was",
-        "There used to be",
-        "There existed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sangue",
-      "translations": [
-        "blood",
-        "sanguine",
-        "gore",
-        "hemoglobin"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Stava tossendo sangue.",
-          "You were coughing up blood.",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io ho il sangue blu nelle vene.",
-          "I have blue blood in my veins.",
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dappertutto",
+      "content": "Hokkaido",
       "translations": [
-        "everywhere",
-        "all over",
-        "throughout",
-        "in all places"
+        "Hokkaido",
+        "Hokkaido Island"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "fanno",
+      "translations": [
+        "they do",
+        "they make",
+        "they are doing",
+        "they are making"
+      ],
+      "usageExamples": [
+        [
+          "È quello che fanno le persone intelligenti.",
+          "That's what smart people do.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Heather fanno male i denti.",
+          "Heather has a toothache.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cavalli",
+      "translations": [
+        "horses",
+        "stallions",
+        "cavalry",
+        "equines"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,62 +1,89 @@
 {
-  "sentence": "Onu hemen yapman gerekmiyor.",
+  "sentence": "O bir üstat değil.",
   "credits": [
     "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by weihaiping (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You don't have to do it right away."
+    "He is not a virtuoso."
   ],
   "parts": [
     {
-      "content": "onu",
+      "content": "O",
       "translations": [
-        "that",
-        "it",
-        "him/her"
+        "Oh.",
+        "O",
+        "Wow",
+        "Hey."
       ],
       "usageExamples": [
         [
-          "Onu yazmamalıydık.",
-          "We shouldn't have written that.",
+          "O yoga öğretiyor.",
+          "She teaches yoga.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O kazağı beğeniyorum.",
+          "I like that sweater.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O istasyonun adı ne?",
+          "What's the name of that station?",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Ve bu bir plaj.",
+          "And this is a beach.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom bana aslında onu yapmak istemediğini söyledi.",
-          "Tom told me he didn't actually want to do that.",
+          "Boston büyük bir şehirdir.",
+          "Boston is a large city.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom kötü bir golfçü.",
+          "Tom is a bad golfer.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hemen",
+      "content": "değil",
       "translations": [
-        "right away",
-        "immediately",
-        "at once",
-        "straight away"
+        "not",
+        "isn't",
+        "doesn't",
+        "is not"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "yapman",
-      "translations": [
-        "doing",
-        "you are doing",
-        "making",
-        "you make"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gerekmiyor",
-      "translations": [
-        "not necessary",
-        "no need",
-        "doesn't need to be done",
-        "not required"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Biz oraya gidebilsek muhteşem olurdu, değil mi?",
+          "It would be splendid if we could go there, wouldn't it?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary benim kız arkadaşım değil.",
+          "Mary isn't my girlfriend.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

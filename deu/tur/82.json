@@ -1,106 +1,47 @@
 {
-  "sentence": "O başka bir adamla dans ediyor.",
+  "sentence": "Okul nasıl gidiyor?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sie tanzt mit einem anderen Mann."
+    "Wie geht es in der Schule?"
   ],
   "parts": [
     {
-      "content": "O",
+      "content": "Okul",
       "translations": [
-        "O",
-        "Oh"
-      ],
-      "usageExamples": [
-        [
-          "O biraz çatlak.",
-          "Sie ist ein bisschen verrückt.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "O bu sırrı açık etmek istiyor.",
-          "Sie wollte das Geheimnis verraten.",
-          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "başka",
-      "translations": [
-        "anderer",
-        "andere",
-        "andres"
-      ],
-      "usageExamples": [
-        [
-          "Şekerleme ya da başka bir şey yapalım mı?",
-          "Sollen wir ein Nickerchen machen oder so?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "bir",
-      "translations": [
-        "eins",
-        "ein"
-      ],
-      "usageExamples": [
-        [
-          "Ciddi bir konuşmaya başladık.",
-          "Wir begannen eine ernsthafte Unterhaltung.",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
-        ],
-        [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "İyi bir kamera aldım.",
-          "Ich habe mir eine gute Kamera gekauft.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "adamla",
-      "translations": [
-        "Mensch",
-        "Typ",
-        "Kerl"
+        "Schule",
+        "Bildungseinrichtung"
       ],
       "usageExamples": []
     },
     {
-      "content": "dans",
+      "content": "nasıl",
       "translations": [
-        "in",
-        "drin"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ediyor",
-      "translations": [
-        "macht",
-        "tut"
+        "wie",
+        "was für ein"
       ],
       "usageExamples": [
         [
-          "Hepsi ne ediyor?",
-          "Was macht das alles zusammen?",
-          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+          "Hava nasıl?",
+          "Wie ist das Wetter?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O nasıl? Yaşlı mı, genç mi?",
+          "Wie ist er? Alt, oder jung?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "gidiyor",
+      "translations": [
+        "geht",
+        "fährt"
+      ],
+      "usageExamples": []
     }
   ]
 }

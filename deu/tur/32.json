@@ -1,11 +1,11 @@
 {
-  "sentence": "Bu kurallara aykırıdır.",
+  "sentence": "Bu da kim?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es ist gegen die Regeln."
+    "Wer ist das denn?"
   ],
   "parts": [
     {
@@ -17,39 +17,60 @@
       ],
       "usageExamples": [
         [
-          "Bu da kim?",
-          "Wer ist das denn?",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bu sağduyu.",
-          "Das entspricht dem gesunden Menschenverstand.",
+          "Bu kurallara aykırıdır.",
+          "Es ist gegen die Regeln.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
           "Bu ücretsiz ulaşılabilir.",
           "Das ist kostenlos erhältlich.",
           "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu sağduyu.",
+          "Das entspricht dem gesunden Menschenverstand.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "kurallara",
+      "content": "da",
       "translations": [
-        "Regeln",
-        "Vorschriften"
+        "da",
+        "dort",
+        "da drüben"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom, Avustralya'da olduğunu söyledi.",
+          "Tom hat gesagt, dass er in Australien ist.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ateşsiz duman da çıkabilir.",
+          "Rauch kann auch ohne Feuer entstehen.",
+          "Sentence from Tatoeba by hrkucuk (CC-BY 2.0 FR)"
+        ],
+        [
+          "Amerikadaki tüketim durgunluğu etrafı da etkiledi.",
+          "Die Stagnation des Konsums in Amerika zog auch die Umgebung in Mitleidenschaft.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "aykırıdır",
+      "content": "kim",
       "translations": [
-        "ist widersprüchlich",
-        "ist unvereinbar",
-        "ist abwegig",
-        "ist unlogisch"
+        "wer",
+        "jemand"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

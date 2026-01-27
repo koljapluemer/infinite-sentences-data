@@ -1,91 +1,46 @@
 {
-  "sentence": "اديتلو كل الفلوس اللي كت عندي.",
+  "sentence": "البضاعة وصلت امبارح.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I gave him what money I had."
+    "The goods arrived yesterday."
   ],
   "parts": [
     {
-      "content": "اديتلو",
+      "content": "البضاعة",
       "translations": [
-        "I gave him",
-        "I handed it to him"
+        "the goods",
+        "the merchandise",
+        "the products",
+        "the items"
       ],
       "usageExamples": []
     },
     {
-      "content": "كل",
+      "content": "وصلت",
       "translations": [
-        "all",
-        "every",
-        "each"
+        "arrived",
+        "reached",
+        "got here",
+        "came"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "امبارح",
+      "translations": [
+        "yesterday",
+        "last night"
       ],
       "usageExamples": [
         [
-          "كل ولد عندو بسكلتّه.",
-          "Each boy has a bike.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "المسرح كان بيبقى فاتح كل يوم في الأسبوع.",
-          "The theater used to open every day of the week.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "كنت هنا امبارح.",
+          "I was just here yesterday.",
+          "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "الفلوس",
-      "translations": [
-        "money",
-        "cash",
-        "funds",
-        "finance"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "اللي",
-      "translations": [
-        "who",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "إيه اللي انت أكلته؟",
-          "What did you have to eat?",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "عجبك الورد اللي بعتهولك؟",
-          "Did you like the flowers that I sent you?",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
-          "You're the only one working here who can speak French.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "كت",
-      "translations": [
-        "write",
-        "wrote"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "عندي",
-      "translations": [
-        "I have",
-        "I own",
-        "I possess"
-      ],
-      "usageExamples": []
     }
   ]
 }

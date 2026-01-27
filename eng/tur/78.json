@@ -1,44 +1,102 @@
 {
-  "sentence": "Şimdi saat kaç?",
+  "sentence": "Tom en iyi değil.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What time is it now?"
+    "Tom isn't the best."
   ],
   "parts": [
     {
-      "content": "Şimdi",
+      "content": "Tom",
       "translations": [
-        "Now",
-        "Right now",
-        "At this moment"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "saat",
-      "translations": [
-        "hour",
-        "clock",
-        "time"
+        "Tom",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Altmışlık sayı sistemi Babil devletinde uygulandı, bunun sonucunda bir saatte 60 dakika ve günde 24 saat var.",
-          "A sexagesimal system was used in Babylonia. Therefore an hour has sixty minutes and a day has twenty-four hours.",
-          "Sentence from Tatoeba by Ivanovb (CC-BY 2.0 FR)"
+          "Seni öldüremedim, Tom.",
+          "I couldn't kill you, Tom.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom Mary'ye bekleyeceğini söyledi.",
+          "Tom told Mary he'd wait.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom annemin erkek kardeşi.",
+          "Tom is my mother's brother.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "kaç",
+      "content": "en",
       "translations": [
-        "how many",
-        "how much"
+        "yes",
+        "in agreement"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Doktoru, Tom'a haftanın en az üç gününde alkol içmemesini önerdi.",
+          "The doctor advised Tom to have at least three alcohol-free days per week.",
+          "Sentence from Tatoeba by Konanen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "iyi",
+      "translations": [
+        "good",
+        "well",
+        "nice",
+        "fine"
+      ],
+      "usageExamples": [
+        [
+          "Seni neyin daha iyi hissettireceğini biliyorum.",
+          "I know what'll make you feel better.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bazı iyi fikirleri olabilir.",
+          "Tom may have some good ideas.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O iyi bir çocuk olmalı.",
+          "He must be a good boy.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "değil",
+      "translations": [
+        "not",
+        "isn't",
+        "doesn't",
+        "is not"
+      ],
+      "usageExamples": [
+        [
+          "O bir üstat değil.",
+          "He is not a virtuoso.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary benim kız arkadaşım değil.",
+          "Mary isn't my girlfriend.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ],
+        [
+          "Biz oraya gidebilsek muhteşem olurdu, değil mi?",
+          "It would be splendid if we could go there, wouldn't it?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,78 +1,74 @@
 {
-  "sentence": "ما عملتش حاجة غلط.",
+  "sentence": "مفيش أي مشاكل.",
   "credits": [
-    "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I haven't done anything wrong."
+    "There are no problems."
   ],
   "parts": [
     {
-      "content": "ما",
+      "content": "مفيش",
       "translations": [
-        "what",
-        "what is it",
-        "what's up"
-      ],
-      "usageExamples": [
-        [
-          "ما بطيقوش.",
-          "I can't stand him.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "عمري ما حبيت البيولوجي.",
-          "I never liked biology.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
-        ],
-        [
-          "ما افتكرش ان الفقر عيب.",
-          "I think being poor is nothing to be ashamed of.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "عملتش",
-      "translations": [
-        "I didn't do it.",
-        "I haven't done it",
-        "I didn't make it",
-        "I didn't work on it"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "حاجة",
-      "translations": [
-        "need",
-        "thing",
-        "requirement",
-        "necessity"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "غلط",
-      "translations": [
-        "wrong",
-        "incorrect",
-        "mistake",
-        "error"
+        "there isn't",
+        "there's none",
+        "not available",
+        "nothing"
       ],
       "usageExamples": [
         [
           "مفيش أي غلط.",
           "There's no mistake.",
           "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "هو جاوب غلط.",
-          "He answered incorrectly.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "أي",
+      "translations": [
+        "any",
+        "which",
+        "either",
+        "whichever",
+        "all",
+        "anybody's",
+        "anyone",
+        "anybody",
+        "whoever",
+        "anything",
+        "whenever",
+        "it",
+        "useless,",
+        "useless"
+      ],
+      "usageExamples": [
+        [
+          "أي كتاب أحسن؟",
+          "Which book is better?",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "مفيش أي غلط.",
+          "There's no mistake.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "جوزي مَلوش أي لَذمَة بِيَقعَد طول الوقت قُدّام التِليڤزيون",
+          "my husband is useless, he sits all day in front of the television",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "مشاكل",
+      "translations": [
+        "problems",
+        "issues",
+        "troubles",
+        "challenges"
+      ],
+      "usageExamples": []
     }
   ]
 }

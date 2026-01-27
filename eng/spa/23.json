@@ -1,52 +1,66 @@
 {
-  "sentence": "Nadie piensa eso.",
+  "sentence": "Ella me pidió ayuda.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "No one thinks that."
+    "She asked me for help."
   ],
   "parts": [
     {
-      "content": "Nadie",
+      "content": "Ella",
       "translations": [
-        "nobody",
-        "no one",
-        "anyone",
-        "naught"
+        "She",
+        "Her"
       ],
       "usageExamples": [
         [
-          "Nadie lo diría.",
-          "No one would say it.",
+          "Ella quiere cerrar su pequeño negocio.",
+          "She wants to wind up her small business.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella está trabajando muy duro.",
+          "She is very hardworking.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella eligió un vestido azul claro.",
+          "She chose a light blue dress.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piensa",
+      "content": "me",
       "translations": [
-        "think",
-        "consider",
-        "believe",
-        "reflect"
+        "me"
+      ],
+      "usageExamples": [
+        [
+          "Me llamaron para una entrevista de trabajo.",
+          "I received a call for a job interview.",
+          ""
+        ],
+        [
+          "Aquí me siento muy solo.",
+          "I feel very lonely here.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si me compras un helado, te doy un beso.",
+          "If you buy me an ice cream, I'll give you a kiss.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ayuda",
+      "translations": [
+        "help"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "eso",
-      "translations": [
-        "that",
-        "it"
-      ],
-      "usageExamples": [
-        [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

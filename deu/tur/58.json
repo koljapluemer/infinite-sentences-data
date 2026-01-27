@@ -1,28 +1,58 @@
 {
-  "sentence": "Gülmekten yarıldık.",
+  "sentence": "Hepsi ne ediyor?",
   "credits": [
-    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wir haben uns krumm und bucklig gelacht."
+    "Was macht das alles zusammen?"
   ],
   "parts": [
     {
-      "content": "Gülmekten",
+      "content": "Hepsi",
       "translations": [
-        "Lachen",
-        "Zum Lachen bringen"
+        "alle",
+        "alles"
       ],
       "usageExamples": []
     },
     {
-      "content": "yarıldık",
+      "content": "ne",
       "translations": [
-        "wir haben uns geteilt",
-        "wir sind auseinandergegangen"
+        "nicht",
+        "kein"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Onun ne dediğini anlayamadım.",
+          "Ich habe nicht verstanden, was er gesagt hat.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
+          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Öğle yemeği için ne istersin?",
+          "Was möchtest du zu essen?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ediyor",
+      "translations": [
+        "macht",
+        "tut"
+      ],
+      "usageExamples": [
+        [
+          "O başka bir adamla dans ediyor.",
+          "Sie tanzt mit einem anderen Mann.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

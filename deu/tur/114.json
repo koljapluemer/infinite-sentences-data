@@ -1,60 +1,74 @@
 {
-  "sentence": "Tom beni arıyor mu?",
+  "sentence": "Tom'un bir kedisi var.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sucht Tom nach mir?"
+    "Tom hat eine Katze."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "bir",
       "translations": [
-        "Tom",
-        "Tomas"
+        "eins",
+        "ein"
       ],
       "usageExamples": [
         [
-          "Tom'dan korktuğumu kim söylüyor?",
-          "Wer sagt, dass ich Angst vor Tom hätte?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sonuçları analiz etti.",
-          "Tom analysierte die Ergebnisse.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Tom, buna vaktimiz yok!",
-          "Tom, wir haben dafür keine Zeit!",
-          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "beni",
+      "content": "kedisi",
       "translations": [
-        "mich",
-        "mir"
+        "Katze",
+        "Kätzchen"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "arıyor",
+      "content": "var",
       "translations": [
-        "ruft an",
-        "sucht"
+        "var",
+        "es gibt"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "mu",
-      "translations": [
-        "ich",
-        "mir"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bir alternatifin var.",
+          "Du hast eine Alternative.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dokuza çeyrek var.",
+          "Es ist Viertel vor neun.",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

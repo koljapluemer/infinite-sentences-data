@@ -1,40 +1,80 @@
 {
-  "sentence": "Tren zamanında ayrıldı.",
+  "sentence": "Sensiz hayatımın bir anlamı yok.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The train left on time."
+    "Without you, I have no reason to live."
   ],
   "parts": [
     {
-      "content": "tren",
+      "content": "sensiz",
       "translations": [
-        "train",
-        "trolley"
+        "without you",
+        "lacking you",
+        "in your absence"
       ],
       "usageExamples": []
     },
     {
-      "content": "zamanında",
+      "content": "hayatımın",
       "translations": [
-        "in time",
-        "on time",
-        "in due time",
-        "at the right time"
+        "my life",
+        "of my life"
       ],
       "usageExamples": []
     },
     {
-      "content": "ayrıldı",
+      "content": "bir",
       "translations": [
-        "left",
-        "departed",
-        "split",
-        "separated"
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Tom kötü bir golfçü.",
+          "Tom is a bad golfer.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "İyi bir iş istiyorum.",
+          "I want a good job.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bir üstat değil.",
+          "He is not a virtuoso.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "anlamı",
+      "translations": [
+        "meaning",
+        "significance",
+        "definition",
+        "interpretation"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "yok",
+      "translations": [
+        "none",
+        "not available",
+        "no",
+        "absent"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un ayakkabılarını çıkarmasına gerek yok.",
+          "Tom doesn't need to take his shoes off.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

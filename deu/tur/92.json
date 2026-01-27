@@ -1,28 +1,91 @@
 {
-  "sentence": "Otobüs boştu.",
+  "sentence": "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Der Bus war leer."
+    "Hast du gesagt, dass du deine Fehler akzeptieren sollst?"
   ],
   "parts": [
     {
-      "content": "Otobüs",
+      "content": "Sen",
       "translations": [
-        "Bus",
-        "Omnibus"
+        "du",
+        "Sie"
+      ],
+      "usageExamples": [
+        [
+          "Sen hala oğlumsun.",
+          "Du bist noch immer mein Sohn.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hatalarını",
+      "translations": [
+        "deine Fehler",
+        "ihre Fehler"
       ],
       "usageExamples": []
     },
     {
-      "content": "boştu",
+      "content": "kabul",
       "translations": [
-        "leer",
-        "frei"
+        "akzeptieren",
+        "annehmen"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "etmen",
+      "translations": [
+        "essen",
+        "verzehren"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gerektiğini",
+      "translations": [
+        "was notwendig",
+        "was erforderlich"
+      ],
+      "usageExamples": [
+        [
+          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "söyledin",
+      "translations": [
+        "du hast gesagt",
+        "du hast gesprochen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "ich",
+        "mir"
+      ],
+      "usageExamples": [
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Kartla ödeme yapılabilir mi?",
+          "Kann man mit Karte bezahlen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

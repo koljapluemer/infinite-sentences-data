@@ -1,181 +1,84 @@
 {
-  "sentence": "Che tipo di cibo non le piace?",
+  "sentence": "A Ken mancava Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What kind of food don't you like?"
+    "Ken missed Tom."
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "A",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Che altro vorresti?",
-          "What more would you want?",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che musica ascoltate?",
-          "What music do you listen to?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
-          "Che altro stai considerando?",
-          "What else are you considering?",
+          "A quale proposito?",
+          "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tipo",
+      "content": "Ken",
       "translations": [
-        "type",
-        "kind",
-        "sort",
-        "category"
+        "Ken",
+        "Yes.",
+        "Okay."
       ],
       "usageExamples": [
         [
-          "Sono un tipo solitario.",
-          "I'm a loner.",
+          "A Ken piace davvero Tom.",
+          "Ken does like Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken piace molto la musica.",
+          "Ken likes music very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken piace sul serio Tom.",
+          "Ken does like Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "Tom",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cibo",
-      "translations": [
-        "food",
-        "meal",
-        "nourishment",
-        "provisions"
-      ],
-      "usageExamples": [
-        [
-          "Yanni comprò del cibo.",
-          "Yanni bought some food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Odio il cibo degli ospedali.",
-          "I hate hospital food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha lasciato un po' di cibo nel suo piatto.",
-          "He left some food on his plate.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "non",
-      "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
-      ],
-      "usageExamples": [
-        [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Yanni non comprende l'Islam.",
-          "Yanni doesn't understand Islam.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Però non funzionerà!",
-          "But that won't work!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "le",
-      "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
-      ],
-      "usageExamples": [
-        [
-          "Non le vogliamo là.",
-          "We don't want them there.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non le può licenziare.",
-          "You can't fire them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non aveva ciò che le serviva.",
-          "She didn't have what she needed.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "piace",
-      "translations": [
-        "to like",
-        "to please",
-        "to be pleasing to"
-      ],
-      "usageExamples": [
-        [
-          "Mi piace il reggae.",
-          "I like reggae.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Robert piace la musica classica.",
-          "Robert likes classical music.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non mi piace la città in cui vive.",
-          "I don't like the city in which he lives.",
-          "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
         ]
       ]
     }

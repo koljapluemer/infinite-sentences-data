@@ -1,46 +1,60 @@
 {
-  "sentence": "Forse questo è un brutto momento.",
+  "sentence": "A noi è piaciuta la cena.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Maybe this is a bad time."
+    "We enjoyed the dinner."
   ],
   "parts": [
     {
-      "content": "Forse",
+      "content": "A",
       "translations": [
-        "Perhaps",
-        "Maybe.",
-        "Possibly",
-        "Might be"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "questo",
-      "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Trasporti questo.",
-          "Carry this.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Inscatola questo.",
-          "Box this up.",
+          "A Judy piace lui.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Prenda questo denaro.",
-          "Take this money.",
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "noi",
+      "translations": [
+        "we",
+        "us",
+        "ourselves"
+      ],
+      "usageExamples": [
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei un'ispirazione per tutti noi.",
+          "You're an inspiration to us all.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -54,56 +68,15 @@
       ],
       "usageExamples": [
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "La risposta è complicata.",
-          "The answer is complicated.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
-      ],
-      "usageExamples": [
-        [
-          "Sono un tipo solitario.",
-          "I'm a loner.",
+          "Lei è americano?",
+          "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
-        [
-          "Ti compro un regalo.",
-          "I buy you a present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "brutto",
-      "translations": [
-        "ugly",
-        "bad",
-        "rough",
-        "disgusting"
-      ],
-      "usageExamples": [
         [
           "Questo cane è brutto.",
           "This dog is ugly.",
@@ -112,27 +85,78 @@
       ]
     },
     {
-      "content": "momento",
+      "content": "piaciuta",
       "translations": [
-        "moment",
-        "instant",
-        "time",
-        "point in time"
+        "liked",
+        "pleased",
+        "enjoyed",
+        "found appealing"
       ],
       "usageExamples": [
         [
-          "Dove sei in questo momento?",
-          "Where are you right now?",
+          "A Layla è piaciuta la festa.",
+          "Layla liked the party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ci scuserai per un momento?",
-          "Will you excuse us for a moment?",
+          "A Carlos è piaciuta la presentazione di Rima.",
+          "Carlos enjoyed Rima’s presentation.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È la stagione delle piogge in Giappone in questo momento.",
-          "It's the rainy season in Japan right now.",
+          "Le è piaciuta la pizza?",
+          "Did you enjoy the pizza?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apri la cassaforte.",
+          "Open the safe.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cena",
+      "translations": [
+        "dinner",
+        "supper",
+        "meal"
+      ],
+      "usageExamples": [
+        [
+          "Studio inglese dopo cena.",
+          "I study English after dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa c'è per cena?",
+          "What's for dinner?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha a malapena toccato la sua cena.",
+          "He barely touched his dinner.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

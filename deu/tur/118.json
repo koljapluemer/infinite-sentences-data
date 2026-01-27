@@ -1,36 +1,102 @@
 {
-  "sentence": "Tom'a özellikle güvenmiyoruz.",
+  "sentence": "Tom, Avustralya'da olduğunu söyledi.",
   "credits": [
-    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wir trauen Tom nicht besonders."
+    "Tom hat gesagt, dass er in Australien ist."
   ],
   "parts": [
     {
-      "content": "Tom'a",
+      "content": "Tom",
       "translations": [
-        "Tom",
-        "Tommy"
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom beni arıyor mu?",
+          "Sucht Tom nach mir?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Avustralya",
+      "translations": [
+        "Australien",
+        "Australien (Land)"
       ],
       "usageExamples": []
     },
     {
-      "content": "özellikle",
+      "content": "da",
       "translations": [
-        "insbesondere",
-        "vor allem"
+        "da",
+        "dort",
+        "da drüben"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bu da kim?",
+          "Wer ist das denn?",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ateşsiz duman da çıkabilir.",
+          "Rauch kann auch ohne Feuer entstehen.",
+          "Sentence from Tatoeba by hrkucuk (CC-BY 2.0 FR)"
+        ],
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "güvenmiyoruz",
+      "content": "olduğunu",
       "translations": [
-        "Wir vertrauen nicht.",
-        "Wir haben kein Vertrauen."
+        "es ist",
+        "war",
+        "ist geworden"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Biraz yorgun olduğunu söyledi.",
+          "Er sagte, er sei ein bisschen müde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
+          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
+          "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "söyledi",
+      "translations": [
+        "sagte",
+        "hat gesagt"
+      ],
+      "usageExamples": [
+        [
+          "Biraz yorgun olduğunu söyledi.",
+          "Er sagte, er sei ein bisschen müde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

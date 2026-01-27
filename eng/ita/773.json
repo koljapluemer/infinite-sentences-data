@@ -1,51 +1,103 @@
 {
-  "sentence": "Stai facendo progressi.",
+  "sentence": "Quali sono i tuoi piani?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're making progress."
+    "What are your plans?",
+    "What're your plans?"
   ],
   "parts": [
     {
-      "content": "Stai",
+      "content": "Quali",
       "translations": [
-        "You are",
-        "Stay.",
-        "Be",
-        "Remain"
+        "Which",
+        "What kind of",
+        "What type of",
+        "What sort of"
       ],
       "usageExamples": []
     },
     {
-      "content": "facendo",
+      "content": "sono",
       "translations": [
-        "doing",
-        "making",
-        "performing",
-        "executing"
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
-          "Mi sto facendo ricrescere la barba.",
-          "I'm growing a beard again.",
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Faresti meglio ad andare. Si sta facendo tardi.",
-          "You'd better go. It's getting late.",
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono solo curiosa.",
+          "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "progressi",
+      "content": "i",
       "translations": [
-        "progress",
-        "advancements",
-        "developments",
-        "improvements"
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo zio Ted ci portò allo zoo per farci vedere i panda.",
+          "Uncle Ted took us to the zoo in order to show us the pandas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo articolo ridicolizza i vegetariani.",
+          "This article makes fun of vegetarians.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tuoi",
+      "translations": [
+        "your",
+        "yours",
+        "of yours"
+      ],
+      "usageExamples": [
+        [
+          "Prendi in prestito le biro dai tuoi amici.",
+          "You borrow pens from your friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piani",
+      "translations": [
+        "plans",
+        "floors",
+        "levels",
+        "schedules"
       ],
       "usageExamples": []
     }

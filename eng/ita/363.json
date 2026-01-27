@@ -1,56 +1,60 @@
 {
-  "sentence": "Lasciate finire Tom.",
+  "sentence": "Il gatto mangia.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by cntrational (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let Tom finish."
+    "The cat eats."
   ],
   "parts": [
     {
-      "content": "Lasciate",
+      "content": "Il",
       "translations": [
-        "Leave",
-        "Let go",
-        "Abandon",
-        "Allow"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "finire",
-      "translations": [
-        "to finish",
-        "to end",
-        "to complete",
-        "to conclude"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
+        "The",
+        "It"
       ],
       "usageExamples": [
         [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Intimidisci Tom.",
-          "You intimidate Tom.",
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembra impegnato.",
-          "Tom looks busy.",
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "gatto",
+      "translations": [
+        "cat",
+        "kitten"
+      ],
+      "usageExamples": [
+        [
+          "Jack ha un gatto e un pappagallo a casa.",
+          "Jack keeps a cat and a parrot at home.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mangia",
+      "translations": [
+        "eat",
+        "consume",
+        "dine",
+        "feast"
+      ],
+      "usageExamples": []
     }
   ]
 }

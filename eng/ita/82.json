@@ -1,56 +1,103 @@
 {
-  "sentence": "Conosce i cavalli.",
+  "sentence": "A Madre Teresa fu dato il Premio Nobel.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He knows horses."
+    "Mother Teresa was given the Nobel prize."
   ],
   "parts": [
     {
-      "content": "Conosce",
+      "content": "A",
       "translations": [
-        "He/She knows",
-        "You know",
-        "It is known",
-        "They know"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Non accarezzo i vostri cani.",
-          "I don't pet your dogs.",
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non mi piacciono le carte di credito. Preferisco i contanti.",
-          "I don't like credit cards. I prefer cash.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
-          "He threw his dirty, smelly socks on the floor.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cavalli",
+      "content": "Madre Teresa",
       "translations": [
-        "horses",
-        "stallions",
-        "cavalry",
-        "equines"
+        "Mother Teresa",
+        "Saint Teresa of Calcutta"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dato",
+      "translations": [
+        "given",
+        "data",
+        "fact",
+        "information"
+      ],
+      "usageExamples": [
+        [
+          "A Madre Teresa è stato dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il dottore gli ha dato un sedativo.",
+          "The doctor gave him a sedative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha dato dell'idiota all'arbitro.",
+          "Tom called the referee an idiot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Premio Nobel",
+      "translations": [
+        "Nobel Prize",
+        "Nobel Award"
       ],
       "usageExamples": []
     }

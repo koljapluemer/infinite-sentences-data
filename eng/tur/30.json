@@ -1,47 +1,58 @@
 {
-  "sentence": "Neler olduğunu biliyor musun?",
+  "sentence": "Keşke Tom'un şarkı söylemesini duyabilseydin.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you know what's going on?"
+    "I wish you could've heard Tom sing."
   ],
   "parts": [
     {
-      "content": "Neler",
+      "content": "Keşke",
       "translations": [
-        "What things",
-        "What else",
-        "What are they",
-        "What is happening"
+        "I wish",
+        "If only"
       ],
       "usageExamples": []
     },
     {
-      "content": "olduğunu",
+      "content": "Tom'un",
       "translations": [
-        "that it is",
-        "that it was",
-        "being",
-        "having been"
+        "Tom's",
+        "of Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un gitar çalması şaşırtıcı.",
+          "Tom's guitar playing is amazing.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un Mary'nin kız kardeşlerinin herhangi biri ile tanıştığını sanmıyorum.",
+          "I don't think Tom has met either of Mary's sisters.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un tablolarından kaç tanesini onun için sattın?",
+          "How many of Tom's paintings have you sold for him?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "şarkı",
+      "translations": [
+        "song",
+        "tune"
       ],
       "usageExamples": []
     },
     {
-      "content": "biliyor",
+      "content": "duyabilseydin",
       "translations": [
-        "knows",
-        "is aware of"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "musun",
-      "translations": [
-        "are you",
-        "do you have",
-        "do you want"
+        "if you could hear",
+        "if you were able to hear"
       ],
       "usageExamples": []
     }

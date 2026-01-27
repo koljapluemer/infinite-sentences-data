@@ -1,99 +1,61 @@
 {
-  "sentence": "O bu sırrı açık etmek istiyor.",
+  "sentence": "Onun bunu başarması inanılmaz.",
   "credits": [
-    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by odien16 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sie wollte das Geheimnis verraten."
+    "Es ist unwahrscheinlich, dass es ihm gelungen ist."
   ],
   "parts": [
     {
-      "content": "O",
+      "content": "Onun",
       "translations": [
-        "O",
-        "Oh"
+        "seine",
+        "ihr"
       ],
       "usageExamples": [
         [
-          "O biraz çatlak.",
-          "Sie ist ein bisschen verrückt.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "O başka bir adamla dans ediyor.",
-          "Sie tanzt mit einem anderen Mann.",
+          "Onun ne dediğini anlayamadım.",
+          "Ich habe nicht verstanden, was er gesagt hat.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir.",
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bu",
+      "content": "bunu",
       "translations": [
-        "dies",
-        "das"
+        "das",
+        "dieses"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "başarması",
+      "translations": [
+        "es schaffen",
+        "es gelingen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "inanılmaz",
+      "translations": [
+        "unglaublich",
+        "unfassbar"
       ],
       "usageExamples": [
         [
           "Bence bu inanılmaz.",
           "Ich denke, es ist unglaublich.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Neden bu kadar uzun düşünüyorsun?",
-          "Warum überlegen Sie so lange?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mali desteği, bu projemiz için vazgeçilmezdir.",
-          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
-          "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "sırrı",
-      "translations": [
-        "Geheimnis",
-        "Geheim"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "açık",
-      "translations": [
-        "offen",
-        "klar"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "etmek",
-      "translations": [
-        "machen",
-        "tun",
-        "verrichten"
-      ],
-      "usageExamples": [
-        [
-          "Size yardım etmek istiyorum.",
-          "Ich will dir helfen.",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "istiyor",
-      "translations": [
-        "will",
-        "möchte"
-      ],
-      "usageExamples": []
     }
   ]
 }

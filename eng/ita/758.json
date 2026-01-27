@@ -1,30 +1,82 @@
 {
-  "sentence": "Sono grata.",
+  "sentence": "Potete vedere quella luce tremolante?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm grateful."
+    "Can you see that flickering light?"
   ],
   "parts": [
     {
-      "content": "Sono",
+      "content": "Potete",
       "translations": [
-        "I am.",
-        "We are",
-        "They are.",
-        "You are"
+        "You can",
+        "You are able to",
+        "You may.",
+        "You are allowed to"
       ],
       "usageExamples": []
     },
     {
-      "content": "grata",
+      "content": "vedere",
       "translations": [
-        "pleasant",
-        "welcome",
-        "agreeable",
-        "thankful"
+        "to see",
+        "to watch",
+        "to look at",
+        "to perceive"
+      ],
+      "usageExamples": [
+        [
+          "Lo zio Ted ci portò allo zoo per farci vedere i panda.",
+          "Uncle Ted took us to the zoo in order to show us the pandas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "quella",
+      "translations": [
+        "that",
+        "the one",
+        "that one",
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Taxi, segui quella macchina.",
+          "Taxi, follow that car.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami sentì quella ragazza.",
+          "Sami heard that girl.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "luce",
+      "translations": [
+        "light",
+        "brightness",
+        "illumination",
+        "radiance"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "tremolante",
+      "translations": [
+        "trembling",
+        "shaking",
+        "quivering",
+        "vibrating"
       ],
       "usageExamples": []
     }

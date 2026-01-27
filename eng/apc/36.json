@@ -1,21 +1,36 @@
 {
-  "sentence": "ماري قالت انو مالا مخططا تعمل هيك",
+  "sentence": "عالأغلب توم لح يساوي يلي لح تطلبه.",
   "credits": [
     "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary said she's not planning on doing that."
+    "I suspect Tom will do whatever you ask."
   ],
   "parts": [
     {
-      "content": "ماري",
+      "content": "عالأغلب",
       "translations": [
-        "Mary",
-        "Mariam",
-        "Maria"
+        "most likely",
+        "probably",
+        "in all likelihood",
+        "generally"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "توم",
+      "translations": [
+        "Tom",
+        "Tome",
+        "Tommie"
       ],
       "usageExamples": [
+        [
+          "توم خلى عينوا عالولاد",
+          "Tom kept an eye on the children.",
+          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
+        ],
         [
           "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
           "Tom and Mary told John that they were unwilling to do that.",
@@ -29,83 +44,42 @@
       ]
     },
     {
-      "content": "قالت",
+      "content": "لح",
       "translations": [
-        "She said",
-        "She stated",
-        "She remarked",
-        "She declared"
+        "moment",
+        "instant",
+        "while",
+        "time"
       ],
       "usageExamples": []
     },
     {
-      "content": "انو",
+      "content": "يساوي",
       "translations": [
-        "this",
-        "that",
-        "it"
-      ],
-      "usageExamples": [
-        [
-          "توم و ماري قالوا لجون انو ما كان عندهم رغبة يعملوا هالإشي.",
-          "Tom and Mary told John that they were unwilling to do that.",
-          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
-        ],
-        [
-          "البربر بيقولوا انو لغتهم اسمها تامازايت.",
-          "Berbers call their language Tamazight.",
-          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
-        ],
-        [
-          "كان مشكوك فيها انو هية جاسوسة.",
-          "She was suspected of being a spy.",
-          "Sentence from Tatoeba by abdo123 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "مالا",
-      "translations": [
-        "money",
-        "wealth",
-        "property",
-        "assets"
+        "equals",
+        "is equal to",
+        "is equivalent to",
+        "amounts to"
       ],
       "usageExamples": []
     },
     {
-      "content": "مخططا",
+      "content": "يلي",
       "translations": [
-        "plan",
-        "diagram",
-        "scheme",
-        "outline"
+        "next",
+        "following",
+        "after",
+        "then"
       ],
       "usageExamples": []
     },
     {
-      "content": "تعمل",
+      "content": "تطلبه",
       "translations": [
-        "to work",
-        "to operate",
-        "to function",
-        "to act"
-      ],
-      "usageExamples": [
-        [
-          "يا الَّله، فرجينا شو بتعرف تعمل",
-          "Go on, show us what you can do.",
-          "Sentence from Tatoeba by marcosruben (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "هيك",
-      "translations": [
-        "like this",
-        "this way",
-        "such",
-        "in this manner"
+        "You request it",
+        "You ask for it",
+        "It is requested by you",
+        "You demand it"
       ],
       "usageExamples": []
     }

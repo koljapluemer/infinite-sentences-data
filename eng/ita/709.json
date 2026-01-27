@@ -1,66 +1,144 @@
 {
-  "sentence": "Sbrigati o perderai l'aereo.",
+  "sentence": "\"Passami il sale, per piacere.\" \"Ecco qua.\"",
   "credits": [
-    "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Swift (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hurry up, or you'll miss your plane."
+    "\"Pass me the salt, please.\" \"Here you are.\""
   ],
   "parts": [
     {
-      "content": "Sbrigati",
+      "content": "Passami",
       "translations": [
-        "Hurry up.",
-        "Get a move on.",
-        "Speed it up",
-        "Rush"
+        "Pass me",
+        "Hand me",
+        "Give me"
       ],
       "usageExamples": []
     },
     {
-      "content": "o",
+      "content": "il",
       "translations": [
-        "or",
-        "either",
-        "alternatively",
-        "otherwise"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
-          "When riding a bus or a train, you need to pay the fare.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lui va a scuola a piedi o in bici?",
-          "Does he go to school on foot or by bicycle?",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non so se lui verrà in treno o in auto.",
-          "I don't know whether he'll come by train or by car.",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "perderai",
+      "content": "sale",
       "translations": [
-        "you will lose",
-        "you'll lose",
-        "you are going to lose"
+        "discount",
+        "sale price",
+        "clearance",
+        "promotion"
       ],
       "usageExamples": []
     },
     {
-      "content": "l'aereo",
+      "content": "per",
       "translations": [
-        "the airplane",
-        "the aircraft",
-        "the plane"
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piacere",
+      "translations": [
+        "to please",
+        "to like",
+        "pleasure",
+        "enjoyment"
+      ],
+      "usageExamples": [
+        [
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi fa piacere che tu sia d'accordo.",
+          "I'm glad you agree.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Ecco",
+      "translations": [
+        "Here",
+        "Here it is",
+        "This is",
+        "Look"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "qua",
+      "translations": [
+        "where",
+        "in which",
+        "at which",
+        "by which"
+      ],
+      "usageExamples": [
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo aspettarli qua.",
+          "I have to wait here for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

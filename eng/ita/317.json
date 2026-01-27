@@ -1,39 +1,90 @@
 {
-  "sentence": "Klava invidiava Lyusya.",
+  "sentence": "Hai guardato la partita?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Klava envied Lyusya."
+    "Did you watch the game?"
   ],
   "parts": [
     {
-      "content": "Klava",
+      "content": "Hai",
       "translations": [
-        "Keyboard",
-        "Piano keyboard",
-        "Musical keyboard"
+        "Yes.",
+        "Yeah",
+        "Yep.",
+        "Affirmative"
+      ],
+      "usageExamples": [
+        [
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai visto Tom quella notte?",
+          "Did you see Tom that night?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai già visto il campus?",
+          "Have you seen the campus yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "guardato",
+      "translations": [
+        "watched",
+        "looked at",
+        "observed",
+        "seen"
       ],
       "usageExamples": []
     },
     {
-      "content": "invidiava",
+      "content": "la",
       "translations": [
-        "I was envious",
-        "I envied",
-        "I felt jealousy"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "Lyusya",
+      "content": "partita",
       "translations": [
-        "Lusia",
-        "Lusya",
-        "Lusya (diminutive of Lyudmila)"
+        "match",
+        "game",
+        "part",
+        "session"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ha perso la partita.",
+          "She lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

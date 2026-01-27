@@ -1,60 +1,100 @@
 {
-  "sentence": "Il gatto mangia.",
+  "sentence": "Cosa capiterà a loro?",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by cntrational (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The cat eats."
+    "What'll happen to them?",
+    "What's going to happen to them?"
   ],
   "parts": [
     {
-      "content": "Il",
+      "content": "Cosa",
       "translations": [
-        "The",
-        "It"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
       ],
       "usageExamples": [
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Cosa avete consigliato?",
+          "What did you recommend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cane scodinzolava.",
-          "The dog wagged its tail.",
+          "Cosa la sta causando?",
+          "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gatto",
+      "content": "capiterà",
       "translations": [
-        "cat",
-        "kitten"
-      ],
-      "usageExamples": [
-        [
-          "Jack ha un gatto e un pappagallo a casa.",
-          "Jack keeps a cat and a parrot at home.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mangia",
-      "translations": [
-        "eat",
-        "consume",
-        "dine",
-        "feast"
+        "it will happen",
+        "it will occur",
+        "it will take place",
+        "it will come to pass"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "loro",
+      "translations": [
+        "their",
+        "theirs",
+        "them",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Perché non avete detto questo a loro?",
+          "Why didn't you tell them this?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiedilo a loro e basta.",
+          "Just ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono stato invitato al loro matrimonio.",
+          "I was invited to their wedding.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

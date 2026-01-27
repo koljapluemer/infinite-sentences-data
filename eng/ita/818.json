@@ -1,14 +1,81 @@
 {
-  "sentence": "Tom ha comprato del cibo a Mary.",
+  "sentence": "Sai cosa vuole Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom bought Mary some food.",
-    "Tom bought some food for Mary."
+    "Do you know what Tom wants?"
   ],
   "parts": [
+    {
+      "content": "Sai",
+      "translations": [
+        "to know",
+        "to be aware of",
+        "to be familiar with",
+        "to have knowledge of"
+      ],
+      "usageExamples": [
+        [
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cosa",
+      "translations": [
+        "thing",
+        "item",
+        "object",
+        "matter"
+      ],
+      "usageExamples": [
+        [
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa direste?",
+          "What would you say?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vuole",
+      "translations": [
+        "wants",
+        "desires",
+        "wishes",
+        "intends"
+      ],
+      "usageExamples": [
+        [
+          "Non vuole fermarla.",
+          "He doesn't want to stop her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary sa che cosa vuole dire.",
+          "Mary knows what she wants to say.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Shloyme vuole essere uno scrittore.",
+          "Shloyme wants to be a writer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
     {
       "content": "Tom",
       "translations": [
@@ -17,166 +84,18 @@
       ],
       "usageExamples": [
         [
-          "Tom vende funghi psichedelici.",
-          "Tom sells psychedelic mushrooms.",
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembra impegnato.",
-          "Tom looks busy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ha",
-      "translations": [
-        "has",
-        "he has",
-        "there is"
-      ],
-      "usageExamples": [
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non ha corso?",
-          "Why didn't you run?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "comprato",
-      "translations": [
-        "bought",
-        "purchased",
-        "acquired",
-        "procured"
-      ],
-      "usageExamples": [
-        [
-          "Tom ha comprato un anello per Mary.",
-          "Tom bought Mary a ring.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
-          "The train is taking off and we haven't bought our tickets!",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "del",
-      "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
-      ],
-      "usageExamples": [
-        [
-          "Sta mangiando del gelato.",
-          "She's eating ice cream.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Yanni comprò del cibo.",
-          "Yanni bought food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vede spesso il fondo del bicchiere.",
-          "He often sees the bottom of the glass.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cibo",
-      "translations": [
-        "food",
-        "meal",
-        "nourishment",
-        "provisions"
-      ],
-      "usageExamples": [
-        [
-          "Yanni comprò del cibo.",
-          "Yanni bought some food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha lasciato un po' di cibo nel suo piatto.",
-          "She left some food on her plate.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il cibo giapponese le mancherà negli Stati Uniti.",
-          "You will miss Japanese food in the United States.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
-      ],
-      "usageExamples": [
-        [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo mostreremo a lei.",
-          "We'll show her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cosa capiterà a loro?",
-          "What's going to happen to them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Mary",
-      "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
-      ],
-      "usageExamples": [
-        [
-          "Mary dice di essere troppo stanca oggi per aiutare.",
-          "Mary says she's too tired today to help.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Che cosa stavano indossando Tom e Mary?",
-          "What were Tom and Mary wearing?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary mi disse che non aveva fame.",
-          "Mary told me that she wasn't hungry.",
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

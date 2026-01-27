@@ -1,64 +1,66 @@
 {
-  "sentence": "مفيش أي مشاكل.",
+  "sentence": "هو جاوب غلط.",
   "credits": [
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There are no problems."
+    "He answered incorrectly."
   ],
   "parts": [
     {
-      "content": "مفيش",
+      "content": "هو",
       "translations": [
-        "there isn't",
-        "there's none",
-        "not available",
-        "nothing"
+        "he",
+        "it"
       ],
       "usageExamples": [
         [
-          "مفيش أي غلط.",
-          "There's no mistake.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "هو أنا شكلي إرهابي؟",
+          "Do I look like a terrorist?",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "هو بيحبكوا قوي.",
+          "He loves you very much.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "هو ساكن في العمارة دي؟",
+          "Does he live in this building?",
+          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "أي",
+      "content": "جاوب",
       "translations": [
-        "any",
-        "which",
-        "either",
-        "whichever"
-      ],
-      "usageExamples": [
-        [
-          "مفيش أي غلط.",
-          "There's no mistake.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "أي كتاب أحسن؟",
-          "Which book is better?",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "ما افتكرش ان في أي عيب ف كون أي حد فقير.",
-          "I think being poor is nothing to be ashamed of.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "مشاكل",
-      "translations": [
-        "problems",
-        "issues",
-        "troubles",
-        "challenges"
+        "answer",
+        "respond",
+        "reply"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "غلط",
+      "translations": [
+        "wrong",
+        "incorrect",
+        "mistake",
+        "error"
+      ],
+      "usageExamples": [
+        [
+          "مفيش أي غلط.",
+          "There's no mistake.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "ما عملتش حاجة غلط.",
+          "I haven't done anything wrong.",
+          "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

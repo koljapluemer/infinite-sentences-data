@@ -1,102 +1,80 @@
 {
-  "sentence": "La casa de Tom tiene grandes ventanas.",
+  "sentence": "Déme usted la equivalencia en dólares.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom's house has large windows."
+    "Give me the equivalent in dollars."
   ],
   "parts": [
     {
-      "content": "La",
+      "content": "Déme",
       "translations": [
-        "The",
-        "It"
+        "Give me",
+        "Let me have"
       ],
       "usageExamples": []
     },
     {
-      "content": "casa",
+      "content": "la",
       "translations": [
-        "house",
-        "home",
-        "dwelling",
-        "residence"
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La casa es grande.",
+          "The house is large.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "equivalencia",
+      "translations": [
+        "equivalence",
+        "equivalency"
       ],
       "usageExamples": []
     },
     {
-      "content": "de",
+      "content": "en",
       "translations": [
         "to"
       ],
       "usageExamples": [
         [
-          "Vengo de la playa.",
-          "I come from the beach.",
+          "Confío en él.",
+          "I have faith in him.",
           ""
         ],
         [
-          "El libro de historia es interesante.",
-          "The history book is interesting.",
+          "Estoy en casa.",
+          "I am in the house.",
           ""
         ],
         [
-          "¿Dónde está la parada de colectivos más cercana?",
-          "Where's the nearest bus stop?",
+          "Con tal de mantenerse en el poder, hacen cualquier cosa.",
+          "They'll do anything to stay in power.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "dólares",
       "translations": [
-        "Tom",
-        "Thomas"
-      ],
-      "usageExamples": [
-        [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom dio con una pauta en los datos.",
-          "Tom spotted a pattern in the data.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se pegó un tiro en la cabeza.",
-          "Tom shot himself in the head.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tiene",
-      "translations": [
-        "has",
-        "there is",
-        "there are"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "grandes",
-      "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ventanas",
-      "translations": [
-        "windows",
-        "sashes"
+        "dollars",
+        "USD"
       ],
       "usageExamples": []
     }

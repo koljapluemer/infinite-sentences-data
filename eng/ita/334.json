@@ -1,35 +1,105 @@
 {
-  "sentence": "La casa è stata venduta per un milione di dollari.",
+  "sentence": "Ho lasciato Tom in casa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by bellyfuss1 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The house was sold for one million dollars."
+    "I let Tom in the house."
   ],
   "parts": [
     {
-      "content": "La",
+      "content": "Ho",
       "translations": [
-        "The",
-        "It",
-        "Her",
-        "Them"
+        "I have",
+        "I possess",
+        "I hold",
+        "I own"
       ],
       "usageExamples": [
         [
-          "La ruppe.",
-          "He broke it.",
+          "Ho letto un fumetto.",
+          "I read a comic book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La dovete avvertire.",
-          "You've got to warn her.",
+          "Ho abbastanza amici.",
+          "I have enough friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La detesta assolutamente.",
-          "He absolutely detests her.",
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lasciato",
+      "translations": [
+        "left",
+        "abandoned",
+        "let go",
+        "allowed"
+      ],
+      "usageExamples": [
+        [
+          "Ha lasciato un po' di cibo nel suo piatto.",
+          "She left some food on her plate.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mi ha lasciato entrare.",
+          "Tom let me in.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -49,8 +119,8 @@
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ],
         [
-          "Questa è casa sua adesso.",
-          "This is your house now.",
+          "Jack ha un gatto e un pappagallo a casa.",
+          "Jack keeps a cat and a parrot at home.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -59,163 +129,6 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
-      ],
-      "usageExamples": [
-        [
-          "Mangia finché è caldo.",
-          "Eat while it's warm.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo è un occhio.",
-          "This is an eye.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Forse è lui.",
-          "Maybe it's him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "stata",
-      "translations": [
-        "was",
-        "has been",
-        "was located",
-        "was situated"
-      ],
-      "usageExamples": [
-        [
-          "È stata in piedi?",
-          "Did you stand up?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sono stata onesta con lui.",
-          "I have been honest with him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "venduta",
-      "translations": [
-        "sold",
-        "sold out",
-        "disposed",
-        "transferred"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "per",
-      "translations": [
-        "for",
-        "by",
-        "through"
-      ],
-      "usageExamples": [
-        [
-          "Hey, grazie per l'aiuto.",
-          "Hey, thanks for the help.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
-      ],
-      "usageExamples": [
-        [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti compro un regalo.",
-          "I buy you a present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo è un occhio.",
-          "This is an eye.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "milione",
-      "translations": [
-        "million",
-        "one million",
-        "a million"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
-      ],
-      "usageExamples": [
-        [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi importa di lei.",
-          "I care about her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dollari",
-      "translations": [
-        "dollars",
-        "bucks",
-        "greenbacks",
-        "currency"
-      ],
-      "usageExamples": []
     }
   ]
 }

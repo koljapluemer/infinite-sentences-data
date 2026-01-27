@@ -1,206 +1,67 @@
 {
-  "sentence": "Il mio problema è che sono troppo occupata.",
+  "sentence": "Deve essere difficile.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My problem is I'm too busy."
+    "That must be hard."
   ],
   "parts": [
     {
-      "content": "Il",
+      "content": "Deve",
       "translations": [
-        "The",
-        "It"
+        "must",
+        "has to",
+        "needs to",
+        "should"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "essere",
+      "translations": [
+        "to be",
+        "to exist",
+        "to occur",
+        "to happen"
       ],
       "usageExamples": [
         [
-          "Il libro è arrivato.",
-          "The book came.",
+          "Tu devi essere onesta con noi.",
+          "You need to be honest with us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il gatto mangia.",
-          "The cat eats.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "Non hai paura di essere infettata dal virus?",
+          "Aren't you afraid of getting infected by the virus?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cane scodinzolava.",
-          "The dog wagged its tail.",
+          "Tom cercava di non essere irritato.",
+          "Tom tried not to be irritated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "difficile",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "difficult",
+        "hard",
+        "challenging",
+        "tough"
       ],
       "usageExamples": [
         [
-          "È mio nemico.",
-          "He's my enemy.",
+          "È difficile per me dipendere da te.",
+          "It's hard for me to depend on you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il mio amico va in biblioteca a studiare.",
-          "My friend goes to the library to study.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il mio hobby è la musica.",
-          "My hobby is music.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "problema",
-      "translations": [
-        "problem",
-        "issue",
-        "challenge",
-        "difficulty"
-      ],
-      "usageExamples": [
-        [
-          "So che hai un problema.",
-          "I know you have a problem.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ha qualche problema psicologico.",
-          "Tom has some psychological issues.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È il mio problema con lui.",
-          "That's my problem with him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
-      ],
-      "usageExamples": [
-        [
-          "Mangia finché è caldo.",
-          "Eat while it's warm.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è famoso.",
-          "Tom's famous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo è un occhio.",
-          "This is an eye.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "che",
-      "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
-      ],
-      "usageExamples": [
-        [
-          "Disse che lo amava.",
-          "She said she loved him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sono",
-      "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
-      ],
-      "usageExamples": [
-        [
-          "Mi sono tuffato nell'acqua.",
-          "I dived into the water.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tutte sono felici.",
-          "Everyone is happy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sono una patata.",
-          "I am a potato.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "troppo",
-      "translations": [
-        "too much",
-        "excessively",
-        "overly",
-        "very"
-      ],
-      "usageExamples": [
-        [
-          "Penso che Tom sia troppo giovane.",
-          "I think Tom is too young.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Potrebbe funzionare, però è troppo rischioso.",
-          "That might work, but it's too risky.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "State guidando decisamente troppo veloce.",
-          "You're driving way too fast.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "occupata",
-      "translations": [
-        "busy",
-        "occupied",
-        "engaged",
-        "taken"
-      ],
-      "usageExamples": [
-        [
-          "Probabilmente non sono occupata come Tom e Mary.",
-          "I'm probably not as busy as Tom and Mary are.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "È difficile restare calmi quando le scadenze vengono ignorate.",
+          "It's hard to stay calm when deadlines are ignored.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     }

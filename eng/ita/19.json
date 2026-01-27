@@ -1,57 +1,159 @@
 {
-  "sentence": "Accendiamo qualche candela.",
+  "sentence": "A Berlino ci siete già stati.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's light some candles."
+    "You have already been to Berlin.",
+    "You've already been to Berlin."
   ],
   "parts": [
     {
-      "content": "Accendiamo",
+      "content": "A",
       "translations": [
-        "Let's light up",
-        "Let's turn on",
-        "Let's ignite"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "qualche",
-      "translations": [
-        "some",
-        "a few",
-        "several",
-        "a couple of"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Io ho qualche idea per te.",
-          "I have a few ideas for you.",
+          "A quale proposito?",
+          "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha qualche problema psicologico.",
-          "Tom has some psychological issues.",
+          "A Judy piace lui.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
-          "Mary said she'd like to borrow a few books.",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "candela",
+      "content": "Berlino",
       "translations": [
-        "candle",
-        "light",
-        "torch",
-        "luminary"
+        "Berlin",
+        "the capital of Germany"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Berlino ci sei già stata.",
+          "You have already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci sei già stato.",
+          "You have already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino c'è già stato.",
+          "You have already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ci",
+      "translations": [
+        "us",
+        "to us",
+        "for us",
+        "at us"
+      ],
+      "usageExamples": [
+        [
+          "Con chi ci andrà?",
+          "Who are you going with?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ci catturerà.",
+          "She will catch us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "siete",
+      "translations": [
+        "seven",
+        "7"
+      ],
+      "usageExamples": [
+        [
+          "Voi siete attraenti.",
+          "You're attractive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi siete burbere.",
+          "You're grumpy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi siete alzate?",
+          "Are you up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "già",
+      "translations": [
+        "already",
+        "now",
+        "yet",
+        "at this point"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha già finito?",
+          "Are you through yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pensavo che avesse già parlato con Tom.",
+          "I thought you'd already talked to Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stati",
+      "translations": [
+        "were",
+        "have been",
+        "stood",
+        "remained"
+      ],
+      "usageExamples": [
+        [
+          "Sono stati assassinati.",
+          "They were murdered.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "2.200 dollari sono stati stanziati per le spese.",
+          "2200 dollars have been allocated for expenses.",
+          "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

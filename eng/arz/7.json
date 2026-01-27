@@ -1,11 +1,11 @@
 {
-  "sentence": "أنا لسه شايفه.",
+  "sentence": "أنا من أهل سابورو.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I just saw him."
+    "I'm from Sapporo."
   ],
   "parts": [
     {
@@ -13,47 +13,106 @@
       "translations": [
         "I am.",
         "I",
-        "Me"
+        "Me",
+        "I(male)",
+        "I(f)",
+        "I I",
+        "I(m)",
+        "I(f) I'm",
+        "I'm"
       ],
       "usageExamples": [
+        [
+          "هو أنا شكلي إرهابي؟",
+          "Do I look like a terrorist?",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
         [
           "أنا كرهتها.",
           "I hated her.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "أنا هروح لوحدي",
-          "I'll go on my own.",
-          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
-        ],
-        [
-          "أنا من أهل سابورو.",
-          "I'm from Sapporo.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "أنا نَعسانة أوي",
+          "I(f) am very sleepy",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "لسه",
+      "content": "من",
       "translations": [
-        "still",
-        "not yet",
-        "yet"
+        "from",
+        "of",
+        "for",
+        "since",
+        "with",
+        "about",
+        "by",
+        "because of",
+        "through",
+        "unintentionally",
+        "accidentally",
+        "than",
+        "am sick of",
+        "(become) bored (with)",
+        "(be) sick (of)",
+        "please",
+        "without",
+        "recently"
       ],
       "usageExamples": [
         [
-          "لسه بفكر في اللي توم كان بيحاول يقولهولي.",
-          "I am still thinking about what Tom was trying to tell me.",
+          "من فضلك ساعديني.",
+          "Please help me.",
           "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "سيح الفَرخة من الفريزر",
+          "defrost the chicken from the freezer",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "قُلتُ لهُ الموضوع من غير قصد",
+          "I told him about the matter unintentionally",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "شايفه",
+      "content": "أهل",
       "translations": [
-        "I see her",
-        "I can see her.",
-        "I am seeing her"
+        "family",
+        "people",
+        "folks",
+        "relatives",
+        "(close) relatives",
+        "kin",
+        "family,"
+      ],
+      "usageExamples": [
+        [
+          "وَدَّعْ أَهْلَكَ قَبْلَ مَا تَسَافِر",
+          "say goodbye to your family before you travel",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "هُوَّ إنتِ مَ عندِكِ شَ أهل وَلّاَ إيه؟",
+          "don't you(f) have a family, or what?",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "لاَزِم أَبْعَت فُلُوس لِأَهْلِي كُلَّ شَهْر",
+          "I have to send money to my family every month",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "سابورو",
+      "translations": [
+        "Saburo",
+        "Saboro"
       ],
       "usageExamples": []
     }

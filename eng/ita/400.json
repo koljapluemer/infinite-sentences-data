@@ -1,200 +1,117 @@
 {
-  "sentence": "Lo avreste dovuto aiutare con il suo lavoro.",
+  "sentence": "Io ho voglia di uscire.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should have helped him with his work."
+    "I feel like going out."
   ],
   "parts": [
     {
-      "content": "Lo",
+      "content": "Io",
       "translations": [
-        "It",
-        "Him",
-        "Them",
-        "That"
+        "I",
+        "me",
+        "myself"
       ],
       "usageExamples": [
         [
-          "Lo hanno aiutato.",
-          "They helped him.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo decorò.",
-          "She decorated it.",
+          "Io sto diventando piccolo!",
+          "I am getting small!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "avreste",
+      "content": "ho",
       "translations": [
-        "you would have",
-        "you would possess",
-        "you would hold"
+        "I have",
+        "I've got",
+        "I possess",
+        "I own"
+      ],
+      "usageExamples": [
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io l'ho comprata.",
+          "I bought it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ho preso un taxi perché stava piovendo.",
+          "I took a taxi because it was raining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "voglia",
+      "translations": [
+        "desire",
+        "wish",
+        "craving",
+        "longing"
       ],
       "usageExamples": []
     },
     {
-      "content": "dovuto",
+      "content": "di",
       "translations": [
-        "due",
-        "owed",
-        "required",
-        "necessary"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Avrebbe dovuto chiedere a lui prima.",
-          "You should've asked him first.",
+          "Può fare di meglio.",
+          "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
-          "Tom should've closed all his windows.",
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sarebbe dovuto venire alla riunione.",
-          "Tom should've come to the meeting.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aiutare",
+      "content": "uscire",
       "translations": [
-        "to help",
-        "to assist",
-        "to aid",
-        "to support"
+        "to go out",
+        "to exit",
+        "to leave",
+        "to come out"
       ],
       "usageExamples": [
         [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
+          "Iniziai a uscire con lui.",
+          "I started dating him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li vada ad aiutare.",
-          "Go and help them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
-      ],
-      "usageExamples": [
-        [
-          "Era sposato con lei.",
-          "He used to be married to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Parlo frequentemente con lui.",
-          "I frequently talk to him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non tollererò il fallimento.",
-          "I will not tolerate failure.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi piace il reggae.",
-          "I like reggae.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "suo",
-      "translations": [
-        "his",
-        "her",
-        "its",
-        "their"
-      ],
-      "usageExamples": [
-        [
-          "Ha lasciato un po' di cibo nel suo piatto.",
-          "He left some food on his plate.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il suo sommario molto approssimativo non rende giustizia al testo originale e alla sua raffinatezza intellettuale.",
-          "His very rough summary does not do justice to the original text and its intellectual sophistication.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Voleva parlare con il suo avvocato.",
-          "He wanted to talk to his lawyer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "lavoro",
-      "translations": [
-        "work",
-        "job",
-        "labor",
-        "employment"
-      ],
-      "usageExamples": [
-        [
-          "Il signor Jones crede nel duro lavoro e nei profitti.",
-          "Mr Jones believes in hard work and profits.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché questo è il mio lavoro?",
-          "Why is this my job?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A che ora arrivate al lavoro?",
-          "What time do you arrive at work?",
+          "A Mary non è permesso uscire da sola.",
+          "Mary isn't allowed to go out by herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

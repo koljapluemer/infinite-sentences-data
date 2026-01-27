@@ -1,102 +1,338 @@
 {
-  "sentence": "È andata bene oggi?",
+  "sentence": "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did it go well today?"
+    "Tom didn't want me to tell you this, but he just lost his job."
   ],
   "parts": [
     {
-      "content": "È",
+      "content": "Tom",
       "translations": [
-        "It is",
-        "He is",
-        "She is",
-        "There is"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "È così sciocco.",
-          "That's so silly.",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È una maledizione.",
-          "It's a curse.",
+          "Tom si è divertito.",
+          "Tom had a good time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È un ghostwriter.",
-          "He's a ghostwriter.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "andata",
-      "translations": [
-        "outbound",
-        "departure",
-        "going",
-        "one-way trip"
-      ],
-      "usageExamples": [
-        [
-          "Ci sono andata l'altro ieri.",
-          "I went there the day before yesterday.",
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bene",
+      "content": "non",
       "translations": [
-        "well",
-        "good",
-        "fine",
-        "okay"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Nessuno qua balla bene come te.",
-          "Nobody here dances as well as you.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "voleva",
+      "translations": [
+        "wanted",
+        "was wanting",
+        "desired",
+        "wished"
+      ],
+      "usageExamples": [
+        [
+          "Tom voleva sapere perché Mary non era felice.",
+          "Tom wanted to know why Mary was not happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom voleva dire di no.",
+          "Tom wanted to say no.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom voleva che questa fosse una sorpresa.",
+          "Tom wanted this to be a surprise.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vi",
+      "translations": [
+        "way",
+        "road",
+        "path",
+        "route"
+      ],
+      "usageExamples": [
+        [
+          "Nessuno vi sostituirà.",
+          "Nobody will ever replace you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché vi state comportando in modo così strano?",
+          "Why are you acting so strange?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che Tom vi ha ferite.",
+          "I know that Tom hurt you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dicessi",
+      "translations": [
+        "I would say",
+        "you would say",
+        "he/she/it would say",
+        "they would say"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "questo",
+      "translations": [
+        "this",
+        "this one",
+        "this thing",
+        "this item"
+      ],
+      "usageExamples": [
+        [
+          "Trasporti questo.",
+          "Carry this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prenda questo denaro.",
+          "Take this money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Inscatola questo.",
+          "Box this up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "però",
+      "translations": [
+        "however",
+        "but",
+        "nevertheless",
+        "on the other hand"
+      ],
+      "usageExamples": [
+        [
+          "Potrebbe funzionare, però è troppo rischioso.",
+          "That might work, but it's too risky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, però non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Il sushi va bene, però io preferirei del cibo thailandese.",
           "Sushi is OK, but I'd prefer Thai food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questa mattina Tatoeba non sta funzionando molto bene.",
-          "This morning, Tatoeba isn't working very well.",
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "oggi",
+      "content": "appena",
       "translations": [
-        "today",
-        "this day",
-        "on this day"
+        "just",
+        "only",
+        "recently",
+        "barely"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "perso",
+      "translations": [
+        "lost",
+        "missing",
+        "absent",
+        "gone"
       ],
       "usageExamples": [
         [
-          "L'ho vista al funerale oggi.",
-          "I saw her at the funeral today.",
+          "Ha perso qualcosa?",
+          "Did you lose something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io non ho ancora mangiato niente oggi.",
-          "I haven't yet eaten anything today.",
+          "Ha perso la partita.",
+          "She lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo devo fare prima di potere andare a casa oggi.",
-          "I have to do that before I can go home today.",
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suo",
+      "translations": [
+        "his",
+        "her",
+        "its",
+        "their"
+      ],
+      "usageExamples": [
+        [
+          "A Mary non piaceva il suo nome.",
+          "Mary didn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca suo marito.",
+          "Mary misses her husband.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo lavoro.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lavoro",
+      "translations": [
+        "work",
+        "job",
+        "labor",
+        "employment"
+      ],
+      "usageExamples": [
+        [
+          "Il signor Jones crede nel duro lavoro e nei profitti.",
+          "Mr Jones believes in hard work and profits.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo lavoro.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo nuovo lavoro.",
+          "Mary doesn't like her new job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

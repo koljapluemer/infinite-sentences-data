@@ -1,28 +1,60 @@
 {
-  "sentence": "تليفوني رن.",
+  "sentence": "توم مبيعرفش يلعب تنس.",
   "credits": [
-    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My phone rang."
+    "Tom can't play tennis."
   ],
   "parts": [
     {
-      "content": "تليفوني",
+      "content": "توم",
       "translations": [
-        "my phone",
-        "telephone",
-        "phone of mine"
+        "you",
+        "you (singular)"
+      ],
+      "usageExamples": [
+        [
+          "توم مبيشربش شاي.",
+          "Tom doesn't drink tea.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مابصش عليها حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "توم مابصش عليه حتى.",
+          "Tom wouldn't even look at it.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "مبيعرفش",
+      "translations": [
+        "doesn't know",
+        "isn't aware",
+        "has no idea",
+        "doesn't understand"
       ],
       "usageExamples": []
     },
     {
-      "content": "رن",
+      "content": "يلعب",
       "translations": [
-        "run",
-        "to run",
-        "running"
+        "plays",
+        "is playing"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "تنس",
+      "translations": [
+        "tennis",
+        "to play tennis"
       ],
       "usageExamples": []
     }

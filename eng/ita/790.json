@@ -1,35 +1,54 @@
 {
-  "sentence": "Ti è piaciuto Tom?",
+  "sentence": "Quella gonna non è troppo corta?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you like Tom?"
+    "Isn't that skirt too short?"
   ],
   "parts": [
     {
-      "content": "Ti",
+      "content": "Quella",
       "translations": [
-        "You",
-        "To you",
-        "For you",
-        "Yourself"
+        "that one",
+        "that",
+        "the one",
+        "the one over there"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gonna",
+      "translations": [
+        "going to",
+        "will",
+        "about to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Ti compro un regalo.",
-          "I buy you a present.",
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
+          "Però non funzionerà!",
+          "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti darò questa biro.",
-          "I'll give you this pen.",
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -45,60 +64,56 @@
       "usageExamples": [
         [
           "Tom si è divertito.",
-          "Tom enjoyed himself.",
+          "Tom had a good time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Forse è lui.",
+          "Maybe it's him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Tom è famoso.",
+          "Tom is famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piaciuto",
+      "content": "troppo",
       "translations": [
-        "liked",
-        "pleased",
-        "enjoyed",
-        "appreciated"
+        "too much",
+        "excessively",
+        "overly",
+        "very"
       ],
       "usageExamples": [
         [
-          "A Tom sarebbe piaciuto quello che avete fatto.",
-          "Tom would've liked what you did.",
+          "Sono troppo vecchia per votare?",
+          "Am I too old to vote?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Potrebbe funzionare, però è troppo rischioso.",
+          "That might work, but it's too risky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non fidarti troppo di Tom.",
+          "Don't trust Tom too much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "corta",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "short",
+        "cut",
+        "brief",
+        "truncate"
       ],
-      "usageExamples": [
-        [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

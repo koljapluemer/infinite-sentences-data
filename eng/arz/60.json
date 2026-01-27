@@ -1,60 +1,89 @@
 {
-  "sentence": "حاولت أقوللها بس هي رفضت تسمعلي.",
+  "sentence": "عايز أروّح البيت دلوقتي.",
   "credits": [
-    "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I tried to tell her, but she refused to listen."
+    "I would like to go home now."
   ],
   "parts": [
     {
-      "content": "حاولت",
+      "content": "عايز",
       "translations": [
-        "I tried",
-        "I attempted"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أقوللها",
-      "translations": [
-        "I tell her",
-        "I say to her"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بس",
-      "translations": [
-        "just",
-        "only",
-        "simply",
-        "merely"
+        "I want",
+        "I need",
+        "I would like",
+        "want",
+        "wanting",
+        "want?",
+        "need",
+        "need (to)",
+        "need to"
       ],
       "usageExamples": [
         [
-          "مصر مش بس أهرامات.",
-          "Egypt isn't just pyramids.",
+          "عايز أروح المستشفى.",
+          "I want to go to the hospital.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "مَتْقلش حاجه بس.",
-          "Just don't say anything.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "عايز وصل للحاجات دي",
+          "I need a receipt for these things",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "لغة وحدة بس ماتكفيش ابداً.",
-          "One language is never enough.",
-          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+          "عايز أغسل الغسيل",
+          "I want to wash the laundry",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     },
     {
-      "content": "هي",
+      "content": "أروّح",
       "translations": [
-        "she",
-        "it"
+        "I feel better.",
+        "I relax",
+        "I unwind",
+        "I refresh"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "البيت",
+      "translations": [
+        "the house",
+        "the home",
+        "household shopping",
+        "shopping list",
+        "house",
+        "home"
+      ],
+      "usageExamples": [
+        [
+          "أكل البيت وحشني",
+          "I missed home cooking",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "البيت معفّر أوي لازم ننظّفه",
+          "the house is very dusty, we must clean it",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "شكرا انك وصّلتني البيت. تصبح على خير.",
+          "Thanks for bringing me home. Good night.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "دلوقتي",
+      "translations": [
+        "now",
+        "right now",
+        "at the moment",
+        "(at the) moment"
       ],
       "usageExamples": [
         [
@@ -63,35 +92,16 @@
           "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
         ],
         [
-          "هي ف الحمام.",
-          "She's in the restroom.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "أنا حَرّان أوي دلوقتي",
+          "I feel very hot now",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "هي سابت لك رسالة.",
-          "She left you a message.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+          "معلش اعملها دلوقتي حالا",
+          "Please do this immediately.",
+          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "رفضت",
-      "translations": [
-        "I refused.",
-        "I rejected",
-        "I declined",
-        "I turned down"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "تسمعلي",
-      "translations": [
-        "Do you hear me?",
-        "Are you listening to me?",
-        "Can you hear me?"
-      ],
-      "usageExamples": []
     }
   ]
 }

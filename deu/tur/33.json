@@ -1,11 +1,11 @@
 {
-  "sentence": "Bu pasajı senin için özetlemek istiyorum.",
+  "sentence": "Bu kurallara aykırıdır.",
   "credits": [
-    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich möchte diese Passage für dich zusammenfassen."
+    "Es ist gegen die Regeln."
   ],
   "parts": [
     {
@@ -17,14 +17,14 @@
       ],
       "usageExamples": [
         [
-          "Bu kurallara aykırıdır.",
-          "Es ist gegen die Regeln.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
           "Bu da kim?",
           "Wer ist das denn?",
           "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu ücretsiz ulaşılabilir.",
+          "Das ist kostenlos erhältlich.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
         ],
         [
           "Bu sağduyu.",
@@ -34,72 +34,22 @@
       ]
     },
     {
-      "content": "pasajı",
+      "content": "kurallara",
       "translations": [
-        "Passage",
-        "Durchgang"
+        "Regeln",
+        "Vorschriften"
       ],
       "usageExamples": []
     },
     {
-      "content": "senin",
+      "content": "aykırıdır",
       "translations": [
-        "dein",
-        "deine"
-      ],
-      "usageExamples": [
-        [
-          "Ben senin babanı tanıyorum.",
-          "Ich kenne deinen Vater.",
-          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "için",
-      "translations": [
-        "für",
-        "um zu"
-      ],
-      "usageExamples": [
-        [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen.",
-          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
-        ],
-        [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Benim için ne zaman vaktin olur?",
-          "Wann hast du Zeit für mich?",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "özetlemek",
-      "translations": [
-        "zusammenfassen",
-        "kurz darstellen"
+        "ist widersprüchlich",
+        "ist unvereinbar",
+        "ist abwegig",
+        "ist unlogisch"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "istiyorum",
-      "translations": [
-        "ich will",
-        "ich möchte"
-      ],
-      "usageExamples": [
-        [
-          "Size yardım etmek istiyorum.",
-          "Ich will dir helfen.",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

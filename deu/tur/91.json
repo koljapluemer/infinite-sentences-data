@@ -1,34 +1,41 @@
 {
-  "sentence": "Oraya geri dönmeyeceğim.",
+  "sentence": "Sen hala oğlumsun.",
   "credits": [
-    "Sentence from Tatoeba by barbaros505 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich gehe nicht dorthin zurück."
+    "Du bist noch immer mein Sohn."
   ],
   "parts": [
     {
-      "content": "oraya",
+      "content": "Sen",
       "translations": [
-        "dorthin",
-        "dahin"
+        "du",
+        "Sie"
+      ],
+      "usageExamples": [
+        [
+          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
+          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hala",
+      "translations": [
+        "immer noch",
+        "noch",
+        "trotzdem"
       ],
       "usageExamples": []
     },
     {
-      "content": "geri",
+      "content": "oğlumsun",
       "translations": [
-        "zurück",
-        "rückwärts"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dönmeyeceğim",
-      "translations": [
-        "Ich werde nicht zurückkehren",
-        "Ich komme nicht zurück"
+        "du bist mein Sohn",
+        "du bist mein Kind"
       ],
       "usageExamples": []
     }

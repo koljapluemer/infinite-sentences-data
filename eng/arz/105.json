@@ -1,44 +1,117 @@
 {
-  "sentence": "مش مهم.",
+  "sentence": "هبعت لحضرتك رسالة أول ما أوصل المطار.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This is not important."
+    "I'll send you a text as soon as I arrive at the airport."
   ],
   "parts": [
     {
-      "content": "مش",
+      "content": "هبعت",
       "translations": [
-        "no",
-        "not"
+        "I will send",
+        "I will dispatch"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "لحضرتك",
+      "translations": [
+        "for you",
+        "to you",
+        "your honor",
+        "to your esteemed self"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "رسالة",
+      "translations": [
+        "message",
+        "letter",
+        "note"
       ],
       "usageExamples": [
         [
-          "مش هيعرف يجي.",
-          "He won't know how to come.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "مصر مش بس أهرامات.",
-          "Egypt isn't just pyramids.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "مش مشكلة كبيرة.",
-          "That isn't a big problem.",
-          "Sentence from Tatoeba by frpzzd (CC-BY 2.0 FR)"
+          "هي سابت لك رسالة.",
+          "She left you a message.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "مهم",
+      "content": "أول",
       "translations": [
-        "important",
-        "significant",
-        "essential",
-        "crucial"
+        "first",
+        "beginning",
+        "initial",
+        "day before yesterday",
+        "(day before) yesterday"
+      ],
+      "usageExamples": [
+        [
+          "الدنيا كانت زحمة جداً في وسط البلد أول إمبارح",
+          "it was very crowded in the town centre the day before yesterday",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "ما",
+      "translations": [
+        "what",
+        "what is it",
+        "what's up",
+        "before",
+        "somewhere",
+        "everywhere",
+        "don't",
+        "come",
+        "come (to)",
+        "turn up (at)",
+        "until",
+        "till",
+        "without",
+        "has not",
+        "not",
+        "is not",
+        "will not"
+      ],
+      "usageExamples": [
+        [
+          "ما عملتش حاجة غلط.",
+          "I haven't done anything wrong.",
+          "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
+        ],
+        [
+          "ما تسوقش بِسُرعَة",
+          "don't drive fast",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "ما بطيقوش.",
+          "I can't stand him.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "أوصل",
+      "translations": [
+        "to deliver",
+        "to connect",
+        "to bring",
+        "to convey"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "المطار",
+      "translations": [
+        "the airport",
+        "airport"
       ],
       "usageExamples": []
     }

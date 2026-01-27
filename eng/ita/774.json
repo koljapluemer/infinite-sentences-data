@@ -1,90 +1,114 @@
 {
-  "sentence": "State guidando decisamente troppo veloce.",
+  "sentence": "Quando depongono le uova i salmoni?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Lepotdeterre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're driving way too fast."
+    "When do salmon spawn?"
   ],
   "parts": [
     {
-      "content": "State",
+      "content": "Quando",
       "translations": [
-        "condition",
-        "situation",
-        "status",
-        "stage"
+        "When",
+        "At what time",
+        "At which point",
+        "During which period"
+      ],
+      "usageExamples": [
+        [
+          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
+          "When riding a bus or a train, you need to pay the fare.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quando è stata l'ultima volta che avete indossato degli occhiali da sole?",
+          "When was the last time you wore sunglasses?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "depongono",
+      "translations": [
+        "they lay down",
+        "they deposit",
+        "they put down",
+        "they place down"
       ],
       "usageExamples": []
     },
     {
-      "content": "guidando",
+      "content": "le",
       "translations": [
-        "driving",
-        "guiding",
-        "leading",
-        "steering"
+        "the",
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
-          "Sta guidando.",
-          "He's driving.",
+          "Non le vogliamo là.",
+          "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ehi, Tom, dimentica le tue paure.",
+          "Hey, Tom, forget about your worries.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "decisamente",
+      "content": "uova",
       "translations": [
-        "definitely",
-        "certainly",
-        "absolutely",
-        "decidedly"
+        "eggs",
+        "ovum",
+        "egg",
+        "egg product"
       ],
       "usageExamples": []
     },
     {
-      "content": "troppo",
+      "content": "i",
       "translations": [
-        "too much",
-        "excessively",
-        "overly",
-        "very"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Potrebbe funzionare, però è troppo rischioso.",
-          "That might work, but it's too risky.",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono troppo vecchia per votare?",
-          "Am I too old to vote?",
+          "A Dan non piacciono i dittatori.",
+          "Dan doesn't like dictators.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non fidarti troppo di Tom.",
-          "Don't trust Tom too much.",
+          "Leggo un giornale tutti i giorni per tenermi aggiornata.",
+          "I read a newspaper every day so that I may keep up with the time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "veloce",
+      "content": "salmoni",
       "translations": [
-        "fast",
-        "quick",
-        "swift",
-        "speedy"
+        "salmon",
+        "salmon fish",
+        "salmon meat"
       ],
-      "usageExamples": [
-        [
-          "Puoi lanciare una palla veloce?",
-          "Can you throw a fastball?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

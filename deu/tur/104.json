@@ -1,59 +1,51 @@
 {
-  "sentence": "Sizinle sonucu paylaşma niyetinde değilim.",
+  "sentence": "Tom Boston'da kalıyor.",
   "credits": [
-    "Sentence from Tatoeba by eminyilmazki (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen."
+    "Tom bleibt in Boston."
   ],
   "parts": [
     {
-      "content": "sizinle",
+      "content": "Tom",
       "translations": [
-        "mit Ihnen",
-        "mit dir"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sonucu",
-      "translations": [
-        "Ergebnis",
-        "Folge"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "paylaşma",
-      "translations": [
-        "teilen",
-        "Gemeinschaft",
-        "Austausch"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "niyetinde",
-      "translations": [
-        "in der Absicht",
-        "mit der Absicht"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "değilim",
-      "translations": [
-        "ich bin nicht",
-        "bin ich nicht"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Benim kalmamın mantıklı olduğundan emin değilim.",
-          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben.",
+          "Tom, buna vaktimiz yok!",
+          "Tom, wir haben dafür keine Zeit!",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom beni arıyor mu?",
+          "Sucht Tom nach mir?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "Boston'da",
+      "translations": [
+        "in Boston",
+        "zu Boston"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kalıyor",
+      "translations": [
+        "bleibt",
+        "verbleibt"
+      ],
+      "usageExamples": []
     }
   ]
 }

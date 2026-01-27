@@ -1,44 +1,102 @@
 {
-  "sentence": "Neden şimdi vazgeçiyorsun?",
+  "sentence": "O, benim bir arkadaşım için.",
   "credits": [
-    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Warum jetzt aufgeben?"
+    "Es ist für einen Freund von mir."
   ],
   "parts": [
     {
-      "content": "Neden",
+      "content": "O",
       "translations": [
-        "Warum",
-        "Weshalb",
-        "Wieso"
+        "O",
+        "Oh"
       ],
       "usageExamples": [
         [
-          "Neden bu kadar uzun düşünüyorsun?",
-          "Warum überlegen Sie so lange?",
+          "O biraz çatlak.",
+          "Sie ist ein bisschen verrückt.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "O başka bir adamla dans ediyor.",
+          "Sie tanzt mit einem anderen Mann.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "benim",
+      "translations": [
+        "mein",
+        "meine"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "eins",
+        "ein"
+      ],
+      "usageExamples": [
+        [
+          "İyi bir kamera aldım.",
+          "Ich habe mir eine gute Kamera gekauft.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ],
+        [
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "şimdi",
+      "content": "arkadaşım",
       "translations": [
-        "jetzt",
-        "nun"
+        "mein Freund",
+        "meine Freundin",
+        "mein Kumpel",
+        "meine Kumpeline"
       ],
       "usageExamples": []
     },
     {
-      "content": "vazgeçiyorsun",
+      "content": "için",
       "translations": [
-        "du gibisin",
-        "du bist so",
-        "du bist wie das"
+        "für",
+        "um zu"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Öğle yemeği için ne istersin?",
+          "Was möchtest du zu essen?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mali desteği, bu projemiz için vazgeçilmezdir.",
+          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
+          "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
+        ],
+        [
+          "Benim için ne zaman vaktin olur?",
+          "Wann hast du Zeit für mich?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

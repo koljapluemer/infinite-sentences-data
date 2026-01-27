@@ -1,48 +1,50 @@
 {
-  "sentence": "كويس إنّك جيت بدري.",
+  "sentence": "ماما قطعت الكيكة.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That you have come early is a good thing."
+    "My mother cut the cake."
   ],
   "parts": [
     {
-      "content": "كويس",
+      "content": "ماما",
       "translations": [
-        "good",
-        "fine",
-        "okay",
-        "alright"
+        "mom",
+        "mother",
+        "mum",
+        "mama",
+        "mummy"
+      ],
+      "usageExamples": [
+        [
+          "ماما هَتِشتِرِك لِي في نَادي هيليوبولِس",
+          "mum will sign me up for the heliopolis club",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "ماما، زوّدي شوية ملح صُغيّرين تاني للشوربه.",
+          "Mom, add a little more salt to the soup.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "قطعت",
+      "translations": [
+        "I cut",
+        "I have cut",
+        "I sliced",
+        "I severed"
       ],
       "usageExamples": []
     },
     {
-      "content": "إنّك",
+      "content": "الكيكة",
       "translations": [
-        "Indeed you",
-        "Surely you",
-        "You are",
-        "Truly you"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "جيت",
-      "translations": [
-        "I came.",
-        "I arrived.",
-        "I got here"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "بدري",
-      "translations": [
-        "early",
-        "soon",
-        "beforehand"
+        "the cake",
+        "cake"
       ],
       "usageExamples": []
     }

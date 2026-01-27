@@ -1,38 +1,52 @@
 {
-  "sentence": "Oy kullanmayacak mısın?",
+  "sentence": "O kazağı beğeniyorum.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Aren't you going to vote?"
+    "I like that sweater."
   ],
   "parts": [
     {
-      "content": "Oy",
+      "content": "O",
       "translations": [
         "Oh.",
-        "Ouch",
-        "Hey.",
-        "Wow"
+        "O",
+        "Wow",
+        "Hey."
+      ],
+      "usageExamples": [
+        [
+          "O birkaç haftadır kayıp.",
+          "She had been missing for a couple of weeks.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bir üstat değil.",
+          "He is not a virtuoso.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O makul görünüyor.",
+          "That seems reasonable.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "kazağı",
+      "translations": [
+        "sweater",
+        "jumper"
       ],
       "usageExamples": []
     },
     {
-      "content": "kullanmayacak",
+      "content": "beğeniyorum",
       "translations": [
-        "will not use",
-        "not going to use"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mısın",
-      "translations": [
-        "are you",
-        "do you",
-        "is it",
-        "are they"
+        "I like",
+        "I enjoy"
       ],
       "usageExamples": []
     }

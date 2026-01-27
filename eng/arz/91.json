@@ -1,30 +1,98 @@
 {
-  "sentence": "ليلي اتطلقت.",
+  "sentence": "مش هسيبك تعملي كده.",
   "credits": [
-    "Sentence from Tatoeba by AsmaaElhelaly (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Layla got divorced."
+    "I won't let you do this."
   ],
   "parts": [
     {
-      "content": "ليلي",
+      "content": "مش",
       "translations": [
-        "Laila",
-        "Layla",
-        "Night"
+        "no",
+        "not",
+        "did n't",
+        "don't",
+        "he",
+        "bad",
+        "[not]",
+        "is not",
+        "will not",
+        "doesn't",
+        "isn't",
+        "'t",
+        "cannot"
+      ],
+      "usageExamples": [
+        [
+          "مش مشكلة كبيرة.",
+          "That isn't a big problem.",
+          "Sentence from Tatoeba by frpzzd (CC-BY 2.0 FR)"
+        ],
+        [
+          "عارف إنه مش كويس",
+          "I know that he is bad",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "ماكينة الطباعة مش شغالة",
+          "the printing press isn't working",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "هسيبك",
+      "translations": [
+        "I'll leave you",
+        "I'm leaving you",
+        "I'll let you be",
+        "I'll abandon you"
       ],
       "usageExamples": []
     },
     {
-      "content": "اتطلقت",
+      "content": "تعملي",
       "translations": [
-        "I got divorced",
-        "I divorced",
-        "I am divorced."
+        "you do",
+        "you make",
+        "you work",
+        "you act"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "كده",
+      "translations": [
+        "like this",
+        "this way",
+        "so",
+        "like that",
+        "moreover",
+        "this one",
+        "this",
+        "that",
+        "in this way"
+      ],
+      "usageExamples": [
+        [
+          "إستحالة أعمل كده.",
+          "There's no way I'm going to do that.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "بيتي بنت جميلة، مش كده؟",
+          "Betty is a pretty girl, isn't she?",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
+        [
+          "دي ممكن تبقى آخر فرصة لينا نعمل كده.",
+          "This might be our last chance to do that.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

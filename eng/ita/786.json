@@ -1,55 +1,144 @@
 {
-  "sentence": "Ti compro un regalo.",
+  "sentence": "Quanto spesso ti viene a trovare Tom?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I buy you a present."
+    "How often does Tom visit you?"
   ],
   "parts": [
     {
-      "content": "Ti",
+      "content": "Quanto",
       "translations": [
-        "You",
-        "To you",
-        "For you",
-        "Yourself"
+        "How much",
+        "How many",
+        "To what extent",
+        "As much as"
       ],
       "usageExamples": [
         [
-          "Ti darò questa biro.",
-          "I'll give you this pen.",
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Quanto spesso mangi pesce?",
+          "How often do you eat fish?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ],
         [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
+          "Quanto è freddo il Canada?",
+          "How cold is Canada?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "compro",
+      "content": "spesso",
       "translations": [
-        "I buy",
-        "I am buying",
-        "I purchase",
-        "I am purchasing"
+        "often",
+        "frequently",
+        "usually",
+        "repeatedly"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Quanto spesso mangi pesce?",
+          "How often do you eat fish?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vede spesso il fondo del bicchiere.",
+          "He often sees the bottom of the glass.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "un",
+      "content": "ti",
       "translations": [
+        "you",
+        "yourself",
+        "to you",
+        "for you"
+      ],
+      "usageExamples": [
+        [
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ti rilassi un po'?",
+          "Why don't you relax a bit?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Come ti sei sentita quando è successo?",
+          "How did you feel when that happened?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "viene",
+      "translations": [
+        "comes",
+        "arrives",
+        "is coming",
+        "is happening"
+      ],
+      "usageExamples": [
+        [
+          "Arrostisca il bhakri mentre la pentola viene riscaldata.",
+          "Roast the bhakri while the pan is heated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
+          "\"Where's your girlfriend from?\" \"She's Russian.\"",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
         "one",
-        "a",
-        "an"
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trovare",
+      "translations": [
+        "to find",
+        "to discover",
+        "to locate",
+        "to come across"
       ],
       "usageExamples": [
         [
@@ -58,39 +147,32 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un test?",
-          "Is this a test?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
+          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "regalo",
+      "content": "Tom",
       "translations": [
-        "gift",
-        "present",
-        "offering",
-        "donation"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Per ringraziarti, ecco un regalo.",
-          "To thank you, here is a gift.",
+          "Tom sembra compiaciuto.",
+          "Tom seems pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha ricevuto il mio regalo?",
-          "Did you get my gift?",
+          "Tom sembrava esitante.",
+          "Tom looked hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono sicura che Tom amerà il tuo regalo.",
-          "I'm sure Tom will love your present.",
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

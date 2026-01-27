@@ -1,154 +1,94 @@
 {
-  "sentence": "لسه بفكر في اللي توم كان بيحاول يقولهولي.",
+  "sentence": "مش فاهم قصدك ايه.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by asmaf (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I am still thinking about what Tom was trying to tell me."
+    "I don't know what you mean."
   ],
   "parts": [
     {
-      "content": "لسه",
+      "content": "مش",
       "translations": [
-        "still",
-        "not yet",
-        "yet"
+        "no",
+        "not",
+        "did n't",
+        "don't",
+        "he",
+        "bad",
+        "[not]",
+        "is not",
+        "will not",
+        "doesn't",
+        "isn't",
+        "'t",
+        "cannot"
       ],
       "usageExamples": [
         [
-          "أنا لسه شايفه.",
-          "I just saw him.",
+          "مش هسيبك تعملي كده.",
+          "I won't let you do this.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "أنا مش متجوز",
+          "I am [not] married",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "مش مهم.",
+          "This is not important.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "بفكر",
+      "content": "فاهم",
       "translations": [
-        "I think.",
-        "I'm thinking",
-        "I'm considering",
-        "In my opinion"
+        "understood",
+        "got it",
+        "I see.",
+        "I understand."
+      ],
+      "usageExamples": [
+        [
+          "مش فاهم انت عاوز تقول إيه.",
+          "I don't understand what you're saying.",
+          "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "قصدك",
+      "translations": [
+        "Do you mean?",
+        "Are you referring to?",
+        "Is that what you mean?",
+        "What do you mean?"
       ],
       "usageExamples": []
     },
     {
-      "content": "في",
+      "content": "ايه",
       "translations": [
-        "in",
-        "at",
-        "inside",
-        "within"
+        "What?",
+        "Yes.",
+        "Oh.",
+        "Really?"
       ],
       "usageExamples": [
         [
-          "مكتبها في الدور العاشر.",
-          "Her office is on the tenth floor.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
-        ],
-        [
-          "كنت في المستشفى.",
-          "I was in the hospital.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "هي في إجازة دلوقتي.",
-          "She is now on vacation.",
-          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "اللي",
-      "translations": [
-        "who",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "إيه اللي انت أكلته؟",
-          "What did you have to eat?",
+          "ايه عنوان سكنك؟",
+          "What's your home address?",
           "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ],
         [
-          "عجبك الورد اللي بعتهولك؟",
-          "Did you like the flowers that I sent you?",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "انت الوحيد اللي بتتكلم فرنساوي في اللي شغّالين هنا.",
-          "You're the only one working here who can speak French.",
+          "قولّهم أنت عايز تعمل ايه.",
+          "Tell them what you want to do.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "توم",
-      "translations": [
-        "you",
-        "you (singular)"
-      ],
-      "usageExamples": [
-        [
-          "توم مبيشربش شاي.",
-          "Tom doesn't drink tea.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم ريحته في المكان.",
-          "This place smells like Tom.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم ممكن يقول لأهله.",
-          "Tom may tell his parents.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "كان",
-      "translations": [
-        "was",
-        "were",
-        "used to be"
-      ],
-      "usageExamples": [
-        [
-          "كان محتاج نضّارة.",
-          "He needed glasses.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "المسرح كان بيبقى فاتح كل يوم في الأسبوع.",
-          "The theater used to open every day of the week.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ],
-        [
-          "توم كان مشغول وأنا كمان كنت مشغول.",
-          "Tom was busy and so was I.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "بيحاول",
-      "translations": [
-        "trying",
-        "attempting",
-        "making an effort",
-        "striving"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "يقولهولي",
-      "translations": [
-        "He tells me",
-        "He says to me"
-      ],
-      "usageExamples": []
     }
   ]
 }

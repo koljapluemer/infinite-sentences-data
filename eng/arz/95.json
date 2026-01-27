@@ -1,133 +1,85 @@
 {
-  "sentence": "ما تعاملش الناس بناءً على جنسيتهم أو جنسهم أو شغلهم.",
+  "sentence": "مفيش أي غلط.",
   "credits": [
     "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Don't discriminate against people based on nationality, gender, or occupation."
+    "There's no mistake."
   ],
   "parts": [
     {
-      "content": "ما",
+      "content": "مفيش",
       "translations": [
-        "what",
-        "what is it",
-        "what's up"
+        "there isn't",
+        "there's none",
+        "not available",
+        "nothing"
       ],
       "usageExamples": [
+        [
+          "مفيش أي مشاكل.",
+          "There are no problems.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "أي",
+      "translations": [
+        "any",
+        "which",
+        "either",
+        "whichever",
+        "all",
+        "anybody's",
+        "anyone",
+        "anybody",
+        "whoever",
+        "anything",
+        "whenever",
+        "it",
+        "useless,",
+        "useless"
+      ],
+      "usageExamples": [
+        [
+          "مفيش أي مشاكل.",
+          "There are no problems.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "أي كتاب أحسن؟",
+          "Which book is better?",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "لاَزِم تِدرِس اِلمَشروع بِتَعَمُّق قَبل ما تِبتِدي أي حَاجَة",
+          "you must study a project in depth before you start anything",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "غلط",
+      "translations": [
+        "wrong",
+        "incorrect",
+        "mistake",
+        "error"
+      ],
+      "usageExamples": [
+        [
+          "هو جاوب غلط.",
+          "He answered incorrectly.",
+          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+        ],
         [
           "ما عملتش حاجة غلط.",
           "I haven't done anything wrong.",
           "Sentence from Tatoeba by odexed (CC-BY 2.0 FR)"
-        ],
-        [
-          "ما بطيقوش.",
-          "I can't stand him.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "عمري ما حبيت البيولوجي.",
-          "I never liked biology.",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "تعاملش",
-      "translations": [
-        "his behavior",
-        "his dealings",
-        "his interactions",
-        "his conduct"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "الناس",
-      "translations": [
-        "people",
-        "humans",
-        "individuals",
-        "folk"
-      ],
-      "usageExamples": [
-        [
-          "الناس بتحب الكلام والكلام والكلام.",
-          "People love to talk, talk, talk.",
-          "Sentence from Tatoeba by Ahmed_Waleed (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "بناءً",
-      "translations": [
-        "based on",
-        "according to",
-        "in accordance with"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "على",
-      "translations": [
-        "on",
-        "upon",
-        "at",
-        "about"
-      ],
-      "usageExamples": [
-        [
-          "أقدر أشتري البيت ده على كام؟",
-          "How much could I buy this house for?",
-          "Sentence from Tatoeba by aboubasha (CC-BY 2.0 FR)"
-        ],
-        [
-          "ثبّتنا السعر على خمستاشر دُلَر.",
-          "We fixed the price at $15.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
-        ],
-        [
-          "شكرا انك وصّلتني البيت. تصبح على خير.",
-          "Thanks for bringing me home. Good night.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "جنسيتهم",
-      "translations": [
-        "Their nationality",
-        "Their citizenship"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "أو",
-      "translations": [
-        "or",
-        "either"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "جنسهم",
-      "translations": [
-        "their gender",
-        "their kind",
-        "their species"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "شغلهم",
-      "translations": [
-        "Their job",
-        "Their work",
-        "Their task",
-        "Their occupation"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,74 +1,73 @@
 {
-  "sentence": "Prenda questo denaro.",
+  "sentence": "Non hai coscienza!",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Take this money."
+    "You have no conscience!"
   ],
   "parts": [
     {
-      "content": "Prenda",
+      "content": "Non",
       "translations": [
-        "Garment",
-        "Clothing item",
-        "Apparel",
-        "Piece of clothing"
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
+      ],
+      "usageExamples": [
+        [
+          "Non voglio guardarlo.",
+          "I don't want to watch that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hai",
+      "translations": [
+        "you have",
+        "you've got",
+        "you possess",
+        "you own"
+      ],
+      "usageExamples": [
+        [
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti ne hai?",
+          "How many do you have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "coscienza",
+      "translations": [
+        "consciousness",
+        "awareness",
+        "cognition",
+        "mindfulness"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "questo",
-      "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
-      ],
-      "usageExamples": [
-        [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Trasporti questo.",
-          "Carry this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Inscatola questo.",
-          "Box this up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "denaro",
-      "translations": [
-        "money",
-        "cash",
-        "funds",
-        "currency"
-      ],
-      "usageExamples": [
-        [
-          "Quanto denaro ci dovete?",
-          "How much money do you owe us?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Un gruppo di gangster ha rubato del denaro.",
-          "A group of gangsters stole money.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom spiegò come perse tutto il suo denaro.",
-          "Tom explained how he lost his money.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

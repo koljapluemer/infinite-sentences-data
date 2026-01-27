@@ -1,84 +1,168 @@
 {
-  "sentence": "Non tollererò il fallimento.",
+  "sentence": "Mary ha detto che non ha fame.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I will not tolerate failure."
+    "Mary said she isn't hungry.",
+    "Mary said she's not hungry.",
+    "Mary said that she isn't hungry.",
+    "Mary said that she's not hungry."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Mary",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non vinse, vero?",
-          "He didn't win, did he?",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non voglio guardarlo.",
-          "I don't want to look at him.",
+          "A Mary non piacciono le mele, vero?",
+          "Mary doesn't like apples, does she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tollererò",
+      "content": "ha",
       "translations": [
-        "I will tolerate",
-        "I will endure",
-        "I will put up with",
-        "I will bear"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non conosco il sistema.",
-          "I don't know the system.",
+          "Lei ha già cominciato.",
+          "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "Un cane ha corso.",
+          "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fallimento",
+      "content": "detto",
       "translations": [
-        "bankruptcy",
-        "failure",
-        "collapse",
-        "insolvency"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ha detto che mi avrebbe aiutata a farlo.",
+          "She said she'd help me do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che ha detto lo specialista?",
+          "What did the specialist say?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi ha detto che non mangiava carne.",
+          "She told me that she didn't eat meat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fame",
+      "translations": [
+        "hunger",
+        "appetite",
+        "starvation"
+      ],
+      "usageExamples": [
+        [
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mi chiese se avevo fame.",
+          "Tom asked me whether I was hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,54 +1,97 @@
 {
-  "sentence": "إستحالة أعمل كده.",
+  "sentence": "إفتح النور لو سمحت.",
   "credits": [
-    "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There's no way I'm going to do that."
+    "Turn on the light, please."
   ],
   "parts": [
     {
-      "content": "إستحالة",
+      "content": "إفتح",
       "translations": [
-        "impossibility",
-        "infeasibility",
-        "unfeasibility"
+        "Open",
+        "Unlock.",
+        "Turn on",
+        "Access"
       ],
       "usageExamples": []
     },
     {
-      "content": "أعمل",
+      "content": "النور",
       "translations": [
-        "I work.",
-        "I do",
-        "I make"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "كده",
-      "translations": [
-        "like this",
-        "this way",
-        "so",
-        "like that"
+        "the light",
+        "light",
+        "electricity",
+        "light switch"
       ],
       "usageExamples": [
         [
-          "مش هسيبك تعملي كده.",
-          "I won't let you do this.",
+          "وَلَّعَ النور",
+          "turn the light on",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "النور قطع",
+          "the electricity was cut off",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "مُفتاح النور بايظ",
+          "the light switch is damaged",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "لو",
+      "translations": [
+        "if",
+        "whether",
+        "If",
+        "please",
+        "excuse me",
+        "have"
+      ],
+      "usageExamples": [
+        [
+          "اِللي مَ لو مَ ش ظَهر يِتضُرِب عَلى قَفا ه",
+          "he who doesn't have a back will be hit on the back of the neck",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "عايزه تذكرة لباريس، لو سمحتي.",
+          "I'd like a ticket to Paris, please.",
           "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ],
         [
-          "دي ممكن تبقى آخر فرصة لينا نعمل كده.",
-          "This might be our last chance to do that.",
-          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+          "رَتِّب الأُوضَة لو عايز تخرج",
+          "tidy up the room if you want to go out",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ]
+      ]
+    },
+    {
+      "content": "سمحت",
+      "translations": [
+        "I allowed",
+        "I permitted",
+        "I let",
+        "I granted",
+        "please",
+        "excuse me"
+      ],
+      "usageExamples": [
+        [
+          "عايز عصير برتقال صافي لو سمحت",
+          "I want pure orange juice please",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ],
         [
-          "بيتي بنت جميلة، مش كده؟",
-          "Betty is a pretty girl, isn't she?",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
+          "عايز جبنة مبشورة، لو سمحت",
+          "I want (some) grated cheese, please",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
     }

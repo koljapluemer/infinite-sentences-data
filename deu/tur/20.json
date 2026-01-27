@@ -1,11 +1,11 @@
 {
-  "sentence": "Benim kafam karıştı.",
+  "sentence": "Benim kalmamın mantıklı olduğundan emin değilim.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich bin verwirrt."
+    "Ich bin nicht sicher, ob es vernünftig ist zu bleiben."
   ],
   "parts": [
     {
@@ -16,8 +16,8 @@
       ],
       "usageExamples": [
         [
-          "Benim kalmamın mantıklı olduğundan emin değilim.",
-          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben.",
+          "Benim kafam karıştı.",
+          "Ich bin verwirrt.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
@@ -28,26 +28,52 @@
       ]
     },
     {
-      "content": "kafam",
+      "content": "kalmamın",
       "translations": [
-        "Kopf",
-        "Mein Kopf"
+        "meine Ruhe",
+        "mein Frieden"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mantıklı",
+      "translations": [
+        "vernünftig",
+        "sinnvoll",
+        "logisch"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "olduğundan",
+      "translations": [
+        "weil es so ist",
+        "da es so ist",
+        "da es so war"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "emin",
+      "translations": [
+        "mein",
+        "mein lieber"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "değilim",
+      "translations": [
+        "ich bin nicht",
+        "bin ich nicht"
       ],
       "usageExamples": [
         [
-          "Bir zamanlar kafam çok karışıktı.",
-          "Ich war einmal so verwirrt.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Sizinle sonucu paylaşma niyetinde değilim.",
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sentence from Tatoeba by eminyilmazki (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "karıştı",
-      "translations": [
-        "verwirrt",
-        "durcheinander"
-      ],
-      "usageExamples": []
     }
   ]
 }

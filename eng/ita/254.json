@@ -1,44 +1,103 @@
 {
-  "sentence": "Intimidisci Tom.",
+  "sentence": "Dov'è la sua casa?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ver (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by FeuDRenais (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You intimidate Tom."
+    "Where is her house?",
+    "Where is his house?",
+    "Where is your house?",
+    "Where's his home?"
   ],
   "parts": [
     {
-      "content": "Intimidisci",
+      "content": "Dov'è",
       "translations": [
-        "to intimidate",
-        "to scare",
-        "to frighten",
-        "to threaten"
+        "Where is it?",
+        "Where's that?",
+        "Where is he/she/it?",
+        "Where can I find it?"
       ],
       "usageExamples": []
     },
     {
-      "content": "Tom",
+      "content": "la",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Tom sta cenando adesso.",
-          "Tom is having dinner right now.",
+          "Perché non la cercate?",
+          "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta gemendo.",
-          "Tom is groaning.",
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Ha a malapena toccato la sua cena.",
+          "He barely touched his dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi mandi la sua posizione.",
+          "Send me your position.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha passato la sua infanzia a Boston.",
+          "Tom spent his childhood in Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "casa",
+      "translations": [
+        "house",
+        "home",
+        "dwelling",
+        "residence"
+      ],
+      "usageExamples": [
+        [
+          "Dovrebbe chiamare a casa adesso.",
+          "You should call home now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo devo fare prima di potere andare a casa oggi.",
+          "I have to do that before I can go home today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La casa è stata venduta per un milione di dollari.",
+          "The house was sold for one million dollars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

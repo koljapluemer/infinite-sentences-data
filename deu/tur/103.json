@@ -1,57 +1,61 @@
 {
-  "sentence": "Size yardım etmek istiyorum.",
+  "sentence": "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
   "credits": [
-    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich will dir helfen."
+    "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt."
   ],
   "parts": [
     {
-      "content": "Size",
+      "content": "Sütten",
       "translations": [
-        "Größe",
-        "Dimension"
+        "aus der Milch",
+        "von der Milch"
       ],
       "usageExamples": []
     },
     {
-      "content": "yardım",
+      "content": "ağzı",
       "translations": [
-        "Hilfe",
-        "Unterstützung"
+        "Mund",
+        "Mundwinkel"
       ],
       "usageExamples": []
     },
     {
-      "content": "etmek",
+      "content": "yanan",
       "translations": [
-        "machen",
-        "tun",
-        "verrichten"
+        "brennend",
+        "flammend"
       ],
-      "usageExamples": [
-        [
-          "O bu sırrı açık etmek istiyor.",
-          "Sie wollte das Geheimnis verraten.",
-          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "istiyorum",
+      "content": "yoğurdu",
       "translations": [
-        "ich will",
-        "ich möchte"
+        "Joghurt",
+        "Yoghurt"
       ],
-      "usageExamples": [
-        [
-          "Bu pasajı senin için özetlemek istiyorum.",
-          "Ich möchte diese Passage für dich zusammenfassen.",
-          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "üfleyerek",
+      "translations": [
+        "pfeifend",
+        "mit einem Pfiff"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "yer",
+      "translations": [
+        "Ort",
+        "Platz",
+        "Stelle"
+      ],
+      "usageExamples": []
     }
   ]
 }

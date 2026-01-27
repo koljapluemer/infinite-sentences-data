@@ -1,74 +1,142 @@
 {
-  "sentence": "È mio nemico.",
+  "sentence": "Tom si è lamentato del rumore eccessivo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He is my enemy.",
-    "He's my enemy."
+    "Tom complained about the excessive noise."
   ],
   "parts": [
     {
-      "content": "È",
+      "content": "Tom",
       "translations": [
-        "It is",
-        "He is",
-        "She is",
-        "There is"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "È stato una delusione.",
-          "It was a disappointment.",
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È andata bene oggi?",
-          "Did it go well today?",
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È stata in piedi?",
-          "Did you stand up?",
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "si",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
       ],
       "usageExamples": [
         [
-          "Ha ricevuto il mio regalo?",
-          "Did you get my gift?",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il mio amico va in biblioteca a studiare.",
-          "My friend goes to the library to study.",
+          "Tom si è divertito.",
+          "Tom had a good time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché questo è il mio lavoro?",
-          "Why is this my job?",
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è americano?",
+          "Are you American?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nemico",
+      "content": "lamentato",
       "translations": [
-        "enemy",
-        "foe",
-        "opponent",
-        "adversary"
+        "lamented",
+        "mourned",
+        "grieved over",
+        "expressed sorrow for"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "by the"
+      ],
+      "usageExamples": [
+        [
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un gruppo di gangster ha rubato del denaro.",
+          "A group of gangsters stole money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "rumore",
+      "translations": [
+        "noise",
+        "sound",
+        "rumor",
+        "commotion"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "eccessivo",
+      "translations": [
+        "excessive",
+        "overly",
+        "too much",
+        "exorbitant"
       ],
       "usageExamples": []
     }

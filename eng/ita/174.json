@@ -1,112 +1,92 @@
 {
-  "sentence": "Ha mai visto uno di questi?",
+  "sentence": "Avete annotato il numero di telefono?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by spockofvulcan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Have you ever seen one of these?"
+    "Did you write down the telephone number?"
   ],
   "parts": [
     {
-      "content": "Ha",
+      "content": "Avete",
       "translations": [
-        "He has",
-        "There is",
-        "It has"
+        "You have",
+        "Do you have?",
+        "You all have",
+        "Have you?"
       ],
       "usageExamples": [
         [
-          "Ha perso qualcosa?",
-          "Did you lose something?",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
-        [
-          "Ha perso la partita.",
-          "She lost the game.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha acconsentito ad andare a Boston con lei.",
-          "He agreed to go to Boston with her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mai",
-      "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
-      ],
-      "usageExamples": [
         [
           "Avete mai provato?",
           "Did you ever try?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non cambia mai.",
-          "Tom never changes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non sia mai gelosa.",
-          "Never be jealous.",
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "visto",
+      "content": "annotato",
       "translations": [
-        "visa",
-        "sight",
-        "view",
-        "sightseeing"
+        "noted",
+        "annotated",
+        "marked",
+        "recorded"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai visto Tom quella notte?",
-          "Did you see Tom that night?",
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "uno",
+      "content": "numero",
       "translations": [
-        "one",
-        "a single",
-        "one unit",
-        "one item"
+        "number",
+        "numeral",
+        "digit",
+        "figure"
       ],
       "usageExamples": [
         [
-          "Shloyme vuole essere uno scrittore.",
-          "Shloyme wants to be a writer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "2 è l'unico numero primo pari.",
+          "2 is the only even prime number.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ],
         [
-          "Ne ho portato fuori uno.",
-          "I brought one out.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "La figlia di uno zio è una cugina.",
-          "The daughter of an uncle is a cousin.",
+          "49 è un numero quadrato.",
+          "49 is a square number.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -121,31 +101,37 @@
       ],
       "usageExamples": [
         [
-          "Può fare di meglio.",
-          "You can do better.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "questi",
+      "content": "telefono",
       "translations": [
-        "these",
-        "this one",
-        "these ones",
-        "this"
+        "telephone",
+        "phone",
+        "cell phone",
+        "mobile phone"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

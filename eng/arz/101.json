@@ -1,92 +1,71 @@
 {
-  "sentence": "ماما، زوّدي شوية ملح صُغيّرين تاني للشوربه.",
+  "sentence": "مَتْقلش حاجه بس.",
   "credits": [
     "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mom, add a little more salt to the soup."
+    "Just don't say anything."
   ],
   "parts": [
     {
-      "content": "ماما",
+      "content": "مَتْقلش",
       "translations": [
-        "mom",
-        "mother",
-        "mum",
-        "mama"
+        "Don't say",
+        "Don't mention",
+        "Don't talk about",
+        "Don't bring up"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "حاجه",
+      "translations": [
+        "thing",
+        "need",
+        "requirement",
+        "matter"
       ],
       "usageExamples": [
         [
-          "ماما قطعت الكيكة.",
-          "My mother cut the cake.",
-          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+          "حستها حاجه غريبه.",
+          "I thought that it was weird.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "هعمل اي حاجه عشانك.",
+          "I'll do anything for you.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "زوّدي",
+      "content": "بس",
       "translations": [
-        "provide me",
-        "give me",
-        "supply me",
-        "bring me"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "شوية",
-      "translations": [
-        "a little",
-        "a bit"
+        "just",
+        "only",
+        "simply",
+        "merely",
+        "[only]",
+        "but"
       ],
       "usageExamples": [
         [
-          "اهدوا شوية!",
-          "Quieter!",
-          "Sentence from Tatoeba by KeEichi (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ملح",
-      "translations": [
-        "salt",
-        "brine"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "صُغيّرين",
-      "translations": [
-        "little ones",
-        "small ones",
-        "kids",
-        "young ones"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "تاني",
-      "translations": [
-        "again",
-        "second"
-      ],
-      "usageExamples": [
+          "عايز واحد بس",
+          "I want [only] one",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
         [
-          "هيحصل تاني.",
-          "It'll happen again.",
-          "Sentence from Tatoeba by User105223 (CC-BY 2.0 FR)"
+          "مصر مش بس أهرامات.",
+          "Egypt isn't just pyramids.",
+          "Sentence from Tatoeba by ANANASA (CC-BY 2.0 FR)"
+        ],
+        [
+          "الدنيا حرّ جداً بس لحسن الحظ الدنيا مطرّت",
+          "it is very hot but fortunately it is raining",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
-    },
-    {
-      "content": "للشوربه",
-      "translations": [
-        "for the soup",
-        "for the broth"
-      ],
-      "usageExamples": []
     }
   ]
 }

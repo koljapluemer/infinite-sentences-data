@@ -1,47 +1,90 @@
 {
-  "sentence": "Babam onu ​​tanıyordu.",
+  "sentence": "Bana sorunu çözmeme izin veriniz.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mein Vater kannte ihn."
+    "Erlauben Sie mir, das Problem zu lösen."
   ],
   "parts": [
     {
-      "content": "Babam",
+      "content": "bana",
       "translations": [
-        "Mein Vater",
-        "Vater"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "onu",
-      "translations": [
-        "das",
-        "es"
+        "mir",
+        "zu mir"
       ],
       "usageExamples": [
         [
-          "Dün onu gördüm.",
-          "Ich habe sie gestern gesehen.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
-          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Bu şarkı bana birini hatırlatıyor.",
+          "Dieses Lied erinnert mich an jemanden.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bana tam tersini söylemişti.",
+          "Tom hat mir genau das Gegenteil gesagt.",
+          "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tanıyordu",
+      "content": "sorunu",
       "translations": [
-        "er kannte",
-        "sie kannte"
+        "Problem",
+        "Schwierigkeit"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "çözmeme",
+      "translations": [
+        "nicht lösen",
+        "nicht auflösen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "izin",
+      "translations": [
+        "Genehmigung",
+        "Erlaubnis"
+      ],
+      "usageExamples": [
+        [
+          "Kapıyı kapatmama izin veriniz.",
+          "Erlauben Sie mir, die Tür zu schließen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "veriniz",
+      "translations": [
+        "bitte",
+        "geben Sie mir"
+      ],
+      "usageExamples": [
+        [
+          "Kapıyı kapatmama izin veriniz.",
+          "Erlauben Sie mir, die Tür zu schließen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

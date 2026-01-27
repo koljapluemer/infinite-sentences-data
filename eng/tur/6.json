@@ -1,75 +1,69 @@
 {
-  "sentence": "Bu soba çok fazla tütüyor.",
+  "sentence": "Biraz yardıma ihtiyacın olabileceğini düşündüm.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sharptoothed (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That stove smokes too much."
+    "I thought you might need some help."
   ],
   "parts": [
     {
-      "content": "Bu",
+      "content": "biraz",
       "translations": [
-        "This",
-        "It"
+        "a little",
+        "somewhat",
+        "a bit"
       ],
       "usageExamples": [
         [
-          "Bu sorunları nasıl düzeltmemiz gerekir?",
-          "How are we supposed to fix these issues?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Neden biraz elma almıyoruz?",
+          "Why don't we buy some apples?",
+          "Sentence from Tatoeba by SSibelty (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "soba",
+      "content": "yardım",
       "translations": [
-        "stove",
-        "oven",
-        "fireplace"
+        "help",
+        "assistance",
+        "aid"
       ],
       "usageExamples": []
     },
     {
-      "content": "çok",
+      "content": "ihtiyaç",
       "translations": [
-        "very",
-        "a lot",
-        "many",
-        "much"
+        "need",
+        "requirement",
+        "necessity"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "olabileceğini",
+      "translations": [
+        "it could be",
+        "you might be able to",
+        "it may be possible"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "düşündüm",
+      "translations": [
+        "I thought",
+        "I considered",
+        "I reflected"
       ],
       "usageExamples": [
         [
-          "Kendimi çok sıkıyorum.",
-          "I'm really hard on myself.",
-          "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
-        ],
-        [
-          "O dil çok hoş geliyor.",
-          "That language sounds very pretty.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Tom'un ona verdiğin hediyeyi seveceğini düşündüm.",
+          "I thought Tom would love the gift you gave him.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "fazla",
-      "translations": [
-        "too much",
-        "excessive",
-        "a lot",
-        "more than enough"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tütüyor",
-      "translations": [
-        "it's smoking",
-        "it's burning",
-        "it's steaming"
-      ],
-      "usageExamples": []
     }
   ]
 }

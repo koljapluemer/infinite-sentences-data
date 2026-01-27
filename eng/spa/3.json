@@ -1,38 +1,49 @@
 {
-  "sentence": "Aquí está mi equipaje.",
+  "sentence": "Alguien no la ha traducido correctamente.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Here is my baggage."
+    "Someone didn't translate it correctly."
   ],
   "parts": [
     {
-      "content": "aquí",
+      "content": "Alguien",
       "translations": [
-        "here",
-        "in this place",
-        "at this location"
+        "someone",
+        "anyone",
+        "somebody"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "no",
+      "translations": [
+        "not"
       ],
       "usageExamples": [
         [
-          "Aqui é muito bonito.",
-          "It is very beautiful here.",
-          ""
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Estou aqui agora.",
-          "I am here at the moment.",
-          ""
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me río para no llorar.",
+          "I'm laughing to keep myself from crying.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "está",
+      "content": "la",
       "translations": [
-        "is",
-        "are"
+        "the"
       ],
       "usageExamples": [
         [
@@ -41,22 +52,23 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "El té sabe muy amargo y no está bueno.",
-          "The tea is really bitter and doesn't taste good.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "La comida está lista.",
+          "The food is prepared.",
+          ""
         ],
         [
-          "Tom se está lavando la cara.",
-          "Tom is washing his face.",
+          "Esa es la realidad.",
+          "That's the reality.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mi",
+      "content": "ha",
       "translations": [
-        "me",
-        "my"
+        "has",
+        "there is",
+        "there are"
       ],
       "usageExamples": [
         [
@@ -65,17 +77,23 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "¿Cómo entraste en mi habitación?",
-          "How did you get into my room?",
+          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
+          "It's marvelous how quickly the medicine relieved my pain.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
+          "That was the worst job Yanni had ever had.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "equipaje",
+      "content": "correctamente",
       "translations": [
-        "luggage",
-        "baggage"
+        "correctly",
+        "properly",
+        "rightly"
       ],
       "usageExamples": []
     }

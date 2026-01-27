@@ -1,51 +1,144 @@
 {
-  "sentence": "Faccia attenzione alle api.",
+  "sentence": "A Robert piace la musica classica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by MarekMazurkiewicz (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Look out for bees."
+    "Robert likes classical music."
   ],
   "parts": [
     {
-      "content": "Faccia",
+      "content": "A",
       "translations": [
-        "face",
-        "surface",
-        "appearance",
-        "front"
+        "Item: A",
+        "Article: A",
+        "Object: A"
+      ],
+      "usageExamples": [
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Robert",
+      "translations": [
+        "Rob",
+        "Bobby",
+        "Bob"
       ],
       "usageExamples": []
     },
     {
-      "content": "attenzione",
+      "content": "piace",
       "translations": [
-        "attention",
-        "care",
-        "notice",
-        "alertness"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "alle",
+      "content": "la",
       "translations": [
-        "to the",
-        "at the",
-        "in the",
-        "for the"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "api",
+      "content": "musica",
       "translations": [
-        "bee",
-        "honeybee",
-        "bee species"
+        "music",
+        "musical piece",
+        "tune",
+        "song"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Che musica ascoltate?",
+          "What music do you listen to?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Betty piace la musica classica.",
+          "Betty likes classical music.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non hanno orecchio per la musica.",
+          "They don't have an ear for music.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "classica",
+      "translations": [
+        "classical",
+        "classic",
+        "traditional",
+        "standard"
+      ],
+      "usageExamples": [
+        [
+          "A Betty piace la musica classica.",
+          "Betty likes classical music.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "A proposito di musica classica, qual è il vostro compositore preferito?",
+          "Talking of classical music, who is your favorite composer?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

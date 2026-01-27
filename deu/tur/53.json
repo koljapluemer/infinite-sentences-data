@@ -1,61 +1,60 @@
 {
-  "sentence": "Esperanto öğrenmek çok ilginçtir.",
+  "sentence": "Evde kaç tane yatak var?",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Esperanto zu lernen ist sehr interessant."
+    "Wie viele Betten gibt es im Haus?"
   ],
   "parts": [
     {
-      "content": "Esperanto",
+      "content": "Evde",
       "translations": [
-        "Esperanto",
-        "Esperanto-Sprache"
+        "zu Hause",
+        "im Haus"
       ],
       "usageExamples": []
     },
     {
-      "content": "öğrenmek",
+      "content": "kaç",
       "translations": [
-        "lernen",
-        "erfahren",
-        "studieren"
+        "wie viel",
+        "wie viele"
       ],
       "usageExamples": []
     },
     {
-      "content": "çok",
+      "content": "tane",
       "translations": [
-        "sehr",
-        "viel"
+        "Körper",
+        "Leib"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "var",
+      "translations": [
+        "var",
+        "es gibt"
       ],
       "usageExamples": [
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
         [
           "Tom'un çok zamanı var.",
           "Tom hat viel Zeit.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Çok fazla Fransızca konuşamam.",
-          "Ich spreche nicht viel Französisch.",
-          "Sentence from Tatoeba by oxyii (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
-          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "ilginçtir",
-      "translations": [
-        "es ist interessant",
-        "das ist interessant"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,99 +1,109 @@
 {
-  "sentence": "L'insegnante è entrato in ritardo.",
+  "sentence": "Ho bisogno di parlarti stanotte.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The teacher came in late."
+    "I need to talk to you tonight."
   ],
   "parts": [
     {
-      "content": "L'insegnante",
+      "content": "Ho",
       "translations": [
-        "The teacher",
-        "The instructor",
-        "The educator",
-        "The lecturer"
+        "I have",
+        "I possess",
+        "I hold",
+        "I own"
+      ],
+      "usageExamples": [
+        [
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho iniziato dal fondo.",
+          "I started at the bottom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bisogno",
+      "translations": [
+        "need",
+        "requirement",
+        "necessity",
+        "desire"
+      ],
+      "usageExamples": [
+        [
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiamatemi se avete bisogno di assistenza.",
+          "Call me if you need assistance.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorrei che capissero il mio bisogno di pace.",
+          "I wish they would understand my need for peace.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "parlarti",
+      "translations": [
+        "to talk to you",
+        "to speak with you",
+        "to chat with you",
+        "to converse with you"
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "stanotte",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
-      ],
-      "usageExamples": [
-        [
-          "Tom si è addolcito.",
-          "Tom relented.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è divertito.",
-          "Tom enjoyed himself.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "entrato",
-      "translations": [
-        "entered",
-        "came in",
-        "got in",
-        "arrived"
+        "tonight",
+        "this night",
+        "tonight's"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "inside",
-        "within",
-        "into"
-      ],
-      "usageExamples": [
-        [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Domani andiamo in montagna.",
-          "Tomorrow we'll go to the mountains.",
-          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
-        ],
-        [
-          "È stata in piedi?",
-          "Did you stand up?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ritardo",
-      "translations": [
-        "delay",
-        "lateness",
-        "hold-up",
-        "setback"
-      ],
-      "usageExamples": [
-        [
-          "Era in ritardo.",
-          "He was late.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

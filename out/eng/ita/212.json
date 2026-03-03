@@ -1,11 +1,11 @@
 {
-  "sentence": "A Robert piace la musica classica.",
+  "sentence": "A Mary piace davvero Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by MarekMazurkiewicz (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Robert likes classical music."
+    "Mary does like Tom."
   ],
   "parts": [
     {
@@ -17,8 +17,33 @@
       ],
       "usageExamples": [
         [
-          "A John piace l'infermiera.",
-          "John likes the nurse.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -27,20 +52,11 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Larry piace l'aragosta.",
-          "Larry likes lobster.",
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "Robert",
-      "translations": [
-        "Rob",
-        "Bobby",
-        "Bob"
-      ],
-      "usageExamples": []
     },
     {
       "content": "piace",
@@ -51,92 +67,69 @@
       ],
       "usageExamples": [
         [
-          "A Mary piace cucinare.",
-          "Mary likes to cook.",
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Judy piace.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "davvero",
+      "translations": [
+        "really",
+        "truly",
+        "actually",
+        "indeed"
+      ],
+      "usageExamples": [
+        [
+          "Loro l'hanno fatta davvero.",
+          "They really did it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "A Mary piace davvero Tom, vero?",
+          "Mary really likes Tom, doesn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una cantante davvero pessima, vero?",
+          "She's a really bad singer, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "Tom",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Cosa la sta causando?",
-          "What's causing it?",
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho ammesso la sconfitta.",
-          "I admitted defeat.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai guardato la partita?",
-          "Did you watch the game?",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "musica",
-      "translations": [
-        "music",
-        "musical piece",
-        "tune",
-        "song"
-      ],
-      "usageExamples": [
-        [
-          "Che musica ascoltate?",
-          "What music do you listen to?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A José piace la musica latina.",
-          "José likes latin music.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A proposito di musica classica, qual è il vostro compositore preferito?",
-          "Talking of classical music, who is your favorite composer?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "classica",
-      "translations": [
-        "classical",
-        "classic",
-        "traditional",
-        "standard"
-      ],
-      "usageExamples": [
-        [
-          "A Betty piace la musica classica.",
-          "Betty likes classical music.",
-          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
-        ],
-        [
-          "A proposito di musica classica, qual è il vostro compositore preferito?",
-          "Talking of classical music, who is your favorite composer?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
     }

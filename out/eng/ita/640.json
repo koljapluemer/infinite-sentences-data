@@ -1,11 +1,14 @@
 {
-  "sentence": "Mary si è bruciata la mano.",
+  "sentence": "Mary ha detto che non ha fame.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary burned her hand."
+    "Mary said she isn't hungry.",
+    "Mary said she's not hungry.",
+    "Mary said that she isn't hungry.",
+    "Mary said that she's not hungry."
   ],
   "parts": [
     {
@@ -17,11 +20,6 @@
       ],
       "usageExamples": [
         [
-          "A Mary piace cucinare.",
-          "Mary likes to cook.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,120 +28,139 @@
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "si",
+      "content": "ha",
       "translations": [
-        "if",
-        "whether",
-        "in case",
-        "provided that"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è divertito.",
-          "Tom had fun.",
+          "Un cane ha corso.",
+          "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "detto",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
       ],
       "usageExamples": [
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Mi ha detto che è scettico.",
+          "He told me he's skeptical.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
+          "Cosa avete detto al capo?",
+          "What did you say to the boss?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bruciata",
+      "content": "che",
       "translations": [
-        "burnt",
-        "scorched",
-        "charred",
-        "singed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
         "that",
         "which",
-        "those"
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Dovette pulire la cucina.",
-          "He had to clean the kitchen.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha perso la partita.",
-          "She lost the game.",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Apri la cassaforte.",
-          "Open the safe.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mano",
+      "content": "non",
       "translations": [
-        "hand",
-        "palm",
-        "manual",
-        "handle"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Datele una mano, OK?",
-          "Give her a hand, will you?",
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io vorrei stringere la mano a Tom.",
-          "I'd like to shake Tom's hand.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha bisogno di una mano.",
-          "Tom needs a hand.",
+          "Perché non la cercate?",
+          "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fame",
+      "translations": [
+        "hunger",
+        "appetite",
+        "starvation"
+      ],
+      "usageExamples": [
+        [
+          "Tom mi chiese se avevo fame.",
+          "Tom asked me whether I was hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,58 +1,84 @@
 {
-  "sentence": "Vorreste una ricevuta?",
+  "sentence": "Volate fino a Londra.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Would you like a receipt?"
+    "Fly to London."
   ],
   "parts": [
     {
-      "content": "Vorreste",
+      "content": "Volate",
       "translations": [
-        "Would you like",
-        "Do you want",
-        "Would you prefer",
-        "Are you interested in"
+        "Fly",
+        "Soar",
+        "Glide",
+        "Wing"
       ],
       "usageExamples": []
     },
     {
-      "content": "una",
+      "content": "fino",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "until",
+        "up to",
+        "as far as",
+        "to the extent of"
       ],
       "usageExamples": [
         [
-          "Era una visione orrenda.",
-          "It was a horrible vision.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "È una maledizione.",
-          "It is a curse.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vorrei una camera.",
-          "I would like a room.",
+          "La lasciai dormire fino a mezzogiorno.",
+          "I let her sleep until noon.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ricevuta",
+      "content": "a",
       "translations": [
-        "receipt",
-        "invoice",
-        "proof of payment",
-        "sales slip"
+        "an",
+        "one",
+        "each"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Londra",
+      "translations": [
+        "London",
+        "the city of London",
+        "Londinium",
+        "capital of England"
+      ],
+      "usageExamples": [
+        [
+          "A Londra preferii il cibo indiano.",
+          "In London I preferred Indian food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Londra ho preferito il cibo indiano.",
+          "In London I preferred Indian food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

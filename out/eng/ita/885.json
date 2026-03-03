@@ -1,58 +1,104 @@
 {
-  "sentence": "Sa come raggiungerla?",
+  "sentence": "Questo è un test?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you know how to reach her?"
+    "Is this a test?"
   ],
   "parts": [
     {
-      "content": "Sa",
+      "content": "Questo",
       "translations": [
-        "If",
-        "Whether",
-        "In case",
-        "As long as"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "come",
-      "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
+        "This",
+        "This one",
+        "This thing",
+        "This item"
       ],
       "usageExamples": [
         [
-          "Tom spiegò come perse tutto il suo denaro.",
-          "Tom explained how he lost his money.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Come si fa a sentirlo?",
-          "How can you hear him?",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non vediamo le cose così come sono, le vediamo così come siamo.",
-          "We don't see things as they are, we see them as we are.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+          "Questo non ha sorpreso Yanni.",
+          "This didn't surprise Yanni.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "raggiungerla",
+      "content": "è",
       "translations": [
-        "to reach her",
-        "to get to her",
-        "to contact her",
-        "to meet her"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un portiere.",
+          "He's a goal keeper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "test",
+      "translations": [
+        "exam",
+        "assessment",
+        "evaluation"
+      ],
+      "usageExamples": [
+        [
+          "È ancora in fase di test.",
+          "It's still being tested.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

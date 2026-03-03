@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho sognato di baciare Tom.",
+  "sentence": "Ho bisogno di parlarti stanotte.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I dreamed about kissing Tom."
+    "I need to talk to you tonight."
   ],
   "parts": [
     {
@@ -23,26 +23,42 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho iniziato dal fondo.",
-          "I started at the bottom.",
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Ho iniziato dal fondo.",
+          "I started at the bottom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sognato",
+      "content": "bisogno",
       "translations": [
-        "dreamed",
-        "dreamt",
-        "imagined",
-        "envisioned"
+        "need",
+        "requirement",
+        "necessity",
+        "desire"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom ha bisogno di una mano.",
+          "Tom needs a hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorrei che capissero il mio bisogno di pace.",
+          "I wish they would understand my need for peace.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "di",
@@ -54,14 +70,14 @@
       ],
       "usageExamples": [
         [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Mi importa di lei.",
@@ -71,38 +87,23 @@
       ]
     },
     {
-      "content": "baciare",
+      "content": "parlarti",
       "translations": [
-        "to kiss",
-        "kissing",
-        "to peck",
-        "to smooch"
+        "to talk to you",
+        "to speak with you",
+        "to chat with you",
+        "to converse with you"
       ],
       "usageExamples": []
     },
     {
-      "content": "Tom",
+      "content": "stanotte",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "tonight",
+        "this night",
+        "tonight's"
       ],
-      "usageExamples": [
-        [
-          "Qualcuno sta osservando Tom.",
-          "Someone is watching Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

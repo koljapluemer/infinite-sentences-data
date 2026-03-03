@@ -1,57 +1,165 @@
 {
-  "sentence": "Accendiamo qualche candela.",
+  "sentence": "A noi è piaciuta la cena.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's light some candles."
+    "We enjoyed the dinner."
   ],
   "parts": [
     {
-      "content": "Accendiamo",
+      "content": "A",
       "translations": [
-        "Let's light up",
-        "Let's turn on",
-        "Let's ignite"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "qualche",
-      "translations": [
-        "some",
-        "a few",
-        "several",
-        "a couple of"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Io ho qualche idea per te.",
-          "I have a few ideas for you.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha qualche problema psicologico.",
-          "Tom has some psychological issues.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
-          "Mary said she'd like to borrow a few books.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "candela",
+      "content": "noi",
       "translations": [
-        "candle",
-        "light",
-        "torch",
-        "luminary"
+        "we",
+        "us",
+        "ourselves"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei un'ispirazione per tutti noi.",
+          "You're an inspiration to us all.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaciuta",
+      "translations": [
+        "liked",
+        "pleased",
+        "enjoyed",
+        "found appealing"
+      ],
+      "usageExamples": [
+        [
+          "A Carlos è piaciuta la presentazione di Rima.",
+          "Carlos enjoyed Rima’s presentation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla è piaciuta la festa.",
+          "Layla liked the party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le è piaciuta la pizza?",
+          "Did you enjoy the pizza?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cena",
+      "translations": [
+        "dinner",
+        "supper",
+        "meal"
+      ],
+      "usageExamples": [
+        [
+          "Studio inglese dopo cena.",
+          "I study English after dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha a malapena toccato la sua cena.",
+          "He barely touched his dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa c'è per cena?",
+          "What's for dinner?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

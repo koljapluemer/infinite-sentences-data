@@ -1,36 +1,46 @@
 {
-  "sentence": "Mis amigos no saben dónde estoy.",
+  "sentence": "Mi intención no fue ofender.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by handsomelyian (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My friends don't know where I am."
+    "No offense was meant."
   ],
   "parts": [
     {
-      "content": "Mis",
+      "content": "Mi",
       "translations": [
-        "My",
-        "Mine"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "amigos",
-      "translations": [
-        "friends",
-        "buddies",
-        "mates",
-        "companions"
+        "Me",
+        "Myself"
       ],
       "usageExamples": [
         [
-          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
-          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
+          "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
+          "My son thinks that bats are reptiles because they're like pteranodons.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi padre maneja muy bien.",
+          "My father drives very well.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi hermano lo hizo en mi nombre.",
+          "My brother did it on my behalf.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "intención",
+      "translations": [
+        "intention",
+        "purpose",
+        "aim",
+        "goal"
+      ],
+      "usageExamples": []
     },
     {
       "content": "no",
@@ -56,52 +66,32 @@
       ]
     },
     {
-      "content": "saben",
+      "content": "fue",
       "translations": [
-        "they know",
-        "you all know"
+        "was",
+        "has been"
+      ],
+      "usageExamples": [
+        [
+          "Anteayer fue miércoles.",
+          "The day before yesterday was Wednesday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
+          "That was the worst job Yanni had ever had.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ofender",
+      "translations": [
+        "to offend",
+        "to insult",
+        "to hurt someone's feelings"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "dónde",
-      "translations": [
-        "where",
-        "where at",
-        "in which place"
-      ],
-      "usageExamples": [
-        [
-          "¿Dónde está el restaurante que me recomendaste?",
-          "Where's the restaurant you told me about?",
-          ""
-        ],
-        [
-          "El camaleón cambia de color según dónde se encuentre.",
-          "The chameleon changes color depending on where it finds itself.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "¿Dónde está la parada de colectivos más cercana?",
-          "Where's the nearest bus stop?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "estoy",
-      "translations": [
-        "I am.",
-        "I exist.",
-        "I stand"
-      ],
-      "usageExamples": [
-        [
-          "Me estoy tiñendo el pelo de negro.",
-          "I'm dyeing my hair black.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

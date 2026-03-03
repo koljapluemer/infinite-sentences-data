@@ -1,120 +1,73 @@
 {
-  "sentence": "Estudio música en la universidad de Boston.",
+  "sentence": "Este gato no persigue ratones.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I study music at a university in Boston."
+    "This cat doesn't chase mice."
   ],
   "parts": [
     {
-      "content": "Estudio",
+      "content": "Este",
       "translations": [
-        "study",
-        "studio",
-        "research",
-        "workshop"
+        "This",
+        "It is"
+      ],
+      "usageExamples": [
+        [
+          "Este es el color de las frambuesas.",
+          "This is the color of raspberries.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gato",
+      "translations": [
+        "cat",
+        "kitten"
       ],
       "usageExamples": []
     },
     {
-      "content": "música",
+      "content": "no",
       "translations": [
-        "music",
-        "tune",
-        "melody"
+        "not"
       ],
       "usageExamples": [
         [
-          "La música se detuvo por un minuto.",
-          "The music stopped for a minute.",
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tomás no tiene hambre.",
+          "Tom's not hungry.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "en",
+      "content": "persigue",
       "translations": [
-        "to"
-      ],
-      "usageExamples": [
-        [
-          "Confío en él.",
-          "I trust him.",
-          ""
-        ],
-        [
-          "Estoy en casa.",
-          "I am in the house.",
-          ""
-        ],
-        [
-          "A veces nuestras plegarias no son respondidas de la manera en la que querríamos.",
-          "Sometimes our prayers aren't answered the way we want them to be.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
-      ],
-      "usageExamples": [
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "La comida está lista.",
-          "The food is prepared.",
-          ""
-        ],
-        [
-          "Esa es la realidad.",
-          "That's the reality.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "universidad",
-      "translations": [
-        "university",
-        "college"
+        "pursue",
+        "chase",
+        "follow",
+        "seek"
       ],
       "usageExamples": []
     },
     {
-      "content": "de",
+      "content": "ratones",
       "translations": [
-        "to"
-      ],
-      "usageExamples": [
-        [
-          "Vengo de la playa.",
-          "I am coming from the beach.",
-          ""
-        ],
-        [
-          "El libro de historia es interesante.",
-          "The history book is engaging.",
-          ""
-        ],
-        [
-          "La casa de Tom tiene grandes ventanas.",
-          "Tom's house has large windows.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Boston",
-      "translations": [
-        "Boston",
-        "City of Boston"
+        "mice",
+        "rats"
       ],
       "usageExamples": []
     }

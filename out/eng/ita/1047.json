@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom tradusse il contratto in francese.",
+  "sentence": "Tom si è addolcito.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom translated the contract into French."
+    "Tom relented."
   ],
   "parts": [
     {
@@ -16,108 +16,83 @@
       ],
       "usageExamples": [
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom era creativo.",
-          "Tom was creative.",
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tradusse",
+      "content": "si",
       "translations": [
-        "he/she translated",
-        "he/she rendered",
-        "he/she conveyed",
-        "he/she interpreted"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sappiamo nemmeno con chi si è sposato Tom.",
+          "We don't even know who Tom got married to.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è americano?",
+          "Are you American?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "addolcito",
+      "translations": [
+        "sweetened",
+        "made sweet",
+        "sweetened up",
+        "sugared"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non conosco il sistema.",
-          "I don't know the system.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non tollererò il fallimento.",
-          "I will not tolerate failure.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "contratto",
-      "translations": [
-        "contract",
-        "agreement",
-        "contractual agreement",
-        "deal"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "inside",
-        "within",
-        "into"
-      ],
-      "usageExamples": [
-        [
-          "Domani andiamo in montagna.",
-          "Tomorrow we'll go to the mountains.",
-          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È stata in piedi?",
-          "Did you stand up?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "francese",
-      "translations": [
-        "French",
-        "French language",
-        "French person",
-        "French cuisine"
-      ],
-      "usageExamples": [
-        [
-          "Tom e Mary studiano il francese ogni sera per trenta minuti.",
-          "Tom and Mary study French every evening for thirty minutes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Lei è la dottoressa?",
+  "sentence": "Lei ha già cominciato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you the doctor?"
+    "She has already begun."
   ],
   "parts": [
     {
@@ -18,83 +18,93 @@
       ],
       "usageExamples": [
         [
+          "Lei ci catturerà.",
+          "She will catch us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Lei ha frenato.",
           "She braked.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ],
         [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "già",
+      "translations": [
+        "already",
+        "now",
+        "yet",
+        "at this point"
+      ],
+      "usageExamples": [
+        [
           "Lei ha già finito?",
-          "Are you through yet?",
+          "Have you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei ci catturerà.",
-          "You will catch us.",
+          "Hai già visto il campus?",
+          "Have you seen the campus yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci siete già stati.",
+          "You've already been to Berlin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "cominciato",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "started",
+        "begun",
+        "initiated",
+        "commenced"
       ],
       "usageExamples": [
         [
-          "Tom si è divertito.",
-          "Tom had fun.",
+          "Hanno cominciato ad innervosirsi.",
+          "They started to get nervous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il tempo è finito.",
-          "Time is up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Forse è lui.",
-          "Maybe it's him.",
+          "Abbiamo cominciato a parlare dell'Islam.",
+          "We started talking about Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Dovette pulire la cucina.",
-          "He had to clean the kitchen.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Apprezzo la tua onestà.",
-          "I appreciate your honesty.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dottoressa",
-      "translations": [
-        "doctor",
-        "female doctor",
-        "physician",
-        "female physician"
-      ],
-      "usageExamples": []
     }
   ]
 }

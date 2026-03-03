@@ -1,119 +1,74 @@
 {
-  "sentence": "Mary ha preparato la colazione.",
+  "sentence": "Mangia finché è caldo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary made breakfast."
+    "Eat while it's warm."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Mangia",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "Eat",
+        "Consume",
+        "Devour",
+        "Ingest"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "finché",
+      "translations": [
+        "as long as",
+        "until",
+        "provided that",
+        "so long as"
       ],
       "usageExamples": [
         [
-          "A Mary piace cucinare.",
-          "Mary likes to cook.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "è",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Lei ha già finito?",
-          "Are you done yet?",
+          "Tom si è divertito.",
+          "Tom had a good time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Un cane ha corso.",
-          "A dog ran.",
+          "Il tempo è finito.",
+          "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non ha corso?",
-          "Why didn't you run?",
+          "Il libro è arrivato.",
+          "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "preparato",
+      "content": "caldo",
       "translations": [
-        "prepared",
-        "ready",
-        "set up",
-        "arranged"
+        "hot",
+        "warm",
+        "heated",
+        "spicy"
       ],
-      "usageExamples": [
-        [
-          "Io ho preparato dello spezzatino.",
-          "I've made stew.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Lui accese la radio.",
-          "He turned on the radio.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "colazione",
-      "translations": [
-        "breakfast",
-        "morning meal",
-        "first meal of the day"
-      ],
-      "usageExamples": [
-        [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

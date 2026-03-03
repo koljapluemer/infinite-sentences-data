@@ -1,72 +1,231 @@
 {
-  "sentence": "Io ero lì.",
+  "sentence": "In realtà il nero non è un colore. È l'assenza di colore.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I was there."
+    "In reality black is not a color; it is the absence of color."
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "In",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "Inside",
+        "Within",
+        "Into"
       ],
       "usageExamples": [
         [
-          "Io sono solo curiosa.",
-          "I'm just curious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sto diventando piccolo!",
-          "I am getting small!",
+          "In realtà non l'ho mai incontrata.",
+          "I never actually met her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ero",
+      "content": "realtà",
       "translations": [
-        "I was",
-        "I used to be",
-        "I used to",
-        "I was being"
+        "reality",
+        "fact",
+        "truth",
+        "actuality"
       ],
       "usageExamples": [
         [
-          "L'ho usata quando ero in Cina la scorsa estate.",
-          "I used it when I was in China last summer.",
+          "In realtà non l'ho mai incontrata.",
+          "I never actually met her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lì",
+      "content": "il",
       "translations": [
-        "there",
-        "over there",
-        "in that place",
-        "at that location"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Perché siete andati lì?",
-          "Why did you go there?",
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non ci sarà così tanta gente lì.",
-          "There won't be so many people there.",
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nero",
+      "translations": [
+        "black",
+        "dark",
+        "noir"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un portiere.",
+          "He's a goal keeper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "colore",
+      "translations": [
+        "color",
+        "hue",
+        "shade",
+        "tint"
+      ],
+      "usageExamples": [
+        [
+          "A Dan non piace il colore delle pareti.",
+          "Dan doesn't like the color of the walls.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "È",
+      "translations": [
+        "It is",
+        "He is",
+        "She is",
+        "There is"
+      ],
+      "usageExamples": [
+        [
+          "È idolatrato?",
+          "Is he idolized?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "l'assenza",
+      "translations": [
+        "the absence",
+        "lack",
+        "nonexistence",
+        "void"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ]
       ]
     }

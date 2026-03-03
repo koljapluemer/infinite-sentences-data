@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom es un buen gerente.",
+  "sentence": "Tom dio con una pauta en los datos.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is a pretty good manager."
+    "Tom spotted a pattern in the data."
   ],
   "parts": [
     {
@@ -16,6 +16,11 @@
       ],
       "usageExamples": [
         [
+          "Tom terminó segundo.",
+          "Tom finished second.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "Tom es autónomo.",
           "Tom is self-employed.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
@@ -24,41 +29,53 @@
           "Dejemos a Tom.",
           "Let's ditch Tom.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom terminó segundo.",
-          "Tom finished second.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "es",
+      "content": "dio",
       "translations": [
-        "is",
-        "it is",
-        "to be"
+        "god",
+        "deity"
       ],
       "usageExamples": [
         [
-          "Tom es autónomo.",
-          "Tom is self-employed.",
+          "Francois dio un discurso.",
+          "François gave a speech.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Esa es la realidad.",
-          "That's the reality.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tomás es xenofóbico.",
-          "Tom is xenophobic.",
+          "Ziri ya le dio el dinero a Rima.",
+          "Ziri already gave Rima the money.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "con",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Hablo con ella.",
+          "I talk with her.",
+          ""
+        ],
+        [
+          "Voy con mis amigos.",
+          "I go with my friends.",
+          ""
+        ],
+        [
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "una",
       "translations": [
         "a",
         "one",
@@ -66,53 +83,80 @@
       ],
       "usageExamples": [
         [
-          "Necesito un libro.",
-          "I need to get a book.",
-          ""
-        ],
-        [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Francois dio un discurso.",
-          "François gave a speech.",
+          "Eres una chica linda.",
+          "You're a cute girl.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "buen",
+      "content": "pauta",
       "translations": [
-        "good",
-        "nice",
-        "well"
+        "guideline",
+        "pattern",
+        "framework",
+        "protocol"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "to"
       ],
       "usageExamples": [
         [
-          "Ayer tuvimos buen tiempo.",
-          "We had nice weather yesterday.",
+          "Confío en él.",
+          "I have faith in him.",
+          ""
+        ],
+        [
+          "Estoy en casa.",
+          "I am at home.",
+          ""
+        ],
+        [
+          "Él sería la última persona en romper su palabra.",
+          "He would be the last man to break his word.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Es un buen día.",
-          "It's a good day.",
-          ""
-        ],
-        [
-          "Hiciste un buen trabajo.",
-          "You did a good job.",
-          ""
         ]
       ]
     },
     {
-      "content": "gerente",
+      "content": "los",
       "translations": [
-        "manager",
-        "director",
-        "administrator"
+        "the",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
+          "My son thinks that bats are reptiles because they're like pteranodons.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
+          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "datos",
+      "translations": [
+        "data",
+        "information",
+        "details"
       ],
       "usageExamples": []
     }

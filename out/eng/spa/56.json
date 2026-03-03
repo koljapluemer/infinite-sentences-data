@@ -1,69 +1,49 @@
 {
-  "sentence": "Francois dio un discurso.",
+  "sentence": "Está nevando hoy.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "François gave a speech."
+    "It's snowing today."
   ],
   "parts": [
     {
-      "content": "Francois",
+      "content": "Está",
       "translations": [
-        "Francois",
-        "Francis"
+        "It is",
+        "He/She is",
+        "You are"
       ],
       "usageExamples": []
     },
     {
-      "content": "dio",
+      "content": "nevando",
       "translations": [
-        "god",
-        "deity"
+        "snowing",
+        "it's snowing"
       ],
-      "usageExamples": [
-        [
-          "Tom dio con una pauta en los datos.",
-          "Tom spotted a pattern in the data.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "un",
+      "content": "hoy",
       "translations": [
-        "a",
-        "one",
-        "an"
+        "today",
+        "this day",
+        "on this day"
       ],
       "usageExamples": [
         [
-          "Tenemos un horario apretado.",
-          "We have a tight schedule.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Hoy tengo clase.",
+          "I have a lesson today.",
+          ""
         ],
         [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quiero un café.",
-          "I'd like a coffee.",
+          "Hoy es lunes.",
+          "Today is Monday.",
           ""
         ]
       ]
-    },
-    {
-      "content": "discurso",
-      "translations": [
-        "speech",
-        "discourse",
-        "talk",
-        "address"
-      ],
-      "usageExamples": []
     }
   ]
 }

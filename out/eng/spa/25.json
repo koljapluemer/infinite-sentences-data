@@ -1,11 +1,11 @@
 {
-  "sentence": "El hombre huele la leche.",
+  "sentence": "El hambre llevó al muchacho a robar dinero de la caja registradora.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by papabear (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The man smells the milk."
+    "Hunger compelled the boy to steal money from the cash register."
   ],
   "parts": [
     {
@@ -16,13 +16,13 @@
       ],
       "usageExamples": [
         [
-          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
-          "Hunger compelled the boy to steal money from the cash register.",
+          "El carámbano es una columna de hielo.",
+          "An icicle is a pillar of ice.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "El té sabe muy amargo y no está bueno.",
-          "The tea is really bitter and doesn't taste good.",
+          "El ruido me está volviendo loco.",
+          "The noise is driving me crazy.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -33,22 +33,137 @@
       ]
     },
     {
-      "content": "hombre",
+      "content": "hambre",
       "translations": [
-        "man",
-        "male"
+        "hunger",
+        "starvation",
+        "appetite"
+      ],
+      "usageExamples": [
+        [
+          "Tomás no tiene hambre.",
+          "Tom's not hungry.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "llevó",
+      "translations": [
+        "took",
+        "carried",
+        "brought"
       ],
       "usageExamples": []
     },
     {
-      "content": "huele",
+      "content": "al",
       "translations": [
-        "smells",
-        "scent",
-        "fragrance",
-        "odor"
+        "to the",
+        "at the",
+        "in the"
+      ],
+      "usageExamples": [
+        [
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Repetirás esta oración cinco veces al día.",
+          "You'll repeat this sentence five times a day.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Debes llegar al trabajo a tiempo.",
+          "You ought to get to work on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "muchacho",
+      "translations": [
+        "boy",
+        "kid",
+        "young man"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "robar",
+      "translations": [
+        "to steal",
+        "to rob"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dinero",
+      "translations": [
+        "money",
+        "cash",
+        "funds",
+        "currency"
+      ],
+      "usageExamples": [
+        [
+          "Dijo que tenía mucho dinero.",
+          "He said that he had a lot of money.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri ya le dio el dinero a Rima.",
+          "Ziri already gave Rima the money.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Vengo de la playa.",
+          "I am coming from the beach.",
+          ""
+        ],
+        [
+          "Tom tiene un gran sentido de la responsabilidad.",
+          "Tom has a strong sense of responsibility.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "la",
@@ -58,26 +173,37 @@
       "usageExamples": [
         [
           "La comida está lista.",
-          "The food is prepared.",
+          "The meal is prepared.",
+          ""
+        ],
+        [
+          "La casa es grande.",
+          "The house is spacious.",
           ""
         ],
         [
           "Esa es la realidad.",
           "That's the reality.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "leche",
+      "content": "caja",
       "translations": [
-        "milk",
-        "dairy"
+        "box",
+        "cash register",
+        "drawer",
+        "case"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "registradora",
+      "translations": [
+        "cash register",
+        "register",
+        "cashier's register"
       ],
       "usageExamples": []
     }

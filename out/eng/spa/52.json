@@ -1,11 +1,11 @@
 {
-  "sentence": "Este gato no persigue ratones.",
+  "sentence": "Este es el color de las frambuesas.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This cat doesn't chase mice."
+    "This is the color of raspberries."
   ],
   "parts": [
     {
@@ -16,58 +16,129 @@
       ],
       "usageExamples": [
         [
-          "Este es el color de las frambuesas.",
-          "This is the color of raspberries.",
+          "Este gato no persigue ratones.",
+          "This cat doesn't chase mice.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gato",
+      "content": "es",
       "translations": [
-        "cat",
-        "kitten"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "no",
-      "translations": [
-        "not"
+        "is",
+        "it is",
+        "to be"
       ],
       "usageExamples": [
         [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
+          "Tomás es xenofóbico.",
+          "Tom is xenophobic.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tomás no tiene hambre.",
-          "Tom's not hungry.",
+          "Esa es la realidad.",
+          "That's the reality.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
+          "Tom es autónomo.",
+          "Tom is self-employed.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "persigue",
+      "content": "el",
       "translations": [
-        "pursue",
-        "chase",
-        "follow",
-        "seek"
+        "the"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "El gran crítico y el poeta viajan juntos.",
+          "The great critic and the poet are traveling together.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sigue siendo un misterio dónde está oculto el tesoro.",
+          "Where the treasure is hidden is still a mystery.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ann le encanta el chocolate.",
+          "Ann loves chocolate.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "ratones",
+      "content": "color",
       "translations": [
-        "mice",
-        "rats"
+        "color",
+        "shade",
+        "hue",
+        "tint"
+      ],
+      "usageExamples": [
+        [
+          "El camaleón cambia de color según dónde se encuentre.",
+          "The chameleon changes color depending on where it finds itself.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Vengo de la playa.",
+          "I am coming from the beach.",
+          ""
+        ],
+        [
+          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
+          "Hunger compelled the boy to steal money from the cash register.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom le echa de menos.",
+          "Tom misses him.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "las",
+      "translations": [
+        "the",
+        "those",
+        "them"
+      ],
+      "usageExamples": [
+        [
+          "Puedo mostrarte las fotos.",
+          "I can show you the pictures.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Las flores en el jardín son hermosas.",
+          "The flowers in the yard are lovely.",
+          ""
+        ],
+        [
+          "Las galletas que horneé están deliciosas.",
+          "The cookies I made are tasty.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "frambuesas",
+      "translations": [
+        "raspberries",
+        "raspberry fruits"
       ],
       "usageExamples": []
     }

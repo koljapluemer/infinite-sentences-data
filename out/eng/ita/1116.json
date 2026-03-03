@@ -1,98 +1,138 @@
 {
-  "sentence": "Vorrei cambiare il mio biglietto.",
+  "sentence": "Voi pensate che Tom sia innocente?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by tanay (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd like to change my ticket."
+    "Do you think Tom is innocent?"
   ],
   "parts": [
     {
-      "content": "Vorrei",
+      "content": "Voi",
       "translations": [
-        "I would like",
-        "I want",
-        "I would love to",
-        "I wish to"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "cambiare",
-      "translations": [
-        "to change",
-        "to exchange",
-        "to switch",
-        "to alter"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "You (plural)",
+        "You all",
+        "You guys",
+        "You (formal plural)"
       ],
       "usageExamples": [
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
+          "Voi siete attraenti.",
+          "You're attractive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
+          "Voi siete burbere.",
+          "You're grumpy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "Voi siete alzate?",
+          "Are you up?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "pensate",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "think",
+        "consider",
+        "reflect",
+        "ponder"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "È mio nemico.",
-          "He's my enemy.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho avuto la fortuna di seguire il mio percorso senza rimpianti.",
-          "I've been lucky to follow my own path without regrets.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is whining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sia",
+      "translations": [
+        "herself",
+        "hers",
+        "she herself",
+        "her own"
+      ],
+      "usageExamples": [
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Penso che lei sia un idiota.",
+          "I think you're an idiot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "innocente",
+      "translations": [
+        "innocent",
+        "naive",
+        "blameless",
+        "unaware"
+      ],
+      "usageExamples": [
+        [
+          "Più della metà delle persone condannate dai tribunali è innocente.",
+          "More than half of the people convicted by the courts are innocent.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dove ha portato il mio lenzuolo?",
-          "Where did you take my blanket?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "biglietto",
-      "translations": [
-        "ticket",
-        "note",
-        "bill",
-        "card"
-      ],
-      "usageExamples": [
-        [
-          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
-          "When riding a bus or a train, you need to pay the fare.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
         ]
       ]
     }

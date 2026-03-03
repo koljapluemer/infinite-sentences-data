@@ -1,106 +1,129 @@
 {
-  "sentence": "Avete il nostro rispetto.",
+  "sentence": "Alla fine ha perso la pazienza.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You have our respect."
+    "Finally, he lost his temper."
   ],
   "parts": [
     {
-      "content": "Avete",
+      "content": "Alla",
       "translations": [
-        "You have",
-        "Do you have?",
-        "You all have",
-        "Have you?"
+        "To",
+        "At",
+        "In the direction of",
+        "Towards"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "fine",
+      "translations": [
+        "penalty",
+        "fee",
+        "charge"
       ],
       "usageExamples": [
         [
-          "Avete mai provato?",
-          "Did you ever try?",
+          "A Chicago tende a nevicare verso la fine di novembre.",
+          "Snow is apt to fall in Chicago in late November.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete provato l'hot pot a Taiwan?",
-          "Have you tried the hot pot in Taiwan?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Avete visitato la città dove è nato vostro padre?",
-          "Have you visited the town where your father was born?",
+          "Beh, eccoci qui alla fine!",
+          "Well, here we are at last!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già finito?",
+          "Are you through yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "perso",
+      "translations": [
+        "lost",
+        "missing",
+        "absent",
+        "gone"
+      ],
+      "usageExamples": [
+        [
+          "Ha perso qualcosa?",
+          "Did you lose something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "You lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
       "translations": [
         "the",
-        "it",
-        "him",
-        "that"
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non conosco il sistema.",
-          "I don't know the system.",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nostro",
+      "content": "pazienza",
       "translations": [
-        "our",
-        "ours",
-        "of ours",
-        "belonging to us"
+        "patience",
+        "tolerance",
+        "forbearance",
+        "endurance"
       ],
-      "usageExamples": [
-        [
-          "Tutto il nostro cibo è andato a male.",
-          "All our food was spoiled.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Giusto, cominciamo il nostro lavoro.",
-          "Right, let's start our work.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Se non ci sbrighiamo, perderemo il nostro treno.",
-          "If we don't hurry, we'll miss our train.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "rispetto",
-      "translations": [
-        "respect",
-        "regard",
-        "consideration",
-        "esteem"
-      ],
-      "usageExamples": [
-        [
-          "Mi sento unico rispetto agli altri.",
-          "I feel unique compared to others.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

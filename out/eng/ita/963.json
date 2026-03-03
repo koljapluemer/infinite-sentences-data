@@ -1,94 +1,90 @@
 {
-  "sentence": "Suggerirei di inserire una virgola.",
+  "sentence": "State guidando decisamente troppo veloce.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd suggest inserting a comma."
+    "You're driving way too fast."
   ],
   "parts": [
     {
-      "content": "Suggerirei",
+      "content": "State",
       "translations": [
-        "I would suggest",
-        "I would recommend",
-        "I suggest",
-        "I recommend"
+        "condition",
+        "situation",
+        "status",
+        "stage"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "guidando",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "driving",
+        "guiding",
+        "leading",
+        "steering"
       ],
       "usageExamples": [
         [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
+          "Sta guidando.",
+          "He's driving.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "inserire",
+      "content": "decisamente",
       "translations": [
-        "insert",
-        "add",
-        "include",
-        "put in"
+        "definitely",
+        "certainly",
+        "absolutely",
+        "decidedly"
       ],
       "usageExamples": []
     },
     {
-      "content": "una",
+      "content": "troppo",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "too much",
+        "excessively",
+        "overly",
+        "very"
       ],
       "usageExamples": [
         [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
+          "Penso che Tom sia troppo giovane.",
+          "I think Tom is too young.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vorreste una ricevuta?",
-          "Would you like a receipt?",
+          "Potrebbe funzionare, però è troppo rischioso.",
+          "That might work, but it's too risky.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Posso avere una birra?",
-          "Can I have a beer?",
+          "A Mary fu detto che era troppo bassa.",
+          "Mary was told she was too short.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "virgola",
+      "content": "veloce",
       "translations": [
-        "comma",
-        "virgule",
-        "punctuation mark",
-        "separator"
+        "fast",
+        "quick",
+        "swift",
+        "speedy"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Puoi lanciare una palla veloce?",
+          "Can you throw a fastball?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,21 +1,73 @@
 {
-  "sentence": "Vladimir è forte come una mucca.",
+  "sentence": "Un linguaggio non è mai abbastanza.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Vladimir is strong as a cow."
+    "One language is never enough."
   ],
   "parts": [
     {
-      "content": "Vladimir",
+      "content": "Un",
       "translations": [
-        "Vladimir (name)",
-        "Vladimir (given name)",
-        "Vladimir (personal name)"
+        "One",
+        "A",
+        "An"
+      ],
+      "usageExamples": [
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
+          "A son would represent continuity in a rapidly changing world.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un crimine è stato commesso.",
+          "A crime has been committed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "linguaggio",
+      "translations": [
+        "language",
+        "speech",
+        "linguistic expression",
+        "tongue"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "è",
@@ -27,101 +79,66 @@
       ],
       "usageExamples": [
         [
-          "Forse è lui.",
-          "Maybe it's him.",
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il tempo è finito.",
+          "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è divertito.",
-          "Tom had fun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è un esperto.",
-          "Tom is a pro.",
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "forte",
+      "content": "mai",
       "translations": [
-        "strong",
-        "powerful",
-        "forceful",
-        "intense"
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
       ],
       "usageExamples": [
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "abbastanza",
+      "translations": [
+        "enough",
+        "fairly",
+        "quite",
+        "sufficiently"
+      ],
+      "usageExamples": [
+        [
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Non mi sento abbastanza forte per dirglielo.",
           "I don’t feel strong enough to tell him.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "come",
-      "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
-      ],
-      "usageExamples": [
-        [
-          "Sa come raggiungerla?",
-          "Do you know how to reach her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ballò come un robot.",
-          "Tom danced like a robot.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sa come si sente Mary a riguardo.",
-          "Tom knows how Mary feels about that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
-      ],
-      "usageExamples": [
-        [
-          "Posso avere una birra?",
-          "Can I have a beer?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Datele una mano, OK?",
-          "Give her a hand, will you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È stato una delusione.",
-          "It was a disappointment.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mucca",
-      "translations": [
-        "cow",
-        "female bovine"
-      ],
-      "usageExamples": [
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

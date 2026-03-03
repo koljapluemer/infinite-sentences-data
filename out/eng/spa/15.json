@@ -1,11 +1,11 @@
 {
-  "sentence": "Debes llegar al trabajo a tiempo.",
+  "sentence": "Debes hacer felices a tus padres.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You ought to get to work on time."
+    "You must make your parents happy."
   ],
   "parts": [
     {
@@ -17,67 +17,29 @@
       ],
       "usageExamples": [
         [
-          "Debes hacer felices a tus padres.",
-          "You must make your parents happy.",
+          "Debes llegar al trabajo a tiempo.",
+          "You ought to get to work on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "llegar",
+      "content": "hacer",
       "translations": [
-        "to arrive",
-        "to come",
-        "to reach"
+        "to do",
+        "to make"
       ],
-      "usageExamples": [
-        [
-          "Lo llamé al llegar a Tokio.",
-          "On arriving in Tokyo, I called him up.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "al",
+      "content": "felices",
       "translations": [
-        "to the",
-        "at the",
-        "in the"
+        "happy",
+        "joyful",
+        "glad",
+        "content"
       ],
-      "usageExamples": [
-        [
-          "Una pequeña caminata me trajo al lago.",
-          "A short walk brought me to the lake.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom va a la biblioteca al menos una vez por mes.",
-          "Tom goes to the library at least once a month.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Repetirás esta oración cinco veces al día.",
-          "You'll repeat this sentence five times a day.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "trabajo",
-      "translations": [
-        "work",
-        "job",
-        "labor",
-        "task"
-      ],
-      "usageExamples": [
-        [
-          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
-          "That was the worst job Yanni had ever had.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "a",
@@ -103,28 +65,20 @@
       ]
     },
     {
-      "content": "tiempo",
+      "content": "tus",
       "translations": [
-        "time",
-        "weather"
+        "your",
+        "yours"
       ],
-      "usageExamples": [
-        [
-          "No tengo tiempo.",
-          "I don't have time.",
-          ""
-        ],
-        [
-          "Ayer tuvimos buen tiempo.",
-          "We had nice weather yesterday.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Llegaste a tiempo.",
-          "You arrived on time.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "padres",
+      "translations": [
+        "parents",
+        "father and mother"
+      ],
+      "usageExamples": []
     }
   ]
 }

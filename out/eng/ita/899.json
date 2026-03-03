@@ -1,22 +1,95 @@
 {
-  "sentence": "Scendi da quella scala.",
+  "sentence": "Salutate i vostri genitori da parte mia.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by bluepie88 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Get down from that ladder."
+    "Say hello to your parents from me."
   ],
   "parts": [
     {
-      "content": "Scendi",
+      "content": "Salutate",
       "translations": [
-        "Get down",
-        "Descend",
-        "Come down.",
-        "Lower yourself"
+        "Greet",
+        "Salute",
+        "Say hello.",
+        "Welcome."
       ],
       "usageExamples": []
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono i fagioli.",
+          "Mary likes beans.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Leggo un giornale tutti i giorni per tenermi aggiornata.",
+          "I read a newspaper every day so that I may keep up with the time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vostri",
+      "translations": [
+        "your",
+        "yours",
+        "your own",
+        "of yours"
+      ],
+      "usageExamples": [
+        [
+          "Tirate fuori i vostri quaderni e le vostre penne.",
+          "Get out your notebooks and pens.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non accarezzo i vostri cani.",
+          "I don't pet your dogs.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "genitori",
+      "translations": [
+        "parents",
+        "guardians",
+        "caregivers",
+        "progenitors"
+      ],
+      "usageExamples": [
+        [
+          "A Mary mancano i suoi genitori.",
+          "Mary misses her parents.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io amo i miei genitori.",
+          "I love my parents.",
+          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ai miei genitori non piace il mio ragazzo.",
+          "My parents don't like my boyfriend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "da",
@@ -28,6 +101,11 @@
       ],
       "usageExamples": [
         [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Imparai l'esperanto da sola.",
           "I learned Esperanto by myself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -36,49 +114,54 @@
           "Dovresti lasciarmi da sola.",
           "You should leave me alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non è permesso uscire da sola.",
-          "Mary isn't allowed to go out by herself.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quella",
+      "content": "parte",
       "translations": [
-        "that",
-        "the one",
-        "that one",
-        "the"
+        "part",
+        "section",
+        "component",
+        "piece"
       ],
       "usageExamples": [
         [
-          "Cos'è quella cosa là?",
-          "What's that thing there?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "È mio cugino da parte di padre.",
+          "He is my cousin on the father's side.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ],
         [
-          "Taxi, segui quella macchina.",
-          "Taxi, follow that car.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sami sentì quella ragazza.",
-          "Sami heard that girl.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Io non sono mai stato in quella parte del paese.",
+          "I have never been to that part of the country.",
+          "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scala",
+      "content": "mia",
       "translations": [
-        "ladder",
-        "scale",
-        "staircase",
-        "stair"
+        "my",
+        "mine",
+        "belonging to me"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

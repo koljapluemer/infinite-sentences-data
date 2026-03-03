@@ -1,11 +1,11 @@
 {
-  "sentence": "El té sabe muy amargo y no está bueno.",
+  "sentence": "El tiempo está muy malo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by FeuDRenais (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The tea is really bitter and doesn't taste good."
+    "The weather is very bad."
   ],
   "parts": [
     {
@@ -16,51 +16,66 @@
       ],
       "usageExamples": [
         [
+          "El camaleón cambia de color según dónde se encuentre.",
+          "The chameleon changes color depending on where it finds itself.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El gran crítico y el poeta viajan juntos.",
+          "The great critic and the poet are traveling together.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "El hombre huele la leche.",
           "The man smells the milk.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
-          "Hunger compelled the boy to steal money from the cash register.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El ruido me está volviendo loco.",
-          "The noise is driving me crazy.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "té",
+      "content": "tiempo",
       "translations": [
-        "tea",
-        "herbal tea"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sabe",
-      "translations": [
-        "know",
-        "do you know",
-        "are you aware"
+        "time",
+        "weather"
       ],
       "usageExamples": [
         [
-          "Você sabe a resposta?",
-          "Do you know the answer?",
+          "Ayer tuvimos buen tiempo.",
+          "We had nice weather yesterday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No tengo tiempo.",
+          "I don't have time.",
           ""
         ],
         [
-          "Ele sabe cozinhar bem.",
-          "He is a good cook.",
+          "El tiempo vuela.",
+          "Time flies.",
           ""
+        ]
+      ]
+    },
+    {
+      "content": "está",
+      "translations": [
+        "is",
+        "are"
+      ],
+      "usageExamples": [
+        [
+          "Aquí está mi equipaje.",
+          "Here is my baggage.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "La pizza sabe diferente cuando está fría.",
-          "Pizza tastes different when it's cold.",
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom está cavando un agujero.",
+          "Tom is digging a hole.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -91,91 +106,12 @@
       ]
     },
     {
-      "content": "amargo",
+      "content": "malo",
       "translations": [
-        "bitter",
-        "sour"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "y",
-      "translations": [
-        "and",
-        "plus"
-      ],
-      "usageExamples": [
-        [
-          "Cantemos y bailemos.",
-          "Let's sing and dance.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom habla español, y Betty también.",
-          "Tom speaks Spanish, and so does Betty.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
-          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "no",
-      "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tomás no tiene hambre.",
-          "Tom's not hungry.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "está",
-      "translations": [
-        "is",
-        "are"
-      ],
-      "usageExamples": [
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El ruido me está volviendo loco.",
-          "The noise is driving me crazy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "bueno",
-      "translations": [
-        "good",
-        "well",
-        "fine",
-        "okay"
+        "bad",
+        "poor",
+        "evil",
+        "wrong"
       ],
       "usageExamples": []
     }

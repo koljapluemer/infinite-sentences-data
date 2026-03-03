@@ -1,99 +1,73 @@
 {
-  "sentence": "Studio inglese dopo cena.",
+  "sentence": "Sta mangiando del gelato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I study English after dinner."
+    "She's eating ice cream."
   ],
   "parts": [
     {
-      "content": "Studio",
+      "content": "Sta",
       "translations": [
-        "studio",
-        "workshop",
-        "design space",
-        "creative studio"
+        "is",
+        "stands",
+        "stays",
+        "remains"
+      ],
+      "usageExamples": [
+        [
+          "Sta guidando.",
+          "He's driving.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mangiando",
+      "translations": [
+        "eating",
+        "while eating",
+        "during eating",
+        "in the act of eating"
       ],
       "usageExamples": []
     },
     {
-      "content": "inglese",
+      "content": "del",
       "translations": [
-        "English.",
-        "the English language",
-        "English (language)",
-        "English (as a subject)"
+        "of the",
+        "from the",
+        "about the",
+        "by the"
       ],
       "usageExamples": [
         [
-          "Tutti noi parliamo inglese.",
-          "We all speak English.",
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho intenzione questo pomeriggio di studiare inglese.",
-          "I'm going to study English this afternoon.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+          "Lei è del tutto diversa da sua madre.",
+          "She is not anything like her mother.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi studiamo tutti i giorni inglese.",
-          "We study English every day.",
+          "Un gruppo di gangster ha rubato del denaro.",
+          "A group of gangsters stole money.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dopo",
+      "content": "gelato",
       "translations": [
-        "after",
-        "later",
-        "following",
-        "subsequently"
+        "ice cream",
+        "Italian ice cream",
+        "frozen dessert"
       ],
-      "usageExamples": [
-        [
-          "Ha commesso un crimine dopo l'altro.",
-          "He committed one crime after another.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Le mie gambe stanno migliorando giorno dopo giorno.",
-          "My legs are getting better day by day.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom decise di rinunciare ad andare in skateboard dopo il suo incidente.",
-          "Tom decided to give up skateboarding after his accident.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cena",
-      "translations": [
-        "dinner",
-        "supper",
-        "meal"
-      ],
-      "usageExamples": [
-        [
-          "Che cosa c'è per cena?",
-          "What's for dinner?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha a malapena toccato la sua cena.",
-          "He barely touched his dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A noi è piaciuta la cena.",
-          "We enjoyed the dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

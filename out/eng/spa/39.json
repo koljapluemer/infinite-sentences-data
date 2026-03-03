@@ -1,11 +1,11 @@
 {
-  "sentence": "En realidad es tu culpa.",
+  "sentence": "En la fiesta hubo una enormidad de gente.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It is in fact your fault."
+    "There was a great crowd at the party."
   ],
   "parts": [
     {
@@ -17,25 +17,33 @@
       ],
       "usageExamples": [
         [
-          "En la fiesta hubo una enormidad de gente.",
-          "There was a great crowd at the party.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
           "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "En realidad es tu culpa.",
+          "It is in fact your fault.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "realidad",
+      "content": "la",
       "translations": [
-        "reality",
-        "truth",
-        "fact"
+        "the"
       ],
       "usageExamples": [
+        [
+          "La casa es grande.",
+          "The house is spacious.",
+          ""
+        ],
+        [
+          "La comida está lista.",
+          "The food is ready.",
+          ""
+        ],
         [
           "Esa es la realidad.",
           "That's the reality.",
@@ -44,60 +52,87 @@
       ]
     },
     {
-      "content": "es",
+      "content": "fiesta",
       "translations": [
-        "is",
-        "it is",
-        "to be"
+        "party",
+        "celebration",
+        "festival"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hubo",
+      "translations": [
+        "there was",
+        "there were"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "una",
+      "translations": [
+        "a",
+        "one",
+        "an"
       ],
       "usageExamples": [
         [
-          "Esa es la realidad.",
-          "That's the reality.",
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom es autónomo.",
-          "Tom is self-employed.",
+          "Eres una chica linda.",
+          "You're a cute girl.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tomás es xenofóbico.",
-          "Tom is xenophobic.",
+          "Ella le escribió una carta larga, pero él no la leyó.",
+          "She wrote him a long letter, but he didn't read it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tu",
+      "content": "enormidad",
       "translations": [
-        "you",
-        "your"
+        "enormity",
+        "immensity",
+        "vastness",
+        "magnitude"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
       ],
       "usageExamples": [
         [
-          "Me gusta tu acento.",
-          "I like your accent.",
+          "Vengo de la playa.",
+          "I just came from the beach.",
+          ""
+        ],
+        [
+          "¿Dónde está la parada de colectivos más cercana?",
+          "Where's the nearest bus stop?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Necesito tu pasaporte y tres fotos.",
-          "I need your passport and three pictures.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ten tu pistola a mano.",
-          "Keep your gun handy.",
+          "A veces nuestras plegarias no son respondidas de la manera en la que querríamos.",
+          "Sometimes our prayers aren't answered the way we want them to be.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "culpa",
+      "content": "gente",
       "translations": [
-        "guilt",
-        "blame",
-        "fault"
+        "people",
+        "crowd",
+        "folks",
+        "public"
       ],
       "usageExamples": []
     }

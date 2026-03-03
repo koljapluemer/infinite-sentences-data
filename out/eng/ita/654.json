@@ -1,111 +1,35 @@
 {
-  "sentence": "Mi ha detto che è scettico.",
+  "sentence": "Mary è molto paziente, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He told me he's skeptical."
+    "Mary is being very patient, isn't she?",
+    "Mary is very patient, isn't she?"
   ],
   "parts": [
     {
-      "content": "Mi",
+      "content": "Mary",
       "translations": [
-        "Me",
-        "I",
-        "Myself"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ha",
-      "translations": [
-        "has",
-        "he has",
-        "there is"
-      ],
-      "usageExamples": [
-        [
-          "Un cane ha corso.",
-          "A dog ran.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cookie ha 15 anni.",
-          "Cookie is 15.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "detto",
-      "translations": [
-        "said",
-        "so-called",
-        "aforementioned",
-        "referred to as"
-      ],
-      "usageExamples": [
-        [
-          "Tom ha detto che sembrava nervoso.",
-          "Tom said I looked nervous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti ho detto delle cose così orribili. Mi dispiace.",
-          "I said such horrible things to you. I'm sorry.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi ha detto che non mangiava carne.",
-          "She told me that she didn't eat meat.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "che",
-      "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
-      ],
-      "usageExamples": [
-        [
-          "Disse che lo amava.",
-          "She said she loved him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È quello che sono.",
-          "It's what I am.",
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -120,31 +44,83 @@
       ],
       "usageExamples": [
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
+          "Tom è un fan.",
+          "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è divertito.",
-          "Tom had a good time.",
+          "Il tempo è finito.",
+          "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scettico",
+      "content": "molto",
       "translations": [
-        "skeptical",
-        "doubtful",
-        "cynical",
-        "questioning"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
+      ],
+      "usageExamples": [
+        [
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "paziente",
+      "translations": [
+        "patient",
+        "sick person",
+        "individual receiving care",
+        "healthcare recipient"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

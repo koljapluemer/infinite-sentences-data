@@ -1,89 +1,68 @@
 {
-  "sentence": "¿Cómo entraste en mi habitación?",
+  "sentence": "Y ahora: trece horas sin internet.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by BraveSentry (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How did you get into my room?"
+    "And now: thirteen hours without internet."
   ],
   "parts": [
     {
-      "content": "¿Cómo",
+      "content": "Y",
       "translations": [
-        "How"
+        "And",
+        "Plus"
       ],
       "usageExamples": []
     },
     {
-      "content": "entraste",
+      "content": "ahora",
       "translations": [
-        "you entered",
-        "you came in"
+        "now",
+        "right now",
+        "at this moment"
+      ],
+      "usageExamples": [
+        [
+          "Ellos ahora están a bordo del barco.",
+          "They are now aboard the ship.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trece",
+      "translations": [
+        "thirteen",
+        "13"
       ],
       "usageExamples": []
     },
     {
-      "content": "en",
+      "content": "horas",
       "translations": [
-        "to"
+        "hours",
+        "time"
       ],
-      "usageExamples": [
-        [
-          "Confío en él.",
-          "I trust him.",
-          ""
-        ],
-        [
-          "Estoy en casa.",
-          "I am at home.",
-          ""
-        ],
-        [
-          "Un segundo después, sus labios se curvaron en una sonrisa maliciosa.",
-          "A second later his lips curved in a malicious smile.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "mi",
+      "content": "sin",
       "translations": [
-        "me",
-        "my"
+        "without",
+        "no"
       ],
-      "usageExamples": [
-        [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tengo una revista en mi pieza.",
-          "I have a magazine in my room.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
-          "It's marvelous how quickly the medicine relieved my pain.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "habitación",
+      "content": "internet",
       "translations": [
-        "room",
-        "bedroom",
-        "accommodation"
+        "internet",
+        "web",
+        "online"
       ],
-      "usageExamples": [
-        [
-          "Tom y su perro duermen en la misma habitación.",
-          "Tom and his dog sleep in the same room.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

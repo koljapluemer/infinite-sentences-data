@@ -1,11 +1,11 @@
 {
-  "sentence": "Me gustaría tomar algo.",
+  "sentence": "Me estoy tiñendo el pelo de negro.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by human600 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Jesse (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd like something to drink."
+    "I'm dyeing my hair black."
   ],
   "parts": [
     {
@@ -16,52 +16,107 @@
       ],
       "usageExamples": [
         [
-          "Me siento muy enfermo.",
-          "I feel very sick.",
+          "Me gustaría tomar algo.",
+          "I'd like something to drink.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Me gusta el café.",
-          "I enjoy coffee.",
-          ""
         ],
         [
           "Me importa una mierda.",
           "I don't give a damn about it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me llamo Juan.",
+          "I am called Juan.",
+          ""
         ]
       ]
     },
     {
-      "content": "gustaría",
+      "content": "estoy",
       "translations": [
-        "would like",
-        "would love",
-        "would enjoy"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tomar",
-      "translations": [
-        "to take",
-        "to drink",
-        "to have"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "algo",
-      "translations": [
-        "something"
+        "I am.",
+        "I exist.",
+        "I stand"
       ],
       "usageExamples": [
         [
-          "Dime algo que no sepa.",
-          "Tell me something that I don't know.",
+          "Mis amigos no saben dónde estoy.",
+          "My friends don't know where I am.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "tiñendo",
+      "translations": [
+        "having",
+        "holding",
+        "possessing"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "el",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
+          "It's marvelous how quickly the medicine relieved my pain.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Paré el coche en el arcén.",
+          "I pulled the car over to the side of the road.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Este es el color de las frambuesas.",
+          "This is the color of raspberries.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pelo",
+      "translations": [
+        "hair",
+        "fur"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Vengo de la playa.",
+          "I come from the beach.",
+          ""
+        ],
+        [
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Las tropas estaban en formación de combate.",
+          "The troops were in battle array.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "negro",
+      "translations": [
+        "black",
+        "dark"
+      ],
+      "usageExamples": []
     }
   ]
 }

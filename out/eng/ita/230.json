@@ -1,103 +1,237 @@
 {
-  "sentence": "Adesso che abbiamo mangiato, andiamo.",
+  "sentence": "A proposito di musica classica, qual è il vostro compositore preferito?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by zumley (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Now that we have eaten, let's go."
+    "Talking of classical music, who is your favorite composer?"
   ],
   "parts": [
     {
-      "content": "Adesso",
+      "content": "A",
       "translations": [
-        "Now",
-        "Right now",
-        "At this moment",
-        "Currently"
+        "Item: A",
+        "Article: A",
+        "Object: A"
+      ],
+      "usageExamples": [
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "proposito",
+      "translations": [
+        "purpose",
+        "intention",
+        "aim",
+        "objective"
+      ],
+      "usageExamples": [
+        [
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "musica",
+      "translations": [
+        "music",
+        "musical piece",
+        "tune",
+        "song"
+      ],
+      "usageExamples": [
+        [
+          "Che musica ascoltate?",
+          "What music do you listen to?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken piace molto la musica.",
+          "Ken likes music very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Andò in Italia a studiare la musica.",
+          "He went to Italy to study music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "classica",
+      "translations": [
+        "classical",
+        "classic",
+        "traditional",
+        "standard"
+      ],
+      "usageExamples": [
+        [
+          "A Robert piace la musica classica.",
+          "Robert likes classical music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Betty piace la musica classica.",
+          "Betty likes classical music.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "qual",
+      "translations": [
+        "which",
+        "what kind of",
+        "what",
+        "such as"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "è",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Il tempo è finito.",
+          "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "abbiamo",
+      "content": "il",
       "translations": [
-        "we have",
-        "we've got",
-        "we possess"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Pensi che abbiamo convinto Tom?",
-          "Do you think we convinced Tom?",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mangiato",
+      "content": "vostro",
       "translations": [
-        "eaten",
-        "consumed",
-        "devoured",
-        "ingested"
+        "your",
+        "yours",
+        "your own"
       ],
       "usageExamples": [
         [
-          "Io non ho ancora mangiato niente oggi.",
-          "I haven't eaten anything yet today.",
+          "Perché odiate così tanto il vostro paese?",
+          "Why do you hate your country so much?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il vostro silenzio mi rende nervoso.",
+          "Your silence makes me nervous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "andiamo",
+      "content": "compositore",
       "translations": [
-        "let's go",
-        "we go",
-        "come on",
-        "let's move"
+        "composer",
+        "arranger",
+        "creator",
+        "producer"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "preferito",
+      "translations": [
+        "favorite",
+        "preferred",
+        "most liked",
+        "chosen"
       ],
       "usageExamples": [
         [
-          "Domani andiamo in montagna.",
-          "Tomorrow we'll go to the mountains.",
-          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+          "A Londra ho preferito il cibo indiano.",
+          "In London I preferred Indian food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

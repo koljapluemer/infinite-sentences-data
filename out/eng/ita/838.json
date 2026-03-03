@@ -1,22 +1,64 @@
 {
-  "sentence": "Qual è la tua canzone preferita dei Rolling Stones?",
+  "sentence": "Potrebbe funzionare, però è troppo rischioso.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's your favorite song by the Rolling Stones?"
+    "That might work, but it's too risky."
   ],
   "parts": [
     {
-      "content": "Qual",
+      "content": "Potrebbe",
       "translations": [
-        "Which",
-        "What",
-        "What kind of",
-        "What type of"
+        "It could",
+        "It might",
+        "It may",
+        "It is possible that"
+      ],
+      "usageExamples": [
+        [
+          "Potrebbe aspettare.",
+          "He might wait.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "funzionare",
+      "translations": [
+        "to function",
+        "to work",
+        "to operate",
+        "to run"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "però",
+      "translations": [
+        "however",
+        "but",
+        "nevertheless",
+        "on the other hand"
+      ],
+      "usageExamples": [
+        [
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piace Tom, però a lui non piace lei.",
+          "Mary likes Tom, but he doesn't like her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "è",
@@ -28,142 +70,55 @@
       ],
       "usageExamples": [
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è divertito.",
-          "Tom had a good time.",
+          "Tom è famoso.",
+          "Tom is famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
+          "La risposta è complicata.",
+          "The answer is complicated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "troppo",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "too much",
+        "excessively",
+        "overly",
+        "very"
       ],
       "usageExamples": [
         [
-          "Dovette pulire la cucina.",
-          "He had to clean the kitchen.",
+          "State guidando decisamente troppo veloce.",
+          "You're driving way too fast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Apprezzo la tua onestà.",
-          "I appreciate your honesty.",
+          "Penso che Tom sia troppo giovane.",
+          "I think Tom is too young.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho ammesso la sconfitta.",
-          "I admitted defeat.",
+          "A Mary fu detto che era troppo bassa.",
+          "Mary was told she was too short.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tua",
+      "content": "rischioso",
       "translations": [
-        "your",
-        "yours",
-        "of you",
-        "belonging to you"
-      ],
-      "usageExamples": [
-        [
-          "Apprezzo la tua onestà.",
-          "I appreciate your honesty.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
-          "\"Where's your girlfriend from?\" \"She's Russian.\"",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu lasceresti tua moglie per me?",
-          "Would you leave your wife for me?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "canzone",
-      "translations": [
-        "song",
-        "tune",
-        "track",
-        "melody"
-      ],
-      "usageExamples": [
-        [
-          "Che canzone strana...",
-          "What a weird song...",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "preferita",
-      "translations": [
-        "favorite",
-        "preferred",
-        "most liked",
-        "chosen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dei",
-      "translations": [
-        "gods",
-        "deities",
-        "divine beings",
-        "spirits"
-      ],
-      "usageExamples": [
-        [
-          "Non mandarmi dei messaggi.",
-          "Don't send me messages.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ziri mangiò dei datteri.",
-          "Ziri ate dates.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi servono dei francobolli.",
-          "I need stamps.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Rolling",
-      "translations": [
-        "To roll",
-        "Rolling motion",
-        "Rolling action"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Stones",
-      "translations": [
-        "Rocks",
-        "Pebbles",
-        "Boulders",
-        "Minerals"
+        "risky",
+        "hazardous",
+        "dangerous",
+        "unsafe"
       ],
       "usageExamples": []
     }

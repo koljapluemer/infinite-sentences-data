@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary sa che cosa vuole dire.",
+  "sentence": "Mary ha aspettato che Tom la chiamasse.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary knows what she wants to say."
+    "Mary has been waiting for Tom to call her."
   ],
   "parts": [
     {
@@ -17,13 +17,13 @@
       ],
       "usageExamples": [
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,30 +34,39 @@
       ]
     },
     {
-      "content": "sa",
+      "content": "ha",
       "translations": [
-        "if",
-        "whether",
-        "that",
-        "as"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Sami sa dove abita Layla.",
-          "Sami knows where Layla lives.",
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sa come si sente Mary a riguardo.",
-          "Tom knows how Mary feels about that.",
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non sa nulla a riguardo della situazione.",
-          "Tom doesn't know anything about the situation.",
+          "Lei ha già cominciato.",
+          "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "aspettato",
+      "translations": [
+        "waited",
+        "expected",
+        "anticipated",
+        "looked forward to"
+      ],
+      "usageExamples": []
     },
     {
       "content": "che",
@@ -69,89 +78,80 @@
       ],
       "usageExamples": [
         [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said that she loved him.",
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cosa",
+      "content": "la",
       "translations": [
-        "thing",
-        "item",
-        "object",
-        "matter"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non sapeva cosa fare.",
-          "She didn't know what to do.",
-          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ],
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Ha perso la partita.",
+          "He lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vuole",
+      "content": "chiamasse",
       "translations": [
-        "wants",
-        "desires",
-        "wishes",
-        "intends"
+        "he/she/it would call",
+        "he/she/it might call",
+        "he/she/it was calling"
       ],
-      "usageExamples": [
-        [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non vuole fermarla.",
-          "He doesn't want to stop her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
-          "He doesn't want to take responsibility for what he did.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dire",
-      "translations": [
-        "to say",
-        "to tell",
-        "to speak",
-        "to express"
-      ],
-      "usageExamples": [
-        [
-          "Tom voleva dire di no.",
-          "Tom wanted to say no.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

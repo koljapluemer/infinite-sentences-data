@@ -1,11 +1,12 @@
 {
-  "sentence": "Tom non è molto stanco.",
+  "sentence": "Tom non l'ha mostrato a Mary.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom isn't very tired."
+    "Tom didn't show Mary that.",
+    "Tom didn't show that to Mary."
   ],
   "parts": [
     {
@@ -16,18 +17,18 @@
       ],
       "usageExamples": [
         [
-          "Tom acconsentì con riluttanza.",
-          "Tom reluctantly agreed.",
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembra compiaciuto.",
-          "Tom looks smug.",
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,87 +43,105 @@
       ],
       "usageExamples": [
         [
-          "Perché non ha corso?",
-          "Why didn't you run?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Preferirei non farlo.",
           "I'd rather not do it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "l'ha",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "he has it",
+        "she has it",
+        "it has",
+        "he's got it"
       ],
       "usageExamples": [
         [
-          "Tom è famoso.",
-          "Tom is famous.",
+          "Lei l'ha colpito con un martello.",
+          "She hit him with a hammer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Tom l'ha fatta per voi.",
+          "Tom did it for you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il libro è arrivato.",
-          "The book came.",
+          "Tom non me l'ha restituita.",
+          "Tom didn't give it back to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molto",
+      "content": "mostrato",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "shown",
+        "displayed",
+        "demonstrated",
+        "exhibited"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Si contraddicono molto.",
-          "They contradict themselves a lot.",
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È molto bello rivedervi.",
-          "It is very nice to see you again.",
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
+          "Lo mostreremo a lei.",
+          "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stanco",
+      "content": "Mary",
       "translations": [
-        "tired",
-        "weary",
-        "fatigued",
-        "exhausted"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Sono stanco di ascoltare incessantemente i problemi degli altri.",
-          "I'm tired of listening incessantly to other people's problems.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

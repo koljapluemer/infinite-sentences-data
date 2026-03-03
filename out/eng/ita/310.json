@@ -1,65 +1,98 @@
 {
-  "sentence": "Devo studiare stasera.",
+  "sentence": "Cosa la sta causando?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have to study tonight."
+    "What's causing it?"
   ],
   "parts": [
     {
-      "content": "Devo",
+      "content": "Cosa",
       "translations": [
-        "I must.",
-        "I have to.",
-        "I need to",
-        "I ought to"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
       ],
       "usageExamples": [
         [
-          "Devo aspettarli qua.",
-          "I have to wait here for them.",
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Devo andare a trovarli.",
-          "I have to go find them.",
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "studiare",
+      "content": "la",
       "translations": [
-        "to study",
-        "to learn",
-        "to examine",
-        "to review"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Voglio studiare matematica.",
-          "I want to study math.",
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il mio amico va in biblioteca a studiare.",
-          "My friend goes to the library to study.",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Andò in Italia a studiare la musica.",
-          "He went to Italy to study music.",
+          "Prendi la mia.",
+          "Take mine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stasera",
+      "content": "sta",
       "translations": [
-        "tonight",
-        "this evening"
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li sta confondendo.",
+          "You're confusing them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "causando",
+      "translations": [
+        "causing",
+        "causal",
+        "resulting in",
+        "leading to"
       ],
       "usageExamples": []
     }

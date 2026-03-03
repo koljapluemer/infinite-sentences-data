@@ -1,49 +1,167 @@
 {
-  "sentence": "Está nevando hoy.",
+  "sentence": "Estuve esperando por toda la mañana para que esto ocurriera.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's snowing today."
+    "I've been waiting all morning for this to happen."
   ],
   "parts": [
     {
-      "content": "Está",
+      "content": "Estuve",
       "translations": [
-        "It is",
-        "He/She is",
-        "You are"
+        "I was",
+        "I have been"
       ],
       "usageExamples": []
     },
     {
-      "content": "nevando",
+      "content": "esperando",
       "translations": [
-        "snowing",
-        "it's snowing"
+        "waiting",
+        "hoping"
       ],
       "usageExamples": []
     },
     {
-      "content": "hoy",
+      "content": "por",
       "translations": [
-        "today",
-        "this day",
-        "on this day"
+        "to"
       ],
       "usageExamples": [
         [
-          "Hoy tengo clase.",
-          "I have class today.",
+          "Passamos por aqui.",
+          "We came through here.",
           ""
         ],
         [
-          "Hoy es lunes.",
-          "It's Monday today.",
+          "Vou por ali.",
+          "I will head that direction.",
           ""
+        ],
+        [
+          "Ayer monté a caballo por primera vez.",
+          "I rode a horse for the first time yesterday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "toda",
+      "translations": [
+        "all",
+        "whole",
+        "every",
+        "entire"
+      ],
+      "usageExamples": [
+        [
+          "Tomás trabajó toda su vida.",
+          "Tom worked all his life.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "La casa es grande.",
+          "The house is big.",
+          ""
+        ],
+        [
+          "La comida está lista.",
+          "The meal is prepared.",
+          ""
+        ],
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mañana",
+      "translations": [
+        "tomorrow",
+        "morning"
+      ],
+      "usageExamples": [
+        [
+          "Hay una película que quiero ver por TV mañana en la noche.",
+          "There's a movie I want to watch on TV tomorrow night.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "para",
+      "translations": [
+        "to",
+        "using"
+      ],
+      "usageExamples": [
+        [
+          "Voy para casa.",
+          "I'm going home.",
+          ""
+        ],
+        [
+          "Es para ti.",
+          "This is for you.",
+          ""
+        ],
+        [
+          "Me río para no llorar.",
+          "I'm laughing to keep myself from crying.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "que",
+      "translations": [
+        "that",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
+          "My son thinks that bats are reptiles because they're like pteranodons.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "¿Cómo que no encuentras el matamoscas?",
+          "What do you mean you can't find the flyswatter?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "esto",
+      "translations": [
+        "this"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ocurriera",
+      "translations": [
+        "happened",
+        "occurred"
+      ],
+      "usageExamples": []
     }
   ]
 }

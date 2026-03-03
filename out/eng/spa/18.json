@@ -1,11 +1,11 @@
 {
-  "sentence": "Dijo que tenía mucho dinero.",
+  "sentence": "Dijo que había visto esa foto antes.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He said that he had a lot of money."
+    "He said that he had seen the picture before."
   ],
   "parts": [
     {
@@ -18,8 +18,8 @@
       ],
       "usageExamples": [
         [
-          "Dijo que había visto esa foto antes.",
-          "He said that he had seen the picture before.",
+          "Dijo que tenía mucho dinero.",
+          "He said that he had a lot of money.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -37,26 +37,10 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Pretendo decirle a Tom que no quiero ir.",
-          "I plan to tell Tom that I don't want to go.",
+          "Ella solo finge que no le importa nada.",
+          "She only pretends to not care about anything.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
-        [
-          "Sé que Tom es feliz.",
-          "I know Tom is happy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tenía",
-      "translations": [
-        "I had",
-        "he/she/it had",
-        "you had (formal)",
-        "we had"
-      ],
-      "usageExamples": [
         [
           "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
           "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
@@ -65,41 +49,48 @@
       ]
     },
     {
-      "content": "mucho",
+      "content": "había",
       "translations": [
-        "a lot",
-        "much",
-        "many",
-        "very"
+        "there was",
+        "there were",
+        "had"
       ],
-      "usageExamples": [
-        [
-          "Eso ocurrió hace mucho tiempo.",
-          "It happened a long time ago.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "No caí en la cuenta hasta mucho después.",
-          "I didn't realize it until much later.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "dinero",
+      "content": "visto",
       "translations": [
-        "money",
-        "cash",
-        "funds",
-        "currency"
+        "seen",
+        "dressed",
+        "looked at"
       ],
-      "usageExamples": [
-        [
-          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
-          "Hunger compelled the boy to steal money from the cash register.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "esa",
+      "translations": [
+        "that",
+        "that one"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "foto",
+      "translations": [
+        "photo",
+        "picture",
+        "image"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "antes",
+      "translations": [
+        "before",
+        "ago",
+        "previously"
+      ],
+      "usageExamples": []
     }
   ]
 }

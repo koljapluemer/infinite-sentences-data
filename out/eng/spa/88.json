@@ -1,11 +1,11 @@
 {
-  "sentence": "No hay nadie en la entrada.",
+  "sentence": "No caí en la cuenta hasta mucho después.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There's no one at the entrance."
+    "I didn't realize it until much later."
   ],
   "parts": [
     {
@@ -27,38 +27,18 @@
           ""
         ],
         [
-          "No sé para qué me he levantado tan temprano.",
-          "I don't know why I got up so early.",
+          "No se olvide de su chaqueta.",
+          "Don't forget your jacket.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hay",
+      "content": "caí",
       "translations": [
-        "there is",
-        "there are",
-        "there exists"
-      ],
-      "usageExamples": [
-        [
-          "No hay nada más qué decir.",
-          "There's nothing more to be said.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
-          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "nadie",
-      "translations": [
-        "nobody",
-        "no one",
-        "anyone (in negative contexts)"
+        "I fell.",
+        "fell",
+        "I dropped"
       ],
       "usageExamples": []
     },
@@ -69,18 +49,18 @@
       ],
       "usageExamples": [
         [
-          "Confío en él.",
-          "I believe in him.",
-          ""
-        ],
-        [
           "Estoy en casa.",
-          "I am in the house.",
+          "I am at home.",
           ""
         ],
         [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
+          "Confío en él.",
+          "I trust him.",
+          ""
+        ],
+        [
+          "Tom y María también estaban en el auto.",
+          "Tom and Mary were also in the car.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -92,31 +72,72 @@
       ],
       "usageExamples": [
         [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "La comida está lista.",
           "The food is prepared.",
           ""
+        ]
+      ]
+    },
+    {
+      "content": "cuenta",
+      "translations": [
+        "bill",
+        "account",
+        "count"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hasta",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mucho",
+      "translations": [
+        "a lot",
+        "much",
+        "many",
+        "very"
+      ],
+      "usageExamples": [
+        [
+          "Eso ocurrió hace mucho tiempo.",
+          "It happened a long time ago.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "La casa es grande.",
-          "The house is spacious.",
-          ""
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
+          "Dijo que tenía mucho dinero.",
+          "He said that he had a lot of money.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "entrada",
+      "content": "después",
       "translations": [
-        "entry",
-        "entrance",
-        "input",
-        "admission"
+        "after",
+        "later"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Un segundo después, sus labios se curvaron en una sonrisa maliciosa.",
+          "A second later his lips curved in a malicious smile.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

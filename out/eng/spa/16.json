@@ -1,21 +1,83 @@
 {
-  "sentence": "Dejemos a Tom.",
+  "sentence": "Debes llegar al trabajo a tiempo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's ditch Tom."
+    "You ought to get to work on time."
   ],
   "parts": [
     {
-      "content": "Dejemos",
+      "content": "Debes",
       "translations": [
-        "Let's leave.",
-        "Let's go.",
-        "Let us leave."
+        "You must",
+        "You should",
+        "You have to"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Debes hacer felices a tus padres.",
+          "You must make your parents happy.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "llegar",
+      "translations": [
+        "to arrive",
+        "to come",
+        "to reach"
+      ],
+      "usageExamples": [
+        [
+          "Lo llamé al llegar a Tokio.",
+          "On arriving in Tokyo, I called him up.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the"
+      ],
+      "usageExamples": [
+        [
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le pedí al mayordomo que nos sirviese un café.",
+          "I asked the butler to serve us some coffee.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Una pequeña caminata me trajo al lago.",
+          "A short walk brought me to the lake.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trabajo",
+      "translations": [
+        "work",
+        "job",
+        "labor",
+        "task"
+      ],
+      "usageExamples": [
+        [
+          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
+          "That was the worst job Yanni had ever had.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "a",
@@ -29,38 +91,38 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Llegaste a tiempo.",
-          "You arrived on time.",
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Pretendo decirle a Tom que no quiero ir.",
-          "I plan to tell Tom that I don't want to go.",
+          "Llegaste a tiempo.",
+          "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "tiempo",
       "translations": [
-        "Tom",
-        "Thomas"
+        "time",
+        "weather"
       ],
       "usageExamples": [
         [
-          "Tom terminó segundo.",
-          "Tom finished second.",
+          "Ayer tuvimos buen tiempo.",
+          "We had nice weather yesterday.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom es autónomo.",
-          "Tom is self-employed.",
+          "Llegaste a tiempo.",
+          "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom estaba al otro lado de la ciudad al momento del disparo.",
-          "Tom was on the other side of town at the time of the shooting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "No tengo tiempo.",
+          "I don't have time.",
+          ""
         ]
       ]
     }

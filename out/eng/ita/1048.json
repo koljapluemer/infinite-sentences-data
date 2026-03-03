@@ -1,11 +1,16 @@
 {
-  "sentence": "Tom vende funghi psichedelici.",
+  "sentence": "Tom si è divertito.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom sells psychedelic mushrooms."
+    "Tom enjoyed himself.",
+    "Tom had a good time.",
+    "Tom had fun.",
+    "Tom had some fun."
   ],
   "parts": [
     {
@@ -16,50 +21,89 @@
       ],
       "usageExamples": [
         [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta gemendo.",
-          "Tom is groaning.",
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta lavorando, vero?",
-          "Tom is working, isn't he?",
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vende",
+      "content": "si",
       "translations": [
-        "sell",
-        "to sell",
-        "selling"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non si fida degli estranei.",
+          "Tom doesn't trust strangers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "funghi",
+      "content": "è",
       "translations": [
-        "mushrooms",
-        "fungi",
-        "mushroom",
-        "fungus"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "psichedelici",
+      "content": "divertito",
       "translations": [
-        "psychedelics",
-        "psychedelic substances",
-        "psychedelic drugs",
-        "hallucinogens"
+        "entertained",
+        "amused",
+        "enjoyed",
+        "delighted"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom disse che era divertito.",
+          "Tom said that he was amused.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

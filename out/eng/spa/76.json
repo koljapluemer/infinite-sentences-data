@@ -1,11 +1,11 @@
 {
-  "sentence": "Me río para no llorar.",
+  "sentence": "Me gustaría tomar algo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by human600 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm laughing to keep myself from crying."
+    "I'd like something to drink."
   ],
   "parts": [
     {
@@ -16,8 +16,8 @@
       ],
       "usageExamples": [
         [
-          "Me gusta tu acento.",
-          "I like your accent.",
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -26,74 +26,42 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Me importa una mierda.",
-          "I don't give a damn about it.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Me gusta el café.",
+          "I like coffee.",
+          ""
         ]
       ]
     },
     {
-      "content": "río",
+      "content": "gustaría",
       "translations": [
-        "river",
-        "stream"
+        "would like",
+        "would love",
+        "would enjoy"
       ],
       "usageExamples": []
     },
     {
-      "content": "para",
+      "content": "tomar",
       "translations": [
-        "to",
-        "using"
-      ],
-      "usageExamples": [
-        [
-          "Voy para casa.",
-          "I'm heading home.",
-          ""
-        ],
-        [
-          "Es para ti.",
-          "It's meant for you.",
-          ""
-        ],
-        [
-          "Tom no me gusta para nada.",
-          "I don't like Tom at all.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "no",
-      "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tomás no tiene hambre.",
-          "Tom's not hungry.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "llorar",
-      "translations": [
-        "to cry",
-        "crying"
+        "to take",
+        "to drink",
+        "to have"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "algo",
+      "translations": [
+        "something"
+      ],
+      "usageExamples": [
+        [
+          "Dime algo que no sepa.",
+          "Tell me something that I don't know.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

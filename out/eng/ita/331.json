@@ -1,80 +1,168 @@
 {
-  "sentence": "Dovresti aiutare Tom.",
+  "sentence": "Disse che non si sentiva al sicuro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should help Tom."
+    "He said he didn't feel safe.",
+    "She said she didn't feel safe.",
+    "She said she felt safe.",
+    "She said that she didn't feel safe."
   ],
   "parts": [
     {
-      "content": "Dovresti",
+      "content": "Disse",
       "translations": [
-        "You should",
-        "You ought to",
-        "You must",
-        "You are supposed to"
+        "to say",
+        "to tell",
+        "to speak",
+        "to discuss"
       ],
       "usageExamples": [
         [
-          "Dovresti lasciarmi da sola.",
-          "You should leave me alone.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dovresti sposarlo.",
-          "You should marry him.",
+          "Disse che non fece niente di illegale.",
+          "He said he did nothing illegal.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aiutare",
+      "content": "che",
       "translations": [
-        "to help",
-        "to assist",
-        "to aid",
-        "to support"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li vada ad aiutare.",
-          "Go help them.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi devi aiutare a salvarle.",
-          "You must help me save them.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "non",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è famoso.",
-          "Tom is famous.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volete veramente votare Tom?",
-          "Do you really want to vote for Tom?",
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "si",
+      "translations": [
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sentiva",
+      "translations": [
+        "I felt",
+        "I was feeling",
+        "I used to feel",
+        "I would feel"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the",
+        "for the"
+      ],
+      "usageExamples": [
+        [
+          "Andammo al supermercato asiatico.",
+          "We went to the Asian supermarket.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sicuro",
+      "translations": [
+        "safe",
+        "secure",
+        "sure",
+        "reliable"
+      ],
+      "usageExamples": [
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono sicuro che Tom ti aiuterà.",
+          "I'm sure Tom will help you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

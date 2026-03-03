@@ -1,70 +1,207 @@
 {
-  "sentence": "Lo hanno aiutato.",
+  "sentence": "Lei è piuttosto soddisfatta della sua vita così com'è.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They helped him."
+    "She is quite satisfied with her life as it is."
   ],
   "parts": [
     {
-      "content": "Lo",
+      "content": "Lei",
       "translations": [
-        "It",
-        "Him",
-        "Them",
-        "That"
+        "You (formal)",
+        "She",
+        "Mrs.",
+        "Ma'am"
       ],
       "usageExamples": [
         [
-          "Lo decorò.",
-          "He decorated it.",
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è americano?",
+          "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo mostreremo a lei.",
-          "We'll show her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
+          "Lei ha già cominciato.",
+          "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hanno",
+      "content": "è",
       "translations": [
-        "they have",
-        "you (plural) have"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Quei due esperimenti hanno prodotto risultati simili.",
-          "Those two experiments yielded similar results.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "I sondaggisti hanno condotto un sondaggio sulla popolarità dei candidati politici.",
-          "Pollsters conducted a poll on the popularity of the political candidates.",
-          "Sentence from Tatoeba by alesimpa (CC-BY 2.0 FR)"
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Le due famiglie hanno legami familiari stretti.",
-          "The two families have very close ties.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aiutato",
+      "content": "piuttosto",
       "translations": [
-        "helped",
-        "assisted",
-        "aided",
-        "supported"
+        "rather",
+        "quite",
+        "fairly",
+        "instead"
+      ],
+      "usageExamples": [
+        [
+          "È piuttosto avventurosa, vero?",
+          "She's pretty adventurous, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È piuttosto comodo.",
+          "It's quite comfortable.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "soddisfatta",
+      "translations": [
+        "satisfied",
+        "pleased",
+        "content",
+        "happy"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "della",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "concerning the"
+      ],
+      "usageExamples": [
+        [
+          "Sami consegnò della pizza.",
+          "Sami delivered pizza.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Più della metà delle persone condannate dai tribunali è innocente.",
+          "More than half of the people convicted by the courts are innocent.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri ha alzato il volume della musica.",
+          "Ziri increased the music volume.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami ha perso sua moglie.",
+          "Sami lost his wife.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa è casa sua adesso.",
+          "This is your house now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vita",
+      "translations": [
+        "life",
+        "lifetime",
+        "existence",
+        "way of life"
+      ],
+      "usageExamples": [
+        [
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La vita è una lunga, lunga strada.",
+          "Life is a long, long road.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "così",
+      "translations": [
+        "so",
+        "like this",
+        "in this way",
+        "thus"
+      ],
+      "usageExamples": [
+        [
+          "Siete così impazienti.",
+          "You're so impatient.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così paranoici.",
+          "You're so paranoid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo veramente così poveri?",
+          "Are we really that poor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "com'è",
+      "translations": [
+        "how is it",
+        "how's it",
+        "what is it like",
+        "what's it like"
       ],
       "usageExamples": []
     }

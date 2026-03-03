@@ -1,102 +1,64 @@
 {
-  "sentence": "Heraklion è il capoluogo dell'isola di Creta.",
+  "sentence": "Hai bisogno di una tastiera nuova?",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by LB (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Heraklion is the capital of the island of Crete."
+    "Do you need a new keyboard?"
   ],
   "parts": [
     {
-      "content": "Heraklion",
+      "content": "Hai",
       "translations": [
-        "Iraklion",
-        "Heraclion",
-        "Herakleion"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "Yes.",
+        "Yeah",
+        "Yep.",
+        "Affirmative"
       ],
       "usageExamples": [
         [
-          "Lei è americano?",
-          "Are you American?",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Hai già visto il campus?",
+          "Have you seen the campus yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "bisogno",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "need",
+        "requirement",
+        "necessity",
+        "desire"
       ],
       "usageExamples": [
         [
-          "Non tollererò il fallimento.",
-          "I will not tolerate failure.",
+          "Ho bisogno di parlarti stanotte.",
+          "I need to talk to you tonight.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
+          "Chiamatemi se avete bisogno di assistenza.",
+          "Call me if you need assistance.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Vorrei che capissero il mio bisogno di pace.",
+          "I wish they would understand my need for peace.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "capoluogo",
-      "translations": [
-        "capital city",
-        "provincial capital",
-        "main town",
-        "administrative center"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dell'",
-      "translations": [
-        "of the",
-        "from the",
-        "of",
-        "from"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "isola",
-      "translations": [
-        "island",
-        "isle",
-        "islet"
-      ],
-      "usageExamples": []
     },
     {
       "content": "di",
@@ -108,14 +70,14 @@
       ],
       "usageExamples": [
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "Può fare di meglio.",
+          "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ],
         [
           "L'abbiamo perso di vista.",
@@ -125,14 +87,61 @@
       ]
     },
     {
-      "content": "Creta",
+      "content": "una",
       "translations": [
-        "Clay",
-        "Chalk",
-        "Putty",
-        "Ceramic material"
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono una buona persona.",
+          "I'm a good person.",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tastiera",
+      "translations": [
+        "keyboard",
+        "keypad",
+        "typewriter",
+        "control panel"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "nuova",
+      "translations": [
+        "new",
+        "novel",
+        "fresh",
+        "recent"
+      ],
+      "usageExamples": [
+        [
+          "La nuova strada sta venendo costruita.",
+          "The new street is being built.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La nuova legge è stata una riforma importante.",
+          "The new law was a major reform.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

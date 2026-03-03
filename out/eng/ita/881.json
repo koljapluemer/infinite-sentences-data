@@ -1,73 +1,112 @@
 {
-  "sentence": "Rispondete al dannato telefono!",
+  "sentence": "Questo portatile è molto sottile.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by halfdan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Answer the damn phone!"
+    "This laptop computer is very thin.",
+    "This laptop is very thin."
   ],
   "parts": [
     {
-      "content": "Rispondete",
+      "content": "Questo",
       "translations": [
-        "Respond.",
-        "Answer",
-        "Reply"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "al",
-      "translations": [
-        "to the",
-        "at the",
-        "in the",
-        "for the"
+        "This",
+        "This one",
+        "This thing",
+        "This item"
       ],
       "usageExamples": [
         [
-          "Andammo al supermercato asiatico.",
-          "We went to the Asian supermarket.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
+          "Questo è un test?",
+          "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami lavorava al ristorante.",
-          "Sami used to work at the restaurant.",
+          "Questo è un occhio.",
+          "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dannato",
+      "content": "portatile",
       "translations": [
-        "damned",
-        "cursed",
-        "accursed",
-        "doomed"
+        "portable",
+        "laptop",
+        "mobile device",
+        "handheld"
       ],
       "usageExamples": []
     },
     {
-      "content": "telefono",
+      "content": "è",
       "translations": [
-        "telephone",
-        "phone",
-        "cell phone",
-        "mobile phone"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Avete annotato il numero di telefono?",
-          "Did you write down the telephone number?",
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "molto",
+      "translations": [
+        "very",
+        "much",
+        "a lot",
+        "extremely"
+      ],
+      "usageExamples": [
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sottile",
+      "translations": [
+        "thin",
+        "slim",
+        "subtle",
+        "fine"
+      ],
+      "usageExamples": []
     }
   ]
 }

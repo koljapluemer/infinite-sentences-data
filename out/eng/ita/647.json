@@ -1,11 +1,12 @@
 {
-  "sentence": "Mary è un'allenatrice molto brava, vero?",
+  "sentence": "Mary nega di avere pianto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is a very good coach, isn't she?"
+    "Mary denies she cried.",
+    "Mary denies that she cried."
   ],
   "parts": [
     {
@@ -17,11 +18,6 @@
       ],
       "usageExamples": [
         [
-          "A Mary piace cucinare.",
-          "Mary likes to cook.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,147 +26,85 @@
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
-      ],
-      "usageExamples": [
-        [
-          "Tom si è divertito.",
-          "Tom had a good time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "nega",
       "translations": [
-        "one",
-        "a",
-        "an"
-      ],
-      "usageExamples": [
-        [
-          "È un portiere.",
-          "He's a goal keeper.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È un ghostwriter.",
-          "He's a ghostwriter.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lui sembra un delinquente.",
-          "He looks like a gangster.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "allenatrice",
-      "translations": [
-        "coach",
-        "trainer",
-        "instructor",
-        "facilitator"
+        "deny",
+        "refuse",
+        "negate",
+        "reject"
       ],
       "usageExamples": []
     },
     {
-      "content": "molto",
+      "content": "di",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "È molto bello rivedervi.",
-          "It is very nice to see you again.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ],
         [
-          "Si contraddicono molto.",
-          "They contradict themselves a lot.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "brava",
-      "translations": [
-        "brave",
-        "good",
-        "well done",
-        "excellent"
-      ],
-      "usageExamples": [
-        [
-          ". È molto brava a risolvere enigmi.",
-          "She's very good at solving puzzles.",
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ],
         [
-          "Tom disse che era brava.",
-          "Tom said you were good.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è una brava persona.",
-          "Tom is a good person.",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vero",
+      "content": "avere",
       "translations": [
-        "true",
-        "indeed",
-        "in fact",
-        "certainly"
+        "to have",
+        "to possess",
+        "to own",
+        "to hold"
       ],
       "usageExamples": [
         [
-          "È organizzando, vero?",
-          "She's organized, isn't she?",
+          "Posso avere una birra?",
+          "Can I have a beer?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Siete piuttosto timidi, vero?",
-          "You're quite shy, aren't you?",
+          "Pensa che Tom potrebbe avere ragione?",
+          "Do you think Tom might be correct?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vi manca molto, vero?",
-          "You miss her a lot, don't you?",
+          "Possono avere qualsiasi cosa vogliono.",
+          "They can have anything they want.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "pianto",
+      "translations": [
+        "cry",
+        "weeping",
+        "lament",
+        "sobbing"
+      ],
+      "usageExamples": []
     }
   ]
 }

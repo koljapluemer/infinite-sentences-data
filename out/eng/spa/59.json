@@ -1,20 +1,31 @@
 {
-  "sentence": "Hay una película que quiero ver por TV mañana en la noche.",
+  "sentence": "Fue una reunión muy larga.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There's a movie I want to watch on TV tomorrow night."
+    "It was a very long meeting."
   ],
   "parts": [
     {
-      "content": "Hay",
+      "content": "Fue",
       "translations": [
-        "There is",
-        "There are"
+        "was",
+        "has been"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Fue muy decepcionante.",
+          "It was very upsetting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Fue planeado.",
+          "It was planned.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "una",
@@ -25,181 +36,69 @@
       ],
       "usageExamples": [
         [
+          "Eres una chica linda.",
+          "You're a cute girl.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "Me importa una mierda.",
           "I don't give a damn about it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Eres una chica linda.",
-          "You're a cute girl.",
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "reunión",
+      "translations": [
+        "meeting",
+        "gathering",
+        "assembly",
+        "conference"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "muy",
+      "translations": [
+        "very",
+        "really",
+        "quite"
+      ],
+      "usageExamples": [
+        [
+          "Fue muy decepcionante.",
+          "It was very upsetting.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
+        [
+          "Me siento muy enfermo.",
+          "I feel very sick.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El tiempo está muy malo.",
+          "The weather is very bad.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "larga",
+      "translations": [
+        "long"
+      ],
+      "usageExamples": [
         [
           "Ella le escribió una carta larga, pero él no la leyó.",
           "She wrote him a long letter, but he didn't read it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "película",
-      "translations": [
-        "film",
-        "movie",
-        "picture"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "que",
-      "translations": [
-        "that",
-        "which"
-      ],
-      "usageExamples": [
-        [
-          "Tienes que haberlos perdido.",
-          "You must've lost them.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "¿Sabes lo que dijo Mary?",
-          "Do you know what Mary said?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
-          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "quiero",
-      "translations": [
-        "I want",
-        "I would like"
-      ],
-      "usageExamples": [
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Pretendo decirle a Tom que no quiero ir.",
-          "I plan to tell Tom that I don't want to go.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ver",
-      "translations": [
-        "to see",
-        "to watch",
-        "to look at"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "por",
-      "translations": [
-        "to"
-      ],
-      "usageExamples": [
-        [
-          "Passamos por aqui.",
-          "We went past here.",
-          ""
-        ],
-        [
-          "Vou por ali.",
-          "I will go that way.",
-          ""
-        ],
-        [
-          "Estuve esperando por toda la mañana para que esto ocurriera.",
-          "I've been waiting all morning for this to happen.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "TV",
-      "translations": [
-        "TV",
-        "television"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mañana",
-      "translations": [
-        "tomorrow",
-        "morning"
-      ],
-      "usageExamples": [
-        [
-          "Estuve esperando por toda la mañana para que esto ocurriera.",
-          "I've been waiting all morning for this to happen.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "en",
-      "translations": [
-        "to"
-      ],
-      "usageExamples": [
-        [
-          "Confío en él.",
-          "I believe in him.",
-          ""
-        ],
-        [
-          "Estoy en casa.",
-          "I am home.",
-          ""
-        ],
-        [
-          "Tengo una revista en mi pieza.",
-          "I have a magazine in my room.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
-      ],
-      "usageExamples": [
-        [
-          "Esa es la realidad.",
-          "That's the reality.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "La comida está lista.",
-          "The food is ready.",
-          ""
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "noche",
-      "translations": [
-        "night",
-        "evening"
-      ],
-      "usageExamples": []
     }
   ]
 }

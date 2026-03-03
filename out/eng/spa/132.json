@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom, párese y lea el libro, por favor.",
+  "sentence": "Tom va a la biblioteca al menos una vez por mes.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by orcrist (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Stand up and read the book, Tom."
+    "Tom goes to the library at least once a month."
   ],
   "parts": [
     {
@@ -16,11 +16,6 @@
       ],
       "usageExamples": [
         [
-          "Tom terminó segundo.",
-          "Tom finished second.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "Dejemos a Tom.",
           "Let's ditch Tom.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
@@ -29,80 +24,160 @@
           "Tom es autónomo.",
           "Tom is self-employed.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom terminó segundo.",
+          "Tom finished second.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "párese",
+      "content": "va",
       "translations": [
-        "stand up",
-        "get up",
-        "stop"
+        "go",
+        "is going",
+        "goes"
       ],
       "usageExamples": []
     },
     {
-      "content": "y",
+      "content": "a",
       "translations": [
-        "and",
-        "plus"
+        "to"
       ],
       "usageExamples": [
         [
-          "Cantemos y bailemos.",
-          "Let's sing and dance.",
+          "Llegaste a tiempo.",
+          "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Necesito tu pasaporte y tres fotos.",
-          "I need your passport and three pictures.",
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "El té sabe muy amargo y no está bueno.",
-          "The tea is really bitter and doesn't taste good.",
+          "Escriba a su congresista.",
+          "Write your congressman.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lea",
-      "translations": [
-        "lead",
-        "to lead"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "el",
+      "content": "la",
       "translations": [
         "the"
       ],
       "usageExamples": [
         [
-          "El gran crítico y el poeta viajan juntos.",
-          "The great critic and the poet are traveling together.",
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "A Ann le encanta el chocolate.",
-          "Ann loves chocolate.",
+          "Esa es la realidad.",
+          "That's the reality.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Sigue siendo un misterio dónde está oculto el tesoro.",
-          "Where the treasure is hidden is still a mystery.",
+          "La casa es grande.",
+          "The house is spacious.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "biblioteca",
+      "translations": [
+        "library",
+        "bookstore"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the"
+      ],
+      "usageExamples": [
+        [
+          "Una pequeña caminata me trajo al lago.",
+          "A short walk brought me to the lake.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Debes llegar al trabajo a tiempo.",
+          "You ought to get to work on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Repetirás esta oración cinco veces al día.",
+          "You'll repeat this sentence five times a day.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "libro",
+      "content": "menos",
       "translations": [
-        "book",
-        "volume"
+        "less",
+        "fewer"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom le echa de menos.",
+          "Tom misses him.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "una",
+      "translations": [
+        "a",
+        "one",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Eres una chica linda.",
+          "You're a cute girl.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tengo una revista en mi pieza.",
+          "I have a magazine in my room.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vez",
+      "translations": [
+        "time",
+        "instance",
+        "occasion"
+      ],
+      "usageExamples": [
+        [
+          "Intentémoslo otra vez.",
+          "Let's try it again.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ayer monté a caballo por primera vez.",
+          "I rode a horse for the first time yesterday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "por",
@@ -112,36 +187,28 @@
       "usageExamples": [
         [
           "Vou por ali.",
-          "I will head that direction.",
+          "I am going over there.",
           ""
         ],
         [
           "Passamos por aqui.",
-          "We went past here.",
+          "We passed by here.",
           ""
         ],
         [
-          "Estuve esperando por toda la mañana para que esto ocurriera.",
-          "I've been waiting all morning for this to happen.",
+          "Ayer monté a caballo por primera vez.",
+          "I rode a horse for the first time yesterday.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "favor",
+      "content": "mes",
       "translations": [
-        "favor",
-        "favoritism",
-        "kindness",
-        "support"
+        "month",
+        "mes"
       ],
-      "usageExamples": [
-        [
-          "Por favor, vayan abajo.",
-          "Please come downstairs.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

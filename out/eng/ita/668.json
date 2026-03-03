@@ -1,11 +1,11 @@
 {
-  "sentence": "Mi sto riposando ora.",
+  "sentence": "Mi mandi la sua posizione.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ajje (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm resting now."
+    "Send me your position."
   ],
   "parts": [
     {
@@ -17,8 +17,8 @@
       ],
       "usageExamples": [
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -27,73 +27,82 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "Mi sto riposando ora.",
+          "I'm resting now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sto",
+      "content": "mandi",
       "translations": [
-        "I stand",
-        "I am standing",
-        "I stay",
-        "I am staying"
-      ],
-      "usageExamples": [
-        [
-          "Io sto diventando piccolo!",
-          "I am getting small!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Scusami, sto cercando Tom.",
-          "Excuse me, I'm looking for Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sto guardando le Olimpiadi.",
-          "I'm watching the Olympics.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "riposando",
-      "translations": [
-        "resting",
-        "relaxing",
-        "taking a break",
-        "reclining"
+        "to wash",
+        "to bathe",
+        "to cleanse"
       ],
       "usageExamples": []
     },
     {
-      "content": "ora",
+      "content": "la",
       "translations": [
-        "now",
-        "hour",
-        "time",
-        "moment"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Io preferirei non discuterne ora.",
-          "I'd rather not discuss it now.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A che ora finisce la scuola?",
-          "What time does school end?",
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi non possiamo farlo ora.",
-          "We can't do it now.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom dimenticò la sua chiave.",
+          "Tom forgot his key.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "posizione",
+      "translations": [
+        "position",
+        "location",
+        "stance",
+        "situation"
+      ],
+      "usageExamples": []
     }
   ]
 }

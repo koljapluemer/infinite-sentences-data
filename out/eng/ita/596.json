@@ -1,203 +1,98 @@
 {
-  "sentence": "Lo avreste dovuto aiutare con il suo lavoro.",
+  "sentence": "Lei suona la chitarra portoghese.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by adiante19 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should have helped him with his work."
+    "She plays the Portuguese guitar."
   ],
   "parts": [
     {
-      "content": "Lo",
+      "content": "Lei",
       "translations": [
-        "It",
-        "Him",
-        "Them",
-        "That"
+        "You (formal)",
+        "She",
+        "Mrs.",
+        "Ma'am"
       ],
       "usageExamples": [
         [
-          "Lo hanno aiutato.",
-          "They helped him.",
+          "Lei ha già cominciato.",
+          "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo decorò.",
-          "He decorated it.",
+          "Lei ci catturerà.",
+          "You will catch us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "avreste",
+      "content": "suona",
       "translations": [
-        "you would have",
-        "you would possess",
-        "you would hold"
+        "plays",
+        "sounds",
+        "rings",
+        "is played"
+      ],
+      "usageExamples": [
+        [
+          "Non mi sveglierò neppure se suona la sveglia.",
+          "I won't wake up even if the alarm rings.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "chitarra",
+      "translations": [
+        "guitar",
+        "stringed instrument",
+        "musical guitar"
       ],
       "usageExamples": []
     },
     {
-      "content": "dovuto",
+      "content": "portoghese",
       "translations": [
-        "due",
-        "owed",
-        "required",
-        "necessary"
+        "Portuguese",
+        "from Portugal",
+        "relating to Portugal"
       ],
-      "usageExamples": [
-        [
-          "Avrebbe dovuto chiedere a lui prima.",
-          "You should've asked him first.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
-          "Tom should've closed all his windows.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sarebbe dovuto venire alla riunione.",
-          "Tom should've come to the meeting.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "aiutare",
-      "translations": [
-        "to help",
-        "to assist",
-        "to aid",
-        "to support"
-      ],
-      "usageExamples": [
-        [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Li vada ad aiutare.",
-          "Go help them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
-      ],
-      "usageExamples": [
-        [
-          "Parlo frequentemente con lui.",
-          "I frequently talk to him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Mi piace il reggae.",
-          "I like reggae.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non conosco il sistema.",
-          "I don't know the system.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "suo",
-      "translations": [
-        "his",
-        "her",
-        "its",
-        "their"
-      ],
-      "usageExamples": [
-        [
-          "A Mary non piace il suo nuovo impiego.",
-          "Mary doesn't like her new job.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piaceva il suo lavoro.",
-          "Mary didn't enjoy her job.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary è nel suo ufficio.",
-          "Mary is in her office.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "lavoro",
-      "translations": [
-        "work",
-        "job",
-        "labor",
-        "employment"
-      ],
-      "usageExamples": [
-        [
-          "A Mary non piaceva il suo lavoro.",
-          "Mary didn't enjoy her job.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il signor Jones crede nel duro lavoro e nei profitti.",
-          "Mr Jones believes in hard work and profits.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché questo è il mio lavoro?",
-          "Why is this my job?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

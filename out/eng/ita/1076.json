@@ -1,108 +1,95 @@
 {
-  "sentence": "Tua moglie ti sta tradendo.",
+  "sentence": "Tu comprendi quel libro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Your wife is cheating on you."
+    "You understand that book."
   ],
   "parts": [
     {
-      "content": "Tua",
+      "content": "Tu",
       "translations": [
-        "yours",
-        "your",
-        "belonging to you"
+        "You",
+        "Yourself",
+        "Thou",
+        "Ye"
+      ],
+      "usageExamples": [
+        [
+          "Tu sei sposata?",
+          "Are you married?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu sei quello che ha chiesto a Tom di aiutare?",
+          "Are you the one who asked Tom to help?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "comprendi",
+      "translations": [
+        "I understood.",
+        "I comprehend",
+        "I get it",
+        "I realize"
       ],
       "usageExamples": []
     },
     {
-      "content": "moglie",
+      "content": "quel",
       "translations": [
-        "wife",
-        "spouse",
-        "partner"
+        "that",
+        "the one",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Tu lasceresti tua moglie per me?",
-          "Would you leave your wife for me?",
+          "A Marie non è piaciuto quel gioco.",
+          "Marie didn't like that game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
-          "Tom received an urgent message to call his wife.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sami ha perso sua moglie.",
-          "Sami lost his wife.",
+          "Era facile risolvere quel problema.",
+          "It was easy to solve that problem.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ti",
+      "content": "libro",
       "translations": [
-        "you",
-        "yourself",
-        "to you",
-        "for you"
+        "book",
+        "volume",
+        "tome",
+        "publication"
       ],
       "usageExamples": [
         [
-          "Noi ti amiamo entrambi.",
-          "We both love you.",
+          "Era un libro nuovo.",
+          "It was a new book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Penso che Tom ti chiederà di sposarlo.",
-          "I think Tom will ask you to marry him.",
+          "Il libro è arrivato.",
+          "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanto spesso ti viene a trovare Tom?",
-          "How often does Tom visit you?",
-          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sta",
-      "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
-      ],
-      "usageExamples": [
-        [
-          "Li sta confondendo.",
-          "You're confusing them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cosa la sta causando?",
-          "What's causing it?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta lavorando, vero?",
-          "Tom is working, isn't he?",
+          "È un nuovo libro.",
+          "It's a new book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "tradendo",
-      "translations": [
-        "by handing over",
-        "through delivering",
-        "in transferring",
-        "by conveying"
-      ],
-      "usageExamples": []
     }
   ]
 }

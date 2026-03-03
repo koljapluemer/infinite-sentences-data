@@ -1,18 +1,119 @@
 {
-  "sentence": "Tienes que haberlos perdido.",
+  "sentence": "Tengo una revista en mi pieza.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You must've lost them."
+    "I have a magazine in my room."
   ],
   "parts": [
     {
-      "content": "tienes",
+      "content": "Tengo",
       "translations": [
-        "you have",
-        "you've"
+        "I have",
+        "I possess"
+      ],
+      "usageExamples": [
+        [
+          "Tengo un perro.",
+          "I have a dog.",
+          ""
+        ],
+        [
+          "Tengo hambre ahora.",
+          "I am hungry now.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "una",
+      "translations": [
+        "a",
+        "one",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Eres una chica linda.",
+          "You're a cute girl.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ése ha sido mi sueño desde que era una niña pequeña.",
+          "It's been my dream since I was a little girl.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "revista",
+      "translations": [
+        "magazine",
+        "journal"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Estoy en casa.",
+          "I am at home.",
+          ""
+        ],
+        [
+          "Confío en él.",
+          "I trust him.",
+          ""
+        ],
+        [
+          "Estudio música en la universidad de Boston.",
+          "I study music at a university in Boston.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "me",
+        "my"
+      ],
+      "usageExamples": [
+        [
+          "Aquí está mi equipaje.",
+          "Here is my baggage.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi hermano lo hizo en mi nombre.",
+          "My brother did it on my behalf.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ése ha sido mi sueño desde que era una niña pequeña.",
+          "It's been my dream since I was a little girl.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pieza",
+      "translations": [
+        "piece",
+        "part",
+        "item",
+        "component"
       ],
       "usageExamples": [
         [
@@ -21,47 +122,6 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "que",
-      "translations": [
-        "that",
-        "which"
-      ],
-      "usageExamples": [
-        [
-          "Estuve esperando por toda la mañana para que esto ocurriera.",
-          "I've been waiting all morning for this to happen.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dijo que había visto esa foto antes.",
-          "He said that he had seen the picture before.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
-          "This is the way the world ends. Not with a bang but a whimper.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "haberlos",
-      "translations": [
-        "to have them",
-        "there are some",
-        "to have them exist"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "perdido",
-      "translations": [
-        "lost",
-        "missing"
-      ],
-      "usageExamples": []
     }
   ]
 }

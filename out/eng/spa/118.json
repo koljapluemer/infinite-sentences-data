@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom es autónomo.",
+  "sentence": "Tom dijo que tú podrías ayudarme.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is self-employed."
+    "Tom said that you'd be able to help me."
   ],
   "parts": [
     {
@@ -26,45 +26,95 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom se está lavando la cara.",
-          "Tom is washing his face.",
+          "Tom es autónomo.",
+          "Tom is self-employed.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "es",
+      "content": "dijo",
       "translations": [
-        "is",
-        "it is",
-        "to be"
+        "said",
+        "told"
       ],
       "usageExamples": [
         [
-          "Esa es la realidad.",
-          "That's the reality.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tomás es xenofóbico.",
-          "Tom is xenophobic.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "En realidad es tu culpa.",
-          "It is in fact your fault.",
+          "¿Sabes lo que dijo Mary?",
+          "Do you know what Mary said?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "autónomo",
+      "content": "que",
       "translations": [
-        "self-employed",
-        "freelancer",
-        "independent contractor"
+        "that",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella solo finge que no le importa nada.",
+          "She only pretends to not care about anything.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom no cree que Mary tenga razón.",
+          "Tom doesn't think that Mary is right.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tú",
+      "translations": [
+        "you",
+        "yourself"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "podrías",
+      "translations": [
+        "could you",
+        "would you"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ayudar",
+      "translations": [
+        "to help"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "me",
+      "translations": [
+        "me"
+      ],
+      "usageExamples": [
+        [
+          "Ella me pidió ayuda.",
+          "She asked me for help.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Agradecería que me respondiera tan pronto como le sea posible.",
+          "I would appreciate a reply as soon as possible.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom no me gusta para nada.",
+          "I don't like Tom at all.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

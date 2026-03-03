@@ -1,11 +1,11 @@
 {
-  "sentence": "Mi intención no fue ofender.",
+  "sentence": "Mi hermano lo hizo en mi nombre.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by handsomelyian (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "No offense was meant."
+    "My brother did it on my behalf."
   ],
   "parts": [
     {
@@ -16,6 +16,11 @@
       ],
       "usageExamples": [
         [
+          "Mi intención no fue ofender.",
+          "No offense was meant.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "Mi padre maneja muy bien.",
           "My father drives very well.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
@@ -24,38 +29,33 @@
           "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
           "My son thinks that bats are reptiles because they're like pteranodons.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi hermano lo hizo en mi nombre.",
-          "My brother did it on my behalf.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "intención",
+      "content": "hermano",
       "translations": [
-        "intention",
-        "purpose",
-        "aim",
-        "goal"
+        "brother",
+        "bro",
+        "sibling"
       ],
       "usageExamples": []
     },
     {
-      "content": "no",
+      "content": "lo",
       "translations": [
-        "not"
+        "the",
+        "it"
       ],
       "usageExamples": [
         [
-          "Tomás no tiene hambre.",
-          "Tom's not hungry.",
+          "Nadie lo diría.",
+          "No one would say it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
+          "Yo también lo creo.",
+          "I also think so.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -66,30 +66,71 @@
       ]
     },
     {
-      "content": "fue",
+      "content": "hizo",
       "translations": [
-        "was",
-        "has been"
+        "did",
+        "made"
       ],
       "usageExamples": [
         [
-          "Anteayer fue miércoles.",
-          "The day before yesterday was Wednesday.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
-          "That was the worst job Yanni had ever had.",
+          "Ayer hizo calor.",
+          "It was hot yesterday.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ofender",
+      "content": "en",
       "translations": [
-        "to offend",
-        "to insult",
-        "to hurt someone's feelings"
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Confío en él.",
+          "I trust him.",
+          ""
+        ],
+        [
+          "Estoy en casa.",
+          "I am home.",
+          ""
+        ],
+        [
+          "Hay una película que quiero ver por TV mañana en la noche.",
+          "There's a movie I want to watch on TV tomorrow night.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "me",
+        "my"
+      ],
+      "usageExamples": [
+        [
+          "Aquí está mi equipaje.",
+          "Here is my baggage.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "¿Cómo entraste en mi habitación?",
+          "How did you get into my room?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tengo una revista en mi pieza.",
+          "I have a magazine in my room.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nombre",
+      "translations": [
+        "name",
+        "number"
       ],
       "usageExamples": []
     }

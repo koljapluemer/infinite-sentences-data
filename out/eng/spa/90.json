@@ -1,61 +1,120 @@
 {
-  "sentence": "No quiero molestarte.",
+  "sentence": "No hay nadie en la entrada.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't want to disturb you."
+    "There's no one at the entrance."
   ],
   "parts": [
     {
-      "content": "no",
+      "content": "No",
       "translations": [
-        "not"
+        "No.",
+        "Not",
+        "Nope."
       ],
       "usageExamples": [
         [
-          "Tomás no tiene hambre.",
-          "Tom's not hungry.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "No quiero ir.",
+          "I refuse to go.",
+          ""
         ],
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "No tengo tiempo.",
+          "I'm out of time.",
+          ""
         ],
         [
-          "Ella solo finge que no le importa nada.",
-          "She only pretends to not care about anything.",
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quiero",
+      "content": "hay",
       "translations": [
-        "I want",
-        "I would like"
+        "there is",
+        "there are",
+        "there exists"
       ],
       "usageExamples": [
         [
-          "Pretendo decirle a Tom que no quiero ir.",
-          "I plan to tell Tom that I don't want to go.",
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
+          "No hay nada más qué decir.",
+          "There's nothing more to be said.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molestarte",
+      "content": "nadie",
       "translations": [
-        "to bother you",
-        "to disturb you",
-        "to trouble you"
+        "nobody",
+        "no one",
+        "anyone (in negative contexts)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Confío en él.",
+          "I trust him.",
+          ""
+        ],
+        [
+          "Estoy en casa.",
+          "I am in the house.",
+          ""
+        ],
+        [
+          "Tom y su perro duermen en la misma habitación.",
+          "Tom and his dog sleep in the same room.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "La comida está lista.",
+          "The food is ready.",
+          ""
+        ],
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La casa es grande.",
+          "The house is big.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "entrada",
+      "translations": [
+        "entry",
+        "entrance",
+        "input",
+        "admission"
       ],
       "usageExamples": []
     }

@@ -1,49 +1,104 @@
 {
-  "sentence": "Nadie piensa eso.",
+  "sentence": "Mis amigos no saben dónde estoy.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "No one thinks that."
+    "My friends don't know where I am."
   ],
   "parts": [
     {
-      "content": "Nadie",
+      "content": "Mis",
       "translations": [
-        "nobody",
-        "no one",
-        "anyone",
-        "naught"
+        "My",
+        "Mine"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "amigos",
+      "translations": [
+        "friends",
+        "buddies",
+        "mates",
+        "companions"
       ],
       "usageExamples": [
         [
-          "Nadie lo diría.",
-          "No one would say it.",
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piensa",
+      "content": "no",
       "translations": [
-        "think",
-        "consider",
-        "believe",
-        "reflect"
+        "not"
+      ],
+      "usageExamples": [
+        [
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tomás no tiene hambre.",
+          "Tom's not hungry.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "saben",
+      "translations": [
+        "they know",
+        "you all know"
       ],
       "usageExamples": []
     },
     {
-      "content": "eso",
+      "content": "dónde",
       "translations": [
-        "that",
-        "it"
+        "where",
+        "where at",
+        "in which place"
       ],
       "usageExamples": [
         [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
+          "¿Dónde está el restaurante que me recomendaste?",
+          "Where's the restaurant you told me about?",
+          ""
+        ],
+        [
+          "Sigue siendo un misterio dónde está oculto el tesoro.",
+          "Where the treasure is hidden is still a mystery.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El camaleón cambia de color según dónde se encuentre.",
+          "The chameleon changes color depending on where it finds itself.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "estoy",
+      "translations": [
+        "I am.",
+        "I exist.",
+        "I stand"
+      ],
+      "usageExamples": [
+        [
+          "Me estoy tiñendo el pelo de negro.",
+          "I'm dyeing my hair black.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom se pegó un tiro en la cabeza.",
+  "sentence": "Tom no cree que Mary tenga razón.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom shot himself in the head."
+    "Tom doesn't think that Mary is right."
   ],
   "parts": [
     {
@@ -16,8 +16,8 @@
       ],
       "usageExamples": [
         [
-          "Tom es autónomo.",
-          "Tom is self-employed.",
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -26,136 +26,104 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
+          "Tom es autónomo.",
+          "Tom is self-employed.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "se",
+      "content": "no",
       "translations": [
-        "himself",
-        "herself",
-        "itself",
-        "oneself",
-        "themselves"
+        "not"
       ],
       "usageExamples": [
         [
-          "Se você quiser, vamos.",
-          "If you want, let's go.",
-          ""
-        ],
-        [
-          "Que se levante el acusado.",
-          "Will the defendant please rise?",
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Un segundo después, sus labios se curvaron en una sonrisa maliciosa.",
-          "A second later his lips curved in a malicious smile.",
+          "Tomás no tiene hambre.",
+          "Tom's not hungry.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pegó",
+      "content": "cree",
       "translations": [
-        "hit",
-        "struck",
-        "caught",
-        "grabbed"
+        "believes",
+        "thinks",
+        "creates"
+      ],
+      "usageExamples": [
+        [
+          "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
+          "My son thinks that bats are reptiles because they're like pteranodons.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "que",
+      "translations": [
+        "that",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dime algo que no sepa.",
+          "Tell me something that I don't know.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No puedo creer que Tom me haría eso.",
+          "I can't believe Tom would do that to me.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Mary",
+        "Maria"
+      ],
+      "usageExamples": [
+        [
+          "¿Sabes lo que dijo Mary?",
+          "Do you know what Mary said?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tenga",
+      "translations": [
+        "have",
+        "hold",
+        "take"
       ],
       "usageExamples": []
     },
     {
-      "content": "un",
+      "content": "razón",
       "translations": [
-        "a",
-        "one",
-        "an"
-      ],
-      "usageExamples": [
-        [
-          "Necesito un libro.",
-          "I require a book.",
-          ""
-        ],
-        [
-          "Quiero un café.",
-          "I would like a coffee.",
-          ""
-        ],
-        [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tiro",
-      "translations": [
-        "shot",
-        "throw",
-        "kick",
-        "hit"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "en",
-      "translations": [
-        "to"
-      ],
-      "usageExamples": [
-        [
-          "Estoy en casa.",
-          "I am at home.",
-          ""
-        ],
-        [
-          "Confío en él.",
-          "I have faith in him.",
-          ""
-        ],
-        [
-          "¿Cómo entraste en mi habitación?",
-          "How did you get into my room?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
-      ],
-      "usageExamples": [
-        [
-          "La casa es grande.",
-          "The house is spacious.",
-          ""
-        ],
-        [
-          "La comida está lista.",
-          "The meal is prepared.",
-          ""
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cabeza",
-      "translations": [
-        "head",
-        "top",
-        "mind"
+        "reason",
+        "cause",
+        "motive",
+        "justification"
       ],
       "usageExamples": []
     }

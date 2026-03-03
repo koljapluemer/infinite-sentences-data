@@ -1,51 +1,78 @@
 {
-  "sentence": "Faccia attenzione alle api.",
+  "sentence": "Era occupato ieri?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Look out for bees."
+    "Were you busy yesterday?"
   ],
   "parts": [
     {
-      "content": "Faccia",
+      "content": "Era",
       "translations": [
-        "face",
-        "surface",
-        "appearance",
-        "front"
+        "Period",
+        "Age",
+        "Epoch"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era eroico.",
+          "He was heroic.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "attenzione",
+      "content": "occupato",
       "translations": [
-        "attention",
-        "care",
-        "notice",
-        "alertness"
+        "busy",
+        "occupied",
+        "engaged",
+        "taken"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Perché Tom è sempre così occupato?",
+          "Why is Tom always so busy?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "alle",
+      "content": "ieri",
       "translations": [
-        "to the",
-        "at the",
-        "in the",
-        "for the"
+        "yesterday",
+        "the day before today",
+        "the previous day"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "api",
-      "translations": [
-        "bee",
-        "honeybee",
-        "bee species"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sono andato all'ospedale ieri.",
+          "I went to the hospital yesterday.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono andata l'altro ieri.",
+          "I went there the day before yesterday.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo arrivati ieri in treno.",
+          "We arrived yesterday afternoon by train.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

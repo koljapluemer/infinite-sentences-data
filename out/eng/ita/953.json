@@ -1,90 +1,53 @@
 {
-  "sentence": "State guidando decisamente troppo veloce.",
+  "sentence": "Sono stati assassinati.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're driving way too fast."
+    "They were murdered."
   ],
   "parts": [
     {
-      "content": "State",
+      "content": "Sono",
       "translations": [
-        "condition",
-        "situation",
-        "status",
-        "stage"
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
       ],
       "usageExamples": []
     },
     {
-      "content": "guidando",
+      "content": "stati",
       "translations": [
-        "driving",
-        "guiding",
-        "leading",
-        "steering"
+        "were",
+        "have been",
+        "stood",
+        "remained"
       ],
       "usageExamples": [
         [
-          "Sta guidando.",
-          "He's driving.",
+          "A Berlino ci siete già stati.",
+          "You've already been to Berlin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "2.200 dollari sono stati stanziati per le spese.",
+          "2200 dollars have been allocated for expenses.",
+          "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "decisamente",
+      "content": "assassinati",
       "translations": [
-        "definitely",
-        "certainly",
-        "absolutely",
-        "decidedly"
+        "assassinated",
+        "murdered",
+        "killed",
+        "executed"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "troppo",
-      "translations": [
-        "too much",
-        "excessively",
-        "overly",
-        "very"
-      ],
-      "usageExamples": [
-        [
-          "A Mary fu detto che era troppo bassa.",
-          "Mary was told she was too short.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono troppo vecchia per votare?",
-          "Am I too old to vote?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary dice di essere troppo stanca oggi per aiutare.",
-          "Mary says she's too tired today to help.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "veloce",
-      "translations": [
-        "fast",
-        "quick",
-        "swift",
-        "speedy"
-      ],
-      "usageExamples": [
-        [
-          "Puoi lanciare una palla veloce?",
-          "Can you throw a fastball?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

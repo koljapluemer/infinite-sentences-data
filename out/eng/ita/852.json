@@ -1,90 +1,105 @@
 {
-  "sentence": "Quanti ne hai?",
+  "sentence": "Quali sono i tuoi piani?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How many do you have?"
+    "What are your plans?",
+    "What're your plans?"
   ],
   "parts": [
     {
-      "content": "Quanti",
+      "content": "Quali",
       "translations": [
-        "How much?",
-        "How many?",
-        "What is the price?",
-        "What is the cost?"
+        "Which",
+        "What kind of",
+        "What type of",
+        "What sort of"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Io sono una patata.",
+          "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni aveva nella prima foto?",
-          "How old was she in the first photo?",
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ne",
+      "content": "i",
       "translations": [
-        "not",
-        "no",
-        "neither",
-        "nor"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Lei se ne vuole andare domani?",
-          "Do you want to leave tomorrow?",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché te ne stai andando?",
-          "Why are you leaving?",
+          "Quando depongono le uova i salmoni?",
+          "When do salmon spawn?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io ne ho pagata una.",
-          "I paid one.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "La cosa migliore del Giappone sono i suoi videogiochi.",
+          "The best thing about Japan is its video games.",
+          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hai",
+      "content": "tuoi",
       "translations": [
-        "you have",
-        "you've got",
-        "you possess",
-        "you own"
+        "your",
+        "yours",
+        "of yours"
       ],
       "usageExamples": [
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "Prendi in prestito le biro dai tuoi amici.",
+          "You borrow pens from your friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non hai coscienza!",
-          "You have no conscience!",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "piani",
+      "translations": [
+        "plans",
+        "floors",
+        "levels",
+        "schedules"
+      ],
+      "usageExamples": []
     }
   ]
 }

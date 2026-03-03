@@ -1,68 +1,105 @@
 {
-  "sentence": "State provando ad escludermi?",
+  "sentence": "Sono troppo vecchia per votare?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you trying to exclude me?"
+    "Am I too old to vote?"
   ],
   "parts": [
     {
-      "content": "State",
+      "content": "Sono",
       "translations": [
-        "state",
-        "condition",
-        "situation",
-        "status"
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
       ],
       "usageExamples": []
     },
     {
-      "content": "provando",
+      "content": "troppo",
       "translations": [
-        "trying",
-        "testing",
-        "attempting",
-        "proving"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ad",
-      "translations": [
-        "to",
-        "at",
-        "toward",
-        "for"
+        "too much",
+        "excessively",
+        "overly",
+        "very"
       ],
       "usageExamples": [
         [
-          "Hanno cominciato ad innervosirsi.",
-          "They started to get nervous.",
+          "A Mary fu detto che era troppo bassa.",
+          "Mary was told she was too short.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li vada ad aiutare.",
-          "Go and help them.",
+          "Non fidarti troppo di Tom.",
+          "Don't trust Tom too much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui ha letto la poesia ad alta voce.",
-          "He read the poem with a loud voice.",
+          "State guidando decisamente troppo veloce.",
+          "You're driving way too fast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "escludermi",
+      "content": "vecchia",
       "translations": [
-        "exclude me",
-        "leave me out",
-        "omit me",
-        "disregard me"
+        "old",
+        "ancient",
+        "aged",
+        "vintage"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Lui è una vecchia volpe.",
+          "He's a sly old dog.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "votare",
+      "translations": [
+        "to vote",
+        "to cast a vote",
+        "to elect",
+        "to poll"
+      ],
+      "usageExamples": [
+        [
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

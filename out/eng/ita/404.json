@@ -1,92 +1,64 @@
 {
-  "sentence": "Ho letto un fumetto.",
+  "sentence": "Hey, grazie per l'aiuto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I read a comic book."
+    "Hey, thanks for the help."
   ],
   "parts": [
     {
-      "content": "Ho",
+      "content": "Hey",
       "translations": [
-        "I have",
-        "I possess",
-        "I hold",
-        "I own"
+        "Hello.",
+        "Hi.",
+        "Greetings"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "grazie",
+      "translations": [
+        "thank you",
+        "thanks",
+        "thank you very much",
+        "much appreciated"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
-          "Ho abbastanza amici.",
-          "I have enough friends.",
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho ammesso la sconfitta.",
-          "I admitted defeat.",
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Sei speciale per me.",
+          "You're special to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "letto",
+      "content": "l'aiuto",
       "translations": [
-        "bed",
-        "bedding",
-        "to bed",
-        "bed frame"
-      ],
-      "usageExamples": [
-        [
-          "Lui ha letto la poesia ad alta voce.",
-          "He read the poem with a loud voice.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ha la sua propria camera da letto.",
-          "Tom has his own bedroom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
-      ],
-      "usageExamples": [
-        [
-          "Tom è un fan.",
-          "Tom is a fan.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È un nuovo libro.",
-          "It's a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "fumetto",
-      "translations": [
-        "comic",
-        "comic strip",
-        "cartoon",
-        "graphic novel"
+        "the help",
+        "the assistance",
+        "the support",
+        "the aid"
       ],
       "usageExamples": []
     }

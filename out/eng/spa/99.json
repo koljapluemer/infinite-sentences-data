@@ -1,68 +1,57 @@
 {
-  "sentence": "Puedo mostrarte las fotos.",
+  "sentence": "Por favor, vayan abajo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I can show you the pictures."
+    "Please come downstairs."
   ],
   "parts": [
     {
-      "content": "Puedo",
+      "content": "Por",
       "translations": [
-        "I can.",
-        "I am able to"
+        "for",
+        "by",
+        "through",
+        "per"
       ],
       "usageExamples": []
     },
     {
-      "content": "mostrarte",
+      "content": "favor",
       "translations": [
-        "to show you",
-        "to display to you"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "las",
-      "translations": [
-        "the",
-        "those",
-        "them"
+        "favor",
+        "favoritism",
+        "kindness",
+        "support"
       ],
       "usageExamples": [
         [
-          "Las flores en el jardín son hermosas.",
-          "The garden flowers are stunning.",
-          ""
-        ],
-        [
-          "Las galletas que horneé están deliciosas.",
-          "The cookies I made are tasty.",
-          ""
-        ],
-        [
-          "Este es el color de las frambuesas.",
-          "This is the color of raspberries.",
+          "Tom, párese y lea el libro, por favor.",
+          "Stand up and read the book, Tom.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fotos",
+      "content": "vayan",
       "translations": [
-        "photos",
-        "pictures",
-        "images"
+        "go",
+        "let's go",
+        "they go",
+        "you all go"
       ],
-      "usageExamples": [
-        [
-          "Necesito tu pasaporte y tres fotos.",
-          "I need your passport and three pictures.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "abajo",
+      "translations": [
+        "down",
+        "below",
+        "under"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,38 +1,35 @@
 {
-  "sentence": "Sé que Tom es feliz.",
+  "sentence": "Si me compras un helado, te doy un beso.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by LittleBoy (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I know Tom is happy."
+    "If you buy me an ice cream, I'll give you a kiss."
   ],
   "parts": [
     {
-      "content": "Sé",
+      "content": "Si",
       "translations": [
-        "I know.",
-        "Be",
-        "I am.",
-        "Know"
+        "Yes.",
+        "If"
       ],
       "usageExamples": []
     },
     {
-      "content": "que",
+      "content": "me",
       "translations": [
-        "that",
-        "which"
+        "me"
       ],
       "usageExamples": [
         [
-          "Tienes que haberlos perdido.",
-          "You must've lost them.",
+          "Ella me pidió ayuda.",
+          "She asked me for help.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
-          "This is the way the world ends. Not with a bang but a whimper.",
+          "Tom no me gusta para nada.",
+          "I don't like Tom at all.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -43,61 +40,69 @@
       ]
     },
     {
-      "content": "Tom",
+      "content": "compras",
       "translations": [
-        "Tom",
-        "Thomas"
+        "shopping",
+        "purchases"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "a",
+        "one",
+        "an"
       ],
       "usageExamples": [
         [
-          "Tom terminó segundo.",
-          "Tom finished second.",
+          "Tenemos un horario apretado.",
+          "We have a tight schedule.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom es autónomo.",
-          "Tom is self-employed.",
+          "Francois dio un discurso.",
+          "François gave a speech.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Necesito un libro.",
+          "I require a book.",
+          ""
         ]
       ]
     },
     {
-      "content": "es",
+      "content": "helado",
       "translations": [
-        "is",
-        "it is",
-        "to be"
+        "ice cream",
+        "frozen dessert"
       ],
-      "usageExamples": [
-        [
-          "Tom es autónomo.",
-          "Tom is self-employed.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tomás es xenofóbico.",
-          "Tom is xenophobic.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Esa es la realidad.",
-          "That's the reality.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "feliz",
+      "content": "te",
       "translations": [
-        "happy",
-        "joyful",
-        "content",
-        "cheerful"
+        "you",
+        "to you",
+        "yourself"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "doy",
+      "translations": [
+        "I give",
+        "I provide",
+        "I offer"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "beso",
+      "translations": [
+        "kiss",
+        "peck"
       ],
       "usageExamples": []
     }

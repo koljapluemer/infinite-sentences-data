@@ -1,122 +1,99 @@
 {
-  "sentence": "Si sta lavando i capelli.",
+  "sentence": "Sei stata a Parigi?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He's washing his hair.",
-    "She's washing her hair."
+    "Have you been to Paris?"
   ],
   "parts": [
     {
-      "content": "Si",
+      "content": "Sei",
       "translations": [
-        "If",
-        "Whether",
-        "In case",
-        "Provided that"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
       ],
       "usageExamples": [
         [
-          "Si sono sposati.",
-          "They got married.",
+          "Sei sospesa?",
+          "Are you suspended?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Si contraddicono molto.",
-          "They contradict themselves a lot.",
+          "Sei un testimone.",
+          "You are a witness.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
-          "He moved to Madrid to take the reins of his father's business.",
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stata",
+      "translations": [
+        "was",
+        "has been",
+        "was located",
+        "was situated"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La casa è stata venduta per un milione di dollari.",
+          "The house was sold for one million dollars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono stata onesta con lui.",
+          "I have been honest with him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sta",
+      "content": "a",
       "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Li sta confondendo.",
-          "You're confusing them.",
+          "Devo andare a trovarli.",
+          "I must go and find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cosa la sta causando?",
-          "What's causing it?",
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta gemendo.",
-          "Tom is whining.",
+          "Lo mostreremo a lei.",
+          "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lavando",
+      "content": "Parigi",
       "translations": [
-        "washing",
-        "cleaning",
-        "laundering",
-        "doing laundry"
+        "Paris",
+        "the City of Light",
+        "the French capital",
+        "Paris, France"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
-      ],
-      "usageExamples": [
-        [
-          "Conosce i cavalli.",
-          "He knows horses.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary piacciono i film.",
-          "Mary enjoys movies.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary piacciono tutti i suoi insegnanti.",
-          "Mary likes all of her teachers.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "capelli",
-      "translations": [
-        "hair",
-        "locks",
-        "tresses",
-        "mane"
-      ],
-      "usageExamples": [
-        [
-          "A Layla piacevano i suoi capelli naturali.",
-          "Layla loved her natural hair.",
-          "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non mi sono lavato i capelli.",
-          "I haven't washed my hair.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

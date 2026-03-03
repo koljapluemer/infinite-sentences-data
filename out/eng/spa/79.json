@@ -1,178 +1,92 @@
 {
-  "sentence": "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
+  "sentence": "Me siento muy enfermo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Scott (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My son thinks that bats are reptiles because they're like pteranodons."
+    "I feel very sick."
   ],
   "parts": [
     {
-      "content": "Mi",
+      "content": "Me",
       "translations": [
         "Me",
-        "Myself"
+        "I"
       ],
       "usageExamples": [
         [
-          "Mi intención no fue ofender.",
-          "No offense was meant.",
+          "Me gusta tu acento.",
+          "I like your accent.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Mi hermano lo hizo en mi nombre.",
-          "My brother did it on my behalf.",
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Mi padre maneja muy bien.",
-          "My father drives very well.",
+          "Me llamo Juan.",
+          "I am called Juan.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "siento",
+      "translations": [
+        "I feel",
+        "I sense",
+        "I perceive"
+      ],
+      "usageExamples": [
+        [
+          "Siento que es correcto.",
+          "I sense that it's right.",
+          ""
+        ],
+        [
+          "Me siento muy feliz.",
+          "I feel very happy.",
+          ""
+        ],
+        [
+          "Aquí me siento muy solo.",
+          "I feel very lonely here.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hijo",
+      "content": "muy",
       "translations": [
-        "son",
-        "child"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "cree",
-      "translations": [
-        "believes",
-        "thinks",
-        "creates"
+        "very",
+        "really",
+        "quite"
       ],
       "usageExamples": [
         [
-          "Tom no cree que Mary tenga razón.",
-          "Tom doesn't think that Mary is right.",
+          "Fue muy decepcionante.",
+          "It was very upsetting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Aquí me siento muy solo.",
+          "I feel very lonely here.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El tiempo está muy malo.",
+          "The weather is very bad.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "que",
+      "content": "enfermo",
       "translations": [
-        "that",
-        "which"
-      ],
-      "usageExamples": [
-        [
-          "Tienes que haberlos perdido.",
-          "You must've lost them.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ése ha sido mi sueño desde que era una niña pequeña.",
-          "It's been my dream since I was a little girl.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Estuve esperando por toda la mañana para que esto ocurriera.",
-          "I've been waiting all morning for this to happen.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "los",
-      "translations": [
-        "the",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Tom dio con una pauta en los datos.",
-          "Tom spotted a pattern in the data.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
-          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "murciélagos",
-      "translations": [
-        "bats",
-        "little bats"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "son",
-      "translations": [
-        "son",
-        "they are",
-        "are"
-      ],
-      "usageExamples": [
-        [
-          "A veces nuestras plegarias no son respondidas de la manera en la que querríamos.",
-          "Sometimes our prayers aren't answered the way we want them to be.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Los trenes son poco prácticos e incómodos; además nunca son puntuales.",
-          "The trains are inconvenient and uncomfortable; in addition, they never run on time.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
-          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "reptiles",
-      "translations": [
-        "reptiles",
-        "cold-blooded animals",
-        "scaly animals"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "porque",
-      "translations": [
-        "because",
-        "why"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "como",
-      "translations": [
-        "like",
-        "as",
-        "how"
-      ],
-      "usageExamples": [
-        [
-          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
-          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Agradecería que me respondiera tan pronto como le sea posible.",
-          "I would appreciate a reply as soon as possible.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "pteranodontes",
-      "translations": [
-        "pteranodons",
-        "pteranodon"
+        "sick",
+        "ill"
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom se está lavando la cara.",
+  "sentence": "Tom le echa de menos.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is washing his face."
+    "Tom misses him."
   ],
   "parts": [
     {
@@ -16,6 +16,11 @@
       ],
       "usageExamples": [
         [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "Tom es autónomo.",
           "Tom is self-employed.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
@@ -24,105 +29,80 @@
           "Tom terminó segundo.",
           "Tom finished second.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "him",
+        "her",
+        "it"
+      ],
+      "usageExamples": [
+        [
+          "A Ann le encanta el chocolate.",
+          "Ann loves chocolate.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
+          "Agradecería que me respondiera tan pronto como le sea posible.",
+          "I would appreciate a reply as soon as possible.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella solo finge que no le importa nada.",
+          "She only pretends to not care about anything.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "se",
+      "content": "echa",
       "translations": [
-        "himself",
-        "herself",
-        "itself",
-        "oneself",
-        "themselves"
+        "throw",
+        "pour",
+        "cast"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
       ],
       "usageExamples": [
         [
-          "Se você quiser, vamos.",
-          "If you wish, we can go.",
+          "Vengo de la playa.",
+          "I come from the beach.",
           ""
+        ],
+        [
+          "Este es el color de las frambuesas.",
+          "This is the color of raspberries.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
           "No se olvide de su chaqueta.",
           "Don't forget your jacket.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Que se levante el acusado.",
-          "Will the defendant please rise?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "está",
+      "content": "menos",
       "translations": [
-        "is",
-        "are"
+        "less",
+        "fewer"
       ],
       "usageExamples": [
         [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "La pizza sabe diferente cuando está fría.",
-          "Pizza tastes different when it's cold.",
+          "Tom va a la biblioteca al menos una vez por mes.",
+          "Tom goes to the library at least once a month.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "lavando",
-      "translations": [
-        "washing",
-        "cleaning"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
-      ],
-      "usageExamples": [
-        [
-          "La casa es grande.",
-          "The house is big.",
-          ""
-        ],
-        [
-          "La comida está lista.",
-          "The meal is prepared.",
-          ""
-        ],
-        [
-          "Esa es la realidad.",
-          "That's the reality.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cara",
-      "translations": [
-        "face",
-        "dear",
-        "expensive",
-        "front"
-      ],
-      "usageExamples": []
     }
   ]
 }

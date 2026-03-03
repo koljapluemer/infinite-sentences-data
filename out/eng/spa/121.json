@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom está cavando un agujero.",
+  "sentence": "Tom es un buen gerente.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is digging a hole."
+    "Tom is a pretty good manager."
   ],
   "parts": [
     {
@@ -33,37 +33,29 @@
       ]
     },
     {
-      "content": "está",
+      "content": "es",
       "translations": [
         "is",
-        "are"
+        "it is",
+        "to be"
       ],
       "usageExamples": [
         [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
+          "Tom es autónomo.",
+          "Tom is self-employed.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
+          "Esa es la realidad.",
+          "That's the reality.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom se está lavando la cara.",
-          "Tom is washing his face.",
+          "Tomás es xenofóbico.",
+          "Tom is xenophobic.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "cavando",
-      "translations": [
-        "digging",
-        "excavating",
-        "burrowing"
-      ],
-      "usageExamples": []
     },
     {
       "content": "un",
@@ -74,28 +66,53 @@
       ],
       "usageExamples": [
         [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
+          "Francois dio un discurso.",
+          "François gave a speech.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tenemos un horario apretado.",
-          "We have a tight schedule.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Necesito un libro.",
+          "I require a book.",
+          ""
         ],
         [
           "Quiero un café.",
-          "I'd like a coffee.",
+          "I would like a coffee.",
           ""
         ]
       ]
     },
     {
-      "content": "agujero",
+      "content": "buen",
       "translations": [
-        "hole",
-        "opening",
-        "aperture"
+        "good",
+        "nice",
+        "well"
+      ],
+      "usageExamples": [
+        [
+          "Es un buen día.",
+          "It's a good day.",
+          ""
+        ],
+        [
+          "Hiciste un buen trabajo.",
+          "You performed well.",
+          ""
+        ],
+        [
+          "Ayer tuvimos buen tiempo.",
+          "We had nice weather yesterday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gerente",
+      "translations": [
+        "manager",
+        "director",
+        "administrator"
       ],
       "usageExamples": []
     }

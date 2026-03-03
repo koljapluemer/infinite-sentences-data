@@ -1,11 +1,13 @@
 {
-  "sentence": "Mi piacerebbe cenare con lei.",
+  "sentence": "Mi fa piacere che le piaccia.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd like to have dinner with you."
+    "I'm glad you like him.",
+    "I'm glad you like it."
   ],
   "parts": [
     {
@@ -17,97 +19,135 @@
       ],
       "usageExamples": [
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi servono dei francobolli.",
-          "I need stamps.",
+          "Mi sto riposando ora.",
+          "I'm resting now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Mi sono tuffato nell'acqua.",
           "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "piacerebbe",
-      "translations": [
-        "would like",
-        "would be pleasing",
-        "would enjoy",
-        "would be nice"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Le piacerebbe imparare a suonare il piano?",
-          "Would you like to learn to play the piano?",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cenare",
+      "content": "fa",
       "translations": [
-        "to have dinner",
-        "to dine",
-        "to eat dinner",
-        "to have a meal"
+        "do",
+        "make",
+        "perform",
+        "act"
+      ],
+      "usageExamples": [
+        [
+          "A volte Mary lo fa e a volte non lo fa.",
+          "Sometimes Mary does that and sometimes she doesn't.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciò che si fa è più importante di ciò che si dice.",
+          "What you do is more important than what you say.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "3 moltiplicato per 5 fa 15.",
+          "3 multiplied by 5 is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piacere",
+      "translations": [
+        "to please",
+        "to like",
+        "pleasure",
+        "enjoyment"
+      ],
+      "usageExamples": [
+        [
+          "\"Passami il sale, per piacere.\" \"Ecco qua.\"",
+          "\"Pass me the salt, please.\" \"Here you are.\"",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
+      ],
+      "usageExamples": [
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono tutte le sue insegnanti.",
+          "Mary likes all of her teachers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaccia",
+      "translations": [
+        "to please",
+        "to like",
+        "to be pleasing",
+        "to be enjoyable"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
-      ],
-      "usageExamples": [
-        [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era sposato con lei.",
-          "He used to be married to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "lei",
-      "translations": [
-        "she",
-        "you (formal)"
-      ],
-      "usageExamples": [
-        [
-          "Era sposato con lei.",
-          "He used to be married to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono fidanzata con lei.",
-          "I am engaged to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi importa di lei.",
-          "I care about her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

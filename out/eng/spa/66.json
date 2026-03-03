@@ -1,68 +1,111 @@
 {
-  "sentence": "Llegaste a tiempo.",
+  "sentence": "Las tropas estaban en formación de combate.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sundown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You arrived on time."
+    "The troops were in battle array."
   ],
   "parts": [
     {
-      "content": "Llegaste",
+      "content": "Las",
       "translations": [
-        "You arrived",
-        "You have arrived",
-        "You came"
+        "The",
+        "Those"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "tropas",
+      "translations": [
+        "troops",
+        "forces",
+        "group",
+        "bunch"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "estaban",
+      "translations": [
+        "they were",
+        "you all were",
+        "those were"
+      ],
+      "usageExamples": [
+        [
+          "Tom y María también estaban en el auto.",
+          "Tom and Mary were also in the car.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "en",
       "translations": [
         "to"
       ],
       "usageExamples": [
         [
-          "Escriba a su congresista.",
-          "Write your congressman.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Confío en él.",
+          "I believe in him.",
+          ""
         ],
         [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Estoy en casa.",
+          "I am at home.",
+          ""
         ],
         [
-          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
-          "Hunger compelled the boy to steal money from the cash register.",
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tiempo",
+      "content": "formación",
       "translations": [
-        "time",
-        "weather"
+        "training",
+        "education",
+        "formation",
+        "development"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
       ],
       "usageExamples": [
         [
-          "El tiempo vuela.",
-          "Time goes by quickly.",
+          "Vengo de la playa.",
+          "I come from the beach.",
           ""
         ],
         [
-          "No tengo tiempo.",
-          "I'm out of time.",
-          ""
+          "Badajoz es una ciudad de España.",
+          "Badajoz is a city in Spain.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ayer tuvimos buen tiempo.",
-          "We had nice weather yesterday.",
+          "En la fiesta hubo una enormidad de gente.",
+          "There was a great crowd at the party.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "combate",
+      "translations": [
+        "fight",
+        "combat",
+        "battle",
+        "struggle"
+      ],
+      "usageExamples": []
     }
   ]
 }

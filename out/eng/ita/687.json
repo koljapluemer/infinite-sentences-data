@@ -1,41 +1,129 @@
 {
-  "sentence": "Noi ti amiamo entrambi.",
+  "sentence": "Nessuno qua balla bene come te.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We both love you."
+    "Nobody here dances as well as you."
   ],
   "parts": [
     {
-      "content": "Noi",
+      "content": "Nessuno",
       "translations": [
-        "We",
-        "Us",
-        "Ours",
-        "Our group"
+        "No one",
+        "Nobody",
+        "Not anyone",
+        "None"
       ],
       "usageExamples": [
         [
-          "Noi terremo una festa.",
-          "We'll have a party.",
+          "Nessuno vi sostituirà.",
+          "Nobody will ever replace you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi siamo in Finlandia.",
-          "We are in Finland.",
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ti",
+      "content": "qua",
+      "translations": [
+        "where",
+        "in which",
+        "at which",
+        "by which"
+      ],
+      "usageExamples": [
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo aspettarli qua.",
+          "I have to wait here for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "balla",
+      "translations": [
+        "dance",
+        "to dance",
+        "ball",
+        "a dance event"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bene",
+      "translations": [
+        "well",
+        "good",
+        "fine",
+        "okay"
+      ],
+      "usageExamples": [
+        [
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa mattina Tatoeba non sta funzionando molto bene.",
+          "This morning, Tatoeba isn't working very well.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "come",
+      "translations": [
+        "how",
+        "like",
+        "as",
+        "when"
+      ],
+      "usageExamples": [
+        [
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Come ti sei sentita quando è successo?",
+          "How did you feel when that happened?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non posso dirle come si pronuncia la parola.",
+          "I can't tell you how to pronounce the word.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "te",
       "translations": [
         "you",
         "yourself",
@@ -44,47 +132,21 @@
       ],
       "usageExamples": [
         [
-          "Quanto spesso ti viene a trovare Tom?",
-          "How often does Tom visit you?",
-          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché ti serve un coltello?",
-          "Why do you need a knife?",
+          "Perché te ne stai andando?",
+          "Why are you leaving?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Penso che Tom ti chiederà di sposarlo.",
-          "I think Tom will ask you to marry him.",
+          "A te piace il tuo appartamento nuovo?",
+          "Do you like your new apartment?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "amiamo",
-      "translations": [
-        "we love",
-        "let's love",
-        "we are loving",
-        "we do love"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Le amiamo.",
-          "We love them.",
+          "Io non ho preso nulla per te.",
+          "I didn't get anything for you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "entrambi",
-      "translations": [
-        "both",
-        "both of them",
-        "the two",
-        "both parties"
-      ],
-      "usageExamples": []
     }
   ]
 }

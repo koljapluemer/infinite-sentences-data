@@ -1,38 +1,22 @@
 {
-  "sentence": "Cosa la sta causando?",
+  "sentence": "Confronti la Sua risposta con la sua.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's causing it?"
+    "Check your answer with his."
   ],
   "parts": [
     {
-      "content": "Cosa",
+      "content": "Confronti",
       "translations": [
-        "Thing",
-        "Item",
-        "Object",
-        "Stuff"
+        "Comparisons",
+        "Confrontations",
+        "Encounters",
+        "Comparative analyses"
       ],
-      "usageExamples": [
-        [
-          "Cosa avete consigliato?",
-          "What did you recommend?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cosa vorrebbe bere?",
-          "What would you like to drink?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cosa capiterà a loro?",
-          "What'll happen to them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "la",
@@ -44,13 +28,13 @@
       ],
       "usageExamples": [
         [
-          "Prendi la mia.",
-          "Take mine.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ],
         [
-          "Frequentiamo la scuola statale.",
-          "We attend state school.",
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,40 +45,97 @@
       ]
     },
     {
-      "content": "sta",
+      "content": "Sua",
       "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
+        "yours",
+        "your",
+        "belonging to you"
       ],
       "usageExamples": [
         [
-          "Li sta confondendo.",
-          "You're confusing them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Qualcuno sta osservando Tom.",
-          "Someone is watching Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta gemendo.",
-          "Tom is groaning.",
+          "Sua madre sarebbe fiera di lei.",
+          "Your mother would be proud of you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "causando",
+      "content": "risposta",
       "translations": [
-        "causing",
-        "causal",
-        "resulting in",
-        "leading to"
+        "response",
+        "answer",
+        "reply",
+        "reaction"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Scriva una risposta.",
+          "Write an answer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non è facile la risposta?",
+          "Isn't the answer easy?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
+      ],
+      "usageExamples": [
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca sua figlia.",
+          "Mary misses her daughter.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono tutti nella sua classe.",
+          "Mary likes everybody in her class.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,90 +1,53 @@
 {
-  "sentence": "State guidando decisamente troppo veloce.",
+  "sentence": "Sono stati assassinati.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're driving way too fast."
+    "They were murdered."
   ],
   "parts": [
     {
-      "content": "State",
+      "content": "Sono",
       "translations": [
-        "condition",
-        "situation",
-        "status",
-        "stage"
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
       ],
       "usageExamples": []
     },
     {
-      "content": "guidando",
+      "content": "stati",
       "translations": [
-        "driving",
-        "guiding",
-        "leading",
-        "steering"
+        "were",
+        "have been",
+        "stood",
+        "remained"
       ],
       "usageExamples": [
         [
-          "Sta guidando.",
-          "He's driving.",
+          "2.200 dollari sono stati stanziati per le spese.",
+          "2200 dollars have been allocated for expenses.",
+          "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci siete già stati.",
+          "You have already been to Berlin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "decisamente",
+      "content": "assassinati",
       "translations": [
-        "definitely",
-        "certainly",
-        "absolutely",
-        "decidedly"
+        "assassinated",
+        "murdered",
+        "killed",
+        "executed"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "troppo",
-      "translations": [
-        "too much",
-        "excessively",
-        "overly",
-        "very"
-      ],
-      "usageExamples": [
-        [
-          "Non fidarti troppo di Tom.",
-          "Don't trust Tom too much.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quella gonna non è troppo corta?",
-          "Isn't that skirt too short?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il mio problema è che sono troppo occupata.",
-          "My problem is I'm too busy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "veloce",
-      "translations": [
-        "fast",
-        "quick",
-        "swift",
-        "speedy"
-      ],
-      "usageExamples": [
-        [
-          "Puoi lanciare una palla veloce?",
-          "Can you throw a fastball?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

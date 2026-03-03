@@ -1,69 +1,73 @@
 {
-  "sentence": "Deve essere difficile.",
+  "sentence": "Cosa avete consigliato?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That must be hard."
+    "What did you recommend?"
   ],
   "parts": [
     {
-      "content": "Deve",
+      "content": "Cosa",
       "translations": [
-        "must",
-        "has to",
-        "needs to",
-        "should"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "avete",
+      "translations": [
+        "you have",
+        "you've got",
+        "are you having"
+      ],
+      "usageExamples": [
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete detto al capo?",
+          "What did you say to the boss?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "consigliato",
+      "translations": [
+        "recommended",
+        "advised",
+        "suggested",
+        "endorsed"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "essere",
-      "translations": [
-        "to be",
-        "to exist",
-        "to occur",
-        "to happen"
-      ],
-      "usageExamples": [
-        [
-          "Mary dice di essere troppo stanca oggi per aiutare.",
-          "Mary says she's too tired today to help.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Shloyme vuole essere uno scrittore.",
-          "Shloyme wants to be a writer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom cercava di non essere irritato.",
-          "Tom tried not to be irritated.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "difficile",
-      "translations": [
-        "difficult",
-        "hard",
-        "challenging",
-        "tough"
-      ],
-      "usageExamples": [
-        [
-          "È difficile per me dipendere da te.",
-          "It's hard for me to depend on you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È difficile restare calmi quando le scadenze vengono ignorate.",
-          "It's hard to stay calm when deadlines are ignored.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

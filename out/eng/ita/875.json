@@ -1,58 +1,104 @@
 {
-  "sentence": "Sa come raggiungerla?",
+  "sentence": "Questo è un test?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you know how to reach her?"
+    "Is this a test?"
   ],
   "parts": [
     {
-      "content": "Sa",
+      "content": "Questo",
       "translations": [
-        "If",
-        "Whether",
-        "In case",
-        "As long as"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "come",
-      "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
+        "This",
+        "This one",
+        "This thing",
+        "This item"
       ],
       "usageExamples": [
         [
-          "È descritto come un moralista.",
-          "He is described as a moralist.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io non posso dirle come si pronuncia la parola.",
-          "I can't tell you how to pronounce the word.",
+          "Questo è un occhio.",
+          "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Come ti sei sentita quando è successo?",
-          "How did you feel when that happened?",
+          "Questo non ha sorpreso Yanni.",
+          "This didn't surprise Yanni.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "raggiungerla",
+      "content": "è",
       "translations": [
-        "to reach her",
-        "to get to her",
-        "to contact her",
-        "to meet her"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiamate un'ambulanza!",
+          "Call an ambulance!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "test",
+      "translations": [
+        "exam",
+        "assessment",
+        "evaluation"
+      ],
+      "usageExamples": [
+        [
+          "È ancora in fase di test.",
+          "It's still being tested.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

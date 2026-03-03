@@ -1,96 +1,248 @@
 {
-  "sentence": "Cookie ha 15 anni.",
+  "sentence": "Ciò che si fa è più importante di ciò che si dice.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Miktsoanit (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Cookie is 15."
+    "What you do is more important than what you say."
   ],
   "parts": [
     {
-      "content": "Cookie",
+      "content": "Ciò",
       "translations": [
-        "Biscuit",
-        "Sweet biscuit",
-        "Baked treat"
+        "This",
+        "That",
+        "It",
+        "Such"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "A Cookie non piacciono i baci.",
-          "Cookie doesn't like kisses.",
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "si",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
       ],
       "usageExamples": [
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Nessuno ha capito nulla.",
-          "No one understood anything.",
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha molti amici?",
-          "Does Tom have a lot of friends?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "15",
+      "content": "fa",
       "translations": [
-        "Item: 15",
-        "Number: 15",
-        "Fifteenth item",
-        "Fifteen"
+        "do",
+        "make",
+        "perform",
+        "act"
       ],
       "usageExamples": [
         [
-          "3 per 5 fa 15.",
-          "3 multiplied by 5 is 15.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Come si fa a sentirlo?",
+          "How can you hear him?",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ],
         [
           "3 moltiplicato per 5 fa 15.",
           "3 multiplied by 5 is 15.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "5 più 3 fa 8.",
+          "Add 5 to 3 and you have 8.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "anni",
+      "content": "è",
       "translations": [
-        "years",
-        "ages",
-        "annums",
-        "time periods"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A 14 anni, ha iniziato a piantare fragole.",
-          "When he was 14, he started to plant strawberries.",
-          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono stato un istruttore di sci per tre anni.",
-          "I've been a ski instructor for three years.",
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "più",
+      "translations": [
+        "more",
+        "plus",
+        "greater",
+        "further"
+      ],
+      "usageExamples": [
+        [
+          "Studiate più duramente.",
+          "Study harder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È anche più economico.",
+          "It's also cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "importante",
+      "translations": [
+        "important",
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "usageExamples": [
+        [
+          "La nuova legge è stata una riforma importante.",
+          "The new law was a major reform.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'avversario più importante del Giappone era la Cina.",
+          "Japan's most important opponent was China.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ciò",
+      "translations": [
+        "this",
+        "that",
+        "it",
+        "the thing"
+      ],
+      "usageExamples": [
+        [
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non aveva ciò che le serviva.",
+          "She didn't have what she needed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piace ciò che vede.",
+          "Mary likes what she sees.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dice",
+      "translations": [
+        "to say",
+        "to tell",
+        "to speak",
+        "to declare"
+      ],
+      "usageExamples": [
+        [
+          "Tom dice di non voler più vivere così.",
+          "Tom says he doesn't want to live like this anymore.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ora lui mi dice la verità.",
+          "Now he tells me the truth.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom dice di non aver nuotato.",
+          "Tom says he didn't swim.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,19 +1,63 @@
 {
-  "sentence": "Escriba a su congresista.",
+  "sentence": "Esa casa estaba totalmente a oscuras.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Write your congressman."
+    "The house was as dark as dark."
   ],
   "parts": [
     {
-      "content": "Escriba",
+      "content": "Esa",
       "translations": [
-        "Write.",
-        "Write down",
-        "Type"
+        "that",
+        "that one"
+      ],
+      "usageExamples": [
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "casa",
+      "translations": [
+        "house",
+        "home",
+        "dwelling",
+        "residence"
+      ],
+      "usageExamples": [
+        [
+          "La casa de Tom tiene grandes ventanas.",
+          "Tom's house has large windows.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "estaba",
+      "translations": [
+        "was",
+        "used to be"
+      ],
+      "usageExamples": [
+        [
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "totalmente",
+      "translations": [
+        "totally",
+        "completely",
+        "entirely"
       ],
       "usageExamples": []
     },
@@ -34,43 +78,19 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Pretendo decirle a Tom que no quiero ir.",
-          "I plan to tell Tom that I don't want to go.",
+          "Escriba a su congresista.",
+          "Write your congressman.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "su",
+      "content": "oscuras",
       "translations": [
-        "his",
-        "her",
-        "its"
-      ],
-      "usageExamples": [
-        [
-          "Ella quiere cerrar su pequeño negocio.",
-          "She wants to wind up her small business.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
-          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
-          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "congresista",
-      "translations": [
-        "congressman",
-        "congresswoman",
-        "legislator"
+        "darkness",
+        "shadows",
+        "gloom",
+        "obscurity"
       ],
       "usageExamples": []
     }

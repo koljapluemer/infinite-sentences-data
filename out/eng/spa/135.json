@@ -1,97 +1,90 @@
 {
-  "sentence": "¿Sabes lo que dijo Mary?",
+  "sentence": "Tomás trabajó toda su vida.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you know what Mary said?"
+    "Tom worked all his life."
   ],
   "parts": [
     {
-      "content": "Sabes",
+      "content": "Tomás",
       "translations": [
-        "You know",
-        "Do you know?",
-        "Are you aware?"
+        "Thomas",
+        "Tomás"
+      ],
+      "usageExamples": [
+        [
+          "Tomás es xenofóbico.",
+          "Tom is xenophobic.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tomás no tiene hambre.",
+          "Tom's not hungry.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trabajó",
+      "translations": [
+        "worked",
+        "he/she worked",
+        "you worked"
       ],
       "usageExamples": []
     },
     {
-      "content": "lo",
+      "content": "toda",
       "translations": [
-        "the",
-        "it"
+        "all",
+        "whole",
+        "every",
+        "entire"
       ],
       "usageExamples": [
         [
-          "Yo también lo creo.",
-          "I also think so.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Nadie lo diría.",
-          "No one would say it.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
+          "Estuve esperando por toda la mañana para que esto ocurriera.",
+          "I've been waiting all morning for this to happen.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "que",
+      "content": "su",
       "translations": [
-        "that",
-        "which"
+        "his",
+        "her",
+        "its"
       ],
       "usageExamples": [
         [
-          "Tienes que haberlos perdido.",
-          "You must've lost them.",
+          "Escriba a su congresista.",
+          "Write your congressman.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
+          "Tom y su perro duermen en la misma habitación.",
+          "Tom and his dog sleep in the same room.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
-          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dijo",
+      "content": "vida",
       "translations": [
-        "said",
-        "told"
+        "life",
+        "lifetime",
+        "living"
       ],
-      "usageExamples": [
-        [
-          "Tom dijo que tú podrías ayudarme.",
-          "Tom said that you'd be able to help me.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Mary",
-      "translations": [
-        "Mary",
-        "Maria"
-      ],
-      "usageExamples": [
-        [
-          "Tom no cree que Mary tenga razón.",
-          "Tom doesn't think that Mary is right.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

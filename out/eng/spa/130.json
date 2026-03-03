@@ -1,26 +1,68 @@
 {
-  "sentence": "Yo también lo creo.",
+  "sentence": "Tom y María también estaban en el auto.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Ploomich (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I also think so."
+    "Tom and Mary were also in the car."
   ],
   "parts": [
     {
-      "content": "Yo",
+      "content": "Tom",
       "translations": [
-        "I",
-        "Me"
+        "Tom",
+        "Thomas"
       ],
       "usageExamples": [
         [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
+          "Tom es autónomo.",
+          "Tom is self-employed.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom terminó segundo.",
+          "Tom finished second.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "y",
+      "translations": [
+        "and",
+        "plus"
+      ],
+      "usageExamples": [
+        [
+          "Cantemos y bailemos.",
+          "Let's sing and dance.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El gran crítico y el poeta viajan juntos.",
+          "The great critic and the poet are traveling together.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Necesito tu pasaporte y tres fotos.",
+          "I need your passport and three pictures.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "María",
+      "translations": [
+        "Mary",
+        "Maria"
+      ],
+      "usageExamples": []
     },
     {
       "content": "también",
@@ -31,47 +73,77 @@
       ],
       "usageExamples": [
         [
+          "Yo también lo creo.",
+          "I also think so.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "Tom habla español, y Betty también.",
           "Tom speaks Spanish, and so does Betty.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom y María también estaban en el auto.",
-          "Tom and Mary were also in the car.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lo",
+      "content": "estaban",
       "translations": [
-        "the",
-        "it"
+        "they were",
+        "you all were",
+        "those were"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "to"
       ],
       "usageExamples": [
         [
-          "Nadie lo diría.",
-          "No one would say it.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Confío en él.",
+          "I have faith in him.",
+          ""
         ],
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Estoy en casa.",
+          "I am at home.",
+          ""
         ],
         [
-          "¿Sabes lo que dijo Mary?",
-          "Do you know what Mary said?",
+          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
+          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "creo",
+      "content": "el",
       "translations": [
-        "I believe",
-        "I think.",
-        "I create"
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
+          "That was the worst job Yanni had ever had.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ann le encanta el chocolate.",
+          "Ann loves chocolate.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Este es el color de las frambuesas.",
+          "This is the color of raspberries.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "auto",
+      "translations": [
+        "car",
+        "automobile"
       ],
       "usageExamples": []
     }

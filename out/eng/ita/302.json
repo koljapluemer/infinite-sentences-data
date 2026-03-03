@@ -1,110 +1,213 @@
 {
-  "sentence": "Di solito bevo molto latte.",
+  "sentence": "Cosa ti fa andare il cuore a tutta velocità?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Disconnect (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I usually drink a lot of milk."
+    "What makes your heart race?"
   ],
   "parts": [
     {
-      "content": "Di",
+      "content": "Cosa",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
       ],
       "usageExamples": [
         [
-          "Di tutti là, parlai meno.",
-          "Out of everyone there, I spoke the least.",
+          "Cosa avete consigliato?",
+          "What did you recommend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Di fatto l'uomo si arrabbiò.",
-          "In fact, the man got angry.",
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "solito",
+      "content": "ti",
       "translations": [
-        "usual",
-        "customary",
-        "habitual",
-        "regular"
+        "you",
+        "yourself",
+        "to you",
+        "for you"
       ],
       "usageExamples": [
         [
-          "I problemi di solito non vanno via da soli.",
-          "Problems don't usually go away by themselves.",
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tua moglie ti sta tradendo.",
+          "Your wife is cheating on you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bevo",
+      "content": "fa",
       "translations": [
-        "I drink.",
-        "I am drinking",
-        "I do drink"
+        "do",
+        "make",
+        "perform",
+        "act"
+      ],
+      "usageExamples": [
+        [
+          "Tom fa un bagno almeno tre volte a settimana.",
+          "Tom takes a bath at least three times a week.",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi fa piacere che le piaccia.",
+          "I'm glad you like him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciò che si fa è più importante di ciò che si dice.",
+          "What you do is more important than what you say.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "andare",
+      "translations": [
+        "to go",
+        "to walk",
+        "to move",
+        "to travel"
+      ],
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cuore",
+      "translations": [
+        "heart",
+        "core",
+        "center",
+        "essence"
+      ],
+      "usageExamples": [
+        [
+          "Tom è di buon cuore.",
+          "Tom has a good heart.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tutta",
+      "translations": [
+        "all",
+        "whole",
+        "entire",
+        "complete"
+      ],
+      "usageExamples": [
+        [
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "100 euro per tutta la giornata.",
+          "100 euros for the whole day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "velocità",
+      "translations": [
+        "speed",
+        "velocity",
+        "rate of motion",
+        "pace"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "molto",
-      "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
-      ],
-      "usageExamples": [
-        [
-          "Vi manca molto, vero?",
-          "You miss her a lot, don't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È molto bello rivedervi.",
-          "It is very nice to see you again.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "latte",
-      "translations": [
-        "milk",
-        "dairy milk",
-        "cow's milk",
-        "liquid milk"
-      ],
-      "usageExamples": [
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piace il latte nel suo caffè.",
-          "Mary doesn't like milk in her coffee.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
-          "Would you mind if I drank the rest of the milk?",
-          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

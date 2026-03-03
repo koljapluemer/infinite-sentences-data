@@ -1,73 +1,113 @@
 {
-  "sentence": "Sei un testimone.",
+  "sentence": "Saranno arrivate a Morioka per mezzogiorno.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You are a witness."
+    "They will have arrived at Morioka by noon."
   ],
   "parts": [
     {
-      "content": "Sei",
+      "content": "Saranno",
       "translations": [
-        "You are",
-        "You exist",
-        "You live",
-        "You are being"
+        "They will be",
+        "There will be",
+        "They are going to be",
+        "It will be"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "arrivate",
+      "translations": [
+        "arrive",
+        "you arrive",
+        "you have arrived",
+        "arrived"
       ],
       "usageExamples": [
         [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei speciale per me.",
-          "You're special to me.",
+          "A che ora arrivate al lavoro?",
+          "What time do you arrive at work?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "a",
       "translations": [
+        "an",
         "one",
-        "a",
-        "an"
+        "each"
       ],
       "usageExamples": [
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Vado a trovare un'amica.",
           "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Morioka",
+      "translations": [
+        "City of Morioka",
+        "Morioka City",
+        "Morioka Prefecture"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Beviamo un'altra birra.",
-          "Let's have another beer.",
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "testimone",
+      "content": "mezzogiorno",
       "translations": [
-        "witness",
-        "testifier",
-        "evidence",
-        "attester"
+        "noon",
+        "midday",
+        "12 PM",
+        "midday time"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "La lasciai dormire fino a mezzogiorno.",
+          "I let her sleep until noon.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

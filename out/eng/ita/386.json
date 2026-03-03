@@ -1,54 +1,48 @@
 {
-  "sentence": "Ho ammesso la sconfitta.",
+  "sentence": "Hai guardato la partita?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I admitted defeat."
+    "Did you watch the game?"
   ],
   "parts": [
     {
-      "content": "Ho",
+      "content": "Hai",
       "translations": [
-        "I have",
-        "I possess",
-        "I hold",
-        "I own"
+        "Yes.",
+        "Yeah",
+        "Yep.",
+        "Affirmative"
       ],
       "usageExamples": [
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho letto un fumetto.",
-          "I read a comic book.",
+          "Hai già visto il campus?",
+          "Have you seen the campus yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho abbastanza amici.",
-          "I have enough friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ammesso",
+      "content": "guardato",
       "translations": [
-        "admitted",
-        "allowed",
-        "accepted",
-        "permitted"
+        "watched",
+        "looked at",
+        "observed",
+        "seen"
       ],
-      "usageExamples": [
-        [
-          "Mary ha ammesso che era colpevole.",
-          "Mary admitted she was guilty.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "la",
@@ -60,31 +54,37 @@
       ],
       "usageExamples": [
         [
-          "Cosa la sta causando?",
-          "What's causing it?",
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Frequentiamo la scuola statale.",
-          "We attend state school.",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sconfitta",
+      "content": "partita",
       "translations": [
-        "defeat",
-        "loss",
-        "setback",
-        "failure"
+        "match",
+        "game",
+        "part",
+        "session"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ha perso la partita.",
+          "You lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,95 +1,74 @@
 {
-  "sentence": "Lasci andare il ragazzo.",
+  "sentence": "La potrebbe ferire.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let the boy go."
+    "He might hurt her."
   ],
   "parts": [
     {
-      "content": "Lasci",
+      "content": "La",
       "translations": [
-        "Leave",
-        "Let go",
-        "Abandon",
-        "Allow"
+        "The",
+        "It",
+        "Her",
+        "Them"
+      ],
+      "usageExamples": [
+        [
+          "La detesta assolutamente.",
+          "He absolutely detests her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La dovete avvertire.",
+          "You've got to warn her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "potrebbe",
+      "translations": [
+        "could",
+        "might",
+        "may",
+        "can"
+      ],
+      "usageExamples": [
+        [
+          "Chi potrebbe incolparci?",
+          "Who could blame us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pensa che Tom potrebbe avere ragione?",
+          "Do you think Tom might be correct?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mark potrebbe piacere Jessica.",
+          "Mark might like Jessica.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ferire",
+      "translations": [
+        "to strike",
+        "to hit",
+        "to wound",
+        "to injure"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "andare",
-      "translations": [
-        "to go",
-        "to walk",
-        "to move",
-        "to travel"
-      ],
-      "usageExamples": [
-        [
-          "Devo andare a trovarli.",
-          "I must go and find them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha acconsentito ad andare a Boston con lei.",
-          "He agreed to go to Boston with her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Non conosco il sistema.",
-          "I don't know the system.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi piace il reggae.",
-          "I like reggae.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ragazzo",
-      "translations": [
-        "boy",
-        "young man",
-        "guy",
-        "lad"
-      ],
-      "usageExamples": [
-        [
-          "Lo conosci il ragazzo nella foto?",
-          "Do you know the boy in the picture?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ai miei genitori non piace il mio ragazzo.",
-          "My parents don't like my boyfriend.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

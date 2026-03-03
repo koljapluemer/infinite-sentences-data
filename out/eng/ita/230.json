@@ -1,57 +1,105 @@
 {
-  "sentence": "Apri la cassaforte.",
+  "sentence": "Adesso che abbiamo mangiato, andiamo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by zumley (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Open the safe."
+    "Now that we have eaten, let's go."
   ],
   "parts": [
     {
-      "content": "Apri",
+      "content": "Adesso",
       "translations": [
-        "Open",
-        "Access",
-        "Reveal"
+        "Now",
+        "Right now",
+        "At this moment",
+        "Currently"
       ],
       "usageExamples": []
     },
     {
-      "content": "la",
+      "content": "che",
       "translations": [
-        "the",
         "that",
         "which",
-        "those"
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Frequentiamo la scuola statale.",
-          "We attend state school.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cassaforte",
+      "content": "abbiamo",
       "translations": [
-        "safe",
-        "vault",
-        "lockbox",
-        "strongbox"
+        "we have",
+        "we've got",
+        "we possess"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pensi che abbiamo convinto Tom?",
+          "Do you think we convinced Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mangiato",
+      "translations": [
+        "eaten",
+        "consumed",
+        "devoured",
+        "ingested"
+      ],
+      "usageExamples": [
+        [
+          "Io non ho ancora mangiato niente oggi.",
+          "I haven't eaten anything yet today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "andiamo",
+      "translations": [
+        "let's go",
+        "we go",
+        "come on",
+        "let's move"
+      ],
+      "usageExamples": [
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

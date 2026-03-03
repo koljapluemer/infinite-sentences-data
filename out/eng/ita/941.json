@@ -1,73 +1,180 @@
 {
-  "sentence": "Sta mangiando del gelato.",
+  "sentence": "Sono sicura che Tom amerà il tuo regalo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She's eating ice cream."
+    "I'm sure Tom will love your present."
   ],
   "parts": [
     {
-      "content": "Sta",
+      "content": "Sono",
       "translations": [
-        "is",
-        "stands",
-        "stays",
-        "remains"
+        "I am.",
+        "We are",
+        "They are.",
+        "You are"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sicura",
+      "translations": [
+        "safe",
+        "secure",
+        "sure",
+        "reliable"
       ],
       "usageExamples": [
         [
-          "Sta guidando.",
-          "He's driving.",
+          "Io sono sicura che Tom sarà di ritorno.",
+          "I'm sure Tom will be back.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mangiando",
+      "content": "che",
       "translations": [
-        "eating",
-        "while eating",
-        "during eating",
-        "in the act of eating"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "del",
-      "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Yanni comprò del cibo.",
-          "Yanni bought some food.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non gli feci mai del male.",
-          "I never harmed him.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è lamentato del rumore eccessivo.",
-          "Tom complained about the excessive noise.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gelato",
+      "content": "Tom",
       "translations": [
-        "ice cream",
-        "Italian ice cream",
-        "frozen dessert"
+        "Thomas",
+        "Tommy"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra impegnato.",
+          "Tom seems busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "amerà",
+      "translations": [
+        "he/she will love",
+        "you will love",
+        "it will love"
+      ],
+      "usageExamples": [
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tuo",
+      "translations": [
+        "your",
+        "yours",
+        "of yours"
+      ],
+      "usageExamples": [
+        [
+          "A te piace il tuo appartamento nuovo?",
+          "Do you like your new apartment?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Riconosco il tuo contributo per tenere pulita la cucina.",
+          "I recognize your contribution to keeping the kitchen clean.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta contando sul tuo aiuto.",
+          "Tom is counting on your help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "regalo",
+      "translations": [
+        "gift",
+        "present",
+        "offering",
+        "donation"
+      ],
+      "usageExamples": [
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per ringraziarti, ecco un regalo.",
+          "To thank you, here is a gift.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha ricevuto il mio regalo?",
+          "Did you get my gift?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

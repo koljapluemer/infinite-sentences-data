@@ -1,54 +1,31 @@
 {
-  "sentence": "Questo messaggio non ha senso.",
+  "sentence": "Quella gonna non è troppo corta?",
   "credits": [
-    "Sentence from Tatoeba by iltrex (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This message doesn't make sense."
+    "Isn't that skirt too short?"
   ],
   "parts": [
     {
-      "content": "Questo",
+      "content": "Quella",
       "translations": [
-        "This",
-        "This one",
-        "This thing",
-        "This item"
+        "that one",
+        "that",
+        "the one",
+        "the one over there"
       ],
-      "usageExamples": [
-        [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo è un occhio.",
-          "This is an eye.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo è un test?",
-          "Is this a test?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "messaggio",
+      "content": "gonna",
       "translations": [
-        "message",
-        "note",
-        "communication",
-        "notification"
+        "going to",
+        "will",
+        "about to"
       ],
-      "usageExamples": [
-        [
-          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
-          "Tom received an urgent message to call his wife.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "non",
@@ -65,49 +42,76 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Yanni non comprende l'Islam.",
           "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Preferirei non farlo.",
-          "I'd rather not do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "è",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Un cane ha corso.",
-          "A dog ran.",
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è americano?",
+          "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha già finito?",
-          "Are you through yet?",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "senso",
+      "content": "troppo",
       "translations": [
-        "sense",
-        "meaning",
-        "feeling",
-        "perception"
+        "too much",
+        "excessively",
+        "overly",
+        "very"
+      ],
+      "usageExamples": [
+        [
+          "State guidando decisamente troppo veloce.",
+          "You're driving way too fast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Potrebbe funzionare, però è troppo rischioso.",
+          "That might work, but it's too risky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non fidarti troppo di Tom.",
+          "Don't trust Tom too much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "corta",
+      "translations": [
+        "short",
+        "cut",
+        "brief",
+        "truncate"
       ],
       "usageExamples": []
     }

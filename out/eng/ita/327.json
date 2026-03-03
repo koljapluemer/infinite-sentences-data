@@ -1,76 +1,83 @@
 {
-  "sentence": "Era occupato ieri?",
+  "sentence": "Dovette pulire la cucina.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Conjuice (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Were you busy yesterday?"
+    "He had to clean the kitchen."
   ],
   "parts": [
     {
-      "content": "Era",
+      "content": "Dovette",
       "translations": [
-        "Period",
-        "Age",
-        "Epoch"
+        "Should have",
+        "Ought to have",
+        "Had to",
+        "Was supposed to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "pulire",
+      "translations": [
+        "to clean",
+        "to tidy up",
+        "to purify",
+        "to polish"
       ],
       "usageExamples": [
         [
-          "Era un libro nuovo.",
-          "It was a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era eroico.",
-          "He was heroic.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era sposato con lei.",
-          "He used to be married to her.",
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "occupato",
+      "content": "la",
       "translations": [
-        "busy",
-        "occupied",
-        "engaged",
-        "taken"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Perché Tom è sempre così occupato?",
-          "Why is Tom always so busy?",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ieri",
+      "content": "cucina",
       "translations": [
-        "yesterday",
-        "the day before today",
-        "the previous day"
+        "kitchen",
+        "cooking area",
+        "culinary space",
+        "kitchenette"
       ],
       "usageExamples": [
         [
-          "Sono andato all'ospedale ieri.",
-          "I went to the hospital yesterday.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ci sono andata l'altro ieri.",
-          "I went there the day before yesterday.",
+          "È uscito dalla cucina.",
+          "He got out of the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Siamo arrivati ieri in treno.",
-          "We arrived yesterday afternoon by train.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+          "Riconosco il tuo contributo per tenere pulita la cucina.",
+          "I recognize your contribution to keeping the kitchen clean.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     }

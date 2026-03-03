@@ -1,11 +1,11 @@
 {
-  "sentence": "A che ora arrivate al lavoro?",
+  "sentence": "A Mary piace ciò che fa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What time do you arrive at work?"
+    "Mary likes what she does."
   ],
   "parts": [
     {
@@ -17,7 +17,7 @@
       ],
       "usageExamples": [
         [
-          "A Judy piace.",
+          "A Judy piace lui.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
@@ -27,8 +27,84 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ciò",
+      "translations": [
+        "this",
+        "that",
+        "it",
+        "the thing"
+      ],
+      "usageExamples": [
+        [
+          "A Mary piace ciò che vede.",
+          "Mary likes what she sees.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva ciò che vide.",
+          "Mary didn't like what she saw.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva ciò che ha visto.",
+          "Mary didn't like what she saw.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -43,11 +119,6 @@
       ],
       "usageExamples": [
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "È quello che sono.",
           "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,100 +127,37 @@
           "Disse che lo amava.",
           "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ora",
-      "translations": [
-        "now",
-        "hour",
-        "time",
-        "moment"
-      ],
-      "usageExamples": [
-        [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi non possiamo farlo ora.",
-          "We can't do it now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non sta capitando ora?",
-          "Why isn't that happening now?",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "arrivate",
+      "content": "fa",
       "translations": [
-        "arrive",
-        "you arrive",
-        "you have arrived",
-        "arrived"
+        "do",
+        "make",
+        "perform",
+        "act"
       ],
       "usageExamples": [
         [
-          "Saranno arrivate a Morioka per mezzogiorno.",
-          "They will have arrived at Morioka by noon.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "al",
-      "translations": [
-        "to the",
-        "at the",
-        "in the",
-        "for the"
-      ],
-      "usageExamples": [
-        [
-          "Rispondete al dannato telefono!",
-          "Answer the damn phone!",
+          "Mi fa piacere che le piaccia.",
+          "I'm glad you like it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
+          "4 per 4 fa 16",
+          "4 times 4 is 16.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami lavorava al ristorante.",
-          "Sami used to work at the restaurant.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "lavoro",
-      "translations": [
-        "work",
-        "job",
-        "labor",
-        "employment"
-      ],
-      "usageExamples": [
-        [
-          "A Mary non piace il suo nuovo lavoro.",
-          "Mary doesn't like her new job.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piaceva il suo lavoro.",
-          "Mary didn't enjoy her job.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Giusto, cominciamo il nostro lavoro.",
-          "Right, let's start our work.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Come si fa a sentirlo?",
+          "How can you hear him?",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ]
       ]
     }

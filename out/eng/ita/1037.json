@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom tradusse il contratto in francese.",
+  "sentence": "Tom si è addolcito.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom translated the contract into French."
+    "Tom relented."
   ],
   "parts": [
     {
@@ -16,108 +16,83 @@
       ],
       "usageExamples": [
         [
-          "Tom non cambia mai.",
-          "Tom never changes.",
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha molti amici?",
-          "Does Tom have a lot of friends?",
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tradusse",
+      "content": "si",
       "translations": [
-        "he/she translated",
-        "he/she rendered",
-        "he/she conveyed",
-        "he/she interpreted"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è divertito.",
+          "Tom had fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è lamentato del rumore eccessivo.",
+          "Tom complained about the excessive noise.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Lei è americano?",
+          "Are you American?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "addolcito",
+      "translations": [
+        "sweetened",
+        "made sweet",
+        "sweetened up",
+        "sugared"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non conosco il sistema.",
-          "I don't know the system.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "contratto",
-      "translations": [
-        "contract",
-        "agreement",
-        "contractual agreement",
-        "deal"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "inside",
-        "within",
-        "into"
-      ],
-      "usageExamples": [
-        [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È stata in piedi?",
-          "Did you stand up?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tutti erano in ansia.",
-          "Everyone was apprehensive.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "francese",
-      "translations": [
-        "French",
-        "French language",
-        "French person",
-        "French cuisine"
-      ],
-      "usageExamples": [
-        [
-          "Tom e Mary studiano il francese ogni sera per trenta minuti.",
-          "Tom and Mary study French every evening for thirty minutes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

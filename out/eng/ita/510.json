@@ -1,143 +1,87 @@
 {
-  "sentence": "L'amore non è la mia strada.",
+  "sentence": "Io sto diventando piccolo!",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Love is not my path."
+    "I am getting small!"
   ],
   "parts": [
     {
-      "content": "L'amore",
+      "content": "Io",
       "translations": [
-        "Love",
-        "The love",
-        "Affection",
-        "Romance"
+        "I",
+        "me",
+        "myself"
+      ],
+      "usageExamples": [
+        [
+          "Io ero lì.",
+          "I was there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io l'ho comprata.",
+          "I bought it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sto",
+      "translations": [
+        "I stand",
+        "I am standing",
+        "I stay",
+        "I am staying"
+      ],
+      "usageExamples": [
+        [
+          "Mi sto riposando ora.",
+          "I'm resting now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sto per andare in vacanza.",
+          "I'm about to go on vacation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "diventando",
+      "translations": [
+        "becoming",
+        "turning into",
+        "growing into",
+        "evolving into"
       ],
       "usageExamples": []
     },
     {
-      "content": "non",
+      "content": "piccolo",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "small",
+        "little",
+        "tiny",
+        "petite"
       ],
       "usageExamples": [
         [
-          "Però non funzionerà!",
-          "But that won't work!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
-      ],
-      "usageExamples": [
-        [
-          "Tom è famoso.",
-          "Tom is famous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è divertito.",
-          "Tom had a good time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "La risposta è complicata.",
-          "The answer is complicated.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Prendi la mia.",
-          "Take mine.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai guardato la partita?",
-          "Did you watch the game?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mia",
-      "translations": [
-        "my",
-        "mine",
-        "belonging to me"
-      ],
-      "usageExamples": [
-        [
-          "Amo molto mia madre.",
-          "I love my mother very much.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Prendi la mia.",
-          "Take mine.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho passato tutta la mattina a pulire la mia camera.",
-          "I've spent the entire morning cleaning my room.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "strada",
-      "translations": [
-        "road",
-        "street",
-        "way",
-        "route"
-      ],
-      "usageExamples": [
-        [
-          "La nuova strada sta venendo costruita.",
-          "The new street is being built.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "La vita è una lunga, lunga strada.",
-          "Life is a long, long road.",
-          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+          "Il mio giardino è piccolo.",
+          "My garden is small.",
+          "Sentence from Tatoeba by VPZ (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary sa che cosa vuole dire.",
+  "sentence": "Mary ha aspettato che Tom la chiamasse.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary knows what she wants to say."
+    "Mary has been waiting for Tom to call her."
   ],
   "parts": [
     {
@@ -17,47 +17,56 @@
       ],
       "usageExamples": [
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary piace Tom, ma a lui non piace lei.",
-          "Mary likes Tom, but he doesn't like her.",
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sa",
+      "content": "ha",
       "translations": [
-        "if",
-        "whether",
-        "that",
-        "as"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Tom non sa nulla a riguardo della situazione.",
-          "Tom doesn't know anything about the situation.",
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non sa che sono giapponese.",
-          "She doesn't know that I'm Japanese.",
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sa come si sente Mary a riguardo.",
-          "Tom knows how Mary feels about that.",
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "aspettato",
+      "translations": [
+        "waited",
+        "expected",
+        "anticipated",
+        "looked forward to"
+      ],
+      "usageExamples": []
     },
     {
       "content": "che",
@@ -69,8 +78,8 @@
       ],
       "usageExamples": [
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -79,79 +88,70 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said that she loved him.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cosa",
+      "content": "Tom",
       "translations": [
-        "thing",
-        "item",
-        "object",
-        "matter"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cos'è quella cosa là?",
-          "What's that thing there?",
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vuole",
+      "content": "la",
       "translations": [
-        "wants",
-        "desires",
-        "wishes",
-        "intends"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Non vuole fermarla.",
-          "He doesn't want to stop her.",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Lui accese la radio.",
+          "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Shloyme vuole essere uno scrittore.",
-          "Shloyme wants to be a writer.",
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dire",
+      "content": "chiamasse",
       "translations": [
-        "to say",
-        "to tell",
-        "to speak",
-        "to express"
+        "he/she/it would call",
+        "he/she/it might call",
+        "he/she/it was calling"
       ],
-      "usageExamples": [
-        [
-          "Tom voleva dire di no.",
-          "Tom wanted to say no.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

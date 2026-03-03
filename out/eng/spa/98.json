@@ -1,49 +1,74 @@
 {
-  "sentence": "Quiero oír lo que dice Tom.",
+  "sentence": "Pretendo decirle a Tom que no quiero ir.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I want to hear what Tom says."
+    "I plan to tell Tom that I don't want to go."
   ],
   "parts": [
     {
-      "content": "Quiero",
+      "content": "Pretendo",
       "translations": [
-        "I want",
-        "I would like"
+        "I intend",
+        "I plan",
+        "I aim",
+        "I expect"
       ],
       "usageExamples": []
     },
     {
-      "content": "oír",
+      "content": "decirle",
       "translations": [
-        "to hear",
-        "to listen"
+        "to tell him/her",
+        "to say to him/her"
       ],
       "usageExamples": []
     },
     {
-      "content": "lo",
+      "content": "a",
       "translations": [
-        "the",
-        "it"
+        "to"
       ],
       "usageExamples": [
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
+          "Llegaste a tiempo.",
+          "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Nadie lo diría.",
-          "No one would say it.",
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Yo también lo creo.",
-          "I also think so.",
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Tom",
+        "Thomas"
+      ],
+      "usageExamples": [
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom es autónomo.",
+          "Tom is self-employed.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom terminó segundo.",
+          "Tom finished second.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -61,8 +86,50 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
+          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
+          "That was the worst job Yanni had ever had.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom no cree que Mary tenga razón.",
+          "Tom doesn't think that Mary is right.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "no",
+      "translations": [
+        "not"
+      ],
+      "usageExamples": [
+        [
+          "Tomás no tiene hambre.",
+          "Tom's not hungry.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "quiero",
+      "translations": [
+        "I want",
+        "I would like"
+      ],
+      "usageExamples": [
+        [
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -73,36 +140,12 @@
       ]
     },
     {
-      "content": "dice",
+      "content": "ir",
       "translations": [
-        "says",
-        "tells"
+        "to go",
+        "to be going"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Tom",
-        "Thomas"
-      ],
-      "usageExamples": [
-        [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom terminó segundo.",
-          "Tom finished second.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se pegó un tiro en la cabeza.",
-          "Tom shot himself in the head.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

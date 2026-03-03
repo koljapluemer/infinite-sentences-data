@@ -1,63 +1,133 @@
 {
-  "sentence": "No quiero molestarte.",
+  "sentence": "No hay nada más qué decir.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't want to disturb you."
+    "There's nothing more to be said."
   ],
   "parts": [
     {
-      "content": "no",
+      "content": "No",
+      "translations": [
+        "No.",
+        "Not",
+        "Nope."
+      ],
+      "usageExamples": [
+        [
+          "No quiero ir.",
+          "I don't want to leave.",
+          ""
+        ],
+        [
+          "No tengo tiempo.",
+          "I'm out of time.",
+          ""
+        ],
+        [
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hay",
+      "translations": [
+        "there is",
+        "there are",
+        "there exists"
+      ],
+      "usageExamples": [
+        [
+          "No hay nadie en la entrada.",
+          "There's no one at the entrance.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nada",
       "translations": [
         "not"
       ],
       "usageExamples": [
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
+          "Tom no me gusta para nada.",
+          "I don't like Tom at all.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
           "Ella solo finge que no le importa nada.",
           "She only pretends to not care about anything.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom no me gusta para nada.",
-          "I don't like Tom at all.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quiero",
+      "content": "más",
       "translations": [
-        "I want",
-        "I would like"
+        "more",
+        "most",
+        "plus"
       ],
       "usageExamples": [
         [
-          "Pretendo decirle a Tom que no quiero ir.",
-          "I plan to tell Tom that I don't want to go.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Necesito más tiempo.",
+          "I require additional time.",
+          ""
         ],
         [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
+          "Quiero más comida.",
+          "I want more food.",
+          ""
+        ],
+        [
+          "¿Dónde está la parada de colectivos más cercana?",
+          "Where's the nearest bus stop?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molestarte",
+      "content": "qué",
       "translations": [
-        "to bother you",
-        "to disturb you",
-        "to trouble you"
+        "what"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "No sé para qué me he levantado tan temprano.",
+          "I don't know why I got up so early.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "decir",
+      "translations": [
+        "to say",
+        "to tell",
+        "to speak"
+      ],
+      "usageExamples": [
+        [
+          "Es difícil decir qué es lo correcto en esta situación.",
+          "It's challenging to know what the right thing is in this situation.",
+          ""
+        ],
+        [
+          "¿Puedes decirme la hora, por favor?",
+          "Please tell me what time it is.",
+          ""
+        ]
+      ]
     }
   ]
 }

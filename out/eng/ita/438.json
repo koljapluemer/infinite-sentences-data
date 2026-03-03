@@ -1,11 +1,11 @@
 {
-  "sentence": "Il tempo è finito.",
+  "sentence": "Il mio hobby è la musica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Time is up."
+    "My hobby is music."
   ],
   "parts": [
     {
@@ -16,46 +16,56 @@
       ],
       "usageExamples": [
         [
-          "Il gatto mangia.",
-          "The cat eats.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Il libro è arrivato.",
           "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mio",
+      "translations": [
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
+      ],
+      "usageExamples": [
+        [
+          "È mio nemico.",
+          "He's my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
+          "Dove ha portato il mio lenzuolo?",
+          "Where did you take my blanket?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorrei cambiare il mio biglietto.",
+          "I'd like to change my ticket.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tempo",
+      "content": "hobby",
       "translations": [
-        "time",
-        "weather",
-        "period"
+        "pastime",
+        "leisure activity",
+        "recreational pursuit"
       ],
-      "usageExamples": [
-        [
-          "Quanto tempo ci è voluto per tradurre questo libro?",
-          "How long did it take us to translate this book?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era una corsa contro il tempo.",
-          "It was a race against time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
-          "Only time will tell what the world has in store for us.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "è",
@@ -67,40 +77,71 @@
       ],
       "usageExamples": [
         [
-          "Questo è un test?",
-          "Is this a test?",
+          "Il tempo è finito.",
+          "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è ovviamente arrabbiato.",
-          "Tom is obviously angry.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è famoso.",
-          "Tom's famous.",
+          "Il libro è arrivato.",
+          "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "finito",
+      "content": "la",
       "translations": [
-        "finished",
-        "done",
-        "completed",
-        "over"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Lei ha già finito?",
-          "Have you already finished?",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "musica",
+      "translations": [
+        "music",
+        "musical piece",
+        "tune",
+        "song"
+      ],
+      "usageExamples": [
+        [
+          "Che musica ascoltate?",
+          "What music do you listen to?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken piace molto la musica.",
+          "Ken likes music very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Robert piace la musica classica.",
+          "Robert likes classical music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,32 +1,28 @@
 {
-  "sentence": "Lo llamé al llegar a Tokio.",
+  "sentence": "Le pedí al mayordomo que nos sirviese un café.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sangelo (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "On arriving in Tokyo, I called him up."
+    "I asked the butler to serve us some coffee."
   ],
   "parts": [
     {
-      "content": "Lo",
+      "content": "Le",
       "translations": [
         "The",
+        "Him",
+        "Her",
         "It"
       ],
-      "usageExamples": [
-        [
-          "¿Lo pillas?",
-          "Got it?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "llamé",
+      "content": "pedí",
       "translations": [
-        "I called.",
-        "I called up"
+        "I asked",
+        "I requested"
       ],
       "usageExamples": []
     },
@@ -39,65 +35,103 @@
       ],
       "usageExamples": [
         [
-          "Tom va a la biblioteca al menos una vez por mes.",
-          "Tom goes to the library at least once a month.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Repetirás esta oración cinco veces al día.",
-          "You'll repeat this sentence five times a day.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
-          "Hunger compelled the boy to steal money from the cash register.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "llegar",
-      "translations": [
-        "to arrive",
-        "to come",
-        "to reach"
-      ],
-      "usageExamples": [
-        [
           "Debes llegar al trabajo a tiempo.",
           "You ought to get to work on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Una pequeña caminata me trajo al lago.",
+          "A short walk brought me to the lake.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "a",
+      "content": "mayordomo",
       "translations": [
-        "to"
+        "butler",
+        "steward",
+        "house manager",
+        "foreman"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "que",
+      "translations": [
+        "that",
+        "which"
       ],
       "usageExamples": [
         [
-          "Escriba a su congresista.",
-          "Write your congressman.",
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Llegaste a tiempo.",
-          "You arrived on time.",
+          "Tom no cree que Mary tenga razón.",
+          "Tom doesn't think that Mary is right.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
+          "Dijo que tenía mucho dinero.",
+          "He said that he had a lot of money.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tokio",
+      "content": "nos",
       "translations": [
-        "Tokyo",
-        "City of Tokyo"
+        "us",
+        "we"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sirviese",
+      "translations": [
+        "served",
+        "was serving",
+        "would serve"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "a",
+        "one",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Tenemos un horario apretado.",
+          "We have a tight schedule.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Necesito un libro.",
+          "I need to get a book.",
+          ""
+        ],
+        [
+          "Francois dio un discurso.",
+          "François gave a speech.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "café",
+      "translations": [
+        "coffee",
+        "café"
       ],
       "usageExamples": []
     }

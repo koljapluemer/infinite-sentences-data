@@ -1,52 +1,90 @@
 {
-  "sentence": "Nadie piensa eso.",
+  "sentence": "Mi padre maneja muy bien.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "No one thinks that."
+    "My father drives very well."
   ],
   "parts": [
     {
-      "content": "Nadie",
+      "content": "Mi",
       "translations": [
-        "nobody",
-        "no one",
-        "anyone",
-        "naught"
+        "Me",
+        "Myself"
       ],
       "usageExamples": [
         [
-          "Nadie lo diría.",
-          "No one would say it.",
+          "Mi intención no fue ofender.",
+          "No offense was meant.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
+          "My son thinks that bats are reptiles because they're like pteranodons.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi hermano lo hizo en mi nombre.",
+          "My brother did it on my behalf.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piensa",
+      "content": "padre",
       "translations": [
-        "think",
-        "consider",
-        "believe",
-        "reflect"
+        "father",
+        "dad",
+        "parent"
       ],
       "usageExamples": []
     },
     {
-      "content": "eso",
+      "content": "maneja",
       "translations": [
-        "that",
-        "it"
+        "drives",
+        "handles",
+        "manages",
+        "operates"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "muy",
+      "translations": [
+        "very",
+        "really",
+        "quite"
       ],
       "usageExamples": [
         [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
+          "Fue muy decepcionante.",
+          "It was very upsetting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me siento muy enfermo.",
+          "I feel very sick.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El tiempo está muy malo.",
+          "The weather is very bad.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "bien",
+      "translations": [
+        "well",
+        "good",
+        "fine",
+        "alright"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,20 +1,126 @@
 {
-  "sentence": "Vieni in Albania, dove trovi sempre del caffè ottimo.",
+  "sentence": "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
   "credits": [
-    "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Ylberi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Come to Albania, where we always make good coffee."
+    "A son would represent continuity in a rapidly changing world."
   ],
   "parts": [
     {
-      "content": "Vieni",
+      "content": "Un",
       "translations": [
-        "Come",
-        "Come here.",
-        "Come over",
-        "Join us."
+        "One",
+        "A",
+        "An"
+      ],
+      "usageExamples": [
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un crimine è stato commesso.",
+          "A crime has been committed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un gruppo di gangster ha rubato del denaro.",
+          "A group of gangsters stole money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "figlio",
+      "translations": [
+        "son",
+        "child",
+        "offspring",
+        "descendant"
+      ],
+      "usageExamples": [
+        [
+          "A Mary mancava suo figlio.",
+          "Mary missed her son.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "avrebbe",
+      "translations": [
+        "would have",
+        "would possess",
+        "would hold"
+      ],
+      "usageExamples": [
+        [
+          "Avrebbe dovuto chiedere a lui prima.",
+          "You should've asked him first.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha detto che mi avrebbe aiutata a farlo.",
+          "She said she'd help me do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
+          "Tom should've closed all his windows.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "rappresentato",
+      "translations": [
+        "represented",
+        "portrayed",
+        "depicted",
+        "shown"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "She lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "continuità",
+      "translations": [
+        "continuity",
+        "continuation",
+        "consistency",
+        "perpetuity"
       ],
       "usageExamples": []
     },
@@ -27,8 +133,8 @@
       ],
       "usageExamples": [
         [
-          "Noi siamo in Finlandia.",
-          "We are in Finland.",
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -44,137 +150,81 @@
       ]
     },
     {
-      "content": "Albania",
+      "content": "un",
       "translations": [
-        "the Republic of Albania",
-        "Albanian territory",
-        "Albanian state"
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono un tipo solitario.",
+          "I'm a loner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mondo",
+      "translations": [
+        "world",
+        "universe",
+        "earth",
+        "society"
+      ],
+      "usageExamples": [
+        [
+          "Il mondo cambia ogni giorno.",
+          "The world changes every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "1,3 miliardi di persone in tutto il mondo non hanno accesso all'elettricità.",
+          "1.3 billion people around the world lack access to electricity.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
+          "Only time will tell what the world has in store for us.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "rapido",
+      "translations": [
+        "fast",
+        "quick",
+        "swift",
+        "speedy"
       ],
       "usageExamples": []
     },
     {
-      "content": "dove",
+      "content": "cambiamento",
       "translations": [
-        "where",
-        "wherever",
-        "whither",
-        "to what place"
+        "change",
+        "transformation",
+        "modification",
+        "shift"
       ],
       "usageExamples": [
         [
-          "Avete visitato la città dove è nato vostro padre?",
-          "Have you visited the town where your father was born?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sami sa dove abita Layla.",
-          "Sami knows where Layla lives.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
-          "\"Where's your girlfriend from?\" \"She's Russian.\"",
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "trovi",
-      "translations": [
-        "find",
-        "locate",
-        "discover",
-        "come across"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sempre",
-      "translations": [
-        "always",
-        "forever",
-        "at all times",
-        "constantly"
-      ],
-      "usageExamples": [
-        [
-          "Perché Tom è sempre così occupato?",
-          "Why is Tom always so busy?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sono sempre stato un repubblicano.",
-          "I've always been a Republican.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È sempre in orario, vero?",
-          "He's always on time, isn't he?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "del",
-      "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
-      ],
-      "usageExamples": [
-        [
-          "Yanni comprò del cibo.",
-          "Yanni bought food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sta mangiando del gelato.",
-          "She's eating ice cream.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
-          "Would you mind if I drank the rest of the milk?",
-          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "caffè",
-      "translations": [
-        "coffee",
-        "café",
-        "espresso",
-        "java"
-      ],
-      "usageExamples": [
-        [
-          "Bevo solo caffè decaffeinato.",
-          "I only drink decaffeinated coffee.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Che ne dite di un po' di caffè?",
-          "How about some coffee?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ottimo",
-      "translations": [
-        "excellent",
-        "great",
-        "fantastic",
-        "superb"
-      ],
-      "usageExamples": []
     }
   ]
 }

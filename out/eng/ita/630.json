@@ -1,11 +1,14 @@
 {
-  "sentence": "Mary si è bruciata la mano.",
+  "sentence": "Mary ha detto che non ha fame.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary burned her hand."
+    "Mary said she isn't hungry.",
+    "Mary said she's not hungry.",
+    "Mary said that she isn't hungry.",
+    "Mary said that she's not hungry."
   ],
   "parts": [
     {
@@ -17,6 +20,11 @@
       ],
       "usageExamples": [
         [
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,124 +33,133 @@
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary piacciono anche le banane.",
-          "Mary also likes bananas.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "si",
+      "content": "ha",
       "translations": [
-        "if",
-        "whether",
-        "in case",
-        "provided that"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Tom si è divertito.",
-          "Tom had a good time.",
+          "L'ha salvata.",
+          "He rescued her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "detto",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
       ],
       "usageExamples": [
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Ti ho detto delle cose così orribili. Mi dispiace.",
+          "I said such horrible things to you. I'm sorry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è famoso.",
-          "Tom is famous.",
+          "A Mary fu detto che era troppo bassa.",
+          "Mary was told she was too short.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La matematica è divertente.",
-          "Math is fun.",
-          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+          "Tom mi ha detto che eravate felici.",
+          "Tom told me you were happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bruciata",
+      "content": "che",
       "translations": [
-        "burnt",
-        "scorched",
-        "charred",
-        "singed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
         "that",
         "which",
-        "those"
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dov'è la sua casa?",
-          "Where's his home?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mano",
+      "content": "non",
       "translations": [
-        "hand",
-        "palm",
-        "manual",
-        "handle"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Datele una mano, OK?",
-          "Give her a hand, will you?",
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io vorrei stringere la mano a Tom.",
-          "I'd like to shake Tom's hand.",
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha bisogno di una mano.",
-          "Tom needs a hand.",
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fame",
+      "translations": [
+        "hunger",
+        "appetite",
+        "starvation"
+      ],
+      "usageExamples": [
+        [
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mi chiese se avevo fame.",
+          "Tom asked me whether I was hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

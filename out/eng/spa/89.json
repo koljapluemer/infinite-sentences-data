@@ -1,11 +1,11 @@
 {
-  "sentence": "No sé para qué me he levantado tan temprano.",
+  "sentence": "No puedo creer que Tom me haría eso.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't know why I got up so early."
+    "I can't believe Tom would do that to me."
   ],
   "parts": [
     {
@@ -17,65 +17,83 @@
       ],
       "usageExamples": [
         [
-          "No quiero ir.",
-          "I refuse to go.",
-          ""
-        ],
-        [
           "No tengo tiempo.",
           "I'm out of time.",
           ""
         ],
         [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
+          "No quiero ir.",
+          "I don't want to go.",
+          ""
+        ],
+        [
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sé",
+      "content": "puedo",
       "translations": [
-        "I know.",
-        "I am.",
-        "be",
-        "I am aware"
+        "I can.",
+        "I am able to"
       ],
       "usageExamples": []
     },
     {
-      "content": "para",
+      "content": "creer",
       "translations": [
-        "to",
-        "using"
+        "to believe",
+        "to think",
+        "to create"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "que",
+      "translations": [
+        "that",
+        "which"
       ],
       "usageExamples": [
         [
-          "Es para ti.",
-          "This is for you.",
-          ""
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Voy para casa.",
-          "I'm on my way home.",
-          ""
+          "Hay una película que quiero ver por TV mañana en la noche.",
+          "There's a movie I want to watch on TV tomorrow night.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom no me gusta para nada.",
-          "I don't like Tom at all.",
+          "Estuve esperando por toda la mañana para que esto ocurriera.",
+          "I've been waiting all morning for this to happen.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qué",
+      "content": "Tom",
       "translations": [
-        "what"
+        "Tom",
+        "Thomas"
       ],
       "usageExamples": [
         [
-          "No hay nada más qué decir.",
-          "There's nothing more to be said.",
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom terminó segundo.",
+          "Tom finished second.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom es autónomo.",
+          "Tom is self-employed.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -92,9 +110,9 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom dijo que tú podrías ayudarme.",
-          "Tom said that you'd be able to help me.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Me gusta mucho el chocolate.",
+          "I'm a big fan of chocolate.",
+          ""
         ],
         [
           "Me llamaron para una entrevista de trabajo.",
@@ -104,44 +122,26 @@
       ]
     },
     {
-      "content": "he",
+      "content": "haría",
       "translations": [
-        "he",
-        "him"
+        "I would do",
+        "I would make"
       ],
       "usageExamples": []
     },
     {
-      "content": "levantado",
+      "content": "eso",
       "translations": [
-        "raised",
-        "lifted",
-        "up",
-        "elevated"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tan",
-      "translations": [
-        "so",
-        "such"
+        "that",
+        "it"
       ],
       "usageExamples": [
         [
-          "Agradecería que me respondiera tan pronto como le sea posible.",
-          "I would appreciate a reply as soon as possible.",
+          "Nadie piensa eso.",
+          "No one thinks that.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "temprano",
-      "translations": [
-        "early",
-        "soon"
-      ],
-      "usageExamples": []
     }
   ]
 }

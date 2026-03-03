@@ -1,137 +1,81 @@
 {
-  "sentence": "Che cosa c'è per cena?",
+  "sentence": "Bevo solo caffè decaffeinato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by SHamp (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's for dinner?",
-    "What's for supper?"
+    "I only drink decaffeinated coffee."
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "Bevo",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "I am drinking",
+        "I consume"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "solo",
+      "translations": [
+        "alone",
+        "only",
+        "just",
+        "single"
       ],
       "usageExamples": [
         [
-          "Che altro stai considerando?",
-          "What else are you considering?",
+          "Io sono solo curiosa.",
+          "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che altro vorresti?",
-          "What more would you want?",
+          "Io sospetto che Tom non faccia i compiti da solo.",
+          "I suspect that Tom doesn't do his homework by himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che fallito!",
-          "What a loser!",
+          "A Mary importava solo di se stessa.",
+          "Mary only cared about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "caffè",
+      "translations": [
+        "coffee",
+        "café",
+        "espresso",
+        "java"
+      ],
+      "usageExamples": [
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
+          "Come to Albania, where we always make good coffee.",
           "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cosa",
-      "translations": [
-        "thing",
-        "item",
-        "object",
-        "matter"
-      ],
-      "usageExamples": [
-        [
-          "Che cosa direste?",
-          "What would you say?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cos'è quella cosa là?",
-          "What's that thing there?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Ho bevuto del caffè questa mattina.",
+          "I drank coffee this morning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "c'è",
+      "content": "decaffeinato",
       "translations": [
-        "there is",
-        "there are",
-        "is there",
-        "there exists"
+        "decaffeinated",
+        "caffeine-free",
+        "decaf"
       ],
-      "usageExamples": [
-        [
-          "A Berlino c'è già stato.",
-          "You've already been to Berlin.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Berlino c'è già stata.",
-          "You've already been to Berlin.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "per",
-      "translations": [
-        "for",
-        "by",
-        "through"
-      ],
-      "usageExamples": [
-        [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hey, grazie per l'aiuto.",
-          "Hey, thanks for the help.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cena",
-      "translations": [
-        "dinner",
-        "supper",
-        "meal"
-      ],
-      "usageExamples": [
-        [
-          "Studio inglese dopo cena.",
-          "I study English after dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha a malapena toccato la sua cena.",
-          "He barely touched his dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A noi è piaciuta la cena.",
-          "We enjoyed the dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

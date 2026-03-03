@@ -1,11 +1,11 @@
 {
-  "sentence": "Me siento muy enfermo.",
+  "sentence": "Me gustaría tomar algo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by human600 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I feel very sick."
+    "I'd like something to drink."
   ],
   "parts": [
     {
@@ -16,14 +16,14 @@
       ],
       "usageExamples": [
         [
-          "Me gusta el café.",
-          "I like coffee.",
-          ""
+          "Me siento muy enfermo.",
+          "I feel very sick.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Me gustaría tomar algo.",
-          "I'd like something to drink.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Me gusta el café.",
+          "I enjoy coffee.",
+          ""
         ],
         [
           "Me importa una mierda.",
@@ -33,62 +33,35 @@
       ]
     },
     {
-      "content": "siento",
+      "content": "gustaría",
       "translations": [
-        "I feel",
-        "I sense",
-        "I perceive"
-      ],
-      "usageExamples": [
-        [
-          "Siento que es correcto.",
-          "I believe it's correct.",
-          ""
-        ],
-        [
-          "Me siento muy feliz.",
-          "I'm feeling quite joyful.",
-          ""
-        ],
-        [
-          "Aquí me siento muy solo.",
-          "I feel very lonely here.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "muy",
-      "translations": [
-        "very",
-        "really",
-        "quite"
-      ],
-      "usageExamples": [
-        [
-          "Fue muy decepcionante.",
-          "It was very upsetting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El té sabe muy amargo y no está bueno.",
-          "The tea is really bitter and doesn't taste good.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Fue una reunión muy larga.",
-          "It was a very long meeting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "enfermo",
-      "translations": [
-        "sick",
-        "ill"
+        "would like",
+        "would love",
+        "would enjoy"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "tomar",
+      "translations": [
+        "to take",
+        "to drink",
+        "to have"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "algo",
+      "translations": [
+        "something"
+      ],
+      "usageExamples": [
+        [
+          "Dime algo que no sepa.",
+          "Tell me something that I don't know.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,94 +1,90 @@
 {
-  "sentence": "Suggerirei di inserire una virgola.",
+  "sentence": "State guidando decisamente troppo veloce.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd suggest inserting a comma."
+    "You're driving way too fast."
   ],
   "parts": [
     {
-      "content": "Suggerirei",
+      "content": "State",
       "translations": [
-        "I would suggest",
-        "I would recommend",
-        "I suggest",
-        "I recommend"
+        "condition",
+        "situation",
+        "status",
+        "stage"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "guidando",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "driving",
+        "guiding",
+        "leading",
+        "steering"
       ],
       "usageExamples": [
         [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
+          "Sta guidando.",
+          "He's driving.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "inserire",
+      "content": "decisamente",
       "translations": [
-        "insert",
-        "add",
-        "include",
-        "put in"
+        "definitely",
+        "certainly",
+        "absolutely",
+        "decidedly"
       ],
       "usageExamples": []
     },
     {
-      "content": "una",
+      "content": "troppo",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "too much",
+        "excessively",
+        "overly",
+        "very"
       ],
       "usageExamples": [
         [
-          "Scriva una risposta.",
-          "Write an answer.",
+          "A Mary fu detto che era troppo bassa.",
+          "Mary was told she was too short.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Datele una mano, OK?",
-          "Give her a hand, will you?",
+          "Sono troppo vecchia per votare?",
+          "Am I too old to vote?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vorrei una camera.",
-          "I would like a room.",
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "virgola",
+      "content": "veloce",
       "translations": [
-        "comma",
-        "virgule",
-        "punctuation mark",
-        "separator"
+        "fast",
+        "quick",
+        "swift",
+        "speedy"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Puoi lanciare una palla veloce?",
+          "Can you throw a fastball?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

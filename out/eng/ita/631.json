@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary spera di poter vincere.",
+  "sentence": "Mary ha detto che voleva comprare qualcosa di più economico.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary hopes that she can win."
+    "Mary said she wanted to buy something cheaper."
   ],
   "parts": [
     {
@@ -17,6 +17,11 @@
       ],
       "usageExamples": [
         [
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,23 +30,158 @@
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary non piaceva il suo nome.",
-          "Mary didn't like her name.",
+          "Lei ha già finito?",
+          "Have you finished yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "spera",
+      "content": "detto",
       "translations": [
-        "hope",
-        "expectation",
-        "wish",
-        "trust"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Mary fu detto che era troppo bassa.",
+          "Mary was told she was too short.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi ha detto che è scettico.",
+          "He told me he's skeptical.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "voleva",
+      "translations": [
+        "wanted",
+        "was wanting",
+        "desired",
+        "wished"
+      ],
+      "usageExamples": [
+        [
+          "Tom voleva sapere perché Mary non era felice.",
+          "Tom wanted to know why Mary was not happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom voleva che questa fosse una sorpresa.",
+          "Tom wanted this to be a surprise.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "comprare",
+      "translations": [
+        "to buy",
+        "to purchase",
+        "to acquire",
+        "to get"
+      ],
+      "usageExamples": [
+        [
+          "Voglio comprare una dozzina di banane.",
+          "I want to buy a dozen bananas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piace comprare da Macy.",
+          "Mary likes to shop at Macy's.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "qualcosa",
+      "translations": [
+        "something",
+        "anything",
+        "a thing",
+        "a little something"
+      ],
+      "usageExamples": [
+        [
+          "Layla dimenticò qualcosa.",
+          "Layla forgot something.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso qualcosa?",
+          "Have you lost something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "di",
@@ -53,41 +193,63 @@
       ],
       "usageExamples": [
         [
-          "Può fare di meglio.",
-          "You can do better.",
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "poter",
+      "content": "più",
       "translations": [
-        "to be able",
-        "can",
-        "to have the ability",
-        "to be capable of"
+        "more",
+        "plus",
+        "greater",
+        "further"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "È anche più economico.",
+          "It's also cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Studiate più duramente.",
+          "Study harder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "vincere",
+      "content": "economico",
       "translations": [
-        "to win",
-        "to conquer",
-        "to defeat",
-        "to overcome"
+        "economic",
+        "affordable",
+        "cost-effective",
+        "budget-friendly"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "È anche più economico.",
+          "It's also cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

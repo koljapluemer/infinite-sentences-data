@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom e Mary sono soli?",
+  "sentence": "Tom dice di non aver nuotato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are Tom and Mary lonely?"
+    "Tom says he didn't swim."
   ],
   "parts": [
     {
@@ -16,64 +16,39 @@
       ],
       "usageExamples": [
         [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un esperto.",
-          "Tom is a pro.",
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembrava esitante.",
-          "Tom seemed hesitant.",
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "e",
+      "content": "dice",
       "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "to say",
+        "to tell",
+        "to speak",
+        "to declare"
       ],
       "usageExamples": [
         [
-          "Tirate fuori i vostri quaderni e le vostre penne.",
-          "Get out your notebooks and pens.",
+          "Ciò che si fa è più importante di ciò che si dice.",
+          "What you do is more important than what you say.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary mancano sua madre e suo padre.",
-          "Mary misses her mother and father.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
-          "I understand that you and Tom are planning to get married.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Mary",
-      "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
-      ],
-      "usageExamples": [
-        [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -84,51 +59,75 @@
       ]
     },
     {
-      "content": "sono",
+      "content": "di",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Io sono una patata.",
-          "I am a potato.",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tutte sono felici.",
-          "Everybody's happy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ],
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "soli",
+      "content": "non",
       "translations": [
-        "alone",
-        "only",
-        "sole",
-        "single"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Siete soli.",
-          "You are alone.",
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "I problemi di solito non vanno via da soli.",
-          "Problems don't usually go away by themselves.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "aver",
+      "translations": [
+        "to have",
+        "to possess",
+        "to hold"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "nuotato",
+      "translations": [
+        "swum",
+        "swimming",
+        "has swum",
+        "was swimming"
+      ],
+      "usageExamples": []
     }
   ]
 }

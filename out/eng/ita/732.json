@@ -1,11 +1,11 @@
 {
-  "sentence": "Non sembrate imbarazzate.",
+  "sentence": "Non possiamo restare in silenzio vedendo la gente morire di fame.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by auxitt (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You don't look embarrassed."
+    "We cannot stand quiet and watch people starve."
   ],
   "parts": [
     {
@@ -19,40 +19,222 @@
       "usageExamples": [
         [
           "Non voglio guardarlo.",
-          "I don't want to look at him.",
+          "I don't want to watch that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non lasciate guidare Tom.",
-          "Don't let Tom drive.",
+          "Non vinco molto spesso.",
+          "I don't win very often.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sembrate",
+      "content": "possiamo",
       "translations": [
-        "you seem",
-        "you appear",
-        "you look",
-        "you are like"
+        "we can",
+        "we are able to",
+        "let's",
+        "we may"
+      ],
+      "usageExamples": [
+        [
+          "Noi non possiamo farlo ora.",
+          "We can't do it now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "restare",
+      "translations": [
+        "to remain",
+        "to stay",
+        "to be left",
+        "to rest"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei restare qua a Boston.",
+          "I'd rather stay here in Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È difficile restare calmi quando le scadenze vengono ignorate.",
+          "It's hard to stay calm when deadlines are ignored.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "silenzio",
+      "translations": [
+        "silence",
+        "quiet",
+        "stillness",
+        "calm"
+      ],
+      "usageExamples": [
+        [
+          "Il vostro silenzio mi rende nervoso.",
+          "Your silence makes me nervous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vedendo",
+      "translations": [
+        "seeing",
+        "by seeing",
+        "through seeing",
+        "in seeing"
       ],
       "usageExamples": []
     },
     {
-      "content": "imbarazzate",
+      "content": "la",
       "translations": [
-        "embarrassed",
-        "awkward",
-        "self-conscious",
-        "uncomfortable"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gente",
+      "translations": [
+        "people",
+        "folk",
+        "community",
+        "society"
+      ],
+      "usageExamples": [
+        [
+          "Lui ama parlare con la gente.",
+          "He loves talking to people.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ci sarà così tanta gente lì.",
+          "There won't be so many people there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "morire",
+      "translations": [
+        "to die",
+        "to pass away",
+        "to expire",
+        "to perish"
+      ],
+      "usageExamples": [
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fame",
+      "translations": [
+        "hunger",
+        "appetite",
+        "starvation"
+      ],
+      "usageExamples": [
+        [
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che non ha fame.",
+          "Mary said she isn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mi chiese se avevo fame.",
+          "Tom asked me whether I was hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

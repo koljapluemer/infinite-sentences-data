@@ -1,73 +1,289 @@
 {
-  "sentence": "Este gato no persigue ratones.",
+  "sentence": "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Scott (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This cat doesn't chase mice."
+    "This is the way the world ends. Not with a bang but a whimper."
   ],
   "parts": [
     {
-      "content": "Este",
+      "content": "Esta",
       "translations": [
         "This",
         "It is"
       ],
+      "usageExamples": []
+    },
+    {
+      "content": "es",
+      "translations": [
+        "is",
+        "it is",
+        "to be"
+      ],
       "usageExamples": [
         [
-          "Este es el color de las frambuesas.",
-          "This is the color of raspberries.",
+          "Tom es autónomo.",
+          "Tom is self-employed.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tomás es xenofóbico.",
+          "Tom is xenophobic.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gato",
+      "content": "la",
       "translations": [
-        "cat",
-        "kitten"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "no",
-      "translations": [
-        "not"
+        "the"
       ],
       "usageExamples": [
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
+          "La comida está lista.",
+          "The meal is prepared.",
+          ""
+        ],
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ella le escribió una carta larga, pero él no la leyó.",
-          "She wrote him a long letter, but he didn't read it.",
+          "Esa es la realidad.",
+          "That's the reality.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "persigue",
+      "content": "forma",
       "translations": [
-        "pursue",
-        "chase",
-        "follow",
-        "seek"
+        "form",
+        "shape",
+        "way",
+        "manner"
       ],
       "usageExamples": []
     },
     {
-      "content": "ratones",
+      "content": "en",
       "translations": [
-        "mice",
-        "rats"
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Estoy en casa.",
+          "I am in the house.",
+          ""
+        ],
+        [
+          "Confío en él.",
+          "I trust him.",
+          ""
+        ],
+        [
+          "Hay una película que quiero ver por TV mañana en la noche.",
+          "There's a movie I want to watch on TV tomorrow night.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "que",
+      "translations": [
+        "that",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom no cree que Mary tenga razón.",
+          "Tom doesn't think that Mary is right.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sé que Tom es feliz.",
+          "I know Tom is happy.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "el",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Me estoy tiñendo el pelo de negro.",
+          "I'm dyeing my hair black.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sigue siendo un misterio dónde está oculto el tesoro.",
+          "Where the treasure is hidden is still a mystery.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
+          "That was the worst job Yanni had ever had.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mundo",
+      "translations": [
+        "world",
+        "earth",
+        "universe"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "termina",
+      "translations": [
+        "finish",
+        "end",
+        "complete",
+        "conclude"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "No",
+      "translations": [
+        "No.",
+        "Not",
+        "Nope."
+      ],
+      "usageExamples": [
+        [
+          "No quiero ir.",
+          "I don't want to go.",
+          ""
+        ],
+        [
+          "No tengo tiempo.",
+          "I'm out of time.",
+          ""
+        ],
+        [
+          "No puedo creer que Tom me haría eso.",
+          "I can't believe Tom would do that to me.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "con",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Hablo con ella.",
+          "I speak to her.",
+          ""
+        ],
+        [
+          "Voy con mis amigos.",
+          "I go with my friends.",
+          ""
+        ],
+        [
+          "Tom dio con una pauta en los datos.",
+          "Tom spotted a pattern in the data.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "una",
+      "translations": [
+        "a",
+        "one",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Eres una chica linda.",
+          "You're a cute girl.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom va a la biblioteca al menos una vez por mes.",
+          "Tom goes to the library at least once a month.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "explosión",
+      "translations": [
+        "explosion",
+        "burst",
+        "outburst"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sino",
+      "translations": [
+        "but",
+        "rather"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "a",
+        "one",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Necesito un libro.",
+          "I need a book.",
+          ""
+        ],
+        [
+          "Francois dio un discurso.",
+          "François gave a speech.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quiero un café.",
+          "I would like a coffee.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "gemido",
+      "translations": [
+        "moan",
+        "groan",
+        "sigh"
       ],
       "usageExamples": []
     }

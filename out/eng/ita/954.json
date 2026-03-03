@@ -1,83 +1,68 @@
 {
-  "sentence": "Taxi, segui quella macchina.",
+  "sentence": "State provando ad escludermi?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Luornu (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Taxi, follow that car."
+    "Are you trying to exclude me?"
   ],
   "parts": [
     {
-      "content": "Taxi",
+      "content": "State",
       "translations": [
-        "Cab",
-        "Taxicab",
-        "Ride-hailing service"
+        "state",
+        "condition",
+        "situation",
+        "status"
       ],
       "usageExamples": []
     },
     {
-      "content": "segui",
+      "content": "provando",
       "translations": [
-        "follow",
-        "continue",
-        "pursue",
-        "go after"
+        "trying",
+        "testing",
+        "attempting",
+        "proving"
       ],
       "usageExamples": []
     },
     {
-      "content": "quella",
+      "content": "ad",
       "translations": [
-        "that",
-        "the one",
-        "that one",
-        "the"
+        "to",
+        "at",
+        "toward",
+        "for"
       ],
       "usageExamples": [
         [
-          "Scendi da quella scala.",
-          "Get down from that ladder.",
+          "Hanno cominciato ad innervosirsi.",
+          "They started to get nervous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami sentì quella ragazza.",
-          "Sami heard that girl.",
+          "Li vada ad aiutare.",
+          "Go and help them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cos'è quella cosa là?",
-          "What's that thing there?",
+          "Lui ha letto la poesia ad alta voce.",
+          "He read the poem with a loud voice.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "macchina",
+      "content": "escludermi",
       "translations": [
-        "machine",
-        "car",
-        "device",
-        "engine"
+        "exclude me",
+        "leave me out",
+        "omit me",
+        "disregard me"
       ],
-      "usageExamples": [
-        [
-          "A Jim fu rubata la macchina fotografica.",
-          "Jim had his camera stolen.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Voglio ricomprare la mia macchina.",
-          "I want to buy my car back.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha ritrovato per caso la macchina fotografica che aveva perso.",
-          "He found his lost camera by chance.",
-          "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

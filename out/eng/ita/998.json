@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom ha qualche problema psicologico.",
+  "sentence": "Tom ha comprato un anello per Mary.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom has some psychological issues."
+    "Tom bought Mary a ring."
   ],
   "parts": [
     {
@@ -16,18 +16,18 @@
       ],
       "usageExamples": [
         [
-          "Io so com'era Tom.",
-          "I know how Tom used to be.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è ovviamente arrabbiato.",
-          "Tom is obviously angry.",
+          "Tom vende funghi psichedelici.",
+          "Tom sells psychedelic mushrooms.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -41,83 +41,127 @@
       ],
       "usageExamples": [
         [
-          "Lei ha frenato.",
-          "She braked.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cookie ha 15 anni.",
-          "Cookie is 15.",
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha molti amici?",
-          "Does Tom have lots of friends?",
+          "Lei ha già finito?",
+          "Have you already finished?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'ha salvata.",
+          "He rescued her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qualche",
+      "content": "comprato",
       "translations": [
-        "some",
-        "a few",
-        "several",
-        "a couple of"
+        "bought",
+        "purchased",
+        "acquired",
+        "procured"
       ],
       "usageExamples": [
         [
-          "Accendiamo qualche candela.",
-          "Let's light some candles.",
+          "Tom ha comprato del cibo a Mary.",
+          "Tom bought Mary some food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io ho qualche idea per te.",
-          "I have a few ideas for you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
-          "Mary said she'd like to borrow a few books.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
+          "The train is taking off and we haven't bought our tickets!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "problema",
+      "content": "un",
       "translations": [
-        "problem",
-        "issue",
-        "challenge",
-        "difficulty"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "So che hai un problema.",
-          "I know you have a problem.",
+          "Questo è un occhio.",
+          "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il mio problema è che sono troppo occupata.",
-          "My problem is I'm too busy.",
+          "Lui sembra un delinquente.",
+          "He looks like a gangster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era facile risolvere quel problema.",
-          "It was easy to solve that problem.",
+          "Sei un testimone.",
+          "You are a witness.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "psicologico",
+      "content": "anello",
       "translations": [
-        "psychological",
-        "mental",
-        "cognitive",
-        "emotional"
+        "ring",
+        "band",
+        "circle",
+        "loop"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

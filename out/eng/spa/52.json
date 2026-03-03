@@ -1,159 +1,73 @@
 {
-  "sentence": "Estuve esperando por toda la mañana para que esto ocurriera.",
+  "sentence": "Este gato no persigue ratones.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've been waiting all morning for this to happen."
+    "This cat doesn't chase mice."
   ],
   "parts": [
     {
-      "content": "Estuve",
+      "content": "Este",
       "translations": [
-        "I was",
-        "I have been"
+        "This",
+        "It is"
+      ],
+      "usageExamples": [
+        [
+          "Este es el color de las frambuesas.",
+          "This is the color of raspberries.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gato",
+      "translations": [
+        "cat",
+        "kitten"
       ],
       "usageExamples": []
     },
     {
-      "content": "esperando",
+      "content": "no",
       "translations": [
-        "waiting",
-        "hoping"
+        "not"
+      ],
+      "usageExamples": [
+        [
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tomás no tiene hambre.",
+          "Tom's not hungry.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "persigue",
+      "translations": [
+        "pursue",
+        "chase",
+        "follow",
+        "seek"
       ],
       "usageExamples": []
     },
     {
-      "content": "por",
+      "content": "ratones",
       "translations": [
-        "to"
-      ],
-      "usageExamples": [
-        [
-          "Vou por ali.",
-          "I am going over there.",
-          ""
-        ],
-        [
-          "Passamos por aqui.",
-          "We went past here.",
-          ""
-        ],
-        [
-          "Tom va a la biblioteca al menos una vez por mes.",
-          "Tom goes to the library at least once a month.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "toda",
-      "translations": [
-        "all",
-        "whole",
-        "every",
-        "entire"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
-      ],
-      "usageExamples": [
-        [
-          "La casa es grande.",
-          "The house is spacious.",
-          ""
-        ],
-        [
-          "La comida está lista.",
-          "The food is ready.",
-          ""
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mañana",
-      "translations": [
-        "tomorrow",
-        "morning"
-      ],
-      "usageExamples": [
-        [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "para",
-      "translations": [
-        "to",
-        "using"
-      ],
-      "usageExamples": [
-        [
-          "Es para ti.",
-          "It's for you.",
-          ""
-        ],
-        [
-          "Voy para casa.",
-          "I'm heading home.",
-          ""
-        ],
-        [
-          "Me río para no llorar.",
-          "I'm laughing to keep myself from crying.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "que",
-      "translations": [
-        "that",
-        "which"
-      ],
-      "usageExamples": [
-        [
-          "Tienes que haberlos perdido.",
-          "You must've lost them.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
-          "My son thinks that bats are reptiles because they're like pteranodons.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "esto",
-      "translations": [
-        "this"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ocurriera",
-      "translations": [
-        "happened",
-        "occurred"
+        "mice",
+        "rats"
       ],
       "usageExamples": []
     }

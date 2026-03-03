@@ -1,45 +1,92 @@
 {
-  "sentence": "Beve latte di mucca.",
+  "sentence": "Avete annotato il numero di telefono?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Aghanim (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by spockofvulcan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He drinks cow's milk."
+    "Did you write down the telephone number?"
   ],
   "parts": [
     {
-      "content": "Beve",
+      "content": "Avete",
       "translations": [
-        "edge",
-        "bevel",
-        "slant",
-        "slope"
+        "You have",
+        "Do you have?",
+        "You all have",
+        "Have you?"
+      ],
+      "usageExamples": [
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete provato l'hot pot a Taiwan?",
+          "Have you tried the hot pot in Taiwan?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "annotato",
+      "translations": [
+        "noted",
+        "annotated",
+        "marked",
+        "recorded"
       ],
       "usageExamples": []
     },
     {
-      "content": "latte",
+      "content": "il",
       "translations": [
-        "milk",
-        "dairy milk",
-        "cow's milk",
-        "liquid milk"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "A Karl mancava bere il latte.",
-          "Karl missed drinking milk.",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Di solito bevo molto latte.",
-          "I usually drink a lot of milk.",
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary non piace il latte nel suo caffè.",
-          "Mary doesn't like milk in her coffee.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "numero",
+      "translations": [
+        "number",
+        "numeral",
+        "digit",
+        "figure"
+      ],
+      "usageExamples": [
+        [
+          "2 è l'unico numero primo pari.",
+          "2 is the only even prime number.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "49 è un numero quadrato.",
+          "49 is a square number.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -54,32 +101,34 @@
       ],
       "usageExamples": [
         [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
           "Volete sentire di più?",
           "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi importa di lei.",
-          "I care about her.",
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mucca",
+      "content": "telefono",
       "translations": [
-        "cow",
-        "female bovine"
+        "telephone",
+        "phone",
+        "cell phone",
+        "mobile phone"
       ],
       "usageExamples": [
         [
-          "Vladimir è forte come una mucca.",
-          "Vladimir is strong as a cow.",
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

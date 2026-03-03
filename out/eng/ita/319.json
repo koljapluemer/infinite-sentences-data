@@ -1,54 +1,78 @@
 {
-  "sentence": "Dovremmo avvertire Tom.",
+  "sentence": "Disse che lo amava.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We should warn Tom."
+    "She said she loved him.",
+    "She said that she loved him."
   ],
   "parts": [
     {
-      "content": "Dovremmo",
+      "content": "Disse",
       "translations": [
-        "We should",
-        "We ought to",
-        "We must",
-        "We are supposed to"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "avvertire",
-      "translations": [
-        "to warn",
-        "to notify",
-        "to alert",
-        "to advise"
+        "to say",
+        "to tell",
+        "to speak",
+        "to discuss"
       ],
       "usageExamples": [
         [
-          "La dovete avvertire.",
-          "You've got to warn her.",
+          "Disse che non fece niente di illegale.",
+          "He said he did nothing illegal.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che non si sentiva al sicuro.",
+          "She said she didn't feel safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "che",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lo",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Beh, sicuramente lo richiederò.",
+          "Well, I'll surely ask again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -57,6 +81,15 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "amava",
+      "translations": [
+        "he/she loved",
+        "he/she was loving",
+        "he/she used to love"
+      ],
+      "usageExamples": []
     }
   ]
 }

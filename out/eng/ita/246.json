@@ -1,52 +1,101 @@
 {
-  "sentence": "C'era sangue dappertutto.",
+  "sentence": "Avete provato l'hot pot a Taiwan?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Lumi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Blood was everywhere.",
-    "There was blood everywhere."
+    "Have you tried the hot pot in Taiwan?"
   ],
   "parts": [
     {
-      "content": "C'era",
+      "content": "Avete",
       "translations": [
-        "There was",
-        "There used to be",
-        "There existed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sangue",
-      "translations": [
-        "blood",
-        "sanguine",
-        "gore",
-        "hemoglobin"
+        "You have",
+        "Do you have?",
+        "You all have",
+        "Have you?"
       ],
       "usageExamples": [
         [
-          "Stava tossendo sangue.",
-          "You were coughing up blood.",
+          "Avete mai provato?",
+          "Did you ever try?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io ho il sangue blu nelle vene.",
-          "I have blue blood in my veins.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete annotato il numero di telefono?",
+          "Did you write down the telephone number?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dappertutto",
+      "content": "provato",
       "translations": [
-        "everywhere",
-        "all over",
-        "throughout",
-        "in all places"
+        "tried",
+        "tested",
+        "proven",
+        "experienced"
+      ],
+      "usageExamples": [
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho provato a seguire le sue instruzioni.",
+          "I tried to follow your instructions.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "l'hot pot",
+      "translations": [
+        "hot pot",
+        "Chinese stew",
+        "simmering pot",
+        "communal cooking pot"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Taiwan",
+      "translations": [
+        "Republic of China",
+        "Taiwan Province",
+        "Taiwan Island"
       ],
       "usageExamples": []
     }

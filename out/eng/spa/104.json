@@ -1,38 +1,85 @@
 {
-  "sentence": "Sé que Tom es feliz.",
+  "sentence": "Robert ayudó a Sandra a bajar del árbol.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I know Tom is happy."
+    "Robert helped Sandra down the tree."
   ],
   "parts": [
     {
-      "content": "Sé",
+      "content": "Robert",
       "translations": [
-        "I know.",
-        "Be",
-        "I am.",
-        "Know"
+        "Robert",
+        "Roberto"
       ],
       "usageExamples": []
     },
     {
-      "content": "que",
+      "content": "ayudó",
       "translations": [
-        "that",
-        "which"
+        "helped",
+        "assisted"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "to"
       ],
       "usageExamples": [
         [
-          "Tienes que haberlos perdido.",
-          "You must've lost them.",
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom no cree que Mary tenga razón.",
-          "Tom doesn't think that Mary is right.",
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Sandra",
+      "translations": [
+        "Sandra",
+        "Sandy"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bajar",
+      "translations": [
+        "to lower",
+        "to go down",
+        "to descend",
+        "to reduce"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of",
+        "from"
+      ],
+      "usageExamples": [
+        [
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ellos ahora están a bordo del barco.",
+          "They are now aboard the ship.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -43,61 +90,10 @@
       ]
     },
     {
-      "content": "Tom",
+      "content": "árbol",
       "translations": [
-        "Tom",
-        "Thomas"
-      ],
-      "usageExamples": [
-        [
-          "Tom terminó segundo.",
-          "Tom finished second.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom dio con una pauta en los datos.",
-          "Tom spotted a pattern in the data.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "es",
-      "translations": [
-        "is",
-        "it is",
-        "to be"
-      ],
-      "usageExamples": [
-        [
-          "Tomás es xenofóbico.",
-          "Tom is xenophobic.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Esa es la realidad.",
-          "That's the reality.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
-          "This is the way the world ends. Not with a bang but a whimper.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "feliz",
-      "translations": [
-        "happy",
-        "joyful",
-        "content",
-        "cheerful"
+        "tree",
+        "wood"
       ],
       "usageExamples": []
     }

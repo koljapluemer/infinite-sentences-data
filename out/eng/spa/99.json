@@ -1,103 +1,68 @@
 {
-  "sentence": "Repetirás esta oración cinco veces al día.",
+  "sentence": "Puedo mostrarte las fotos.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rafaeldejesus8199 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You'll repeat this sentence five times a day."
+    "I can show you the pictures."
   ],
   "parts": [
     {
-      "content": "Repetirás",
+      "content": "Puedo",
       "translations": [
-        "You will repeat",
-        "You will do again"
+        "I can.",
+        "I am able to"
       ],
       "usageExamples": []
     },
     {
-      "content": "esta",
+      "content": "mostrarte",
       "translations": [
-        "this",
-        "is",
-        "it"
+        "to show you",
+        "to display to you"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "las",
+      "translations": [
+        "the",
+        "those",
+        "them"
       ],
       "usageExamples": [
         [
-          "¿Dónde está esta tienda?",
-          "Where can I find this store?",
+          "Las flores en el jardín son hermosas.",
+          "The garden flowers are stunning.",
           ""
         ],
         [
-          "Esta casa es muy bonita.",
-          "This house is lovely.",
+          "Las galletas que horneé están deliciosas.",
+          "The cookies I made are tasty.",
           ""
+        ],
+        [
+          "Este es el color de las frambuesas.",
+          "This is the color of raspberries.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "oración",
+      "content": "fotos",
       "translations": [
-        "prayer",
-        "sentence",
-        "statement"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "cinco",
-      "translations": [
-        "five",
-        "fifth"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "veces",
-      "translations": [
-        "times",
-        "occurrences"
+        "photos",
+        "pictures",
+        "images"
       ],
       "usageExamples": [
         [
-          "A veces nuestras plegarias no son respondidas de la manera en la que querríamos.",
-          "Sometimes our prayers aren't answered the way we want them to be.",
+          "Necesito tu pasaporte y tres fotos.",
+          "I need your passport and three pictures.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "al",
-      "translations": [
-        "to the",
-        "at the",
-        "in the"
-      ],
-      "usageExamples": [
-        [
-          "Tom va a la biblioteca al menos una vez por mes.",
-          "Tom goes to the library at least once a month.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
-          "Hunger compelled the boy to steal money from the cash register.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Debes llegar al trabajo a tiempo.",
-          "You ought to get to work on time.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "día",
-      "translations": [
-        "day"
-      ],
-      "usageExamples": []
     }
   ]
 }

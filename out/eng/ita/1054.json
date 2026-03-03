@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom è una brava persona.",
+  "sentence": "Tom è aggressivo, ma Mary non lo è.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is a good person."
+    "Tom is aggressive, but Mary isn't."
   ],
   "parts": [
     {
@@ -16,18 +16,18 @@
       ],
       "usageExamples": [
         [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+          "Tom sembra compiaciuto.",
+          "Tom looks pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,91 +42,131 @@
       ],
       "usageExamples": [
         [
-          "Questo è un test?",
-          "Is this a test?",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La risposta è complicata.",
-          "The answer is complicated.",
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "aggressivo",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "aggressive",
+        "assertive",
+        "hostile",
+        "forceful"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ma",
+      "translations": [
+        "but",
+        "however",
+        "yet",
+        "on the other hand"
       ],
       "usageExamples": [
         [
-          "È una maledizione.",
-          "It is a curse.",
+          "A Mary piace Tom, ma a lui non piace lei.",
+          "Mary likes Tom, but he doesn't like her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vorreste una ricevuta?",
-          "Would you like a receipt?",
+          "A Eva piacciono i cani, ma non i gatti.",
+          "Eva likes dogs, but not cats.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
+          "A Bilbao il sesso non è un peccato, ma un miracolo.",
+          "In Bilbao sex isn't a sin but a miracle.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "brava",
+      "content": "Mary",
       "translations": [
-        "brave",
-        "good",
-        "well done",
-        "excellent"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          ". È molto brava a risolvere enigmi.",
-          "She's very good at solving puzzles.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom disse che era brava.",
-          "Tom said you were good.",
+          "A Mary piace cucinare.",
+          "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary è un'allenatrice molto brava, vero?",
-          "Mary is a very good coach, isn't she?",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "persona",
+      "content": "non",
       "translations": [
-        "person",
-        "individual",
-        "character",
-        "figure"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Sono una buona persona.",
-          "I'm a good person.",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è una persona pigra.",
-          "Tom is a lazy person.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lo",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beh, sicuramente lo richiederò.",
+          "Well, I'll surely ask again.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

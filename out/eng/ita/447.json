@@ -1,15 +1,121 @@
 {
-  "sentence": "Io appoggiavo Tom.",
+  "sentence": "Il sushi va bene, però io preferirei del cibo thailandese.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I used to support Tom."
+    "Sushi is OK, but I'd prefer Thai food."
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "Il",
+      "translations": [
+        "The",
+        "It"
+      ],
+      "usageExamples": [
+        [
+          "Il gatto mangia.",
+          "The cat eats.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sushi",
+      "translations": [
+        "Japanese rice dish with raw fish",
+        "vinegared rice with seafood",
+        "sliced raw fish on rice"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "va",
+      "translations": [
+        "go",
+        "come",
+        "is going",
+        "is coming"
+      ],
+      "usageExamples": [
+        [
+          "Il mio amico va in biblioteca a studiare.",
+          "My friend goes to the library to study.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui va a scuola a piedi o in bici?",
+          "Does he go to school on foot or by bicycle?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bene",
+      "translations": [
+        "well",
+        "good",
+        "fine",
+        "okay"
+      ],
+      "usageExamples": [
+        [
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno qua balla bene come te.",
+          "Nobody here dances as well as you.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai giocare bene a pallacanestro?",
+          "Can you play basketball well?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "però",
+      "translations": [
+        "however",
+        "but",
+        "nevertheless",
+        "on the other hand"
+      ],
+      "usageExamples": [
+        [
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Potrebbe funzionare, però è troppo rischioso.",
+          "That might work, but it's too risky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piace Tom, però a lui non piace lei.",
+          "Mary likes Tom, but he doesn't like her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "io",
       "translations": [
         "I",
         "me",
@@ -17,54 +123,99 @@
       ],
       "usageExamples": [
         [
-          "Io consegno pizze.",
-          "I deliver pizzas.",
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mia madre vuole che io studi in Svizzera.",
+          "My mother wants me to study in Switzerland.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sto diventando piccolo!",
-          "I am getting small!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Da un anno io e lui ci scambiamo sguardi.",
+          "He and I have been exchanging looks for the past year.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "appoggiavo",
+      "content": "preferirei",
       "translations": [
-        "he/she was leaning",
-        "he/she leaned",
-        "he/she was resting"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
+        "I would prefer",
+        "I would rather",
+        "I would choose",
+        "I would like better"
       ],
       "usageExamples": [
         [
-          "Tom si è divertito.",
-          "Tom enjoyed himself.",
+          "Io preferirei non discuterne ora.",
+          "I'd rather not discuss it now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta cenando adesso.",
-          "Tom is having dinner right now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "by the"
+      ],
+      "usageExamples": [
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cibo",
+      "translations": [
+        "food",
+        "meal",
+        "nourishment",
+        "provisions"
+      ],
+      "usageExamples": [
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cibo giapponese le mancherà negli Stati Uniti.",
+          "You will miss Japanese food in the United States.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che tipo di cibo non le piace?",
+          "What kind of food don't you like?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "thailandese",
+      "translations": [
+        "Thai",
+        "from Thailand",
+        "Thai language",
+        "Thai person"
+      ],
+      "usageExamples": []
     }
   ]
 }

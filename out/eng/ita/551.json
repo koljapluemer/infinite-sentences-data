@@ -1,56 +1,100 @@
 {
-  "sentence": "Lasciate finire Tom.",
+  "sentence": "La risposta è complicata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let Tom finish."
+    "The answer is complicated."
   ],
   "parts": [
     {
-      "content": "Lasciate",
+      "content": "La",
       "translations": [
-        "Leave",
-        "Let go",
-        "Abandon",
-        "Allow"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "finire",
-      "translations": [
-        "to finish",
-        "to end",
-        "to complete",
-        "to conclude"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
+        "The",
+        "It",
+        "Her",
+        "Them"
       ],
       "usageExamples": [
         [
-          "Non lasciate guidare Tom.",
-          "Don't let Tom drive.",
+          "La ruppe.",
+          "He broke it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha molti amici?",
-          "Does Tom have a lot of friends?",
+          "La potrebbe ferire.",
+          "He might hurt her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Scusami, sto cercando Tom.",
-          "Excuse me, I'm looking for Tom.",
+          "La dovete avvertire.",
+          "You've got to warn her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "risposta",
+      "translations": [
+        "response",
+        "answer",
+        "reply",
+        "reaction"
+      ],
+      "usageExamples": [
+        [
+          "Scriva una risposta.",
+          "Write an answer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Confronti la Sua risposta con la sua.",
+          "Check your answer with his.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'unica risposta era la guerra.",
+          "The only answer was war.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Tom è famoso.",
+          "Tom is famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è americano?",
+          "Are you American?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "complicata",
+      "translations": [
+        "complicated",
+        "complex",
+        "intricate",
+        "difficult"
+      ],
+      "usageExamples": []
     }
   ]
 }

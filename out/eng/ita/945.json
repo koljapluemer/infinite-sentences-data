@@ -1,52 +1,73 @@
 {
-  "sentence": "Stava tossendo sangue.",
+  "sentence": "Sono un tipo solitario.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by tieguy (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You were coughing up blood."
+    "I'm a loner."
   ],
   "parts": [
     {
-      "content": "Stava",
+      "content": "Sono",
       "translations": [
-        "was",
-        "used to be",
-        "stood",
-        "was standing"
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
       ],
       "usageExamples": []
     },
     {
-      "content": "tossendo",
+      "content": "un",
       "translations": [
-        "coughing",
-        "to cough",
-        "cough"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sangue",
-      "translations": [
-        "blood",
-        "sanguine",
-        "gore",
-        "hemoglobin"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "C'era sangue dappertutto.",
-          "Blood was everywhere.",
+          "Tom è un fan.",
+          "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io ho il sangue blu nelle vene.",
-          "I have blue blood in my veins.",
+          "Chiamate un'ambulanza!",
+          "Call an ambulance!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "tipo",
+      "translations": [
+        "type",
+        "kind",
+        "sort",
+        "category"
+      ],
+      "usageExamples": [
+        [
+          "Che tipo di cibo non le piace?",
+          "What kind of food don't you like?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "solitario",
+      "translations": [
+        "solitary",
+        "lonely",
+        "single",
+        "isolated"
+      ],
+      "usageExamples": []
     }
   ]
 }

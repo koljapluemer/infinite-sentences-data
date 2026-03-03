@@ -1,55 +1,265 @@
 {
-  "sentence": "Io consegno pizze.",
+  "sentence": "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I deliver pizzas."
+    "The train is taking off and we haven't bought our tickets!"
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "Il",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "The",
+        "It"
       ],
       "usageExamples": [
         [
-          "Io so com'era Tom.",
-          "I know how Tom used to be.",
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono una patata.",
-          "I am a potato.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Il gatto mangia.",
+          "The cat eats.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "Il libro è arrivato.",
+          "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "consegno",
+      "content": "treno",
       "translations": [
-        "delivery",
-        "hand over",
-        "submission",
-        "consignment"
+        "train",
+        "railway",
+        "locomotive",
+        "train service"
+      ],
+      "usageExamples": [
+        [
+          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
+          "When riding a bus or a train, you need to pay the fare.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom corse per prendere l'ultimo treno.",
+          "Tom ran to catch the last train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Se non ci sbrighiamo, perderemo il nostro treno.",
+          "If we don't hurry, we'll miss our train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sta",
+      "translations": [
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li sta confondendo.",
+          "You're confusing them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "partendo",
+      "translations": [
+        "departing",
+        "leaving",
+        "setting off",
+        "starting out"
       ],
       "usageExamples": []
     },
     {
-      "content": "pizze",
+      "content": "e",
       "translations": [
-        "pizzas",
-        "pies",
-        "flatbreads",
-        "savory tarts"
+        "and",
+        "also",
+        "as well as",
+        "in addition"
+      ],
+      "usageExamples": [
+        [
+          "Chiedilo a loro e basta.",
+          "Just ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano suo marito e i suoi figli.",
+          "Mary misses her husband and children.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom e Mary non erano feriti.",
+          "Tom and Mary weren't injured.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "abbiamo",
+      "translations": [
+        "we have",
+        "we've got",
+        "we possess"
+      ],
+      "usageExamples": [
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non abbiamo cantato per Tom.",
+          "We didn't sing for Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ancora",
+      "translations": [
+        "anchor",
+        "still",
+        "yet",
+        "also"
+      ],
+      "usageExamples": [
+        [
+          "Sono ancora sposato con Tom.",
+          "I'm still married to Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che sei ancora arrabbiata con me.",
+          "I know you're still mad at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non ho ancora mangiato niente oggi.",
+          "I haven't eaten anything yet today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "comprato",
+      "translations": [
+        "bought",
+        "purchased",
+        "acquired",
+        "procured"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha comprato un anello per Mary.",
+          "Tom bought Mary a ring.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha comprato del cibo a Mary.",
+          "Tom bought Mary some food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Leggo un giornale tutti i giorni per tenermi aggiornata.",
+          "I read a newspaper every day so that I may keep up with the time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Heather fanno male i denti.",
+          "Heather has a toothache.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nostri",
+      "translations": [
+        "our",
+        "ours",
+        "of us",
+        "belonging to us"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "biglietti",
+      "translations": [
+        "tickets",
+        "passes",
+        "vouchers",
+        "entries"
       ],
       "usageExamples": []
     }

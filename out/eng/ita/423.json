@@ -1,11 +1,11 @@
 {
-  "sentence": "Il libro è arrivato.",
+  "sentence": "Il Ramadan è un mese sacro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The book came."
+    "Ramadan is a holy month."
   ],
   "parts": [
     {
@@ -16,47 +16,30 @@
       ],
       "usageExamples": [
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Il tempo è finito.",
+          "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il gatto mangia.",
-          "The cat eats.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ],
         [
           "Il cambiamento è spaventoso.",
           "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "libro",
+      "content": "Ramadan",
       "translations": [
-        "book",
-        "volume",
-        "tome",
-        "publication"
+        "The month of fasting",
+        "Islamic holy month",
+        "Month of prayer and reflection"
       ],
-      "usageExamples": [
-        [
-          "Tu comprendi quel libro.",
-          "You understand that book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È un nuovo libro.",
-          "It's a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era un libro nuovo.",
-          "It was a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "è",
@@ -68,29 +51,79 @@
       ],
       "usageExamples": [
         [
-          "Tom è un esperto.",
-          "Tom is a pro.",
+          "Il libro è arrivato.",
+          "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
         ],
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "arrivato",
+      "content": "un",
       "translations": [
-        "arrived",
-        "come",
-        "reached",
-        "got here"
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei un testimone.",
+          "You are a witness.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mese",
+      "translations": [
+        "month",
+        "calendar month",
+        "period of thirty days"
+      ],
+      "usageExamples": [
+        [
+          "A Bill e John piace ritrovarsi una volta al mese per parlare.",
+          "Bill and John like to get together once a month to talk.",
+          "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mese scorso è andato in Italia.",
+          "Last month, he went to Italy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Bill e John piace ritrovarsi una volta al mese per scambiare due chiacchiere.",
+          "Bill and John like to get together once a month to chat.",
+          "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sacro",
+      "translations": [
+        "sacred",
+        "holy",
+        "sacrosanct",
+        "divine"
       ],
       "usageExamples": []
     }

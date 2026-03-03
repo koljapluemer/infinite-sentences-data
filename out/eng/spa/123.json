@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom terminó segundo.",
+  "sentence": "Tom no cree que Mary tenga razón.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom finished second."
+    "Tom doesn't think that Mary is right."
   ],
   "parts": [
     {
@@ -21,32 +21,109 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom no me gusta para nada.",
-          "I don't like Tom at all.",
+          "Tom terminó segundo.",
+          "Tom finished second.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom estaba al otro lado de la ciudad al momento del disparo.",
-          "Tom was on the other side of town at the time of the shooting.",
+          "Tom es autónomo.",
+          "Tom is self-employed.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "terminó",
+      "content": "no",
       "translations": [
-        "finished",
-        "ended",
-        "completed"
+        "not"
+      ],
+      "usageExamples": [
+        [
+          "Tomás no tiene hambre.",
+          "Tom's not hungry.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cree",
+      "translations": [
+        "believes",
+        "thinks",
+        "creates"
+      ],
+      "usageExamples": [
+        [
+          "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
+          "My son thinks that bats are reptiles because they're like pteranodons.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "que",
+      "translations": [
+        "that",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
+          "My son thinks that bats are reptiles because they're like pteranodons.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pretendo decirle a Tom que no quiero ir.",
+          "I plan to tell Tom that I don't want to go.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Mary",
+        "Maria"
+      ],
+      "usageExamples": [
+        [
+          "¿Sabes lo que dijo Mary?",
+          "Do you know what Mary said?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tenga",
+      "translations": [
+        "have",
+        "hold",
+        "take"
       ],
       "usageExamples": []
     },
     {
-      "content": "segundo",
+      "content": "razón",
       "translations": [
-        "second",
-        "secondly",
-        "second place"
+        "reason",
+        "cause",
+        "motive",
+        "justification"
       ],
       "usageExamples": []
     }

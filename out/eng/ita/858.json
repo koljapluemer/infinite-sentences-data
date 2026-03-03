@@ -1,105 +1,112 @@
 {
-  "sentence": "Questo cane è brutto.",
+  "sentence": "Quei due esperimenti hanno prodotto risultati simili.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by VoiceLessQ (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This dog is ugly."
+    "Those two experiments yielded similar results."
   ],
   "parts": [
     {
-      "content": "Questo",
+      "content": "Quei",
       "translations": [
-        "This",
-        "This one",
-        "This thing",
-        "This item"
+        "Those",
+        "Those ones",
+        "Those things",
+        "That one (plural)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "due",
+      "translations": [
+        "two",
+        "a couple",
+        "duo",
+        "pair"
       ],
       "usageExamples": [
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Le due famiglie hanno legami familiari stretti.",
+          "The two families have very close ties.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La nostra insegnante ci ha divisi in due gruppi.",
+          "Our teacher separated us into two groups.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un test?",
-          "Is this a test?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo messaggio non ha senso.",
-          "This message doesn't make sense.",
-          "Sentence from Tatoeba by iltrex (CC-BY 2.0 FR)"
+          "A Bill e John piace ritrovarsi una volta al mese per scambiare due chiacchiere.",
+          "Bill and John like to get together once a month to chat.",
+          "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cane",
+      "content": "esperimenti",
       "translations": [
-        "dog",
-        "walking stick",
-        "rod"
+        "experiments",
+        "tests",
+        "trials",
+        "studies"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hanno",
+      "translations": [
+        "they have",
+        "you (plural) have"
       ],
       "usageExamples": [
         [
-          "Un cane ha corso.",
-          "A dog ran.",
+          "Lo hanno aiutato.",
+          "They helped him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cane scodinzolava.",
-          "The dog wagged its tail.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Le due famiglie hanno legami familiari stretti.",
+          "The two families have very close ties.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ],
         [
-          "Per favore, faccia un bagno al cane.",
-          "Please give the dog a bath.",
+          "I contadini più stupidi hanno le patate più grandi.",
+          "The dumbest farmers have the biggest potatoes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "prodotto",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "product",
+        "item",
+        "goods",
+        "merchandise"
       ],
-      "usageExamples": [
-        [
-          "Questo è un test?",
-          "Is this a test?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è famoso.",
-          "Tom's famous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "brutto",
+      "content": "risultati",
       "translations": [
-        "ugly",
-        "bad",
-        "rough",
-        "disgusting"
+        "results",
+        "outcomes",
+        "findings",
+        "consequences"
       ],
-      "usageExamples": [
-        [
-          "Forse questo è un brutto momento.",
-          "Maybe this is a bad time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "simili",
+      "translations": [
+        "similar",
+        "like",
+        "resembling",
+        "akin to"
+      ],
+      "usageExamples": []
     }
   ]
 }

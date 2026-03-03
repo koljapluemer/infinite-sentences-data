@@ -1,11 +1,11 @@
 {
-  "sentence": "El tiempo está muy malo.",
+  "sentence": "El ruido me está volviendo loco.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The weather is very bad."
+    "The noise is driving me crazy."
   ],
   "parts": [
     {
@@ -16,42 +16,51 @@
       ],
       "usageExamples": [
         [
-          "El carámbano es una columna de hielo.",
-          "An icicle is a pillar of ice.",
+          "El tiempo está muy malo.",
+          "The weather is very bad.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El camaleón cambia de color según dónde se encuentre.",
+          "The chameleon changes color depending on where it finds itself.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
           "El té sabe muy amargo y no está bueno.",
           "The tea is really bitter and doesn't taste good.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El ruido me está volviendo loco.",
-          "The noise is driving me crazy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tiempo",
+      "content": "ruido",
       "translations": [
-        "time",
-        "weather"
+        "noise",
+        "sound",
+        "rumble",
+        "clatter"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "me",
+      "translations": [
+        "me"
       ],
       "usageExamples": [
         [
-          "El tiempo vuela.",
-          "Time flies.",
-          ""
+          "Ella me pidió ayuda.",
+          "She asked me for help.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "No tengo tiempo.",
-          "I'm out of time.",
-          ""
+          "Tom no me gusta para nada.",
+          "I don't like Tom at all.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ayer tuvimos buen tiempo.",
-          "We had nice weather yesterday.",
+          "Si me compras un helado, te doy un beso.",
+          "If you buy me an ice cream, I'll give you a kiss.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -64,38 +73,13 @@
       ],
       "usageExamples": [
         [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "Aquí está mi equipaje.",
           "Here is my baggage.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "La pizza sabe diferente cuando está fría.",
-          "Pizza tastes different when it's cold.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "muy",
-      "translations": [
-        "very",
-        "really",
-        "quite"
-      ],
-      "usageExamples": [
-        [
-          "Fue muy decepcionante.",
-          "It was very upsetting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Me siento muy enfermo.",
-          "I feel very sick.",
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -106,12 +90,20 @@
       ]
     },
     {
-      "content": "malo",
+      "content": "volviendo",
       "translations": [
-        "bad",
-        "poor",
-        "evil",
-        "wrong"
+        "returning",
+        "coming back"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "loco",
+      "translations": [
+        "crazy",
+        "mad",
+        "insane",
+        "wild"
       ],
       "usageExamples": []
     }

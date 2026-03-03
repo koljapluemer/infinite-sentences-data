@@ -1,49 +1,122 @@
 {
-  "sentence": "Está nevando hoy.",
+  "sentence": "Estudio música en la universidad de Boston.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's snowing today."
+    "I study music at a university in Boston."
   ],
   "parts": [
     {
-      "content": "Está",
+      "content": "Estudio",
       "translations": [
-        "It is",
-        "He/She is",
-        "You are"
+        "study",
+        "studio",
+        "research",
+        "workshop"
       ],
       "usageExamples": []
     },
     {
-      "content": "nevando",
+      "content": "música",
       "translations": [
-        "snowing",
-        "it's snowing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "hoy",
-      "translations": [
-        "today",
-        "this day",
-        "on this day"
+        "music",
+        "tune",
+        "melody"
       ],
       "usageExamples": [
         [
-          "Hoy es lunes.",
-          "It's Monday today.",
+          "La música se detuvo por un minuto.",
+          "The music stopped for a minute.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "en",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Confío en él.",
+          "I trust him.",
           ""
         ],
         [
-          "Hoy tengo clase.",
-          "I have class today.",
+          "Estoy en casa.",
+          "I am in the house.",
           ""
+        ],
+        [
+          "A veces nuestras plegarias no son respondidas de la manera en la que querríamos.",
+          "Sometimes our prayers aren't answered the way we want them to be.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La comida está lista.",
+          "The food is prepared.",
+          ""
+        ],
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "universidad",
+      "translations": [
+        "university",
+        "college"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Vengo de la playa.",
+          "I am coming from the beach.",
+          ""
+        ],
+        [
+          "El libro de historia es interesante.",
+          "The history book is engaging.",
+          ""
+        ],
+        [
+          "La casa de Tom tiene grandes ventanas.",
+          "Tom's house has large windows.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Boston",
+      "translations": [
+        "Boston",
+        "City of Boston"
+      ],
+      "usageExamples": []
     }
   ]
 }

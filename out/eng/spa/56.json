@@ -1,34 +1,37 @@
 {
-  "sentence": "Fue una reunión muy larga.",
+  "sentence": "Francois dio un discurso.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It was a very long meeting."
+    "François gave a speech."
   ],
   "parts": [
     {
-      "content": "Fue",
+      "content": "Francois",
       "translations": [
-        "was",
-        "has been"
+        "Francois",
+        "Francis"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dio",
+      "translations": [
+        "god",
+        "deity"
       ],
       "usageExamples": [
         [
-          "Fue planeado.",
-          "It was planned.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Fue muy decepcionante.",
-          "It was very upsetting.",
+          "Tom dio con una pauta en los datos.",
+          "Tom spotted a pattern in the data.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "un",
       "translations": [
         "a",
         "one",
@@ -36,69 +39,31 @@
       ],
       "usageExamples": [
         [
-          "Eres una chica linda.",
-          "You're a cute girl.",
+          "Tenemos un horario apretado.",
+          "We have a tight schedule.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Me importa una mierda.",
-          "I don't give a damn about it.",
+          "¡Yo vi un ratón!",
+          "I saw a mouse!",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom va a la biblioteca al menos una vez por mes.",
-          "Tom goes to the library at least once a month.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Quiero un café.",
+          "I'd like a coffee.",
+          ""
         ]
       ]
     },
     {
-      "content": "reunión",
+      "content": "discurso",
       "translations": [
-        "meeting",
-        "gathering",
-        "assembly",
-        "conference"
+        "speech",
+        "discourse",
+        "talk",
+        "address"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "muy",
-      "translations": [
-        "very",
-        "really",
-        "quite"
-      ],
-      "usageExamples": [
-        [
-          "Fue muy decepcionante.",
-          "It was very upsetting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Me siento muy enfermo.",
-          "I feel very sick.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El tiempo está muy malo.",
-          "The weather is very bad.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "larga",
-      "translations": [
-        "long"
-      ],
-      "usageExamples": [
-        [
-          "Ella le escribió una carta larga, pero él no la leyó.",
-          "She wrote him a long letter, but he didn't read it.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

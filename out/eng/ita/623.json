@@ -1,119 +1,74 @@
 {
-  "sentence": "Mary ha preparato la colazione.",
+  "sentence": "Mangia finché è caldo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary made breakfast."
+    "Eat while it's warm."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Mangia",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "Eat",
+        "Consume",
+        "Devour",
+        "Ingest"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "finché",
+      "translations": [
+        "as long as",
+        "until",
+        "provided that",
+        "so long as"
       ],
       "usageExamples": [
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary piace Taylor Swift.",
-          "Mary likes Taylor Swift.",
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "è",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Lei ha già cominciato.",
-          "She has already begun.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Nessuno ha capito nulla.",
-          "No one understood anything.",
+          "Tom è un fan.",
+          "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "L'ha salvata.",
-          "He rescued her.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "preparato",
+      "content": "caldo",
       "translations": [
-        "prepared",
-        "ready",
-        "set up",
-        "arranged"
+        "hot",
+        "warm",
+        "heated",
+        "spicy"
       ],
-      "usageExamples": [
-        [
-          "Io ho preparato dello spezzatino.",
-          "I've made stew.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Prendi la mia.",
-          "Take mine.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lui accese la radio.",
-          "He turned on the radio.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "colazione",
-      "translations": [
-        "breakfast",
-        "morning meal",
-        "first meal of the day"
-      ],
-      "usageExamples": [
-        [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

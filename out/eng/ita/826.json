@@ -1,84 +1,94 @@
 {
-  "sentence": "Puoi lanciare una palla veloce?",
+  "sentence": "Possono avere qualsiasi cosa vogliono.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Can you throw a fastball?"
+    "They can have anything they want."
   ],
   "parts": [
     {
-      "content": "puoi",
+      "content": "Possono",
       "translations": [
-        "you can",
-        "you may",
-        "you are able to",
-        "you are allowed to"
+        "They can",
+        "You can",
+        "One can",
+        "People can"
       ],
       "usageExamples": []
     },
     {
-      "content": "lanciare",
+      "content": "avere",
       "translations": [
-        "to throw",
-        "to launch",
-        "to cast",
-        "to hurl"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "to have",
+        "to possess",
+        "to own",
+        "to hold"
       ],
       "usageExamples": [
         [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
+          "Posso avere una birra?",
+          "Can I have a beer?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi terremo una festa.",
-          "We'll have a party.",
+          "Pensa che Tom potrebbe avere ragione?",
+          "Do you think Tom might be correct?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vorreste una ricevuta?",
-          "Would you like a receipt?",
+          "Mary nega di avere pianto.",
+          "Mary denies she cried.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "palla",
+      "content": "qualsiasi",
       "translations": [
-        "ball",
-        "sphere",
-        "round object",
-        "ball-shaped item"
+        "any",
+        "whatever",
+        "whichever",
+        "anyone"
       ],
       "usageExamples": []
     },
     {
-      "content": "veloce",
+      "content": "cosa",
       "translations": [
-        "fast",
-        "quick",
-        "swift",
-        "speedy"
+        "thing",
+        "item",
+        "object",
+        "matter"
       ],
       "usageExamples": [
         [
-          "State guidando decisamente troppo veloce.",
-          "You're driving way too fast.",
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa direste?",
+          "What would you say?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "vogliono",
+      "translations": [
+        "they want",
+        "want",
+        "they wish",
+        "they desire"
+      ],
+      "usageExamples": []
     }
   ]
 }

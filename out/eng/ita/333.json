@@ -1,40 +1,364 @@
 {
-  "sentence": "Ero continuamente spaventata.",
+  "sentence": "Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firenze.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I was scared all the time."
+    "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence."
   ],
   "parts": [
     {
-      "content": "Ero",
+      "content": "Durante",
       "translations": [
-        "I will be",
-        "I am going to be",
-        "I will exist",
-        "I will become"
+        "during",
+        "while",
+        "in the course of",
+        "throughout"
       ],
       "usageExamples": []
     },
     {
-      "content": "continuamente",
+      "content": "il",
       "translations": [
-        "continuously",
-        "constantly",
-        "incessantly",
-        "perpetually"
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suo",
+      "translations": [
+        "his",
+        "her",
+        "its",
+        "their"
+      ],
+      "usageExamples": [
+        [
+          "A Mary non piace il suo nuovo lavoro.",
+          "Mary doesn't like her new job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha lasciato un po' di cibo nel suo piatto.",
+          "She left some food on her plate.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo nuovo impiego.",
+          "Mary doesn't like her new job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "giro",
+      "translations": [
+        "turn",
+        "rotation",
+        "circuit",
+        "loop"
       ],
       "usageExamples": []
     },
     {
-      "content": "spaventata",
+      "content": "in",
       "translations": [
-        "scared",
-        "frightened",
-        "terrified",
-        "alarmed"
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Italia",
+      "translations": [
+        "Italy",
+        "Italian Republic",
+        "Italy (country)",
+        "Italy (nation)"
+      ],
+      "usageExamples": [
+        [
+          "Andò in Italia a studiare la musica.",
+          "She went to Italy to study music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mese scorso è andato in Italia.",
+          "Last month, he went to Italy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "visitato",
+      "translations": [
+        "visited",
+        "was visited",
+        "has been visited",
+        "was seen"
+      ],
+      "usageExamples": [
+        [
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "diverse",
+      "translations": [
+        "various",
+        "different",
+        "assorted"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "città",
+      "translations": [
+        "city",
+        "town",
+        "urban area",
+        "metropolis"
+      ],
+      "usageExamples": [
+        [
+          "La città russa Togliatti è stata nominata in onore del comunista italiano Palmiro Togliatti.",
+          "The Russian city Togliatti was named in honor of the Italian communist Palmiro Togliatti.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata costruita una ferrovia in questa città.",
+          "A railroad was constructed in this town.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "famose",
+      "translations": [
+        "famous",
+        "well-known",
+        "renowned",
+        "celebrated"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "loro",
+      "translations": [
+        "their",
+        "theirs",
+        "them",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le scarpe che diedi a Tom e Mary erano troppo piccole per loro.",
+          "The shoes I gave Tom and Mary were too small for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiedilo a loro e basta.",
+          "Just ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bellezza",
+      "translations": [
+        "beauty",
+        "loveliness",
+        "attractiveness",
+        "charm"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "scenica",
+      "translations": [
+        "scenic",
+        "theatrical",
+        "dramatic",
+        "visual"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "esempio",
+      "translations": [
+        "example",
+        "sample",
+        "instance",
+        "case"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Napoli",
+      "translations": [
+        "Naples",
+        "City of Naples"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "e",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition"
+      ],
+      "usageExamples": [
+        [
+          "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
+          "I understand that you and Tom are planning to get married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiedilo a loro e basta.",
+          "Just ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piacciono i cani e i gatti.",
+          "I like dogs and cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Firenze",
+      "translations": [
+        "Florence",
+        "City of Florence",
+        "Florentine"
       ],
       "usageExamples": []
     }

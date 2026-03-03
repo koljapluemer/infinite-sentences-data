@@ -1,125 +1,58 @@
 {
-  "sentence": "Preferirei restare qua a Boston.",
+  "sentence": "Però non funzionerà!",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ariarin (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd rather stay here in Boston."
+    "But that won't work!"
   ],
   "parts": [
     {
-      "content": "Preferirei",
+      "content": "Però",
       "translations": [
-        "I would prefer",
-        "I would rather",
-        "I would choose",
-        "I would like to prefer"
+        "However",
+        "But",
+        "Yet",
+        "On the other hand"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Preferirei non farlo.",
-          "I'd rather not do that.",
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "restare",
+      "content": "funzionerà",
       "translations": [
-        "to remain",
-        "to stay",
-        "to be left",
-        "to rest"
+        "it will work",
+        "it will function",
+        "it will operate",
+        "it will run"
       ],
-      "usageExamples": [
-        [
-          "È difficile restare calmi quando le scadenze vengono ignorate.",
-          "It's hard to stay calm when deadlines are ignored.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
-          "We cannot stand quiet and watch people starve.",
-          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "qua",
-      "translations": [
-        "where",
-        "in which",
-        "at which",
-        "by which"
-      ],
-      "usageExamples": [
-        [
-          "Chi era qua?",
-          "Who was here?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Devo aspettarli qua.",
-          "I have to wait here for them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
-      ],
-      "usageExamples": [
-        [
-          "Lo mostreremo a lei.",
-          "We'll show her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non riusciva a vederla.",
-          "He couldn't see her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Boston",
-      "translations": [
-        "City of Boston",
-        "Boston, Massachusetts",
-        "The Hub"
-      ],
-      "usageExamples": [
-        [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io e Tom andremo a Boston.",
-          "Tom and I'll go to Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non sono ancora stato a Boston.",
-          "I haven't been to Boston yet.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

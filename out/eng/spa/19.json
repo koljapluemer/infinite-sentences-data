@@ -1,109 +1,90 @@
 {
-  "sentence": "El tiempo está muy malo.",
+  "sentence": "Dime algo que no sepa.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The weather is very bad."
+    "Tell me something that I don't know."
   ],
   "parts": [
     {
-      "content": "El",
+      "content": "Dime",
       "translations": [
-        "The",
-        "He"
+        "Tell me",
+        "Say to me",
+        "Speak to me"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "algo",
+      "translations": [
+        "something"
       ],
       "usageExamples": [
         [
-          "El carámbano es una columna de hielo.",
-          "An icicle is a pillar of ice.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El hombre huele la leche.",
-          "The man smells the milk.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
-          "Hunger compelled the boy to steal money from the cash register.",
+          "Me gustaría tomar algo.",
+          "I'd like something to drink.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tiempo",
+      "content": "que",
       "translations": [
-        "time",
-        "weather"
+        "that",
+        "which"
       ],
       "usageExamples": [
         [
-          "El tiempo vuela.",
-          "Time goes by quickly.",
-          ""
-        ],
-        [
-          "Ayer tuvimos buen tiempo.",
-          "We had nice weather yesterday.",
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "No tengo tiempo.",
-          "I'm out of time.",
-          ""
-        ]
-      ]
-    },
-    {
-      "content": "está",
-      "translations": [
-        "is",
-        "are"
-      ],
-      "usageExamples": [
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
+          "Mi hijo cree que los murciélagos son reptiles porque son como pteranodontes.",
+          "My son thinks that bats are reptiles because they're like pteranodons.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El té sabe muy amargo y no está bueno.",
-          "The tea is really bitter and doesn't taste good.",
+          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
+          "It's marvelous how quickly the medicine relieved my pain.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "muy",
+      "content": "no",
       "translations": [
-        "very",
-        "really",
-        "quite"
+        "not"
       ],
       "usageExamples": [
         [
-          "Me siento muy enfermo.",
-          "I feel very sick.",
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Fue muy decepcionante.",
-          "It was very upsetting.",
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Mi padre maneja muy bien.",
-          "My father drives very well.",
+          "Mi intención no fue ofender.",
+          "No offense was meant.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "sepa",
+      "translations": [
+        "know",
+        "understand",
+        "be aware"
+      ],
+      "usageExamples": []
     }
   ]
 }

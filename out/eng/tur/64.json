@@ -1,36 +1,38 @@
 {
-  "sentence": "Sana anlatmak istemiyorum.",
+  "sentence": "Oy kullanmayacak mısın?",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't want to tell you."
+    "Aren't you going to vote?"
   ],
   "parts": [
     {
-      "content": "sana",
+      "content": "Oy",
       "translations": [
-        "to you",
-        "for you",
-        "your",
-        "to your"
+        "Oh.",
+        "Ouch",
+        "Hey.",
+        "Wow"
       ],
-      "usageExamples": [
-        [
-          "Niçin sana iş vermem gerekiyor?",
-          "Why should I hire you?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "anlatmak",
+      "content": "kullanmayacak",
       "translations": [
-        "to explain",
-        "to narrate",
-        "to describe",
-        "to tell"
+        "will not use",
+        "not going to use"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mısın",
+      "translations": [
+        "are you",
+        "do you",
+        "is it",
+        "are they"
       ],
       "usageExamples": []
     }

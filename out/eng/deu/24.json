@@ -1,58 +1,58 @@
 {
-  "sentence": "Was hat sie euch getan?",
+  "sentence": "Mit dem kommt niemand aus.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What did she do to you?"
+    "No one can get along with him."
   ],
   "parts": [
     {
-      "content": "hat",
+      "content": "Mit",
       "translations": [
-        "has",
-        "has got"
+        "with",
+        "by",
+        "including",
+        "among"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kommt",
+      "translations": [
+        "comes",
+        "is coming",
+        "arrives",
+        "is happening"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "niemand",
+      "translations": [
+        "nobody",
+        "no one",
+        "anyone",
+        "no person"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "aus",
+      "translations": [
+        "out",
+        "from",
+        "off",
+        "away"
       ],
       "usageExamples": [
         [
-          "Opa hat sich heute zum Nachtisch Grießbrei gewünscht.",
-          "Grandad asked for semolina for dessert today.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom hat nicht wirklich die Wahl.",
-          "Tom doesn't really have much choice.",
+          "Diese Arbeit mache ich ohne Bezahlung, einfach aus Lust an der Freude.",
+          "I do this work for free, simply for the pleasure of doing it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "sie",
-      "translations": [
-        "they",
-        "she"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "euch",
-      "translations": [
-        "you (plural)",
-        "yours (plural)",
-        "to you (plural)"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "getan",
-      "translations": [
-        "done",
-        "gotten",
-        "made",
-        "achieved"
-      ],
-      "usageExamples": []
     }
   ]
 }

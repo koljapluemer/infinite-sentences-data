@@ -1,59 +1,62 @@
 {
-  "sentence": "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
+  "sentence": "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
   "credits": [
-    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt."
+    "Ich denke nicht, dass ihr euren Job aufgeben solltet."
   ],
   "parts": [
     {
-      "content": "Sütten",
+      "content": "Sizlerin",
       "translations": [
-        "aus der Milch",
-        "von der Milch"
+        "euch",
+        "Sie"
       ],
       "usageExamples": []
     },
     {
-      "content": "ağzı",
+      "content": "işini",
       "translations": [
-        "Mund",
-        "Mundwinkel"
+        "seine Arbeit",
+        "seinen Job"
+      ],
+      "usageExamples": [
+        [
+          "Bugünün işini yarına bırakma.",
+          "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bırakmanız",
+      "translations": [
+        "lassen Sie es los",
+        "lassen Sie es fallen"
       ],
       "usageExamples": []
     },
     {
-      "content": "yanan",
+      "content": "gerektiğini",
       "translations": [
-        "brennend",
-        "flammend"
+        "was notwendig",
+        "was erforderlich"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
+          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "yoğurdu",
+      "content": "düşünmüyorum",
       "translations": [
-        "Joghurt",
-        "Yoghurt"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "üfleyerek",
-      "translations": [
-        "pfeifend",
-        "mit einem Pfiff"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yer",
-      "translations": [
-        "Ort",
-        "Platz",
-        "Stelle"
+        "Ich denke nicht",
+        "Ich überlege nicht"
       ],
       "usageExamples": []
     }

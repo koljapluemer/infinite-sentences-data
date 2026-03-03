@@ -1,82 +1,105 @@
 {
-  "sentence": "Scusami, sto cercando Tom.",
+  "sentence": "Quali sono i tuoi piani?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Excuse me, I'm looking for Tom."
+    "What are your plans?",
+    "What're your plans?"
   ],
   "parts": [
     {
-      "content": "Scusami",
+      "content": "Quali",
       "translations": [
-        "Excuse me.",
-        "Sorry.",
-        "Pardon me",
-        "My apologies"
+        "Which",
+        "What kind of",
+        "What type of",
+        "What sort of"
       ],
       "usageExamples": []
     },
     {
-      "content": "sto",
+      "content": "sono",
       "translations": [
-        "I stand",
-        "I am standing",
-        "I stay",
-        "I am staying"
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutte sono felici.",
+          "All are happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sto diventando piccolo!",
-          "I am getting small!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sto per andare in vacanza.",
-          "I'm about to go on vacation.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cercando",
+      "content": "i",
       "translations": [
-        "searching",
-        "looking for",
-        "seeking",
-        "hunting"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha molti amici?",
-          "Does Tom have a lot of friends?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ],
         [
-          "Dovremmo avvertire Tom.",
-          "We should warn Tom.",
+          "A Heather fanno male i denti.",
+          "Heather has a toothache.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "tuoi",
+      "translations": [
+        "your",
+        "yours",
+        "of yours"
+      ],
+      "usageExamples": [
+        [
+          "Prendi in prestito le biro dai tuoi amici.",
+          "You borrow pens from your friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piani",
+      "translations": [
+        "plans",
+        "floors",
+        "levels",
+        "schedules"
+      ],
+      "usageExamples": []
     }
   ]
 }

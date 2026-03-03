@@ -1,11 +1,12 @@
 {
-  "sentence": "Tom è di buon cuore.",
+  "sentence": "Tom ha comprato del cibo a Mary.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom has a good heart."
+    "Tom bought Mary some food.",
+    "Tom bought some food for Mary."
   ],
   "parts": [
     {
@@ -16,97 +17,167 @@
       ],
       "usageExamples": [
         [
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Tom amerà abitare qua.",
           "Tom will love living here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
         [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta gemendo.",
-          "Tom is groaning.",
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "comprato",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "bought",
+        "purchased",
+        "acquired",
+        "procured"
       ],
       "usageExamples": [
         [
-          "Lei è americano?",
-          "Are you American?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
+          "The train is taking off and we haven't bought our tickets!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è famoso.",
-          "Tom is famous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Tom ha comprato un anello per Mary.",
+          "Tom bought Mary a ring.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "del",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "of the",
+        "from the",
+        "about the",
+        "by the"
       ],
       "usageExamples": [
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
+          "Come to Albania, where we always make good coffee.",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "buon",
+      "content": "cibo",
       "translations": [
-        "good",
-        "nice",
-        "well",
-        "pleasant"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "cuore",
-      "translations": [
-        "heart",
-        "core",
-        "center",
-        "essence"
+        "food",
+        "meal",
+        "nourishment",
+        "provisions"
       ],
       "usageExamples": [
         [
-          "Cosa ti fa andare il cuore a tutta velocità?",
-          "What makes your heart race?",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Odio il cibo degli ospedali.",
+          "I hate hospital food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha lasciato un po' di cibo nel suo piatto.",
+          "She left some food on her plate.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano suo marito e i suoi figli.",
+          "Mary misses her husband and children.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

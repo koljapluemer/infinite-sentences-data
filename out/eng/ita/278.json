@@ -1,49 +1,88 @@
 {
-  "sentence": "Faccia attenzione alle api.",
+  "sentence": "Con chi ci andrà?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Look out for bees."
+    "Who are you going with?"
   ],
   "parts": [
     {
-      "content": "Faccia",
+      "content": "Con",
       "translations": [
-        "face",
-        "surface",
-        "appearance",
-        "front"
+        "With",
+        "Against",
+        "In favor of",
+        "In support of"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Con chi stava parlando Tom?",
+          "Who was Tom talking to?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "attenzione",
+      "content": "chi",
       "translations": [
-        "attention",
-        "care",
-        "notice",
-        "alertness"
+        "who",
+        "whom",
+        "which",
+        "that"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ],
+        [
+          "A chi non piace quello?",
+          "Who doesn't like that?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non so chi dovrebbe guidarmi.",
+          "I don't know who should guide me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "alle",
+      "content": "ci",
       "translations": [
-        "to the",
-        "at the",
-        "in the",
-        "for the"
+        "us",
+        "to us",
+        "for us",
+        "at us"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Lei ci catturerà.",
+          "She will catch us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Loro ci aiutano.",
+          "They help us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "api",
+      "content": "andrà",
       "translations": [
-        "bee",
-        "honeybee",
-        "bee species"
+        "will go",
+        "is going to go",
+        "will be going",
+        "is about to go"
       ],
       "usageExamples": []
     }

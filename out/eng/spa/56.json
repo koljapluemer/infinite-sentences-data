@@ -1,63 +1,104 @@
 {
-  "sentence": "No quiero molestarte.",
+  "sentence": "Fue una reunión muy larga.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't want to disturb you."
+    "It was a very long meeting."
   ],
   "parts": [
     {
-      "content": "no",
+      "content": "Fue",
       "translations": [
-        "not"
+        "was",
+        "has been"
       ],
       "usageExamples": [
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
+          "Fue planeado.",
+          "It was planned.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Mis amigos no saben dónde estoy.",
-          "My friends don't know where I am.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi intención no fue ofender.",
-          "No offense was meant.",
+          "Fue muy decepcionante.",
+          "It was very upsetting.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quiero",
+      "content": "una",
       "translations": [
-        "I want",
-        "I would like"
+        "a",
+        "one",
+        "an"
       ],
       "usageExamples": [
         [
-          "Pretendo decirle a Tom que no quiero ir.",
-          "I plan to tell Tom that I don't want to go.",
+          "Eres una chica linda.",
+          "You're a cute girl.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom va a la biblioteca al menos una vez por mes.",
+          "Tom goes to the library at least once a month.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molestarte",
+      "content": "reunión",
       "translations": [
-        "to bother you",
-        "to disturb you",
-        "to trouble you"
+        "meeting",
+        "gathering",
+        "assembly",
+        "conference"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "muy",
+      "translations": [
+        "very",
+        "really",
+        "quite"
+      ],
+      "usageExamples": [
+        [
+          "Fue muy decepcionante.",
+          "It was very upsetting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me siento muy enfermo.",
+          "I feel very sick.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El tiempo está muy malo.",
+          "The weather is very bad.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "larga",
+      "translations": [
+        "long"
+      ],
+      "usageExamples": [
+        [
+          "Ella le escribió una carta larga, pero él no la leyó.",
+          "She wrote him a long letter, but he didn't read it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

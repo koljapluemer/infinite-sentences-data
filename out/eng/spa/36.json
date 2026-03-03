@@ -1,67 +1,113 @@
 {
-  "sentence": "Francois dio un discurso.",
+  "sentence": "Ellos ahora están a bordo del barco.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "François gave a speech."
+    "They are now aboard the ship."
   ],
   "parts": [
     {
-      "content": "Francois",
+      "content": "Ellos",
       "translations": [
-        "Francois",
-        "Francis"
+        "They",
+        "Them"
       ],
       "usageExamples": []
     },
     {
-      "content": "dio",
+      "content": "ahora",
       "translations": [
-        "god",
-        "deity"
+        "now",
+        "right now",
+        "at this moment"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "están",
+      "translations": [
+        "they are",
+        "are located",
+        "are present"
       ],
       "usageExamples": [
         [
-          "Tom dio con una pauta en los datos.",
-          "Tom spotted a pattern in the data.",
+          "Los libros están en la mesa.",
+          "The books are located on the table.",
+          ""
+        ],
+        [
+          "Mis amigos están en el cine ahora.",
+          "My friends are in the cinema right now.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "bordo",
       "translations": [
-        "a",
-        "one",
-        "an"
+        "edge",
+        "border",
+        "rim",
+        "fringe"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of",
+        "from"
       ],
       "usageExamples": [
         [
-          "Necesito un libro.",
-          "I require a book.",
-          ""
+          "Robert ayudó a Sandra a bajar del árbol.",
+          "Robert helped Sandra down the tree.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Quiero un café.",
-          "I'd like a coffee.",
-          ""
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
+          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
+          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "discurso",
+      "content": "barco",
       "translations": [
-        "speech",
-        "discourse",
-        "talk",
-        "address"
+        "boat",
+        "ship",
+        "vessel"
       ],
       "usageExamples": []
     }

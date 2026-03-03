@@ -1,156 +1,95 @@
 {
-  "sentence": "Riuscite a distinguere Jane dalla sua sorella gemella?",
+  "sentence": "Posso avere una birra?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Can you tell Jane from her twin sister?"
+    "Can I have a beer?"
   ],
   "parts": [
     {
-      "content": "riuscite",
+      "content": "Posso",
       "translations": [
-        "you succeed",
-        "you manage",
-        "you are able",
-        "you get it done"
+        "I can.",
+        "I may",
+        "I am able to",
+        "I might"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "avere",
+      "translations": [
+        "to have",
+        "to possess",
+        "to own",
+        "to hold"
       ],
       "usageExamples": [
         [
-          "Riuscite a leggermi nel pensiero?",
-          "Can you read my mind?",
+          "Possono avere qualsiasi cosa vogliono.",
+          "They can have anything they want.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pensa che Tom potrebbe avere ragione?",
+          "Do you think Tom might be correct?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary nega di avere pianto.",
+          "Mary denies that she cried.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "a",
+      "content": "una",
       "translations": [
-        "an",
         "one",
-        "each"
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
+          "È una giornata nuvolosa.",
+          "It's a cloudy day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volate fino a Londra.",
-          "Fly to London.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "distinguere",
-      "translations": [
-        "to distinguish",
-        "to differentiate",
-        "to discern",
-        "to identify"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Jane",
-      "translations": [
-        "Jane Doe",
-        "Ms. Jane",
-        "Lady Jane"
-      ],
-      "usageExamples": [
-        [
-          "A Jane piaceva far credere che fosse un insegnante.",
-          "Jane liked to make believe she was a teacher.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Jane piaceva far credere che lei fosse un insegnante.",
-          "Jane liked to make believe she was a teacher.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dalla",
-      "translations": [
-        "from the",
-        "by the",
-        "of the",
-        "at the"
-      ],
-      "usageExamples": [
-        [
-          "È uscito dalla cucina.",
-          "He got out of the kitchen.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sua",
-      "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
-      ],
-      "usageExamples": [
-        [
-          "Dov'è la sua casa?",
-          "Where is your house?",
+          "Sono una buona persona.",
+          "I'm a good person.",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary importa della sua salute.",
-          "Mary cares about her health.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ha passato la sua infanzia a Boston.",
-          "Tom spent his childhood in Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sorella",
+      "content": "birra",
       "translations": [
-        "sister",
-        "female sibling",
-        "sororal figure",
-        "sisterly relation"
+        "beer",
+        "brew",
+        "lager",
+        "ale"
       ],
       "usageExamples": [
         [
-          "È intelligente quanto sua sorella.",
-          "He's as smart as his sister.",
+          "Beviamo un'altra birra.",
+          "Let's have another beer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Loro sono fratello e sorella.",
-          "They're brother and sister.",
+          "La birra è bevuta fredda.",
+          "Beer is drunk cold.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "gemella",
-      "translations": [
-        "twin",
-        "pair",
-        "double",
-        "gemini"
-      ],
-      "usageExamples": []
     }
   ]
 }

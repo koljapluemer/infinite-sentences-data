@@ -1,54 +1,39 @@
 {
-  "sentence": "Leyla türbanını çıkarmayı düşünüyordu.",
+  "sentence": "Hiç İstanbul'a gitmedim.",
   "credits": [
-    "Sentence from Tatoeba by SadeceTurkce (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Airvian (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Layla was thinking about taking her hijab off."
+    "I never went to Istanbul."
   ],
   "parts": [
     {
-      "content": "Leyla",
+      "content": "Hiç",
       "translations": [
-        "Leyla",
-        "Layla"
+        "none",
+        "not at all",
+        "ever",
+        "at all"
       ],
       "usageExamples": []
     },
     {
-      "content": "türban",
+      "content": "İstanbul'a",
       "translations": [
-        "headscarf",
-        "turban"
+        "to Istanbul",
+        "in Istanbul"
       ],
       "usageExamples": []
     },
     {
-      "content": "çıkarmak",
+      "content": "gitmedim",
       "translations": [
-        "to take out",
-        "to remove",
-        "to extract",
-        "to issue"
+        "I couldn't go.",
+        "I didn't get to go",
+        "I haven't gone"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "düşünmek",
-      "translations": [
-        "to think",
-        "to consider",
-        "to reflect",
-        "to ponder"
-      ],
-      "usageExamples": [
-        [
-          "Başka bir şey düşünmek zorundayız.",
-          "We have to think of something else.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

@@ -1,72 +1,139 @@
 {
-  "sentence": "Beh, sicuramente lo richiederò.",
+  "sentence": "A Mary piacciono i cavalli.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Well, I'll surely ask again."
+    "Mary likes horses."
   ],
   "parts": [
     {
-      "content": "Beh",
+      "content": "A",
       "translations": [
-        "Well",
-        "So"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Beh, eccoci qui alla fine!",
-          "Well, here we are at last!",
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sicuramente",
+      "content": "Mary",
       "translations": [
-        "certainly",
-        "surely",
-        "definitely",
-        "without a doubt"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "lo",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said that she loved him.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
+          "Mary ha preparato la colazione.",
+          "Mary made breakfast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "richiederò",
+      "content": "piacciono",
       "translations": [
-        "I will request",
-        "I will ask for",
-        "I will demand",
-        "I will require"
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Mi piacciono i cani e i gatti.",
+          "I like dogs and cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Maria piacciono i fiori.",
+          "Maria likes flowers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono le case delle bambole.",
+          "Mary likes doll houses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quali sono i tuoi piani?",
+          "What're your plans?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cavalli",
+      "translations": [
+        "horses",
+        "stallions",
+        "cavalry",
+        "equines"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono i cavalli, vero?",
+          "Mary likes horses, doesn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Hokkaido fanno cavalli di paglia.",
+          "In Hokkaido, they make horses of straw.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

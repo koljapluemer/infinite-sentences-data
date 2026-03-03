@@ -1,84 +1,146 @@
 {
-  "sentence": "Scendi da quella scala.",
+  "sentence": "Qualcuno ha rubato la mia borsa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Get down from that ladder."
+    "Somebody has stolen my bag."
   ],
   "parts": [
     {
-      "content": "Scendi",
+      "content": "Qualcuno",
       "translations": [
-        "Get down",
-        "Descend",
-        "Come down.",
-        "Lower yourself"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "da",
-      "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
+        "Someone",
+        "Somebody",
+        "Anyone",
+        "A person"
       ],
       "usageExamples": [
         [
-          "Imparai l'esperanto da sola.",
-          "I learned Esperanto by myself.",
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dovresti lasciarmi da sola.",
-          "You should leave me alone.",
+          "Qualcuno ha pugnalato l'uomo nella gamba.",
+          "Someone stabbed the man in the leg.",
+          "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hanno delle famiglie da sfamare.",
-          "They have families to feed.",
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "rubato",
+      "translations": [
+        "stolen time",
+        "robbed time",
+        "flexible tempo",
+        "expressive timing"
+      ],
+      "usageExamples": [
+        [
+          "Un gruppo di gangster ha rubato del denaro.",
+          "A group of gangsters stole money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il corridore ha rubato la terza base.",
+          "The runner stole third base.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quella",
+      "content": "la",
       "translations": [
+        "the",
         "that",
-        "the one",
-        "that one",
-        "the"
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Taxi, segui quella macchina.",
-          "Taxi, follow that car.",
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cos'è quella cosa là?",
-          "What's that thing there?",
+          "Lui accese la radio.",
+          "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami sentì quella ragazza.",
-          "Sami heard that girl.",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scala",
+      "content": "mia",
       "translations": [
-        "ladder",
-        "scale",
-        "staircase",
-        "stair"
+        "my",
+        "mine",
+        "belonging to me"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La mia ragazza è molto gelosa.",
+          "My girlfriend is very jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "borsa",
+      "translations": [
+        "bag",
+        "purse",
+        "handbag",
+        "sack"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha trovato una pistola nella borsa di Mary.",
+          "Tom found a gun in Mary's purse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,68 +1,79 @@
 {
-  "sentence": "Tom'un çok zamanı var.",
+  "sentence": "Tom'u çağırmamı ister misiniz?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat viel Zeit."
+    "Wollen Sie, dass ich Tom rufe?"
   ],
   "parts": [
     {
-      "content": "çok",
+      "content": "Tom",
       "translations": [
-        "sehr",
-        "viel"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Esperanto öğrenmek çok ilginçtir.",
-          "Esperanto zu lernen ist sehr interessant.",
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Az laf, çok iş!",
-          "Weniger quatschen, mehr handeln!",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
-        ],
-        [
-          "Futbola çok ilgim var.",
-          "Ich interessiere mich sehr für Fußball.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "zamanı",
+      "content": "çağır",
       "translations": [
-        "Zeit",
-        "Zeitraum"
+        "rufen",
+        "einladen",
+        "herbeirufen"
       ],
       "usageExamples": []
     },
     {
-      "content": "var",
+      "content": "mam",
       "translations": [
-        "var",
-        "es gibt"
+        "Mama",
+        "Mutti",
+        "Mutter"
       ],
-      "usageExamples": [
-        [
-          "Köyde beş inek var.",
-          "Im Dorf gibt es fünf Rinder.",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Futbola çok ilgim var.",
-          "Ich interessiere mich sehr für Fußball.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dokuza çeyrek var.",
-          "Es ist Viertel vor neun.",
-          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "ı",
+      "translations": [
+        "ich",
+        "ich bin"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ister",
+      "translations": [
+        "bitte",
+        "möchten Sie"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "misiniz",
+      "translations": [
+        "sind Sie",
+        "bist du",
+        "sind Sie nicht",
+        "bist du nicht"
+      ],
+      "usageExamples": []
     }
   ]
 }

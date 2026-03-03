@@ -1,181 +1,88 @@
 {
-  "sentence": "El té sabe muy amargo y no está bueno.",
+  "sentence": "Déme usted la equivalencia en dólares.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by FeuDRenais (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The tea is really bitter and doesn't taste good."
+    "Give me the equivalent in dollars."
   ],
   "parts": [
     {
-      "content": "El",
+      "content": "Déme",
       "translations": [
-        "The",
-        "He"
-      ],
-      "usageExamples": [
-        [
-          "El ruido me está volviendo loco.",
-          "The noise is driving me crazy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
-          "Hunger compelled the boy to steal money from the cash register.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El tiempo está muy malo.",
-          "The weather is very bad.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "té",
-      "translations": [
-        "tea",
-        "herbal tea"
+        "Give me",
+        "Let me have"
       ],
       "usageExamples": []
     },
     {
-      "content": "sabe",
+      "content": "usted",
       "translations": [
-        "know",
-        "do you know",
-        "are you aware"
-      ],
-      "usageExamples": [
-        [
-          "Ele sabe cozinhar bem.",
-          "He is a good cook.",
-          ""
-        ],
-        [
-          "Você sabe a resposta?",
-          "Are you aware of the answer?",
-          ""
-        ],
-        [
-          "La pizza sabe diferente cuando está fría.",
-          "Pizza tastes different when it's cold.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "muy",
-      "translations": [
-        "very",
-        "really",
-        "quite"
-      ],
-      "usageExamples": [
-        [
-          "Fue muy decepcionante.",
-          "It was very upsetting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Me siento muy enfermo.",
-          "I feel very sick.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El tiempo está muy malo.",
-          "The weather is very bad.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "amargo",
-      "translations": [
-        "bitter",
-        "sour"
+        "you (formal)",
+        "you (polite)"
       ],
       "usageExamples": []
     },
     {
-      "content": "y",
+      "content": "la",
       "translations": [
-        "and",
-        "plus"
+        "the"
       ],
       "usageExamples": [
         [
-          "Cantemos y bailemos.",
-          "Let's sing and dance.",
+          "La comida está lista.",
+          "The food is ready.",
+          ""
+        ],
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
-          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "La casa es grande.",
+          "The house is big.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "equivalencia",
+      "translations": [
+        "equivalence",
+        "equivalency"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Confío en él.",
+          "I believe in him.",
+          ""
         ],
         [
-          "Algunos niños trajeron sándwiches de mantequilla de cacahuete, algunos de jamón y otros de queso.",
-          "Some children brought peanut butter sandwiches, some ham, and others cheese.",
+          "Estoy en casa.",
+          "I am at home.",
+          ""
+        ],
+        [
+          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
+          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "no",
+      "content": "dólares",
       "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi intención no fue ofender.",
-          "No offense was meant.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "está",
-      "translations": [
-        "is",
-        "are"
-      ],
-      "usageExamples": [
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El tiempo está muy malo.",
-          "The weather is very bad.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "bueno",
-      "translations": [
-        "good",
-        "well",
-        "fine",
-        "okay"
+        "dollars",
+        "USD"
       ],
       "usageExamples": []
     }

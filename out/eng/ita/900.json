@@ -1,112 +1,122 @@
 {
-  "sentence": "Ti è piaciuto Tom?",
+  "sentence": "Sentii la notizia su di lei.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you like Tom?"
+    "I heard the news about her."
   ],
   "parts": [
     {
-      "content": "Ti",
+      "content": "Sentii",
       "translations": [
-        "You",
-        "To you",
-        "For you",
-        "Yourself"
+        "I felt",
+        "I sensed",
+        "I perceived",
+        "I experienced"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Ti darò questa biro.",
-          "I'll give you this pen.",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti compro un regalo.",
-          "I buy you a present.",
+          "Prendi la mia.",
+          "Take mine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "notizia",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "news",
+        "information",
+        "report",
+        "announcement"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "su",
+      "translations": [
+        "on",
+        "upon",
+        "over",
+        "above"
       ],
       "usageExamples": [
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
+          "Mio nonno si siede sempre su questa sedia.",
+          "My grandfather always sits in this chair.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un esperto.",
-          "Tom is a pro.",
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piaciuto",
+      "content": "lei",
       "translations": [
-        "liked",
-        "pleased",
-        "enjoyed",
-        "appreciated"
+        "she",
+        "you (formal)"
       ],
       "usageExamples": [
         [
-          "A Benedito è piaciuto il suo viaggio in India.",
-          "Benedito enjoyed his trip to India.",
+          "Era sposato con lei.",
+          "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Marie non è piaciuto quel gioco.",
-          "Marie didn't like that game.",
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Marika è piaciuto il suo viaggio in Giappone?",
-          "Did Marika like her trip to Japan?",
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
-      ],
-      "usageExamples": [
-        [
-          "Tom vende funghi psichedelici.",
-          "Tom sells psychedelic mushrooms.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non cambia mai.",
-          "Tom never changes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ]
       ]
     }

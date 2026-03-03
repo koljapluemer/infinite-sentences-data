@@ -1,30 +1,104 @@
 {
-  "sentence": "È piuttosto comodo.",
+  "sentence": "Vi manca molto, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's quite comfortable."
+    "You miss her a lot, don't you?",
+    "You miss him a lot, don't you?"
   ],
   "parts": [
     {
-      "content": "È",
+      "content": "Vi",
       "translations": [
-        "It is",
-        "He is",
-        "She is",
-        "There is"
+        "Way",
+        "Path",
+        "Route",
+        "Journey"
       ],
       "usageExamples": [
         [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
+          "Vi obbedirà.",
+          "He'll obey you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È mio nemico.",
-          "He's my enemy.",
+          "Vi posso insegnare a lottare.",
+          "I can teach you how to fight.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "manca",
+      "translations": [
+        "missing",
+        "lacking",
+        "absent",
+        "deficient"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca la sua scarpa destra.",
+          "Mary is missing her right shoe.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca la sua famiglia.",
+          "Mary misses her family.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "molto",
+      "translations": [
+        "very",
+        "much",
+        "a lot",
+        "extremely"
+      ],
+      "usageExamples": [
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -33,42 +107,6 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "piuttosto",
-      "translations": [
-        "rather",
-        "quite",
-        "fairly",
-        "instead"
-      ],
-      "usageExamples": [
-        [
-          "Siete piuttosto timidi, vero?",
-          "You're quite shy, aren't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È piuttosto avventurosa, vero?",
-          "She's pretty adventurous, isn't she?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è piuttosto soddisfatta della sua vita così com'è.",
-          "She is quite satisfied with her life as it is.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "comodo",
-      "translations": [
-        "comfortable",
-        "convenient",
-        "easy",
-        "handy"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,106 +1,73 @@
 {
-  "sentence": "O Romeo Romeo, perché sei tu Romeo?",
+  "sentence": "Non hai coscienza!",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Scott (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "O Romeo Romeo, wherefore art thou Romeo?",
-    "O Romeo Romeo, why are you Romeo?",
-    "O Romeo, Romeo, wherefore art thou Romeo?"
+    "You have no conscience!"
   ],
   "parts": [
     {
-      "content": "O",
+      "content": "Non",
       "translations": [
-        "Oh.",
-        "O!",
-        "O, the"
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
+      ],
+      "usageExamples": [
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non volevo intromettermi.",
+          "I didn't want to intrude.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hai",
+      "translations": [
+        "you have",
+        "you've got",
+        "you possess",
+        "you own"
+      ],
+      "usageExamples": [
+        [
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti ne hai?",
+          "How many do you have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "coscienza",
+      "translations": [
+        "consciousness",
+        "awareness",
+        "cognition",
+        "mindfulness"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "Romeo",
-      "translations": [
-        "Romeo (a male given name)",
-        "Romeo (character from Shakespeare's play)",
-        "Romeo (a romantic figure)"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "perché",
-      "translations": [
-        "why",
-        "because",
-        "for what reason",
-        "for what purpose"
-      ],
-      "usageExamples": [
-        [
-          "Tom voleva sapere perché Mary non era felice.",
-          "Tom wanted to know why Mary was not happy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il Museo del Prado è chiuso perché oggi è lunedì.",
-          "The Prado Museum is closed because today is Monday.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non lo avete fatto?",
-          "Why didn't you do it?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sei",
-      "translations": [
-        "six",
-        "you are",
-        "if you",
-        "be"
-      ],
-      "usageExamples": [
-        [
-          "Tu sei sposata?",
-          "Are you married?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non sei una spia, vero?",
-          "You aren't a spy, are you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu sei quello che ha chiesto a Tom di aiutare?",
-          "Are you the one who asked Tom to help?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tu",
-      "translations": [
-        "you",
-        "yourself",
-        "thou",
-        "yours"
-      ],
-      "usageExamples": [
-        [
-          "Mi fa piacere che tu sia d'accordo.",
-          "I'm glad you agree.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
-          "I understand that you and Tom are planning to get married.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

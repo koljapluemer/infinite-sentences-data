@@ -1,49 +1,48 @@
 {
-  "sentence": "Bunu neden istediğini sormayacağım.",
+  "sentence": "Bugünün işini yarına bırakma.",
   "credits": [
-    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich werde nicht fragen, warum du das willst."
+    "Was du heute kannst besorgen, das verschiebe nicht auf morgen."
   ],
   "parts": [
     {
-      "content": "Bunu",
+      "content": "Bugünün",
       "translations": [
-        "Das hier",
-        "Das"
+        "Heute",
+        "Von heute"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "işini",
+      "translations": [
+        "seine Arbeit",
+        "seinen Job"
       ],
       "usageExamples": [
         [
-          "Bunu yapabileceğimizi düşündüm.",
-          "Ich dachte, dass wir es tun konnten.",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "neden",
+      "content": "yarına",
       "translations": [
-        "warum",
-        "wieso",
-        "weshalb"
+        "für morgen",
+        "bis morgen"
       ],
       "usageExamples": []
     },
     {
-      "content": "istediğini",
+      "content": "bırakma",
       "translations": [
-        "was du willst",
-        "was du möchtest"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sormayacağım",
-      "translations": [
-        "ich werde nicht fragen",
-        "ich werde nicht ansprechen"
+        "lass es nicht los",
+        "gib nicht auf"
       ],
       "usageExamples": []
     }

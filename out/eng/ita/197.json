@@ -1,73 +1,138 @@
 {
-  "sentence": "Che cosa direste?",
+  "sentence": "A Mary piace Boston, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What would you say?"
+    "Mary likes Boston, doesn't she?"
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "A",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Che fallito!",
-          "What a loser!",
-          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
-        ],
-        [
-          "Che canzone strana...",
-          "What a weird song...",
+          "A quale proposito?",
+          "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che musica ascoltate?",
-          "What music do you listen to?",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cosa",
+      "content": "Mary",
       "translations": [
-        "thing",
-        "item",
-        "object",
-        "matter"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cos'è quella cosa là?",
-          "What's that thing there?",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non sapeva cosa fare.",
-          "She didn't know what to do.",
-          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+          "A Mary piace Tom, però a lui non piace lei.",
+          "Mary likes Tom, but he doesn't like her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "direste",
+      "content": "piace",
       "translations": [
-        "you would say",
-        "you would tell",
-        "you would speak"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Boston",
+      "translations": [
+        "City of Boston",
+        "Boston, Massachusetts",
+        "The Hub"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io e Tom andremo a Boston.",
+          "Tom and I'll go to Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha acconsentito ad andare a Boston con lei.",
+          "He agreed to go to Boston with her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È scoraggiata, vero?",
+          "She's discouraged, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

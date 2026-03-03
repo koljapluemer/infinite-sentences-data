@@ -1,12 +1,11 @@
 {
-  "sentence": "Tom è famoso.",
+  "sentence": "Tom ha dato dell'idiota all'arbitro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is famous.",
-    "Tom's famous."
+    "Tom called the referee an idiot."
   ],
   "parts": [
     {
@@ -17,13 +16,13 @@
       ],
       "usageExamples": [
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
+          "Tom sta gemendo.",
+          "Tom is groaning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,38 +33,73 @@
       ]
     },
     {
-      "content": "è",
+      "content": "ha",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già finito?",
+          "Have you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "famoso",
+      "content": "dato",
       "translations": [
-        "famous",
-        "well-known",
-        "renowned",
-        "celebrated"
+        "given",
+        "data",
+        "fact",
+        "information"
+      ],
+      "usageExamples": [
+        [
+          "A Madre Teresa è stato dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il dottore gli ha dato un sedativo.",
+          "The doctor gave him a sedative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Madre Teresa fu dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dell'idiota",
+      "translations": [
+        "of the idiot",
+        "of the fool",
+        "of the moron",
+        "of the simpleton"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "all'arbitro",
+      "translations": [
+        "to the referee",
+        "at the referee",
+        "for the referee",
+        "towards the referee"
       ],
       "usageExamples": []
     }

@@ -1,38 +1,95 @@
 {
-  "sentence": "Tren zamanında ayrıldı.",
+  "sentence": "Tom ne kadar ödünç para almalı?",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The train left on time."
+    "How much money does Tom need to borrow?"
   ],
   "parts": [
     {
-      "content": "tren",
+      "content": "Tom",
       "translations": [
-        "train",
-        "trolley"
+        "Tom",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom bizi korkuttu.",
+          "Tom scared us.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom Mary'ye bekleyeceğini söyledi.",
+          "Tom told Mary he'd wait.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sigara içmeyi bırakmalı.",
+          "Tom ought to stop smoking.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ne",
+      "translations": [
+        "what",
+        "huh",
+        "right",
+        "no way"
+      ],
+      "usageExamples": [
+        [
+          "Şu an ne yiyorsun?",
+          "What are you eating right now?",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Peki, ona ne denir?",
+          "Well, what's it called?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O istasyonun adı ne?",
+          "What's the name of that station?",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "kadar",
+      "translations": [
+        "as much as",
+        "as long as",
+        "to the extent that",
+        "up to"
+      ],
+      "usageExamples": [
+        [
+          "Yaralılar ne kadar kan kaybetti?",
+          "How much blood has the injured lost?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "para",
+      "translations": [
+        "money",
+        "cash",
+        "funds",
+        "currency"
       ],
       "usageExamples": []
     },
     {
-      "content": "zamanında",
+      "content": "almalı",
       "translations": [
-        "in time",
-        "on time",
-        "in due time",
-        "at the right time"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ayrıldı",
-      "translations": [
-        "left",
-        "departed",
-        "split",
-        "separated"
+        "must have",
+        "should have",
+        "ought to have"
       ],
       "usageExamples": []
     }

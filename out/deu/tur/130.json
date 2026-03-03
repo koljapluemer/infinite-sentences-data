@@ -1,36 +1,64 @@
 {
-  "sentence": "İnsanlar garip hayvanlardır.",
+  "sentence": "Çok fazla Fransızca konuşamam.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by oxyii (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Menschen sind merkwürdige Tiere."
+    "Ich spreche nicht viel Französisch."
   ],
   "parts": [
     {
-      "content": "İnsanlar",
+      "content": "çok",
       "translations": [
-        "Menschen",
-        "Leute"
+        "sehr",
+        "viel"
+      ],
+      "usageExamples": [
+        [
+          "Az laf, çok iş!",
+          "Weniger quatschen, mehr handeln!",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ],
+        [
+          "Esperanto öğrenmek çok ilginçtir.",
+          "Esperanto zu lernen ist sehr interessant.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fazla",
+      "translations": [
+        "zu viel",
+        "übermäßig"
+      ],
+      "usageExamples": [
+        [
+          "Ne yazık ki, her zaman çok fazla veriyorum.",
+          "Ich gebe leider immer zu viel.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Fransızca",
+      "translations": [
+        "Französisch",
+        "Französische Sprache"
       ],
       "usageExamples": []
     },
     {
-      "content": "garip",
+      "content": "konuşamam",
       "translations": [
-        "seltsam",
-        "komisch",
-        "merkwürdig",
-        "fremd"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "hayvanlardır",
-      "translations": [
-        "Tiere sind es",
-        "Es sind Tiere"
+        "ich kann nicht sprechen",
+        "ich kann nicht reden"
       ],
       "usageExamples": []
     }

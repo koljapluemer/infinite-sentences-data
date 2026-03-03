@@ -1,85 +1,105 @@
 {
-  "sentence": "El hombre huele la leche.",
+  "sentence": "Dijo que tenía mucho dinero.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The man smells the milk."
+    "He said that he had a lot of money."
   ],
   "parts": [
     {
-      "content": "El",
+      "content": "Dijo",
       "translations": [
-        "The",
-        "He"
+        "He said",
+        "She said",
+        "They said",
+        "Said"
       ],
       "usageExamples": [
         [
-          "El té sabe muy amargo y no está bueno.",
-          "The tea is really bitter and doesn't taste good.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El gran crítico y el poeta viajan juntos.",
-          "The great critic and the poet are traveling together.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El tiempo está muy malo.",
-          "The weather is very bad.",
+          "Dijo que había visto esa foto antes.",
+          "He said that he had seen the picture before.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hombre",
+      "content": "que",
       "translations": [
-        "man",
-        "male"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "huele",
-      "translations": [
-        "smells",
-        "scent",
-        "fragrance",
-        "odor"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
+        "that",
+        "which"
       ],
       "usageExamples": [
         [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "La casa es grande.",
-          "The house is large.",
-          ""
+          "Pocos, si es que alguno, lo criticarán.",
+          "Few, if any, will criticize him.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "La comida está lista.",
-          "The meal is prepared.",
-          ""
+          "Dijo que había visto esa foto antes.",
+          "He said that he had seen the picture before.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "leche",
+      "content": "tenía",
       "translations": [
-        "milk",
-        "dairy"
+        "I had",
+        "he/she/it had",
+        "you had (formal)",
+        "we had"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
+          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mucho",
+      "translations": [
+        "a lot",
+        "much",
+        "many",
+        "very"
+      ],
+      "usageExamples": [
+        [
+          "No caí en la cuenta hasta mucho después.",
+          "I didn't realize it until much later.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Eso ocurrió hace mucho tiempo.",
+          "It happened a long time ago.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dinero",
+      "translations": [
+        "money",
+        "cash",
+        "funds",
+        "currency"
+      ],
+      "usageExamples": [
+        [
+          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
+          "Hunger compelled the boy to steal money from the cash register.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

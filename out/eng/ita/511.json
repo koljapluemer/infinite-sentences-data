@@ -1,42 +1,20 @@
 {
-  "sentence": "Lei ha già finito?",
+  "sentence": "L'astronauta ha trovato un organismo intelligente.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you done yet?",
-    "Are you finished yet?",
-    "Are you through yet?",
-    "Have you already finished?",
-    "Have you finished yet?"
+    "The astronaut found an intelligent organism."
   ],
   "parts": [
     {
-      "content": "Lei",
+      "content": "L'astronauta",
       "translations": [
-        "You (formal)",
-        "She",
-        "Mrs.",
-        "Ma'am"
+        "The astronaut",
+        "An astronaut",
+        "Astronaut"
       ],
-      "usageExamples": [
-        [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha frenato.",
-          "She braked.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è americano?",
-          "Are you American?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "ha",
@@ -47,66 +25,86 @@
       ],
       "usageExamples": [
         [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "L'ha salvata.",
-          "He rescued her.",
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Nessuno ha capito nulla.",
           "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "già",
-      "translations": [
-        "already",
-        "now",
-        "yet",
-        "at this point"
-      ],
-      "usageExamples": [
-        [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary dice che ha già deciso di farlo.",
-          "Mary says she's already decided to do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai già visto il campus?",
-          "Have you seen the campus yet?",
+          "Un cane ha corso.",
+          "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "finito",
+      "content": "trovato",
       "translations": [
-        "finished",
-        "done",
-        "completed",
-        "over"
+        "found",
+        "discovered",
+        "located",
+        "identified"
       ],
       "usageExamples": [
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Tom ha trovato una pistola nella borsa di Mary.",
+          "Tom found a gun in Mary's purse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
+          "Ho letto un fumetto.",
+          "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "organismo",
+      "translations": [
+        "organism",
+        "body",
+        "entity",
+        "organization"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "intelligente",
+      "translations": [
+        "intelligent",
+        "smart",
+        "clever",
+        "bright"
+      ],
+      "usageExamples": [
+        [
+          "È intelligente quanto sua sorella.",
+          "He's as smart as his sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

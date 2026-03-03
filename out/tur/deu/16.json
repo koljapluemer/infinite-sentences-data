@@ -1,11 +1,11 @@
 {
-  "sentence": "Maria nimmt Ballettunterricht.",
+  "sentence": "Maria interessiert sich für Politik.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by tulin (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary bale dersleri alıyor."
+    "Mary politika ile ilgilenir."
   ],
   "parts": [
     {
@@ -16,13 +16,13 @@
       ],
       "usageExamples": [
         [
-          "Hast du Maria umgebracht?",
-          "Mary'yi öldürdün mü?",
+          "Maria nimmt Ballettunterricht.",
+          "Mary bale dersleri alıyor.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Maria interessiert sich für Politik.",
-          "Mary politika ile ilgilenir.",
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -33,9 +33,51 @@
       ]
     },
     {
-      "content": "nimmt",
+      "content": "sich",
       "translations": [
-        "alıyor"
+        "Kendini"
+      ],
+      "usageExamples": [
+        [
+          "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt.",
+          "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Das Problem dreht sich um folgende Frage:",
+          "Problem şu soru etrafında dönüyor:",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "für",
+      "translations": [
+        "için",
+        "para"
+      ],
+      "usageExamples": [
+        [
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es ist für einen Freund von mir.",
+          "O, benim bir arkadaşım için.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wann hast du Zeit für mich?",
+          "Benim için ne zaman vaktin olur?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Politik",
+      "translations": [
+        "politika"
       ],
       "usageExamples": []
     }

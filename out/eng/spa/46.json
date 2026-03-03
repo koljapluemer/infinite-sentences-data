@@ -1,87 +1,166 @@
 {
-  "sentence": "Me importa una mierda.",
+  "sentence": "Ese fue el peor trabajo que Yanni ha tenido nunca.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't give a damn about it."
+    "That was the worst job Yanni had ever had."
   ],
   "parts": [
     {
-      "content": "Me",
+      "content": "Ese",
       "translations": [
-        "Me",
-        "I"
+        "that",
+        "it"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "fue",
+      "translations": [
+        "was",
+        "has been"
       ],
       "usageExamples": [
         [
-          "Me llamo Juan.",
-          "My name is Juan.",
-          ""
+          "Anteayer fue miércoles.",
+          "The day before yesterday was Wednesday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Me gusta el café.",
-          "I like coffee.",
-          ""
-        ],
-        [
-          "Me siento muy enfermo.",
-          "I feel very sick.",
+          "Mi intención no fue ofender.",
+          "No offense was meant.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "importa",
+      "content": "el",
       "translations": [
-        "it matters",
-        "it is important",
-        "it counts",
-        "it is significant"
+        "the"
       ],
       "usageExamples": [
         [
-          "Ella solo finge que no le importa nada.",
-          "She only pretends to not care about anything.",
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Que se levante el acusado.",
+          "Will the defendant please rise?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
+          "It's marvelous how quickly the medicine relieved my pain.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "peor",
       "translations": [
-        "a",
-        "one",
-        "an"
+        "worse",
+        "worst"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "trabajo",
+      "translations": [
+        "work",
+        "job",
+        "labor",
+        "task"
       ],
       "usageExamples": [
         [
-          "Eres una chica linda.",
-          "You're a cute girl.",
+          "Debes llegar al trabajo a tiempo.",
+          "You ought to get to work on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "que",
+      "translations": [
+        "that",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
+        [
+          "Dime algo que no sepa.",
+          "Tell me something that I don't know.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quiero oír lo que dice Tom.",
+          "I want to hear what Tom says.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Yanni",
+      "translations": [
+        "Yanni",
+        "Yanni (a name)",
+        "Yanni (musician)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "there is",
+        "there are"
+      ],
+      "usageExamples": [
         [
           "Ése ha sido mi sueño desde que era una niña pequeña.",
           "It's been my dream since I was a little girl.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
-          "This is the way the world ends. Not with a bang but a whimper.",
+          "Alguien no la ha traducido correctamente.",
+          "Someone didn't translate it correctly.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
+          "It's marvelous how quickly the medicine relieved my pain.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mierda",
+      "content": "tenido",
       "translations": [
-        "shit",
-        "crap",
-        "damn",
-        "mess"
+        "had",
+        "held"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "nunca",
+      "translations": [
+        "never",
+        "not ever"
+      ],
+      "usageExamples": [
+        [
+          "Los trenes son poco prácticos e incómodos; además nunca son puntuales.",
+          "The trains are inconvenient and uncomfortable; in addition, they never run on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

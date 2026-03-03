@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom è una persona pigra.",
+  "sentence": "Tom ha ordinato una bottiglia di vino.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is a lazy person."
+    "Tom ordered a bottle of wine."
   ],
   "parts": [
     {
@@ -16,44 +16,59 @@
       ],
       "usageExamples": [
         [
-          "Io appoggiavo Tom.",
-          "I used to support Tom.",
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembra impegnato.",
-          "Tom seems busy.",
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "ha",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Questo è un test?",
-          "Is this a test?",
+          "Lei ha già cominciato.",
+          "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è famoso.",
-          "Tom is famous.",
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ordinato",
+      "translations": [
+        "ordered",
+        "neat",
+        "tidy",
+        "arranged"
+      ],
+      "usageExamples": [
+        [
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -68,13 +83,13 @@
       ],
       "usageExamples": [
         [
-          "Sono una buona persona.",
-          "I'm a good person.",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
           "Posso avere una birra?",
           "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una maledizione.",
+          "It is a curse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -85,35 +100,55 @@
       ]
     },
     {
-      "content": "persona",
+      "content": "bottiglia",
       "translations": [
-        "person",
-        "individual",
-        "character",
-        "figure"
+        "bottle",
+        "flask",
+        "container",
+        "vessel"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Sono una buona persona.",
-          "I'm a good person.",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è una brava persona.",
-          "Tom is a good person.",
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pigra",
+      "content": "vino",
       "translations": [
-        "lazy",
-        "sluggish",
-        "indolent",
-        "inactive"
+        "wine",
+        "grape beverage",
+        "fermented grape drink"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Vorrei un po' di vino bianco, per favore.",
+          "I'd like some white wine, please.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

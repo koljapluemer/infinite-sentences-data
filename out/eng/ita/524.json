@@ -1,73 +1,232 @@
 {
-  "sentence": "Li avete rapiti?",
+  "sentence": "La casa è stata venduta per un milione di dollari.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by bellyfuss1 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you kidnap them?"
+    "The house was sold for one million dollars."
   ],
   "parts": [
     {
-      "content": "Li",
+      "content": "La",
       "translations": [
         "The",
         "It",
-        "Him",
-        "Her"
+        "Her",
+        "Them"
       ],
       "usageExamples": [
         [
-          "Li vuoi?",
-          "Do you want them?",
+          "La detesta assolutamente.",
+          "He absolutely detests her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li sta confondendo.",
-          "You're confusing them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
         ],
         [
-          "Li vada ad aiutare.",
-          "Go help them.",
+          "La dovete avvertire.",
+          "You've got to warn her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "avete",
+      "content": "casa",
       "translations": [
-        "you have",
-        "you've got",
-        "are you having"
+        "house",
+        "home",
+        "dwelling",
+        "residence"
       ],
       "usageExamples": [
         [
-          "Cosa avete consigliato?",
-          "What did you recommend?",
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho lasciato Tom in casa.",
+          "I let Tom in the house.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dove li avete oliati?",
-          "Where did you oil them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non lo avete fatto?",
-          "Why didn't you do it?",
+          "Lo devo fare prima di potere andare a casa oggi.",
+          "I have to do that before I can go home today.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "rapiti",
+      "content": "è",
       "translations": [
-        "kidnapped",
-        "abducted",
-        "taken away",
-        "seized"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stata",
+      "translations": [
+        "was",
+        "has been",
+        "was located",
+        "was situated"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa pagina non è mai stata divertente.",
+          "This page was never funny.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "venduta",
+      "translations": [
+        "sold",
+        "sold out",
+        "disposed",
+        "transferred"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiamate un'ambulanza!",
+          "Call an ambulance!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "milione",
+      "translations": [
+        "million",
+        "one million",
+        "a million"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dollari",
+      "translations": [
+        "dollars",
+        "bucks",
+        "greenbacks",
+        "currency"
+      ],
+      "usageExamples": [
+        [
+          "40 dollari per sette giorni.",
+          "40 dollars for seven days.",
+          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+        ],
+        [
+          "2.200 dollari sono stati stanziati per le spese.",
+          "2200 dollars have been allocated for expenses.",
+          "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,162 +1,79 @@
 {
-  "sentence": "Tom ha bisogno di una mano.",
+  "sentence": "Sono andato all'ospedale ieri.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom needs a hand."
+    "I went to the hospital yesterday."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Sono",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "andato",
+      "translations": [
+        "gone",
+        "went",
+        "having gone",
+        "departed"
       ],
       "usageExamples": [
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Com'è andato il tuo incontro con Tom?",
+          "How did your meeting with Tom go?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+          "Tutto il nostro cibo è andato a male.",
+          "All our food was spoiled.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volete veramente votare Tom?",
-          "Do you really want to vote for Tom?",
+          "Io sono andato a trovarlo.",
+          "I went to see him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "all'ospedale",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "to the hospital",
+        "at the hospital",
+        "in the hospital"
       ],
-      "usageExamples": [
-        [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha già finito?",
-          "Are you through yet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "bisogno",
+      "content": "ieri",
       "translations": [
-        "need",
-        "requirement",
-        "necessity",
-        "desire"
+        "yesterday",
+        "the day before today",
+        "the previous day"
       ],
       "usageExamples": [
         [
-          "Vorrei che capissero il mio bisogno di pace.",
-          "I wish they would understand my need for peace.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Chiamatemi se avete bisogno di assistenza.",
-          "Call me if you need assistance.",
+          "Era occupato ieri?",
+          "Were you busy yesterday?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho bisogno di parlarti stanotte.",
-          "I need to talk to you tonight.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
-      ],
-      "usageExamples": [
-        [
-          "Può fare di meglio.",
-          "You can do better.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Siamo arrivati ieri in treno.",
+          "We arrived yesterday afternoon by train.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
         ],
         [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
-      ],
-      "usageExamples": [
-        [
-          "È una maledizione.",
-          "It's a curse.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È stato una delusione.",
-          "It was a disappointment.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mano",
-      "translations": [
-        "hand",
-        "palm",
-        "manual",
-        "handle"
-      ],
-      "usageExamples": [
-        [
-          "Datele una mano, OK?",
-          "Give her a hand, will you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Guardai John e Mary camminare mano nella mano.",
-          "I watched John and Mary walking hand in hand.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary si è bruciata la mano.",
-          "Mary burned her hand.",
+          "Ci sono andata l'altro ieri.",
+          "I went there the day before yesterday.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,83 +1,167 @@
 {
-  "sentence": "Spesso la paella include lumache.",
+  "sentence": "Salutate i vostri genitori da parte mia.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by papabear (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by bluepie88 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Paella often includes snails."
+    "Say hello to your parents from me."
   ],
   "parts": [
     {
-      "content": "Spesso",
+      "content": "Salutate",
       "translations": [
-        "often",
-        "frequently",
-        "many times",
-        "regularly"
+        "Greet",
+        "Salute",
+        "Say hello.",
+        "Welcome."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Spesso un gesto vale più di mille parole.",
-          "One gesture is often worth more than a thousand words.",
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi sono lavato i capelli.",
+          "I haven't washed my hair.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Maria piacciono i fiori.",
+          "Maria likes flowers.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "vostri",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "your",
+        "yours",
+        "your own",
+        "of yours"
       ],
       "usageExamples": [
         [
-          "Apri la cassaforte.",
-          "Open the safe.",
+          "Tirate fuori i vostri quaderni e le vostre penne.",
+          "Get out your notebooks and pens.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha perso la partita.",
-          "She lost the game.",
+          "Non accarezzo i vostri cani.",
+          "I don't pet your dogs.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dov'è la sua casa?",
-          "Where is her house?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "paella",
+      "content": "genitori",
       "translations": [
-        "Spanish rice dish",
-        "seafood and rice casserole",
-        "traditional Valencian dish"
+        "parents",
+        "guardians",
+        "caregivers",
+        "progenitors"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "I miei genitori abitano in una casa grande.",
+          "My parents live in a big house.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano i suoi genitori.",
+          "Mary misses her parents.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le dispute dei suoi genitori riecheggiavano nella sua mente, facendolo piangere disperatamente.",
+          "His parents' disputes echoed in his mind, making him cry helplessly.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "include",
+      "content": "da",
       "translations": [
-        "to include",
-        "to incorporate",
-        "to contain",
-        "to comprise"
+        "from",
+        "since",
+        "by",
+        "of"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "lumache",
+      "content": "parte",
       "translations": [
-        "snails",
-        "escargot",
-        "land snails",
-        "shellfish"
+        "part",
+        "section",
+        "component",
+        "piece"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io non sono mai stato in quella parte del paese.",
+          "I have never been to that part of the country.",
+          "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
+        ],
+        [
+          "È mio cugino da parte di padre.",
+          "He is my cousin on the father's side.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mia",
+      "translations": [
+        "my",
+        "mine",
+        "belonging to me"
+      ],
+      "usageExamples": [
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono orgoglioso di mia madre.",
+          "I'm proud of my mother.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

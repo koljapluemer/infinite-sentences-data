@@ -1,58 +1,78 @@
 {
-  "sentence": "Me gustaría tomar algo.",
+  "sentence": "Escriba a su congresista.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by human600 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd like something to drink."
+    "Write your congressman."
   ],
   "parts": [
     {
-      "content": "Me",
+      "content": "Escriba",
       "translations": [
-        "Me",
-        "I"
-      ],
-      "usageExamples": [
-        [
-          "Me siento muy enfermo.",
-          "I feel very sick.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Me gusta el café.",
-          "I like coffee.",
-          ""
-        ],
-        [
-          "Me gusta tu acento.",
-          "I like your accent.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "gustaría",
-      "translations": [
-        "would like",
-        "would love",
-        "would enjoy"
+        "Write.",
+        "Write down",
+        "Type"
       ],
       "usageExamples": []
     },
     {
-      "content": "algo",
+      "content": "a",
       "translations": [
-        "something"
+        "to"
       ],
       "usageExamples": [
         [
-          "Dime algo que no sepa.",
-          "Tell me something that I don't know.",
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pretendo decirle a Tom que no quiero ir.",
+          "I plan to tell Tom that I don't want to go.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "su",
+      "translations": [
+        "his",
+        "her",
+        "its"
+      ],
+      "usageExamples": [
+        [
+          "Ella quiere cerrar su pequeño negocio.",
+          "She wants to wind up her small business.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
+          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "congresista",
+      "translations": [
+        "congressman",
+        "congresswoman",
+        "legislator"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,125 +1,74 @@
 {
-  "sentence": "Posso chiedere il vostro nome?",
+  "sentence": "Non vuole fermarla.",
   "credits": [
-    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sysko (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "May I ask your name?"
+    "He doesn't want to stop her."
   ],
   "parts": [
     {
-      "content": "Posso",
+      "content": "Non",
       "translations": [
-        "I can.",
-        "I am able to",
-        "I may",
-        "I might"
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
+      ],
+      "usageExamples": [
+        [
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vuole",
+      "translations": [
+        "wants",
+        "desires",
+        "wishes",
+        "intends"
+      ],
+      "usageExamples": [
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary vuole che i suoi genitori le comprino un pony.",
+          "Mary wants her parents to buy her a pony.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary sa che cosa vuole dire.",
+          "Mary knows what she wants to say.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fermarla",
+      "translations": [
+        "stop it",
+        "halt it",
+        "hold it",
+        "prevent it"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "chiedere",
-      "translations": [
-        "to ask",
-        "to request",
-        "to inquire",
-        "to demand"
-      ],
-      "usageExamples": [
-        [
-          "Forse lo dovrebbe chiedere a lei.",
-          "Maybe you should ask her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo dovrebbe chiedere a loro.",
-          "You should ask them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Avrebbe dovuto chiedere a lui prima.",
-          "You should've asked him first.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non tollererò il fallimento.",
-          "I will not tolerate failure.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "vostro",
-      "translations": [
-        "your",
-        "yours",
-        "your own"
-      ],
-      "usageExamples": [
-        [
-          "Il vostro silenzio mi rende nervoso.",
-          "Your silence makes me nervous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché odiate così tanto il vostro paese?",
-          "Why do you hate your country so much?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A proposito di musica classica, qual è il vostro compositore preferito?",
-          "Talking of classical music, who is your favorite composer?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "nome",
-      "translations": [
-        "name",
-        "title",
-        "designation",
-        "label"
-      ],
-      "usageExamples": [
-        [
-          "Ho scordato il suo nome.",
-          "I've forgotten her name.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piace il suo nome.",
-          "Mary doesn't like her name.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piaceva il suo nome.",
-          "Mary didn't like her name.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

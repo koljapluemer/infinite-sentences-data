@@ -1,35 +1,82 @@
 {
-  "sentence": "Ho un fratello più grande.",
+  "sentence": "Forse ho fatto un errore.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have an older brother."
+    "Perhaps I made a mistake."
   ],
   "parts": [
     {
-      "content": "Ho",
+      "content": "forse",
+      "translations": [
+        "maybe",
+        "perhaps",
+        "possibly",
+        "might be"
+      ],
+      "usageExamples": [
+        [
+          "Forse fareste meglio a chiamarle.",
+          "Maybe you'd better call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse lo dovrebbe chiedere a lei.",
+          "Maybe you should ask her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ho",
       "translations": [
         "I have",
+        "I've got",
         "I possess",
-        "I hold",
         "I own"
       ],
       "usageExamples": [
         [
-          "Ho letto un fumetto.",
-          "I read a comic book.",
+          "Io l'ho comprata.",
+          "I bought it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho ammesso la sconfitta.",
-          "I admitted defeat.",
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Ne ho portato fuori uno.",
+          "I brought one out.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fatto",
+      "translations": [
+        "fact",
+        "done",
+        "made",
+        "event"
+      ],
+      "usageExamples": [
+        [
+          "L'ha fatto lentamente.",
+          "She did it slowly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha fatto qualcosa di incredibilmente stupido.",
+          "You did something incredibly stupid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non lo avete fatto?",
+          "Why didn't you do it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -43,94 +90,31 @@
       ],
       "usageExamples": [
         [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Vado a trovare un'amica.",
           "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo è un test?",
-          "Is this a test?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era un libro nuovo.",
-          "It was a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fratello",
+      "content": "errore",
       "translations": [
-        "brother",
-        "sibling",
-        "bro",
-        "male sibling"
+        "error",
+        "mistake",
+        "fault",
+        "blunder"
       ],
-      "usageExamples": [
-        [
-          "Loro sono fratello e sorella.",
-          "They're brother and sister.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Leonid piaceva il fratello di Anna.",
-          "Leonid liked Anna's brother.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "più",
-      "translations": [
-        "more",
-        "plus",
-        "greater",
-        "further"
-      ],
-      "usageExamples": [
-        [
-          "Studiate più duramente.",
-          "Study harder.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È anche più economico.",
-          "It's also cheaper.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "grande",
-      "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
-      ],
-      "usageExamples": [
-        [
-          "I miei genitori abitano in una casa grande.",
-          "My parents live in a big house.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu sei stato di grande aiuto per la nostra famiglia.",
-          "You've been a great help to our family.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Abita in una villa piuttosto grande.",
-          "She lives in quite a big mansion.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

@@ -1,37 +1,52 @@
 {
-  "sentence": "Oldukça bencil görünüyorsun.",
+  "sentence": "O kazağı beğeniyorum.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You seem quite selfish."
+    "I like that sweater."
   ],
   "parts": [
     {
-      "content": "Oldukça",
+      "content": "O",
       "translations": [
-        "quite",
-        "rather",
-        "fairly",
-        "pretty"
+        "Oh.",
+        "O",
+        "Wow",
+        "Hey."
+      ],
+      "usageExamples": [
+        [
+          "O birkaç haftadır kayıp.",
+          "She had been missing for a couple of weeks.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O makul görünüyor.",
+          "That seems reasonable.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bir üstat değil.",
+          "He is not a virtuoso.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "kazağı",
+      "translations": [
+        "sweater",
+        "jumper"
       ],
       "usageExamples": []
     },
     {
-      "content": "bencil",
+      "content": "beğeniyorum",
       "translations": [
-        "pencil",
-        "pen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "görünüyorsun",
-      "translations": [
-        "you look",
-        "you seem",
-        "you appear"
+        "I like",
+        "I enjoy"
       ],
       "usageExamples": []
     }

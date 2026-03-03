@@ -1,46 +1,68 @@
 {
-  "sentence": "Uçurtma ağaçta asılı kaldı.",
+  "sentence": "Tom'un çok zamanı var.",
   "credits": [
-    "Sentence from Tatoeba by evka (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Der Drachen hängt im Baum fest."
+    "Tom hat viel Zeit."
   ],
   "parts": [
     {
-      "content": "Uçurtma",
+      "content": "çok",
       "translations": [
-        "Drachen",
-        "Luftballon"
+        "sehr",
+        "viel"
+      ],
+      "usageExamples": [
+        [
+          "Çok fazla Fransızca konuşamam.",
+          "Ich spreche nicht viel Französisch.",
+          "Sentence from Tatoeba by oxyii (CC-BY 2.0 FR)"
+        ],
+        [
+          "Az laf, çok iş!",
+          "Weniger quatschen, mehr handeln!",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ],
+        [
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "zamanı",
+      "translations": [
+        "Zeit",
+        "Zeitraum"
       ],
       "usageExamples": []
     },
     {
-      "content": "ağaçta",
+      "content": "var",
       "translations": [
-        "auf dem Baum",
-        "im Baum"
+        "var",
+        "es gibt"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "asılı",
-      "translations": [
-        "hängend",
-        "aufgehängt"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "kaldı",
-      "translations": [
-        "bleibt",
-        "verbleibt",
-        "übrig",
-        "ist geblieben"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Köyde beş inek var.",
+          "Im Dorf gibt es fünf Rinder.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

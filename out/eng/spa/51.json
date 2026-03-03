@@ -1,52 +1,122 @@
 {
-  "sentence": "Nadie piensa eso.",
+  "sentence": "Estudio música en la universidad de Boston.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "No one thinks that."
+    "I study music at a university in Boston."
   ],
   "parts": [
     {
-      "content": "Nadie",
+      "content": "Estudio",
       "translations": [
-        "nobody",
-        "no one",
-        "anyone",
-        "naught"
-      ],
-      "usageExamples": [
-        [
-          "Nadie lo diría.",
-          "No one would say it.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "piensa",
-      "translations": [
-        "think",
-        "consider",
-        "believe",
-        "reflect"
+        "study",
+        "studio",
+        "research",
+        "workshop"
       ],
       "usageExamples": []
     },
     {
-      "content": "eso",
+      "content": "música",
       "translations": [
-        "that",
-        "it"
+        "music",
+        "tune",
+        "melody"
       ],
       "usageExamples": [
         [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
+          "La música se detuvo por un minuto.",
+          "The music stopped for a minute.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "en",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Confío en él.",
+          "I have faith in him.",
+          ""
+        ],
+        [
+          "Estoy en casa.",
+          "I am in the house.",
+          ""
+        ],
+        [
+          "Tom dio con una pauta en los datos.",
+          "Tom spotted a pattern in the data.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "La casa es grande.",
+          "The house is spacious.",
+          ""
+        ],
+        [
+          "La comida está lista.",
+          "The meal is prepared.",
+          ""
+        ],
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "universidad",
+      "translations": [
+        "university",
+        "college"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Vengo de la playa.",
+          "I come from the beach.",
+          ""
+        ],
+        [
+          "No se olvide de su chaqueta.",
+          "Don't forget your jacket.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me estoy tiñendo el pelo de negro.",
+          "I'm dyeing my hair black.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Boston",
+      "translations": [
+        "Boston",
+        "City of Boston"
+      ],
+      "usageExamples": []
     }
   ]
 }

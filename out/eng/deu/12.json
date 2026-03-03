@@ -1,85 +1,34 @@
 {
-  "sentence": "Es warten sehr viele Leute in der Schlange.",
+  "sentence": "Er ist der Intelligenteste der drei Brüder.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by WarsawWill (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "A lot of people are waiting in line."
+    "He's the most intelligent of the three brothers."
   ],
   "parts": [
     {
-      "content": "Es",
+      "content": "ist",
       "translations": [
-        "It is",
-        "There is",
-        "He/She is"
+        "is",
+        "exists",
+        "equals"
       ],
       "usageExamples": [
         [
-          "Es hieß, Tom würde vielleicht irgendwann diese Woche abreisen.",
-          "I hear Tom might leave sometime this week.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "warten",
-      "translations": [
-        "to wait",
-        "to await"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sehr",
-      "translations": [
-        "very",
-        "extremely",
-        "highly",
-        "really"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "viele",
-      "translations": [
-        "many",
-        "a lot of",
-        "numerous",
-        "several"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Leute",
-      "translations": [
-        "people",
-        "folks",
-        "persons",
-        "individuals"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "in"
-      ],
-      "usageExamples": [
-        [
-          "Bist du in Boston aufgewachsen?",
-          "Did you grow up in Boston?",
+          "1 ist keine Primzahl.",
+          "One is not a prime number.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Du mußt vielleicht noch ein bißchen in Australien bleiben.",
-          "You may have to stay in Australia a little longer.",
+          "Der Grund dafür ist offensichtlich.",
+          "The reason for this is obvious.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Schreibt es in eurer Sprache!",
-          "Write it in your language!",
+          "Das ist das beste Restaurant, das ich kenne.",
+          "This is the best restaurant that I know of.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -96,17 +45,33 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Er ist der Intelligenteste der drei Brüder.",
-          "He's the most intelligent of the three brothers.",
+          "Es warten sehr viele Leute in der Schlange.",
+          "A lot of people are waiting in line.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Schlange",
+      "content": "Intelligenteste",
       "translations": [
-        "snake",
-        "line"
+        "most intelligent",
+        "smartest"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "drei",
+      "translations": [
+        "three",
+        "3"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Brüder",
+      "translations": [
+        "brothers",
+        "siblings"
       ],
       "usageExamples": []
     }

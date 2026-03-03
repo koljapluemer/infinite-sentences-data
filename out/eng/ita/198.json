@@ -1,131 +1,34 @@
 {
-  "sentence": "Che cosa stavano indossando Tom e Mary?",
+  "sentence": "A Mary piace Taylor Swift.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What were Tom and Mary wearing?"
+    "Mary likes Taylor Swift."
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "A",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che musica ascoltate?",
-          "What music do you listen to?",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che altro vorresti?",
-          "What more would you want?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cosa",
-      "translations": [
-        "thing",
-        "item",
-        "object",
-        "matter"
-      ],
-      "usageExamples": [
-        [
-          "Che cosa direste?",
-          "What would you say?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non sapeva cosa fare.",
-          "She didn't know what to do.",
-          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "stavano",
-      "translations": [
-        "they were",
-        "they used to be",
-        "they were standing",
-        "they were staying"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "indossando",
-      "translations": [
-        "wearing",
-        "putting on",
-        "dressing in",
-        "donning"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
-      ],
-      "usageExamples": [
-        [
-          "Non lasciate guidare Tom.",
-          "Don't let Tom drive.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è divertito.",
-          "Tom had a good time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sembra impegnato.",
-          "Tom looks busy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "e",
-      "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
-      ],
-      "usageExamples": [
-        [
-          "Le scarpe che diedi a Tom e Mary erano troppo piccole per loro.",
-          "The shoes I gave Tom and Mary were too small for them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary e Tom importa la privacy.",
-          "Mary and Tom care about privacy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "So che Tom e Mary devono andare a Boston.",
-          "I know Tom and Mary have to go to Boston.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -139,21 +42,64 @@
       ],
       "usageExamples": [
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary disse che era offesa.",
-          "Mary said that she was offended.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo impiego.",
+          "Mary didn't enjoy her job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Taylor",
+      "translations": [
+        "Taylor",
+        "Taylor Swift"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Swift",
+      "translations": [
+        "quick",
+        "fast",
+        "rapid",
+        "speedy"
+      ],
+      "usageExamples": []
     }
   ]
 }

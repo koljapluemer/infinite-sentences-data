@@ -1,25 +1,72 @@
 {
-  "sentence": "Non mi sveglierò neppure se suona la sveglia.",
+  "sentence": "Mia madre vuole che io studi in Svizzera.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I won't wake up even if the alarm rings."
+    "My mother wants me to study in Switzerland."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Mia",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
+        "Mine",
+        "My",
+        "Belonging to me",
+        "Of me"
       ],
       "usageExamples": [
         [
-          "Non tutti erano compiaciuti.",
-          "Not everyone was pleased.",
+          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+          "My mother advises me against sitting at my computer all day long.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mia madre è impegnatissima ogni giorno.",
+          "My mother is busy as a bee every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "madre",
+      "translations": [
+        "mother",
+        "mom",
+        "mum",
+        "mama"
+      ],
+      "usageExamples": [
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sua madre sarebbe fiera di lei.",
+          "Your mother would be proud of you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mia madre è impegnatissima ogni giorno.",
+          "My mother is busy as a bee every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vuole",
+      "translations": [
+        "wants",
+        "desires",
+        "wishes",
+        "intends"
+      ],
+      "usageExamples": [
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -28,132 +75,104 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
+          "Mary vuole che i suoi genitori le comprino un pony.",
+          "Mary wants her parents to buy her a pony.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mi",
+      "content": "che",
       "translations": [
-        "me",
-        "myself",
-        "to me",
-        "for me"
-      ],
-      "usageExamples": [
-        [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary mi disse che non aveva fame.",
-          "Mary told me that she wasn't hungry.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non mi piace la città in cui vive.",
-          "I don't like the city in which he lives.",
-          "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sveglierò",
-      "translations": [
-        "I will wake up",
-        "I will awaken",
-        "I will rouse"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "neppure",
-      "translations": [
-        "not even",
-        "neither",
-        "not at all",
-        "not a single one"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "se",
-      "translations": [
-        "himself",
-        "herself",
-        "itself",
-        "themselves"
-      ],
-      "usageExamples": [
-        [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary importava solamente di se stessa.",
-          "Mary only cared about herself.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary importava soltanto di se stessa.",
-          "Mary only cared about herself.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "suona",
-      "translations": [
-        "plays",
-        "sounds",
-        "rings",
-        "is played"
-      ],
-      "usageExamples": [
-        [
-          "Lei suona la chitarra portoghese.",
-          "She plays the Portuguese guitar.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
         "that",
         "which",
-        "those"
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Prendi la mia.",
-          "Take mine.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cosa la sta causando?",
-          "What's causing it?",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sveglia",
+      "content": "io",
       "translations": [
-        "alarm clock",
-        "wake-up call",
-        "alarm",
-        "wakeup alarm"
+        "I",
+        "me",
+        "myself"
+      ],
+      "usageExamples": [
+        [
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ],
+        [
+          "Da un anno io e lui ci scambiamo sguardi.",
+          "He and I have been exchanging looks for the past year.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "studi",
+      "translations": [
+        "studies",
+        "research",
+        "academic work",
+        "learning"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Svizzera",
+      "translations": [
+        "Switzerland",
+        "Swiss Confederation",
+        "Helvetia"
       ],
       "usageExamples": []
     }

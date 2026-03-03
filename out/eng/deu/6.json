@@ -1,109 +1,120 @@
 {
-  "sentence": "Diese Arbeit mache ich ohne Bezahlung, einfach aus Lust an der Freude.",
+  "sentence": "Der Fahrschein, den du gekauft hast, ist in den Hauptverkehrszeiten nicht gültig.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sundown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I do this work for free, simply for the pleasure of doing it."
+    "The ticket you've bought can't be used during rush hour."
   ],
   "parts": [
     {
-      "content": "Diese",
+      "content": "Der",
       "translations": [
-        "this",
-        "these"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Arbeit",
-      "translations": [
-        "work",
-        "job",
-        "labor",
-        "employment"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mache",
-      "translations": [
-        "do",
-        "make",
-        "perform",
-        "execute"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ohne",
-      "translations": [
-        "without",
-        "lacking",
-        "absent",
-        "free of"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Bezahlung",
-      "translations": [
-        "payment",
-        "remuneration",
-        "compensation",
-        "settlement"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "einfach",
-      "translations": [
-        "simple",
-        "easy",
-        "plain",
-        "just"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "aus",
-      "translations": [
-        "out",
-        "from",
-        "off",
-        "away"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Lust",
-      "translations": [
-        "desire",
-        "pleasure",
-        "craving",
-        "longing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "an",
-      "translations": [
-        "to",
-        "at",
-        "on"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "der",
-      "translations": [
-        "the"
+        "the",
+        "that"
       ],
       "usageExamples": [
         [
+          "Der Grund dafür ist offensichtlich.",
+          "The reason for this is obvious.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Fahrschein",
+      "translations": [
+        "ticket",
+        "fare ticket",
+        "transport ticket"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "den",
+      "translations": [
+        "the",
+        "that",
+        "this"
+      ],
+      "usageExamples": [
+        [
+          "Bitte machen Sie den schmutzigen Fußboden sauber.",
+          "Please clean the dirty floor.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "du",
+      "translations": [
+        "you",
+        "of you"
+      ],
+      "usageExamples": [
+        [
+          "Bist du in Boston aufgewachsen?",
+          "Did you grow up in Boston?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gekauft",
+      "translations": [
+        "bought",
+        "purchased"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hast",
+      "translations": [
+        "have",
+        "got"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ist",
+      "translations": [
+        "is",
+        "exists",
+        "equals"
+      ],
+      "usageExamples": [
+        [
+          "1 ist keine Primzahl.",
+          "One is not a prime number.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "Er ist der Intelligenteste der drei Brüder.",
           "He's the most intelligent of the three brothers.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Das ist das beste Restaurant, das ich kenne.",
+          "This is the best restaurant that I know of.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "in"
+      ],
+      "usageExamples": [
+        [
+          "Schreibt es in eurer Sprache!",
+          "Write it in your language!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du mußt vielleicht noch ein bißchen in Australien bleiben.",
+          "You may have to stay in Australia a little longer.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -114,12 +125,39 @@
       ]
     },
     {
-      "content": "Freude",
+      "content": "Hauptverkehrszeiten",
       "translations": [
-        "joy",
-        "pleasure",
-        "delight",
-        "happiness"
+        "peak traffic times",
+        "rush hours"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "nicht",
+      "translations": [
+        "not",
+        "no"
+      ],
+      "usageExamples": [
+        [
+          "Tom hat nicht wirklich die Wahl.",
+          "Tom doesn't really have much choice.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Kaufe nicht mehr, als ihr braucht!",
+          "Don't buy more than you need.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gültig",
+      "translations": [
+        "valid",
+        "effective",
+        "applicable",
+        "in force"
       ],
       "usageExamples": []
     }

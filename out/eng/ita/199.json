@@ -1,125 +1,237 @@
 {
-  "sentence": "Che ha detto lo specialista?",
+  "sentence": "A Mary piace Tom, ma a lui non piace lei.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What did the specialist say?"
+    "Mary likes Tom, but he doesn't like her."
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "A",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Che altro vorresti?",
-          "What more would you want?",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che canzone strana...",
-          "What a weird song...",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che musica ascoltate?",
-          "What music do you listen to?",
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano le sue amiche.",
+          "Mary missed her friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "piace",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
       "usageExamples": [
         [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Un cane ha corso.",
-          "A dog ran.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei ha frenato.",
-          "She braked.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "detto",
-      "translations": [
-        "said",
-        "so-called",
-        "aforementioned",
-        "referred to as"
-      ],
-      "usageExamples": [
-        [
-          "Tom mi ha detto che eravate felici.",
-          "Tom told me you were happy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
-          "Mary said she'd like to borrow a few books.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti ho detto delle cose così orribili. Mi dispiace.",
-          "I said such horrible things to you. I'm sorry.",
+          "A Judy piace lui.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lo",
+      "content": "Tom",
       "translations": [
-        "the",
-        "it",
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom is famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ma",
+      "translations": [
+        "but",
+        "however",
+        "yet",
+        "on the other hand"
+      ],
+      "usageExamples": [
+        [
+          "Tom è aggressivo, ma Mary non lo è.",
+          "Tom is aggressive, but Mary isn't.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Bilbao il sesso non è un peccato, ma un miracolo.",
+          "In Bilbao sex isn't a sin but a miracle.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, ma non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lui",
+      "translations": [
+        "he",
         "him",
-        "that"
+        "his"
       ],
       "usageExamples": [
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
+          "A Judy piace lui.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "specialista",
+      "content": "non",
       "translations": [
-        "specialist",
-        "expert",
-        "professional",
-        "consultant"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lei",
+      "translations": [
+        "she",
+        "you (formal)"
+      ],
+      "usageExamples": [
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

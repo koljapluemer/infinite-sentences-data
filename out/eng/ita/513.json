@@ -1,55 +1,39 @@
 {
-  "sentence": "Lei ha un aspetto migliore.",
+  "sentence": "L'autobus non arriva sempre in orario.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're looking better."
+    "The bus doesn't always come on time."
   ],
   "parts": [
     {
-      "content": "Lei",
+      "content": "L'autobus",
       "translations": [
-        "You (formal)",
-        "She",
-        "Mrs.",
-        "Ma'am"
+        "The bus",
+        "A bus",
+        "The coach"
       ],
-      "usageExamples": [
-        [
-          "Lei chiuse gli occhi.",
-          "She closed her eyes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha già finito?",
-          "Are you done yet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "ha",
+      "content": "non",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Cookie ha 15 anni.",
-          "Cookie is 15.",
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -60,58 +44,85 @@
       ]
     },
     {
-      "content": "un",
+      "content": "arriva",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "arrives",
+        "comes",
+        "gets here",
+        "shows up"
       ],
       "usageExamples": [
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è un esperto.",
-          "Tom is a pro.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho letto un fumetto.",
-          "I read a comic book.",
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aspetto",
+      "content": "sempre",
       "translations": [
-        "appearance",
-        "aspect",
-        "look",
-        "feature"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "migliore",
-      "translations": [
-        "better",
-        "best",
-        "improved",
-        "superior"
+        "always",
+        "forever",
+        "at all times",
+        "constantly"
       ],
       "usageExamples": [
         [
-          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
-          "Only my best friend would understand my love for minions.",
+          "Io sono sempre stato un repubblicano.",
+          "I've always been a Republican.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La cosa migliore del Giappone sono i suoi videogiochi.",
-          "The best thing about Japan is its video games.",
-          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
+          "Perché siete sempre così gelose?",
+          "Why are you always so jealous?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sarò sempre per aiutarti.",
+          "I will always be there to help you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "orario",
+      "translations": [
+        "schedule",
+        "timetable",
+        "itinerary",
+        "agenda"
+      ],
+      "usageExamples": [
+        [
+          "È sempre in orario, vero?",
+          "He's always on time, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,64 +1,198 @@
 {
-  "sentence": "Ella me pidió ayuda.",
+  "sentence": "El hambre llevó al muchacho a robar dinero de la caja registradora.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by papabear (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She asked me for help."
+    "Hunger compelled the boy to steal money from the cash register."
   ],
   "parts": [
     {
-      "content": "Ella",
+      "content": "El",
       "translations": [
-        "She",
-        "Her"
+        "The",
+        "He"
       ],
       "usageExamples": [
         [
-          "Ella quiere cerrar su pequeño negocio.",
-          "She wants to wind up her small business.",
+          "El ruido me está volviendo loco.",
+          "The noise is driving me crazy.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ella está trabajando muy duro.",
-          "She is very hardworking.",
+          "El hombre huele la leche.",
+          "The man smells the milk.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ella eligió un vestido azul claro.",
-          "She chose a light blue dress.",
+          "El té sabe muy amargo y no está bueno.",
+          "The tea is really bitter and doesn't taste good.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "me",
+      "content": "hambre",
       "translations": [
-        "me"
+        "hunger",
+        "starvation",
+        "appetite"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "llevó",
+      "translations": [
+        "took",
+        "carried",
+        "brought"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the"
       ],
       "usageExamples": [
         [
-          "Me llamaron para una entrevista de trabajo.",
-          "I received a call for a job interview.",
+          "Repetirás esta oración cinco veces al día.",
+          "You'll repeat this sentence five times a day.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le pedí al mayordomo que nos sirviese un café.",
+          "I asked the butler to serve us some coffee.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "muchacho",
+      "translations": [
+        "boy",
+        "kid",
+        "young man"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "robar",
+      "translations": [
+        "to steal",
+        "to rob"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dinero",
+      "translations": [
+        "money",
+        "cash",
+        "funds",
+        "currency"
+      ],
+      "usageExamples": [
+        [
+          "Dijo que tenía mucho dinero.",
+          "He said that he had a lot of money.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Vengo de la playa.",
+          "I am coming from the beach.",
           ""
         ],
         [
-          "Aquí me siento muy solo.",
-          "I feel very lonely here.",
+          "Con tal de mantenerse en el poder, hacen cualquier cosa.",
+          "They'll do anything to stay in power.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Si me compras un helado, te doy un beso.",
-          "If you buy me an ice cream, I'll give you a kiss.",
+          "La casa de Tom tiene grandes ventanas.",
+          "Tom's house has large windows.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ayuda",
+      "content": "la",
       "translations": [
-        "help"
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La casa es grande.",
+          "The house is big.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "caja",
+      "translations": [
+        "box",
+        "cash register",
+        "drawer",
+        "case"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "registradora",
+      "translations": [
+        "cash register",
+        "register",
+        "cashier's register"
       ],
       "usageExamples": []
     }

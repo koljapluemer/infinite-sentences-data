@@ -1,33 +1,84 @@
 {
-  "sentence": "Tom bana tam tersini söylemişti.",
+  "sentence": "Son zamanlarda daha az hasta bana geliyor.",
   "credits": [
-    "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat mir genau das Gegenteil gesagt."
+    "In letzter Zeit kamen immer weniger Patienten zu mir."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Son",
       "translations": [
-        "Tom"
+        "Sohn",
+        "Sohnemann"
       ],
       "usageExamples": [
         [
-          "Tom Boston'da kalıyor.",
-          "Tom bleibt in Boston.",
+          "Son kitaplar bir hafta önce satıldı.",
+          "Die letzten Bücher wurden vor einer Woche verkauft.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "zamanlarda",
+      "translations": [
+        "zu dieser Zeit",
+        "in diesen Zeiten"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "daha",
+      "translations": [
+        "mehr",
+        "noch"
+      ],
+      "usageExamples": [
+        [
+          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
+          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist.",
+          "Seni başlangıçta planlanandan daha çok seviyorum.",
+          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "az",
+      "translations": [
+        "schlecht",
+        "wenig"
+      ],
+      "usageExamples": [
+        [
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hasta",
+      "translations": [
+        "Krücke",
+        "Stock"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un çocukları hasta.",
+          "Toms Kinder sind krank.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sonuçları analiz etti.",
-          "Tom analysierte die Ergebnisse.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -44,40 +95,22 @@
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Son zamanlarda daha az hasta bana geliyor.",
-          "In letzter Zeit kamen immer weniger Patienten zu mir.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
           "Bu şarkı bana birini hatırlatıyor.",
           "Dieses Lied erinnert mich an jemanden.",
           "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bana tam tersini söylemişti.",
+          "Tom hat mir genau das Gegenteil gesagt.",
+          "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tam",
+      "content": "geliyor",
       "translations": [
-        "so",
-        "so sehr",
-        "so viel"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tersini",
-      "translations": [
-        "umgekehrt",
-        "das Gegenteil"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "söylemişti",
-      "translations": [
-        "hatte gesagt",
-        "sagte er/sie",
-        "hatte gesprochen"
+        "kommt",
+        "kommt gerade"
       ],
       "usageExamples": []
     }

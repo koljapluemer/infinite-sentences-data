@@ -1,38 +1,22 @@
 {
-  "sentence": "Lei è la dottoressa?",
+  "sentence": "L'insegnante è entrato in ritardo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you the doctor?"
+    "The teacher came in late."
   ],
   "parts": [
     {
-      "content": "Lei",
+      "content": "L'insegnante",
       "translations": [
-        "You (formal)",
-        "She",
-        "Mrs.",
-        "Ma'am"
+        "The teacher",
+        "The instructor",
+        "The educator",
+        "The lecturer"
       ],
-      "usageExamples": [
-        [
-          "Lei è americano?",
-          "Are you American?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ci catturerà.",
-          "She will catch us.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha già finito?",
-          "Are you through yet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "è",
@@ -44,57 +28,72 @@
       ],
       "usageExamples": [
         [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Il cambiamento è spaventoso.",
           "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è americano?",
-          "Are you American?",
+          "Il tempo è finito.",
+          "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "entrato",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "entered",
+        "came in",
+        "got in",
+        "arrived"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
       ],
       "usageExamples": [
         [
-          "Dov'è la sua casa?",
-          "Where is her house?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho ammesso la sconfitta.",
-          "I admitted defeat.",
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai guardato la partita?",
-          "Did you watch the game?",
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dottoressa",
+      "content": "ritardo",
       "translations": [
-        "doctor",
-        "female doctor",
-        "physician",
-        "female physician"
+        "delay",
+        "lateness",
+        "hold-up",
+        "setback"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

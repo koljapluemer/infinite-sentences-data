@@ -1,26 +1,42 @@
 {
-  "sentence": "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
+  "sentence": "Evde kaç tane yatak var?",
   "credits": [
-    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben."
+    "Wie viele Betten gibt es im Haus?"
   ],
   "parts": [
     {
-      "content": "Eğer",
+      "content": "Evde",
       "translations": [
-        "Wenn",
-        "Falls"
+        "zu Hause",
+        "im Haus"
       ],
       "usageExamples": []
     },
     {
-      "content": "bir",
+      "content": "kaç",
       "translations": [
-        "eins",
-        "ein"
+        "wie viel",
+        "wie viele"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "tane",
+      "translations": [
+        "Körper",
+        "Leib"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "var",
+      "translations": [
+        "var",
+        "es gibt"
       ],
       "usageExamples": [
         [
@@ -29,65 +45,16 @@
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Ciddi bir konuşmaya başladık.",
-          "Wir begannen eine ernsthafte Unterhaltung.",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+          "Köyde beş inek var.",
+          "Im Dorf gibt es fünf Rinder.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "ilişki",
-      "translations": [
-        "Beziehung",
-        "Verhältnis"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yalanlardan",
-      "translations": [
-        "von Lügen",
-        "aus Lügen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "oluşuyorsa",
-      "translations": [
-        "wenn es entsteht",
-        "falls es entsteht",
-        "sofern es entsteht"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sonunda",
-      "translations": [
-        "schließlich",
-        "endlich"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gerçeklerden",
-      "translations": [
-        "von der Realität",
-        "aus der Realität"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ölecek",
-      "translations": [
-        "sterben",
-        "tot sein"
-      ],
-      "usageExamples": []
     }
   ]
 }

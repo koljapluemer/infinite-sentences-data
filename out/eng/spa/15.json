@@ -1,82 +1,130 @@
 {
-  "sentence": "Déme usted la equivalencia en dólares.",
+  "sentence": "Debes llegar al trabajo a tiempo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Give me the equivalent in dollars."
+    "You ought to get to work on time."
   ],
   "parts": [
     {
-      "content": "Déme",
+      "content": "Debes",
       "translations": [
-        "Give me",
-        "Let me have"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
+        "You must",
+        "You should",
+        "You have to"
       ],
       "usageExamples": [
         [
-          "Esa es la realidad.",
-          "That's the reality.",
+          "Debes hacer felices a tus padres.",
+          "You must make your parents happy.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "La casa es grande.",
-          "The house is large.",
-          ""
         ]
       ]
     },
     {
-      "content": "equivalencia",
+      "content": "llegar",
       "translations": [
-        "equivalence",
-        "equivalency"
+        "to arrive",
+        "to come",
+        "to reach"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Lo llamé al llegar a Tokio.",
+          "On arriving in Tokyo, I called him up.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "en",
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the"
+      ],
+      "usageExamples": [
+        [
+          "Le pedí al mayordomo que nos sirviese un café.",
+          "I asked the butler to serve us some coffee.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo llamé al llegar a Tokio.",
+          "On arriving in Tokyo, I called him up.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trabajo",
+      "translations": [
+        "work",
+        "job",
+        "labor",
+        "task"
+      ],
+      "usageExamples": [
+        [
+          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
+          "That was the worst job Yanni had ever had.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
       "translations": [
         "to"
       ],
       "usageExamples": [
         [
-          "Confío en él.",
-          "I have faith in him.",
-          ""
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Estoy en casa.",
-          "I am in the house.",
-          ""
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Con tal de mantenerse en el poder, hacen cualquier cosa.",
-          "They'll do anything to stay in power.",
+          "Llegaste a tiempo.",
+          "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dólares",
+      "content": "tiempo",
       "translations": [
-        "dollars",
-        "USD"
+        "time",
+        "weather"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "El tiempo vuela.",
+          "Time flies.",
+          ""
+        ],
+        [
+          "Ayer tuvimos buen tiempo.",
+          "We had nice weather yesterday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

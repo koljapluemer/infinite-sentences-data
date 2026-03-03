@@ -1,94 +1,35 @@
 {
-  "sentence": "Giocherete a tennis dopo la scuola?",
+  "sentence": "Cosa la sta causando?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Will you play tennis after school?"
+    "What's causing it?"
   ],
   "parts": [
     {
-      "content": "Giocherete",
+      "content": "Cosa",
       "translations": [
-        "You will play",
-        "You guys will play",
-        "You all will play"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
       ],
       "usageExamples": [
         [
-          "Lo mostreremo a lei.",
-          "We'll show her.",
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete consigliato?",
+          "What did you recommend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Cosa capiterà a loro?",
-          "What's going to happen to them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tennis",
-      "translations": [
-        "the sport of tennis",
-        "game of tennis",
-        "tennis match"
-      ],
-      "usageExamples": [
-        [
-          "Tom non è bravo a tennis.",
-          "Tom isn't good at tennis.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Lucy piace giocare a tennis.",
-          "Lucy likes playing tennis.",
-          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Helena piace giocare a tennis.",
-          "Helena likes to play tennis.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dopo",
-      "translations": [
-        "after",
-        "later",
-        "following",
-        "subsequently"
-      ],
-      "usageExamples": [
-        [
-          "Studio inglese dopo cena.",
-          "I study English after dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom decise di rinunciare ad andare in skateboard dopo il suo incidente.",
-          "Tom decided to give up skateboarding after his accident.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Le mie gambe stanno migliorando giorno dopo giorno.",
-          "My legs are getting better day by day.",
+          "What'll happen to them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -103,47 +44,57 @@
       ],
       "usageExamples": [
         [
-          "Apri la cassaforte.",
-          "Open the safe.",
+          "Ha perso la partita.",
+          "He lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scuola",
+      "content": "sta",
       "translations": [
-        "school",
-        "academy",
-        "educational institution",
-        "learning center"
+        "is",
+        "stands",
+        "is located",
+        "exists"
       ],
       "usageExamples": [
         [
-          "Frequentiamo la scuola statale.",
-          "We attend state school.",
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui va a scuola a piedi o in bici?",
-          "Does he go to school on foot or by bicycle?",
+          "Tom sta gemendo.",
+          "Tom is groaning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Fadil piaceva la scuola.",
-          "Fadil enjoyed school.",
+          "Li sta confondendo.",
+          "You're confusing them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "causando",
+      "translations": [
+        "causing",
+        "causal",
+        "resulting in",
+        "leading to"
+      ],
+      "usageExamples": []
     }
   ]
 }

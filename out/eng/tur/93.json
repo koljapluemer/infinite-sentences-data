@@ -1,49 +1,80 @@
 {
-  "sentence": "Yakayı ele vermeden kaçtım.",
+  "sentence": "Tom'un ayakkabılarını çıkarmasına gerek yok.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I got away with it."
+    "Tom doesn't need to take his shoes off."
   ],
   "parts": [
     {
-      "content": "yakayı",
+      "content": "Tom'un",
       "translations": [
-        "the collar",
-        "the neck",
-        "the lapel"
+        "Tom's",
+        "of Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un gitar çalması şaşırtıcı.",
+          "Tom's guitar playing is amazing.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bazı iyi fikirleri olabilir.",
+          "Tom may have some good ideas.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un tablolarından kaç tanesini onun için sattın?",
+          "How many of Tom's paintings have you sold for him?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ayakkabılarını",
+      "translations": [
+        "your shoes",
+        "the shoes"
       ],
       "usageExamples": []
     },
     {
-      "content": "ele",
+      "content": "çıkarmasına",
       "translations": [
-        "he",
-        "she",
-        "it"
+        "to take out",
+        "to remove",
+        "to extract",
+        "to draw out"
       ],
       "usageExamples": []
     },
     {
-      "content": "vermeden",
+      "content": "gerek",
       "translations": [
-        "unintentionally",
-        "without realizing",
-        "inadvertently",
-        "accidentally"
+        "necessary",
+        "required",
+        "needed",
+        "essential"
       ],
       "usageExamples": []
     },
     {
-      "content": "kaçtım",
+      "content": "yok",
       "translations": [
-        "I ran away.",
-        "I escaped.",
-        "I fled."
+        "none",
+        "not available",
+        "no",
+        "absent"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sensiz hayatımın bir anlamı yok.",
+          "Without you, I have no reason to live.",
+          "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

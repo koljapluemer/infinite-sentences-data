@@ -1,37 +1,59 @@
 {
-  "sentence": "Spor sever misin?",
+  "sentence": "Sizinle sonucu paylaşma niyetinde değilim.",
   "credits": [
-    "Sentence from Tatoeba by ritualesatanum (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by eminyilmazki (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Magst du Sport?"
+    "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen."
   ],
   "parts": [
     {
-      "content": "Spor",
+      "content": "sizinle",
       "translations": [
-        "Sport",
-        "Spor"
+        "mit Ihnen",
+        "mit dir"
       ],
       "usageExamples": []
     },
     {
-      "content": "sever",
+      "content": "sonucu",
       "translations": [
-        "trennen",
-        "abteilen",
-        "teilen"
+        "Ergebnis",
+        "Folge"
       ],
       "usageExamples": []
     },
     {
-      "content": "misin",
+      "content": "paylaşma",
       "translations": [
-        "wie",
-        "als ob"
+        "teilen",
+        "Gemeinschaft",
+        "Austausch"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "niyetinde",
+      "translations": [
+        "in der Absicht",
+        "mit der Absicht"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "değilim",
+      "translations": [
+        "ich bin nicht",
+        "bin ich nicht"
+      ],
+      "usageExamples": [
+        [
+          "Benim kalmamın mantıklı olduğundan emin değilim.",
+          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

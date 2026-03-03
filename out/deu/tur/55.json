@@ -1,35 +1,91 @@
 {
-  "sentence": "Gecikmelere sinir oluyorum.",
+  "sentence": "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich ärgere mich über Verspätungen."
+    "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben."
   ],
   "parts": [
     {
-      "content": "Gecikmelere",
+      "content": "Eğer",
       "translations": [
-        "Verspätungen",
-        "Verspätung"
+        "Wenn",
+        "Falls"
       ],
       "usageExamples": []
     },
     {
-      "content": "sinir",
+      "content": "bir",
       "translations": [
-        "Nerv",
-        "Wut",
-        "Ärger"
+        "eins",
+        "ein"
+      ],
+      "usageExamples": [
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ],
+        [
+          "İyi bir kamera aldım.",
+          "Ich habe mir eine gute Kamera gekauft.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ilişki",
+      "translations": [
+        "Beziehung",
+        "Verhältnis"
       ],
       "usageExamples": []
     },
     {
-      "content": "oluyorum",
+      "content": "yalanlardan",
       "translations": [
-        "ich mache",
-        "ich tue"
+        "von Lügen",
+        "aus Lügen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "oluşuyorsa",
+      "translations": [
+        "wenn es entsteht",
+        "falls es entsteht",
+        "sofern es entsteht"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sonunda",
+      "translations": [
+        "schließlich",
+        "endlich"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gerçeklerden",
+      "translations": [
+        "von der Realität",
+        "aus der Realität"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ölecek",
+      "translations": [
+        "sterben",
+        "tot sein"
       ],
       "usageExamples": []
     }

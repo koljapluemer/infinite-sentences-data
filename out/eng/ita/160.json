@@ -1,57 +1,191 @@
 {
-  "sentence": "Accendiamo qualche candela.",
+  "sentence": "A Mary non piace il suo nome.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's light some candles."
+    "Mary doesn't like her name."
   ],
   "parts": [
     {
-      "content": "Accendiamo",
+      "content": "A",
       "translations": [
-        "Let's light up",
-        "Let's turn on",
-        "Let's ignite"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "qualche",
-      "translations": [
-        "some",
-        "a few",
-        "several",
-        "a couple of"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Io ho qualche idea per te.",
-          "I have a few ideas for you.",
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha qualche problema psicologico.",
-          "Tom has some psychological issues.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
-          "Mary said she'd like to borrow a few books.",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "candela",
+      "content": "Mary",
       "translations": [
-        "candle",
-        "light",
-        "torch",
-        "luminary"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suo",
+      "translations": [
+        "his",
+        "her",
+        "its",
+        "their"
+      ],
+      "usageExamples": [
+        [
+          "A Mary non piace il suo divano nuovo.",
+          "Mary doesn't like her new sofa.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano suo marito e i suoi figli.",
+          "Mary misses her husband and children.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancava suo figlio.",
+          "Mary missed her son.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nome",
+      "translations": [
+        "name",
+        "title",
+        "designation",
+        "label"
+      ],
+      "usageExamples": [
+        [
+          "A Mary non piaceva il suo nome.",
+          "Mary didn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso chiedere il vostro nome?",
+          "May I ask your name?",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho scordato il suo nome.",
+          "I've forgotten her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

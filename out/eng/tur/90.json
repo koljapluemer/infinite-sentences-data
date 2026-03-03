@@ -1,34 +1,52 @@
 {
-  "sentence": "Tuzluk masadaydı.",
+  "sentence": "Tom sigara içmeyi bırakmalı.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by dynamo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The salt cellar was on the table."
+    "Tom ought to stop smoking."
   ],
   "parts": [
     {
-      "content": "tuzluk",
+      "content": "Tom",
       "translations": [
-        "salt shaker",
-        "salt cellar"
+        "Tom",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Seni öldüremedim, Tom.",
+          "I couldn't kill you, Tom.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bizi korkuttu.",
+          "Tom scared us.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "içmeyi",
+      "translations": [
+        "to drink",
+        "drinking"
       ],
       "usageExamples": []
     },
     {
-      "content": "masada",
+      "content": "bırakmalı",
       "translations": [
-        "at the table",
-        "on the table"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ydı",
-      "translations": [
-        "was",
-        "were"
+        "should let go",
+        "should leave",
+        "should drop",
+        "should release"
       ],
       "usageExamples": []
     }

@@ -1,88 +1,122 @@
 {
-  "sentence": "Beve latte di mucca.",
+  "sentence": "A Mary piacciono i fagioli.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Aghanim (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He drinks cow's milk."
+    "Mary likes beans."
   ],
   "parts": [
     {
-      "content": "Beve",
+      "content": "A",
       "translations": [
-        "edge",
-        "bevel",
-        "slant",
-        "slope"
+        "Item: A",
+        "Article: A",
+        "Object: A"
+      ],
+      "usageExamples": [
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo divano nuovo.",
+          "Mary doesn't like her new sofa.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piacciono",
+      "translations": [
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
+      ],
+      "usageExamples": [
+        [
+          "A Mary piacciono le scienze.",
+          "Mary likes the sciences.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono le sue classi.",
+          "Mary enjoys her classes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono tutte le sue insegnanti.",
+          "Mary likes all of her teachers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace scambiare francobolli con i suoi amici.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla piacevano i suoi capelli naturali.",
+          "Layla loved her natural hair.",
+          "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fagioli",
+      "translations": [
+        "beans",
+        "kidney beans",
+        "legumes"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "latte",
-      "translations": [
-        "milk",
-        "dairy milk",
-        "cow's milk",
-        "liquid milk"
-      ],
-      "usageExamples": [
-        [
-          "A Karl mancava bere il latte.",
-          "Karl missed drinking milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piace il latte nel suo caffè.",
-          "Mary doesn't like milk in her coffee.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Di solito bevo molto latte.",
-          "I usually drink a lot of milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
-      ],
-      "usageExamples": [
-        [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Può fare di meglio.",
-          "You can do better.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mucca",
-      "translations": [
-        "cow",
-        "female bovine"
-      ],
-      "usageExamples": [
-        [
-          "Vladimir è forte come una mucca.",
-          "Vladimir is strong as a cow.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

@@ -1,90 +1,73 @@
 {
-  "sentence": "Ti darò questa biro.",
+  "sentence": "Sei un testimone.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'll give you this pen."
+    "You are a witness."
   ],
   "parts": [
     {
-      "content": "Ti",
+      "content": "Sei",
       "translations": [
-        "You",
-        "To you",
-        "For you",
-        "Yourself"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
       ],
       "usageExamples": [
         [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti compro un regalo.",
-          "I buy you a present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Sei speciale per me.",
+          "You're special to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "darò",
+      "content": "un",
       "translations": [
-        "I will give",
-        "I will provide",
-        "I will offer",
-        "I will hand over"
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beviamo un'altra birra.",
+          "Let's have another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "testimone",
+      "translations": [
+        "witness",
+        "testifier",
+        "evidence",
+        "attester"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "questa",
-      "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
-      ],
-      "usageExamples": [
-        [
-          "È stata costruita una ferrovia in questa città.",
-          "A railroad was constructed in this town.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mio nonno si siede sempre su questa sedia.",
-          "My grandfather always sits in this chair.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho bevuto del caffè questa mattina.",
-          "I drank coffee this morning.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "biro",
-      "translations": [
-        "ballpoint pen",
-        "biro pen",
-        "ball pen",
-        "ink pen"
-      ],
-      "usageExamples": [
-        [
-          "Prendi in prestito le biro dai tuoi amici.",
-          "You borrow pens from your friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

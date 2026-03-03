@@ -1,13 +1,29 @@
 {
-  "sentence": "Tom Mary ile konuşmayı bırakamadı.",
+  "sentence": "Seni öldüremedim, Tom.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by meerkat (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom couldn't stop talking to Mary."
+    "I couldn't kill you, Tom."
   ],
   "parts": [
+    {
+      "content": "Seni",
+      "translations": [
+        "You",
+        "I miss you."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "öldüremedim",
+      "translations": [
+        "I couldn't kill",
+        "I wasn't able to kill"
+      ],
+      "usageExamples": []
+    },
     {
       "content": "Tom",
       "translations": [
@@ -16,78 +32,21 @@
       ],
       "usageExamples": [
         [
+          "Tom bizi korkuttu.",
+          "Tom scared us.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom Mary'ye bekleyeceğini söyledi.",
+          "Tom told Mary he'd wait.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
           "Tom kötü bir golfçü.",
           "Tom is a bad golfer.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Seni öldüremedim, Tom.",
-          "I couldn't kill you, Tom.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom Mary'ye bekleyeceğini söyledi.",
-          "Tom told Mary he'd wait.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "Mary",
-      "translations": [
-        "Mary",
-        "Maria"
-      ],
-      "usageExamples": [
-        [
-          "Tom Mary'ye bekleyeceğini söyledi.",
-          "Tom told Mary he'd wait.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ve Mary bir süre birbirlerini göremeyecekler.",
-          "Tom and Mary won't be able to see each other for a while.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
-          "Tom said he didn't know who Mary was getting married to.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ile",
-      "translations": [
-        "with",
-        "and"
-      ],
-      "usageExamples": [
-        [
-          "Tom'un Mary'nin kız kardeşlerinin herhangi biri ile tanıştığını sanmıyorum.",
-          "I don't think Tom has met either of Mary's sisters.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "konuşmayı",
-      "translations": [
-        "the conversation",
-        "the speech",
-        "the talk"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bırakamadı",
-      "translations": [
-        "couldn't let go",
-        "wasn't able to release",
-        "couldn't abandon",
-        "couldn't leave behind"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,95 +1,64 @@
 {
-  "sentence": "Posso avere una birra?",
+  "sentence": "Non volevo intromettermi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Can I have a beer?"
+    "I didn't want to intrude."
   ],
   "parts": [
     {
-      "content": "Posso",
+      "content": "Non",
       "translations": [
-        "I can.",
-        "I may",
-        "I am able to",
-        "I might"
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
+      ],
+      "usageExamples": [
+        [
+          "Non l'ho riconosciuto.",
+          "I didn't recognize it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non voglio guardarlo.",
+          "I don't want to watch that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "volevo",
+      "translations": [
+        "I wanted",
+        "I wished",
+        "I was wanting",
+        "I used to want"
+      ],
+      "usageExamples": [
+        [
+          "Non volevo che Tom vedesse questo.",
+          "I didn't want Tom to see this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "intromettermi",
+      "translations": [
+        "to intervene",
+        "to intrude",
+        "to interject",
+        "to meddle"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "avere",
-      "translations": [
-        "to have",
-        "to possess",
-        "to own",
-        "to hold"
-      ],
-      "usageExamples": [
-        [
-          "Mary nega di avere pianto.",
-          "Mary denies that she cried.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Possono avere qualsiasi cosa vogliono.",
-          "They can have anything they want.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Pensa che Tom potrebbe avere ragione?",
-          "Do you think Tom might be correct?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
-      ],
-      "usageExamples": [
-        [
-          "Scriva una risposta.",
-          "Write an answer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È stato una delusione.",
-          "It was a disappointment.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi terremo una festa.",
-          "We'll have a party.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "birra",
-      "translations": [
-        "beer",
-        "brew",
-        "lager",
-        "ale"
-      ],
-      "usageExamples": [
-        [
-          "Beviamo un'altra birra.",
-          "Let's have another beer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "La birra è bevuta fredda.",
-          "Beer is drunk cold.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

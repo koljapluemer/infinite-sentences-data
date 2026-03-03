@@ -1,51 +1,129 @@
 {
-  "sentence": "Io amo il suono della pioggia sul tetto.",
+  "sentence": "Ho avuto la fortuna di seguire il mio percorso senza rimpianti.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I love the sound of rain on the roof."
+    "I've been lucky to follow my own path without regrets."
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "Ho",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "I have",
+        "I possess",
+        "I hold",
+        "I own"
       ],
       "usageExamples": [
         [
-          "Io so com'era Tom.",
-          "I know how Tom used to be.",
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io l'ho comprata.",
-          "I bought it.",
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io consegno pizze.",
-          "I deliver pizzas.",
+          "Ho letto un fumetto.",
+          "I read a comic book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "amo",
+      "content": "avuto",
       "translations": [
-        "I love",
-        "I like",
-        "I am fond of",
-        "I adore"
+        "had",
+        "received",
+        "got",
+        "obtained"
       ],
       "usageExamples": [
         [
-          "Io amo i miei genitori.",
-          "I love my parents.",
-          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+          "Voi avete mai avuto un animale domestico?",
+          "Have you ever had a pet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Ha perso la partita.",
+          "She lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fortuna",
+      "translations": [
+        "fortune",
+        "luck",
+        "fate",
+        "destiny"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "seguire",
+      "translations": [
+        "to follow",
+        "to pursue",
+        "to track",
+        "to attend"
+      ],
+      "usageExamples": [
+        [
+          "Ho provato a seguire le sue instruzioni.",
+          "I tried to follow your instructions.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -59,11 +137,6 @@
       ],
       "usageExamples": [
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Non bevete il caffè?",
           "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -72,94 +145,83 @@
           "Non conosco il sistema.",
           "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suono",
+      "content": "mio",
       "translations": [
-        "sound",
-        "noise",
-        "tone",
-        "audio"
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
+      ],
+      "usageExamples": [
+        [
+          "È mio nemico.",
+          "He's my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio amico è svizzero.",
+          "My friend is Swiss.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
+          "Only my best friend would understand my love for minions.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "percorso",
+      "translations": [
+        "route",
+        "path",
+        "course",
+        "track"
       ],
       "usageExamples": []
     },
     {
-      "content": "della",
+      "content": "senza",
       "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "concerning the"
+        "without",
+        "lacking",
+        "absent",
+        "devoid of"
       ],
       "usageExamples": [
         [
-          "Sami consegnò della pizza.",
-          "Sami delivered pizza.",
+          "Siete senza speranza.",
+          "You're hopeless.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Più della metà delle persone condannate dai tribunali è innocente.",
-          "More than half of the people convicted by the courts are innocent.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ziri ha alzato il volume della musica.",
-          "Ziri increased the music volume.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "pioggia",
-      "translations": [
-        "rain",
-        "precipitation",
-        "downpour",
-        "shower"
-      ],
-      "usageExamples": [
-        [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sul",
-      "translations": [
-        "on",
-        "upon",
-        "over",
-        "above"
-      ],
-      "usageExamples": [
-        [
-          "Lascia il mais sul tavolo.",
-          "Leave the corn on the table.",
+          "Noi cosa faremmo senza di lui?",
+          "What would we do without him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
-          "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
-          "He threw his dirty, smelly socks on the floor.",
+          "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
+          "The orphans were forced to work long hours without pay or food.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tetto",
+      "content": "rimpianti",
       "translations": [
-        "roof",
-        "ceiling",
-        "top",
-        "cover"
+        "regrets",
+        "remorse",
+        "sorrow",
+        "lament"
       ],
       "usageExamples": []
     }

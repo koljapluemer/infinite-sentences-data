@@ -1,126 +1,75 @@
 {
-  "sentence": "¿Dónde está la parada de colectivos más cercana?",
+  "sentence": "No hay nada más qué decir.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Where's the nearest bus stop?"
+    "There's nothing more to be said."
   ],
   "parts": [
     {
-      "content": "dónde",
+      "content": "No",
       "translations": [
-        "where",
-        "where at",
-        "in which place"
+        "No.",
+        "Not",
+        "Nope."
       ],
       "usageExamples": [
         [
-          "No sé dónde dejé mis llaves.",
-          "I'm not sure where I put my keys.",
+          "No quiero ir.",
+          "I don't want to leave.",
           ""
         ],
         [
-          "Sigue siendo un misterio dónde está oculto el tesoro.",
-          "Where the treasure is hidden is still a mystery.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "¿Dónde está el restaurante que me recomendaste?",
-          "Where can I find the restaurant you suggested?",
+          "No tengo tiempo.",
+          "I'm out of time.",
           ""
-        ]
-      ]
-    },
-    {
-      "content": "está",
-      "translations": [
-        "is",
-        "are"
-      ],
-      "usageExamples": [
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se está lavando la cara.",
-          "Tom is washing his face.",
+          "No sé para qué me he levantado tan temprano.",
+          "I don't know why I got up so early.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "hay",
       "translations": [
-        "the"
+        "there is",
+        "there are",
+        "there exists"
       ],
       "usageExamples": [
         [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
+          "No hay nadie en la entrada.",
+          "There's no one at the entrance.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "La comida está lista.",
-          "The meal is prepared.",
-          ""
-        ],
-        [
-          "La casa es grande.",
-          "The house is large.",
-          ""
-        ]
-      ]
-    },
-    {
-      "content": "parada",
-      "translations": [
-        "stop",
-        "halt",
-        "station",
-        "break"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "de",
-      "translations": [
-        "to"
-      ],
-      "usageExamples": [
-        [
-          "Vengo de la playa.",
-          "I am coming from the beach.",
-          ""
-        ],
-        [
-          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
-          "Hunger compelled the boy to steal money from the cash register.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El carámbano es una columna de hielo.",
-          "An icicle is a pillar of ice.",
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "colectivos",
+      "content": "nada",
       "translations": [
-        "buses",
-        "shared vans",
-        "collective transport"
+        "not"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom no me gusta para nada.",
+          "I don't like Tom at all.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella solo finge que no le importa nada.",
+          "She only pretends to not care about anything.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "más",
@@ -131,38 +80,51 @@
       ],
       "usageExamples": [
         [
-          "Quiero más comida.",
-          "I would like additional food.",
-          ""
-        ],
-        [
           "Necesito más tiempo.",
           "I require additional time.",
           ""
         ],
         [
-          "No hay nada más qué decir.",
-          "There's nothing more to be said.",
+          "Quiero más comida.",
+          "I would like additional food.",
+          ""
+        ],
+        [
+          "¿Dónde está la parada de colectivos más cercana?",
+          "Where's the nearest bus stop?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cercana",
+      "content": "qué",
       "translations": [
-        "nearby?",
-        "close",
-        "near"
+        "what"
       ],
       "usageExamples": [
         [
-          "Busco una ruta cercana.",
-          "I want a close route.",
+          "No sé para qué me he levantado tan temprano.",
+          "I don't know why I got up so early.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "decir",
+      "translations": [
+        "to say",
+        "to tell",
+        "to speak"
+      ],
+      "usageExamples": [
+        [
+          "¿Puedes decirme la hora, por favor?",
+          "Please tell me what time it is.",
           ""
         ],
         [
-          "La tienda más cercana.",
-          "The nearest store.",
+          "Es difícil decir qué es lo correcto en esta situación.",
+          "It's challenging to know what the right thing is in this situation.",
           ""
         ]
       ]

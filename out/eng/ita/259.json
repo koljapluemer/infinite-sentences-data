@@ -1,115 +1,74 @@
 {
-  "sentence": "Dovrebbe chiamare a casa adesso.",
+  "sentence": "Che musica ascoltate?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by DiePain (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should call home now."
+    "What music do you listen to?"
   ],
   "parts": [
     {
-      "content": "Dovrebbe",
+      "content": "Che",
       "translations": [
-        "should",
-        "ought to",
-        "is supposed to",
-        "is to"
+        "What",
+        "Which",
+        "That",
+        "Who"
+      ],
+      "usageExamples": [
+        [
+          "Che canzone strana...",
+          "What a weird song...",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che fallito!",
+          "What a loser!",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che altro vorresti?",
+          "What more would you want?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "musica",
+      "translations": [
+        "music",
+        "musical piece",
+        "tune",
+        "song"
+      ],
+      "usageExamples": [
+        [
+          "A Ken piace molto la musica.",
+          "Ken likes music very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Andò in Italia a studiare la musica.",
+          "She went to Italy to study music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A José piace la musica latina.",
+          "José likes latin music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ascoltate",
+      "translations": [
+        "listen",
+        "hear",
+        "pay attention",
+        "take heed"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "chiamare",
-      "translations": [
-        "to call",
-        "to name",
-        "to invoke",
-        "to summon"
-      ],
-      "usageExamples": [
-        [
-          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
-          "Tom received an urgent message to call his wife.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
-      ],
-      "usageExamples": [
-        [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Volate fino a Londra.",
-          "Fly to London.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "casa",
-      "translations": [
-        "house",
-        "home",
-        "dwelling",
-        "residence"
-      ],
-      "usageExamples": [
-        [
-          "Dov'è la sua casa?",
-          "Where is your house?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questa è casa sua adesso.",
-          "This is your house now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo devo fare prima di potere andare a casa oggi.",
-          "I have to do that before I can go home today.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "adesso",
-      "translations": [
-        "now",
-        "right now",
-        "at this moment",
-        "currently"
-      ],
-      "usageExamples": [
-        [
-          "Tom sta cenando adesso.",
-          "Tom is eating dinner right now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

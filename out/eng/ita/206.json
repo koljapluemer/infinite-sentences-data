@@ -1,57 +1,140 @@
 {
-  "sentence": "Chiamate un'ambulanza!",
+  "sentence": "A chi non piace quello?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by jared1981 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Call an ambulance!"
+    "Who doesn't like that?"
   ],
   "parts": [
     {
-      "content": "Chiamate",
+      "content": "A",
       "translations": [
-        "Calls",
-        "Phone calls",
-        "Incoming calls",
-        "Outgoing calls"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "È un ghostwriter.",
-          "He's a ghostwriter.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Beviamo un'altra birra.",
-          "Let's have another beer.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ambulanza",
+      "content": "chi",
       "translations": [
-        "ambulance",
-        "emergency vehicle",
-        "medic transport",
-        "rescue vehicle"
+        "who",
+        "whom",
+        "which",
+        "that"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ],
+        [
+          "Con chi ci andrà?",
+          "Who are you going with?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non so chi dovrebbe guidarmi.",
+          "I don't know who should guide me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "quello",
+      "translations": [
+        "that",
+        "the one",
+        "those",
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non aveva nulla a che fare con tutto quello.",
+          "Tom had nothing to do with any of that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A volte, un po' di orgoglio è quello che ci serve.",
+          "Sometimes, a little bit of pride is what we need.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

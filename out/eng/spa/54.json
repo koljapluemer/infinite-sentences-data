@@ -1,111 +1,67 @@
 {
-  "sentence": "No hay nadie en la entrada.",
+  "sentence": "Francois dio un discurso.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There's no one at the entrance."
+    "François gave a speech."
   ],
   "parts": [
     {
-      "content": "No",
+      "content": "Francois",
       "translations": [
-        "No.",
-        "Not",
-        "Nope."
+        "Francois",
+        "Francis"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dio",
+      "translations": [
+        "god",
+        "deity"
       ],
       "usageExamples": [
         [
-          "No tengo tiempo.",
-          "I'm out of time.",
-          ""
-        ],
-        [
-          "No quiero ir.",
-          "I don't want to go.",
-          ""
-        ],
-        [
-          "No caí en la cuenta hasta mucho después.",
-          "I didn't realize it until much later.",
+          "Tom dio con una pauta en los datos.",
+          "Tom spotted a pattern in the data.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hay",
+      "content": "un",
       "translations": [
-        "there is",
-        "there are",
-        "there exists"
+        "a",
+        "one",
+        "an"
       ],
       "usageExamples": [
         [
-          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
-          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
+          "Quiero un café.",
+          "I'd like a coffee.",
+          ""
+        ],
+        [
+          "¡Yo vi un ratón!",
+          "I saw a mouse!",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "No hay nada más qué decir.",
-          "There's nothing more to be said.",
+          "Tenemos un horario apretado.",
+          "We have a tight schedule.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "en",
+      "content": "discurso",
       "translations": [
-        "to"
-      ],
-      "usageExamples": [
-        [
-          "Estoy en casa.",
-          "I am home.",
-          ""
-        ],
-        [
-          "Confío en él.",
-          "I have faith in him.",
-          ""
-        ],
-        [
-          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
-          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
-      ],
-      "usageExamples": [
-        [
-          "La casa es grande.",
-          "The house is spacious.",
-          ""
-        ],
-        [
-          "La comida está lista.",
-          "The meal is prepared.",
-          ""
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "entrada",
-      "translations": [
-        "entry",
-        "entrance",
-        "input",
-        "admission"
+        "speech",
+        "discourse",
+        "talk",
+        "address"
       ],
       "usageExamples": []
     }

@@ -1,58 +1,75 @@
 {
-  "sentence": "Bütün oy pusulalarını saymak zorundayız.",
+  "sentence": "Bunun doğru olmadığını iddia ediyorum.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wir müssen alle Stimmzettel auszählen."
+    "Ich behaupte, dass das nicht stimmt."
   ],
   "parts": [
     {
-      "content": "Bütün",
+      "content": "Bunun",
       "translations": [
-        "alles",
-        "gesamt"
+        "Das",
+        "Dieses"
       ],
       "usageExamples": []
     },
     {
-      "content": "oy",
+      "content": "doğru",
       "translations": [
-        "oh",
-        "ach"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "pusulalarını",
-      "translations": [
-        "Wahlzettel",
-        "Stimmzettel"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "saymak",
-      "translations": [
-        "zählen",
-        "aufzählen"
+        "richtig",
+        "korrekt"
       ],
       "usageExamples": [
         [
-          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
-          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+          "Dolap kapağını sola doğru açın , şişeler oradadır.",
+          "Mach den Schrank auf der linken Seite auf, dort sind die Flaschen.",
+          "Sentence from Tatoeba by erayavci (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "zorundayız",
+      "content": "olmadığını",
       "translations": [
-        "wir sind verpflichtet",
-        "wir müssen"
+        "nicht sein",
+        "nicht vorhanden"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "iddia",
+      "translations": [
+        "Wette",
+        "Einsatz"
+      ],
+      "usageExamples": [
+        [
+          "Yani yalan söylediğimi iddia ediyorsunuz.",
+          "Sie behaupten also, dass ich lüge.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ediyorum",
+      "translations": [
+        "ich mache",
+        "ich tue"
+      ],
+      "usageExamples": [
+        [
+          "Komşularımdan nefret ediyorum.",
+          "Ich hasse meine Nachbarn.",
+          "Sentence from Tatoeba by blackdove (CC-BY 2.0 FR)"
+        ],
+        [
+          "Erken kalkmaktan nefret ediyorum/ederim.",
+          "Ich hasse es, früh aufzustehen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

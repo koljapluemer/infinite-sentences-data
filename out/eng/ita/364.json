@@ -1,98 +1,146 @@
 {
-  "sentence": "Il libro è arrivato.",
+  "sentence": "Ha gridato contro il suo computer.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The book came."
+    "He yelled at his computer.",
+    "She yelled at her computer."
   ],
   "parts": [
     {
-      "content": "Il",
+      "content": "Ha",
       "translations": [
-        "The",
-        "It"
+        "He has",
+        "There is",
+        "It has"
       ],
       "usageExamples": [
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Ha perso la partita.",
+          "You lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Ha perso qualcosa?",
+          "Have you lost something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cane scodinzolava.",
-          "The dog wagged its tail.",
+          "Ha lasciato un po' di cibo nel suo piatto.",
+          "She left some food on her plate.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "libro",
+      "content": "gridato",
       "translations": [
-        "book",
-        "volume",
-        "tome",
-        "publication"
-      ],
-      "usageExamples": [
-        [
-          "È un nuovo libro.",
-          "It's a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu comprendi quel libro.",
-          "You understand that book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era un libro nuovo.",
-          "It was a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
-      ],
-      "usageExamples": [
-        [
-          "Tom è un esperto.",
-          "Tom is a pro.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è divertito.",
-          "Tom enjoyed himself.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "arrivato",
-      "translations": [
-        "arrived",
-        "come",
-        "reached",
-        "got here"
+        "screamed",
+        "shouted",
+        "yelled",
+        "cried out"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "contro",
+      "translations": [
+        "against",
+        "opposed to",
+        "in contrast to",
+        "counter"
+      ],
+      "usageExamples": [
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era una corsa contro il tempo.",
+          "It was a race against time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suo",
+      "translations": [
+        "his",
+        "her",
+        "its",
+        "their"
+      ],
+      "usageExamples": [
+        [
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo lavoro.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il latte nel suo caffè.",
+          "Mary doesn't like milk in her coffee.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "computer",
+      "translations": [
+        "PC",
+        "computing device",
+        "laptop"
+      ],
+      "usageExamples": [
+        [
+          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+          "My mother advises me against sitting at my computer all day long.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "I personal computer sono molto utili.",
+          "Personal computers are very useful.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Inoue non piacciono i computer.",
+          "Inoue doesn't like computers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

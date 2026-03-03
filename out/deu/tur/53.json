@@ -1,53 +1,46 @@
 {
-  "sentence": "Evde kaç tane yatak var?",
+  "sentence": "Esperanto öğrenmek çok ilginçtir.",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wie viele Betten gibt es im Haus?"
+    "Esperanto zu lernen ist sehr interessant."
   ],
   "parts": [
     {
-      "content": "Evde",
+      "content": "Esperanto",
       "translations": [
-        "zu Hause",
-        "im Haus"
+        "Esperanto",
+        "Esperanto-Sprache"
       ],
       "usageExamples": []
     },
     {
-      "content": "kaç",
+      "content": "öğrenmek",
       "translations": [
-        "wie viel",
-        "wie viele"
+        "lernen",
+        "erfahren",
+        "studieren"
       ],
       "usageExamples": []
     },
     {
-      "content": "tane",
+      "content": "çok",
       "translations": [
-        "Körper",
-        "Leib"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "var",
-      "translations": [
-        "var",
-        "es gibt"
+        "sehr",
+        "viel"
       ],
       "usageExamples": [
-        [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
         [
           "Futbola çok ilgim var.",
           "Ich interessiere mich sehr für Fußball.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Az laf, çok iş!",
+          "Weniger quatschen, mehr handeln!",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
         ],
         [
           "Tom'un çok zamanı var.",
@@ -55,6 +48,14 @@
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "ilginçtir",
+      "translations": [
+        "es ist interessant",
+        "das ist interessant"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,36 +1,34 @@
 {
-  "sentence": "Türkçe konuşur musunuz?",
+  "sentence": "Tom'un çocukları hasta.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sprechen Sie Türkisch?"
+    "Toms Kinder sind krank."
   ],
   "parts": [
     {
-      "content": "Türkçe",
+      "content": "çocukları",
       "translations": [
-        "Türkisch",
-        "Türkische Sprache"
+        "Kinder",
+        "die Kinder"
       ],
       "usageExamples": []
     },
     {
-      "content": "konuşur",
+      "content": "hasta",
       "translations": [
-        "spricht",
-        "redet"
+        "Krücke",
+        "Stock"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "musunuz",
-      "translations": [
-        "sind Sie",
-        "bist du"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

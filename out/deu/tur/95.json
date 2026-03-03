@@ -1,57 +1,89 @@
 {
-  "sentence": "Size hepsini halledeceğimin garantisini verebilirim.",
+  "sentence": "Sana gitmen için izin veriyorum.",
   "credits": [
-    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich kann euch garantieren, dass ich alles erledigen werde."
+    "Ich erlaube dir zu gehen."
   ],
   "parts": [
     {
-      "content": "boyut",
+      "content": "Sana",
       "translations": [
-        "Größe",
-        "Dimension"
+        "dir"
       ],
       "usageExamples": []
     },
     {
-      "content": "hepsi",
+      "content": "gitmen",
       "translations": [
-        "alle",
-        "alles"
+        "gehen",
+        "weggehen"
       ],
       "usageExamples": []
     },
     {
-      "content": "halletmek",
+      "content": "için",
       "translations": [
-        "ablen",
-        "loslassen",
-        "aufgeben",
-        "verzichten"
+        "für",
+        "um zu"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Mali desteği, bu projemiz için vazgeçilmezdir.",
+          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
+          "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ],
+        [
+          "O, benim bir arkadaşım için.",
+          "Es ist für einen Freund von mir.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "garanti",
+      "content": "izin",
       "translations": [
-        "Garantie",
-        "Sicherung",
-        "Gewährleistung"
+        "Genehmigung",
+        "Erlaubnis"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Kapıyı kapatmama izin veriniz.",
+          "Erlauben Sie mir, die Tür zu schließen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "vermek",
+      "content": "veriyorum",
       "translations": [
-        "geben",
-        "übergeben",
-        "spenden",
-        "bereitstellen"
+        "ich gebe",
+        "ich biete an"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ne yazık ki, her zaman çok fazla veriyorum.",
+          "Ich gebe leider immer zu viel.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

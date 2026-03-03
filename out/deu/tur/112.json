@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom'u çağırmamı ister misiniz?",
+  "sentence": "Tom gelince, gidiyorum.",
   "credits": [
-    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wollen Sie, dass ich Tom rufe?"
+    "Wenn Tom kommt, gehe ich."
   ],
   "parts": [
     {
@@ -15,63 +15,36 @@
       ],
       "usageExamples": [
         [
-          "Tom beni arıyor mu?",
-          "Sucht Tom nach mir?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sonuçları analiz etti.",
-          "Tom analysierte die Ergebnisse.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
           "Tom Boston'da kalıyor.",
           "Tom bleibt in Boston.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "çağır",
+      "content": "gelince",
       "translations": [
-        "rufen",
-        "einladen",
-        "herbeirufen"
+        "wenn er/sie kommt",
+        "bei Ankunft",
+        "bei Eintreffen"
       ],
       "usageExamples": []
     },
     {
-      "content": "mam",
+      "content": "gidiyorum",
       "translations": [
-        "Mama",
-        "Mutti",
-        "Mutter"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ı",
-      "translations": [
-        "ich",
-        "ich bin"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ister",
-      "translations": [
-        "bitte",
-        "möchten Sie"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "misiniz",
-      "translations": [
-        "sind Sie",
-        "bist du",
-        "sind Sie nicht",
-        "bist du nicht"
+        "Ich gehe",
+        "Ich bin unterwegs"
       ],
       "usageExamples": []
     }

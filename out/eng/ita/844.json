@@ -1,74 +1,83 @@
 {
-  "sentence": "Si contraddicono molto.",
+  "sentence": "Quanto spesso mangi pesce?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by pauldhunt (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They contradict themselves a lot."
+    "How often do you eat fish?"
   ],
   "parts": [
     {
-      "content": "Si",
+      "content": "Quanto",
       "translations": [
-        "If",
-        "Whether",
-        "In case",
-        "Provided that"
+        "How much",
+        "How many",
+        "To what extent",
+        "As much as"
       ],
       "usageExamples": [
         [
-          "Si sono sposati.",
-          "They got married.",
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
-          "He moved to Madrid to take the reins of his father's business.",
+          "Quanto tempo ci è voluto per tradurre questo libro?",
+          "How long did it take us to translate this book?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Si unisca al nostro gruppo di lettura.",
-          "Join our book club.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "contraddicono",
+      "content": "spesso",
       "translations": [
-        "they contradict",
-        "they oppose",
-        "they counter",
-        "they clash"
+        "often",
+        "frequently",
+        "usually",
+        "repeatedly"
+      ],
+      "usageExamples": [
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La saggezza spesso cresce con le esperienze che accumuli.",
+          "Wisdom often grows with the experiences you accumulate.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mangi",
+      "translations": [
+        "eat",
+        "to eat",
+        "eating"
       ],
       "usageExamples": []
     },
     {
-      "content": "molto",
+      "content": "pesce",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "fish",
+        "seafood",
+        "fishing catch",
+        "aquatic animal"
       ],
-      "usageExamples": [
-        [
-          "È molto bello rivedervi.",
-          "It is very nice to see you again.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Amo molto mia madre.",
-          "I love my mother very much.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vi manca molto, vero?",
-          "You miss him a lot, don't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

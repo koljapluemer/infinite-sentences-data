@@ -1,38 +1,72 @@
 {
-  "sentence": "Oy kullanmayacak mısın?",
+  "sentence": "Onların işlerini yapmasına izin ver.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Aren't you going to vote?"
+    "Let them do their jobs."
   ],
   "parts": [
     {
-      "content": "Oy",
+      "content": "Onların",
       "translations": [
-        "Oh.",
-        "Ouch",
-        "Hey.",
-        "Wow"
+        "theirs",
+        "their",
+        "of them"
       ],
       "usageExamples": []
     },
     {
-      "content": "kullanmayacak",
+      "content": "işlerini",
       "translations": [
-        "will not use",
-        "not going to use"
+        "your work",
+        "your business",
+        "your tasks",
+        "your affairs"
       ],
       "usageExamples": []
     },
     {
-      "content": "mısın",
+      "content": "yapmasına",
       "translations": [
-        "are you",
-        "do you",
-        "is it",
-        "are they"
+        "to do",
+        "to make"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "izin",
+      "translations": [
+        "permission",
+        "leave",
+        "authorization",
+        "license"
+      ],
+      "usageExamples": [
+        [
+          "Onu görmem için bana izin verilmedi.",
+          "I wasn't permitted to see him.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Polisin sorunla ilgilenmesine izin vermeliydik.",
+          "We should've let the police handle the problem.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu insanların bize ne yapacağımızı söylemelerine izin veremeyiz.",
+          "We cannot let these people tell us what to do.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ver",
+      "translations": [
+        "to see",
+        "to watch",
+        "to look at"
       ],
       "usageExamples": []
     }

@@ -1,49 +1,80 @@
 {
-  "sentence": "Cümlenin sonunda nokta eksik.",
+  "sentence": "Bunun ne anlama geldiğini biliyorum.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The period is missing at the end of the sentence."
+    "I know what this means."
   ],
   "parts": [
     {
-      "content": "Cümlenin",
+      "content": "Bunun",
       "translations": [
-        "The sentence's",
-        "Of the sentence"
+        "this",
+        "of this",
+        "this one"
       ],
       "usageExamples": []
     },
     {
-      "content": "sonunda",
+      "content": "ne",
       "translations": [
-        "finally",
-        "at last",
-        "in the end",
-        "ultimately"
+        "what",
+        "huh",
+        "right",
+        "no way"
+      ],
+      "usageExamples": [
+        [
+          "Peki, ona ne denir?",
+          "Well, what's it called?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O istasyonun adı ne?",
+          "What's the name of that station?",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Şu an ne yiyorsun?",
+          "What are you eating right now?",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "anlama",
+      "translations": [
+        "understanding",
+        "comprehension",
+        "meaning",
+        "grasp"
       ],
       "usageExamples": []
     },
     {
-      "content": "nokta",
+      "content": "geldiğini",
       "translations": [
-        "point",
-        "dot",
-        "spot"
+        "you came",
+        "you have come",
+        "you arrived"
       ],
       "usageExamples": []
     },
     {
-      "content": "eksik",
+      "content": "biliyorum",
       "translations": [
-        "missing",
-        "deficient",
-        "lacking",
-        "incomplete"
+        "I know.",
+        "I am aware"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Seni neyin daha iyi hissettireceğini biliyorum.",
+          "I know what'll make you feel better.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

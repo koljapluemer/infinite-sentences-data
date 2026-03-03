@@ -1,57 +1,89 @@
 {
-  "sentence": "Sizinle sonucu paylaşma niyetinde değilim.",
+  "sentence": "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
   "credits": [
-    "Sentence from Tatoeba by eminyilmazki (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen."
+    "Hast du gesagt, dass du deine Fehler akzeptieren sollst?"
   ],
   "parts": [
     {
-      "content": "sizinle",
+      "content": "Sen",
       "translations": [
-        "mit Ihnen",
-        "mit dir"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sonucu",
-      "translations": [
-        "Ergebnis",
-        "Folge"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "paylaşma",
-      "translations": [
-        "teilen",
-        "Gemeinschaft",
-        "Austausch"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "niyetinde",
-      "translations": [
-        "in der Absicht",
-        "mit der Absicht"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "değilim",
-      "translations": [
-        "ich bin nicht",
-        "bin ich nicht"
+        "du",
+        "Sie"
       ],
       "usageExamples": [
         [
-          "Benim kalmamın mantıklı olduğundan emin değilim.",
-          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben.",
+          "Sen hala oğlumsun.",
+          "Du bist noch immer mein Sohn.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hatalarını",
+      "translations": [
+        "deine Fehler",
+        "ihre Fehler"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kabul",
+      "translations": [
+        "akzeptieren",
+        "annehmen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "etmen",
+      "translations": [
+        "essen",
+        "verzehren"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gerektiğini",
+      "translations": [
+        "was notwendig",
+        "was erforderlich"
+      ],
+      "usageExamples": [
+        [
+          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "söyledin",
+      "translations": [
+        "du hast gesagt",
+        "du hast gesprochen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "ich",
+        "mir"
+      ],
+      "usageExamples": [
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Kartla ödeme yapılabilir mi?",
+          "Kann man mit Karte bezahlen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     }

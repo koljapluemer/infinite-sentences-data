@@ -1,70 +1,84 @@
 {
-  "sentence": "Sai chi intendo.",
+  "sentence": "Potete vedere quella luce tremolante?",
   "credits": [
-    "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You know who I mean."
+    "Can you see that flickering light?"
   ],
   "parts": [
     {
-      "content": "Sai",
+      "content": "Potete",
       "translations": [
-        "to know",
-        "to be aware of",
-        "to be familiar with",
-        "to have knowledge of"
+        "You can",
+        "You are able to",
+        "You may.",
+        "You are allowed to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vedere",
+      "translations": [
+        "to see",
+        "to watch",
+        "to look at",
+        "to perceive"
       ],
       "usageExamples": [
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Lo zio Ted ci portò allo zoo per farci vedere i panda.",
+          "Uncle Ted took us to the zoo in order to show us the pandas.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chi",
+      "content": "quella",
       "translations": [
-        "who",
-        "whom",
-        "which",
-        "that"
+        "that",
+        "the one",
+        "that one",
+        "the"
       ],
       "usageExamples": [
         [
-          "Con chi ci andrà?",
-          "Who are you going with?",
+          "Taxi, segui quella macchina.",
+          "Taxi, follow that car.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A chi non piace quello?",
-          "Who doesn't like that?",
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io non so chi dovrebbe guidarmi.",
-          "I don't know who should guide me.",
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "intendo",
+      "content": "luce",
       "translations": [
-        "I intend",
-        "I plan",
-        "I aim",
-        "I mean"
+        "light",
+        "brightness",
+        "illumination",
+        "radiance"
       ],
-      "usageExamples": [
-        [
-          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
-          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "tremolante",
+      "translations": [
+        "trembling",
+        "shaking",
+        "quivering",
+        "vibrating"
+      ],
+      "usageExamples": []
     }
   ]
 }

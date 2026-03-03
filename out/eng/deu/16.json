@@ -1,62 +1,124 @@
 {
-  "sentence": "Ich habe das Handtuch vergessen.",
+  "sentence": "Geht es Tom und Maria heute besser?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I forgot my towel."
+    "Are Tom and Mary any better today?"
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Geht",
       "translations": [
-        "I"
+        "goes",
+        "is going",
+        "works",
+        "happens"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "es",
+      "translations": [
+        "it",
+        "there",
+        "this"
       ],
       "usageExamples": [
         [
-          "Ich bin Ihnen nie persönlich begegnet.",
-          "I've never met you in person.",
+          "Schreibt es in eurer Sprache!",
+          "Write it in your language!",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "habe",
+      "content": "Tom",
       "translations": [
-        "have",
-        "to have"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "das",
-      "translations": [
-        "of the",
-        "from the",
-        "the"
+        "Tom",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Das ist das beste Restaurant, das ich kenne.",
-          "This is the best restaurant that I know of.",
+          "Tom und Maria teilten sich eine Mahlzeit.",
+          "Tom and Mary shared a meal.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom hat nicht wirklich die Wahl.",
+          "Tom doesn't really have much choice.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom und Maria haben geübt.",
+          "Tom and Mary have been practising.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Handtuch",
+      "content": "und",
       "translations": [
-        "towel",
-        "hand towel"
+        "and",
+        "as well as"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom und Maria teilten sich eine Mahlzeit.",
+          "Tom and Mary shared a meal.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom und Maria haben geübt.",
+          "Tom and Mary have been practising.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "vergessen",
+      "content": "Maria",
       "translations": [
-        "to forget",
-        "forgotten"
+        "Maria",
+        "Mary"
+      ],
+      "usageExamples": [
+        [
+          "Tom und Maria teilten sich eine Mahlzeit.",
+          "Tom and Mary shared a meal.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hat Tom wirklich Maria geschlagen?",
+          "Did Tom really hit Mary?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom und Maria haben geübt.",
+          "Tom and Mary have been practising.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "heute",
+      "translations": [
+        "today"
+      ],
+      "usageExamples": [
+        [
+          "Opa hat sich heute zum Nachtisch Grießbrei gewünscht.",
+          "Grandad asked for semolina for dessert today.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "besser",
+      "translations": [
+        "better",
+        "improved",
+        "superior"
       ],
       "usageExamples": []
     }

@@ -1,88 +1,82 @@
 {
-  "sentence": "Dime algo que no sepa.",
+  "sentence": "Debes hacer felices a tus padres.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tell me something that I don't know."
+    "You must make your parents happy."
   ],
   "parts": [
     {
-      "content": "Dime",
+      "content": "Debes",
       "translations": [
-        "Tell me",
-        "Say to me",
-        "Speak to me"
+        "You must",
+        "You should",
+        "You have to"
+      ],
+      "usageExamples": [
+        [
+          "Debes llegar al trabajo a tiempo.",
+          "You ought to get to work on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hacer",
+      "translations": [
+        "to do",
+        "to make"
       ],
       "usageExamples": []
     },
     {
-      "content": "algo",
+      "content": "felices",
       "translations": [
-        "something"
+        "happy",
+        "joyful",
+        "glad",
+        "content"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "to"
       ],
       "usageExamples": [
         [
-          "Me gustaría tomar algo.",
-          "I'd like something to drink.",
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "que",
+      "content": "tus",
       "translations": [
-        "that",
-        "which"
+        "your",
+        "yours"
       ],
-      "usageExamples": [
-        [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
-          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Pretendo decirle a Tom que no quiero ir.",
-          "I plan to tell Tom that I don't want to go.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "no",
+      "content": "padres",
       "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Pretendo decirle a Tom que no quiero ir.",
-          "I plan to tell Tom that I don't want to go.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sepa",
-      "translations": [
-        "know",
-        "understand",
-        "be aware"
+        "parents",
+        "father and mother"
       ],
       "usageExamples": []
     }

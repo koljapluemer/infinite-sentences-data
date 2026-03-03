@@ -1,57 +1,43 @@
 {
-  "sentence": "Size yardım etmek istiyorum.",
+  "sentence": "Sen hala oğlumsun.",
   "credits": [
-    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich will dir helfen."
+    "Du bist noch immer mein Sohn."
   ],
   "parts": [
     {
-      "content": "Size",
+      "content": "Sen",
       "translations": [
-        "Größe",
-        "Dimension"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yardım",
-      "translations": [
-        "Hilfe",
-        "Unterstützung"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "etmek",
-      "translations": [
-        "machen",
-        "tun",
-        "verrichten"
+        "du",
+        "Sie"
       ],
       "usageExamples": [
         [
-          "O bu sırrı açık etmek istiyor.",
-          "Sie wollte das Geheimnis verraten.",
-          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
+          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "istiyorum",
+      "content": "hala",
       "translations": [
-        "ich will",
-        "ich möchte"
+        "immer noch",
+        "noch",
+        "trotzdem"
       ],
-      "usageExamples": [
-        [
-          "Bu pasajı senin için özetlemek istiyorum.",
-          "Ich möchte diese Passage für dich zusammenfassen.",
-          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "oğlumsun",
+      "translations": [
+        "du bist mein Sohn",
+        "du bist mein Kind"
+      ],
+      "usageExamples": []
     }
   ]
 }

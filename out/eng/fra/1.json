@@ -1,41 +1,78 @@
 {
-  "sentence": "C'est un danseur algérien.",
+  "sentence": "Anne aime beaucoup la musique.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He's an Algerian dancer."
+    "Ann likes music very much."
   ],
   "parts": [
     {
-      "content": "C'est",
+      "content": "Anne",
       "translations": [
-        "It is",
-        "This is",
-        "That is"
+        "Anne",
+        "Anna"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "aime",
+      "translations": [
+        "love",
+        "like"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "beaucoup",
+      "translations": [
+        "a lot",
+        "many",
+        "much"
       ],
       "usageExamples": [
         [
-          "C'est là que vous faites erreur.",
-          "That's where you're wrong.",
+          "J'ai beaucoup d'élastiques.",
+          "I have a lot of elastic bands.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je suis un gars on ne peut plus normal qui a beaucoup de violons d'Ingres, peut-être trop.",
+          "I'm a completely normal guy who has many hobbies, maybe too many.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "danseur",
+      "content": "la",
       "translations": [
-        "dancer",
-        "male dancer"
+        "the",
+        "it"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Je peux m'y rendre la semaine prochaine.",
+          "I can go next week.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je suis sur la route.",
+          "I'm on the road.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom regarde toujours la télévision.",
+          "Tom is always watching TV.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "algérien",
+      "content": "musique",
       "translations": [
-        "Algerian",
-        "from Algeria"
+        "music",
+        "musical"
       ],
       "usageExamples": []
     }

@@ -1,74 +1,110 @@
 {
-  "sentence": "Prenda questo denaro.",
+  "sentence": "Odio prendere i mezzi pubblici.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by corvard (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Take this money."
+    "I hate taking public transportation."
   ],
   "parts": [
     {
-      "content": "Prenda",
+      "content": "Odio",
       "translations": [
-        "Garment",
-        "Clothing item",
-        "Apparel",
-        "Piece of clothing"
+        "Hate",
+        "Loathing",
+        "Aversion",
+        "Dislike"
+      ],
+      "usageExamples": [
+        [
+          "Odio qui.",
+          "I hate it here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Odio tornare da lui. Voglio vivere con voi.",
+          "I hate going back to him. I want to live with you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Odio il cibo degli ospedali.",
+          "I hate hospital food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "prendere",
+      "translations": [
+        "to take",
+        "to grab",
+        "to catch",
+        "to seize"
+      ],
+      "usageExamples": [
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom corse per prendere l'ultimo treno.",
+          "Tom ran to catch the last train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano i suoi figli.",
+          "Mary missed her kids.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono i cavalli, vero?",
+          "Mary likes horses, doesn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mezzi",
+      "translations": [
+        "means",
+        "resources",
+        "vehicles",
+        "tools"
       ],
       "usageExamples": []
     },
     {
-      "content": "questo",
+      "content": "pubblici",
       "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
+        "public",
+        "publicly",
+        "of the public",
+        "common"
       ],
-      "usageExamples": [
-        [
-          "Inscatola questo.",
-          "Box this up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Trasporti questo.",
-          "Carry this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "denaro",
-      "translations": [
-        "money",
-        "cash",
-        "funds",
-        "currency"
-      ],
-      "usageExamples": [
-        [
-          "Quanto denaro ci dovete?",
-          "How much money do you owe us?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Un gruppo di gangster ha rubato del denaro.",
-          "A group of gangsters stole money.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom spiegò come perse tutto il suo denaro.",
-          "Tom explained how he lost his money.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

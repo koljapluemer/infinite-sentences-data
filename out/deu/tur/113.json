@@ -1,40 +1,69 @@
 {
-  "sentence": "Tom'un Avustralyalı aksanı yok.",
+  "sentence": "Tom mutsuz, değil mi?",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat keinen australischen Akzent."
+    "Tom ist unglücklich, nicht wahr?"
   ],
   "parts": [
     {
-      "content": "Avustralyalı",
+      "content": "Tom",
       "translations": [
-        "Australier",
-        "Australische Person"
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom beni arıyor mu?",
+          "Sucht Tom nach mir?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom nehirde yüzüyor.",
+          "Tom schwimmt im Fluss.",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hangi dilleri konuşabiliyorsun, Tom?",
+          "Welche Sprachen sprichst du, Tom?",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mutsuz",
+      "translations": [
+        "unglücklich",
+        "traurig",
+        "missmutig"
       ],
       "usageExamples": []
     },
     {
-      "content": "aksanı",
-      "translations": [
-        "Akzent",
-        "Aussprache"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yok",
+      "content": "değil",
       "translations": [
         "nicht",
         "kein"
       ],
+      "usageExamples": []
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "ich",
+        "mir"
+      ],
       "usageExamples": [
         [
-          "Tom, buna vaktimiz yok!",
-          "Tom, wir haben dafür keine Zeit!",
-          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+          "Kartla ödeme yapılabilir mi?",
+          "Kann man mit Karte bezahlen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
+          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
         ]
       ]
     }

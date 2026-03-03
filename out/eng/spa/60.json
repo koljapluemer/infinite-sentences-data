@@ -1,82 +1,130 @@
 {
-  "sentence": "Paré el coche en el arcén.",
+  "sentence": "La casa de Tom tiene grandes ventanas.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I pulled the car over to the side of the road."
+    "Tom's house has large windows."
   ],
   "parts": [
     {
-      "content": "Paré",
+      "content": "La",
       "translations": [
-        "I stopped.",
-        "I am stopped",
-        "I have stopped"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "el",
-      "translations": [
-        "the"
+        "The",
+        "It"
       ],
       "usageExamples": [
         [
-          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
-          "It's marvelous how quickly the medicine relieved my pain.",
+          "La pizza sabe diferente cuando está fría.",
+          "Pizza tastes different when it's cold.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
-          "That was the worst job Yanni had ever had.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Que se levante el acusado.",
-          "Will the defendant please rise?",
+          "La música se detuvo por un minuto.",
+          "The music stopped for a minute.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "coche",
+      "content": "casa",
       "translations": [
-        "car",
-        "automobile"
+        "house",
+        "home",
+        "dwelling",
+        "residence"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Esa casa estaba totalmente a oscuras.",
+          "The house was as dark as dark.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "en",
+      "content": "de",
       "translations": [
         "to"
       ],
       "usageExamples": [
         [
-          "Estoy en casa.",
-          "I am home.",
+          "Vengo de la playa.",
+          "I just came from the beach.",
           ""
         ],
         [
-          "Confío en él.",
-          "I believe in him.",
-          ""
+          "Algunos niños trajeron sándwiches de mantequilla de cacahuete, algunos de jamón y otros de queso.",
+          "Some children brought peanut butter sandwiches, some ham, and others cheese.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "¿Cómo entraste en mi habitación?",
-          "How did you get into my room?",
+          "En la fiesta hubo una enormidad de gente.",
+          "There was a great crowd at the party.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "arcén",
+      "content": "Tom",
       "translations": [
-        "shoulder",
-        "road shoulder",
-        "verge"
+        "Tom",
+        "Thomas"
+      ],
+      "usageExamples": [
+        [
+          "Tom terminó segundo.",
+          "Tom finished second.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom habla español, y Betty también.",
+          "Tom speaks Spanish, and so does Betty.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tiene",
+      "translations": [
+        "has",
+        "there is",
+        "there are"
+      ],
+      "usageExamples": [
+        [
+          "Tiene vino.",
+          "She has wine.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom tiene un gran sentido de la responsabilidad.",
+          "Tom has a strong sense of responsibility.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "grandes",
+      "translations": [
+        "big",
+        "large",
+        "great",
+        "huge"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ventanas",
+      "translations": [
+        "windows",
+        "sashes"
       ],
       "usageExamples": []
     }

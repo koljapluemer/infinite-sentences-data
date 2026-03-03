@@ -1,49 +1,119 @@
 {
-  "sentence": "Por favor, vayan abajo.",
+  "sentence": "La pizza sabe diferente cuando está fría.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please come downstairs."
+    "Pizza tastes different when it's cold."
   ],
   "parts": [
     {
-      "content": "Por",
+      "content": "La",
       "translations": [
-        "for",
-        "by",
-        "through",
-        "per"
+        "The",
+        "It"
+      ],
+      "usageExamples": [
+        [
+          "La casa de Tom tiene grandes ventanas.",
+          "Tom's house has large windows.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La música se detuvo por un minuto.",
+          "The music stopped for a minute.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pizza",
+      "translations": [
+        "pizza",
+        "pizza pie",
+        "slice of pizza"
       ],
       "usageExamples": []
     },
     {
-      "content": "favor",
+      "content": "sabe",
       "translations": [
-        "favor",
-        "favoritism",
-        "kindness",
-        "support"
+        "know",
+        "do you know",
+        "are you aware"
+      ],
+      "usageExamples": [
+        [
+          "Você sabe a resposta?",
+          "Do you have the answer?",
+          ""
+        ],
+        [
+          "Ele sabe cozinhar bem.",
+          "He is a good cook.",
+          ""
+        ],
+        [
+          "El té sabe muy amargo y no está bueno.",
+          "The tea is really bitter and doesn't taste good.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "diferente",
+      "translations": [
+        "different",
+        "distinct",
+        "varied",
+        "dissimilar"
       ],
       "usageExamples": []
     },
     {
-      "content": "vayan",
+      "content": "cuando",
       "translations": [
-        "go",
-        "let's go",
-        "they go",
-        "you all go"
+        "when",
+        "whenever"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Iremos cuando pare de llover.",
+          "We'll go when it quits raining.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "abajo",
+      "content": "está",
       "translations": [
-        "down",
-        "below",
-        "under"
+        "is",
+        "are"
+      ],
+      "usageExamples": [
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Aquí está mi equipaje.",
+          "Here is my baggage.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella está trabajando muy duro.",
+          "She is very hardworking.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fría",
+      "translations": [
+        "cold",
+        "cool"
       ],
       "usageExamples": []
     }

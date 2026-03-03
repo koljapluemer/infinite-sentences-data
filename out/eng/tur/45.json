@@ -1,91 +1,79 @@
 {
-  "sentence": "O dil çok hoş geliyor.",
+  "sentence": "Niçin sana iş vermem gerekiyor?",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That language sounds very pretty."
+    "Why should I hire you?"
   ],
   "parts": [
     {
-      "content": "O",
+      "content": "Niçin",
       "translations": [
-        "Oh.",
-        "O",
-        "Wow",
-        "Hey."
+        "Why",
+        "For what reason"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sana",
+      "translations": [
+        "to you",
+        "for you",
+        "your",
+        "to your"
       ],
       "usageExamples": [
         [
-          "O kazağı beğeniyorum.",
-          "I like that sweater.",
+          "Sana anlatmak istemiyorum.",
+          "I don't want to tell you.",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "iş",
+      "translations": [
+        "work",
+        "job",
+        "business",
+        "task"
+      ],
+      "usageExamples": [
+        [
+          "İyi bir iş istiyorum.",
+          "I want a good job.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ben işi kabul edemedim.",
+          "I couldn't accept the job.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "O makul görünüyor.",
-          "That seems reasonable.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "O birkaç haftadır kayıp.",
-          "She had been missing for a couple of weeks.",
+          "Tom'un o işi reddettiğini sandım.",
+          "I thought Tom turned that job down.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dil",
+      "content": "vermem",
       "translations": [
-        "language",
-        "tongue",
-        "heart",
-        "soul"
+        "to give",
+        "to provide",
+        "to deliver"
       ],
       "usageExamples": []
     },
     {
-      "content": "çok",
+      "content": "gerekiyor",
       "translations": [
-        "very",
-        "a lot",
-        "many",
-        "much"
-      ],
-      "usageExamples": [
-        [
-          "Kendimi çok sıkıyorum.",
-          "I'm really hard on myself.",
-          "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bu soba çok fazla tütüyor.",
-          "That stove smokes too much.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Oh Tanrım, emin değilim ama sanırım çok fazla yedim.",
-          "Oh geez, I'm not sure, but I think I ate too much.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "hoş",
-      "translations": [
-        "nice",
-        "pleasant",
-        "lovely",
-        "agreeable"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "geliyor",
-      "translations": [
-        "coming",
-        "is coming",
-        "arriving"
+        "it is necessary",
+        "it is required",
+        "it must be",
+        "one needs to"
       ],
       "usageExamples": []
     }

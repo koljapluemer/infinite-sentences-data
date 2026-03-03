@@ -1,57 +1,64 @@
 {
-  "sentence": "Köyde beş inek var.",
+  "sentence": "Kapıyı kapatmama izin veriniz.",
   "credits": [
-    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Im Dorf gibt es fünf Rinder."
+    "Erlauben Sie mir, die Tür zu schließen."
   ],
   "parts": [
     {
-      "content": "Köyde",
+      "content": "kapıyı",
       "translations": [
-        "im Dorf",
-        "auf dem Land"
+        "die Tür",
+        "zum Tür"
       ],
       "usageExamples": []
     },
     {
-      "content": "beş",
+      "content": "kapatmama",
       "translations": [
-        "fünf"
+        "nicht schließen",
+        "nicht zumachen"
       ],
       "usageExamples": []
     },
     {
-      "content": "inek",
+      "content": "izin",
       "translations": [
-        "Kuh",
-        "Rind"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "var",
-      "translations": [
-        "var",
-        "es gibt"
+        "Genehmigung",
+        "Erlaubnis"
       ],
       "usageExamples": [
         [
-          "Dokuza çeyrek var.",
-          "Es ist Viertel vor neun.",
-          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
-        ],
-        [
-          "Futbola çok ilgim var.",
-          "Ich interessiere mich sehr für Fußball.",
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Bir alternatifin var.",
-          "Du hast eine Alternative.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "veriniz",
+      "translations": [
+        "bitte",
+        "geben Sie mir"
+      ],
+      "usageExamples": [
+        [
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     }

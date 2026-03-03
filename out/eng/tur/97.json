@@ -1,37 +1,106 @@
 {
-  "sentence": "Yarın kiliseye gitmeliyim.",
+  "sentence": "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've got to go to church tomorrow."
+    "Tom said he didn't know who Mary was getting married to."
   ],
   "parts": [
     {
-      "content": "yarın",
+      "content": "Tom",
       "translations": [
-        "tomorrow",
-        "next day"
+        "Tom",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom bizi korkuttu.",
+          "Tom scared us.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sigara içmeyi bırakmalı.",
+          "Tom ought to stop smoking.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom annemin erkek kardeşi.",
+          "Tom is my mother's brother.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Mary",
+        "Maria"
+      ],
+      "usageExamples": [
+        [
+          "Tom Mary'ye bekleyeceğini söyledi.",
+          "Tom told Mary he'd wait.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary benim kız arkadaşım değil.",
+          "Mary isn't my girlfriend.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom, Mary'ye üç yüz dolar verdi.",
+          "Tom gave Mary three hundred dollars.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "kiminle",
+      "translations": [
+        "with whom",
+        "who with"
       ],
       "usageExamples": []
     },
     {
-      "content": "kiliseye",
+      "content": "evlendiğini",
       "translations": [
-        "to the church",
-        "at the church"
+        "you got married",
+        "you are married"
       ],
       "usageExamples": []
     },
     {
-      "content": "gitmeliyim",
+      "content": "bilmediğini",
       "translations": [
-        "I must go",
-        "I have to go.",
-        "I should go"
+        "you don't know it",
+        "that you don't know",
+        "not knowing it",
+        "what you don't know"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "söyledi",
+      "translations": [
+        "he/she said",
+        "they said",
+        "said"
+      ],
+      "usageExamples": [
+        [
+          "Tom Mary'ye bekleyeceğini söyledi.",
+          "Tom told Mary he'd wait.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bana aslında onu yapmak istemediğini söyledi.",
+          "Tom told me he didn't actually want to do that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

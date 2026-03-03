@@ -1,21 +1,62 @@
 {
-  "sentence": "Vladimir è forte come una mucca.",
+  "sentence": "Tom si è addolcito.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Vladimir is strong as a cow."
+    "Tom relented."
   ],
   "parts": [
     {
-      "content": "Vladimir",
+      "content": "Tom",
       "translations": [
-        "Vladimir (name)",
-        "Vladimir (given name)",
-        "Vladimir (personal name)"
+        "Thomas",
+        "Tommy"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "si",
+      "translations": [
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had some fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non posso dirle come si pronuncia la parola.",
+          "I can't tell you how to pronounce the word.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "è",
@@ -27,103 +68,31 @@
       ],
       "usageExamples": [
         [
-          "Tom è famoso.",
-          "Tom is famous.",
+          "Questo è un test?",
+          "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è ovviamente arrabbiato.",
-          "Tom is obviously angry.",
+          "Forse è lui.",
+          "Maybe it's him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Lei è americano?",
+          "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "forte",
+      "content": "addolcito",
       "translations": [
-        "strong",
-        "powerful",
-        "forceful",
-        "intense"
+        "sweetened",
+        "made sweet",
+        "sweetened up",
+        "sugared"
       ],
-      "usageExamples": [
-        [
-          "Non mi sento abbastanza forte per dirglielo.",
-          "I don’t feel strong enough to tell him.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "come",
-      "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
-      ],
-      "usageExamples": [
-        [
-          "Sa come raggiungerla?",
-          "Do you know how to reach her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È descritto come un moralista.",
-          "He is described as a moralist.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Stavano parlando insieme come vecchi amici.",
-          "They were talking together like old pals.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
-      ],
-      "usageExamples": [
-        [
-          "Posso avere una birra?",
-          "Can I have a beer?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È una maledizione.",
-          "It is a curse.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mucca",
-      "translations": [
-        "cow",
-        "female bovine"
-      ],
-      "usageExamples": [
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

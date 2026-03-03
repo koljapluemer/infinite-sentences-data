@@ -1,81 +1,147 @@
 {
-  "sentence": "Bevo solo caffè decaffeinato.",
+  "sentence": "A Mary piacciono le arance, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I only drink decaffeinated coffee."
+    "Mary likes oranges, doesn't she?"
   ],
   "parts": [
     {
-      "content": "Bevo",
+      "content": "A",
       "translations": [
-        "I am drinking",
-        "I consume"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "solo",
-      "translations": [
-        "alone",
-        "only",
-        "just",
-        "single"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Io sono solo curiosa.",
-          "I'm just curious.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary importa solo di se stessa.",
-          "Mary only cares about herself.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary importava solo di se stessa.",
-          "Mary only cared about herself.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "caffè",
+      "content": "Mary",
       "translations": [
-        "coffee",
-        "café",
-        "espresso",
-        "java"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho bevuto del caffè questa mattina.",
-          "I drank coffee this morning.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
-          "Come to Albania, where we always make good coffee.",
-          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+          "Tom e Mary studiano il francese ogni sera per trenta minuti.",
+          "Tom and Mary study French every evening for thirty minutes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "decaffeinato",
+      "content": "piacciono",
       "translations": [
-        "decaffeinated",
-        "caffeine-free",
-        "decaf"
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
+      ],
+      "usageExamples": [
+        [
+          "A Eva piacciono i cani, ma non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono i film.",
+          "Mary enjoys movies.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piacciono le mele, vero?",
+          "Mary doesn't like apples, does she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
+      ],
+      "usageExamples": [
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono le scienze.",
+          "Mary likes the sciences.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "arance",
+      "translations": [
+        "oranges",
+        "orange fruits"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

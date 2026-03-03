@@ -1,48 +1,38 @@
 {
-  "sentence": "Hai guardato la partita?",
+  "sentence": "Dovette pulire la cucina.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Conjuice (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you watch the game?"
+    "He had to clean the kitchen."
   ],
   "parts": [
     {
-      "content": "Hai",
+      "content": "Dovette",
       "translations": [
-        "Yes.",
-        "Yeah",
-        "Yep.",
-        "Affirmative"
+        "Should have",
+        "Ought to have",
+        "Had to",
+        "Was supposed to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "pulire",
+      "translations": [
+        "to clean",
+        "to tidy up",
+        "to purify",
+        "to polish"
       ],
       "usageExamples": [
         [
-          "Hai bisogno di una tastiera nuova?",
-          "Do you need a new keyboard?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai visto Tom quella notte?",
-          "Did you see Tom that night?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai già visto il campus?",
-          "Have you seen the campus yet?",
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "guardato",
-      "translations": [
-        "watched",
-        "looked at",
-        "observed",
-        "seen"
-      ],
-      "usageExamples": []
     },
     {
       "content": "la",
@@ -54,13 +44,13 @@
       ],
       "usageExamples": [
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dovette pulire la cucina.",
-          "He had to clean the kitchen.",
+          "Prendi la mia.",
+          "Take mine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -71,18 +61,23 @@
       ]
     },
     {
-      "content": "partita",
+      "content": "cucina",
       "translations": [
-        "match",
-        "game",
-        "part",
-        "session"
+        "kitchen",
+        "cooking area",
+        "culinary space",
+        "kitchenette"
       ],
       "usageExamples": [
         [
-          "Ha perso la partita.",
-          "She lost the game.",
+          "È uscito dalla cucina.",
+          "He got out of the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Riconosco il tuo contributo per tenere pulita la cucina.",
+          "I recognize your contribution to keeping the kitchen clean.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     }

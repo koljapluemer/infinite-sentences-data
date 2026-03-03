@@ -1,89 +1,60 @@
 {
-  "sentence": "O bir üstat değil.",
+  "sentence": "Neden biraz elma almıyoruz?",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by SSibelty (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He is not a virtuoso."
+    "Why don't we buy some apples?"
   ],
   "parts": [
     {
-      "content": "O",
+      "content": "Neden",
       "translations": [
-        "Oh.",
-        "O",
-        "Wow",
-        "Hey."
+        "Why",
+        "What for",
+        "For what reason"
       ],
-      "usageExamples": [
-        [
-          "O yoga öğretiyor.",
-          "She teaches yoga.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "O kazağı beğeniyorum.",
-          "I like that sweater.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "O istasyonun adı ne?",
-          "What's the name of that station?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "bir",
+      "content": "biraz",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "a little",
+        "somewhat",
+        "a bit"
       ],
       "usageExamples": [
         [
-          "Ve bu bir plaj.",
-          "And this is a beach.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Boston büyük bir şehirdir.",
-          "Boston is a large city.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom kötü bir golfçü.",
-          "Tom is a bad golfer.",
+          "Biraz yardıma ihtiyacın olabileceğini düşündüm.",
+          "I thought you might need some help.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "değil",
+      "content": "elma",
       "translations": [
-        "not",
-        "isn't",
-        "doesn't",
-        "is not"
+        "apple",
+        "fruit"
       ],
       "usageExamples": [
         [
-          "Tom en iyi değil.",
-          "Tom isn't the best.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Biz oraya gidebilsek muhteşem olurdu, değil mi?",
-          "It would be splendid if we could go there, wouldn't it?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary benim kız arkadaşım değil.",
-          "Mary isn't my girlfriend.",
-          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+          "Biz ona birkaç tane elma verdik.",
+          "We gave her some apples.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "almıyoruz",
+      "translations": [
+        "we are not taking",
+        "we do not accept",
+        "we are not receiving",
+        "we are not getting"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,36 +1,65 @@
 {
-  "sentence": "Yeşil elmaları yedim.",
+  "sentence": "Tom, buna vaktimiz yok!",
   "credits": [
-    "Sentence from Tatoeba by hesaplarinkrali (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich aß die grünen Äpfel."
+    "Tom, wir haben dafür keine Zeit!"
   ],
   "parts": [
     {
-      "content": "Yeşil",
+      "content": "Tom",
       "translations": [
-        "grün",
-        "grüne"
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "Hangi dilleri konuşabiliyorsun, Tom?",
+          "Welche Sprachen sprichst du, Tom?",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "buna",
+      "translations": [
+        "das hier",
+        "dieses"
       ],
       "usageExamples": []
     },
     {
-      "content": "elmaları",
+      "content": "vaktimiz",
       "translations": [
-        "die Äpfel",
-        "Äpfel"
+        "unsere Zeit",
+        "unser Termin"
       ],
       "usageExamples": []
     },
     {
-      "content": "yedim",
+      "content": "yok",
       "translations": [
-        "ich habe gegessen",
-        "ich aß"
+        "nicht",
+        "kein"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'un Avustralyalı aksanı yok.",
+          "Tom hat keinen australischen Akzent.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

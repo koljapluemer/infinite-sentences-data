@@ -1,47 +1,55 @@
 {
-  "sentence": "Delegeler derhal oylarını kullandılar.",
+  "sentence": "Bütün bunları ödeyebilir misin?",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The delegates voted immediately."
+    "Can you pay for all this?"
   ],
   "parts": [
     {
-      "content": "Delegeler",
+      "content": "Bütün",
       "translations": [
-        "delegates",
-        "representatives"
+        "all",
+        "whole",
+        "entire",
+        "every"
       ],
       "usageExamples": []
     },
     {
-      "content": "derhal",
+      "content": "bunları",
       "translations": [
-        "immediately",
-        "right away",
-        "at once",
-        "straight away"
+        "these",
+        "those"
       ],
       "usageExamples": []
     },
     {
-      "content": "oylarını",
+      "content": "ödeyebilir",
       "translations": [
-        "their votes",
-        "votes of them"
+        "can pay",
+        "is able to pay",
+        "can afford"
       ],
       "usageExamples": []
     },
     {
-      "content": "kullandılar",
+      "content": "misin",
       "translations": [
-        "they used",
-        "they utilized",
-        "they employed"
+        "are you?",
+        "is it?",
+        "aren't you?",
+        "isn't it?"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Buna bakmak ister misin?",
+          "Do you want to take a look at it?",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

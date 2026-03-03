@@ -1,44 +1,55 @@
 {
-  "sentence": "Lütfen güncel tutun.",
+  "sentence": "Kendimi çok sıkıyorum.",
   "credits": [
-    "Sentence from Tatoeba by SSibelty (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please keep us updated."
+    "I'm really hard on myself."
   ],
   "parts": [
     {
-      "content": "Lütfen",
+      "content": "Kendimi",
       "translations": [
-        "Please.",
-        "Kindly."
-      ],
-      "usageExamples": [
-        [
-          "Lütfen rahatınıza bakın.",
-          "Please make yourselves comfortable.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "güncel",
-      "translations": [
-        "current",
-        "up-to-date",
-        "latest",
-        "modern"
+        "myself",
+        "I myself",
+        "me"
       ],
       "usageExamples": []
     },
     {
-      "content": "tutun",
+      "content": "çok",
       "translations": [
-        "hold",
-        "grasp",
-        "clutch",
-        "grab"
+        "very",
+        "a lot",
+        "many",
+        "much"
+      ],
+      "usageExamples": [
+        [
+          "Oh Tanrım, emin değilim ama sanırım çok fazla yedim.",
+          "Oh geez, I'm not sure, but I think I ate too much.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu soba çok fazla tütüyor.",
+          "That stove smokes too much.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom çok yavaş araç kullanıyor.",
+          "Tom is driving too slow.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sıkıyorum",
+      "translations": [
+        "I'm squeezing",
+        "I'm pressing",
+        "I'm tightening",
+        "I'm constricting"
       ],
       "usageExamples": []
     }

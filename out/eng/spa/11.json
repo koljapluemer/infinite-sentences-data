@@ -1,66 +1,86 @@
 {
-  "sentence": "Dejemos a Tom.",
+  "sentence": "Ayer tuvimos buen tiempo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's ditch Tom."
+    "We had nice weather yesterday."
   ],
   "parts": [
     {
-      "content": "Dejemos",
+      "content": "Ayer",
       "translations": [
-        "Let's leave.",
-        "Let's go.",
-        "Let us leave."
+        "yesterday",
+        "the day before today"
+      ],
+      "usageExamples": [
+        [
+          "Ayer hizo calor.",
+          "It was hot yesterday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ayer monté a caballo por primera vez.",
+          "I rode a horse for the first time yesterday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tuvimos",
+      "translations": [
+        "we had",
+        "we've had"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "buen",
       "translations": [
-        "to"
+        "good",
+        "nice",
+        "well"
       ],
       "usageExamples": [
+        [
+          "Hiciste un buen trabajo.",
+          "You performed well.",
+          ""
+        ],
+        [
+          "Es un buen día.",
+          "It's a good day.",
+          ""
+        ],
+        [
+          "Tom es un buen gerente.",
+          "Tom is a pretty good manager.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tiempo",
+      "translations": [
+        "time",
+        "weather"
+      ],
+      "usageExamples": [
+        [
+          "No tengo tiempo.",
+          "I'm out of time.",
+          ""
+        ],
         [
           "Llegaste a tiempo.",
           "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Escriba a su congresista.",
-          "Write your congressman.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ten tu pistola a mano.",
-          "Keep your gun handy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Tom",
-        "Thomas"
-      ],
-      "usageExamples": [
-        [
-          "Tom se está lavando la cara.",
-          "Tom is washing his face.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sé que Tom es feliz.",
-          "I know Tom is happy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "El tiempo vuela.",
+          "Time goes by quickly.",
+          ""
         ]
       ]
     }

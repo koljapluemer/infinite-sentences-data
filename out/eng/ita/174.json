@@ -1,48 +1,113 @@
 {
-  "sentence": "Avete annotato il numero di telefono?",
+  "sentence": "A Mary non piaceva il suo sandwich.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by spockofvulcan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you write down the telephone number?"
+    "Mary didn't like her sandwich."
   ],
   "parts": [
     {
-      "content": "Avete",
+      "content": "A",
       "translations": [
-        "You have",
-        "Do you have?",
-        "You all have",
-        "Have you?"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete mai provato?",
-          "Did you ever try?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
-          "Avete visitato la città dove è nato vostro padre?",
-          "Have you visited the town where your father was born?",
+          "A quale proposito?",
+          "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "annotato",
+      "content": "Mary",
       "translations": [
-        "noted",
-        "annotated",
-        "marked",
-        "recorded"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom e Mary stanno decorando la loro stanza.",
+          "Tom and Mary are decorating their room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaceva",
+      "translations": [
+        "liked",
+        "was pleasing",
+        "enjoyed"
+      ],
+      "usageExamples": [
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva ciò che ha visto.",
+          "Mary didn't like what she saw.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "il",
@@ -54,8 +119,8 @@
       ],
       "usageExamples": [
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -64,74 +129,47 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non conosco il sistema.",
-          "I don't know the system.",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "numero",
+      "content": "suo",
       "translations": [
-        "number",
-        "numeral",
-        "digit",
-        "figure"
+        "his",
+        "her",
+        "its",
+        "their"
       ],
       "usageExamples": [
         [
-          "2 è l'unico numero primo pari.",
-          "2 is the only even prime number.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+          "A Mary non piace il latte nel suo caffè.",
+          "Mary doesn't like milk in her coffee.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "49 è un numero quadrato.",
-          "49 is a square number.",
+          "A Mary non piaceva il suo nome.",
+          "Mary didn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo lavoro.",
+          "Mary didn't enjoy her job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "sandwich",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "sandwich",
+        "sub",
+        "hoagie",
+        "club sandwich"
       ],
-      "usageExamples": [
-        [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
-          "\">\" significa maggiore di.",
-          "\">\" means greater than.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Può fare di meglio.",
-          "You can do better.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "telefono",
-      "translations": [
-        "telephone",
-        "phone",
-        "cell phone",
-        "mobile phone"
-      ],
-      "usageExamples": [
-        [
-          "Rispondete al dannato telefono!",
-          "Answer the damn phone!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

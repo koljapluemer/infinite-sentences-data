@@ -1,58 +1,73 @@
 {
-  "sentence": "Nadie lo diría.",
+  "sentence": "Este gato no persigue ratones.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "No one would say it."
+    "This cat doesn't chase mice."
   ],
   "parts": [
     {
-      "content": "Nadie",
+      "content": "Este",
       "translations": [
-        "nobody",
-        "no one",
-        "anyone",
-        "naught"
+        "This",
+        "It is"
       ],
       "usageExamples": [
         [
-          "Nadie piensa eso.",
-          "No one thinks that.",
+          "Este es el color de las frambuesas.",
+          "This is the color of raspberries.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lo",
+      "content": "gato",
       "translations": [
-        "the",
-        "it"
+        "cat",
+        "kitten"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "no",
+      "translations": [
+        "not"
       ],
       "usageExamples": [
-        [
-          "Yo también lo creo.",
-          "I also think so.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
         [
           "Todavía no lo tengo.",
           "I haven't got it yet.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Resultará difícil pero lo intentaré.",
-          "It'll be difficult, but I'll try.",
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella le escribió una carta larga, pero él no la leyó.",
+          "She wrote him a long letter, but he didn't read it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "diría",
+      "content": "persigue",
       "translations": [
-        "I would say",
-        "I would tell"
+        "pursue",
+        "chase",
+        "follow",
+        "seek"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ratones",
+      "translations": [
+        "mice",
+        "rats"
       ],
       "usageExamples": []
     }

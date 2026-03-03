@@ -1,77 +1,123 @@
 {
-  "sentence": "Beviamo un'altra birra.",
+  "sentence": "A Mary piacciono i film.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's drink another beer.",
-    "Let's have another beer."
+    "Mary enjoys movies."
   ],
   "parts": [
     {
-      "content": "Beviamo",
+      "content": "A",
       "translations": [
-        "We drink",
-        "We are drinking"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Era un libro nuovo.",
-          "It was a new book.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vedemmo un lupo.",
-          "We saw a wolf.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È un portiere.",
-          "He's a goal keeper.",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "altra",
+      "content": "Mary",
       "translations": [
-        "other",
-        "another",
-        "further",
-        "additional"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "birra",
-      "translations": [
-        "beer",
-        "brew",
-        "lager",
-        "ale"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Posso avere una birra?",
-          "Can I have a beer?",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La birra è bevuta fredda.",
-          "Beer is drunk cold.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo nome.",
+          "Mary didn't like her name.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "piacciono",
+      "translations": [
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
+      ],
+      "usageExamples": [
+        [
+          "Non mi piacciono le carte di credito. Preferisco i contanti.",
+          "I don't like credit cards. I prefer cash.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, ma non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono le principesse.",
+          "Mary likes princesses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questi sono i suoi figli?",
+          "Are these your children?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Henrietta non piacciono i gatti.",
+          "Henrietta doesn't like cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "film",
+      "translations": [
+        "movie",
+        "film",
+        "motion picture",
+        "feature film"
+      ],
+      "usageExamples": []
     }
   ]
 }

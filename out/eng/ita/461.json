@@ -1,99 +1,83 @@
 {
-  "sentence": "L'insegnante è entrato in ritardo.",
+  "sentence": "Io insegno il berbero.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The teacher came in late."
+    "I teach Berber."
   ],
   "parts": [
     {
-      "content": "L'insegnante",
+      "content": "Io",
       "translations": [
-        "The teacher",
-        "The instructor",
-        "The educator",
-        "The lecturer"
+        "I",
+        "me",
+        "myself"
+      ],
+      "usageExamples": [
+        [
+          "Io consegno pizze.",
+          "I deliver pizzas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sto diventando piccolo!",
+          "I am getting small!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "insegno",
+      "translations": [
+        "I teach.",
+        "I instruct",
+        "I show",
+        "I demonstrate"
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "il",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "entrato",
+      "content": "berbero",
       "translations": [
-        "entered",
-        "came in",
-        "got in",
-        "arrived"
+        "Berber",
+        "Berber language",
+        "Berber people",
+        "Berber culture"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "inside",
-        "within",
-        "into"
-      ],
-      "usageExamples": [
-        [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era in ritardo.",
-          "He was late.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tutti erano in ansia.",
-          "Everyone was apprehensive.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ritardo",
-      "translations": [
-        "delay",
-        "lateness",
-        "hold-up",
-        "setback"
-      ],
-      "usageExamples": [
-        [
-          "Era in ritardo.",
-          "He was late.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

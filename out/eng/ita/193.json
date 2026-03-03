@@ -1,73 +1,137 @@
 {
-  "sentence": "Che altro volete che compri?",
+  "sentence": "A Mary piacciono sia Tom che John.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What else do you want me to buy?"
+    "Mary likes both Tom and John."
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "A",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Che altro stai considerando?",
-          "What else are you considering?",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che altro vorresti?",
-          "What more would you want?",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che musica ascoltate?",
-          "What music do you listen to?",
+          "A Judy piace lui.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "altro",
+      "content": "Mary",
       "translations": [
-        "other",
-        "another",
-        "else",
-        "additional"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Che altro stai considerando?",
-          "What else are you considering?",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che altro vorresti?",
-          "What more would you want?",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Per favore, dammi un altro po' di tè.",
-          "Please give me a little more tea.",
+          "A Mary non piaceva sua madre.",
+          "Mary didn't like her mother.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "volete",
+      "content": "piacciono",
       "translations": [
-        "you want",
-        "you wish",
-        "you desire"
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Henrietta non piacciono i gatti.",
+          "Henrietta doesn't like cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, però non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono i cavalli, vero?",
+          "Mary likes horses, doesn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sia",
+      "translations": [
+        "herself",
+        "hers",
+        "she herself",
+        "her own"
+      ],
+      "usageExamples": [
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Penso che lei sia un idiota.",
+          "I think you're an idiot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "che",
@@ -79,13 +143,13 @@
       ],
       "usageExamples": [
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -96,14 +160,29 @@
       ]
     },
     {
-      "content": "compri",
+      "content": "John",
       "translations": [
-        "buy",
-        "purchase",
-        "acquire",
-        "obtain"
+        "John Doe",
+        "Johnny",
+        "J."
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace scambiare francobolli con i suoi amici.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il professore diede un premio a John.",
+          "The teacher gave John a prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

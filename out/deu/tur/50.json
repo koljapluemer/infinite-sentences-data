@@ -1,60 +1,48 @@
 {
-  "sentence": "Ele verir talkını, kendi yutar salkımı.",
+  "sentence": "Dünden beri Tom'u görmedim.",
   "credits": [
-    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Er predigt Wasser und trinkt selbst Wein."
+    "Ich habe Tom seit gestern nicht gesehen."
   ],
   "parts": [
     {
-      "content": "Ele",
+      "content": "Dünden",
       "translations": [
-        "Er",
-        "Ihm"
+        "von gestern",
+        "gestern"
       ],
       "usageExamples": []
     },
     {
-      "content": "verir",
+      "content": "beri",
       "translations": [
         "geben",
-        "überreichen",
-        "liefern"
+        "hergeben",
+        "übergeben"
+      ],
+      "usageExamples": [
+        [
+          "O zamandan beri onu kimse görmedi.",
+          "Niemand hat ihn mehr gesehen seitdem.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom'u",
+      "translations": [
+        "Tom"
       ],
       "usageExamples": []
     },
     {
-      "content": "talkını",
+      "content": "görmedim",
       "translations": [
-        "Schaf",
-        "Lamm"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "kendi",
-      "translations": [
-        "eigen",
-        "selbst"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yutar",
-      "translations": [
-        "schlucken",
-        "hinnehmen",
-        "ertragen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "salkımı",
-      "translations": [
-        "Traube",
-        "Rebe"
+        "Ich habe nicht gesehen",
+        "Ich habe es nicht gesehen"
       ],
       "usageExamples": []
     }

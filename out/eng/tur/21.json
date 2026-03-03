@@ -1,58 +1,118 @@
 {
-  "sentence": "En son kaça olur?",
+  "sentence": "Doktoru, Tom'a haftanın en az üç gününde alkol içmemesini önerdi.",
   "credits": [
-    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Konanen (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by patgfisher (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Quote me your best price."
+    "The doctor advised Tom to have at least three alcohol-free days per week."
   ],
   "parts": [
     {
-      "content": "En",
+      "content": "Doktoru",
       "translations": [
-        "In",
-        "Inside",
-        "Within"
+        "the doctor",
+        "doctor's"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Tom'a",
+      "translations": [
+        "Tom's",
+        "Tom's place",
+        "Tom's house"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "haftanın",
+      "translations": [
+        "of the week",
+        "weekly"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "yes",
+        "in agreement"
       ],
       "usageExamples": [
         [
-          "En kötüsü için hazırlanıyorum.",
-          "I'm getting ready for the worst.",
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "son",
+      "content": "az",
       "translations": [
-        "last",
-        "final",
-        "end"
-      ],
-      "usageExamples": [
-        [
-          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
-          "His last album garnered him a fourth Grammy award.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "kaça",
-      "translations": [
-        "how much",
-        "how many"
+        "low",
+        "few",
+        "little",
+        "less"
       ],
       "usageExamples": []
     },
     {
-      "content": "olur",
+      "content": "üç",
       "translations": [
-        "it happens",
-        "it will be",
-        "that's fine",
-        "okay"
+        "three",
+        "3"
+      ],
+      "usageExamples": [
+        [
+          "Tom, Mary'ye üç yüz dolar verdi.",
+          "Tom gave Mary three hundred dollars.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bunu yapmak zorunda kalacak üç adamdan biriyim.",
+          "I'm one of the three guys who'll have to do that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Soğuk algınlığımı atlatmam üç haftamı aldı.",
+          "It took three weeks for me to get over my cold.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gününde",
+      "translations": [
+        "on time",
+        "in due time",
+        "on the day",
+        "in a timely manner"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "alkol",
+      "translations": [
+        "alcohol",
+        "liquor",
+        "spirits"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "içmemesini",
+      "translations": [
+        "not to drink",
+        "to refrain from drinking"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "önerdi",
+      "translations": [
+        "recommended",
+        "suggested"
       ],
       "usageExamples": []
     }

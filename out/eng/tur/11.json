@@ -1,52 +1,78 @@
 {
-  "sentence": "Buna bakmak ister misin?",
+  "sentence": "Bu sorunları nasıl düzeltmemiz gerekir?",
   "credits": [
-    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you want to take a look at it?"
+    "How are we supposed to fix these issues?"
   ],
   "parts": [
     {
-      "content": "buna",
+      "content": "Bu",
       "translations": [
-        "this",
-        "to this",
-        "for this"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bakmak",
-      "translations": [
-        "to look",
-        "to watch",
-        "to observe",
-        "to check"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ister",
-      "translations": [
-        "to want",
-        "to wish"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "misin",
-      "translations": [
-        "are you?",
-        "is it?",
-        "aren't you?",
-        "isn't it?"
+        "This",
+        "It"
       ],
       "usageExamples": [
         [
-          "Bütün bunları ödeyebilir misin?",
-          "Can you pay for all this?",
+          "Bu sıkıcı.",
+          "This is boring.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu insanların bize ne yapacağımızı söylemelerine izin veremeyiz.",
+          "We cannot let these people tell us what to do.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu soba çok fazla tütüyor.",
+          "That stove smokes too much.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sorunları",
+      "translations": [
+        "problems",
+        "issues",
+        "troubles",
+        "challenges"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "nasıl",
+      "translations": [
+        "how",
+        "what way",
+        "in what manner"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "düzeltmemiz",
+      "translations": [
+        "we need to correct",
+        "we should fix",
+        "we must amend",
+        "we have to adjust"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gerekir",
+      "translations": [
+        "necessary",
+        "required",
+        "needed",
+        "must"
+      ],
+      "usageExamples": [
+        [
+          "Verimli bir şekilde çalışman gerekir.",
+          "You should study in an efficient manner.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]

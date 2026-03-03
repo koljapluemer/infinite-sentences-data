@@ -1,20 +1,45 @@
 {
-  "sentence": "Suggerirei di inserire una virgola.",
+  "sentence": "Sei pieno di rabbia.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd suggest inserting a comma."
+    "You're full of anger."
   ],
   "parts": [
     {
-      "content": "Suggerirei",
+      "content": "Sei",
       "translations": [
-        "I would suggest",
-        "I would recommend",
-        "I suggest",
-        "I recommend"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
+      ],
+      "usageExamples": [
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei sospesa?",
+          "Are you suspended?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei motivato.",
+          "You're motivated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pieno",
+      "translations": [
+        "full",
+        "filled",
+        "packed",
+        "complete"
       ],
       "usageExamples": []
     },
@@ -28,65 +53,29 @@
       ],
       "usageExamples": [
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "inserire",
+      "content": "rabbia",
       "translations": [
-        "insert",
-        "add",
-        "include",
-        "put in"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
-      ],
-      "usageExamples": [
-        [
-          "Posso avere una birra?",
-          "Can I have a beer?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vorreste una ricevuta?",
-          "Would you like a receipt?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi terremo una festa.",
-          "We'll have a party.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "virgola",
-      "translations": [
-        "comma",
-        "virgule",
-        "punctuation mark",
-        "separator"
+        "anger",
+        "rage",
+        "fury",
+        "wrath"
       ],
       "usageExamples": []
     }

@@ -1,94 +1,83 @@
 {
-  "sentence": "Me siento muy enfermo.",
+  "sentence": "Eso ocurrió hace mucho tiempo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I feel very sick."
+    "It happened a long time ago."
   ],
   "parts": [
     {
-      "content": "Me",
+      "content": "Eso",
       "translations": [
-        "Me",
-        "I"
-      ],
-      "usageExamples": [
-        [
-          "Me importa una mierda.",
-          "I don't give a damn about it.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Me gusta tu acento.",
-          "I like your accent.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Me gustaría tomar algo.",
-          "I'd like something to drink.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "siento",
-      "translations": [
-        "I feel",
-        "I sense",
-        "I perceive"
-      ],
-      "usageExamples": [
-        [
-          "Siento que es correcto.",
-          "I sense that it's right.",
-          ""
-        ],
-        [
-          "Me siento muy feliz.",
-          "I'm feeling quite joyful.",
-          ""
-        ],
-        [
-          "Aquí me siento muy solo.",
-          "I feel very lonely here.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "muy",
-      "translations": [
-        "very",
-        "really",
-        "quite"
-      ],
-      "usageExamples": [
-        [
-          "Fue muy decepcionante.",
-          "It was very upsetting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi padre maneja muy bien.",
-          "My father drives very well.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ella está trabajando muy duro.",
-          "She is very hardworking.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "enfermo",
-      "translations": [
-        "sick",
-        "ill"
+        "That",
+        "It"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "ocurrió",
+      "translations": [
+        "happened",
+        "occurred"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hace",
+      "translations": [
+        "it makes",
+        "it does",
+        "ago",
+        "there is"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mucho",
+      "translations": [
+        "a lot",
+        "much",
+        "many",
+        "very"
+      ],
+      "usageExamples": [
+        [
+          "Dijo que tenía mucho dinero.",
+          "He said that he had a lot of money.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No caí en la cuenta hasta mucho después.",
+          "I didn't realize it until much later.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tiempo",
+      "translations": [
+        "time",
+        "weather"
+      ],
+      "usageExamples": [
+        [
+          "El tiempo vuela.",
+          "Time flies.",
+          ""
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No tengo tiempo.",
+          "I don't have time.",
+          ""
+        ]
+      ]
     }
   ]
 }

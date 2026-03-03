@@ -1,88 +1,161 @@
 {
-  "sentence": "Io odio i pesci rossi.",
+  "sentence": "Il dottore gli ha dato un sedativo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I hate goldfish."
+    "The doctor gave him a sedative."
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "Il",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "The",
+        "It"
       ],
       "usageExamples": [
         [
-          "Io parlo bosniaco.",
-          "I speak Bosnian.",
+          "Il libro è arrivato.",
+          "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io l'ho sentito.",
-          "I heard it.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sto diventando piccolo!",
-          "I am getting small!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "odio",
-      "translations": [
-        "hatred",
-        "hate",
-        "aversion",
-        "loathing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
-      ],
-      "usageExamples": [
-        [
-          "Conosce i cavalli.",
-          "He knows horses.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
+          "Il gatto mangia.",
+          "The cat eats.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ],
         [
-          "Leggo un giornale tutti i giorni per tenermi aggiornata.",
-          "I read a newspaper every day so that I may keep up with the time.",
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pesci",
+      "content": "dottore",
       "translations": [
-        "fish",
-        "fishes",
-        "seafood"
+        "doctor",
+        "physician",
+        "medical doctor",
+        "healthcare professional"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Jim piace il dottore.",
+          "Jim likes the doctor.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "rossi",
+      "content": "gli",
       "translations": [
-        "red",
-        "reddish"
+        "the",
+        "them",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non gli feci mai del male.",
+          "I never harmed him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "'Aspetta qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da te immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha già finito?",
+          "Have you already finished?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dato",
+      "translations": [
+        "given",
+        "data",
+        "fact",
+        "information"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha dato dell'idiota all'arbitro.",
+          "Tom called the referee an idiot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Madre Teresa fu dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Madre Teresa è stato dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Chiamate un'ambulanza!",
+          "Call an ambulance!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui sembra un delinquente.",
+          "He looks like a gangster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sedativo",
+      "translations": [
+        "sedative",
+        "tranquilizer",
+        "calming agent",
+        "sleep aid"
       ],
       "usageExamples": []
     }

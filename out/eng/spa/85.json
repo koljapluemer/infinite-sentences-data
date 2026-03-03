@@ -1,46 +1,89 @@
 {
-  "sentence": "¿Está buena la limonada?",
+  "sentence": "No hay nadie en la entrada.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ajje (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Is the lemonade good?"
+    "There's no one at the entrance."
   ],
   "parts": [
     {
-      "content": "está",
+      "content": "No",
       "translations": [
-        "is",
-        "are"
+        "No.",
+        "Not",
+        "Nope."
       ],
       "usageExamples": [
         [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "No tengo tiempo.",
+          "I'm out of time.",
+          ""
         ],
         [
-          "La pizza sabe diferente cuando está fría.",
-          "Pizza tastes different when it's cold.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "No quiero ir.",
+          "I don't want to leave.",
+          ""
         ],
         [
-          "El ruido me está volviendo loco.",
-          "The noise is driving me crazy.",
+          "No sé para qué me he levantado tan temprano.",
+          "I don't know why I got up so early.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "buena",
+      "content": "hay",
       "translations": [
-        "good",
-        "nice",
-        "fine",
-        "well"
+        "there is",
+        "there are",
+        "there exists"
+      ],
+      "usageExamples": [
+        [
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No hay nada más qué decir.",
+          "There's nothing more to be said.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nadie",
+      "translations": [
+        "nobody",
+        "no one",
+        "anyone (in negative contexts)"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Confío en él.",
+          "I trust him.",
+          ""
+        ],
+        [
+          "Estoy en casa.",
+          "I am home.",
+          ""
+        ],
+        [
+          "Déme usted la equivalencia en dólares.",
+          "Give me the equivalent in dollars.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "la",
@@ -49,27 +92,29 @@
       ],
       "usageExamples": [
         [
-          "Esa es la realidad.",
-          "That's the reality.",
+          "La casa es grande.",
+          "The house is big.",
+          ""
+        ],
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
           "La comida está lista.",
           "The meal is prepared.",
           ""
-        ],
-        [
-          "La casa es grande.",
-          "The house is large.",
-          ""
         ]
       ]
     },
     {
-      "content": "limonada",
+      "content": "entrada",
       "translations": [
-        "lemonade",
-        "lemon drink"
+        "entry",
+        "entrance",
+        "input",
+        "admission"
       ],
       "usageExamples": []
     }

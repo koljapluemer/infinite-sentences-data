@@ -1,77 +1,65 @@
 {
-  "sentence": "Pretendo decirle a Tom que no quiero ir.",
+  "sentence": "Le pedí al mayordomo que nos sirviese un café.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sangelo (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I plan to tell Tom that I don't want to go."
+    "I asked the butler to serve us some coffee."
   ],
   "parts": [
     {
-      "content": "Pretendo",
+      "content": "Le",
       "translations": [
-        "I intend",
-        "I plan",
-        "I aim",
-        "I expect"
+        "The",
+        "Him",
+        "Her",
+        "It"
       ],
       "usageExamples": []
     },
     {
-      "content": "decirle",
+      "content": "pedí",
       "translations": [
-        "to tell him/her",
-        "to say to him/her"
+        "I asked",
+        "I requested"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "al",
       "translations": [
-        "to"
+        "to the",
+        "at the",
+        "in the"
       ],
       "usageExamples": [
         [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
+          "Debes llegar al trabajo a tiempo.",
+          "You ought to get to work on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Escriba a su congresista.",
-          "Write your congressman.",
+          "Lo llamé al llegar a Tokio.",
+          "On arriving in Tokyo, I called him up.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Llegaste a tiempo.",
-          "You arrived on time.",
+          "Tom estaba al otro lado de la ciudad al momento del disparo.",
+          "Tom was on the other side of town at the time of the shooting.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "mayordomo",
       "translations": [
-        "Tom",
-        "Thomas"
+        "butler",
+        "steward",
+        "house manager",
+        "foreman"
       ],
-      "usageExamples": [
-        [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quiero oír lo que dice Tom.",
-          "I want to hear what Tom says.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se está lavando la cara.",
-          "Tom is washing his face.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "que",
@@ -81,69 +69,69 @@
       ],
       "usageExamples": [
         [
-          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
-          "This is the way the world ends. Not with a bang but a whimper.",
+          "Tienes que haberlos perdido.",
+          "You must've lost them.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
+          "Ella solo finge que no le importa nada.",
+          "She only pretends to not care about anything.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Le pedí al mayordomo que nos sirviese un café.",
-          "I asked the butler to serve us some coffee.",
+          "No puedo creer que Tom me haría eso.",
+          "I can't believe Tom would do that to me.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "no",
+      "content": "nos",
       "translations": [
-        "not"
+        "us",
+        "we"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sirviese",
+      "translations": [
+        "served",
+        "was serving",
+        "would serve"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "a",
+        "one",
+        "an"
       ],
       "usageExamples": [
         [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
+          "Necesito un libro.",
+          "I need to get a book.",
+          ""
+        ],
+        [
+          "¡Yo vi un ratón!",
+          "I saw a mouse!",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Este gato no persigue ratones.",
-          "This cat doesn't chase mice.",
+          "Francois dio un discurso.",
+          "François gave a speech.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quiero",
+      "content": "café",
       "translations": [
-        "I want",
-        "I would like"
-      ],
-      "usageExamples": [
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ir",
-      "translations": [
-        "to go",
-        "to be going"
+        "coffee",
+        "café"
       ],
       "usageExamples": []
     }

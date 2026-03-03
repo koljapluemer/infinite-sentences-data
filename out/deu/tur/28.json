@@ -1,54 +1,101 @@
 {
-  "sentence": "Biraz yorgun olduğunu söyledi.",
+  "sentence": "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Er sagte, er sei ein bisschen müde."
+    "Ich muss für eine Spanienreise Spanisch lernen."
   ],
   "parts": [
     {
-      "content": "Biraz",
+      "content": "Bir",
       "translations": [
-        "ein bisschen",
-        "ein wenig"
+        "Ein",
+        "Eine"
+      ],
+      "usageExamples": [
+        [
+          "Bir alternatifin var.",
+          "Du hast eine Alternative.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bir zamanlar kafam çok karışıktı.",
+          "Ich war einmal so verwirrt.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bir dil yeterince iyi öğrenilemez.",
+          "Man kann keine Sprache genug beherrschen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "İspanya",
+      "translations": [
+        "Spanien",
+        "Spanische"
       ],
       "usageExamples": []
     },
     {
-      "content": "olduğunu",
+      "content": "gezisi",
       "translations": [
-        "es ist",
-        "war",
-        "ist geworden"
+        "Reise",
+        "Ausflug"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "için",
+      "translations": [
+        "für",
+        "um zu"
       ],
       "usageExamples": [
         [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Belki sizin için hâlâ umut vardır.",
+          "Vielleicht gibt es ja noch Hoffnung für Sie.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
-          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
-          "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)"
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ],
+        [
+          "O, benim bir arkadaşım için.",
+          "Es ist für einen Freund von mir.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "söyledi",
+      "content": "İspanyolca",
       "translations": [
-        "sagte",
-        "hat gesagt"
+        "Spanisch",
+        "Spanische Sprache"
       ],
-      "usageExamples": [
-        [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "öğrenmem",
+      "translations": [
+        "lernen",
+        "erlernen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gerek",
+      "translations": [
+        "notwendig",
+        "erforderlich",
+        "gebraucht"
+      ],
+      "usageExamples": []
     }
   ]
 }

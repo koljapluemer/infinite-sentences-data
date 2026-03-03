@@ -1,26 +1,73 @@
 {
-  "sentence": "Robert ayudó a Sandra a bajar del árbol.",
+  "sentence": "Los periodistas le acribillaron a preguntas en la rueda de prensa.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by LimeGreenTeknii (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Robert helped Sandra down the tree."
+    "Journalists bombarded him with questions at the press conference."
   ],
   "parts": [
     {
-      "content": "Robert",
+      "content": "Los",
       "translations": [
-        "Robert",
-        "Roberto"
+        "The",
+        "Those"
+      ],
+      "usageExamples": [
+        [
+          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
+          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Los trenes son poco prácticos e incómodos; además nunca son puntuales.",
+          "The trains are inconvenient and uncomfortable; in addition, they never run on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "periodistas",
+      "translations": [
+        "journalists",
+        "reporters"
       ],
       "usageExamples": []
     },
     {
-      "content": "ayudó",
+      "content": "le",
       "translations": [
-        "helped",
-        "assisted"
+        "the",
+        "him",
+        "her",
+        "it"
+      ],
+      "usageExamples": [
+        [
+          "Ella le escribió una carta larga, pero él no la leyó.",
+          "She wrote him a long letter, but he didn't read it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ann le encanta el chocolate.",
+          "Ann loves chocolate.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Agradecería que me respondiera tan pronto como le sea posible.",
+          "I would appreciate a reply as soon as possible.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "acribillaron",
+      "translations": [
+        "shot at",
+        "gunned down",
+        "sprayed with bullets",
+        "riddled with bullets"
       ],
       "usageExamples": []
     },
@@ -36,53 +83,112 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "Escriba a su congresista.",
           "Write your congressman.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Sandra",
+      "content": "preguntas",
       "translations": [
-        "Sandra",
-        "Sandy"
+        "questions",
+        "inquiries"
       ],
       "usageExamples": []
     },
     {
-      "content": "bajar",
+      "content": "en",
       "translations": [
-        "to lower",
-        "to go down",
-        "to descend",
-        "to reduce"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "del",
-      "translations": [
-        "of",
-        "from"
+        "to"
       ],
       "usageExamples": [
         [
-          "Ellos ahora están a bordo del barco.",
-          "They are now aboard the ship.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Estoy en casa.",
+          "I am at home.",
+          ""
         ],
         [
-          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
-          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
+          "Confío en él.",
+          "I have faith in him.",
+          ""
+        ],
+        [
+          "No caí en la cuenta hasta mucho después.",
+          "I didn't realize it until much later.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "La comida está lista.",
+          "The food is ready.",
+          ""
+        ],
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "rueda",
+      "translations": [
+        "wheel",
+        "circle",
+        "ring"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Vengo de la playa.",
+          "I just came from the beach.",
+          ""
+        ],
+        [
+          "¿Dónde está la parada de colectivos más cercana?",
+          "Where's the nearest bus stop?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Iremos cuando pare de llover.",
+          "We'll go when it quits raining.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "prensa",
+      "translations": [
+        "press",
+        "printing press",
+        "media",
+        "newspaper"
+      ],
+      "usageExamples": []
     }
   ]
 }

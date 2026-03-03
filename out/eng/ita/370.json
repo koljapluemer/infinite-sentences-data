@@ -1,33 +1,70 @@
 {
-  "sentence": "Il mio labbro è scoppiato.",
+  "sentence": "Ha ricevuto il mio regalo?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My lip split."
+    "Did you get my gift?"
   ],
   "parts": [
     {
-      "content": "Il",
+      "content": "Ha",
       "translations": [
-        "The",
-        "It"
+        "He has",
+        "There is",
+        "It has"
       ],
       "usageExamples": [
         [
-          "Il cane scodinzolava.",
-          "The dog wagged its tail.",
+          "Ha perso qualcosa?",
+          "Did you lose something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Ha perso la partita.",
+          "She lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Ha commesso un crimine dopo l'altro.",
+          "He committed one crime after another.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ricevuto",
+      "translations": [
+        "received",
+        "got",
+        "obtained",
+        "acquired"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -43,64 +80,46 @@
       "usageExamples": [
         [
           "È mio nemico.",
-          "He is my enemy.",
+          "He's my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui abita al piano sopra al mio.",
-          "He lives on the floor above mine.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Vorrei che capissero il mio bisogno di pace.",
+          "I wish they would understand my need for peace.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ],
         [
-          "Perché questo è il mio lavoro?",
-          "Why is this my job?",
+          "Il mio labbro è scoppiato.",
+          "My lip split.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "labbro",
+      "content": "regalo",
       "translations": [
-        "lip",
-        "lips"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "gift",
+        "present",
+        "offering",
+        "donation"
       ],
       "usageExamples": [
         [
-          "La matematica è divertente.",
-          "Math is fun.",
-          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Ti compro un regalo.",
+          "I buy you a present.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Sono sicura che Tom amerà il tuo regalo.",
+          "I'm sure Tom will love your present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per ringraziarti, ecco un regalo.",
+          "To thank you, here is a gift.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "scoppiato",
-      "translations": [
-        "exploded",
-        "burst",
-        "broken",
-        "shattered"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
-  "sentence": "Sadece bir battaniyem var.",
+  "sentence": "Onun bir doktor olup olmadığını bilmiyorum.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I only have one blanket."
+    "I don't know if he is a doctor."
   ],
   "parts": [
     {
-      "content": "Sadece",
+      "content": "Onun",
       "translations": [
-        "only",
-        "just"
+        "his",
+        "her",
+        "its"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
+          "His last album garnered him a fourth Grammy award.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "bir",
@@ -25,13 +32,13 @@
       ],
       "usageExamples": [
         [
-          "Boston büyük bir şehirdir.",
-          "Boston is a large city.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
           "İyi bir iş istiyorum.",
           "I want a good job.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ve bu bir plaj.",
+          "And this is a beach.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
@@ -42,32 +49,40 @@
       ]
     },
     {
-      "content": "battaniyem",
+      "content": "doktor",
       "translations": [
-        "my blanket",
-        "my comforter"
+        "doctor",
+        "physician"
       ],
       "usageExamples": []
     },
     {
-      "content": "var",
+      "content": "olup",
       "translations": [
-        "there is",
-        "exists",
-        "is available"
+        "becoming",
+        "happening",
+        "occurring",
+        "taking place"
       ],
-      "usageExamples": [
-        [
-          "Küçük çocuğun bir hayali var.",
-          "The little boy has a dream.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Altmışlık sayı sistemi Babil devletinde uygulandı, bunun sonucunda bir saatte 60 dakika ve günde 24 saat var.",
-          "A sexagesimal system was used in Babylonia. Therefore an hour has sixty minutes and a day has twenty-four hours.",
-          "Sentence from Tatoeba by Ivanovb (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "olmadığını",
+      "translations": [
+        "that it is not",
+        "that it doesn't exist",
+        "that it isn't",
+        "that there is not"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bilmiyorum",
+      "translations": [
+        "I don't know.",
+        "I'm not sure."
+      ],
+      "usageExamples": []
     }
   ]
 }

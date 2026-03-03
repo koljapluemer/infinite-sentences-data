@@ -1,82 +1,110 @@
 {
-  "sentence": "Peki, ona ne denir?",
+  "sentence": "Onu görmem için bana izin verilmedi.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Well, what's it called?"
+    "I wasn't permitted to see him."
   ],
   "parts": [
     {
-      "content": "Peki",
+      "content": "Onu",
       "translations": [
-        "Okay.",
-        "Alright.",
-        "Well",
-        "Fine"
+        "him",
+        "it"
       ],
       "usageExamples": []
     },
     {
-      "content": "ona",
+      "content": "görmem",
       "translations": [
-        "her",
-        "to her",
-        "that one",
-        "it"
+        "I don't see",
+        "I won't see",
+        "not seeing",
+        "to not see"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "için",
+      "translations": [
+        "for",
+        "in order to",
+        "to",
+        "because of"
       ],
       "usageExamples": [
         [
-          "Biz ona birkaç tane elma verdik.",
-          "We gave her some apples.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "O ona bir kutu verdi.",
-          "He gave her a box.",
+          "En kötüsü için hazırlanıyorum.",
+          "I'm getting ready for the worst.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom'un ona verdiğin hediyeyi seveceğini düşündüm.",
-          "I thought Tom would love the gift you gave him.",
+          "O benim için gerçekten eğlenceliydi.",
+          "That was really fun for me.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un tablolarından kaç tanesini onun için sattın?",
+          "How many of Tom's paintings have you sold for him?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ne",
+      "content": "bana",
       "translations": [
-        "what",
-        "huh",
-        "right",
-        "no way"
+        "to me",
+        "for me",
+        "give me"
       ],
       "usageExamples": [
         [
-          "O istasyonun adı ne?",
-          "What's the name of that station?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Tom bana aslında onu yapmak istemediğini söyledi.",
+          "Tom told me he didn't actually want to do that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Şu an ne yiyorsun?",
-          "What are you eating right now?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Bunun için bana ne vereceksin?",
+          "What'll you give me for this?",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "izin",
+      "translations": [
+        "permission",
+        "leave",
+        "authorization",
+        "license"
+      ],
+      "usageExamples": [
+        [
+          "Onların işlerini yapmasına izin ver.",
+          "Let them do their jobs.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
           "Bu insanların bize ne yapacağımızı söylemelerine izin veremeyiz.",
           "We cannot let these people tell us what to do.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Polisin sorunla ilgilenmesine izin vermeliydik.",
+          "We should've let the police handle the problem.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "denir",
+      "content": "verilmedi",
       "translations": [
-        "it is said",
-        "they say",
-        "one says",
-        "it is told"
+        "not given",
+        "not provided",
+        "not granted",
+        "not delivered"
       ],
       "usageExamples": []
     }

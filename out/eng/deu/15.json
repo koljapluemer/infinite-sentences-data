@@ -1,68 +1,112 @@
 {
-  "sentence": "Ich bin Ihnen nie persönlich begegnet.",
+  "sentence": "Es warten sehr viele Leute in der Schlange.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've never met you in person."
+    "A lot of people are waiting in line."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Es",
       "translations": [
-        "I"
+        "It is",
+        "There is",
+        "He/She is"
       ],
       "usageExamples": [
         [
-          "Ich habe das Handtuch vergessen.",
-          "I forgot my towel.",
+          "Es hieß, Tom würde vielleicht irgendwann diese Woche abreisen.",
+          "I hear Tom might leave sometime this week.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bin",
+      "content": "warten",
       "translations": [
-        "I am.",
-        "I exist.",
-        "I am here."
+        "to wait",
+        "to await"
       ],
       "usageExamples": []
     },
     {
-      "content": "Ihnen",
+      "content": "sehr",
       "translations": [
-        "you (formal)",
-        "to you (formal)",
-        "your (formal)"
+        "very",
+        "extremely",
+        "highly",
+        "really"
       ],
       "usageExamples": []
     },
     {
-      "content": "nie",
+      "content": "viele",
       "translations": [
-        "never",
-        "not ever"
+        "many",
+        "a lot of",
+        "numerous",
+        "several"
       ],
       "usageExamples": []
     },
     {
-      "content": "persönlich",
+      "content": "Leute",
       "translations": [
-        "personal",
-        "in person",
-        "personally"
+        "people",
+        "folks",
+        "persons",
+        "individuals"
       ],
       "usageExamples": []
     },
     {
-      "content": "begegnet",
+      "content": "in",
       "translations": [
-        "encountered",
-        "met",
-        "came across",
-        "faced"
+        "in"
+      ],
+      "usageExamples": [
+        [
+          "Der Fahrschein, den du gekauft hast, ist in den Hauptverkehrszeiten nicht gültig.",
+          "The ticket you've bought can't be used during rush hour.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bist du in Boston aufgewachsen?",
+          "Did you grow up in Boston?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Schreibt es in eurer Sprache!",
+          "Write it in your language!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "der",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Diese Arbeit mache ich ohne Bezahlung, einfach aus Lust an der Freude.",
+          "I do this work for free, simply for the pleasure of doing it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Er ist der Intelligenteste der drei Brüder.",
+          "He's the most intelligent of the three brothers.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Schlange",
+      "translations": [
+        "snake",
+        "line"
       ],
       "usageExamples": []
     }

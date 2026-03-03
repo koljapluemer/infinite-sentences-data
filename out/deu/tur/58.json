@@ -1,58 +1,68 @@
 {
-  "sentence": "Hepsi ne ediyor?",
+  "sentence": "Gemiler rüzgar ve yağmurdan etkilenirler.",
   "credits": [
-    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Was macht das alles zusammen?"
+    "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen."
   ],
   "parts": [
     {
-      "content": "Hepsi",
+      "content": "Gemiler",
       "translations": [
-        "alle",
-        "alles"
+        "Schiffe",
+        "Boote"
       ],
       "usageExamples": []
     },
     {
-      "content": "ne",
+      "content": "rüzgar",
       "translations": [
-        "nicht",
-        "kein"
+        "Wind",
+        "Luftzug"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ve",
+      "translations": [
+        "und",
+        "oder"
       ],
       "usageExamples": [
         [
-          "Onun ne dediğini anlayamadım.",
-          "Ich habe nicht verstanden, was er gesagt hat.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
-          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
         ],
         [
-          "Öğle yemeği için ne istersin?",
-          "Was möchtest du zu essen?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
+          "Nimm eine kalte Dusche und trinke dann einen heißen Tee!",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ediyor",
+      "content": "yağmurdan",
       "translations": [
-        "macht",
-        "tut"
+        "aus dem Regen",
+        "vor dem Regen"
       ],
-      "usageExamples": [
-        [
-          "O başka bir adamla dans ediyor.",
-          "Sie tanzt mit einem anderen Mann.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "etkilenirler",
+      "translations": [
+        "sie werden beeinflusst",
+        "sie sind betroffen"
+      ],
+      "usageExamples": []
     }
   ]
 }

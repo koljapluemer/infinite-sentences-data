@@ -1,78 +1,84 @@
 {
-  "sentence": "Era occupato ieri?",
+  "sentence": "Chiese se era invitata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Were you busy yesterday?"
+    "She asked if she was invited."
   ],
   "parts": [
     {
-      "content": "Era",
+      "content": "Chiese",
       "translations": [
-        "Period",
-        "Age",
-        "Epoch"
+        "Churches",
+        "Places of worship",
+        "Chapels",
+        "Religious buildings"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "se",
+      "translations": [
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
       "usageExamples": [
         [
-          "Era eccellente.",
-          "That was excellent.",
+          "Non vogliamo che se ne vada.",
+          "We don't want her to leave.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era un libro nuovo.",
-          "It was a new book.",
+          "A Mary importava soltanto di se stessa.",
+          "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era eroico.",
-          "He was heroic.",
+          "A Mary importa solamente di se stessa.",
+          "Mary only cares about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "occupato",
+      "content": "era",
       "translations": [
-        "busy",
-        "occupied",
-        "engaged",
-        "taken"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
       "usageExamples": [
         [
-          "Perché Tom è sempre così occupato?",
-          "Why is Tom always so busy?",
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il camion di Tom era leggermente danneggiato.",
+          "Tom's truck was slightly damaged.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ieri",
+      "content": "invitata",
       "translations": [
-        "yesterday",
-        "the day before today",
-        "the previous day"
+        "invited",
+        "invitation",
+        "guest",
+        "invited person"
       ],
-      "usageExamples": [
-        [
-          "Sono andato all'ospedale ieri.",
-          "I went to the hospital yesterday.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ci sono andata l'altro ieri.",
-          "I went there the day before yesterday.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Siamo arrivati ieri in treno.",
-          "We arrived yesterday afternoon by train.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

@@ -1,123 +1,164 @@
 {
-  "sentence": "Mary è molto paziente, vero?",
+  "sentence": "Lei se ne vuole andare domani?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by jm (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is being very patient, isn't she?",
-    "Mary is very patient, isn't she?"
+    "Do you want to leave tomorrow?"
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Lei",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "You (formal)",
+        "She",
+        "Mrs.",
+        "Ma'am"
       ],
       "usageExamples": [
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "Lei ha già finito?",
+          "Are you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary non piace ripetersi.",
-          "Mary doesn't like to repeat herself.",
+          "Lei ha già cominciato.",
+          "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "se",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
       "usageExamples": [
         [
-          "Mangia finché è caldo.",
-          "Eat while it's warm.",
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è divertito.",
-          "Tom had some fun.",
+          "A Mary importa solamente di se stessa.",
+          "Mary only cares about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "molto",
-      "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
-      ],
-      "usageExamples": [
-        [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Si contraddicono molto.",
-          "They contradict themselves a lot.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Amo molto mia madre.",
-          "I love my mother very much.",
+          "Tom mi chiese se avevo fame.",
+          "Tom asked me whether I was hungry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "paziente",
+      "content": "ne",
       "translations": [
-        "patient",
-        "sick person",
-        "individual receiving care",
-        "healthcare recipient"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "vero",
-      "translations": [
-        "true",
-        "indeed",
-        "in fact",
-        "certainly"
+        "not",
+        "no",
+        "neither",
+        "nor"
       ],
       "usageExamples": [
         [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
+          "Quanti ne hai?",
+          "How many do you have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta lavorando, vero?",
-          "Tom is working, isn't he?",
+          "Io ne ho pagata una.",
+          "I paid one.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vi manca molto, vero?",
-          "You miss him a lot, don't you?",
+          "Perché te ne stai andando?",
+          "Why are you leaving?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vuole",
+      "translations": [
+        "wants",
+        "desires",
+        "wishes",
+        "intends"
+      ],
+      "usageExamples": [
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vuole fermarla.",
+          "He doesn't want to stop her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary vuole che i suoi genitori le comprino un pony.",
+          "Mary wants her parents to buy her a pony.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "andare",
+      "translations": [
+        "to go",
+        "to walk",
+        "to move",
+        "to travel"
+      ],
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "domani",
+      "translations": [
+        "tomorrow",
+        "next day",
+        "the following day"
+      ],
+      "usageExamples": [
+        [
+          "A Dio piacendo, lo farò domani.",
+          "God willing, I will do it tomorrow.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Andrò in biblioteca con te domani.",
+          "I'll go to the library with you tomorrow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
+          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

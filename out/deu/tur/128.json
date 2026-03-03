@@ -1,59 +1,64 @@
 {
-  "sentence": "Öğrencinin arabası eskidir.",
+  "sentence": "Yani yalan söylediğimi iddia ediyorsunuz.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Das Auto der Studentin ist alt."
+    "Sie behaupten also, dass ich lüge."
   ],
   "parts": [
     {
-      "content": "Öğrenci",
+      "content": "yani",
       "translations": [
-        "Schüler",
-        "Student"
+        "das heißt",
+        "also",
+        "nämlich"
       ],
       "usageExamples": []
     },
     {
-      "content": "nin",
+      "content": "yalan",
       "translations": [
-        "dein",
-        "deine"
+        "Lüge",
+        "Falschheit"
+      ],
+      "usageExamples": [
+        [
+          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
+          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
+          "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "söylediğimi",
+      "translations": [
+        "was gesagt habe",
+        "was ich gesagt habe"
       ],
       "usageExamples": []
     },
     {
-      "content": "araba",
+      "content": "iddia",
       "translations": [
-        "Auto",
-        "Wagen"
+        "Wette",
+        "Einsatz"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bunun doğru olmadığını iddia ediyorum.",
+          "Ich behaupte, dass das nicht stimmt.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "sı",
+      "content": "ediyorsunuz",
       "translations": [
-        "ich",
-        "mir"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "eski",
-      "translations": [
-        "alt",
-        "ehemalig",
-        "altmodisch"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dir",
-      "translations": [
-        "dir",
-        "zu dir"
+        "Sie tun",
+        "Sie machen",
+        "Sie betreiben"
       ],
       "usageExamples": []
     }

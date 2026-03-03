@@ -1,25 +1,44 @@
 {
-  "sentence": "¿Cómo entraste en mi habitación?",
+  "sentence": "No caí en la cuenta hasta mucho después.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How did you get into my room?"
+    "I didn't realize it until much later."
   ],
   "parts": [
     {
-      "content": "¿Cómo",
+      "content": "No",
       "translations": [
-        "How"
+        "No.",
+        "Not",
+        "Nope."
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "No tengo tiempo.",
+          "I'm out of time.",
+          ""
+        ],
+        [
+          "No quiero ir.",
+          "I don't want to go.",
+          ""
+        ],
+        [
+          "No hay nadie en la entrada.",
+          "There's no one at the entrance.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "entraste",
+      "content": "caí",
       "translations": [
-        "you entered",
-        "you came in"
+        "I fell.",
+        "fell",
+        "I dropped"
       ],
       "usageExamples": []
     },
@@ -31,7 +50,7 @@
       "usageExamples": [
         [
           "Estoy en casa.",
-          "I am in the house.",
+          "I am at home.",
           ""
         ],
         [
@@ -40,42 +59,77 @@
           ""
         ],
         [
-          "Con tal de mantenerse en el poder, hacen cualquier cosa.",
-          "They'll do anything to stay in power.",
+          "No hay nadie en la entrada.",
+          "There's no one at the entrance.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mi",
+      "content": "la",
       "translations": [
-        "me",
-        "my"
+        "the"
       ],
       "usageExamples": [
         [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
-          "It's marvelous how quickly the medicine relieved my pain.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "La comida está lista.",
+          "The meal is prepared.",
+          ""
         ],
         [
-          "Tengo una revista en mi pieza.",
-          "I have a magazine in my room.",
+          "Esa es la realidad.",
+          "That's the reality.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "habitación",
+      "content": "cuenta",
       "translations": [
-        "room",
-        "bedroom",
-        "accommodation"
+        "bill",
+        "account",
+        "count"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hasta",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mucho",
+      "translations": [
+        "a lot",
+        "much",
+        "many",
+        "very"
+      ],
+      "usageExamples": [
+        [
+          "Eso ocurrió hace mucho tiempo.",
+          "It happened a long time ago.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dijo que tenía mucho dinero.",
+          "He said that he had a lot of money.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "después",
+      "translations": [
+        "after",
+        "later"
       ],
       "usageExamples": []
     }

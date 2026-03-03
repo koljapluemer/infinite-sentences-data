@@ -1,65 +1,106 @@
 {
-  "sentence": "Onu hemen yapman gerekmiyor.",
+  "sentence": "Oh Tanrım, emin değilim ama sanırım çok fazla yedim.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by weihaiping (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by gleki (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You don't have to do it right away."
+    "Oh geez, I'm not sure, but I think I ate too much."
   ],
   "parts": [
     {
-      "content": "onu",
+      "content": "Oh",
       "translations": [
-        "that",
-        "it",
-        "him/her"
+        "Oh.",
+        "Wow",
+        "Ah",
+        "Ouch"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Tanrım",
+      "translations": [
+        "My God",
+        "Oh my God",
+        "God",
+        "Dear God"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "emin",
+      "translations": [
+        "my dear",
+        "my precious",
+        "my beloved"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "değilim",
+      "translations": [
+        "I am not",
+        "I'm not"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ama",
+      "translations": [
+        "but",
+        "however",
+        "yet"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "çok",
+      "translations": [
+        "very",
+        "a lot",
+        "many",
+        "much"
       ],
       "usageExamples": [
         [
-          "Gerçekten onu ummuyordum.",
-          "I didn't actually anticipate that.",
+          "Kendimi çok sıkıyorum.",
+          "I'm really hard on myself.",
+          "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu soba çok fazla tütüyor.",
+          "That stove smokes too much.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Onu yazmamalıydık.",
-          "We shouldn't have written that.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom bana aslında onu yapmak istemediğini söyledi.",
-          "Tom told me he didn't actually want to do that.",
+          "Tom, bunu yapmada Mary'den çok daha iyidir.",
+          "Tom is a lot better at doing that than Mary.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hemen",
+      "content": "fazla",
       "translations": [
-        "right away",
-        "immediately",
-        "at once",
-        "straight away"
+        "too much",
+        "excessive",
+        "a lot",
+        "more than enough"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bu soba çok fazla tütüyor.",
+          "That stove smokes too much.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "yapman",
+      "content": "yedim",
       "translations": [
-        "doing",
-        "you are doing",
-        "making",
-        "you make"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gerekmiyor",
-      "translations": [
-        "not necessary",
-        "no need",
-        "doesn't need to be done",
-        "not required"
+        "I ate.",
+        "I have eaten."
       ],
       "usageExamples": []
     }

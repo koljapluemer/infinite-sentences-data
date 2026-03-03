@@ -1,59 +1,56 @@
 {
-  "sentence": "Ciddi bir konuşmaya başladık.",
+  "sentence": "Bütün oy pusulalarını saymak zorundayız.",
   "credits": [
-    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wir begannen eine ernsthafte Unterhaltung."
+    "Wir müssen alle Stimmzettel auszählen."
   ],
   "parts": [
     {
-      "content": "Ciddi",
+      "content": "Bütün",
       "translations": [
-        "ernst",
-        "seriös"
+        "alles",
+        "gesamt"
       ],
       "usageExamples": []
     },
     {
-      "content": "bir",
+      "content": "oy",
       "translations": [
-        "eins",
-        "ein"
+        "oh",
+        "ach"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "pusulalarını",
+      "translations": [
+        "Wahlzettel",
+        "Stimmzettel"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "saymak",
+      "translations": [
+        "zählen",
+        "aufzählen"
       ],
       "usageExamples": [
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "İyi bir kamera aldım.",
-          "Ich habe mir eine gute Kamera gekauft.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
+          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "konuşma",
+      "content": "zorundayız",
       "translations": [
-        "Gespräch",
-        "Unterhaltung",
-        "Rede"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "başladık",
-      "translations": [
-        "wir haben begonnen",
-        "wir fangen an"
+        "wir sind verpflichtet",
+        "wir müssen"
       ],
       "usageExamples": []
     }

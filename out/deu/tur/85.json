@@ -1,69 +1,96 @@
 {
-  "sentence": "Onun ne dediğini anlayamadım.",
+  "sentence": "O nasıl? Yaşlı mı, genç mi?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich habe nicht verstanden, was er gesagt hat."
+    "Wie ist er? Alt, oder jung?"
   ],
   "parts": [
     {
-      "content": "Onun",
+      "content": "O",
       "translations": [
-        "seine",
-        "ihr"
+        "O",
+        "Oh"
       ],
       "usageExamples": [
         [
-          "Onun bunu başarması inanılmaz.",
-          "Es ist unwahrscheinlich, dass es ihm gelungen ist.",
-          "Sentence from Tatoeba by odien16 (CC-BY 2.0 FR)"
+          "O biraz çatlak.",
+          "Sie ist ein bisschen verrückt.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "Onun bir kedisi ve iki köpeği var.",
-          "Sie hat eine Katze und zwei Hunde.",
+          "O dahi bir kadın!",
+          "Sie ist eine geniale Frau!",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "O zamandan beri onu kimse görmedi.",
+          "Niemand hat ihn mehr gesehen seitdem.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ne",
+      "content": "nasıl",
       "translations": [
-        "nicht",
-        "kein"
+        "wie",
+        "was für ein"
       ],
       "usageExamples": [
         [
-          "Hepsi ne ediyor?",
-          "Was macht das alles zusammen?",
-          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+          "Okul nasıl gidiyor?",
+          "Wie geht es in der Schule?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
         ],
         [
-          "Öğle yemeği için ne istersin?",
-          "Was möchtest du zu essen?",
+          "Hava nasıl?",
+          "Wie ist das Wetter?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Yaşlı",
+      "translations": [
+        "alt",
+        "älter",
+        "senior",
+        "altmodisch"
+      ],
+      "usageExamples": [
+        [
+          "Yaşlı adam pencerede oturuyor.",
+          "Der alte Mann sitzt am Fenster.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mı",
+      "translations": [
+        "ob",
+        "ob nicht"
+      ],
+      "usageExamples": [
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Benim için ne zaman vaktin olur?",
-          "Wann hast du Zeit für mich?",
+          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dediğini",
+      "content": "genç",
       "translations": [
-        "was gesagt",
-        "was du gesagt hast"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "anlayamadım",
-      "translations": [
-        "Ich habe es nicht verstanden",
-        "Ich konnte es nicht verstehen"
+        "jung",
+        "junge"
       ],
       "usageExamples": []
     }

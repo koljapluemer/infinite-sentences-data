@@ -1,87 +1,89 @@
 {
-  "sentence": "Me gusta tu acento.",
+  "sentence": "Esa es la realidad.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Luornu (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I like your accent."
+    "That's the reality."
   ],
   "parts": [
     {
-      "content": "Me",
+      "content": "Esa",
       "translations": [
-        "Me",
-        "I"
+        "that",
+        "that one"
       ],
       "usageExamples": [
         [
-          "Me gusta el café.",
-          "I enjoy coffee.",
-          ""
-        ],
-        [
-          "Me llamo Juan.",
-          "My name is Juan.",
-          ""
-        ],
-        [
-          "Me gustaría tomar algo.",
-          "I'd like something to drink.",
+          "Esa casa estaba totalmente a oscuras.",
+          "The house was as dark as dark.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gusta",
+      "content": "es",
       "translations": [
-        "like",
-        "pleases"
+        "is",
+        "it is",
+        "to be"
       ],
       "usageExamples": [
         [
-          "A ella le gusta bailar salsa.",
-          "She loves to dance salsa.",
+          "Tomás es xenofóbico.",
+          "Tom is xenophobic.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom es un buen gerente.",
+          "Tom is a pretty good manager.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Este es el color de las frambuesas.",
+          "This is the color of raspberries.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La casa es grande.",
+          "The house is spacious.",
           ""
         ],
         [
-          "Me gusta mucho el chocolate.",
-          "I'm a big fan of chocolate.",
+          "La comida está lista.",
+          "The food is ready.",
           ""
         ]
       ]
     },
     {
-      "content": "tu",
+      "content": "realidad",
       "translations": [
-        "you",
-        "your"
+        "reality",
+        "truth",
+        "fact"
       ],
       "usageExamples": [
-        [
-          "Necesito tu pasaporte y tres fotos.",
-          "I need your passport and three pictures.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ten tu pistola a mano.",
-          "Keep your gun handy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
         [
           "En realidad es tu culpa.",
           "It is in fact your fault.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "acento",
-      "translations": [
-        "accent",
-        "stress"
-      ],
-      "usageExamples": []
     }
   ]
 }

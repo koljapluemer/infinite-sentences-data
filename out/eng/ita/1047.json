@@ -1,100 +1,113 @@
 {
-  "sentence": "Vorrei cambiare il mio biglietto.",
+  "sentence": "Tom è diverso dagli altri ragazzi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by tanay (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mactrey (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd like to change my ticket."
+    "Tom is different from other boys."
   ],
   "parts": [
     {
-      "content": "Vorrei",
+      "content": "Tom",
       "translations": [
-        "I would like",
-        "I want",
-        "I would love to",
-        "I wish to"
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "diverso",
+      "translations": [
+        "different",
+        "various",
+        "diverse",
+        "distinct"
       ],
       "usageExamples": []
     },
     {
-      "content": "cambiare",
+      "content": "dagli",
       "translations": [
-        "to change",
-        "to exchange",
-        "to switch",
-        "to alter"
+        "from the",
+        "by the",
+        "of the",
+        "since the"
       ],
       "usageExamples": []
     },
     {
-      "content": "il",
+      "content": "altri",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "others",
+        "other people",
+        "the rest",
+        "additional ones"
       ],
       "usageExamples": [
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Sono stanco di ascoltare incessantemente i problemi degli altri.",
+          "I'm tired of listening incessantly to other people's problems.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ],
         [
-          "Non conosco il sistema.",
-          "I don't know the system.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Mi sento unico rispetto agli altri.",
+          "I feel unique compared to others.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "ragazzi",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "boys",
+        "kids",
+        "guys",
+        "young people"
       ],
-      "usageExamples": [
-        [
-          "È mio nemico.",
-          "He is my enemy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dove ha portato il mio lenzuolo?",
-          "Where did you take my blanket?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non so se i padrini di mio figlio siano ancora vivi.",
-          "I don't know if my son's godparents are still alive.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "biglietto",
-      "translations": [
-        "ticket",
-        "note",
-        "bill",
-        "card"
-      ],
-      "usageExamples": [
-        [
-          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
-          "When riding a bus or a train, you need to pay the fare.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

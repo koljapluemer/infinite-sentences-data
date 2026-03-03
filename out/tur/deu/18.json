@@ -1,13 +1,36 @@
 {
-  "sentence": "Nur nicht aufgeben!",
+  "sentence": "Meine Mutter spricht nicht sehr gut Englisch.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sakın pes etme!"
+    "Annem İngilizceyi pek iyi konuşmaz."
   ],
   "parts": [
+    {
+      "content": "Mutter",
+      "translations": [
+        "anne",
+        "mam",
+        "Annen",
+        "Annem"
+      ],
+      "usageExamples": [
+        [
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "spricht",
+      "translations": [
+        "konuşur"
+      ],
+      "usageExamples": []
+    },
     {
       "content": "nicht",
       "translations": [
@@ -17,39 +40,67 @@
       ],
       "usageExamples": [
         [
-          "Ich behaupte, dass das nicht stimmt.",
-          "Bunun doğru olmadığını iddia ediyorum.",
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Meine Mutter spricht nicht sehr gut Englisch.",
-          "Annem İngilizceyi pek iyi konuşmaz.",
+          "Tom ist unglücklich, nicht wahr?",
+          "Tom mutsuz, değil mi?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich spreche nicht viel Französisch.",
-          "Çok fazla Fransızca konuşamam.",
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sizinle sonucu paylaşma niyetinde değilim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aufgeben",
+      "content": "sehr",
       "translations": [
-        "halletmek"
+        "çok",
+        "pek"
       ],
       "usageExamples": [
         [
-          "Warum jetzt aufgeben?",
-          "Neden şimdi vazgeçiyorsun?",
+          "Ich schwimme sehr gern.",
+          "Yüzmeyi seviyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
-          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Esperanto zu lernen ist sehr interessant.",
+          "Esperanto öğrenmek çok ilginçtir.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich interessiere mich sehr für Fußball.",
+          "Futbola çok ilgim var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "gut",
+      "translations": [
+        "iyi",
+        "İyi",
+        "yi"
+      ],
+      "usageExamples": [
+        [
+          "Das fängt ja gut an!",
+          "İyi bir başlangıç oldu!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Englisch",
+      "translations": [
+        "İngilizceyi"
+      ],
+      "usageExamples": []
     }
   ]
 }

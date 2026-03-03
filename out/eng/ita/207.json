@@ -1,96 +1,112 @@
 {
-  "sentence": "Chiamatemi se avete bisogno di assistenza.",
+  "sentence": "A me non importa di lei.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Call me if you need assistance."
+    "I don't care about her."
   ],
   "parts": [
     {
-      "content": "Chiamatemi",
+      "content": "A",
       "translations": [
-        "Call me.",
-        "You can call me",
-        "Just call me"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "se",
-      "translations": [
-        "himself",
-        "herself",
-        "itself",
-        "themselves"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary importava solo di se stessa.",
-          "Mary only cared about herself.",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary importava solamente di se stessa.",
-          "Mary only cared about herself.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "avete",
+      "content": "me",
       "translations": [
-        "you have",
-        "you've got",
-        "are you having"
+        "myself",
+        "to me",
+        "for me"
       ],
       "usageExamples": [
         [
-          "Dove li avete oliati?",
-          "Where did you oil them?",
+          "Sei speciale per me.",
+          "You're special to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cosa avete consigliato?",
-          "What did you recommend?",
+          "Tu lasceresti tua moglie per me?",
+          "Would you leave your wife for me?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li avete rapiti?",
-          "Did you kidnap them?",
+          "È difficile per me dipendere da te.",
+          "It's hard for me to depend on you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bisogno",
+      "content": "non",
       "translations": [
-        "need",
-        "requirement",
-        "necessity",
-        "desire"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Hai bisogno di una tastiera nuova?",
-          "Do you need a new keyboard?",
+          "Però non funzionerà!",
+          "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho bisogno di parlarti stanotte.",
-          "I need to talk to you tonight.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vorrei che capissero il mio bisogno di pace.",
-          "I wish they would understand my need for peace.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "importa",
+      "translations": [
+        "it matters",
+        "it is important",
+        "it counts",
+        "it is significant"
+      ],
+      "usageExamples": [
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary e Tom importa la privacy.",
+          "Mary and Tom care about privacy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non importa, vero?",
+          "Mary doesn't care, does she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -104,8 +120,32 @@
       ],
       "usageExamples": [
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lei",
+      "translations": [
+        "she",
+        "you (formal)"
+      ],
+      "usageExamples": [
+        [
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -114,21 +154,11 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Può fare di meglio.",
-          "You can do better.",
+          "Era sposato con lei.",
+          "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "assistenza",
-      "translations": [
-        "assistance",
-        "support",
-        "help",
-        "aid"
-      ],
-      "usageExamples": []
     }
   ]
 }

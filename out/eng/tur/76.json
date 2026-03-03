@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom bir şey arıyor gibi görünüyor.",
+  "sentence": "Tom Mary ile konuşmayı bırakamadı.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom seems to be looking for something."
+    "Tom couldn't stop talking to Mary."
   ],
   "parts": [
     {
@@ -16,13 +16,13 @@
       ],
       "usageExamples": [
         [
-          "Tom en iyi değil.",
-          "Tom isn't the best.",
+          "Tom bizi korkuttu.",
+          "Tom scared us.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom kötü bir golfçü.",
-          "Tom is a bad golfer.",
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
@@ -33,101 +33,61 @@
       ]
     },
     {
-      "content": "bir",
+      "content": "Mary",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "Mary",
+        "Maria"
       ],
       "usageExamples": [
         [
-          "Ve bu bir plaj.",
-          "And this is a beach.",
+          "Tom Mary'ye bekleyeceğini söyledi.",
+          "Tom told Mary he'd wait.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "O bir üstat değil.",
-          "He is not a virtuoso.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Tom ve Mary bir süre birbirlerini göremeyecekler.",
+          "Tom and Mary won't be able to see each other for a while.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Boston büyük bir şehirdir.",
-          "Boston is a large city.",
+          "Tom, Mary'ye üç yüz dolar verdi.",
+          "Tom gave Mary three hundred dollars.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "şey",
+      "content": "ile",
       "translations": [
-        "thing",
-        "stuff",
-        "object",
-        "item"
+        "with",
+        "and"
       ],
       "usageExamples": [
         [
-          "Güneş altında herhangi bir şey hakkında konuşabilirsiniz.",
-          "You can talk about anything under the sun.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Her şey benim için yeniydi.",
-          "Everything was new to me.",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Başka bir şey düşünmek zorundayız.",
-          "We have to think of something else.",
+          "Tom'un Mary'nin kız kardeşlerinin herhangi biri ile tanıştığını sanmıyorum.",
+          "I don't think Tom has met either of Mary's sisters.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "arıyor",
+      "content": "konuşmayı",
       "translations": [
-        "is looking for",
-        "is searching for",
-        "is calling"
+        "the conversation",
+        "the speech",
+        "the talk"
       ],
       "usageExamples": []
     },
     {
-      "content": "gibi",
+      "content": "bırakamadı",
       "translations": [
-        "like",
-        "as",
-        "similar to",
-        "such as"
+        "couldn't let go",
+        "wasn't able to release",
+        "couldn't abandon",
+        "couldn't leave behind"
       ],
-      "usageExamples": [
-        [
-          "Eğitim insanlar gibi davranan makineler yapar ve makineler gibi davranan insanlar üretir.",
-          "Education makes machines which act like men and produces men who act like machines.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "İyi bir erkek çocuğu gibi davranmazsan bir doğum günü hediyesi almazsın.",
-          "If you don't act like a good boy, you won't get a birthday present.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "görünüyor",
-      "translations": [
-        "it seems",
-        "it appears",
-        "looks like",
-        "is visible"
-      ],
-      "usageExamples": [
-        [
-          "O makul görünüyor.",
-          "That seems reasonable.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

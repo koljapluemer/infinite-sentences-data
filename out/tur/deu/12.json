@@ -1,11 +1,11 @@
 {
-  "sentence": "Ich wollte mich erinnern.",
+  "sentence": "Ich will dir helfen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ben hatırlamak istiyordum."
+    "Size yardım etmek istiyorum."
   ],
   "parts": [
     {
@@ -15,8 +15,8 @@
       ],
       "usageExamples": [
         [
-          "Ich hasse meine Nachbarn.",
-          "Komşularımdan nefret ediyorum.",
+          "Ich wollte mich erinnern.",
+          "Ben hatırlamak istiyordum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -25,41 +25,39 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich suche meine Frau.",
-          "Karımı arıyorum.",
+          "Ich schwimme sehr gern.",
+          "Yüzmeyi seviyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mich",
+      "content": "will",
       "translations": [
-        "beni"
+        "istiyor"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dir",
+      "translations": [
+        "Sana",
+        "Seni",
+        "dir",
+        "sana"
       ],
       "usageExamples": [
         [
-          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde.",
-          "Artık kimseye aşık olamayacağımı biliyorum.",
+          "Ich erlaube dir zu gehen.",
+          "Sana gitmen için izin veriyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dieses Lied erinnert mich an jemanden.",
-          "Bu şarkı bana birini hatırlatıyor.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wann hast du Zeit für mich?",
-          "Benim için ne zaman vaktin olur?",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "erinnern",
-      "translations": [
-        "hatırlamak"
-      ],
-      "usageExamples": []
     }
   ]
 }

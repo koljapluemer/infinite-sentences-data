@@ -1,38 +1,54 @@
 {
-  "sentence": "Onları tutuklayacaklar mı?",
+  "sentence": "O makul görünüyor.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are they going to arrest them?"
+    "That seems reasonable."
   ],
   "parts": [
     {
-      "content": "Onları",
+      "content": "O",
       "translations": [
-        "them",
-        "those"
+        "Oh.",
+        "O",
+        "Wow",
+        "Hey."
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "O kazağı beğeniyorum.",
+          "I like that sweater.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O istasyonun adı ne?",
+          "What's the name of that station?",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O birkaç haftadır kayıp.",
+          "She had been missing for a couple of weeks.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "tutuklayacaklar",
+      "content": "görünüyor",
       "translations": [
-        "they will arrest",
-        "they will detain"
+        "it seems",
+        "it appears",
+        "looks like",
+        "is visible"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "mı",
-      "translations": [
-        "am I",
-        "is it",
-        "do I",
-        "are you"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom bir şey arıyor gibi görünüyor.",
+          "Tom seems to be looking for something.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,46 +1,35 @@
 {
-  "sentence": "Lütfen rahatınıza bakın.",
+  "sentence": "Kendini onunla karşılaştırma.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please make yourselves comfortable."
+    "Don't compare yourself to her."
   ],
   "parts": [
     {
-      "content": "Lütfen",
+      "content": "Kendini",
       "translations": [
-        "Please.",
-        "Kindly."
+        "yourself",
+        "oneself"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "onunla",
+      "translations": [
+        "with him",
+        "with her",
+        "with them"
       ],
       "usageExamples": [
         [
-          "Lütfen güncel tutun.",
-          "Please keep us updated.",
-          "Sentence from Tatoeba by SSibelty (CC-BY 2.0 FR)"
+          "O, onunla çocuklarının eğitimi hakkında tartıştı.",
+          "She argued with him about their children's education.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "rahatınıza",
-      "translations": [
-        "to your comfort",
-        "for your convenience",
-        "for your ease",
-        "to your relaxation"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bakın",
-      "translations": [
-        "look",
-        "see",
-        "check it out",
-        "take a look"
-      ],
-      "usageExamples": []
     }
   ]
 }

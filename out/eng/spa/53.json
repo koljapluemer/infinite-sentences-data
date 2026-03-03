@@ -1,125 +1,46 @@
 {
-  "sentence": "No hay nada más qué decir.",
+  "sentence": "Está nevando hoy.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There's nothing more to be said."
+    "It's snowing today."
   ],
   "parts": [
     {
-      "content": "No",
+      "content": "Está",
       "translations": [
-        "No.",
-        "Not",
-        "Nope."
+        "It is",
+        "He/She is",
+        "You are"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "nevando",
+      "translations": [
+        "snowing",
+        "it's snowing"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hoy",
+      "translations": [
+        "today",
+        "this day",
+        "on this day"
       ],
       "usageExamples": [
         [
-          "No quiero ir.",
-          "I refuse to go.",
+          "Hoy es lunes.",
+          "It's Monday today.",
           ""
         ],
         [
-          "No tengo tiempo.",
-          "I don't have time.",
-          ""
-        ],
-        [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "hay",
-      "translations": [
-        "there is",
-        "there are",
-        "there exists"
-      ],
-      "usageExamples": [
-        [
-          "No hay nadie en la entrada.",
-          "There's no one at the entrance.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
-          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "nada",
-      "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "Ella solo finge que no le importa nada.",
-          "She only pretends to not care about anything.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "más",
-      "translations": [
-        "more",
-        "most",
-        "plus"
-      ],
-      "usageExamples": [
-        [
-          "Necesito más tiempo.",
-          "I need more time.",
-          ""
-        ],
-        [
-          "Quiero más comida.",
-          "I would like additional food.",
-          ""
-        ],
-        [
-          "¿Dónde está la parada de colectivos más cercana?",
-          "Where's the nearest bus stop?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "qué",
-      "translations": [
-        "what"
-      ],
-      "usageExamples": [
-        [
-          "No sé para qué me he levantado tan temprano.",
-          "I don't know why I got up so early.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "decir",
-      "translations": [
-        "to say",
-        "to tell",
-        "to speak"
-      ],
-      "usageExamples": [
-        [
-          "Es difícil decir qué es lo correcto en esta situación.",
-          "It's difficult to determine what is correct in this case.",
-          ""
-        ],
-        [
-          "¿Puedes decirme la hora, por favor?",
-          "Could you let me know the time, please?",
+          "Hoy tengo clase.",
+          "I have class today.",
           ""
         ]
       ]

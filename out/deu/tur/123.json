@@ -1,29 +1,82 @@
 {
-  "sentence": "Yani yalan söylediğimi iddia ediyorsunuz.",
+  "sentence": "Tom, Avustralya'da olduğunu söyledi.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sie behaupten also, dass ich lüge."
+    "Tom hat gesagt, dass er in Australien ist."
   ],
   "parts": [
     {
-      "content": "yani",
+      "content": "Tom",
       "translations": [
-        "das heißt",
-        "also",
-        "nämlich"
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Avustralya",
+      "translations": [
+        "Australien",
+        "Australien (Land)"
       ],
       "usageExamples": []
     },
     {
-      "content": "yalan",
+      "content": "da",
       "translations": [
-        "Lüge",
-        "Falschheit"
+        "da",
+        "dort",
+        "da drüben"
       ],
       "usageExamples": [
+        [
+          "Ateşsiz duman da çıkabilir.",
+          "Rauch kann auch ohne Feuer entstehen.",
+          "Sentence from Tatoeba by hrkucuk (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu da kim?",
+          "Wer ist das denn?",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "olduğunu",
+      "translations": [
+        "es ist",
+        "war",
+        "ist geworden"
+      ],
+      "usageExamples": [
+        [
+          "Biraz yorgun olduğunu söyledi.",
+          "Er sagte, er sei ein bisschen müde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
         [
           "Birçok insan, bunun bir yalan olduğunu söylüyor.",
           "Es gibt viele Leute, die sagen, das sei eine Lüge.",
@@ -32,35 +85,18 @@
       ]
     },
     {
-      "content": "söylediğimi",
+      "content": "söyledi",
       "translations": [
-        "was gesagt habe",
-        "was ich gesagt habe"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "iddia",
-      "translations": [
-        "Wette",
-        "Einsatz"
+        "sagte",
+        "hat gesagt"
       ],
       "usageExamples": [
         [
-          "Bunun doğru olmadığını iddia ediyorum.",
-          "Ich behaupte, dass das nicht stimmt.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Biraz yorgun olduğunu söyledi.",
+          "Er sagte, er sei ein bisschen müde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "ediyorsunuz",
-      "translations": [
-        "Sie tun",
-        "Sie machen",
-        "Sie betreiben"
-      ],
-      "usageExamples": []
     }
   ]
 }

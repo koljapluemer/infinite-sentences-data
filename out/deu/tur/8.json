@@ -1,34 +1,52 @@
 {
-  "sentence": "Aşağı yukarı anlıyorum.",
+  "sentence": "Az laf, çok iş!",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich verstehe ungefähr."
+    "Weniger quatschen, mehr handeln!"
   ],
   "parts": [
     {
-      "content": "Aşağı",
+      "content": "Az",
       "translations": [
-        "unten",
-        "nach unten"
+        "Ich bin",
+        "Ich existiere"
       ],
       "usageExamples": []
     },
     {
-      "content": "yukarı",
+      "content": "çok",
       "translations": [
-        "oben",
-        "nach oben"
+        "sehr",
+        "viel"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Çok fazla Fransızca konuşamam.",
+          "Ich spreche nicht viel Französisch.",
+          "Sentence from Tatoeba by oxyii (CC-BY 2.0 FR)"
+        ],
+        [
+          "Esperanto öğrenmek çok ilginçtir.",
+          "Esperanto zu lernen ist sehr interessant.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "anlıyorum",
+      "content": "iş",
       "translations": [
-        "ich verstehe",
-        "ich begreife"
+        "Arbeit",
+        "Job",
+        "Aufgabe",
+        "Beruf"
       ],
       "usageExamples": []
     }

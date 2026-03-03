@@ -1,95 +1,59 @@
 {
-  "sentence": "Mary bir baton kullanarak orkestrayı yönetti.",
+  "sentence": "Köyde beş inek var.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Maria dirigierte das Orchester mit einem Taktstock."
+    "Im Dorf gibt es fünf Rinder."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Köyde",
       "translations": [
-        "Maria",
-        "Miriam"
+        "im Dorf",
+        "auf dem Land"
       ],
-      "usageExamples": [
-        [
-          "Mary bale dersleri alıyor.",
-          "Maria nimmt Ballettunterricht.",
-          "Sentence from Tatoeba by tulin (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary politika ile ilgilenir.",
-          "Maria interessiert sich für Politik.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary'yi öldürdün mü?",
-          "Hast du Maria umgebracht?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "bir",
+      "content": "beş",
       "translations": [
-        "eins",
-        "ein"
+        "fünf"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "inek",
+      "translations": [
+        "Kuh",
+        "Rind"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "var",
+      "translations": [
+        "var",
+        "es gibt"
       ],
       "usageExamples": [
+        [
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
         [
           "Tom'un bir kedisi var.",
           "Tom hat eine Katze.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Ciddi bir konuşmaya başladık.",
-          "Wir begannen eine ernsthafte Unterhaltung.",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
-        ],
-        [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Bir alternatifin var.",
+          "Du hast eine Alternative.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "baton",
-      "translations": [
-        "Stock",
-        "Zweig",
-        "Stab"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "kullanarak",
-      "translations": [
-        "benutzen",
-        "verwendend"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "orkestra",
-      "translations": [
-        "Orchester",
-        "Kapelle"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yönetmek",
-      "translations": [
-        "leiten",
-        "verwalten",
-        "führen",
-        "steuern"
-      ],
-      "usageExamples": []
     }
   ]
 }

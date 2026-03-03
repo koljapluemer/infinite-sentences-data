@@ -1,11 +1,11 @@
 {
-  "sentence": "Bu sorunları nasıl düzeltmemiz gerekir?",
+  "sentence": "Bu soba çok fazla tütüyor.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by sharptoothed (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How are we supposed to fix these issues?"
+    "That stove smokes too much."
   ],
   "parts": [
     {
@@ -26,56 +26,71 @@
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Bu soba çok fazla tütüyor.",
-          "That stove smokes too much.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Bu sorunları nasıl düzeltmemiz gerekir?",
+          "How are we supposed to fix these issues?",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sorunları",
+      "content": "soba",
       "translations": [
-        "problems",
-        "issues",
-        "troubles",
-        "challenges"
+        "stove",
+        "oven",
+        "fireplace"
       ],
       "usageExamples": []
     },
     {
-      "content": "nasıl",
+      "content": "çok",
       "translations": [
-        "how",
-        "what way",
-        "in what manner"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "düzeltmemiz",
-      "translations": [
-        "we need to correct",
-        "we should fix",
-        "we must amend",
-        "we have to adjust"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gerekir",
-      "translations": [
-        "necessary",
-        "required",
-        "needed",
-        "must"
+        "very",
+        "a lot",
+        "many",
+        "much"
       ],
       "usageExamples": [
         [
-          "Verimli bir şekilde çalışman gerekir.",
-          "You should study in an efficient manner.",
+          "Kendimi çok sıkıyorum.",
+          "I'm really hard on myself.",
+          "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+        ],
+        [
+          "O dil çok hoş geliyor.",
+          "That language sounds very pretty.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom, bunu yapmada Mary'den çok daha iyidir.",
+          "Tom is a lot better at doing that than Mary.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "fazla",
+      "translations": [
+        "too much",
+        "excessive",
+        "a lot",
+        "more than enough"
+      ],
+      "usageExamples": [
+        [
+          "Oh Tanrım, emin değilim ama sanırım çok fazla yedim.",
+          "Oh geez, I'm not sure, but I think I ate too much.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tütüyor",
+      "translations": [
+        "it's smoking",
+        "it's burning",
+        "it's steaming"
+      ],
+      "usageExamples": []
     }
   ]
 }

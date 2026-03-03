@@ -1,61 +1,38 @@
 {
-  "sentence": "Bir alternatifin var.",
+  "sentence": "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Du hast eine Alternative."
+    "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht."
   ],
   "parts": [
     {
-      "content": "Bir",
+      "content": "bilmediğin",
       "translations": [
-        "Ein",
-        "Eine"
-      ],
-      "usageExamples": [
-        [
-          "Bir zamanlar kafam çok karışıktı.",
-          "Ich war einmal so verwirrt.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen.",
-          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bir dil yeterince iyi öğrenilemez.",
-          "Man kann keine Sprache genug beherrschen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "alternatifin",
-      "translations": [
-        "Alternativ",
-        "Alternative"
+        "unbekannt",
+        "nicht gewusst",
+        "nicht bekannt"
       ],
       "usageExamples": []
     },
     {
-      "content": "var",
+      "content": "bir",
       "translations": [
-        "var",
-        "es gibt"
+        "eins",
+        "ein"
       ],
       "usageExamples": [
         [
-          "Futbola çok ilgim var.",
-          "Ich interessiere mich sehr für Fußball.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "O dahi bir kadın!",
+          "Sie ist eine geniale Frau!",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "Dokuza çeyrek var.",
-          "Es ist Viertel vor neun.",
-          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+          "İyi bir kamera aldım.",
+          "Ich habe mir eine gute Kamera gekauft.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
           "Tom'un bir kedisi var.",
@@ -63,6 +40,98 @@
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "şey",
+      "translations": [
+        "Ding",
+        "Sache"
+      ],
+      "usageExamples": [
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "biliyorum",
+      "translations": [
+        "ich weiß",
+        "ich kenne"
+      ],
+      "usageExamples": [
+        [
+          "Artık kimseye aşık olamayacağımı biliyorum.",
+          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ve",
+      "translations": [
+        "und",
+        "oder"
+      ],
+      "usageExamples": [
+        [
+          "Gemiler rüzgar ve yağmurdan etkilenirler.",
+          "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ],
+        [
+          "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
+          "Nimm eine kalte Dusche und trinke dann einen heißen Tee!",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "onu",
+      "translations": [
+        "das",
+        "es"
+      ],
+      "usageExamples": [
+        [
+          "Dün onu gördüm.",
+          "Ich habe sie gestern gesehen.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Babam onu ​​tanıyordu.",
+          "Mein Vater kannte ihn.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O zamandan beri onu kimse görmedi.",
+          "Niemand hat ihn mehr gesehen seitdem.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sana",
+      "translations": [
+        "dir",
+        "für dich"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "söylemeyeceğim",
+      "translations": [
+        "Ich werde es nicht sagen",
+        "Ich sage es nicht"
+      ],
+      "usageExamples": []
     }
   ]
 }

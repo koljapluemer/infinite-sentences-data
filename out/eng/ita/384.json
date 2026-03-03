@@ -1,125 +1,64 @@
 {
-  "sentence": "In realtà non l'ho mai incontrata.",
+  "sentence": "Hey, grazie per l'aiuto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I never actually met her.",
-    "I've never actually met her."
+    "Hey, thanks for the help."
   ],
   "parts": [
     {
-      "content": "In",
+      "content": "Hey",
       "translations": [
-        "Inside",
-        "Within",
-        "Into"
+        "Hello.",
+        "Hi.",
+        "Greetings"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "grazie",
+      "translations": [
+        "thank you",
+        "thanks",
+        "thank you very much",
+        "much appreciated"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
-          "In realtà il nero non è un colore. È l'assenza di colore.",
-          "In reality black is not a color; it is the absence of color.",
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "realtà",
+      "content": "l'aiuto",
       "translations": [
-        "reality",
-        "fact",
-        "truth",
-        "actuality"
-      ],
-      "usageExamples": [
-        [
-          "In realtà il nero non è un colore. È l'assenza di colore.",
-          "In reality black is not a color; it is the absence of color.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "non",
-      "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
-      ],
-      "usageExamples": [
-        [
-          "Però non funzionerà!",
-          "But that won't work!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non ha corso?",
-          "Why didn't you run?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "l'ho",
-      "translations": [
-        "I have it",
-        "I've got it",
-        "I possess it",
-        "I own it"
-      ],
-      "usageExamples": [
-        [
-          "Non l'ho riconosciuto.",
-          "I didn't recognize it.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io l'ho sentito.",
-          "I heard it.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mai",
-      "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
-      ],
-      "usageExamples": [
-        [
-          "Tom non cambia mai.",
-          "Tom never changes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Avete mai provato?",
-          "Did you ever try?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non dormite mai?",
-          "Don't you ever sleep?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "incontrata",
-      "translations": [
-        "met",
-        "encountered",
-        "came across",
-        "ran into"
+        "the help",
+        "the assistance",
+        "the support",
+        "the aid"
       ],
       "usageExamples": []
     }

@@ -1,68 +1,69 @@
 {
-  "sentence": "Gli uomini amano vantarsi.",
+  "sentence": "Deve essere difficile.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Men love to brag."
+    "That must be hard."
   ],
   "parts": [
     {
-      "content": "Gli",
+      "content": "Deve",
       "translations": [
-        "the",
-        "them",
-        "those",
-        "the ones"
+        "must",
+        "has to",
+        "needs to",
+        "should"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "essere",
+      "translations": [
+        "to be",
+        "to exist",
+        "to occur",
+        "to happen"
       ],
       "usageExamples": [
         [
-          "Gli importava.",
-          "He cared.",
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli alberi saranno presto vuoti.",
-          "The trees will soon be bare.",
+          "Shloyme vuole essere uno scrittore.",
+          "Shloyme wants to be a writer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
-          "The orphans were forced to work long hours without pay or food.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Tom cercava di non essere irritato.",
+          "Tom tried not to be irritated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "uomini",
+      "content": "difficile",
       "translations": [
-        "men",
-        "people",
-        "humans",
-        "mankind"
+        "difficult",
+        "hard",
+        "challenging",
+        "tough"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "amano",
-      "translations": [
-        "by hand",
-        "manually",
-        "handmade",
-        "handcrafted"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "vantarsi",
-      "translations": [
-        "to boast",
-        "to brag",
-        "to show off",
-        "to take pride in"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "È difficile per me dipendere da te.",
+          "It's hard for me to depend on you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È difficile restare calmi quando le scadenze vengono ignorate.",
+          "It's hard to stay calm when deadlines are ignored.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,53 +1,56 @@
 {
-  "sentence": "Kışın arada sırada buraya geliyorum.",
+  "sentence": "Kartla ödeme yapılabilir mi?",
   "credits": [
-    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Im Winter komme ich ab und zu hierher."
+    "Kann man mit Karte bezahlen?"
   ],
   "parts": [
     {
-      "content": "Kışın",
+      "content": "Kartla",
       "translations": [
-        "im Winter",
-        "im Winterzeit"
+        "Karte",
+        "Landkarte"
       ],
       "usageExamples": []
     },
     {
-      "content": "arada",
+      "content": "ödeme",
       "translations": [
-        "zwischen",
-        "unter"
+        "Zahlung",
+        "Bezahlung"
       ],
       "usageExamples": []
     },
     {
-      "content": "sırada",
+      "content": "yapılabilir",
       "translations": [
-        "in der Reihe",
-        "an der Reihe",
-        "in Wartestellung"
+        "machbar",
+        "durchführbar",
+        "realisierbar"
       ],
       "usageExamples": []
     },
     {
-      "content": "buraya",
+      "content": "mi",
       "translations": [
-        "hierher",
-        "zu diesem Ort"
+        "ich",
+        "mir"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "geliyorum",
-      "translations": [
-        "Ich komme",
-        "Ich bin unterwegs"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
+          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

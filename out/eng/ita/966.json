@@ -1,12 +1,11 @@
 {
-  "sentence": "Tom sembra impegnato.",
+  "sentence": "Tom ballò come un robot.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom looks busy.",
-    "Tom seems busy."
+    "Tom danced like a robot."
   ],
   "parts": [
     {
@@ -17,63 +16,91 @@
       ],
       "usageExamples": [
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta gemendo.",
-          "Tom is whining.",
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sembra",
+      "content": "ballò",
       "translations": [
-        "it seems",
-        "it appears",
-        "it looks like",
-        "seems to be"
+        "dance",
+        "ball",
+        "dance event",
+        "ballroom dance"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "come",
+      "translations": [
+        "how",
+        "like",
+        "as",
+        "when"
       ],
       "usageExamples": [
+        [
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Come si fa a sentirlo?",
+          "How can you hear him?",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non è alto come te.",
+          "Tom isn't tall like you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "È un portiere.",
+          "He's a goal keeper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Lui sembra un delinquente.",
           "He looks like a gangster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembra compiaciuto.",
-          "Tom seems pleased.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "impegnato",
+      "content": "robot",
       "translations": [
-        "busy",
-        "engaged",
-        "committed",
-        "occupied"
+        "automaton",
+        "mechanical being",
+        "android"
       ],
-      "usageExamples": [
-        [
-          "Tom è molto impegnato con il suo lavoro.",
-          "Tom is very busy with his work.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

@@ -1,58 +1,129 @@
 {
-  "sentence": "È restato sveglio.",
+  "sentence": "Vladimir è forte come una mucca.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He stayed awake."
+    "Vladimir is strong as a cow."
   ],
   "parts": [
     {
-      "content": "È",
+      "content": "Vladimir",
       "translations": [
-        "It is",
-        "He is",
-        "She is",
-        "There is"
+        "Vladimir (name)",
+        "Vladimir (given name)",
+        "Vladimir (personal name)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "È un portiere.",
-          "He's a goal keeper.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È anche più economico.",
-          "It's also cheaper.",
+          "Il libro è arrivato.",
+          "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
+          "Questo è un test?",
+          "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "restato",
+      "content": "forte",
       "translations": [
-        "restated",
-        "reiterated",
-        "reaffirmed",
-        "rephrased"
+        "strong",
+        "powerful",
+        "forceful",
+        "intense"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Non mi sento abbastanza forte per dirglielo.",
+          "I don’t feel strong enough to tell him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "sveglio",
+      "content": "come",
       "translations": [
-        "awake",
-        "alert",
-        "smart",
-        "clever"
+        "how",
+        "like",
+        "as",
+        "when"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sa come si sente Mary a riguardo.",
+          "Tom knows how Mary feels about that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non è alto come te.",
+          "Tom isn't tall like you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mucca",
+      "translations": [
+        "cow",
+        "female bovine"
+      ],
+      "usageExamples": [
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

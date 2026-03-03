@@ -1,68 +1,52 @@
 {
-  "sentence": "Yo también lo creo.",
+  "sentence": "Nadie piensa eso.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Ploomich (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I also think so."
+    "No one thinks that."
   ],
   "parts": [
     {
-      "content": "Yo",
+      "content": "Nadie",
       "translations": [
-        "I",
-        "Me"
-      ],
-      "usageExamples": [
-        [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "también",
-      "translations": [
-        "also",
-        "too",
-        "as well"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "lo",
-      "translations": [
-        "the",
-        "it"
+        "nobody",
+        "no one",
+        "anyone",
+        "naught"
       ],
       "usageExamples": [
         [
           "Nadie lo diría.",
           "No one would say it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
-          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "creo",
+      "content": "piensa",
       "translations": [
-        "I believe",
-        "I think.",
-        "I create"
+        "think",
+        "consider",
+        "believe",
+        "reflect"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "eso",
+      "translations": [
+        "that",
+        "it"
+      ],
+      "usageExamples": [
+        [
+          "No puedo creer que Tom me haría eso.",
+          "I can't believe Tom would do that to me.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

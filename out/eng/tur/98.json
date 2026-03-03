@@ -1,35 +1,113 @@
 {
-  "sentence": "Öğretmene soralım.",
+  "sentence": "Tom, bunu yapmada Mary'den çok daha iyidir.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's ask the teacher."
+    "Tom is a lot better at doing that than Mary."
   ],
   "parts": [
     {
-      "content": "Öğretmen",
+      "content": "Tom",
       "translations": [
-        "Teacher",
-        "Instructor",
-        "Educator"
+        "Tom",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom kötü bir golfçü.",
+          "Tom is a bad golfer.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bizi korkuttu.",
+          "Tom scared us.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bunu",
+      "translations": [
+        "this",
+        "it"
+      ],
+      "usageExamples": [
+        [
+          "Bunu yapmak zorunda kalacak üç adamdan biriyim.",
+          "I'm one of the three guys who'll have to do that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom Mary'nin bunu yapacağını düşünüyor.",
+          "Tom thinks Mary will be doing that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary'den",
+      "translations": [
+        "from Mary",
+        "of Mary"
       ],
       "usageExamples": []
     },
     {
-      "content": "e",
+      "content": "çok",
       "translations": [
-        "and",
-        "also"
+        "very",
+        "a lot",
+        "many",
+        "much"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Kendimi çok sıkıyorum.",
+          "I'm really hard on myself.",
+          "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom çok yavaş araç kullanıyor.",
+          "Tom is driving too slow.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu soba çok fazla tütüyor.",
+          "That stove smokes too much.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "soralım",
+      "content": "daha",
       "translations": [
-        "let's ask",
-        "shall we ask"
+        "more",
+        "further",
+        "again",
+        "else"
+      ],
+      "usageExamples": [
+        [
+          "Seni neyin daha iyi hissettireceğini biliyorum.",
+          "I know what'll make you feel better.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "iyidir",
+      "translations": [
+        "it's good",
+        "it's fine",
+        "it's okay",
+        "it's all right"
       ],
       "usageExamples": []
     }

@@ -1,87 +1,63 @@
 {
-  "sentence": "İzin olmadan pazar tezgahı kurulamaz mı?",
+  "sentence": "İlk görüşte aşka inanır mısınız?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Darf man ohne Genehmigung keinen Marktstand aufbauen?"
+    "Glauben Sie an die Liebe auf den ersten Blick?"
   ],
   "parts": [
     {
-      "content": "izin",
+      "content": "ilk",
       "translations": [
-        "Genehmigung",
-        "Erlaubnis"
+        "erste",
+        "anfänglich"
       ],
       "usageExamples": [
         [
-          "Kapıyı kapatmama izin veriniz.",
-          "Erlauben Sie mir, die Tür zu schließen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
+          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "görüşte",
+      "translations": [
+        "in der Meinung",
+        "in der Ansicht"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "aşka",
+      "translations": [
+        "Liebe",
+        "Zuneigung"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "inanır",
+      "translations": [
+        "glauben",
+        "vertrauen"
+      ],
+      "usageExamples": [
         [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen.",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "olmadan",
+      "content": "mısınız",
       "translations": [
-        "ohne",
-        "ohne zu"
+        "sind Sie",
+        "möchten Sie"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "pazar",
-      "translations": [
-        "Markt",
-        "Basar"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tezgah",
-      "translations": [
-        "Theke",
-        "Verkaufstresen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "kurulamaz",
-      "translations": [
-        "nicht eingerichtet",
-        "nicht installiert"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mı",
-      "translations": [
-        "ob",
-        "ob nicht"
-      ],
-      "usageExamples": [
-        [
-          "O nasıl? Yaşlı mı, genç mi?",
-          "Wie ist er? Alt, oder jung?",
-          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
-        ],
-        [
-          "Şekerleme ya da başka bir şey yapalım mı?",
-          "Sollen wir ein Nickerchen machen oder so?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

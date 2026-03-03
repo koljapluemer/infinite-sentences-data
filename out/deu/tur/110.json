@@ -1,33 +1,83 @@
 {
-  "sentence": "Tom'a özellikle güvenmiyoruz.",
+  "sentence": "Tom bana tam tersini söylemişti.",
   "credits": [
-    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wir trauen Tom nicht besonders."
+    "Tom hat mir genau das Gegenteil gesagt."
   ],
   "parts": [
     {
-      "content": "Tom'a",
+      "content": "Tom",
       "translations": [
         "Tom"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'u çağırmamı ister misiniz?",
+          "Wollen Sie, dass ich Tom rufe?",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom Boston'da kalıyor.",
+          "Tom bleibt in Boston.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "özellikle",
+      "content": "bana",
       "translations": [
-        "insbesondere",
-        "vor allem"
+        "mir",
+        "zu mir"
+      ],
+      "usageExamples": [
+        [
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bana sorunu çözmeme izin veriniz.",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu şarkı bana birini hatırlatıyor.",
+          "Dieses Lied erinnert mich an jemanden.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tam",
+      "translations": [
+        "so",
+        "so sehr",
+        "so viel"
       ],
       "usageExamples": []
     },
     {
-      "content": "güvenmiyoruz",
+      "content": "tersini",
       "translations": [
-        "Wir vertrauen nicht.",
-        "Wir haben kein Vertrauen."
+        "umgekehrt",
+        "das Gegenteil"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "söylemişti",
+      "translations": [
+        "hatte gesagt",
+        "sagte er/sie",
+        "hatte gesprochen"
       ],
       "usageExamples": []
     }

@@ -1,34 +1,35 @@
 {
-  "sentence": "Mary è un'allenatrice molto brava, vero?",
+  "sentence": "Lei è del tutto diversa da sua madre.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is a very good coach, isn't she?"
+    "She is not anything like her mother."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Lei",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "You (formal)",
+        "She",
+        "Mrs.",
+        "Ma'am"
       ],
       "usageExamples": [
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "Lei è americano?",
+          "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "Lei ha già finito?",
+          "Are you done yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary importa solamente di se stessa.",
-          "Mary only cares about herself.",
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -43,64 +44,143 @@
       ],
       "usageExamples": [
         [
-          "Tom è un esperto.",
-          "Tom is a pro.",
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
+          "Questo è un occhio.",
+          "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La risposta è complicata.",
-          "The answer is complicated.",
+          "Forse è lui.",
+          "Maybe it's him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "del",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "of the",
+        "from the",
+        "about the",
+        "by the"
       ],
       "usageExamples": [
         [
-          "Sono un tipo solitario.",
-          "I'm a loner.",
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Chiamate un'ambulanza!",
-          "Call an ambulance!",
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tutto",
+      "translations": [
+        "everything",
+        "all",
+        "the whole",
+        "entirety"
+      ],
+      "usageExamples": [
+        [
+          "100 euro per tutto il giorno.",
+          "100 euros for the whole day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non aveva nulla a che fare con tutto quello.",
+          "Tom had nothing to do with any of that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è tutto quello che porto con me.",
+          "This is all I'm taking with me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "allenatrice",
+      "content": "diversa",
       "translations": [
-        "coach",
-        "trainer",
-        "instructor",
-        "facilitator"
+        "various",
+        "diverse",
+        "different",
+        "varied"
       ],
       "usageExamples": []
     },
     {
-      "content": "molto",
+      "content": "da",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "from",
+        "since",
+        "by",
+        "of"
+      ],
+      "usageExamples": [
+        [
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa è casa sua adesso.",
+          "This is your house now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le prestò la sua bicicletta.",
+          "He lent his bicycle to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "madre",
+      "translations": [
+        "mother",
+        "mom",
+        "mum",
+        "mama"
       ],
       "usageExamples": [
         [
@@ -109,66 +189,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È molto bello rivedervi.",
-          "It is very nice to see you again.",
+          "A Mary non piaceva sua madre.",
+          "Mary didn't like her mother.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "brava",
-      "translations": [
-        "brave",
-        "good",
-        "well done",
-        "excellent"
-      ],
-      "usageExamples": [
-        [
-          ". È molto brava a risolvere enigmi.",
-          "She's very good at solving puzzles.",
+          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+          "My mother advises me against sitting at my computer all day long.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom disse che era brava.",
-          "Tom said that you were good.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è una brava persona.",
-          "Tom is a good person.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "vero",
-      "translations": [
-        "true",
-        "indeed",
-        "in fact",
-        "certainly"
-      ],
-      "usageExamples": [
-        [
-          "È piuttosto avventurosa, vero?",
-          "She's pretty adventurous, isn't she?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vi manca molto, vero?",
-          "You miss her a lot, don't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non vinse, vero?",
-          "He didn't win, did he?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

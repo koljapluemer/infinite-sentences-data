@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
+  "sentence": "Tom kendisi için karar versin.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom said he didn't know who Mary was getting married to."
+    "Let Tom decide for himself."
   ],
   "parts": [
     {
@@ -16,13 +16,13 @@
       ],
       "usageExamples": [
         [
-          "Tom Mary'ye bekleyeceğini söyledi.",
-          "Tom told Mary he'd wait.",
+          "Tom bizi korkuttu.",
+          "Tom scared us.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom kötü bir golfçü.",
-          "Tom is a bad golfer.",
+          "Tom annemin erkek kardeşi.",
+          "Tom is my mother's brother.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
@@ -33,74 +33,48 @@
       ]
     },
     {
-      "content": "Mary",
+      "content": "kendisi",
       "translations": [
-        "Mary",
-        "Maria"
+        "himself",
+        "herself",
+        "itself"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "için",
+      "translations": [
+        "for",
+        "in order to",
+        "to",
+        "because of"
       ],
       "usageExamples": [
         [
-          "Tom Mary'ye bekleyeceğini söyledi.",
-          "Tom told Mary he'd wait.",
+          "En kötüsü için hazırlanıyorum.",
+          "I'm getting ready for the worst.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom, Mary'nin kim olduğunu merak etti.",
-          "Tom wondered who Mary was.",
-          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom, Mary'ye üç yüz dolar verdi.",
-          "Tom gave Mary three hundred dollars.",
+          "O benim için gerçekten eğlenceliydi.",
+          "That was really fun for me.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "kiminle",
-      "translations": [
-        "with whom",
-        "who with"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "evlendiğini",
-      "translations": [
-        "you got married",
-        "you are married"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bilmediğini",
-      "translations": [
-        "you don't know it",
-        "that you don't know",
-        "not knowing it",
-        "what you don't know"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "söyledi",
-      "translations": [
-        "he/she said",
-        "they said",
-        "said"
-      ],
-      "usageExamples": [
-        [
-          "Tom Mary'ye bekleyeceğini söyledi.",
-          "Tom told Mary he'd wait.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom bana aslında onu yapmak istemediğini söyledi.",
-          "Tom told me he didn't actually want to do that.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Her şey benim için yeniydi.",
+          "Everything was new to me.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "karar",
+      "translations": [
+        "decision",
+        "resolution",
+        "verdict"
+      ],
+      "usageExamples": []
     }
   ]
 }

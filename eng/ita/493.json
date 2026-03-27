@@ -1,79 +1,178 @@
 {
-  "sentence": "Layla dimenticò qualcosa.",
+  "sentence": "La temperatura minima di oggi era di 3 gradi Celsius.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Layla forgot something."
+    "Today's low was 3 degrees Celsius."
   ],
   "parts": [
     {
-      "content": "Layla",
+      "content": "La",
       "translations": [
-        "Night",
-        "Dark beauty",
-        "Nighttime"
+        "The",
+        "It",
+        "Her",
+        "Them"
       ],
       "usageExamples": [
         [
-          "A Layla piacevano i suoi capelli naturali.",
-          "Layla loved her natural hair.",
-          "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sami si prese cura del pappagallo di Layla.",
-          "Sami took care of Layla's parrot.",
+          "La dovete avvertire.",
+          "You've got to warn her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Layla piaceva la sua vita al Cairo.",
-          "Layla was enjoying her life in Cairo.",
+          "La potrebbe ferire.",
+          "He might hurt her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La ruppe.",
+          "He broke it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dimenticò",
+      "content": "temperatura",
       "translations": [
-        "forgot",
-        "he/she forgot",
-        "did forget",
-        "has forgotten"
+        "temperature",
+        "heat level",
+        "thermal condition",
+        "degree of warmth"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "minima",
+      "translations": [
+        "minimum",
+        "least amount",
+        "smallest",
+        "minimal"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Tom dimenticò la sua chiave.",
-          "Tom forgot his key.",
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "oggi",
+      "translations": [
+        "today",
+        "this day",
+        "on this day"
+      ],
+      "usageExamples": [
+        [
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il Museo del Prado è chiuso perché oggi è lunedì.",
+          "The Prado Museum is closed because today is Monday.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qualcosa",
+      "content": "era",
       "translations": [
-        "something",
-        "anything",
-        "a thing",
-        "a little something"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
       "usageExamples": [
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha perso qualcosa?",
-          "Have you lost something?",
+          "Chi era qua?",
+          "Who was here?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary ha detto che voleva comprare qualcosa di più economico.",
-          "Mary said she wanted to buy something cheaper.",
+          "Tom era creativo.",
+          "Tom was creative.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "3",
+      "translations": [
+        "Item: 3",
+        "Number: 3",
+        "Third item",
+        "3rd"
+      ],
+      "usageExamples": [
+        [
+          "3 moltiplicato per 5 fa 15.",
+          "3 multiplied by 5 is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "5 più 3 fa 8.",
+          "Add 5 to 3 and you have 8.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "3 per 5 fa 15.",
+          "3 multiplied by 5 is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gradi",
+      "translations": [
+        "degrees",
+        "gradients",
+        "grades"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Celsius",
+      "translations": [
+        "Centigrade",
+        "Degrees Celsius"
+      ],
+      "usageExamples": []
     }
   ]
 }

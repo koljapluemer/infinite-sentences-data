@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary manca suo marito.",
+  "sentence": "A Mary manca la sua scarpa destra.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary misses her husband."
+    "Mary is missing her right shoe."
   ],
   "parts": [
     {
@@ -17,8 +17,8 @@
       ],
       "usageExamples": [
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -27,9 +27,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Fadil piaceva scommettere.",
-          "Fadil liked to gamble.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -42,18 +42,18 @@
       ],
       "usageExamples": [
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary piacciono gli sport, vero?",
-          "Mary likes sports, doesn't she?",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom voleva sapere perché Mary non era felice.",
+          "Tom wanted to know why Mary was not happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -78,37 +78,71 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary manca sua figlia.",
-          "Mary misses her daughter.",
+          "A Mary manca la sua famiglia.",
+          "Mary misses her family.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suo",
+      "content": "la",
       "translations": [
-        "his",
-        "her",
-        "its",
-        "their"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "È fiera di suo padre?",
-          "Are you proud of your father?",
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha gridato contro il suo computer.",
-          "She yelled at her computer.",
+          "Prendi la mia.",
+          "Take mine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho scordato il suo nome.",
-          "I forgot your name.",
+          "Lui accese la radio.",
+          "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha passato la sua infanzia a Boston.",
+          "Tom spent his childhood in Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le dispute dei suoi genitori riecheggiavano nella sua mente, facendolo piangere disperatamente.",
+          "His parents' disputes echoed in his mind, making him cry helplessly.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "destra",
+      "translations": [
+        "right",
+        "right side"
+      ],
+      "usageExamples": []
     }
   ]
 }

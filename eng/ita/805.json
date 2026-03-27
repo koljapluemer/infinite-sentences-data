@@ -1,11 +1,11 @@
 {
-  "sentence": "Questo è un occhio.",
+  "sentence": "Questo cane è brutto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by VoiceLessQ (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This is an eye."
+    "This dog is ugly."
   ],
   "parts": [
     {
@@ -18,18 +18,43 @@
       ],
       "usageExamples": [
         [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Questo è un test?",
           "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
+          "Questo ristorante ha tre stelle Michelin.",
+          "This restaurant has three Michelin stars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cane",
+      "translations": [
+        "dog",
+        "walking stick",
+        "rod"
+      ],
+      "usageExamples": [
+        [
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo non ha sorpreso Yanni.",
-          "This didn't surprise Yanni.",
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, faccia un bagno al cane.",
+          "Please give the dog a bath.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -44,56 +69,37 @@
       ],
       "usageExamples": [
         [
-          "Forse è lui.",
-          "Maybe it's him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Il tempo è finito.",
           "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "brutto",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "ugly",
+        "bad",
+        "rough",
+        "disgusting"
       ],
       "usageExamples": [
         [
-          "Ho letto un fumetto.",
-          "I read a comic book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei un testimone.",
-          "You are a witness.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo è un test?",
-          "Is this a test?",
+          "Forse questo è un brutto momento.",
+          "Maybe this is a bad time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "occhio",
-      "translations": [
-        "eye",
-        "sight",
-        "look",
-        "attention"
-      ],
-      "usageExamples": []
     }
   ]
 }

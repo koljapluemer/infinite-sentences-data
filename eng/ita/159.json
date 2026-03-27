@@ -1,131 +1,172 @@
 {
-  "sentence": "Abita in una villa piuttosto grande.",
+  "sentence": "A te piace il tuo appartamento nuovo?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She lives in quite a big mansion."
+    "Do you like your new apartment?"
   ],
   "parts": [
     {
-      "content": "Abita",
+      "content": "A",
       "translations": [
-        "lives",
-        "resides",
-        "dwells",
-        "inhabits"
+        "Item: A",
+        "Article: A",
+        "Object: A"
+      ],
+      "usageExamples": [
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "te",
+      "translations": [
+        "you",
+        "yourself",
+        "to you",
+        "for you"
+      ],
+      "usageExamples": [
+        [
+          "C'è una chiamata per te. È Tom.",
+          "There's a call for you. It's Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voglio parlare con te da sola.",
+          "I want to speak to you alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Andrò in biblioteca con te domani.",
+          "I'll go to the library with you tomorrow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tuo",
+      "translations": [
+        "your",
+        "yours",
+        "of yours"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta contando sul tuo aiuto.",
+          "Tom is counting on your help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Riconosco il tuo contributo per tenere pulita la cucina.",
+          "I recognize your contribution to keeping the kitchen clean.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Com'è andato il tuo incontro con Tom?",
+          "How did your meeting with Tom go?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "appartamento",
+      "translations": [
+        "apartment",
+        "flat",
+        "unit",
+        "suite"
       ],
       "usageExamples": []
     },
     {
-      "content": "in",
+      "content": "nuovo",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "new",
+        "novel",
+        "fresh",
+        "recent"
       ],
       "usageExamples": [
         [
-          "Noi siamo in Finlandia.",
-          "We are in Finland.",
+          "Era un libro nuovo.",
+          "It was a new book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
+          "È un nuovo libro.",
+          "It's a new book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era in ritardo.",
-          "He was late.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
-      ],
-      "usageExamples": [
-        [
-          "Posso avere una birra?",
-          "Can I have a beer?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi terremo una festa.",
-          "We'll have a party.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono una buona persona.",
-          "I'm a good person.",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "villa",
-      "translations": [
-        "country house",
-        "large house",
-        "estate"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "piuttosto",
-      "translations": [
-        "rather",
-        "quite",
-        "fairly",
-        "instead"
-      ],
-      "usageExamples": [
-        [
-          "È piuttosto comodo.",
-          "It's quite comfortable.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Siete piuttosto timidi, vero?",
-          "You're quite shy, aren't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È piuttosto avventurosa, vero?",
-          "She's pretty adventurous, isn't she?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "grande",
-      "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
-      ],
-      "usageExamples": [
-        [
-          "Tu sei stato di grande aiuto per la nostra famiglia.",
-          "You've been a great help to our family.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho un fratello più grande.",
-          "I have an older brother.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "I miei genitori abitano in una casa grande.",
-          "My parents live in a big house.",
+          "A Mary non piace il suo nuovo lavoro.",
+          "Mary doesn't like her new job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

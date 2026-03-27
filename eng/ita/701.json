@@ -1,110 +1,64 @@
 {
-  "sentence": "OK, mi ricorderò di voi.",
+  "sentence": "Non volevo intromettermi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "OK, I'll remind you."
+    "I didn't want to intrude."
   ],
   "parts": [
     {
-      "content": "OK",
+      "content": "Non",
       "translations": [
-        "Okay.",
-        "All right.",
-        "Fine",
-        "Good."
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
+      ],
+      "usageExamples": [
+        [
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "volevo",
+      "translations": [
+        "I wanted",
+        "I wished",
+        "I was wanting",
+        "I used to want"
+      ],
+      "usageExamples": [
+        [
+          "Non volevo che Tom vedesse questo.",
+          "I didn't want Tom to see this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "intromettermi",
+      "translations": [
+        "to intervene",
+        "to intrude",
+        "to interject",
+        "to meddle"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "mi",
-      "translations": [
-        "me",
-        "myself",
-        "to me",
-        "for me"
-      ],
-      "usageExamples": [
-        [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom mi chiese se avevo fame.",
-          "Tom asked me whether I was hungry.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non mi sento abbastanza forte per dirglielo.",
-          "I don’t feel strong enough to tell him.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ricorderò",
-      "translations": [
-        "I will remember",
-        "I will recall",
-        "I will keep in mind",
-        "I will note"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
-      ],
-      "usageExamples": [
-        [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi importa di lei.",
-          "I care about her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "voi",
-      "translations": [
-        "you (plural)",
-        "you all",
-        "you guys",
-        "y'all"
-      ],
-      "usageExamples": [
-        [
-          "Non farei niente per Tom se fossi in voi.",
-          "I wouldn't do anything for Tom if I were you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "'Aspettate qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da voi immediatamente.'",
-          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Odio tornare da lui. Voglio vivere con voi.",
-          "I hate going back to him. I want to live with you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

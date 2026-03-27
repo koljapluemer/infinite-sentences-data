@@ -1,102 +1,53 @@
 {
-  "sentence": "Stavo per aiutare Tom.",
+  "sentence": "Stai facendo progressi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I was going to help Tom."
+    "You're making progress."
   ],
   "parts": [
     {
-      "content": "Stavo",
+      "content": "Stai",
       "translations": [
-        "I was",
-        "I used to be",
-        "I was being"
+        "You are",
+        "Stay.",
+        "Be",
+        "Remain"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "facendo",
+      "translations": [
+        "doing",
+        "making",
+        "performing",
+        "executing"
       ],
       "usageExamples": [
         [
-          "Stavo pensando di arruolarmi nell'esercito.",
-          "I was thinking about joining the army.",
+          "Mi sto facendo ricrescere la barba.",
+          "I'm growing a beard again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Faresti meglio ad andare. Si sta facendo tardi.",
+          "You'd better go. It's getting late.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "per",
+      "content": "progressi",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "progress",
+        "advancements",
+        "developments",
+        "improvements"
       ],
-      "usageExamples": [
-        [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mandatela per posta aerea.",
-          "Send it by airmail.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei speciale per me.",
-          "You're special to me.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "aiutare",
-      "translations": [
-        "to help",
-        "to assist",
-        "to aid",
-        "to support"
-      ],
-      "usageExamples": [
-        [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Li vada ad aiutare.",
-          "Go help them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu sei quello che ha chiesto a Tom di aiutare?",
-          "Are you the one who asked Tom to help?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
-      ],
-      "usageExamples": [
-        [
-          "Dovremmo avvertire Tom.",
-          "We should warn Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sembrava esitante.",
-          "Tom seemed hesitant.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom acconsentì con riluttanza.",
-          "Tom reluctantly agreed.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

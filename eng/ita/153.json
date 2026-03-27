@@ -1,11 +1,11 @@
 {
-  "sentence": "A te piace il tuo appartamento nuovo?",
+  "sentence": "A chi non piace quello?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you like your new apartment?"
+    "Who doesn't like that?"
   ],
   "parts": [
     {
@@ -17,44 +17,71 @@
       ],
       "usageExamples": [
         [
-          "A Fadil piaceva scommettere.",
-          "Fadil liked to gamble.",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Larry piace l'aragosta.",
-          "Larry likes lobster.",
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A quale proposito?",
-          "For what purpose?",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "te",
+      "content": "chi",
       "translations": [
-        "you",
-        "yourself",
-        "to you",
-        "for you"
+        "who",
+        "whom",
+        "which",
+        "that"
       ],
       "usageExamples": [
         [
-          "Io ho qualche idea per te.",
-          "I have a few ideas for you.",
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ],
+        [
+          "Con chi ci andrà?",
+          "Who are you going with?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È difficile per me dipendere da te.",
-          "It's hard for me to depend on you.",
+          "Con chi stava parlando Tom?",
+          "Who was Tom talking to?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non è alto come te.",
-          "Tom isn't tall like you.",
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -73,100 +100,39 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Judy piace lui.",
-          "Judy likes him.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "quello",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "that",
+        "the one",
+        "those",
+        "the"
       ],
       "usageExamples": [
         [
-          "Non conosco il sistema.",
-          "I don't know the system.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "A volte, un po' di orgoglio è quello che ci serve.",
+          "Sometimes, a little bit of pride is what we need.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tuo",
-      "translations": [
-        "your",
-        "yours",
-        "of yours"
-      ],
-      "usageExamples": [
-        [
-          "Riconosco il tuo contributo per tenere pulita la cucina.",
-          "I recognize your contribution to keeping the kitchen clean.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta contando sul tuo aiuto.",
-          "Tom is counting on your help.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono sicura che Tom amerà il tuo regalo.",
-          "I'm sure Tom will love your present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "appartamento",
-      "translations": [
-        "apartment",
-        "flat",
-        "unit",
-        "suite"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "nuovo",
-      "translations": [
-        "new",
-        "novel",
-        "fresh",
-        "recent"
-      ],
-      "usageExamples": [
-        [
-          "È un nuovo libro.",
-          "It's a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era un libro nuovo.",
-          "It was a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piace il suo nuovo lavoro.",
-          "Mary doesn't like her new job.",
+          "È quello che fanno le persone intelligenti.",
+          "That's what smart people do.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

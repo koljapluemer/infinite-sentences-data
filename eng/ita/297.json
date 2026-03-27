@@ -1,68 +1,110 @@
 {
-  "sentence": "Gli uomini amano vantarsi.",
+  "sentence": "Giusto, cominciamo il nostro lavoro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Gulliver (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Men love to brag."
+    "Right, let's start our work."
   ],
   "parts": [
     {
-      "content": "Gli",
+      "content": "Giusto",
+      "translations": [
+        "Right",
+        "Just",
+        "Fair",
+        "Correct."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "cominciamo",
+      "translations": [
+        "let's start",
+        "we begin",
+        "let's commence",
+        "we'll start"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
       "translations": [
         "the",
-        "them",
-        "those",
-        "the ones"
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Gli importava.",
-          "He cared.",
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli alberi saranno presto vuoti.",
-          "The trees will soon be bare.",
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
-          "The orphans were forced to work long hours without pay or food.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "uomini",
+      "content": "nostro",
       "translations": [
-        "men",
-        "people",
-        "humans",
-        "mankind"
+        "our",
+        "ours",
+        "of ours",
+        "belonging to us"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Se non ci sbrighiamo, perderemo il nostro treno.",
+          "If we don't hurry, we'll miss our train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutto il nostro cibo è andato a male.",
+          "All our food was spoiled.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "amano",
+      "content": "lavoro",
       "translations": [
-        "by hand",
-        "manually",
-        "handmade",
-        "handcrafted"
+        "work",
+        "job",
+        "labor",
+        "employment"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "vantarsi",
-      "translations": [
-        "to boast",
-        "to brag",
-        "to show off",
-        "to take pride in"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo nuovo lavoro.",
+          "Mary doesn't like her new job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché questo è il mio lavoro?",
+          "Why is this my job?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

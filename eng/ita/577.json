@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary è un membro di una gang, vero?",
+  "sentence": "Mary si è bruciata la mano.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is a gang member, isn't she?"
+    "Mary burned her hand."
   ],
   "parts": [
     {
@@ -27,9 +27,35 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary importa solo di se stessa.",
-          "Mary only cares about herself.",
+          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+          "Mary said she'd like to borrow a few books.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "si",
+      "translations": [
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -43,141 +69,80 @@
       ],
       "usageExamples": [
         [
-          "Tom è famoso.",
-          "Tom's famous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il tempo è finito.",
-          "Time is up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il libro è arrivato.",
-          "The book came.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
-      ],
-      "usageExamples": [
-        [
-          "Beviamo un'altra birra.",
-          "Let's drink another beer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Tom è un fan.",
           "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "membro",
+      "content": "bruciata",
       "translations": [
-        "member",
-        "part",
-        "component",
-        "participant"
+        "burnt",
+        "scorched",
+        "charred",
+        "singed"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "la",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Può fare di meglio.",
-          "You can do better.",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "mano",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "hand",
+        "palm",
+        "manual",
+        "handle"
       ],
       "usageExamples": [
         [
-          "Sono una buona persona.",
-          "I'm a good person.",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "È una maledizione.",
-          "It's a curse.",
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era una visione orrenda.",
-          "It was a horrible vision.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "gang",
-      "translations": [
-        "group",
-        "crew",
-        "clique",
-        "team"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "vero",
-      "translations": [
-        "true",
-        "indeed",
-        "in fact",
-        "certainly"
-      ],
-      "usageExamples": [
-        [
-          "È scoraggiata, vero?",
-          "She's discouraged, isn't she?",
+          "Io vorrei stringere la mano a Tom.",
+          "I'd like to shake Tom's hand.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta lavorando, vero?",
-          "Tom is working, isn't he?",
+          "Tom ha bisogno di una mano.",
+          "Tom needs a hand.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

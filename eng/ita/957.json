@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom non è alto come te.",
+  "sentence": "Tom non me l'ha restituita.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom isn't tall like you."
+    "Tom didn't give it back to me."
   ],
   "parts": [
     {
@@ -16,18 +16,18 @@
       ],
       "usageExamples": [
         [
-          "Tom vende funghi psichedelici.",
-          "Tom sells psychedelic mushrooms.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volete veramente votare Tom?",
-          "Do you really want to vote for Tom?",
+          "Tom è famoso.",
+          "Tom is famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -38,113 +38,87 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
-          "Perché non stai dormendo?",
-          "Why aren't you sleeping?",
+          "Però non funzionerà!",
+          "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non ha corso?",
-          "Why didn't you run?",
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "me",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "myself",
+        "to me",
+        "for me"
       ],
       "usageExamples": [
         [
-          "Il libro è arrivato.",
-          "The book came.",
+          "Sei speciale per me.",
+          "You're special to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
+          "A me piacciono i tulipani.",
+          "I like tulips.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La matematica è divertente.",
-          "Math is fun.",
-          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+          "A me non importa di lei.",
+          "I don't care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "alto",
+      "content": "l'ha",
       "translations": [
-        "high",
-        "tall",
-        "loud",
-        "elevated"
+        "he has it",
+        "she has it",
+        "it has",
+        "he's got it"
+      ],
+      "usageExamples": [
+        [
+          "Lei l'ha colpito con un martello.",
+          "She hit him with a hammer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non l'ha mostrato a Mary.",
+          "Tom didn't show that to Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom l'ha fatta per voi.",
+          "Tom did it for you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "restituita",
+      "translations": [
+        "returned",
+        "restored",
+        "reinstated",
+        "recovered"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "come",
-      "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
-      ],
-      "usageExamples": [
-        [
-          "Sa come raggiungerla?",
-          "Do you know how to reach her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sa come si sente Mary a riguardo.",
-          "Tom knows how Mary feels about that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Nessuno qua balla bene come te.",
-          "Nobody here dances as well as you.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "te",
-      "translations": [
-        "you",
-        "yourself",
-        "to you",
-        "for you"
-      ],
-      "usageExamples": [
-        [
-          "Perché te ne stai andando?",
-          "Why are you leaving?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io ho qualche idea per te.",
-          "I have a few ideas for you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "'Aspetta qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da te immediatamente.'",
-          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

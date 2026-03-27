@@ -1,11 +1,12 @@
 {
-  "sentence": "Non sembrate imbarazzate.",
+  "sentence": "Non sa che sono giapponese.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You don't look embarrassed."
+    "He doesn't know that I'm Japanese.",
+    "She doesn't know that I'm Japanese."
   ],
   "parts": [
     {
@@ -18,41 +19,115 @@
       ],
       "usageExamples": [
         [
-          "Non vengono.",
-          "They're not coming.",
+          "Non dormite mai?",
+          "Don't you ever sleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non volevo intromettermi.",
-          "I didn't want to intrude.",
+          "Non voglio guardarlo.",
+          "I don't want to look at him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non doveva aiutarla.",
-          "He didn't have to help her.",
+          "Non sia mai gelosa.",
+          "Never be jealous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sembrate",
+      "content": "sa",
       "translations": [
-        "you seem",
-        "you appear",
-        "you look",
-        "you are like"
+        "if",
+        "whether",
+        "that",
+        "as"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom sa come si sente Mary a riguardo.",
+          "Tom knows how Mary feels about that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami sa dove abita Layla.",
+          "Sami knows where Layla lives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "imbarazzate",
+      "content": "che",
       "translations": [
-        "embarrassed",
-        "awkward",
-        "self-conscious",
-        "uncomfortable"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
+      ],
+      "usageExamples": [
+        [
+          "Si sono sposati.",
+          "They got married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "giapponese",
+      "translations": [
+        "Japanese",
+        "of Japan",
+        "Japanese language",
+        "Japanese person"
+      ],
+      "usageExamples": [
+        [
+          "Il cibo giapponese le mancherà negli Stati Uniti.",
+          "You will miss Japanese food in the United States.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

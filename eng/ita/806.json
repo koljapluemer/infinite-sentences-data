@@ -1,11 +1,11 @@
 {
-  "sentence": "Questo è un test?",
+  "sentence": "Questo messaggio non ha senso.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by iltrex (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Is this a test?"
+    "This message doesn't make sense."
   ],
   "parts": [
     {
@@ -18,87 +18,99 @@
       ],
       "usageExamples": [
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Questo è un occhio.",
           "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo articolo ridicolizza i vegetariani.",
-          "This article makes fun of vegetarians.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "messaggio",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "message",
+        "note",
+        "communication",
+        "notification"
       ],
       "usageExamples": [
         [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "La matematica è divertente.",
-          "Math is fun.",
-          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
-      ],
-      "usageExamples": [
-        [
-          "È un ghostwriter.",
-          "He's a ghostwriter.",
+          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
+          "Tom received an urgent message to call his wife.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
         [
-          "Ti compro un regalo.",
-          "I buy you a present.",
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Chiamate un'ambulanza!",
-          "Call an ambulance!",
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "test",
+      "content": "ha",
       "translations": [
-        "exam",
-        "assessment",
-        "evaluation"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "È ancora in fase di test.",
-          "It's still being tested.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "senso",
+      "translations": [
+        "sense",
+        "meaning",
+        "feeling",
+        "perception"
+      ],
+      "usageExamples": []
     }
   ]
 }

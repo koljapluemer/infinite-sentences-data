@@ -1,41 +1,63 @@
 {
-  "sentence": "Esprimi costantemente disaccordo con i miei suggerimenti.",
+  "sentence": "Era sposato con lei.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You consistently express disagreement with my suggestions."
+    "He used to be married to her."
   ],
   "parts": [
     {
-      "content": "Esprimi",
+      "content": "Era",
       "translations": [
-        "Express",
-        "Articulate",
-        "Convey",
-        "State"
+        "Period",
+        "Age",
+        "Epoch"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era eccellente.",
+          "That was excellent.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "costantemente",
+      "content": "sposato",
       "translations": [
-        "constantly",
-        "continuously",
-        "steadily",
-        "perpetually"
+        "married",
+        "spouse",
+        "wedded",
+        "in a marital relationship"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "disaccordo",
-      "translations": [
-        "disagreement",
-        "dissonance",
-        "conflict",
-        "discord"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sono ancora sposato con Tom.",
+          "I'm still married to Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non è sposato con Tom?",
+          "Aren't you married to Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sappiamo nemmeno con chi si è sposato Tom.",
+          "We don't even know who Tom got married to.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "con",
@@ -47,13 +69,13 @@
       ],
       "usageExamples": [
         [
-          "Sono fidanzata con lei.",
-          "I am engaged to her.",
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Parlo frequentemente con lui.",
-          "I frequently talk to him.",
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -64,65 +86,29 @@
       ]
     },
     {
-      "content": "i",
+      "content": "lei",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "she",
+        "you (formal)",
+        "her"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non accarezzo i vostri cani.",
-          "I don't pet your dogs.",
+          "Lo mostreremo a lei.",
+          "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io odio i pesci rossi.",
-          "I hate goldfish.",
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "miei",
-      "translations": [
-        "my",
-        "mine",
-        "of mine"
-      ],
-      "usageExamples": [
-        [
-          "Ai miei genitori non piace il mio ragazzo.",
-          "My parents don't like my boyfriend.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io amo i miei genitori.",
-          "I love my parents.",
-          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
-        ],
-        [
-          "I miei genitori abitano in una casa grande.",
-          "My parents live in a big house.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "suggerimenti",
-      "translations": [
-        "suggestions",
-        "tips",
-        "recommendations",
-        "advice"
-      ],
-      "usageExamples": []
     }
   ]
 }

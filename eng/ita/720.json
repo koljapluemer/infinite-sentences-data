@@ -1,11 +1,12 @@
 {
-  "sentence": "Penso che parlerò con lui.",
+  "sentence": "Penso che Tom abbia il vostro ombrello.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I think I'll talk to him."
+    "I think Tom has your umbrella.",
+    "I think that Tom has your umbrella."
   ],
   "parts": [
     {
@@ -28,8 +29,8 @@
       ],
       "usageExamples": [
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -38,72 +39,112 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "parlerò",
+      "content": "Tom",
       "translations": [
-        "I will speak",
-        "I will talk",
-        "I will chat",
-        "I will converse"
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom è famoso.",
+          "Tom is famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "abbia",
+      "translations": [
+        "he/she/it has",
+        "you have (formal)",
+        "may have",
+        "let him/her/it have"
+      ],
+      "usageExamples": [
+        [
+          "È buono che il cavallo non abbia sofferto.",
+          "It's good that the horse didn't suffer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vostro",
+      "translations": [
+        "your",
+        "yours",
+        "your own"
+      ],
+      "usageExamples": [
+        [
+          "A proposito di musica classica, qual è il vostro compositore preferito?",
+          "Talking of classical music, who is your favorite composer?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso chiedere il vostro nome?",
+          "May I ask your name?",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché odiate così tanto il vostro paese?",
+          "Why do you hate your country so much?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ombrello",
+      "translations": [
+        "umbrella",
+        "parasol",
+        "sunshade",
+        "rainshade"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
-      ],
-      "usageExamples": [
-        [
-          "Parlo frequentemente con lui.",
-          "I frequently talk to him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono fidanzata con lei.",
-          "I am engaged to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "lui",
-      "translations": [
-        "he",
-        "him",
-        "his"
-      ],
-      "usageExamples": [
-        [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Judy piace lui.",
-          "Judy likes him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Forse è lui.",
-          "Maybe it's him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

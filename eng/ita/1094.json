@@ -1,11 +1,12 @@
 {
-  "sentence": "È un ghostwriter.",
+  "sentence": "È sempre in orario, vero?",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by U2FS (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He's a ghostwriter."
+    "He's always on time, isn't he?",
+    "She's always on time, isn't she?"
   ],
   "parts": [
     {
@@ -18,55 +19,114 @@
       ],
       "usageExamples": [
         [
-          "È un portiere.",
-          "He's a goal keeper.",
+          "È così sciocco.",
+          "That's so silly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È uscito dalla cucina.",
-          "He got out of the kitchen.",
+          "È stato scaricato.",
+          "He was dumped.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+        [
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sempre",
+      "translations": [
+        "always",
+        "forever",
+        "at all times",
+        "constantly"
+      ],
+      "usageExamples": [
+        [
+          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
+          "Come to Albania, where we always make good coffee.",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mio nonno si siede sempre su questa sedia.",
+          "My grandfather always sits in this chair.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché Tom è sempre così occupato?",
+          "Why is Tom always so busy?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "orario",
+      "translations": [
+        "schedule",
+        "timetable",
+        "itinerary",
+        "agenda"
+      ],
+      "usageExamples": [
+        [
+          "L'autobus non arriva sempre in orario.",
+          "The bus doesn't always come on time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
         [
           "È organizzando, vero?",
           "She's organized, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
-      ],
-      "usageExamples": [
+        ],
         [
-          "È un portiere.",
-          "He's a goal keeper.",
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un occhio.",
-          "This is an eye.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono un tipo solitario.",
-          "I'm a loner.",
+          "Non vinse, vero?",
+          "He didn't win, did he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "ghostwriter",
-      "translations": [
-        "a writer for hire",
-        "a freelance writer",
-        "a professional writer"
-      ],
-      "usageExamples": []
     }
   ]
 }

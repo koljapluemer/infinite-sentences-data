@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non piaceva il suo impiego.",
+  "sentence": "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary didn't enjoy her job."
+    "Mary doesn't like it when Tom leaves his dirty clothes on the floor."
   ],
   "parts": [
     {
@@ -17,19 +17,19 @@
       ],
       "usageExamples": [
         [
-          "A Fadil piaceva scommettere.",
-          "Fadil liked to gamble.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A quale proposito?",
-          "For what purpose?",
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -52,8 +52,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha detto a Mary che sarebbe stato libero domani.",
-          "Tom told Mary that he'd be free tomorrow.",
+          "A Mary mancano i suoi genitori.",
+          "Mary misses her parents.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -64,101 +64,224 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
-        [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Preferirei non farlo.",
-          "I'd rather not do it.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
         [
           "Perché non stai dormendo?",
           "Why aren't you asleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "piace",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
       "usageExamples": [
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
+          "A Judy piace lui.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suo",
+      "content": "quando",
+      "translations": [
+        "when",
+        "at what time",
+        "whenever",
+        "as soon as"
+      ],
+      "usageExamples": [
+        [
+          "L'ho usata quando ero in Cina la scorsa estate.",
+          "I used it when I was in China last summer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È difficile restare calmi quando le scadenze vengono ignorate.",
+          "It's hard to stay calm when deadlines are ignored.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Come ti sei sentita quando è successo?",
+          "How did you feel when that happened?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra impegnato.",
+          "Tom seems busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
+          "The train is taking off and we haven't bought our tickets!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri ama i gatti siamesi.",
+          "Ziri loves Siamese cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suoi",
       "translations": [
         "his",
         "her",
-        "its",
-        "their"
+        "its"
       ],
       "usageExamples": [
         [
-          "Ha gridato contro il suo computer.",
-          "She yelled at her computer.",
+          "I suoi figli sono nel giardino.",
+          "Her sons are in the garden.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Benedito è piaciuto il suo viaggio in India.",
-          "Benedito enjoyed his trip to India.",
+          "A Mary mancano suo marito e i suoi figli.",
+          "Mary misses her husband and children.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary mancava suo figlio.",
-          "Mary missed her son.",
+          "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
+          "He threw his dirty, smelly socks on the floor.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vestiti",
+      "translations": [
+        "clothes",
+        "clothing",
+        "garments",
+        "apparel"
+      ],
+      "usageExamples": [
+        [
+          "Tu hai dei vestiti per bambini?",
+          "Do you have children's clothes?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "impiego",
+      "content": "sporchi",
       "translations": [
-        "employment",
-        "use",
-        "application",
-        "job"
+        "dirty",
+        "filthy",
+        "soiled",
+        "unclean"
       ],
       "usageExamples": [
         [
-          "A Mary non piace il suo impiego.",
-          "Mary doesn't like her job.",
+          "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
+          "He threw his dirty, smelly socks on the floor.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sul",
+      "translations": [
+        "on",
+        "upon",
+        "over",
+        "above"
+      ],
+      "usageExamples": [
+        [
+          "Io amo il suono della pioggia sul tetto.",
+          "I love the sound of rain on the roof.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui colse l'occasione di ottenere un impiego.",
-          "He grabbed the chance to get a job.",
+          "A Ken piace sul serio Tom.",
+          "Ken does like Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary non piace il suo nuovo impiego.",
-          "Mary doesn't like her new job.",
+          "Tom sta contando sul tuo aiuto.",
+          "Tom is counting on your help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pavimento",
+      "translations": [
+        "floor",
+        "pavement",
+        "ground",
+        "surface"
+      ],
+      "usageExamples": [
+        [
+          "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
+          "He threw his dirty, smelly socks on the floor.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,11 +1,12 @@
 {
-  "sentence": "Ha ricevuto il mio regalo?",
+  "sentence": "Ha gridato contro il suo computer.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you get my gift?"
+    "He yelled at his computer.",
+    "She yelled at her computer."
   ],
   "parts": [
     {
@@ -23,25 +24,46 @@
         ],
         [
           "Ha perso qualcosa?",
-          "Have you lost something?",
+          "Did you lose something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha a malapena toccato la sua cena.",
-          "He barely touched his dinner.",
+          "Ha mai visto uno di questi?",
+          "Have you ever seen one of these?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ricevuto",
+      "content": "gridato",
       "translations": [
-        "received",
-        "got",
-        "obtained",
-        "acquired"
+        "screamed",
+        "shouted",
+        "yelled",
+        "cried out"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "contro",
+      "translations": [
+        "against",
+        "opposed to",
+        "in contrast to",
+        "counter"
+      ],
+      "usageExamples": [
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era una corsa contro il tempo.",
+          "It was a race against time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "il",
@@ -53,71 +75,70 @@
       ],
       "usageExamples": [
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "suo",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "his",
+        "her",
+        "its",
+        "their"
       ],
       "usageExamples": [
         [
-          "È mio nemico.",
-          "He is my enemy.",
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui abita al piano sopra al mio.",
-          "He lives on the floor above mine.",
+          "Ho scordato il suo nome.",
+          "I have forgotten your name.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È mio cugino da parte di padre.",
-          "He is my cousin on the father's side.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+          "A Marika è piaciuto il suo viaggio in Giappone?",
+          "Did Marika like her trip to Japan?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "regalo",
+      "content": "computer",
       "translations": [
-        "gift",
-        "present",
-        "offering",
-        "donation"
+        "PC",
+        "computing device",
+        "laptop"
       ],
       "usageExamples": [
         [
-          "Ti compro un regalo.",
-          "I buy you a present.",
+          "I personal computer sono molto utili.",
+          "Personal computers are very useful.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Inoue non piacciono i computer.",
+          "Inoue doesn't like computers.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Per ringraziarti, ecco un regalo.",
-          "To thank you, here is a gift.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono sicura che Tom amerà il tuo regalo.",
-          "I'm sure Tom will love your present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+          "My mother advises me against sitting at my computer all day long.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     }

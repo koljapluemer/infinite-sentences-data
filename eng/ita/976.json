@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom sta lavorando, vero?",
+  "sentence": "Tom si è lamentato del rumore eccessivo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is working, isn't he?"
+    "Tom complained about the excessive noise."
   ],
   "parts": [
     {
@@ -16,83 +16,129 @@
       ],
       "usageExamples": [
         [
-          "Volete veramente votare Tom?",
-          "Do you really want to vote for Tom?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Mi descriva Tom.",
           "Describe Tom to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sta",
+      "content": "si",
       "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
       ],
       "usageExamples": [
         [
-          "Tom sta cenando adesso.",
-          "Tom is having dinner right now.",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li sta confondendo.",
-          "You're confusing them.",
+          "Tom si è divertito.",
+          "Tom had some fun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Qualcuno sta osservando Tom.",
-          "Someone is watching Tom.",
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lavorando",
+      "content": "lamentato",
       "translations": [
-        "working",
-        "doing work",
-        "engaged in work",
-        "in the process of working"
+        "lamented",
+        "mourned",
+        "grieved over",
+        "expressed sorrow for"
       ],
       "usageExamples": []
     },
     {
-      "content": "vero",
+      "content": "del",
       "translations": [
-        "true",
-        "indeed",
-        "in fact",
-        "certainly"
+        "of the",
+        "from the",
+        "about the",
+        "by the"
       ],
       "usageExamples": [
         [
-          "Siete piuttosto timidi, vero?",
-          "You're quite shy, aren't you?",
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È scoraggiata, vero?",
-          "She's discouraged, isn't she?",
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È organizzando, vero?",
-          "She's organized, isn't she?",
+          "Io ho preparato dello spezzatino.",
+          "I've made stew.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "rumore",
+      "translations": [
+        "noise",
+        "sound",
+        "rumor",
+        "commotion"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "eccessivo",
+      "translations": [
+        "excessive",
+        "overly",
+        "too much",
+        "exorbitant"
+      ],
+      "usageExamples": []
     }
   ]
 }

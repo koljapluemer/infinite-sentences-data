@@ -1,97 +1,60 @@
 {
-  "sentence": "Sono ancora sposato con Tom.",
+  "sentence": "So che Tom vi ha ferite.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm still married to Tom."
+    "I know that Tom hurt you."
   ],
   "parts": [
     {
-      "content": "Sono",
+      "content": "So",
       "translations": [
-        "I am.",
-        "I exist.",
-        "I am here.",
-        "I am present"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ancora",
-      "translations": [
-        "anchor",
-        "still",
-        "yet",
-        "also"
+        "Therefore",
+        "Thus",
+        "In that case"
       ],
       "usageExamples": [
         [
-          "Non siamo ancora molto affamati.",
-          "We aren't very hungry yet.",
+          "So che Tom e Mary devono andare a Boston.",
+          "I know Tom and Mary have to go to Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
-          "The train is taking off and we haven't bought our tickets!",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ],
         [
           "So che sei ancora arrabbiata con me.",
           "I know you're still mad at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sposato",
-      "translations": [
-        "married",
-        "spouse",
-        "wedded",
-        "in a marital relationship"
-      ],
-      "usageExamples": [
-        [
-          "Era sposato con lei.",
-          "He used to be married to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non è sposato con Tom?",
-          "Aren't you married to Tom?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non sappiamo nemmeno con chi si è sposato Tom.",
-          "We don't even know who Tom got married to.",
+          "So che hai un problema.",
+          "I know you have a problem.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "con",
+      "content": "che",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Siate pazienti con noi.",
-          "Be patient with us.",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era sposato con lei.",
-          "He used to be married to her.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -104,21 +67,82 @@
       ],
       "usageExamples": [
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non lasciate guidare Tom.",
-          "Don't let Tom drive.",
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "vi",
+      "translations": [
+        "way",
+        "road",
+        "path",
+        "route"
+      ],
+      "usageExamples": [
+        [
+          "Nessuno vi sostituirà.",
+          "Nobody will ever replace you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché vi state fermando adesso?",
+          "Why are you stopping now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'ha salvata.",
+          "He rescued her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ferite",
+      "translations": [
+        "wounds",
+        "injuries",
+        "cuts",
+        "bruises"
+      ],
+      "usageExamples": []
     }
   ]
 }

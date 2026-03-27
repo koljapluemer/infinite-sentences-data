@@ -1,95 +1,80 @@
 {
-  "sentence": "Siamo tutte delle codarde.",
+  "sentence": "Si sono sposati.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We're all cowards."
+    "They got married."
   ],
   "parts": [
     {
-      "content": "siamo",
+      "content": "Si",
       "translations": [
-        "we are",
-        "let's be",
-        "we're",
-        "we exist"
+        "If",
+        "Whether",
+        "In case",
+        "Provided that"
+      ],
+      "usageExamples": [
+        [
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si ruppe entrambe le braccia.",
+          "She broke both of her arms.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
+      ],
+      "usageExamples": [
+        [
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sposati",
+      "translations": [
+        "married",
+        "to be married",
+        "get married",
+        "marry"
       ],
       "usageExamples": [
         [
           "Non siamo sposati.",
-          "We aren't married.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi siamo in Finlandia.",
-          "We are in Finland.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io e Tom non siamo così.",
-          "Tom and I aren't like that.",
+          "We're not married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "tutte",
-      "translations": [
-        "all",
-        "everyone",
-        "everything",
-        "everybody"
-      ],
-      "usageExamples": [
-        [
-          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
-          "Tom should've closed all his windows.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non capisco perché non tutte le ragazze sono lesbiche.",
-          "I don't get why girls aren't all lesbians.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "delle",
-      "translations": [
-        "of the",
-        "some",
-        "of them",
-        "from the"
-      ],
-      "usageExamples": [
-        [
-          "Più della metà delle persone condannate dai tribunali è innocente.",
-          "More than half of the people convicted by the courts are innocent.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "È la stagione delle piogge in Giappone in questo momento.",
-          "It's the rainy season in Japan right now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hanno delle famiglie da sfamare.",
-          "They have families to feed.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "codarde",
-      "translations": [
-        "coward",
-        "chicken",
-        "scaredy-cat",
-        "timid person"
-      ],
-      "usageExamples": []
     }
   ]
 }

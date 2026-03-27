@@ -1,11 +1,12 @@
 {
-  "sentence": "Tom vende funghi psichedelici.",
+  "sentence": "Tom sta cenando adesso.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom sells psychedelic mushrooms."
+    "Tom is eating dinner right now.",
+    "Tom is having dinner right now."
   ],
   "parts": [
     {
@@ -16,50 +17,83 @@
       ],
       "usageExamples": [
         [
-          "Io appoggiavo Tom.",
-          "I used to support Tom.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è famoso.",
-          "Tom's famous.",
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vende",
+      "content": "sta",
       "translations": [
-        "sell",
-        "to sell",
-        "selling"
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta gemendo.",
+          "Tom is whining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li sta confondendo.",
+          "You're confusing them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cenando",
+      "translations": [
+        "dining",
+        "having dinner",
+        "eating dinner",
+        "during dinner"
       ],
       "usageExamples": []
     },
     {
-      "content": "funghi",
+      "content": "adesso",
       "translations": [
-        "mushrooms",
-        "fungi",
-        "mushroom",
-        "fungus"
+        "now",
+        "right now",
+        "at this moment",
+        "currently"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "psichedelici",
-      "translations": [
-        "psychedelics",
-        "psychedelic substances",
-        "psychedelic drugs",
-        "hallucinogens"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sto cucinando adesso.",
+          "I am cooking now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

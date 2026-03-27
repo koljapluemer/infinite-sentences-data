@@ -1,11 +1,11 @@
 {
-  "sentence": "Lui sembra un delinquente.",
+  "sentence": "Lui colse l'occasione di ottenere un impiego.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He looks like a gangster."
+    "He grabbed the chance to get a job."
   ],
   "parts": [
     {
@@ -28,37 +28,67 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui è una vecchia volpe.",
-          "He is a sly old dog.",
+          "Lui sembra un delinquente.",
+          "He looks like a gangster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sembra",
+      "content": "colse",
       "translations": [
-        "it seems",
-        "it appears",
-        "it looks like",
-        "seems to be"
+        "close",
+        "shut",
+        "near",
+        "shut down"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "l'occasione",
+      "translations": [
+        "the opportunity",
+        "the occasion",
+        "the chance",
+        "the event"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Tom sembra impegnato.",
-          "Tom seems busy.",
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra grassa.",
-          "You look fat.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sembra compiaciuto.",
-          "Tom looks pleased.",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "ottenere",
+      "translations": [
+        "to obtain",
+        "to get",
+        "to achieve",
+        "to acquire"
+      ],
+      "usageExamples": []
     },
     {
       "content": "un",
@@ -69,31 +99,47 @@
       ],
       "usageExamples": [
         [
-          "Era un libro nuovo.",
-          "It was a new book.",
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "delinquente",
+      "content": "impiego",
       "translations": [
-        "delinquent",
-        "offender",
-        "criminal",
-        "lawbreaker"
+        "employment",
+        "use",
+        "application",
+        "job"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Mary non piace il suo nuovo impiego.",
+          "Mary doesn't like her new job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo impiego.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo impiego.",
+          "Mary didn't enjoy her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

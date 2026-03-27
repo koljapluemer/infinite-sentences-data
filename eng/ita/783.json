@@ -1,87 +1,96 @@
 {
-  "sentence": "Quanti ne hai?",
+  "sentence": "Quant'è profondo il tuo amore?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How many do you have?"
+    "How deep is your love?"
   ],
   "parts": [
     {
-      "content": "Quanti",
+      "content": "Quant'è",
       "translations": [
-        "How much?",
-        "How many?",
-        "What is the price?",
+        "How much is it?",
+        "What's the price?",
+        "How much does it cost?",
         "What is the cost?"
       ],
+      "usageExamples": []
+    },
+    {
+      "content": "profondo",
+      "translations": [
+        "deep",
+        "profound",
+        "intense",
+        "significant"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
       "usageExamples": [
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni aveva nella prima foto?",
-          "How old was she in the first photo?",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ne",
+      "content": "tuo",
       "translations": [
-        "not",
-        "no",
-        "neither",
-        "nor"
+        "your",
+        "yours",
+        "of yours"
       ],
       "usageExamples": [
         [
-          "Io ne ho pagata una.",
-          "I paid one.",
+          "Riconosco il tuo contributo per tenere pulita la cucina.",
+          "I recognize your contribution to keeping the kitchen clean.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "A te piace il tuo appartamento nuovo?",
+          "Do you like your new apartment?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei se ne vuole andare domani?",
-          "Do you want to leave tomorrow?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non vogliamo che se ne vada.",
-          "We don't want him to leave.",
+          "Tom sta contando sul tuo aiuto.",
+          "Tom is counting on your help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hai",
+      "content": "amore",
       "translations": [
-        "you have",
-        "you've got",
-        "you possess",
-        "you own"
+        "love",
+        "affection",
+        "romance",
+        "passion"
       ],
       "usageExamples": [
         [
-          "Perché li hai attaccati?",
-          "Why did you attack them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non hai coscienza!",
-          "You have no conscience!",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
+          "Only my best friend would understand my love for minions.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

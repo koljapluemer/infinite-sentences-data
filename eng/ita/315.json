@@ -1,118 +1,106 @@
 {
-  "sentence": "Hai finito i tuoi compiti?",
+  "sentence": "Ha perso la partita.",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Conjuice (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Jesse (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you done with your homework?"
+    "He lost the game.",
+    "She lost the game.",
+    "You lost the game."
   ],
   "parts": [
     {
-      "content": "Hai",
+      "content": "Ha",
       "translations": [
-        "Yes.",
-        "Yeah",
-        "Yep.",
-        "Affirmative"
+        "He has",
+        "There is",
+        "It has"
+      ],
+      "usageExamples": [
+        [
+          "Ha perso qualcosa?",
+          "Did you lose something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha commesso un crimine dopo l'altro.",
+          "He committed one crime after another.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha a malapena toccato la sua cena.",
+          "He barely touched his dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "perso",
+      "translations": [
+        "lost",
+        "missing",
+        "absent",
+        "gone"
+      ],
+      "usageExamples": [
+        [
+          "Ha perso qualcosa?",
+          "Did you lose something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Alla fine ha perso la pazienza.",
+          "Finally, he lost his temper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "partita",
+      "translations": [
+        "match",
+        "game",
+        "part",
+        "session"
       ],
       "usageExamples": [
         [
           "Hai guardato la partita?",
           "Did you watch the game?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai bisogno di una tastiera nuova?",
-          "Do you need a new keyboard?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai già visto il campus?",
-          "Have you seen the campus yet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "finito",
-      "translations": [
-        "finished",
-        "done",
-        "completed",
-        "over"
-      ],
-      "usageExamples": [
-        [
-          "Il tempo è finito.",
-          "Time is up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha già finito?",
-          "Have you already finished?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
-      ],
-      "usageExamples": [
-        [
-          "Conosce i cavalli.",
-          "He knows horses.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary mancano i suoi genitori.",
-          "Mary misses her parents.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Dan non sono piaciuti i commenti di Linda.",
-          "Dan didn't like Linda's comments.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tuoi",
-      "translations": [
-        "your",
-        "yours",
-        "of yours"
-      ],
-      "usageExamples": [
-        [
-          "Prendi in prestito le biro dai tuoi amici.",
-          "You borrow pens from your friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quali sono i tuoi piani?",
-          "What're your plans?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "compiti",
-      "translations": [
-        "homework",
-        "assignments",
-        "tasks",
-        "schoolwork"
-      ],
-      "usageExamples": [
-        [
-          "Io sospetto che Tom non faccia i compiti da solo.",
-          "I suspect that Tom doesn't do his homework by himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

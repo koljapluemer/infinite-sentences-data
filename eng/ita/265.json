@@ -1,101 +1,115 @@
 {
-  "sentence": "Ehi, Tom, dimentica le tue paure.",
+  "sentence": "Dovrebbe chiamare a casa adesso.",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hey, Tom, forget about your worries."
+    "You should call home now."
   ],
   "parts": [
     {
-      "content": "Ehi",
+      "content": "Dovrebbe",
       "translations": [
-        "Hey.",
-        "Hello.",
-        "Hi.",
-        "Yo"
+        "should",
+        "ought to",
+        "is supposed to",
+        "is to"
       ],
       "usageExamples": []
     },
     {
-      "content": "Tom",
+      "content": "chiamare",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "to call",
+        "to name",
+        "to invoke",
+        "to summon"
       ],
       "usageExamples": [
         [
-          "Non lasciate guidare Tom.",
-          "Don't let Tom drive.",
+          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
+          "Tom received an urgent message to call his wife.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembra impegnato.",
-          "Tom looks busy.",
+          "Lo mostreremo a lei.",
+          "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "Volate fino a Londra.",
+          "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dimentica",
+      "content": "casa",
       "translations": [
-        "forget",
-        "overlook",
-        "neglect",
-        "dismiss"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "le",
-      "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
+        "house",
+        "home",
+        "dwelling",
+        "residence"
       ],
       "usageExamples": [
         [
-          "Non le può licenziare.",
-          "You can't fire them.",
+          "Dov'è la sua casa?",
+          "Where's his home?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "I miei genitori abitano in una casa grande.",
+          "My parents live in a big house.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non le vogliamo là.",
-          "We don't want them there.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
-          "Tom should've closed all his windows.",
+          "Lo devo fare prima di potere andare a casa oggi.",
+          "I have to do that before I can go home today.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tue",
+      "content": "adesso",
       "translations": [
-        "your",
-        "yours",
-        "of you"
+        "now",
+        "right now",
+        "at this moment",
+        "currently"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "paure",
-      "translations": [
-        "fear",
-        "scare",
-        "anxiety",
-        "dread"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sto cucinando adesso.",
+          "I am cooking now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

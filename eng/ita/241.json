@@ -1,67 +1,183 @@
 {
-  "sentence": "Devo studiare stasera.",
+  "sentence": "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have to study tonight."
+    "\"Where's your girlfriend from?\" \"She's Russian.\""
   ],
   "parts": [
     {
-      "content": "Devo",
+      "content": "Da",
       "translations": [
-        "I must.",
-        "I have to.",
-        "I need to",
-        "I ought to"
+        "From",
+        "By",
+        "Since",
+        "Of"
       ],
       "usageExamples": [
         [
-          "Devo andare a trovarli.",
-          "I must go and find them.",
+          "Da un anno io e lui ci scambiamo sguardi.",
+          "He and I have been exchanging looks for the past year.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dove",
+      "translations": [
+        "where",
+        "wherever",
+        "whither",
+        "to what place"
+      ],
+      "usageExamples": [
+        [
+          "Sami sa dove abita Layla.",
+          "Sami knows where Layla lives.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Devo aspettarli qua.",
-          "I have to wait here for them.",
+          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
+          "Come to Albania, where we always make good coffee.",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "studiare",
+      "content": "viene",
       "translations": [
-        "to study",
-        "to learn",
-        "to examine",
-        "to review"
+        "comes",
+        "arrives",
+        "is coming",
+        "is happening"
       ],
       "usageExamples": [
         [
-          "Voglio studiare matematica.",
-          "I want to study math.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
         ],
         [
-          "Andò in Italia a studiare la musica.",
-          "He went to Italy to study music.",
+          "Arrostisca il bhakri mentre la pentola viene riscaldata.",
+          "Roast the bhakri while the pan is heated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho intenzione questo pomeriggio di studiare inglese.",
-          "I'm going to study English this afternoon.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stasera",
+      "content": "la",
       "translations": [
-        "tonight",
-        "this evening"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apri la cassaforte.",
+          "Open the safe.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tua",
+      "translations": [
+        "your",
+        "yours",
+        "of you",
+        "belonging to you"
+      ],
+      "usageExamples": [
+        [
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La tua religione non mi interessa.",
+          "Your religion does not interest me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qual è la tua canzone preferita dei Rolling Stones?",
+          "What's your favorite song by the Rolling Stones?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fidanzata",
+      "translations": [
+        "girlfriend",
+        "fiancée",
+        "betrothed"
+      ],
+      "usageExamples": [
+        [
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "È",
+      "translations": [
+        "It is",
+        "He is",
+        "She is",
+        "There is"
+      ],
+      "usageExamples": [
+        [
+          "È scoraggiata, vero?",
+          "She's discouraged, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una giornata nuvolosa.",
+          "It's a cloudy day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È piuttosto avventurosa, vero?",
+          "She's pretty adventurous, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "russa",
+      "translations": [
+        "Russian",
+        "red-haired",
+        "red"
+      ],
+      "usageExamples": [
+        [
+          "La città russa Togliatti è stata nominata in onore del comunista italiano Palmiro Togliatti.",
+          "The Russian city Togliatti was named in honor of the Italian communist Palmiro Togliatti.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

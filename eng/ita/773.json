@@ -1,105 +1,84 @@
 {
-  "sentence": "Quali sono i tuoi piani?",
+  "sentence": "Puoi lanciare una palla veloce?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What are your plans?",
-    "What're your plans?"
+    "Can you throw a fastball?"
   ],
   "parts": [
     {
-      "content": "Quali",
+      "content": "puoi",
       "translations": [
-        "Which",
-        "What kind of",
-        "What type of",
-        "What sort of"
+        "you can",
+        "you may",
+        "you are able to",
+        "you are allowed to"
       ],
       "usageExamples": []
     },
     {
-      "content": "sono",
+      "content": "lanciare",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
-      ],
-      "usageExamples": [
-        [
-          "Mi sono tuffato nell'acqua.",
-          "I dived into the water.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché sono qui?",
-          "Why are they here?",
-          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sono solo curiosa.",
-          "I'm just curious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
-      ],
-      "usageExamples": [
-        [
-          "Conosce i cavalli.",
-          "He knows horses.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo zio Ted ci portò allo zoo per farci vedere i panda.",
-          "Uncle Ted took us to the zoo in order to show us the pandas.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questo articolo ridicolizza i vegetariani.",
-          "This article makes fun of vegetarians.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tuoi",
-      "translations": [
-        "your",
-        "yours",
-        "of yours"
-      ],
-      "usageExamples": [
-        [
-          "Prendi in prestito le biro dai tuoi amici.",
-          "You borrow pens from your friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "piani",
-      "translations": [
-        "plans",
-        "floors",
-        "levels",
-        "schedules"
+        "to throw",
+        "to launch",
+        "to cast",
+        "to hurl"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scriva una risposta.",
+          "Write an answer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una maledizione.",
+          "It's a curse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "palla",
+      "translations": [
+        "ball",
+        "sphere",
+        "round object",
+        "ball-shaped item"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "veloce",
+      "translations": [
+        "fast",
+        "quick",
+        "swift",
+        "speedy"
+      ],
+      "usageExamples": [
+        [
+          "State guidando decisamente troppo veloce.",
+          "You're driving way too fast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

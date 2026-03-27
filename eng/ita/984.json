@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom vuole che qualcuno lo aiuti.",
+  "sentence": "Tom tradusse il contratto in francese.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom wants somebody to help him."
+    "Tom translated the contract into French."
   ],
   "parts": [
     {
@@ -16,97 +16,34 @@
       ],
       "usageExamples": [
         [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta cenando adesso.",
-          "Tom is having dinner right now.",
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vuole",
+      "content": "tradusse",
       "translations": [
-        "wants",
-        "desires",
-        "wishes",
-        "intends"
+        "he/she translated",
+        "he/she rendered",
+        "he/she conveyed",
+        "he/she interpreted"
       ],
-      "usageExamples": [
-        [
-          "Non vuole fermarla.",
-          "He doesn't want to stop her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
-          "He doesn't want to take responsibility for what he did.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "che",
-      "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
-      ],
-      "usageExamples": [
-        [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Disse che lo amava.",
-          "She said she loved him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "qualcuno",
-      "translations": [
-        "someone",
-        "somebody",
-        "anyone",
-        "anybody"
-      ],
-      "usageExamples": [
-        [
-          "Perché qualcuno vorrebbe baciarvi?",
-          "Why would anyone want to kiss you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Voi conoscete qualcuno che possa aiutare?",
-          "Do you know someone who can help?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "lo",
+      "content": "il",
       "translations": [
         "the",
         "it",
@@ -115,31 +52,72 @@
       ],
       "usageExamples": [
         [
-          "Beh, sicuramente lo richiederò.",
-          "Well, I'll surely ask again.",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aiuti",
+      "content": "contratto",
       "translations": [
-        "help",
-        "assistance",
-        "aid",
-        "support"
+        "contract",
+        "agreement",
+        "contractual agreement",
+        "deal"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "francese",
+      "translations": [
+        "French",
+        "French language",
+        "French person",
+        "French cuisine"
+      ],
+      "usageExamples": [
+        [
+          "Tom e Mary studiano il francese ogni sera per trenta minuti.",
+          "Tom and Mary study French every evening for thirty minutes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

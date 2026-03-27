@@ -1,11 +1,15 @@
 {
-  "sentence": "Lei suona la chitarra portoghese.",
+  "sentence": "Lei ha già finito?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by adiante19 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She plays the Portuguese guitar."
+    "Are you done yet?",
+    "Are you finished yet?",
+    "Are you through yet?",
+    "Have you already finished?",
+    "Have you finished yet?"
   ],
   "parts": [
     {
@@ -18,8 +22,8 @@
       ],
       "usageExamples": [
         [
-          "Lei ha già finito?",
-          "Have you finished yet?",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,64 +39,76 @@
       ]
     },
     {
-      "content": "suona",
+      "content": "ha",
       "translations": [
-        "plays",
-        "sounds",
-        "rings",
-        "is played"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Non mi sveglierò neppure se suona la sveglia.",
-          "I won't wake up even if the alarm rings.",
+          "L'ha salvata.",
+          "He rescued her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "già",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "already",
+        "now",
+        "yet",
+        "at this point"
       ],
       "usageExamples": [
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Lei ha già cominciato.",
+          "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
+          "A Berlino ci siete già state.",
+          "You've already been to Berlin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho ammesso la sconfitta.",
-          "I admitted defeat.",
+          "Mary dice che ha già deciso di farlo.",
+          "Mary says she's already decided to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chitarra",
+      "content": "finito",
       "translations": [
-        "guitar",
-        "stringed instrument",
-        "musical guitar"
+        "finished",
+        "done",
+        "completed",
+        "over"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "portoghese",
-      "translations": [
-        "Portuguese",
-        "from Portugal",
-        "relating to Portugal"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

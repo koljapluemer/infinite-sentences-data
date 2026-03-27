@@ -1,167 +1,99 @@
 {
-  "sentence": "Salutate i vostri genitori da parte mia.",
+  "sentence": "Riuscite a leggermi nel pensiero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by bluepie88 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Say hello to your parents from me."
+    "Can you read my mind?"
   ],
   "parts": [
     {
-      "content": "Salutate",
+      "content": "riuscite",
       "translations": [
-        "Greet",
-        "Salute",
-        "Say hello.",
-        "Welcome."
+        "you succeed",
+        "you manage",
+        "you are able",
+        "you get it done"
+      ],
+      "usageExamples": [
+        [
+          "Riuscite a distinguere Jane dalla sua sorella gemella?",
+          "Can you tell Jane from her twin sister?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "leggermi",
+      "translations": [
+        "read to me",
+        "read for me",
+        "read aloud to me",
+        "read it to me"
       ],
       "usageExamples": []
     },
     {
-      "content": "i",
+      "content": "nel",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "in the",
+        "inside the",
+        "within the",
+        "at the"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Il signor Jones crede nel duro lavoro e nei profitti.",
+          "Mr Jones believes in hard work and profits.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "La nostra scuola è nel mezzo della città.",
+          "Our school is in the middle of the city.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary vuole che i suoi genitori le comprino un pony.",
-          "Mary wants her parents to buy her a pony.",
+          "I suoi figli sono nel giardino.",
+          "Her sons are in the garden.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vostri",
+      "content": "pensiero",
       "translations": [
-        "your",
-        "yours",
-        "your own",
-        "of yours"
+        "thought",
+        "idea",
+        "consideration",
+        "reflection"
       ],
-      "usageExamples": [
-        [
-          "Non accarezzo i vostri cani.",
-          "I don't pet your dogs.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tirate fuori i vostri quaderni e le vostre penne.",
-          "Get out your notebooks and pens.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "genitori",
-      "translations": [
-        "parents",
-        "guardians",
-        "caregivers",
-        "progenitors"
-      ],
-      "usageExamples": [
-        [
-          "I miei genitori abitano in una casa grande.",
-          "My parents live in a big house.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Le dispute dei suoi genitori riecheggiavano nella sua mente, facendolo piangere disperatamente.",
-          "His parents' disputes echoed in his mind, making him cry helplessly.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io amo i miei genitori.",
-          "I love my parents.",
-          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "da",
-      "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
-      ],
-      "usageExamples": [
-        [
-          "Imparai l'esperanto da sola.",
-          "I learned Esperanto by myself.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Scendi da quella scala.",
-          "Get down from that ladder.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dovresti lasciarmi da sola.",
-          "You should leave me alone.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "parte",
-      "translations": [
-        "part",
-        "section",
-        "component",
-        "piece"
-      ],
-      "usageExamples": [
-        [
-          "Io non sono mai stato in quella parte del paese.",
-          "I have never been to that part of the country.",
-          "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
-        ],
-        [
-          "È mio cugino da parte di padre.",
-          "He is my cousin on the father's side.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mia",
-      "translations": [
-        "my",
-        "mine",
-        "belonging to me"
-      ],
-      "usageExamples": [
-        [
-          "Amo molto mia madre.",
-          "I love my mother very much.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Prendi la mia.",
-          "Take mine.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Qualcuno ha rubato la mia borsa.",
-          "Somebody has stolen my bag.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

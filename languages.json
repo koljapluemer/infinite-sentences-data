@@ -17,6 +17,14 @@
     ],
     "aiNote": "Ensure to actually produce spoken Egyptian Arabic, not textbook MSA. Return Arabic script. If you want to include a gap in the text, use the (U+0640 TATWEEL) character"
   },
+  "ber": {
+    "displayName": "Berber languages",
+    "symbols": []
+  },
+  "cbk": {
+    "displayName": "Chavacano",
+    "symbols": []
+  },
   "deu": {
     "displayName": "German",
     "symbols": [
@@ -31,6 +39,10 @@
       "🇺🇸",
       "🇬🇧"
     ]
+  },
+  "epo": {
+    "displayName": "Esperanto",
+    "symbols": []
   },
   "fra": {
     "displayName": "French",
@@ -51,6 +63,24 @@
     ],
     "aiNote": "Focus on spoken, conventional Italian."
   },
+  "kab": {
+    "displayName": "Kabyle",
+    "symbols": []
+  },
+  "nst": {
+    "displayName": "Tase Naga",
+    "symbols": []
+  },
+  "pam": {
+    "displayName": "Pampanga",
+    "symbols": []
+  },
+  "rus": {
+    "displayName": "Russian",
+    "symbols": [
+      "🇷🇺"
+    ]
+  },
   "spa": {
     "displayName": "Spanish",
     "symbols": [
@@ -59,6 +89,10 @@
       "🇪🇸"
     ],
     "aiNote": "Focus on spoken, conventional Spanish. Give South American Spanish the same weight as European Spanish."
+  },
+  "srp": {
+    "displayName": "Serbian",
+    "symbols": []
   },
   "tur": {
     "displayName": "Turkish",

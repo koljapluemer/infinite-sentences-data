@@ -1,59 +1,45 @@
 {
-  "sentence": "Vous allez adorer ce livre.",
+  "sentence": "Je parle Lakota.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're going to love this book."
+    "I speak Lakota."
   ],
   "parts": [
     {
-      "content": "Vous",
+      "content": "Je",
       "translations": [
-        "You",
-        "You (formal/plural)"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "allez",
-      "translations": [
-        "go",
-        "come on",
-        "let's go",
-        "all right"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "adorer",
-      "translations": [
-        "to adore",
-        "to love",
-        "to cherish"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ce",
-      "translations": [
-        "this",
-        "it",
-        "that"
+        "I",
+        "Me"
       ],
       "usageExamples": [
+        [
+          "Je te respecte.",
+          "I respect you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je crois en elle.",
+          "I have faith in her.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
         [
           "Je veux discuter avec vous de ce rapport.",
           "I want to talk to you about this report.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ferai tout ce que je peux pour encourager Tom à ne pas quitter l'école.",
-          "I'll do whatever I can to encourage Tom to stay in school.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "Lakota",
+      "translations": [
+        "Lakota",
+        "Lakota language",
+        "Lakota people"
+      ],
+      "usageExamples": []
     }
   ]
 }

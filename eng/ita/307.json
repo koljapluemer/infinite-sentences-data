@@ -1,11 +1,11 @@
 {
-  "sentence": "Ha mai visto uno di questi?",
+  "sentence": "Ha fatto qualcosa di incredibilmente stupido.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Have you ever seen one of these?"
+    "You did something incredibly stupid."
   ],
   "parts": [
     {
@@ -23,90 +23,64 @@
         ],
         [
           "Ha perso la partita.",
-          "She lost the game.",
+          "He lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha commesso un crimine dopo l'altro.",
-          "He committed one crime after another.",
+          "Ha ritrovato per caso la macchina fotografica che aveva perso.",
+          "He found his lost camera by chance.",
+          "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fatto",
+      "translations": [
+        "fact",
+        "done",
+        "made",
+        "event"
+      ],
+      "usageExamples": [
+        [
+          "L'ha fatto lentamente.",
+          "She did it slowly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse ho fatto un errore.",
+          "Perhaps I made a mistake.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non lo avete fatto?",
+          "Why didn't you do it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mai",
+      "content": "qualcosa",
       "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
+        "something",
+        "anything",
+        "a thing",
+        "a little something"
       ],
       "usageExamples": [
         [
-          "Tom non cambia mai.",
-          "Tom never changes.",
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non dormite mai?",
-          "Don't you ever sleep?",
+          "Ha perso qualcosa?",
+          "Have you lost something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete mai provato?",
-          "Did you ever try?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "visto",
-      "translations": [
-        "visa",
-        "sight",
-        "view",
-        "sightseeing"
-      ],
-      "usageExamples": [
-        [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piaceva quello che ha visto.",
-          "Mary didn't like what she saw.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "uno",
-      "translations": [
-        "one",
-        "a single",
-        "one unit",
-        "one item"
-      ],
-      "usageExamples": [
-        [
-          "Shloyme vuole essere uno scrittore.",
-          "Shloyme wants to be a writer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "La figlia di uno zio è una cugina.",
-          "The daughter of an uncle is a cousin.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ne ho portato fuori uno.",
-          "I brought one out.",
+          "Layla dimenticò qualcosa.",
+          "Layla forgot something.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -121,31 +95,47 @@
       ],
       "usageExamples": [
         [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ],
         [
-          "Mi importa di lei.",
-          "I care about her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "questi",
+      "content": "incredibilmente",
       "translations": [
-        "these",
-        "this one",
-        "these ones",
-        "this"
+        "incredibly",
+        "unbelievably",
+        "astoundingly",
+        "remarkably"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "stupido",
+      "translations": [
+        "stupid",
+        "foolish",
+        "silly",
+        "dumb"
+      ],
+      "usageExamples": [
+        [
+          "Assicuratevi che non faccia niente di stupido.",
+          "Make sure he doesn't do anything stupid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

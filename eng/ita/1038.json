@@ -1,11 +1,11 @@
 {
-  "sentence": "Voi siete alzate?",
+  "sentence": "Voi conoscete qualcuno che possa aiutare?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you up?"
+    "Do you know someone who can help?"
   ],
   "parts": [
     {
@@ -18,6 +18,11 @@
       ],
       "usageExamples": [
         [
+          "Voi siete alzate?",
+          "Are you up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Voi siete attraenti.",
           "You're attractive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -26,47 +31,101 @@
           "Voi siete burbere.",
           "You're grumpy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Voi avete mai avuto un animale domestico?",
-          "Have you ever had a pet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "siete",
+      "content": "conoscete",
       "translations": [
-        "seven",
-        "7"
+        "you know",
+        "do you know",
+        "are you familiar with",
+        "do you all know"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "qualcuno",
+      "translations": [
+        "someone",
+        "somebody",
+        "anyone",
+        "anybody"
       ],
       "usageExamples": [
         [
-          "Voi siete burbere.",
-          "You're grumpy.",
+          "Perché qualcuno vorrebbe baciarvi?",
+          "Why would anyone want to kiss you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché siete andati lì?",
-          "Why did you go there?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Voi siete attraenti.",
-          "You're attractive.",
+          "Tom vuole che qualcuno lo aiuti.",
+          "Tom wants somebody to help him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "alzate",
+      "content": "che",
       "translations": [
-        "lifts",
-        "raises",
-        "elevations",
-        "hoists"
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "possa",
+      "translations": [
+        "can",
+        "may",
+        "be able to",
+        "might"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "aiutare",
+      "translations": [
+        "to help",
+        "to assist",
+        "to aid",
+        "to support"
+      ],
+      "usageExamples": [
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li vada ad aiutare.",
+          "Go help them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

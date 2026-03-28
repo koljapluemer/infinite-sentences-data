@@ -1,83 +1,84 @@
 {
-  "sentence": "Sei pieno di rabbia.",
+  "sentence": "Scusami, sto cercando Tom.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're full of anger."
+    "Excuse me, I'm looking for Tom."
   ],
   "parts": [
     {
-      "content": "Sei",
+      "content": "Scusami",
       "translations": [
-        "You are",
-        "You exist",
-        "You live",
-        "You are being"
+        "Excuse me.",
+        "Sorry.",
+        "Pardon me",
+        "My apologies"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sto",
+      "translations": [
+        "I stand",
+        "I am standing",
+        "I stay",
+        "I am staying",
+        "am"
       ],
       "usageExamples": [
         [
-          "Sei un testimone.",
-          "You are a witness.",
+          "Io sto diventando piccolo!",
+          "I am getting small!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
+          "Mi sto riposando ora.",
+          "I'm resting now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei sospesa?",
-          "Are you suspended?",
+          "Io sto guardando le Olimpiadi.",
+          "I'm watching the Olympics.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pieno",
+      "content": "cercando",
       "translations": [
-        "full",
-        "filled",
-        "packed",
-        "complete"
+        "searching",
+        "looking for",
+        "seeking",
+        "hunting"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "Tom",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "Thomas",
+        "Tommy",
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "\">\" significa maggiore di.",
-          "\">\" means greater than.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+          "Tom sta gemendo.",
+          "Tom is whining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "rabbia",
-      "translations": [
-        "anger",
-        "rage",
-        "fury",
-        "wrath"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Voi siete attraenti.",
+  "sentence": "Voi non potete dormire qui.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're attractive."
+    "You can't sleep here."
   ],
   "parts": [
     {
@@ -28,45 +28,93 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Voi pensate che Tom sia innocente?",
-          "Do you think Tom is innocent?",
+          "Voi siete attraenti.",
+          "You're attractive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "siete",
+      "content": "non",
       "translations": [
-        "seven",
-        "7"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Perché siete andati lì?",
-          "Why did you go there?",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Voi siete alzate?",
-          "Are you up?",
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Voi siete burbere.",
-          "You're grumpy.",
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "attraenti",
+      "content": "potete",
       "translations": [
-        "attractive",
-        "appealing",
-        "alluring",
-        "charming"
+        "you can",
+        "you are able to",
+        "you may"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "dormire",
+      "translations": [
+        "to sleep",
+        "sleeping",
+        "to take a nap",
+        "to rest"
+      ],
+      "usageExamples": [
+        [
+          "La lasciai dormire fino a mezzogiorno.",
+          "I let her sleep until noon.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace dormire da sola.",
+          "Mary doesn't like sleeping alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "qui",
+      "translations": [
+        "who",
+        "that",
+        "which",
+        "whom"
+      ],
+      "usageExamples": [
+        [
+          "Odio qui.",
+          "I hate it here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Erano proprio qui.",
+          "They were right here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

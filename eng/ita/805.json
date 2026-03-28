@@ -1,11 +1,13 @@
 {
-  "sentence": "Questo è un occhio.",
+  "sentence": "Questo portatile è molto sottile.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by halfdan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This is an eye."
+    "This laptop computer is very thin.",
+    "This laptop is very thin."
   ],
   "parts": [
     {
@@ -23,16 +25,26 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
+          "Questo è un occhio.",
+          "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo articolo ridicolizza i vegetariani.",
-          "This article makes fun of vegetarians.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "portatile",
+      "translations": [
+        "portable",
+        "laptop",
+        "mobile device",
+        "handheld"
+      ],
+      "usageExamples": []
     },
     {
       "content": "è",
@@ -44,54 +56,55 @@
       ],
       "usageExamples": [
         [
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Questo cane è brutto.",
           "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un test?",
-          "Is this a test?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "molto",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
-          "Sei un testimone.",
-          "You are a witness.",
+          "Amo molto mia madre.",
+          "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un test?",
-          "Is this a test?",
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "occhio",
+      "content": "sottile",
       "translations": [
-        "eye",
-        "sight",
-        "look",
-        "attention"
+        "thin",
+        "slim",
+        "subtle",
+        "fine"
       ],
       "usageExamples": []
     }

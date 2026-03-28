@@ -1,11 +1,11 @@
 {
-  "sentence": "Voi pensate che Tom sia innocente?",
+  "sentence": "Voi avete mai avuto un animale domestico?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you think Tom is innocent?"
+    "Have you ever had a pet?"
   ],
   "parts": [
     {
@@ -18,13 +18,13 @@
       ],
       "usageExamples": [
         [
-          "Voi siete alzate?",
-          "Are you up?",
+          "Voi siete burbere.",
+          "You're grumpy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Voi siete burbere.",
-          "You're grumpy.",
+          "Voi siete alzate?",
+          "Are you up?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,106 +35,116 @@
       ]
     },
     {
-      "content": "pensate",
+      "content": "avete",
       "translations": [
-        "think",
-        "consider",
-        "reflect",
-        "ponder"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "che",
-      "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "you have",
+        "you've got",
+        "are you having"
       ],
       "usageExamples": [
         [
-          "Disse che lo amava.",
-          "She said that she loved him.",
+          "Li avete rapiti?",
+          "Did you kidnap them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Cosa avete consigliato?",
+          "What did you recommend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
+          "Dove li avete oliati?",
+          "Where did you oil them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "mai",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
       ],
       "usageExamples": [
         [
-          "Io appoggiavo Tom.",
-          "I used to support Tom.",
+          "Avete mai provato?",
+          "Did you ever try?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
-        [
-          "Tom è un esperto.",
-          "Tom is a pro.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è un fan.",
-          "Tom is a fan.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sia",
-      "translations": [
-        "herself",
-        "hers",
-        "she herself",
-        "her own"
-      ],
-      "usageExamples": [
         [
           "Non sia mai gelosa.",
           "Never be jealous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Penso che lei sia un idiota.",
-          "I think you're an idiot.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "innocente",
+      "content": "avuto",
       "translations": [
-        "innocent",
-        "naive",
-        "blameless",
-        "unaware"
+        "had",
+        "received",
+        "got",
+        "obtained"
       ],
       "usageExamples": [
         [
-          "Più della metà delle persone condannate dai tribunali è innocente.",
-          "More than half of the people convicted by the courts are innocent.",
+          "Ho avuto la fortuna di seguire il mio percorso senza rimpianti.",
+          "I've been lucky to follow my own path without regrets.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "animale",
+      "translations": [
+        "animal",
+        "creature",
+        "living being",
+        "organism"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "domestico",
+      "translations": [
+        "domestic",
+        "household",
+        "home",
+        "family"
+      ],
+      "usageExamples": []
     }
   ]
 }

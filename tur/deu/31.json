@@ -1,19 +1,81 @@
 {
-  "sentence": "So ist es.",
+  "sentence": "Ich würde mir das zweimal überlegen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Aynen öyle.",
-    "Aynen"
+    "Ben olsam iki kere düşünürdüm."
   ],
   "parts": [
     {
-      "content": "ist",
+      "content": "Ich",
       "translations": [
-        "dır",
-        "olmak"
+        "Ben"
+      ],
+      "usageExamples": [
+        [
+          "Ich bin in Teheran.",
+          "Tahran'dayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich wollte mich erinnern.",
+          "Ben hatırlamak istiyordum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "würde",
+      "translations": [
+        "olurdu",
+        "yapardı",
+        "ederdi"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mir",
+      "translations": [
+        "bana",
+        "beni",
+        "mi",
+        "mu",
+        "sı",
+        "ben"
+      ],
+      "usageExamples": [
+        [
+          "Sucht Tom nach mir?",
+          "Tom beni arıyor mu?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom hat mir genau das Gegenteil gesagt.",
+          "Tom bana tam tersini söylemişti.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Erlauben Sie mir, die Tür zu schließen.",
+          "Kapıyı kapatmama izin veriniz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "das",
+      "translations": [
+        "bu",
+        "bunu",
+        "onu",
+        "Onu",
+        "ders"
       ],
       "usageExamples": [
         [
@@ -22,38 +84,37 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Die Polizei ist hier.",
-          "Polis burada.",
+          "Wie ist das Wetter?",
+          "Hava nasıl?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Das ist kostenlos erhältlich.",
-          "Bu ücretsiz ulaşılabilir.",
+          "Sie wollte das Geheimnis verraten.",
+          "O bu sırrı açık etmek istiyor.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "es",
+      "content": "zweimal",
       "translations": [
-        "onu",
-        "Onu",
-        "ona"
+        "iki kez",
+        "iki defa"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "überlegen",
+      "translations": [
+        "üstün olmak",
+        "düşünmek",
+        "hesaba katmak",
+        "tartışmak"
       ],
       "usageExamples": [
         [
-          "Im Dorf gibt es fünf Rinder.",
-          "Köyde beş inek var.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich glaube, treffender und besser kann man es kaum darstellen.",
-          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Von wem hast du es erfahren?",
-          "Kimden öğrendin?",
+          "Warum überlegen Sie so lange?",
+          "Neden bu kadar uzun düşünüyorsun?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]

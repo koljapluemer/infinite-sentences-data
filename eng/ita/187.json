@@ -1,54 +1,88 @@
 {
-  "sentence": "C'era sangue dappertutto.",
+  "sentence": "Beve latte di mucca.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Aghanim (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Blood was everywhere.",
-    "There was blood everywhere."
+    "He drinks cow's milk."
   ],
   "parts": [
     {
-      "content": "C'era",
+      "content": "Beve",
       "translations": [
-        "There was",
-        "There used to be",
-        "There existed"
+        "edge",
+        "bevel",
+        "slant",
+        "slope"
       ],
       "usageExamples": []
     },
     {
-      "content": "sangue",
+      "content": "latte",
       "translations": [
-        "blood",
-        "sanguine",
-        "gore",
-        "hemoglobin"
+        "milk",
+        "dairy milk",
+        "cow's milk",
+        "liquid milk"
       ],
       "usageExamples": [
         [
-          "Stava tossendo sangue.",
-          "You were coughing up blood.",
+          "Di solito bevo molto latte.",
+          "I usually drink a lot of milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io ho il sangue blu nelle vene.",
-          "I have blue blood in my veins.",
+          "A Mary non piace il latte nel suo caffè.",
+          "Mary doesn't like milk in her coffee.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dappertutto",
+      "content": "mucca",
       "translations": [
-        "everywhere",
-        "all over",
-        "throughout",
-        "in all places"
+        "cow",
+        "female bovine"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Vladimir è forte come una mucca.",
+          "Vladimir is strong as a cow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

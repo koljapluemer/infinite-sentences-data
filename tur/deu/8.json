@@ -1,65 +1,89 @@
 {
-  "sentence": "Ich aß die grünen Äpfel.",
+  "sentence": "Er predigt Wasser und trinkt selbst Wein.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by hesaplarinkrali (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Yeşil elmaları yedim."
+    "Ele verir talkını, kendi yutar salkımı."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Er",
       "translations": [
-        "Ben"
+        "Ele"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "predigt",
+      "translations": [
+        "vaaz",
+        "nasihat"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Wasser",
+      "translations": [
+        "su",
+        "sıvı"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "und",
+      "translations": [
+        "eş",
+        "ile",
+        "ve",
+        "e",
+        "an"
       ],
       "usageExamples": [
         [
-          "Ich suche meine Frau.",
-          "Karımı arıyorum.",
+          "Im Winter komme ich ab und zu hierher.",
+          "Kışın arada sırada buraya geliyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich war zu Hause.",
-          "Evdeydim.",
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?",
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich kenne deinen Vater.",
-          "Ben senin babanı tanıyorum.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen.",
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "die",
+      "content": "trinkt",
       "translations": [
-        "bu",
-        "o"
+        "içiyor",
+        "içmekte"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "selbst",
+      "translations": [
+        "kendi"
       ],
       "usageExamples": [
         [
-          "Tom analysierte die Ergebnisse.",
-          "Tom sonuçları analiz etti.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Glauben Sie an die Liebe auf den ersten Blick?",
-          "İlk görüşte aşka inanır mısınız?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
-          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Äpfel",
+      "content": "Wein",
       "translations": [
-        "elmaları",
-        "elma"
+        "şarap",
+        "şarap içkisi"
       ],
       "usageExamples": []
     }

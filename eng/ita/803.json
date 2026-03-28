@@ -1,11 +1,11 @@
 {
-  "sentence": "Questo ristorante ha tre stelle Michelin.",
+  "sentence": "Questo messaggio non ha senso.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by iltrex (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This restaurant has three Michelin stars."
+    "This message doesn't make sense."
   ],
   "parts": [
     {
@@ -18,11 +18,6 @@
       ],
       "usageExamples": [
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Questo è un occhio.",
           "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -31,26 +26,52 @@
           "Questo è un test?",
           "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ristorante",
+      "content": "messaggio",
       "translations": [
-        "restaurant",
-        "diner",
-        "eatery",
-        "bistro"
+        "message",
+        "note",
+        "communication",
+        "notification"
       ],
       "usageExamples": [
         [
-          "Sami lavorava al ristorante.",
-          "Sami used to work at the restaurant.",
+          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
+          "Tom received an urgent message to call his wife.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -64,69 +85,29 @@
       ],
       "usageExamples": [
         [
-          "Nessuno ha capito nulla.",
-          "No one understood anything.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non ha corso?",
-          "Why didn't you run?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ],
         [
           "Tom ha molti amici?",
           "Does Tom have lots of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tre",
-      "translations": [
-        "three",
-        "3",
-        "thrice"
-      ],
-      "usageExamples": [
-        [
-          "Abbiamo scritto tre libri.",
-          "We wrote three books.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono stato un istruttore di sci per tre anni.",
-          "I've been a ski instructor for three years.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mamma ha diviso la torta in tre.",
-          "Mum divided the cake into three.",
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stelle",
+      "content": "senso",
       "translations": [
-        "stars",
-        "constellations",
-        "celestial bodies",
-        "heavenly bodies"
-      ],
-      "usageExamples": [
-        [
-          "Il padre di Tom gli ha insegnato a conoscere le stelle.",
-          "Tom's father taught him about the stars.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Michelin",
-      "translations": [
-        "Michelin tires",
-        "Michelin brand",
-        "Michelin company"
+        "sense",
+        "meaning",
+        "feeling",
+        "perception"
       ],
       "usageExamples": []
     }

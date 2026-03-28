@@ -1,84 +1,137 @@
 {
-  "sentence": "Ich erlaube dir zu gehen.",
+  "sentence": "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sana gitmen için izin veriyorum."
+    "Sen, hatalarını kabul etmen gerektiğini söyledin mi?"
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Hast",
       "translations": [
-        "Ben"
+        "sahip olmak",
+        "var olmak",
+        "bulunmak"
       ],
       "usageExamples": [
         [
-          "Ich kenne deinen Vater.",
-          "Ben senin babanı tanıyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich wollte mich erinnern.",
-          "Ben hatırlamak istiyordum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich suche meine Frau.",
-          "Karımı arıyorum.",
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dir",
+      "content": "du",
       "translations": [
-        "Sana",
-        "Seni",
-        "dir",
-        "sana"
+        "Sen",
+        "Kimi"
       ],
       "usageExamples": [
         [
-          "Ich will dir helfen.",
-          "Size yardım etmek istiyorum.",
+          "Magst du Sport?",
+          "Spor sever misin?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
-          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wen liebst du?",
+          "Kimi seviyorsun?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "zu",
+      "content": "gesagt",
       "translations": [
-        "para"
+        "söyledi",
+        "denildi"
       ],
       "usageExamples": [
         [
-          "Ich war zu Hause.",
-          "Evdeydim.",
+          "Tom hat gesagt, dass er in Australien ist.",
+          "Tom, Avustralya'da olduğunu söyledi.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Erlauben Sie mir, das Problem zu lösen.",
-          "Bana sorunu çözmeme izin veriniz.",
+          "Tom hat mir genau das Gegenteil gesagt.",
+          "Tom bana tam tersini söylemişti.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "In letzter Zeit kamen immer weniger Patienten zu mir.",
-          "Son zamanlarda daha az hasta bana geliyor.",
+          "Ich habe nicht verstanden, was er gesagt hat.",
+          "Onun ne dediğini anlayamadım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gehen",
+      "content": "dass",
       "translations": [
-        "gitmen"
+        "ki",
+        "şu ki"
+      ],
+      "usageExamples": [
+        [
+          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde.",
+          "Artık kimseye aşık olamayacağımı biliyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich kann euch garantieren, dass ich alles erledigen werde.",
+          "Size hepsini halledeceğimin garantisini verebilirim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "deine",
+      "translations": [
+        "nin",
+        "senin",
+        "Senin"
+      ],
+      "usageExamples": [
+        [
+          "Wo ist deine Mama?",
+          "Annen nerede?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Fehler",
+      "translations": [
+        "hata",
+        "yanlış",
+        "kusur",
+        "defo"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "akzeptieren",
+      "translations": [
+        "kabul"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sollst",
+      "translations": [
+        "gerekmek",
+        "zorundasın"
       ],
       "usageExamples": []
     }

@@ -1,74 +1,126 @@
 {
-  "sentence": "Prenda questo denaro.",
+  "sentence": "Potrebbe funzionare, però è troppo rischioso.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Take this money."
+    "That might work, but it's too risky."
   ],
   "parts": [
     {
-      "content": "Prenda",
+      "content": "Potrebbe",
       "translations": [
-        "Garment",
-        "Clothing item",
-        "Apparel",
-        "Piece of clothing"
+        "It could",
+        "It might",
+        "It may",
+        "It is possible that"
+      ],
+      "usageExamples": [
+        [
+          "Potrebbe aspettare.",
+          "He might wait.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "funzionare",
+      "translations": [
+        "to function",
+        "to work",
+        "to operate",
+        "to run"
       ],
       "usageExamples": []
     },
     {
-      "content": "questo",
+      "content": "però",
       "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
+        "however",
+        "but",
+        "nevertheless",
+        "on the other hand"
       ],
       "usageExamples": [
         [
-          "Inscatola questo.",
-          "Box this up.",
+          "A Eva piacciono i cani, però non i gatti.",
+          "Eva likes dogs, but not cats.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Trasporti questo.",
-          "Carry this.",
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "denaro",
+      "content": "è",
       "translations": [
-        "money",
-        "cash",
-        "funds",
-        "currency"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Quanto denaro ci dovete?",
-          "How much money do you owe us?",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom spiegò come perse tutto il suo denaro.",
-          "Tom explained how he lost his money.",
+          "Tom si è divertito.",
+          "Tom had fun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Un gruppo di gangster ha rubato del denaro.",
-          "A group of gangsters stole money.",
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "troppo",
+      "translations": [
+        "too much",
+        "excessively",
+        "overly",
+        "very"
+      ],
+      "usageExamples": [
+        [
+          "Penso che Tom sia troppo giovane.",
+          "I think Tom is too young.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio problema è che sono troppo occupata.",
+          "My problem is I'm too busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "rischioso",
+      "translations": [
+        "risky",
+        "hazardous",
+        "dangerous",
+        "unsafe"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -9,6 +9,10 @@
     ],
     "aiNote": "Ensure to actually produce Levantine Arabic as spoken in Syria, Lebanon or Palestine, not textbook MSA. Return Arabic script. If you want to include a gap in the text, use the (U+0640 TATWEEL) character"
   },
+  "arq": {
+    "displayName": "Algerian Arabic",
+    "symbols": []
+  },
   "arz": {
     "displayName": "Egyptian Arabic",
     "symbols": [
@@ -21,8 +25,24 @@
     "displayName": "Berber languages",
     "symbols": []
   },
+  "bul": {
+    "displayName": "Bulgarian",
+    "symbols": []
+  },
+  "cat": {
+    "displayName": "Catalan",
+    "symbols": []
+  },
   "cbk": {
     "displayName": "Chavacano",
+    "symbols": []
+  },
+  "ces": {
+    "displayName": "Czech",
+    "symbols": []
+  },
+  "dan": {
+    "displayName": "Danish",
     "symbols": []
   },
   "deu": {
@@ -56,6 +76,22 @@
     "displayName": "Hindi",
     "symbols": []
   },
+  "hoc": {
+    "displayName": "Ho",
+    "symbols": []
+  },
+  "hrv": {
+    "displayName": "Croatian",
+    "symbols": []
+  },
+  "hye": {
+    "displayName": "Armenian",
+    "symbols": []
+  },
+  "ina": {
+    "displayName": "Interlingua",
+    "symbols": []
+  },
   "ita": {
     "displayName": "Italian",
     "symbols": [
@@ -63,8 +99,20 @@
     ],
     "aiNote": "Focus on spoken, conventional Italian."
   },
-  "kab": {
-    "displayName": "Kabyle",
+  "jbo": {
+    "displayName": "Lojban",
+    "symbols": []
+  },
+  "jpn": {
+    "displayName": "Japanese",
+    "symbols": []
+  },
+  "lat": {
+    "displayName": "Latin",
+    "symbols": []
+  },
+  "mar": {
+    "displayName": "Marathi",
     "symbols": []
   },
   "nst": {
@@ -94,10 +142,26 @@
     "displayName": "Serbian",
     "symbols": []
   },
+  "tha": {
+    "displayName": "Thai",
+    "symbols": []
+  },
+  "tok": {
+    "displayName": "Toki Pona",
+    "symbols": []
+  },
   "tur": {
     "displayName": "Turkish",
     "symbols": [
       "🇹🇷"
     ]
+  },
+  "yid": {
+    "displayName": "Yiddish",
+    "symbols": []
+  },
+  "zsm": {
+    "displayName": "Standard Malay",
+    "symbols": []
   }
 }

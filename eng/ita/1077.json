@@ -1,13 +1,11 @@
 {
-  "sentence": "È mio nemico.",
+  "sentence": "È intelligente quanto sua sorella.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He is my enemy.",
-    "He's my enemy."
+    "He's as smart as his sister."
   ],
   "parts": [
     {
@@ -20,8 +18,8 @@
       ],
       "usageExamples": [
         [
-          "È un nuovo libro.",
-          "It's a new book.",
+          "È mio nemico.",
+          "He is my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -30,47 +28,100 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È organizzando, vero?",
-          "She's organized, isn't she?",
+          "È andata bene oggi?",
+          "Did it go well today?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "intelligente",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "intelligent",
+        "smart",
+        "clever",
+        "bright"
       ],
       "usageExamples": [
         [
-          "È mio cugino da parte di padre.",
-          "He is my cousin on the father's side.",
+          "L'astronauta ha trovato un organismo intelligente.",
+          "The astronaut found an intelligent organism.",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "quanto",
+      "translations": [
+        "how much",
+        "how many",
+        "as much as",
+        "to what extent"
+      ],
+      "usageExamples": [
         [
-          "Vorrei cambiare il mio biglietto.",
-          "I'd like to change my ticket.",
+          "Lei è più bella di quanto immaginassi.",
+          "You're more beautiful than I imagined.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Posso riavere il mio coltello?",
-          "Can I have my knife back?",
+          "Ha offerto più di quanto ci si potesse aspettare.",
+          "He offered more than could be expected.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "È peggio di quanto pensa.",
+          "It's worse than you think.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nemico",
+      "content": "sua",
       "translations": [
-        "enemy",
-        "foe",
-        "opponent",
-        "adversary"
+        "your",
+        "yours",
+        "his",
+        "her"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa della sua salute.",
+          "Mary cares about her health.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha passato la sua infanzia a Boston.",
+          "Tom spent his childhood in Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sorella",
+      "translations": [
+        "sister",
+        "female sibling",
+        "sororal figure",
+        "sisterly relation"
+      ],
+      "usageExamples": [
+        [
+          "Riuscite a distinguere Jane dalla sua sorella gemella?",
+          "Can you tell Jane from her twin sister?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Loro sono fratello e sorella.",
+          "They're brother and sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

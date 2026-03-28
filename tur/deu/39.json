@@ -1,44 +1,54 @@
 {
-  "sentence": "Wenn Tom kommt, gehe ich.",
+  "sentence": "Meine Mutter spricht nicht sehr gut Englisch.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom gelince, gidiyorum."
+    "Annem İngilizceyi pek iyi konuşmaz."
   ],
   "parts": [
     {
-      "content": "Wenn",
+      "content": "Mutter",
       "translations": [
-        "Eğer"
+        "anne",
+        "mam",
+        "Annen",
+        "Annem"
       ],
       "usageExamples": [
         [
-          "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben.",
-          "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
-          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "spricht",
       "translations": [
-        "Tom"
+        "konuşur"
       ],
       "usageExamples": []
     },
     {
-      "content": "kommt",
+      "content": "nicht",
       "translations": [
-        "geliyor"
+        "değil",
+        "ne",
+        "yok"
       ],
       "usageExamples": [
+        [
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich liebe meinen Mann nicht mehr.",
+          "Artık kocamı sevmiyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
         [
           "Ich hab auch nicht gewollt, dass es so kommt.",
           "Ben de böyle olsun istemezdim.",
@@ -47,31 +57,50 @@
       ]
     },
     {
-      "content": "ich",
+      "content": "sehr",
       "translations": [
-        "mi",
-        "mu",
-        "sı",
-        "ı",
-        "ben"
+        "çok",
+        "pek"
       ],
       "usageExamples": [
         [
-          "Wollen Sie, dass ich Tom rufe?",
-          "Tom'u çağırmamı ister misiniz?",
+          "Ich schwimme sehr gern.",
+          "Yüzmeyi seviyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Weißt du, dass ich nichts von einem Menschen halte, der seinen Namen verbirgt?",
-          "Adını saklayan adamı ciddiye almayacağımı bilmiyor musun?",
+          "Ich interessiere mich sehr für Fußball.",
+          "Futbola çok ilgim var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde.",
-          "Artık kimseye aşık olamayacağımı biliyorum.",
+          "Esperanto zu lernen ist sehr interessant.",
+          "Esperanto öğrenmek çok ilginçtir.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "gut",
+      "translations": [
+        "iyi",
+        "İyi",
+        "yi"
+      ],
+      "usageExamples": [
+        [
+          "Das fängt ja gut an!",
+          "İyi bir başlangıç oldu!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Englisch",
+      "translations": [
+        "İngilizceyi"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Sono stati assassinati.",
+  "sentence": "Sono preparata per morire.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They were murdered."
+    "I'm prepared to die."
   ],
   "parts": [
     {
@@ -19,35 +19,55 @@
       "usageExamples": []
     },
     {
-      "content": "stati",
+      "content": "preparata",
       "translations": [
-        "were",
-        "have been",
-        "stood",
-        "remained"
+        "prepared",
+        "ready",
+        "set up",
+        "arranged"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
-          "A Berlino ci siete già stati.",
-          "You've already been to Berlin.",
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "2.200 dollari sono stati stanziati per le spese.",
-          "2200 dollars have been allocated for expenses.",
-          "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "assassinati",
+      "content": "morire",
       "translations": [
-        "assassinated",
-        "murdered",
-        "killed",
-        "executed"
+        "to die",
+        "to pass away",
+        "to expire",
+        "to perish"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "sentence": "Devo studiare stasera.",
+  "sentence": "Deve essere difficile.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have to study tonight."
+    "That must be hard."
   ],
   "parts": [
     {
-      "content": "Devo",
+      "content": "Deve",
       "translations": [
-        "I must.",
-        "I have to.",
-        "I need to",
-        "I ought to"
-      ],
-      "usageExamples": [
-        [
-          "Devo andare a trovarli.",
-          "I have to go find them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Devo aspettarli qua.",
-          "I have to wait here for them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "studiare",
-      "translations": [
-        "to study",
-        "to learn",
-        "to examine",
-        "to review"
-      ],
-      "usageExamples": [
-        [
-          "Voglio studiare matematica.",
-          "I want to study math.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Andò in Italia a studiare la musica.",
-          "He went to Italy to study music.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il mio amico va in biblioteca a studiare.",
-          "My friend goes to the library to study.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "stasera",
-      "translations": [
-        "tonight",
-        "this evening"
+        "must",
+        "has to",
+        "needs to",
+        "should"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "essere",
+      "translations": [
+        "to be",
+        "to exist",
+        "to occur",
+        "to happen"
+      ],
+      "usageExamples": [
+        [
+          "La pâte brisée, per essere buona, deve essere friabile e leggera.",
+          "To be good, pâte brisée should be light and flaky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Rimpiange di essere stato pigro.",
+          "He regrets having been lazy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Shloyme vuole essere uno scrittore.",
+          "Shloyme wants to be a writer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "difficile",
+      "translations": [
+        "difficult",
+        "hard",
+        "challenging",
+        "tough"
+      ],
+      "usageExamples": [
+        [
+          "È difficile per me dipendere da te.",
+          "It's hard for me to depend on you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È difficile restare calmi quando le scadenze vengono ignorate.",
+          "It's hard to stay calm when deadlines are ignored.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

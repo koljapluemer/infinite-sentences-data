@@ -1,35 +1,58 @@
 {
-  "sentence": "Vorrei cambiare il mio biglietto.",
+  "sentence": "Voleva che lo facessi per lei.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by tanay (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd like to change my ticket."
+    "He wanted me to do that for her.",
+    "She wanted me to do that for her."
   ],
   "parts": [
     {
-      "content": "Vorrei",
+      "content": "Voleva",
       "translations": [
-        "I would like",
-        "I want",
-        "I would love to",
-        "I wish to"
+        "He/She wanted",
+        "He/She wished",
+        "He/She was wanting",
+        "He/She desired"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Voleva parlare con il suo avvocato.",
+          "He wanted to talk to his lawyer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "cambiare",
+      "content": "che",
       "translations": [
-        "to change",
-        "to exchange",
-        "to switch",
-        "to alter"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "il",
+      "content": "lo",
       "translations": [
         "the",
         "it",
@@ -38,61 +61,79 @@
       ],
       "usageExamples": [
         [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "Beh, sicuramente lo richiederò.",
+          "Well, I'll surely ask again.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "facessi",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "you would do",
+        "you would make",
+        "you would perform"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
-          "È mio nemico.",
-          "He's my enemy.",
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il mio amico va in biblioteca a studiare.",
-          "My friend goes to the library to study.",
+          "Vuole andare per prima?",
+          "Do you want to go first?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
-          "Only my best friend would understand my love for minions.",
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "biglietto",
+      "content": "lei",
       "translations": [
-        "ticket",
-        "note",
-        "bill",
-        "card"
+        "she",
+        "you (formal)",
+        "you",
+        "her"
       ],
       "usageExamples": [
         [
-          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
-          "When riding a bus or a train, you need to pay the fare.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

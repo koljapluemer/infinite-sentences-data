@@ -1,13 +1,11 @@
 {
-  "sentence": "Ha perso qualcosa?",
+  "sentence": "Ha mai visto uno di questi?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ajje (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you lose something?",
-    "Have you lost something?"
+    "Have you ever seen one of these?"
   ],
   "parts": [
     {
@@ -20,72 +18,134 @@
       "usageExamples": [
         [
           "Ha perso la partita.",
-          "He lost the game.",
+          "You lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha ripreso a lavorare con fisioterapisti.",
-          "He went back to work with physiotherapists.",
-          "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+          "Ha perso qualcosa?",
+          "Have you lost something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha mai visto uno di questi?",
-          "Have you ever seen one of these?",
+          "Ha offerto più di quanto ci si potesse aspettare.",
+          "He offered more than could be expected.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mai",
+      "translations": [
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
+      ],
+      "usageExamples": [
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "perso",
+      "content": "visto",
       "translations": [
-        "lost",
-        "missing",
-        "absent",
-        "gone"
+        "visa",
+        "sight",
+        "view",
+        "sightseeing"
       ],
       "usageExamples": [
         [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha perso la partita.",
-          "She lost the game.",
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hanno perso la guerra sul fronte orientale.",
-          "They lost the war on the eastern front.",
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva ciò che ha visto.",
+          "Mary didn't like what she saw.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qualcosa",
+      "content": "uno",
       "translations": [
-        "something",
-        "anything",
-        "a thing",
-        "a little something"
+        "one",
+        "a single",
+        "one unit",
+        "one item"
       ],
       "usageExamples": [
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "La figlia di uno zio è una cugina.",
+          "The daughter of an uncle is a cousin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Layla dimenticò qualcosa.",
-          "Layla forgot something.",
+          "Ne ho portato fuori uno.",
+          "I brought one out.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary ha detto che voleva comprare qualcosa di più economico.",
-          "Mary said she wanted to buy something cheaper.",
+          "Shloyme vuole essere uno scrittore.",
+          "Shloyme wants to be a writer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "questi",
+      "translations": [
+        "these",
+        "this one",
+        "these ones",
+        "this"
+      ],
+      "usageExamples": []
     }
   ]
 }

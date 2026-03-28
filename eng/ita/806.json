@@ -1,11 +1,11 @@
 {
-  "sentence": "Questo è un test?",
+  "sentence": "Questo ristorante ha tre stelle Michelin.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Is this a test?"
+    "This restaurant has three Michelin stars."
   ],
   "parts": [
     {
@@ -18,6 +18,11 @@
       ],
       "usageExamples": [
         [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Questo è un occhio.",
           "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -26,79 +31,104 @@
           "Questo cane è brutto.",
           "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ristorante",
+      "translations": [
+        "restaurant",
+        "diner",
+        "eatery",
+        "bistro"
+      ],
+      "usageExamples": [
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo articolo ridicolizza i vegetariani.",
-          "This article makes fun of vegetarians.",
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "ha",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tre",
+      "translations": [
+        "three",
+        "3",
+        "thrice"
+      ],
+      "usageExamples": [
+        [
+          "Abbiamo scritto tre libri.",
+          "We wrote three books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mamma ha diviso la torta in tre.",
+          "Mum divided the cake into three.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lessi la storia tre volte.",
+          "I read the story three times.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "stelle",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "stars",
+        "constellations",
+        "celestial bodies",
+        "heavenly bodies"
       ],
       "usageExamples": [
         [
-          "Sei un testimone.",
-          "You are a witness.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È un portiere.",
-          "He's a goal keeper.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
+          "Il padre di Tom gli ha insegnato a conoscere le stelle.",
+          "Tom's father taught him about the stars.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "test",
+      "content": "Michelin",
       "translations": [
-        "exam",
-        "assessment",
-        "evaluation"
+        "Michelin tires",
+        "Michelin brand",
+        "Michelin company"
       ],
-      "usageExamples": [
-        [
-          "È ancora in fase di test.",
-          "It's still being tested.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

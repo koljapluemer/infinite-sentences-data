@@ -1,11 +1,11 @@
 {
-  "sentence": "Lui studiò economia all'università.",
+  "sentence": "Lui non conosce la verità.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He studied economics at college."
+    "He doesn't know the truth."
   ],
   "parts": [
     {
@@ -23,44 +23,94 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "Lui studiò economia all'università.",
+          "He studied economics at college.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui non conosce la verità.",
-          "He doesn't know the truth.",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "studiò",
+      "content": "non",
       "translations": [
-        "he/she studied",
-        "he/she has studied",
-        "he/she was studying"
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "conosce",
+      "translations": [
+        "knows",
+        "is familiar with",
+        "recognizes",
+        "understands"
       ],
       "usageExamples": []
     },
     {
-      "content": "economia",
+      "content": "la",
       "translations": [
-        "economy",
-        "economics",
-        "financial system",
-        "economic affairs"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "all'università",
+      "content": "verità",
       "translations": [
-        "to the university",
-        "at the university",
-        "in university"
+        "truth",
+        "veracity",
+        "fact",
+        "reality"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ora lui mi dice la verità.",
+          "Now he tells me the truth.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

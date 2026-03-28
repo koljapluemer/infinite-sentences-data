@@ -1,11 +1,11 @@
 {
-  "sentence": "Ich ärgere mich über Verspätungen.",
+  "sentence": "Ich muss für eine Spanienreise Spanisch lernen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Gecikmelere sinir oluyorum."
+    "Bir İspanya gezisi için İspanyolca öğrenmem gerek."
   ],
   "parts": [
     {
@@ -15,60 +15,103 @@
       ],
       "usageExamples": [
         [
-          "Ich suche meine Frau.",
-          "Karımı arıyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich wollte mich erinnern.",
-          "Ben hatırlamak istiyordum.",
+          "Ich war zu Hause.",
+          "Evdeydim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
           "Ich bin in Teheran.",
           "Tahran'dayım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich suche meine Frau.",
+          "Karımı arıyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mich",
+      "content": "muss",
       "translations": [
-        "beni"
+        "gerekir"
       ],
       "usageExamples": [
         [
-          "Ich wollte mich erinnern.",
-          "Ben hatırlamak istiyordum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde.",
-          "Artık kimseye aşık olamayacağımı biliyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich fühle mich schlecht, wenn ich gute Noten schreibe.",
-          "İyi notlar aldığımda kendimi kötü hissediyorum.",
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "über",
+      "content": "für",
       "translations": [
-        "ziyade",
-        "hakkında",
-        "üzerinde"
+        "için",
+        "para"
+      ],
+      "usageExamples": [
+        [
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es ist für einen Freund von mir.",
+          "O, benim bir arkadaşım için.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich interessiere mich sehr für Fußball.",
+          "Futbola çok ilgim var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "eine",
+      "translations": [
+        "bir",
+        "bir tane"
+      ],
+      "usageExamples": [
+        [
+          "Du hast eine Alternative.",
+          "Bir alternatifin var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Ciddi bir konuşmaya başladık.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Spanisch",
+      "translations": [
+        "İspanyolca"
       ],
       "usageExamples": []
     },
     {
-      "content": "Verspätungen",
+      "content": "lernen",
       "translations": [
-        "Gecikmelere"
+        "öğrenmek",
+        "öğrenmem"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Esperanto zu lernen ist sehr interessant.",
+          "Esperanto öğrenmek çok ilginçtir.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

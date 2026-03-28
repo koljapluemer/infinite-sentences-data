@@ -1,71 +1,81 @@
 {
-  "sentence": "Sta mangiando del gelato.",
+  "sentence": "Spesso la paella include lumache.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by papabear (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She's eating ice cream."
+    "Paella often includes snails."
   ],
   "parts": [
     {
-      "content": "Sta",
+      "content": "Spesso",
       "translations": [
-        "is",
-        "stands",
-        "stays",
-        "remains"
+        "often",
+        "frequently",
+        "many times",
+        "regularly"
       ],
       "usageExamples": [
         [
-          "Sta guidando.",
-          "He's driving.",
+          "Spesso un gesto vale più di mille parole.",
+          "One gesture is often worth more than a thousand words.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mangiando",
+      "content": "la",
       "translations": [
-        "eating",
-        "while eating",
-        "during eating",
-        "in the act of eating"
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "She lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apri la cassaforte.",
+          "Open the safe.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "paella",
+      "translations": [
+        "Spanish rice dish",
+        "seafood and rice casserole",
+        "traditional Valencian dish"
       ],
       "usageExamples": []
     },
     {
-      "content": "del",
+      "content": "include",
       "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
+        "to include",
+        "to incorporate",
+        "to contain",
+        "to comprise"
       ],
-      "usageExamples": [
-        [
-          "Yanni comprò del cibo.",
-          "Yanni bought some food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
-          "Would you mind if I drank the rest of the milk?",
-          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io ho preparato dello spezzatino.",
-          "I've made stew.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "gelato",
+      "content": "lumache",
       "translations": [
-        "ice cream",
-        "Italian ice cream",
-        "frozen dessert"
+        "snails",
+        "escargot",
+        "land snails",
+        "shellfish"
       ],
       "usageExamples": []
     }

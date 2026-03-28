@@ -1,82 +1,66 @@
 {
-  "sentence": "Scusami, sto cercando Tom.",
+  "sentence": "Sbrigati o perderai l'aereo.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Swift (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Excuse me, I'm looking for Tom."
+    "Hurry up, or you'll miss your plane."
   ],
   "parts": [
     {
-      "content": "Scusami",
+      "content": "Sbrigati",
       "translations": [
-        "Excuse me.",
-        "Sorry.",
-        "Pardon me",
-        "My apologies"
+        "Hurry up.",
+        "Get a move on.",
+        "Speed it up",
+        "Rush"
       ],
       "usageExamples": []
     },
     {
-      "content": "sto",
+      "content": "o",
       "translations": [
-        "I stand",
-        "I am standing",
-        "I stay",
-        "I am staying"
+        "or",
+        "either",
+        "alternatively",
+        "otherwise"
       ],
       "usageExamples": [
         [
-          "Io sto diventando piccolo!",
-          "I am getting small!",
+          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
+          "When riding a bus or a train, you need to pay the fare.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se lui verrà in treno o in auto.",
+          "I don't know whether he'll come by train or by car.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sto guardando le Olimpiadi.",
-          "I'm watching the Olympics.",
+          "Lui va a scuola a piedi o in bici?",
+          "Does he go to school on foot or by bicycle?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cercando",
+      "content": "perderai",
       "translations": [
-        "searching",
-        "looking for",
-        "seeking",
-        "hunting"
+        "you will lose",
+        "you'll lose",
+        "you are going to lose"
       ],
       "usageExamples": []
     },
     {
-      "content": "Tom",
+      "content": "l'aereo",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "the airplane",
+        "the aircraft",
+        "the plane"
       ],
-      "usageExamples": [
-        [
-          "Lasciate finire Tom.",
-          "Let Tom finish.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è famoso.",
-          "Tom is famous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

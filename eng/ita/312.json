@@ -1,10 +1,15 @@
 {
-  "sentence": "Ha ripreso a lavorare con fisioterapisti.",
+  "sentence": "Ha perso la partita.",
   "credits": [
-    "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Conjuice (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Jesse (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He went back to work with physiotherapists."
+    "He lost the game.",
+    "She lost the game.",
+    "You lost the game."
   ],
   "parts": [
     {
@@ -16,111 +21,89 @@
       ],
       "usageExamples": [
         [
-          "Ha perso la partita.",
-          "She lost the game.",
+          "Ha perso qualcosa?",
+          "Have you lost something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+        [
+          "Ha ripreso a lavorare con fisioterapisti.",
+          "He went back to work with physiotherapists.",
+          "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha acconsentito ad andare a Boston con lei.",
+          "He agreed to go to Boston with her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "perso",
+      "translations": [
+        "lost",
+        "missing",
+        "absent",
+        "gone"
+      ],
+      "usageExamples": [
         [
           "Ha perso qualcosa?",
           "Did you lose something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha detto che mi avrebbe aiutata a farlo.",
-          "She said she'd help me do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha ritrovato per caso la macchina fotografica che aveva perso.",
+          "He found his lost camera by chance.",
+          "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ripreso",
+      "content": "la",
       "translations": [
-        "recovered",
-        "taken back",
-        "resumed",
-        "restarted"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Devo andare a trovarli.",
-          "I have to go find them.",
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lavorare",
+      "content": "partita",
       "translations": [
-        "to work",
-        "working",
-        "to labor",
-        "to operate"
+        "match",
+        "game",
+        "part",
+        "session"
       ],
       "usageExamples": [
         [
-          "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
-          "The orphans were forced to work long hours without pay or food.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piace lavorare da sola.",
-          "Mary doesn't like to work by herself.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
-      ],
-      "usageExamples": [
-        [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Siate pazienti con noi.",
-          "Be patient with us.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era sposato con lei.",
-          "He used to be married to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "fisioterapisti",
-      "translations": [
-        "physiotherapists",
-        "physical therapists"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,133 +1,102 @@
 {
-  "sentence": "Dove sei in questo momento?",
+  "sentence": "Dov'è la sua casa?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ver (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by FeuDRenais (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Where are you right now?"
+    "Where is her house?",
+    "Where is his house?",
+    "Where is your house?",
+    "Where's his home?"
   ],
   "parts": [
     {
-      "content": "Dove",
+      "content": "Dov'è",
       "translations": [
-        "Where",
         "Where is it?",
-        "Where to?",
-        "Where are you?"
+        "Where's that?",
+        "Where is he/she/it?",
+        "Where can I find it?"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Dove li avete oliati?",
-          "Where did you oil them?",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dove ha portato il mio lenzuolo?",
-          "Where did you take my blanket?",
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sei",
+      "content": "sua",
       "translations": [
-        "six",
-        "you are",
-        "if you",
-        "be"
+        "your",
+        "yours",
+        "his",
+        "her"
       ],
       "usageExamples": [
         [
-          "Tu sei sposata?",
-          "Are you married?",
+          "Riuscite a distinguere Jane dalla sua sorella gemella?",
+          "Can you tell Jane from her twin sister?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Berlino ci sei già stato.",
-          "You have already been to Berlin.",
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tu sei quello che ha chiesto a Tom di aiutare?",
-          "Are you the one who asked Tom to help?",
+          "Probabilmente è da sola nella sua stanza.",
+          "She's probably alone in her room.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "in",
+      "content": "casa",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "house",
+        "home",
+        "dwelling",
+        "residence"
       ],
       "usageExamples": [
         [
-          "È stata in piedi?",
-          "Did you stand up?",
+          "I miei genitori abitano in una casa grande.",
+          "My parents live in a big house.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
+          "La casa è stata venduta per un milione di dollari.",
+          "The house was sold for one million dollars.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era in ritardo.",
-          "He was late.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "questo",
-      "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
-      ],
-      "usageExamples": [
-        [
-          "Trasporti questo.",
-          "Carry this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Inscatola questo.",
-          "Box this up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "momento",
-      "translations": [
-        "moment",
-        "instant",
-        "time",
-        "point in time"
-      ],
-      "usageExamples": [
-        [
-          "È la stagione delle piogge in Giappone in questo momento.",
-          "It's the rainy season in Japan right now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Forse questo è un brutto momento.",
-          "Maybe this is a bad time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ci scuserai per un momento?",
-          "Will you excuse us for a moment?",
+          "Dovrebbe chiamare a casa adesso.",
+          "You should call home now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

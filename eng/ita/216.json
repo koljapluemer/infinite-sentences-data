@@ -1,163 +1,120 @@
 {
-  "sentence": "Com'è andato il tuo incontro con Tom?",
+  "sentence": "Ci sono andata l'altro ieri.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How did your meeting with Tom go?"
+    "I went there the day before yesterday."
   ],
   "parts": [
     {
-      "content": "Com'è",
+      "content": "Ci",
       "translations": [
-        "How is it?",
-        "How's it going?",
-        "What is it like?",
-        "How does it feel?"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "andato",
-      "translations": [
-        "gone",
-        "went",
-        "having gone",
-        "departed"
+        "Here",
+        "This",
+        "It",
+        "That"
       ],
       "usageExamples": [
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono delle isole nel mare.",
+          "There are islands in the sea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sarò sempre per aiutarti.",
+          "I will always be there to help you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are",
+        "am"
+      ],
+      "usageExamples": [
+        [
+          "Tutte sono felici.",
+          "All are happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono solo curiosa.",
+          "I'm just curious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "andata",
+      "translations": [
+        "outbound",
+        "departure",
+        "going",
+        "one-way trip"
+      ],
+      "usageExamples": [
+        [
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "l'altro",
+      "translations": [
+        "the other",
+        "the other one",
+        "the alternative",
+        "the different one"
+      ],
+      "usageExamples": [
+        [
+          "Ha commesso un crimine dopo l'altro.",
+          "He committed one crime after another.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ieri",
+      "translations": [
+        "yesterday",
+        "the day before today",
+        "the previous day"
+      ],
+      "usageExamples": [
+        [
+          "Era occupato ieri?",
+          "Were you busy yesterday?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Sono andato all'ospedale ieri.",
           "I went to the hospital yesterday.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ],
         [
-          "Tutto il nostro cibo è andato a male.",
-          "All our food was spoiled.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il mese scorso è andato in Italia.",
-          "Last month, he went to Italy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Non tollererò il fallimento.",
-          "I will not tolerate failure.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tuo",
-      "translations": [
-        "your",
-        "yours",
-        "of yours"
-      ],
-      "usageExamples": [
-        [
-          "Quant'è profondo il tuo amore?",
-          "How deep is your love?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A te piace il tuo appartamento nuovo?",
-          "Do you like your new apartment?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Riconosco il tuo contributo per tenere pulita la cucina.",
-          "I recognize your contribution to keeping the kitchen clean.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "incontro",
-      "translations": [
-        "meeting",
-        "encounter",
-        "gathering",
-        "appointment"
-      ],
-      "usageExamples": [
-        [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
-      ],
-      "usageExamples": [
-        [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Siate pazienti con noi.",
-          "Be patient with us.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
-      ],
-      "usageExamples": [
-        [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom acconsentì con riluttanza.",
-          "Tom reluctantly agreed.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Siamo arrivati ieri in treno.",
+          "We arrived yesterday afternoon by train.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
         ]
       ]
     }

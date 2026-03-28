@@ -1,11 +1,11 @@
 {
-  "sentence": "Nessuno vi sostituirà.",
+  "sentence": "Nessuno credeva a Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Nobody will ever replace you."
+    "Nobody believed Tom."
   ],
   "parts": [
     {
@@ -23,8 +23,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
+          "Nessuno vi sostituirà.",
+          "Nobody will ever replace you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,40 +35,63 @@
       ]
     },
     {
-      "content": "vi",
+      "content": "credeva",
       "translations": [
-        "way",
-        "road",
-        "path",
-        "route"
+        "he/she believed",
+        "he/she thought",
+        "he/she used to believe"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Perché vi state comportando in modo così strano?",
-          "Why are you acting so strange?",
+          "Volate fino a Londra.",
+          "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "So che Tom vi ha ferite.",
-          "I know that Tom hurt you.",
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché vi state fermando adesso?",
-          "Why are you stopping now?",
+          "Devo andare a trovarli.",
+          "I have to go find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sostituirà",
+      "content": "Tom",
       "translations": [
-        "will replace",
-        "will substitute",
-        "will take the place of",
-        "will stand in for"
+        "Thomas",
+        "Tommy",
+        "Tom"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

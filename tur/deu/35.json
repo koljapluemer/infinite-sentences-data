@@ -1,56 +1,179 @@
 {
-  "sentence": "Tom hat eine Katze.",
+  "sentence": "Mach den Schrank auf der linken Seite auf, dort sind die Flaschen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by erayavci (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom'un bir kedisi var."
+    "Dolap kapağını sola doğru açın , şişeler oradadır."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Mach",
       "translations": [
-        "Tom"
+        "yap",
+        "et"
       ],
       "usageExamples": []
     },
     {
-      "content": "eine",
+      "content": "den",
       "translations": [
-        "bir",
-        "bir tane"
+        "den",
+        "bu"
       ],
       "usageExamples": [
         [
-          "Du hast eine Alternative.",
-          "Bir alternatifin var.",
+          "Glauben Sie an die Liebe auf den ersten Blick?",
+          "İlk görüşte aşka inanır mısınız?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Nimm eine kalte Dusche und trinke dann einen heißen Tee!",
-          "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
+          "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt.",
+          "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Sie hat eine Katze und zwei Hunde.",
-          "Onun bir kedisi ve iki köpeği var.",
+          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
+          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Katze",
+      "content": "Schrank",
       "translations": [
-        "kedisi"
+        "Dolap"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "auf",
+      "translations": [
+        "üzerinde"
       ],
       "usageExamples": [
         [
-          "Sie hat eine Katze und zwei Hunde.",
-          "Onun bir kedisi ve iki köpeği var.",
+          "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
+          "Bugünün işini yarına bırakma.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Glauben Sie an die Liebe auf den ersten Blick?",
+          "İlk görüşte aşka inanır mısınız?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt.",
+          "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "der",
+      "translations": [
+        "ders"
+      ],
+      "usageExamples": [
+        [
+          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
+          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wie geht es in der Schule?",
+          "Okul nasıl gidiyor?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Das Auto der Studentin ist alt.",
+          "Öğrencinin arabası eskidir.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "linken",
+      "translations": [
+        "sol",
+        "sola dönmek",
+        "sola gitmek"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Seite",
+      "translations": [
+        "sayfa",
+        "taraf"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dort",
+      "translations": [
+        "burada",
+        "da",
+        "oradadır",
+        "daki"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sind",
+      "translations": [
+        "var",
+        "bulunmak"
+      ],
+      "usageExamples": [
+        [
+          "Toms Kinder sind krank.",
+          "Tom'un çocukları hasta.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Menschen sind merkwürdige Tiere.",
+          "İnsanlar garip hayvanlardır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?",
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "die",
+      "translations": [
+        "bu",
+        "o"
+      ],
+      "usageExamples": [
+        [
+          "Tom analysierte die Ergebnisse.",
+          "Tom sonuçları analiz etti.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
+          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe die Zugfahrkarten vergessen.",
+          "Tren biletlerini unuttum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Flaschen",
+      "translations": [
+        "şişeler"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,62 +1,43 @@
 {
-  "sentence": "Tom hat viel Zeit.",
+  "sentence": "Magst du Sport?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ritualesatanum (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom'un çok zamanı var."
+    "Spor sever misin?"
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "du",
       "translations": [
-        "Tom"
+        "Sen",
+        "Kimi"
+      ],
+      "usageExamples": [
+        [
+          "Wen liebst du?",
+          "Kimi seviyorsun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wann hast du Zeit für mich?",
+          "Benim için ne zaman vaktin olur?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Sport",
+      "translations": [
+        "Spor"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "viel",
-      "translations": [
-        "çok",
-        "pek"
-      ],
-      "usageExamples": [
-        [
-          "Wie viel Abfertigung hast du bekommen?",
-          "Kaç işlem yaptın?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich spreche nicht viel Französisch.",
-          "Çok fazla Fransızca konuşamam.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Zeit",
-      "translations": [
-        "zaman",
-        "zamanı"
-      ],
-      "usageExamples": [
-        [
-          "Ich habe jetzt Zeit, um zu schreiben. Und du?",
-          "Şimdi yazabilirim zamanım var. Ya senin?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom, wir haben dafür keine Zeit!",
-          "Tom, buna vaktimiz yok!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
-          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

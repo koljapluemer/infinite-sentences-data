@@ -1,11 +1,11 @@
 {
-  "sentence": "Le fece sorridere.",
+  "sentence": "Le dirò che eravate qui.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That made them smile."
+    "I'll tell her you were here."
   ],
   "parts": [
     {
@@ -23,42 +23,93 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Le dirò che eravate qui.",
-          "I'll tell her you were here.",
+          "Le fece sorridere.",
+          "That made them smile.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Le è piaciuta la pizza?",
-          "Did you enjoy the pizza?",
+          "Le piacerebbe imparare a suonare il piano?",
+          "Would you like to learn to play the piano?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fece",
+      "content": "dirò",
       "translations": [
-        "made",
-        "did",
-        "created",
-        "performed"
+        "I will say",
+        "I will tell",
+        "I will speak",
+        "I will declare"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Disse che non fece niente di illegale.",
-          "He said he did nothing illegal.",
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sorridere",
+      "content": "eravate",
       "translations": [
-        "to smile",
-        "smiling",
-        "to grin",
-        "to beam"
+        "you were",
+        "you used to be",
+        "you had been"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom mi ha detto che eravate felici.",
+          "Tom told me you were happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "qui",
+      "translations": [
+        "who",
+        "that",
+        "which",
+        "whom"
+      ],
+      "usageExamples": [
+        [
+          "Erano proprio qui.",
+          "They were right here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Odio qui.",
+          "I hate it here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

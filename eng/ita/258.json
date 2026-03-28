@@ -1,85 +1,135 @@
 {
-  "sentence": "Dovette pulire la cucina.",
+  "sentence": "Dove ha portato il mio lenzuolo?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Conjuice (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by fanty (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He had to clean the kitchen."
+    "Where did you take my blanket?"
   ],
   "parts": [
     {
-      "content": "Dovette",
+      "content": "Dove",
       "translations": [
-        "Should have",
-        "Ought to have",
-        "Had to",
-        "Was supposed to"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "pulire",
-      "translations": [
-        "to clean",
-        "to tidy up",
-        "to purify",
-        "to polish"
+        "Where",
+        "Where is it?",
+        "Where to?",
+        "Where are you?"
       ],
       "usageExamples": [
         [
-          "Ho passato tutta la mattina a pulire la mia camera.",
-          "I've spent the entire morning cleaning my room.",
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove sei in questo momento?",
+          "Where are you right now?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "portato",
+      "translations": [
+        "carried",
+        "brought",
+        "delivered",
+        "transported"
+      ],
+      "usageExamples": [
+        [
+          "Ne ho portato fuori uno.",
+          "I brought one out.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
       "translations": [
         "the",
-        "that",
-        "which",
-        "those"
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha perso la partita.",
-          "He lost the game.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cucina",
+      "content": "mio",
       "translations": [
-        "kitchen",
-        "cooking area",
-        "culinary space",
-        "kitchenette"
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
       ],
       "usageExamples": [
         [
-          "È uscito dalla cucina.",
-          "He got out of the kitchen.",
+          "È mio nemico.",
+          "He's my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Riconosco il tuo contributo per tenere pulita la cucina.",
-          "I recognize your contribution to keeping the kitchen clean.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Vorrei cambiare il mio biglietto.",
+          "I'd like to change my ticket.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio labbro è scoppiato.",
+          "My lip split.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "lenzuolo",
+      "translations": [
+        "sheet",
+        "bed sheet",
+        "linen sheet"
+      ],
+      "usageExamples": []
     }
   ]
 }

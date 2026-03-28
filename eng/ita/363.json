@@ -1,11 +1,11 @@
 {
-  "sentence": "Il gatto mangia.",
+  "sentence": "Il corridore ha rubato la terza base.",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by cntrational (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The cat eats."
+    "The runner stole third base."
   ],
   "parts": [
     {
@@ -16,43 +16,120 @@
       ],
       "usageExamples": [
         [
-          "Il cane scodinzolava.",
-          "The dog wagged its tail.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Il libro è arrivato.",
+          "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Il cambiamento è spaventoso.",
           "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "gatto",
-      "translations": [
-        "cat",
-        "kitten"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Jack ha un gatto e un pappagallo a casa.",
-          "Jack keeps a cat and a parrot at home.",
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mangia",
+      "content": "corridore",
       "translations": [
-        "eat",
-        "consume",
-        "dine",
-        "feast"
+        "corridor",
+        "hallway",
+        "passageway",
+        "aisle"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'ha salvata.",
+          "He rescued her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "rubato",
+      "translations": [
+        "stolen time",
+        "robbed time",
+        "flexible tempo",
+        "expressive timing"
+      ],
+      "usageExamples": [
+        [
+          "Qualcuno ha rubato la mia borsa.",
+          "Somebody has stolen my bag.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un gruppo di gangster ha rubato del denaro.",
+          "A group of gangsters stole money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "terza",
+      "translations": [
+        "third",
+        "thirdly",
+        "third part",
+        "third edition"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "base",
+      "translations": [
+        "foundation",
+        "basis",
+        "platform"
       ],
       "usageExamples": []
     }

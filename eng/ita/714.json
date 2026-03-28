@@ -1,21 +1,20 @@
 {
-  "sentence": "Penso che Tom abbia il vostro ombrello.",
+  "sentence": "Pensavo che avesse già parlato con Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I think Tom has your umbrella.",
-    "I think that Tom has your umbrella."
+    "I thought you'd already talked to Tom."
   ],
   "parts": [
     {
-      "content": "Penso",
+      "content": "Pensavo",
       "translations": [
-        "I think.",
-        "I believe",
-        "I consider",
-        "I reflect"
+        "I was thinking.",
+        "I thought",
+        "I used to think",
+        "I was considering"
       ],
       "usageExamples": []
     },
@@ -34,13 +33,91 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "avesse",
+      "translations": [
+        "to have",
+        "to possess",
+        "to own",
+        "to hold"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "già",
+      "translations": [
+        "already",
+        "now",
+        "yet",
+        "at this point"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha già finito?",
+          "Are you done yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci siete già state.",
+          "You've already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "parlato",
+      "translations": [
+        "spoken",
+        "talked",
+        "verbal",
+        "oral"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha parlato con Tom, vero?",
+          "You talked to Tom, didn't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
+      ],
+      "usageExamples": [
+        [
+          "Sono fidanzata con lei.",
+          "I'm engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -49,102 +126,26 @@
       "content": "Tom",
       "translations": [
         "Thomas",
-        "Tommy"
+        "Tommy",
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Dovremmo avvertire Tom.",
-          "We should warn Tom.",
+          "Tom è un fan.",
+          "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non cambia mai.",
-          "Tom never changes.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "Tom era creativo.",
+          "Tom was creative.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "abbia",
-      "translations": [
-        "he/she/it has",
-        "you have (formal)",
-        "may have",
-        "let him/her/it have"
-      ],
-      "usageExamples": [
-        [
-          "È buono che il cavallo non abbia sofferto.",
-          "It's good that the horse didn't suffer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Mi piace il reggae.",
-          "I like reggae.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non conosco il sistema.",
-          "I don't know the system.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "vostro",
-      "translations": [
-        "your",
-        "yours",
-        "your own"
-      ],
-      "usageExamples": [
-        [
-          "Posso chiedere il vostro nome?",
-          "May I ask your name?",
-          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
-        ],
-        [
-          "A proposito di musica classica, qual è il vostro compositore preferito?",
-          "Talking of classical music, who is your favorite composer?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il vostro silenzio mi rende nervoso.",
-          "Your silence makes me nervous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ombrello",
-      "translations": [
-        "umbrella",
-        "parasol",
-        "sunshade",
-        "rainshade"
-      ],
-      "usageExamples": []
     }
   ]
 }

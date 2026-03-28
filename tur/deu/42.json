@@ -1,13 +1,37 @@
 {
-  "sentence": "Wo ist deine Mama?",
+  "sentence": "Sie ist ein bisschen verrückt.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Annen nerede?"
+    "O biraz çatlak."
   ],
   "parts": [
+    {
+      "content": "Sie",
+      "translations": [
+        "Sen",
+        "Sizlerin"
+      ],
+      "usageExamples": [
+        [
+          "Sprechen Sie Türkisch?",
+          "Türkçe konuşur musunuz?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sie wollte das Geheimnis verraten.",
+          "O bu sırrı açık etmek istiyor.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wollen Sie, dass ich Tom rufe?",
+          "Tom'u çağırmamı ister misiniz?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
     {
       "content": "ist",
       "translations": [
@@ -16,45 +40,50 @@
       ],
       "usageExamples": [
         [
-          "Die Polizei ist hier.",
-          "Polis burada.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "Dein Auto ist schnell.",
           "Senin araban hızlıdır.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Das ist kostenlos erhältlich.",
-          "Bu ücretsiz ulaşılabilir.",
+          "Wo ist deine Mama?",
+          "Annen nerede?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "So ist es.",
+          "Aynen öyle.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "deine",
+      "content": "ein",
       "translations": [
-        "nin",
-        "senin",
-        "Senin"
+        "bir"
       ],
       "usageExamples": [
         [
-          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
-          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Immer wenn du lachst, stirbt irgendwo ein Problem.",
+          "Her gülüşünde bir yerlerde bir problem ölür.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
+          "Seni başlangıçta planlanandan daha çok seviyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Mama",
+      "content": "verrückt",
       "translations": [
-        "anne",
-        "mam",
-        "Annen",
-        "Yaya",
-        "Annem"
+        "Deli",
+        "Çılgın"
       ],
       "usageExamples": []
     }

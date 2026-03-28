@@ -1,101 +1,84 @@
 {
-  "sentence": "Ci serviva la pioggia.",
+  "sentence": "Chiese se era invitata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We needed the rain."
+    "She asked if she was invited."
   ],
   "parts": [
     {
-      "content": "Ci",
+      "content": "Chiese",
       "translations": [
-        "Here",
-        "This",
-        "It",
-        "That"
+        "Churches",
+        "Places of worship",
+        "Chapels",
+        "Religious buildings"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "se",
+      "translations": [
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
       "usageExamples": [
         [
-          "Ci sarò sempre per aiutarti.",
-          "I will always be there to help you.",
+          "Non vogliamo che se ne vada.",
+          "We don't want him to leave.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ci scuserai per un momento?",
-          "Will you excuse us for a moment?",
+          "Non mi sveglierò neppure se suona la sveglia.",
+          "I won't wake up even if the alarm rings.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ci sono delle isole nel mare.",
-          "There are islands in the sea.",
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "era",
+      "translations": [
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
+      ],
+      "usageExamples": [
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui era assente a causa della tempesta.",
+          "He was absent because of the storm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "serviva",
+      "content": "invitata",
       "translations": [
-        "servant",
-        "female servant",
-        "slave",
-        "handmaiden"
+        "invited",
+        "invitation",
+        "guest",
+        "invited person"
       ],
-      "usageExamples": [
-        [
-          "Non aveva ciò che le serviva.",
-          "She didn't have what she needed.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Claudio serviva un po' d'acqua.",
-          "Claudio needed some water.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Frequentiamo la scuola statale.",
-          "We attend state school.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dovette pulire la cucina.",
-          "He had to clean the kitchen.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho ammesso la sconfitta.",
-          "I admitted defeat.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "pioggia",
-      "translations": [
-        "rain",
-        "precipitation",
-        "downpour",
-        "shower"
-      ],
-      "usageExamples": [
-        [
-          "Io amo il suono della pioggia sul tetto.",
-          "I love the sound of rain on the roof.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

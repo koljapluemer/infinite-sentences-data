@@ -1,165 +1,125 @@
 {
-  "sentence": "Io amo il suono della pioggia sul tetto.",
+  "sentence": "In realtà non l'ho mai incontrata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I love the sound of rain on the roof."
+    "I never actually met her.",
+    "I've never actually met her."
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "In",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "Inside",
+        "Within",
+        "Into"
       ],
       "usageExamples": [
         [
-          "Io l'ho comprata.",
-          "I bought it.",
+          "In realtà il nero non è un colore. È l'assenza di colore.",
+          "In reality black is not a color; it is the absence of color.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "realtà",
+      "translations": [
+        "reality",
+        "fact",
+        "truth",
+        "actuality"
+      ],
+      "usageExamples": [
+        [
+          "In realtà il nero non è un colore. È l'assenza di colore.",
+          "In reality black is not a color; it is the absence of color.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono una patata.",
-          "I am a potato.",
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "l'ho",
+      "translations": [
+        "I have it",
+        "I've got it",
+        "I possess it",
+        "I own it"
+      ],
+      "usageExamples": [
         [
           "Io l'ho sentito.",
           "I heard it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non l'ho riconosciuto.",
+          "I didn't recognize it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "amo",
+      "content": "mai",
       "translations": [
-        "I love",
-        "I like",
-        "I am fond of",
-        "I adore"
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
       ],
       "usageExamples": [
         [
-          "Io amo i miei genitori.",
-          "I love my parents.",
-          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "Non dormite mai?",
+          "Don't you ever sleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "Avete mai provato?",
+          "Did you ever try?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non conosco il sistema.",
-          "I don't know the system.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suono",
+      "content": "incontrata",
       "translations": [
-        "sound",
-        "noise",
-        "tone",
-        "audio"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "della",
-      "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "concerning the"
-      ],
-      "usageExamples": [
-        [
-          "Sami consegnò della pizza.",
-          "Sami delivered pizza.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ziri ha alzato il volume della musica.",
-          "Ziri increased the music volume.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non sa nulla a riguardo della situazione.",
-          "Tom doesn't know anything about the situation.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "pioggia",
-      "translations": [
-        "rain",
-        "precipitation",
-        "downpour",
-        "shower"
-      ],
-      "usageExamples": [
-        [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sul",
-      "translations": [
-        "on",
-        "upon",
-        "over",
-        "above"
-      ],
-      "usageExamples": [
-        [
-          "Tom sta contando sul tuo aiuto.",
-          "Tom is counting on your help.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Ken piace sul serio Tom.",
-          "Ken does like Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lascia il mais sul tavolo.",
-          "Leave the corn on the table.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tetto",
-      "translations": [
-        "roof",
-        "ceiling",
-        "top",
-        "cover"
+        "met",
+        "encountered",
+        "came across",
+        "ran into"
       ],
       "usageExamples": []
     }

@@ -1,40 +1,121 @@
 {
-  "sentence": "Conosci quell'hotel?",
+  "sentence": "Con chi stava parlando Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you know that hotel?"
+    "Who was Tom talking to?"
   ],
   "parts": [
     {
-      "content": "Conosci",
+      "content": "Con",
       "translations": [
-        "Do you know?",
-        "Are you familiar with?",
-        "Have you heard of?",
-        "Do you recognize?"
+        "With",
+        "Against",
+        "In favor of",
+        "In support of"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Con chi ci andrà?",
+          "Who are you going with?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "quell'",
+      "content": "chi",
       "translations": [
-        "that one",
-        "that",
-        "the one"
+        "who",
+        "whom",
+        "which",
+        "that"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Con chi ci andrà?",
+          "Who are you going with?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ],
+        [
+          "A chi non piace quello?",
+          "Who doesn't like that?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "hotel",
+      "content": "stava",
       "translations": [
-        "inn",
-        "lodging",
-        "accommodation"
+        "was standing",
+        "was",
+        "stood",
+        "was situated"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io ho preso un taxi perché stava piovendo.",
+          "I took a taxi because it was raining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla stava piacendo questo.",
+          "Layla was enjoying this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "parlando",
+      "translations": [
+        "speaking",
+        "talking",
+        "conversing",
+        "discussing"
+      ],
+      "usageExamples": [
+        [
+          "Stavano parlando insieme come vecchi amici.",
+          "They were talking together like old pals.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Loro stanno parlando di lei?",
+          "Are they talking about you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy",
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

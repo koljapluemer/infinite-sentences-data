@@ -1,11 +1,11 @@
 {
-  "sentence": "Ich muss tanken.",
+  "sentence": "Ich bin nicht sicher, ob es vernünftig ist zu bleiben.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Benzin almak zorundayım."
+    "Benim kalmamın mantıklı olduğundan emin değilim."
   ],
   "parts": [
     {
@@ -15,34 +15,158 @@
       ],
       "usageExamples": [
         [
-          "Ich verstehe ungefähr.",
-          "Aşağı yukarı anlıyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich bin verwirrt.",
-          "Benim kafam karıştı.",
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
           "Ich schwimme sehr gern.",
           "Yüzmeyi seviyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich verstehe ungefähr.",
+          "Aşağı yukarı anlıyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "muss",
+      "content": "bin",
       "translations": [
-        "gerekir"
+        "varım",
+        "bulunuyorum"
       ],
       "usageExamples": [
         [
-          "Ich muss für eine Spanienreise Spanisch lernen.",
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
+          "Ich bin in Teheran.",
+          "Tahran'dayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich bin verwirrt.",
+          "Benim kafam karıştı.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "nicht",
+      "translations": [
+        "değil",
+        "ne",
+        "yok"
+      ],
+      "usageExamples": [
+        [
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sizinle sonucu paylaşma niyetinde değilim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
+          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ob",
+      "translations": [
+        "mı"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "es",
+      "translations": [
+        "onu",
+        "Onu",
+        "ona"
+      ],
+      "usageExamples": [
+        [
+          "So ist es.",
+          "Aynen öyle.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Von wem hast du es erfahren?",
+          "Kimden öğrendin?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es ist unwahrscheinlich, dass es ihm gelungen ist.",
+          "Onun bunu başarması inanılmaz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vernünftig",
+      "translations": [
+        "mantıklı"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ist",
+      "translations": [
+        "dır",
+        "olmak"
+      ],
+      "usageExamples": [
+        [
+          "Wie ist das Wetter?",
+          "Hava nasıl?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wo ist deine Mama?",
+          "Annen nerede?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "So ist es.",
+          "Aynen öyle.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "zu",
+      "translations": [
+        "para"
+      ],
+      "usageExamples": [
+        [
+          "Ich war zu Hause.",
+          "Evdeydim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Bana sorunu çözmeme izin veriniz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Was möchtest du zu essen?",
+          "Öğle yemeği için ne istersin?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bleiben",
+      "translations": [
+        "kalacak"
+      ],
+      "usageExamples": []
     }
   ]
 }

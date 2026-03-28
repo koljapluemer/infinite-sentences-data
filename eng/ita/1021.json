@@ -1,22 +1,74 @@
 {
-  "sentence": "Vedemmo un lupo.",
+  "sentence": "Vado a trovare un'amica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Agestur (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We saw a wolf."
+    "I'm going to visit a friend."
   ],
   "parts": [
     {
-      "content": "Vedemmo",
+      "content": "Vado",
       "translations": [
-        "We saw",
-        "We have seen",
-        "We looked at",
-        "We observed"
+        "I go",
+        "I'm going.",
+        "I am going.",
+        "I will go."
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Vado ora a iscrivermi a un corso di tedesco.",
+          "I'm going to sign up for a German class right now.",
+          "Sentence from Tatoeba by xicotenga (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trovare",
+      "translations": [
+        "to find",
+        "to discover",
+        "to locate",
+        "to come across"
+      ],
+      "usageExamples": [
+        [
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
+          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "un",
@@ -27,11 +79,6 @@
       ],
       "usageExamples": [
         [
-          "Ti compro un regalo.",
-          "I buy you a present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Noi abbiamo un ristorante.",
           "We have a restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,15 +87,20 @@
           "È un portiere.",
           "He's a goal keeper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beviamo un'altra birra.",
+          "Let's drink another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lupo",
+      "content": "amica",
       "translations": [
-        "wolf",
-        "werewolf",
-        "lone wolf"
+        "friend",
+        "female friend",
+        "girlfriend"
       ],
       "usageExamples": []
     }

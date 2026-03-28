@@ -1,106 +1,97 @@
 {
-  "sentence": "Meine Mutter spricht nicht sehr gut Englisch.",
+  "sentence": "Ich war einmal so verwirrt.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Annem İngilizceyi pek iyi konuşmaz."
+    "Bir zamanlar kafam çok karışıktı."
   ],
   "parts": [
     {
-      "content": "Mutter",
+      "content": "Ich",
       "translations": [
-        "anne",
-        "mam",
-        "Annen",
-        "Annem"
+        "Ben"
       ],
       "usageExamples": [
+        [
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich wollte mich erinnern.",
+          "Ben hatırlamak istiyordum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich war zu Hause.",
+          "Evdeydim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "war",
+      "translations": [
+        "olduğunu",
+        "ydı"
+      ],
+      "usageExamples": [
+        [
+          "Der Bus war leer.",
+          "Otobüs boştu.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich war zu Hause.",
+          "Evdeydim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Die Waldfläche war in drei Sektoren unterteilt.",
+          "Orman alanı üç sektöre ayrıldı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "so",
+      "translations": [
+        "böyle",
+        "öyle",
+        "tam"
+      ],
+      "usageExamples": [
+        [
+          "Warum überlegen Sie so lange?",
+          "Neden bu kadar uzun düşünüyorsun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
         [
           "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
           "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich hab auch nicht gewollt, dass es so kommt.",
+          "Ben de böyle olsun istemezdim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "spricht",
+      "content": "verwirrt",
       "translations": [
-        "konuşur"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "nicht",
-      "translations": [
-        "değil",
-        "ne",
-        "yok"
+        "karıştı"
       ],
       "usageExamples": [
         [
-          "Nur nicht aufgeben!",
-          "Sakın pes etme!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
-          "Sizinle sonucu paylaşma niyetinde değilim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich werde nicht fragen, warum du das willst.",
-          "Bunu neden istediğini sormayacağım.",
+          "Ich bin verwirrt.",
+          "Benim kafam karıştı.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "sehr",
-      "translations": [
-        "çok",
-        "pek"
-      ],
-      "usageExamples": [
-        [
-          "Ich schwimme sehr gern.",
-          "Yüzmeyi seviyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich interessiere mich sehr für Fußball.",
-          "Futbola çok ilgim var.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Esperanto zu lernen ist sehr interessant.",
-          "Esperanto öğrenmek çok ilginçtir.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "gut",
-      "translations": [
-        "iyi",
-        "İyi",
-        "yi"
-      ],
-      "usageExamples": [
-        [
-          "Das fängt ja gut an!",
-          "İyi bir başlangıç oldu!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Englisch",
-      "translations": [
-        "İngilizceyi"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Per piacere, copi questa pagina.",
+  "sentence": "Per favore, digli di partire.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please copy this page."
+    "Please tell him to leave."
   ],
   "parts": [
     {
@@ -15,6 +15,32 @@
         "by",
         "through",
         "per"
+      ],
+      "usageExamples": [
+        [
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, faccia un bagno al cane.",
+          "Please give the dog a bath.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "favore",
+      "translations": [
+        "favor",
+        "support",
+        "kindness",
+        "assistance"
       ],
       "usageExamples": [
         [
@@ -28,89 +54,57 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Per ringraziarti, ecco un regalo.",
-          "To thank you, here is a gift.",
+          "Vorrei un po' di vino bianco, per favore.",
+          "I'd like some white wine, please.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piacere",
+      "content": "digli",
       "translations": [
-        "to please",
-        "to like",
-        "pleasure",
-        "enjoyment"
-      ],
-      "usageExamples": [
-        [
-          "Per piacere, aspetta finché non arriva.",
-          "Please wait until he arrives.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mark potrebbe piacere Jessica.",
-          "Mark might like Jessica.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi fa piacere che le piaccia.",
-          "I'm glad you like him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "copi",
-      "translations": [
-        "copy",
-        "duplicate",
-        "reproduction",
-        "facsimile"
+        "tell him",
+        "say to him",
+        "give him a message",
+        "inform him"
       ],
       "usageExamples": []
     },
     {
-      "content": "questa",
+      "content": "di",
       "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Ti darò questa biro.",
-          "I'll give you this pen.",
+          "Volete sentire di più?",
+          "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mio nonno si siede sempre su questa sedia.",
-          "My grandfather always sits in this chair.",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom voleva che questa fosse una sorpresa.",
-          "Tom wanted this to be a surprise.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pagina",
+      "content": "partire",
       "translations": [
-        "page",
-        "sheet",
-        "leaf",
-        "folio"
+        "to leave",
+        "to depart",
+        "to split",
+        "to share"
       ],
-      "usageExamples": [
-        [
-          "Questa pagina non è mai stata divertente.",
-          "This page was never funny.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

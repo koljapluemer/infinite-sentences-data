@@ -1,11 +1,11 @@
 {
-  "sentence": "Il cambiamento è spaventoso.",
+  "sentence": "Il Museo del Prado è chiuso perché oggi è lunedì.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Change is scary."
+    "The Prado Museum is closed because today is Monday."
   ],
   "parts": [
     {
@@ -16,8 +16,8 @@
       ],
       "usageExamples": [
         [
-          "Il cane scodinzolava.",
-          "The dog wagged its tail.",
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -26,27 +26,56 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il gatto mangia.",
-          "The cat eats.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cambiamento",
+      "content": "Museo",
       "translations": [
-        "change",
-        "transformation",
-        "modification",
-        "shift"
+        "Museum",
+        "Gallery",
+        "Exhibition space",
+        "Cultural institution"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "by the"
       ],
       "usageExamples": [
         [
-          "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
-          "A son would represent continuity in a rapidly changing world.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "Prado",
+      "translations": [
+        "Meadow",
+        "Field",
+        "Pasture"
+      ],
+      "usageExamples": []
     },
     {
       "content": "è",
@@ -58,29 +87,89 @@
       ],
       "usageExamples": [
         [
-          "Tom è ovviamente arrabbiato.",
-          "Tom is obviously angry.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Lei è americano?",
+          "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La matematica è divertente.",
-          "Math is fun.",
-          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "spaventoso",
+      "content": "chiuso",
       "translations": [
-        "scary",
-        "frightening",
-        "terrifying",
-        "dreadful"
+        "closed",
+        "shut",
+        "locked",
+        "sealed"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "perché",
+      "translations": [
+        "why",
+        "because",
+        "for what reason",
+        "for what purpose"
+      ],
+      "usageExamples": [
+        [
+          "O Romeo Romeo, perché sei tu Romeo?",
+          "O Romeo, Romeo, wherefore art thou Romeo?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non lo avete fatto?",
+          "Why didn't you do it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non capisco perché non tutte le ragazze sono lesbiche.",
+          "I don't get why not all girls are lesbians.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "oggi",
+      "translations": [
+        "today",
+        "this day",
+        "on this day"
+      ],
+      "usageExamples": [
+        [
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La temperatura minima di oggi era di 3 gradi Celsius.",
+          "Today's low was 3 degrees Celsius.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non ho ancora mangiato niente oggi.",
+          "I haven't yet eaten anything today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lunedì",
+      "translations": [
+        "Monday",
+        "the first day of the week",
+        "day of the moon"
       ],
       "usageExamples": []
     }

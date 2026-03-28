@@ -1,13 +1,11 @@
 {
-  "sentence": "Questo portatile è molto sottile.",
+  "sentence": "Questo cane è brutto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by halfdan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by VoiceLessQ (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This laptop computer is very thin.",
-    "This laptop is very thin."
+    "This dog is ugly."
   ],
   "parts": [
     {
@@ -20,31 +18,46 @@
       ],
       "usageExamples": [
         [
-          "Questo è un occhio.",
-          "This is an eye.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Questo è un test?",
           "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è tutto quello che porto con me.",
+          "This is all I'm taking with me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "portatile",
+      "content": "cane",
       "translations": [
-        "portable",
-        "laptop",
-        "mobile device",
-        "handheld"
+        "dog",
+        "walking stick",
+        "rod"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, faccia un bagno al cane.",
+          "Please give the dog a bath.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "è",
@@ -56,57 +69,37 @@
       ],
       "usageExamples": [
         [
-          "Tom si è divertito.",
-          "Tom had fun.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Tom è famoso.",
+          "Tom is famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molto",
+      "content": "brutto",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "ugly",
+        "bad",
+        "rough",
+        "disgusting"
       ],
       "usageExamples": [
         [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Amo molto mia madre.",
-          "I love my mother very much.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È molto bello rivedervi.",
-          "It is very nice to see you again.",
+          "Forse questo è un brutto momento.",
+          "Maybe this is a bad time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "sottile",
-      "translations": [
-        "thin",
-        "slim",
-        "subtle",
-        "fine"
-      ],
-      "usageExamples": []
     }
   ]
 }

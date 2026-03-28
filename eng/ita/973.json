@@ -1,99 +1,145 @@
 {
-  "sentence": "Tom sta cenando adesso.",
+  "sentence": "Tom si è lamentato del rumore eccessivo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is eating dinner right now.",
-    "Tom is having dinner right now."
+    "Tom complained about the excessive noise."
   ],
   "parts": [
     {
       "content": "Tom",
       "translations": [
         "Thomas",
-        "Tommy"
+        "Tommy",
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Tom sembra impegnato.",
+          "Tom looks busy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
-        [
-          "Lasciate finire Tom.",
-          "Let Tom finish.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sta",
-      "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
-      ],
-      "usageExamples": [
         [
           "Tom sta lavorando, vero?",
           "Tom is working, isn't he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta gemendo.",
-          "Tom is groaning.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Qualcuno sta osservando Tom.",
-          "Someone is watching Tom.",
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cenando",
+      "content": "si",
       "translations": [
-        "dining",
-        "having dinner",
-        "eating dinner",
-        "during dinner"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lamentato",
+      "translations": [
+        "lamented",
+        "mourned",
+        "grieved over",
+        "expressed sorrow for"
       ],
       "usageExamples": []
     },
     {
-      "content": "adesso",
+      "content": "del",
       "translations": [
-        "now",
-        "right now",
-        "at this moment",
-        "currently"
+        "of the",
+        "from the",
+        "about the",
+        "by the"
       ],
       "usageExamples": [
         [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sto cucinando adesso.",
-          "I am cooking now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "rumore",
+      "translations": [
+        "noise",
+        "sound",
+        "rumor",
+        "commotion"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "eccessivo",
+      "translations": [
+        "excessive",
+        "overly",
+        "too much",
+        "exorbitant"
+      ],
+      "usageExamples": []
     }
   ]
 }

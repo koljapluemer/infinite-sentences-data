@@ -1,15 +1,12 @@
 {
-  "sentence": "Lei ha già finito?",
+  "sentence": "Lei ci catturerà.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you done yet?",
-    "Are you finished yet?",
-    "Are you through yet?",
-    "Have you already finished?",
-    "Have you finished yet?"
+    "She will catch us.",
+    "You will catch us."
   ],
   "parts": [
     {
@@ -22,33 +19,8 @@
       ],
       "usageExamples": [
         [
-          "Lei ha frenato.",
-          "She braked.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ci catturerà.",
-          "You will catch us.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è americano?",
-          "Are you American?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ha",
-      "translations": [
-        "has",
-        "he has",
-        "there is"
-      ],
-      "usageExamples": [
-        [
-          "Tom ha molti amici?",
-          "Does Tom have lots of friends?",
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -57,58 +29,47 @@
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ],
         [
-          "L'ha salvata.",
-          "He rescued her.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "già",
+      "content": "ci",
       "translations": [
-        "already",
-        "now",
-        "yet",
-        "at this point"
+        "us",
+        "to us",
+        "for us",
+        "at us"
       ],
       "usageExamples": [
         [
-          "Lei ha già cominciato.",
-          "She has already begun.",
+          "Loro ci aiutano.",
+          "They help us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Berlino c'è già stata.",
-          "You've already been to Berlin.",
+          "Con chi ci andrà?",
+          "Who are you going with?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Pensavo che avesse già parlato con Tom.",
-          "I thought you'd already talked to Tom.",
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "finito",
+      "content": "catturerà",
       "translations": [
-        "finished",
-        "done",
-        "completed",
-        "over"
+        "will capture",
+        "will seize",
+        "will catch",
+        "will trap"
       ],
-      "usageExamples": [
-        [
-          "Il tempo è finito.",
-          "Time is up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

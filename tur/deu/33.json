@@ -1,50 +1,124 @@
 {
-  "sentence": "Tom analysierte die Ergebnisse.",
+  "sentence": "Immer wenn du lachst, stirbt irgendwo ein Problem.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom sonuçları analiz etti."
+    "Her gülüşünde bir yerlerde bir problem ölür."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Immer",
       "translations": [
-        "Tom"
+        "her zaman",
+        "daima"
       ],
       "usageExamples": []
     },
     {
-      "content": "die",
+      "content": "wenn",
       "translations": [
-        "bu",
-        "o"
+        "eğer",
+        "ne zaman"
       ],
       "usageExamples": [
         [
-          "Ich aß die grünen Äpfel.",
-          "Yeşil elmaları yedim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
-          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
+          "Ich fühle mich schlecht, wenn ich gute Noten schreibe.",
+          "İyi notlar aldığımda kendimi kötü hissediyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Ergebnisse",
+      "content": "du",
       "translations": [
-        "sonuçları"
+        "Sen",
+        "Kimi"
+      ],
+      "usageExamples": [
+        [
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wen liebst du?",
+          "Kimi seviyorsun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Magst du Sport?",
+          "Spor sever misin?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lachst",
+      "translations": [
+        "gülüyorsun",
+        "gülmekte"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "stirbt",
+      "translations": [
+        "ölür"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "irgendwo",
+      "translations": [
+        "bir yerde",
+        "herhangi bir yerde"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ein",
+      "translations": [
+        "bir"
+      ],
+      "usageExamples": [
+        [
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
+          "Seni başlangıçta planlanandan daha çok seviyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sie ist ein bisschen verrückt.",
+          "O biraz çatlak.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Problem",
+      "translations": [
+        "problem",
+        "sorunu",
+        "sorunla"
+      ],
+      "usageExamples": [
+        [
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Bana sorunu çözmeme izin veriniz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Das Problem dreht sich um folgende Frage:",
+          "Problem şu soru etrafında dönüyor:",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

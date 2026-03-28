@@ -1,11 +1,11 @@
 {
-  "sentence": "Tu realizzi quanti casini hai causato?",
+  "sentence": "Tu hai ordinato qualcosa?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you realize how much trouble you've caused?"
+    "Did you order something?"
   ],
   "parts": [
     {
@@ -23,51 +23,16 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Tu sei sposata?",
           "Are you married?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "realizzi",
-      "translations": [
-        "you realize",
-        "you achieve",
-        "you accomplish",
-        "you make happen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "quanti",
-      "translations": [
-        "how many",
-        "how much",
-        "what quantity"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Quanti giorni ci sono a ottobre?",
-          "How many days are in October?",
+          "Tu hai dei vestiti per bambini?",
+          "Do you have children's clothes?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "casini",
-      "translations": [
-        "mess",
-        "chaos",
-        "disorder",
-        "mayhem"
-      ],
-      "usageExamples": []
     },
     {
       "content": "hai",
@@ -79,6 +44,11 @@
       ],
       "usageExamples": [
         [
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
           "Quanti ne hai?",
           "How many do you have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -87,23 +57,50 @@
           "Non hai coscienza!",
           "You have no conscience!",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "ordinato",
+      "translations": [
+        "ordered",
+        "neat",
+        "tidy",
+        "arranged"
+      ],
+      "usageExamples": [
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "Tom ha ordinato una bottiglia di vino.",
+          "Tom ordered a bottle of wine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "causato",
+      "content": "qualcosa",
       "translations": [
-        "caused",
-        "resulted",
-        "brought about",
-        "led to"
+        "something",
+        "anything",
+        "a thing",
+        "a little something"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Layla dimenticò qualcosa.",
+          "Layla forgot something.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso qualcosa?",
+          "Did you lose something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha fatto qualcosa di incredibilmente stupido.",
+          "You did something incredibly stupid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,84 +1,125 @@
 {
-  "sentence": "Potete vedere quella luce tremolante?",
+  "sentence": "Posso chiedere il vostro nome?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by sysko (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Can you see that flickering light?"
+    "May I ask your name?"
   ],
   "parts": [
     {
-      "content": "Potete",
+      "content": "Posso",
       "translations": [
-        "You can",
-        "You are able to",
-        "You may.",
-        "You are allowed to"
+        "I can.",
+        "I am able to",
+        "I may",
+        "I might"
       ],
       "usageExamples": []
     },
     {
-      "content": "vedere",
+      "content": "chiedere",
       "translations": [
-        "to see",
-        "to watch",
-        "to look at",
-        "to perceive"
+        "to ask",
+        "to request",
+        "to inquire",
+        "to demand"
       ],
       "usageExamples": [
         [
-          "Lo zio Ted ci portò allo zoo per farci vedere i panda.",
-          "Uncle Ted took us to the zoo in order to show us the pandas.",
+          "Avrebbe dovuto chiedere a lui prima.",
+          "You should've asked him first.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse lo dovrebbe chiedere a lei.",
+          "Maybe you should ask her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo dovrebbe chiedere a loro.",
+          "You should ask them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quella",
+      "content": "il",
       "translations": [
-        "that",
-        "the one",
-        "that one",
-        "the"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Cos'è quella cosa là?",
-          "What's that thing there?",
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Taxi, segui quella macchina.",
-          "Taxi, follow that car.",
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami sentì quella ragazza.",
-          "Sami heard that girl.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "luce",
+      "content": "vostro",
       "translations": [
-        "light",
-        "brightness",
-        "illumination",
-        "radiance"
+        "your",
+        "yours",
+        "your own"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Penso che Tom abbia il vostro ombrello.",
+          "I think Tom has your umbrella.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A proposito di musica classica, qual è il vostro compositore preferito?",
+          "Talking of classical music, who is your favorite composer?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il vostro silenzio mi rende nervoso.",
+          "Your silence makes me nervous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "tremolante",
+      "content": "nome",
       "translations": [
-        "trembling",
-        "shaking",
-        "quivering",
-        "vibrating"
+        "name",
+        "title",
+        "designation",
+        "label"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ho scordato il suo nome.",
+          "I forgot your name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo nome.",
+          "Mary didn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo nome.",
+          "Mary doesn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

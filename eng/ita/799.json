@@ -1,105 +1,105 @@
 {
-  "sentence": "Questo cane è brutto.",
+  "sentence": "Queste scatole sono fatte di plastica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by VoiceLessQ (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This dog is ugly."
+    "These boxes are made of plastic.",
+    "These boxes are made out of plastic."
   ],
   "parts": [
     {
-      "content": "Questo",
+      "content": "Queste",
       "translations": [
-        "This",
-        "This one",
-        "This thing",
-        "This item"
+        "These",
+        "These ones",
+        "These items",
+        "These things"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "scatole",
+      "translations": [
+        "boxes",
+        "containers",
+        "cases",
+        "packaging"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are",
+        "am"
       ],
       "usageExamples": [
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Tutte sono felici.",
+          "Everybody's happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un test?",
-          "Is this a test?",
+          "Io sono solo curiosa.",
+          "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo ristorante ha tre stelle Michelin.",
-          "This restaurant has three Michelin stars.",
+          "Io sono una patata.",
+          "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cane",
+      "content": "fatte",
       "translations": [
-        "dog",
-        "walking stick",
-        "rod"
+        "made",
+        "done",
+        "performed",
+        "accomplished"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Il cane scodinzolava.",
-          "The dog wagged its tail.",
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Un cane ha corso.",
-          "A dog ran.",
+          "Può fare di meglio.",
+          "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Per favore, faccia un bagno al cane.",
-          "Please give the dog a bath.",
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "plastica",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "plastic",
+        "plastic material",
+        "synthetic polymer"
       ],
-      "usageExamples": [
-        [
-          "Tom è famoso.",
-          "Tom is famous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è un fan.",
-          "Tom is a fan.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Forse è lui.",
-          "Maybe it's him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "brutto",
-      "translations": [
-        "ugly",
-        "bad",
-        "rough",
-        "disgusting"
-      ],
-      "usageExamples": [
-        [
-          "Forse questo è un brutto momento.",
-          "Maybe this is a bad time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

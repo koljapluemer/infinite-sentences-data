@@ -1,78 +1,102 @@
 {
-  "sentence": "Era occupato ieri?",
+  "sentence": "Ehi, Tom, dimentica le tue paure.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Were you busy yesterday?"
+    "Hey, Tom, forget about your worries."
   ],
   "parts": [
     {
-      "content": "Era",
+      "content": "Ehi",
       "translations": [
-        "Period",
-        "Age",
-        "Epoch"
+        "Hey.",
+        "Hello.",
+        "Hi.",
+        "Yo"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy",
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Era un libro nuovo.",
-          "It was a new book.",
+          "Tom vende funghi psichedelici.",
+          "Tom sells psychedelic mushrooms.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era in ritardo.",
-          "He was late.",
+          "Tom si è divertito.",
+          "Tom had some fun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era eccellente.",
-          "You were excellent.",
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "occupato",
+      "content": "dimentica",
       "translations": [
-        "busy",
-        "occupied",
-        "engaged",
-        "taken"
+        "forget",
+        "overlook",
+        "neglect",
+        "dismiss"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
-          "Perché Tom è sempre così occupato?",
-          "Why is Tom always so busy?",
+          "Non le può licenziare.",
+          "You can't fire them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "2.200 dollari sono stati stanziati per le spese.",
+          "2200 dollars have been allocated for expenses.",
+          "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ieri",
+      "content": "tue",
       "translations": [
-        "yesterday",
-        "the day before today",
-        "the previous day"
+        "your",
+        "yours",
+        "of you"
       ],
-      "usageExamples": [
-        [
-          "Sono andato all'ospedale ieri.",
-          "I went to the hospital yesterday.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ci sono andata l'altro ieri.",
-          "I went there the day before yesterday.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Siamo arrivati ieri in treno.",
-          "We arrived yesterday afternoon by train.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "paure",
+      "translations": [
+        "fear",
+        "scare",
+        "anxiety",
+        "dread"
+      ],
+      "usageExamples": []
     }
   ]
 }

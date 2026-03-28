@@ -1,44 +1,97 @@
 {
-  "sentence": "Tom provò a catturare il coniglio.",
+  "sentence": "Tom non è bravo a tennis.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom tried to catch the rabbit."
+    "Tom isn't good at tennis."
   ],
   "parts": [
     {
       "content": "Tom",
       "translations": [
         "Thomas",
-        "Tommy"
+        "Tommy",
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Tom ha molti amici?",
-          "Does Tom have lots of friends?",
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "provò",
+      "content": "non",
       "translations": [
-        "he/she tried",
-        "he/she tested",
-        "he/she attempted",
-        "he/she proved"
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bravo",
+      "translations": [
+        "good",
+        "brave",
+        "clever",
+        "well done"
       ],
       "usageExamples": []
     },
@@ -51,8 +104,8 @@
       ],
       "usageExamples": [
         [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
+          "Devo andare a trovarli.",
+          "I must go and find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,56 +114,36 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volate fino a Londra.",
-          "Fly to London.",
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "catturare",
+      "content": "tennis",
       "translations": [
-        "to capture",
-        "to seize",
-        "to catch",
-        "to trap"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "the sport of tennis",
+        "game of tennis",
+        "tennis match"
       ],
       "usageExamples": [
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
+          "A Helena piace giocare a tennis.",
+          "Helena likes to play tennis.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "Giocherete a tennis dopo la scuola?",
+          "Will you play tennis after school?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "A Lucy piace giocare a tennis.",
+          "Lucy likes playing tennis.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "coniglio",
-      "translations": [
-        "rabbit",
-        "bunny",
-        "hare"
-      ],
-      "usageExamples": []
     }
   ]
 }

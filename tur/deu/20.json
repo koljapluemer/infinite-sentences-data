@@ -1,11 +1,11 @@
 {
-  "sentence": "Ich will dir helfen.",
+  "sentence": "Ich habe die Geschichte nicht gelesen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Size yardım etmek istiyorum."
+    "Hikayeyi okumadım."
   ],
   "parts": [
     {
@@ -15,46 +15,98 @@
       ],
       "usageExamples": [
         [
-          "Ich wollte mich erinnern.",
-          "Ben hatırlamak istiyordum.",
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich bin in Teheran.",
-          "Tahran'dayım.",
+          "Ich verstehe ungefähr.",
+          "Aşağı yukarı anlıyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich hasse meine Nachbarn.",
-          "Komşularımdan nefret ediyorum.",
+          "Ich war zu Hause.",
+          "Evdeydim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "will",
+      "content": "habe",
       "translations": [
-        "istiyor"
+        "sahip olmak",
+        "var olmak"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sizinle sonucu paylaşma niyetinde değilim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe Tom seit gestern nicht gesehen.",
+          "Dünden beri Tom'u görmedim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe die Zugfahrkarten vergessen.",
+          "Tren biletlerini unuttum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "die",
+      "translations": [
+        "bu",
+        "o"
+      ],
+      "usageExamples": [
+        [
+          "Tom analysierte die Ergebnisse.",
+          "Tom sonuçları analiz etti.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es ist gegen die Regeln.",
+          "Bu kurallara aykırıdır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sizinle sonucu paylaşma niyetinde değilim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Geschichte",
+      "translations": [
+        "hikaye"
       ],
       "usageExamples": []
     },
     {
-      "content": "dir",
+      "content": "nicht",
       "translations": [
-        "Sana",
-        "Seni",
-        "dir",
-        "sana"
+        "değil",
+        "ne",
+        "yok"
       ],
       "usageExamples": [
         [
-          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
-          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich erlaube dir zu gehen.",
-          "Sana gitmen için izin veriyorum.",
+          "Tom ist unglücklich, nicht wahr?",
+          "Tom mutsuz, değil mi?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
+          "Bugünün işini yarına bırakma.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]

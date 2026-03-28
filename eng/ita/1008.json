@@ -1,68 +1,74 @@
 {
-  "sentence": "Tutte sono felici.",
+  "sentence": "Tu sei sposata?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "All are happy.",
-    "Everybody's happy.",
-    "Everyone is happy."
+    "Are you married?"
   ],
   "parts": [
     {
-      "content": "Tutte",
+      "content": "Tu",
       "translations": [
-        "All",
-        "Everyone",
-        "Everything",
-        "All of them"
+        "You",
+        "Yourself",
+        "Thou",
+        "Ye"
+      ],
+      "usageExamples": [
+        [
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu comprendi quel libro.",
+          "You understand that book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu hai dei vestiti per bambini?",
+          "Do you have children's clothes?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sei",
+      "translations": [
+        "six",
+        "you are",
+        "if you",
+        "be"
+      ],
+      "usageExamples": [
+        [
+          "Dove sei in questo momento?",
+          "Where are you right now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu sei quello che ha chiesto a Tom di aiutare?",
+          "Are you the one who asked Tom to help?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu sei stato di grande aiuto per la nostra famiglia.",
+          "You've been a great help to our family.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sposata",
+      "translations": [
+        "married",
+        "spouse",
+        "wife",
+        "in a marital relationship"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "sono",
-      "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
-      ],
-      "usageExamples": [
-        [
-          "Mi sono tuffato nell'acqua.",
-          "I dived into the water.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché sono qui?",
-          "Why am I here?",
-          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sono solo curiosa.",
-          "I'm just curious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "felici",
-      "translations": [
-        "happy",
-        "joyful",
-        "fortunate",
-        "blissful"
-      ],
-      "usageExamples": [
-        [
-          "Tom mi ha detto che eravate felici.",
-          "Tom told me you were happy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

@@ -1,68 +1,130 @@
 {
-  "sentence": "Wie ist das Wetter?",
+  "sentence": "Sie hat eine Katze und zwei Hunde.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hava nasıl?"
+    "Onun bir kedisi ve iki köpeği var."
   ],
   "parts": [
     {
-      "content": "ist",
+      "content": "Sie",
       "translations": [
-        "dır",
-        "olmak"
+        "Sen",
+        "Sizlerin"
       ],
       "usageExamples": [
         [
-          "Die Polizei ist hier.",
-          "Polis burada.",
+          "Sprechen Sie Türkisch?",
+          "Türkçe konuşur musunuz?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "So ist es.",
-          "Aynen",
+          "Sie ist ein bisschen verrückt.",
+          "O biraz çatlak.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Das ist kostenlos erhältlich.",
-          "Bu ücretsiz ulaşılabilir.",
+          "Sie tanzt mit einem anderen Mann.",
+          "O başka bir adamla dans ediyor.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "das",
+      "content": "hat",
       "translations": [
-        "bu",
-        "bunu",
-        "onu",
-        "Onu",
-        "ders"
+        "var",
+        "sahip",
+        "bulunmak"
       ],
       "usageExamples": [
         [
-          "Wer ist das denn?",
-          "Bu da kim?",
+          "Tom hat viel Zeit.",
+          "Tom'un çok zamanı var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich behaupte, dass das nicht stimmt.",
-          "Bunun doğru olmadığını iddia ediyorum.",
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Sie wollte das Geheimnis verraten.",
-          "O bu sırrı açık etmek istiyor.",
+          "Tom hat keinen australischen Akzent.",
+          "Tom'un Avustralyalı aksanı yok.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Wetter",
+      "content": "eine",
       "translations": [
-        "Hava"
+        "bir",
+        "bir tane"
+      ],
+      "usageExamples": [
+        [
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du hast eine Alternative.",
+          "Bir alternatifin var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nimm eine kalte Dusche und trinke dann einen heißen Tee!",
+          "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Katze",
+      "translations": [
+        "kedisi"
+      ],
+      "usageExamples": [
+        [
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "und",
+      "translations": [
+        "eş",
+        "ile",
+        "ve",
+        "e",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Nimm eine kalte Dusche und trinke dann einen heißen Tee!",
+          "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?",
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Im Winter komme ich ab und zu hierher.",
+          "Kışın arada sırada buraya geliyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "zwei",
+      "translations": [
+        "iki"
       ],
       "usageExamples": []
     }

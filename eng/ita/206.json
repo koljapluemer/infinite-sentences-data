@@ -1,57 +1,85 @@
 {
-  "sentence": "Chiamate un'ambulanza!",
+  "sentence": "Chi era qua?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by jared1981 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Call an ambulance!"
+    "Who was here?"
   ],
   "parts": [
     {
-      "content": "Chiamate",
+      "content": "Chi",
       "translations": [
-        "Calls",
-        "Phone calls",
-        "Incoming calls",
-        "Outgoing calls"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
+        "Who",
+        "Whom",
+        "Who is it",
+        "Who is that"
       ],
       "usageExamples": [
         [
-          "È un nuovo libro.",
-          "It's a new book.",
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era un libro nuovo.",
-          "It was a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vedemmo un lupo.",
-          "We saw a wolf.",
+          "Chi potrebbe incolparci?",
+          "Who could blame us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ambulanza",
+      "content": "era",
       "translations": [
-        "ambulance",
-        "emergency vehicle",
-        "medic transport",
-        "rescue vehicle"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "qua",
+      "translations": [
+        "where",
+        "in which",
+        "at which",
+        "by which"
+      ],
+      "usageExamples": [
+        [
+          "Devo aspettarli qua.",
+          "I have to wait here for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno qua balla bene come te.",
+          "Nobody here dances as well as you.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

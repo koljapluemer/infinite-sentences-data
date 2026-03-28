@@ -1,18 +1,117 @@
 {
-  "sentence": "Andammo al supermercato asiatico.",
+  "sentence": "Alcune scuole devono far fronte a tagli al bilancio.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ryanthewired (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We went to the Asian supermarket."
+    "Some schools face budget cuts."
   ],
   "parts": [
     {
-      "content": "Andammo",
+      "content": "Alcune",
       "translations": [
-        "We went",
-        "We have gone"
+        "Some",
+        "A few",
+        "Several",
+        "A number of"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "scuole",
+      "translations": [
+        "schools",
+        "educational institutions",
+        "learning centers",
+        "academic establishments"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "devono",
+      "translations": [
+        "they must",
+        "they have to",
+        "they need to",
+        "they are required to"
+      ],
+      "usageExamples": [
+        [
+          "So che Tom e Mary devono andare a Boston.",
+          "I know Tom and Mary have to go to Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "far",
+      "translations": [
+        "to do",
+        "to make",
+        "to cause",
+        "to perform"
+      ],
+      "usageExamples": [
+        [
+          "A Jane piaceva far credere che fosse un insegnante.",
+          "Jane liked to make believe she was a teacher.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Jane piaceva far credere che lei fosse un insegnante.",
+          "Jane liked to make believe she was a teacher.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fronte",
+      "translations": [
+        "forehead",
+        "front",
+        "face",
+        "frontline"
+      ],
+      "usageExamples": [
+        [
+          "Hanno perso la guerra sul fronte orientale.",
+          "They lost the war on the eastern front.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tagli",
+      "translations": [
+        "cuts",
+        "slices",
+        "sections",
+        "pieces"
       ],
       "usageExamples": []
     },
@@ -31,34 +130,24 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Rispondete al dannato telefono!",
-          "Answer the damn phone!",
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami lavorava al ristorante.",
-          "Sami used to work at the restaurant.",
+          "Andammo al supermercato asiatico.",
+          "We went to the Asian supermarket.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "supermercato",
+      "content": "bilancio",
       "translations": [
-        "supermarket",
-        "grocery store",
-        "food market",
-        "market"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "asiatico",
-      "translations": [
-        "Asian",
-        "Asian person",
-        "Asian culture",
-        "Asian cuisine"
+        "balance",
+        "financial statement",
+        "budget",
+        "accounts"
       ],
       "usageExamples": []
     }

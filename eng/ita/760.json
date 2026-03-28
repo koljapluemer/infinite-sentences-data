@@ -1,81 +1,94 @@
 {
-  "sentence": "Preferirei non farlo.",
+  "sentence": "Possono avere qualsiasi cosa vogliono.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd rather not do it.",
-    "I'd rather not do that."
+    "They can have anything they want."
   ],
   "parts": [
     {
-      "content": "Preferirei",
+      "content": "Possono",
       "translations": [
-        "I would prefer",
-        "I would rather",
-        "I would choose",
-        "I would like to prefer"
+        "They can",
+        "You can",
+        "One can",
+        "People can"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "avere",
+      "translations": [
+        "to have",
+        "to possess",
+        "to own",
+        "to hold"
       ],
       "usageExamples": [
         [
-          "Preferirei restare qua a Boston.",
-          "I'd rather stay here in Boston.",
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary nega di avere pianto.",
+          "Mary denies that she cried.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pensa che Tom potrebbe avere ragione?",
+          "Do you think Tom might be correct?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "qualsiasi",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "any",
+        "whatever",
+        "whichever",
+        "anyone"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "cosa",
+      "translations": [
+        "thing",
+        "item",
+        "object",
+        "matter"
       ],
       "usageExamples": [
         [
-          "Però non funzionerà!",
-          "But that won't work!",
+          "Che cosa direste?",
+          "What would you say?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non ha corso?",
-          "Why didn't you run?",
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "farlo",
+      "content": "vogliono",
       "translations": [
-        "to do it",
-        "to make it",
-        "to get it done",
-        "to accomplish it"
+        "they want",
+        "want",
+        "they wish",
+        "they desire"
       ],
-      "usageExamples": [
-        [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non potrei mai farlo a lei.",
-          "I could never do that to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary dice che ha già deciso di farlo.",
-          "Mary says she's already decided to do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

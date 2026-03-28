@@ -1,101 +1,84 @@
 {
-  "sentence": "Ehi, Tom, dimentica le tue paure.",
+  "sentence": "Dovresti aiutare Tom.",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hey, Tom, forget about your worries."
+    "You should help Tom."
   ],
   "parts": [
     {
-      "content": "Ehi",
+      "content": "Dovresti",
       "translations": [
-        "Hey.",
-        "Hello.",
-        "Hi.",
-        "Yo"
+        "You should",
+        "You ought to",
+        "You must",
+        "You are supposed to"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti sposarlo.",
+          "You should marry him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aiutare",
+      "translations": [
+        "to help",
+        "to assist",
+        "to aid",
+        "to support"
+      ],
+      "usageExamples": [
+        [
+          "Li vada ad aiutare.",
+          "Go and help them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi devi aiutare a salvarle.",
+          "You must help me save them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "Tom",
       "translations": [
         "Thomas",
-        "Tommy"
+        "Tommy",
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Tom era creativo.",
-          "Tom was creative.",
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volete veramente votare Tom?",
-          "Do you really want to vote for Tom?",
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dimentica",
-      "translations": [
-        "forget",
-        "overlook",
-        "neglect",
-        "dismiss"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "le",
-      "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
-      ],
-      "usageExamples": [
-        [
-          "Non le può licenziare.",
-          "You can't fire them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non le vogliamo là.",
-          "We don't want them there.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È quello che fanno le persone intelligenti.",
-          "That's what smart people do.",
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "tue",
-      "translations": [
-        "your",
-        "yours",
-        "of you"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "paure",
-      "translations": [
-        "fear",
-        "scare",
-        "anxiety",
-        "dread"
-      ],
-      "usageExamples": []
     }
   ]
 }

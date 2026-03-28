@@ -1,132 +1,75 @@
 {
-  "sentence": "Chiamatemi se avete bisogno di assistenza.",
+  "sentence": "Chi lavora in quell'ufficio?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Call me if you need assistance."
+    "Who works in that office?"
   ],
   "parts": [
     {
-      "content": "Chiamatemi",
+      "content": "Chi",
       "translations": [
-        "Call me.",
-        "You can call me",
-        "Just call me"
+        "Who",
+        "Whom",
+        "Who is it",
+        "Who is that"
+      ],
+      "usageExamples": [
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi potrebbe incolparci?",
+          "Who could blame us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lavora",
+      "translations": [
+        "works",
+        "operates",
+        "functions",
+        "acts"
       ],
       "usageExamples": []
     },
     {
-      "content": "se",
+      "content": "in",
       "translations": [
-        "himself",
-        "herself",
-        "itself",
-        "themselves"
+        "inside",
+        "within",
+        "into"
       ],
       "usageExamples": [
         [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A MAry non piace parlare di se stessa.",
-          "Mary doesn't like talking about herself.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
         ],
         [
-          "Non so se i padrini di mio figlio siano ancora vivi.",
-          "I don't know if my son's godparents are still alive.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "avete",
-      "translations": [
-        "you have",
-        "you've got",
-        "are you having"
-      ],
-      "usageExamples": [
-        [
-          "Li avete rapiti?",
-          "Did you kidnap them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dove li avete oliati?",
-          "Where did you oil them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cosa avete consigliato?",
-          "What did you recommend?",
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bisogno",
+      "content": "quell'ufficio",
       "translations": [
-        "need",
-        "requirement",
-        "necessity",
-        "desire"
-      ],
-      "usageExamples": [
-        [
-          "Ho bisogno di parlarti stanotte.",
-          "I need to talk to you tonight.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ha bisogno di una mano.",
-          "Tom needs a hand.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai bisogno di una tastiera nuova?",
-          "Do you need a new keyboard?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
-      ],
-      "usageExamples": [
-        [
-          "Mi importa di lei.",
-          "I care about her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "\">\" significa maggiore di.",
-          "\">\" means greater than.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "assistenza",
-      "translations": [
-        "assistance",
-        "support",
-        "help",
-        "aid"
+        "that office",
+        "the office",
+        "this office"
       ],
       "usageExamples": []
     }

@@ -1,94 +1,150 @@
 {
-  "sentence": "Gli alberi saranno presto vuoti.",
+  "sentence": "Giocherete a tennis dopo la scuola?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The trees will soon be bare."
+    "Will you play tennis after school?"
   ],
   "parts": [
     {
-      "content": "Gli",
+      "content": "Giocherete",
+      "translations": [
+        "You will play",
+        "You guys will play",
+        "You all will play"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tennis",
+      "translations": [
+        "the sport of tennis",
+        "game of tennis",
+        "tennis match"
+      ],
+      "usageExamples": [
+        [
+          "Tom non è bravo a tennis.",
+          "Tom isn't good at tennis.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Helena piace giocare a tennis.",
+          "Helena likes to play tennis.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace giocare a tennis.",
+          "Lucy likes playing tennis.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dopo",
+      "translations": [
+        "after",
+        "later",
+        "following",
+        "subsequently"
+      ],
+      "usageExamples": [
+        [
+          "Studio inglese dopo cena.",
+          "I study English after dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom decise di rinunciare ad andare in skateboard dopo il suo incidente.",
+          "Tom decided to give up skateboarding after his accident.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le mie gambe stanno migliorando giorno dopo giorno.",
+          "My legs are getting better day by day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
       "translations": [
         "the",
-        "them",
-        "those",
-        "the ones"
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Gli uomini amano vantarsi.",
-          "Men love to brag.",
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli importava.",
-          "He cared.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli amici entrano nelle nostre vite volontariamente.",
-          "Friends come into our lives voluntarily.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "alberi",
-      "translations": [
-        "trees",
-        "wood",
-        "timber",
-        "forest"
-      ],
-      "usageExamples": [
-        [
-          "Gli alberi pietrificati di Yellowstone sono il risultato di flussi di detriti vulcanici verificatisi circa cinquanta milioni di anni fa.",
-          "Petrified trees in Yellowstone are the result of volcanic debris flows that occurred about 50 million years ago.",
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "saranno",
+      "content": "scuola",
       "translations": [
-        "they will be",
-        "there will be",
-        "will be"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "presto",
-      "translations": [
-        "quick",
-        "fast",
-        "soon",
-        "immediately"
+        "school",
+        "academy",
+        "educational institution",
+        "learning center",
+        "School"
       ],
       "usageExamples": [
         [
-          "Pranzammo presto.",
-          "We ate lunch early.",
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Farà presto buio.",
-          "It's going to get dark soon.",
+          "Non dovete andare a scuola la domenica.",
+          "You don't have to go to school on Sunday.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui va a scuola a piedi o in bici?",
+          "Does he go to school on foot or by bicycle?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "vuoti",
-      "translations": [
-        "empty",
-        "void",
-        "hollow",
-        "vacant"
-      ],
-      "usageExamples": []
     }
   ]
 }

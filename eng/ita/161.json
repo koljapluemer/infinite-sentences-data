@@ -1,103 +1,81 @@
 {
-  "sentence": "Adesso che abbiamo mangiato, andiamo.",
+  "sentence": "Abbiamo scritto tre libri.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by zumley (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by PvtMarc (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Now that we have eaten, let's go."
+    "We wrote three books."
   ],
   "parts": [
     {
-      "content": "Adesso",
+      "content": "Abbiamo",
       "translations": [
-        "Now",
-        "Right now",
-        "At this moment",
-        "Currently"
+        "We have",
+        "Let's have",
+        "We got",
+        "We possess"
+      ],
+      "usageExamples": [
+        [
+          "Abbiamo sbadigliato.",
+          "We yawned.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Abbiamo cominciato a parlare dell'Islam.",
+          "We started talking about Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "scritto",
+      "translations": [
+        "written",
+        "script",
+        "wrote",
+        "writing"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "tre",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "three",
+        "3",
+        "thrice"
       ],
       "usageExamples": [
         [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
+          "Lessi la storia tre volte.",
+          "I read the story three times.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said that she loved him.",
+          "Mamma ha diviso la torta in tre.",
+          "Mum divided the cake into three.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Io sono stato un istruttore di sci per tre anni.",
+          "I've been a ski instructor for three years.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "abbiamo",
+      "content": "libri",
       "translations": [
-        "we have",
-        "we've got",
-        "we possess"
+        "volumes",
+        "tomes",
+        "texts"
       ],
       "usageExamples": [
         [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Lui ha molti libri per giovani.",
+          "He has a lot of books for the young.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
-        ],
-        [
-          "Pensi che abbiamo convinto Tom?",
-          "Do you think we convinced Tom?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mangiato",
-      "translations": [
-        "eaten",
-        "consumed",
-        "devoured",
-        "ingested"
-      ],
-      "usageExamples": [
-        [
-          "Io non ho ancora mangiato niente oggi.",
-          "I haven't yet eaten anything today.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "andiamo",
-      "translations": [
-        "let's go",
-        "we go",
-        "come on",
-        "let's move"
-      ],
-      "usageExamples": [
-        [
-          "Domani andiamo in montagna.",
-          "Tomorrow we'll go to the mountains.",
-          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
         ]
       ]
     }

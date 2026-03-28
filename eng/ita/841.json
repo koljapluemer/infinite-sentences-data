@@ -1,124 +1,73 @@
 {
-  "sentence": "Sentii la notizia su di lei.",
+  "sentence": "Sei un testimone.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I heard the news about her."
+    "You are a witness."
   ],
   "parts": [
     {
-      "content": "Sentii",
+      "content": "Sei",
       "translations": [
-        "I felt",
-        "I sensed",
-        "I perceived",
-        "I experienced"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
+      ],
+      "usageExamples": [
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei sospesa?",
+          "Are you suspended?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beviamo un'altra birra.",
+          "Let's have another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono un tipo solitario.",
+          "I'm a loner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "testimone",
+      "translations": [
+        "witness",
+        "testifier",
+        "evidence",
+        "attester"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Frequentiamo la scuola statale.",
-          "We attend state school.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cosa la sta causando?",
-          "What's causing it?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Apprezzo la tua onestà.",
-          "I appreciate your honesty.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "notizia",
-      "translations": [
-        "news",
-        "information",
-        "report",
-        "announcement"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "su",
-      "translations": [
-        "on",
-        "upon",
-        "over",
-        "above"
-      ],
-      "usageExamples": [
-        [
-          "Mio nonno si siede sempre su questa sedia.",
-          "My grandfather always sits in this chair.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
-      ],
-      "usageExamples": [
-        [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "lei",
-      "translations": [
-        "she",
-        "you (formal)"
-      ],
-      "usageExamples": [
-        [
-          "Era sposato con lei.",
-          "He used to be married to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi importa di lei.",
-          "I care about her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono fidanzata con lei.",
-          "I'm engaged to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

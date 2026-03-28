@@ -1,11 +1,11 @@
 {
-  "sentence": "Vorrei una camera.",
+  "sentence": "Vorrei cambiare il mio biglietto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Linda_Li (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by tanay (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I would like a room."
+    "I'd like to change my ticket."
   ],
   "parts": [
     {
@@ -13,54 +13,86 @@
       "translations": [
         "I would like",
         "I want",
-        "I would love",
-        "I wish for"
+        "I would love to",
+        "I wish to"
       ],
       "usageExamples": []
     },
     {
-      "content": "una",
+      "content": "cambiare",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "to change",
+        "to exchange",
+        "to switch",
+        "to alter"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Datele una mano, OK?",
-          "Give her a hand, will you?",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era una visione orrenda.",
-          "It was a horrible vision.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "camera",
+      "content": "mio",
       "translations": [
-        "photographic device",
-        "image-capturing device",
-        "photo camera"
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
       ],
       "usageExamples": [
         [
-          "Ho passato tutta la mattina a pulire la mia camera.",
-          "I've spent the entire morning cleaning my room.",
+          "È mio nemico.",
+          "He's my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha la sua propria camera da letto.",
-          "Tom has his own bedroom.",
+          "Mi manca così tanto il mio moroso!",
+          "I miss my boyfriend so much!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho avuto la fortuna di seguire il mio percorso senza rimpianti.",
+          "I've been lucky to follow my own path without regrets.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "biglietto",
+      "translations": [
+        "ticket",
+        "note",
+        "bill",
+        "card"
+      ],
+      "usageExamples": [
+        [
+          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
+          "When riding a bus or a train, you need to pay the fare.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
         ]
       ]
     }

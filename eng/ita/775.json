@@ -1,225 +1,91 @@
 {
-  "sentence": "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
+  "sentence": "Qualcuno sta osservando Tom.",
   "credits": [
-    "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "When riding a bus or a train, you need to pay the fare."
+    "Someone is watching Tom."
   ],
   "parts": [
     {
-      "content": "Quando",
+      "content": "Qualcuno",
       "translations": [
-        "When",
-        "At what time",
-        "At which point",
-        "During which period"
+        "Someone",
+        "Somebody",
+        "Anyone",
+        "A person"
       ],
       "usageExamples": [
         [
-          "Quando depongono le uova i salmoni?",
-          "When do salmon spawn?",
+          "Qualcuno ha rubato la mia borsa.",
+          "Somebody has stolen my bag.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quando è stata l'ultima volta che avete indossato degli occhiali da sole?",
-          "When was the last time you wore sunglasses?",
+          "Qualcuno ha pugnalato l'uomo nella gamba.",
+          "Someone stabbed the man in the leg.",
+          "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sta",
+      "translations": [
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "si",
+      "content": "osservando",
       "translations": [
-        "if",
-        "whether",
-        "in case",
-        "provided that"
-      ],
-      "usageExamples": [
-        [
-          "Tom si è addolcito.",
-          "Tom relented.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è divertito.",
-          "Tom had a good time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "viaggia",
-      "translations": [
-        "travel",
-        "journey",
-        "trip",
-        "commute"
+        "observing",
+        "watching",
+        "noticing",
+        "monitoring"
       ],
       "usageExamples": []
     },
     {
-      "content": "in",
+      "content": "Tom",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "Thomas",
+        "Tommy",
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi siamo in Finlandia.",
-          "We are in Finland.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "bus",
-      "translations": [
-        "coach",
-        "shuttle",
-        "transit bus"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "o",
-      "translations": [
-        "or",
-        "either",
-        "alternatively",
-        "otherwise"
-      ],
-      "usageExamples": [
-        [
-          "Sbrigati o perderai l'aereo.",
-          "Hurry up, or you'll miss your plane.",
-          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non so se lui verrà in treno o in auto.",
-          "I don't know whether he'll come by train or by car.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lui va a scuola a piedi o in bici?",
-          "Does he go to school on foot or by bicycle?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "treno",
-      "translations": [
-        "train",
-        "railway",
-        "locomotive",
-        "train service"
-      ],
-      "usageExamples": [
-        [
-          "Se non ci sbrighiamo, perderemo il nostro treno.",
-          "If we don't hurry, we'll miss our train.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non so se lui verrà in treno o in auto.",
-          "I don't know whether he'll come by train or by car.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Siamo arrivati ieri in treno.",
-          "We arrived yesterday afternoon by train.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "deve",
-      "translations": [
-        "must",
-        "has to",
-        "should",
-        "needs to"
-      ],
-      "usageExamples": [
-        [
-          "A Mary deve mancare la sua famiglia.",
-          "Mary must miss her family.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "La pâte brisée, per essere buona, deve essere friabile e leggera.",
-          "To be good, pâte brisée should be light and flaky.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "pagare",
-      "translations": [
-        "to pay",
-        "paying",
-        "to settle",
-        "to compensate"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non tollererò il fallimento.",
-          "I will not tolerate failure.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "biglietto",
-      "translations": [
-        "ticket",
-        "note",
-        "bill",
-        "card"
-      ],
-      "usageExamples": [
-        [
-          "Vorrei cambiare il mio biglietto.",
-          "I'd like to change my ticket.",
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

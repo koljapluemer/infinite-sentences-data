@@ -1,11 +1,11 @@
 {
-  "sentence": "Questo non ha sorpreso Yanni.",
+  "sentence": "Questo articolo ridicolizza i vegetariani.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lesgles (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This didn't surprise Yanni."
+    "This article makes fun of vegetarians."
   ],
   "parts": [
     {
@@ -35,85 +35,60 @@
       ]
     },
     {
-      "content": "non",
+      "content": "articolo",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
-      ],
-      "usageExamples": [
-        [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Però non funzionerà!",
-          "But that won't work!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Yanni non comprende l'Islam.",
-          "Yanni doesn't understand Islam.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ha",
-      "translations": [
-        "has",
-        "he has",
-        "there is"
-      ],
-      "usageExamples": [
-        [
-          "Lei ha frenato.",
-          "She braked.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ],
-        [
-          "Un cane ha corso.",
-          "A dog ran.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sorpreso",
-      "translations": [
-        "surprised",
-        "astonished",
-        "taken aback",
-        "startled"
+        "article",
+        "item",
+        "section",
+        "clause"
       ],
       "usageExamples": []
     },
     {
-      "content": "Yanni",
+      "content": "ridicolizza",
       "translations": [
-        "Yanni (a name)",
-        "Yanni (musician)",
-        "Yanni (Greek composer)"
+        "ridicules",
+        "makes fun of",
+        "mock",
+        "derides"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Yanni non comprende l'Islam.",
-          "Yanni doesn't understand Islam.",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Yanni comprò del cibo.",
-          "Yanni bought some food.",
+          "A Cookie non piacciono i baci.",
+          "Cookie doesn't like kisses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi scuso se ho ferito i suoi sentimenti.",
+          "I apologize if I hurt your feelings.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "vegetariani",
+      "translations": [
+        "vegetarians",
+        "vegetarian people",
+        "those who follow a vegetarian diet",
+        "individuals who do not eat meat"
+      ],
+      "usageExamples": []
     }
   ]
 }

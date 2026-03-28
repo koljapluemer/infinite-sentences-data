@@ -1,75 +1,85 @@
 {
-  "sentence": "Tom ist unglücklich, nicht wahr?",
+  "sentence": "Maria interessiert sich für Politik.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom mutsuz, değil mi?"
+    "Mary politika ile ilgilenir."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Maria",
       "translations": [
-        "Tom"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ist",
-      "translations": [
-        "dır",
-        "olmak"
+        "Mary'yi",
+        "Mary"
       ],
       "usageExamples": [
         [
-          "Wer ist das denn?",
-          "Bu da kim?",
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Das ist kostenlos erhältlich.",
-          "Bu ücretsiz ulaşılabilir.",
+          "Maria nimmt Ballettunterricht.",
+          "Mary bale dersleri alıyor.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dein Auto ist schnell.",
-          "Senin araban hızlıdır.",
+          "Maria dirigierte das Orchester mit einem Taktstock.",
+          "Mary bir baton kullanarak orkestrayı yönetti.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "unglücklich",
+      "content": "sich",
       "translations": [
-        "mutsuz"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "nicht",
-      "translations": [
-        "değil",
-        "ne",
-        "yok"
+        "Kendini"
       ],
       "usageExamples": [
         [
-          "Nur nicht aufgeben!",
-          "Sakın pes etme!",
+          "Das Problem dreht sich um folgende Frage:",
+          "Problem şu soru etrafında dönüyor:",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich habe Tom seit gestern nicht gesehen.",
-          "Dünden beri Tom'u görmedim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich behaupte, dass das nicht stimmt.",
-          "Bunun doğru olmadığını iddia ediyorum.",
+          "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt.",
+          "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "für",
+      "translations": [
+        "için",
+        "para"
+      ],
+      "usageExamples": [
+        [
+          "Ich interessiere mich sehr für Fußball.",
+          "Futbola çok ilgim var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich muss für eine Spanienreise Spanisch lernen.",
+          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wann hast du Zeit für mich?",
+          "Benim için ne zaman vaktin olur?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Politik",
+      "translations": [
+        "politika"
+      ],
+      "usageExamples": []
     }
   ]
 }

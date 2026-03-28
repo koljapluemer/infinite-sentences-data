@@ -1,13 +1,11 @@
 {
-  "sentence": "Che cosa c'è per cena?",
+  "sentence": "Che altro volete che compri?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by SHamp (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's for dinner?",
-    "What's for supper?"
+    "What else do you want me to buy?"
   ],
   "parts": [
     {
@@ -20,118 +18,92 @@
       ],
       "usageExamples": [
         [
-          "Che musica ascoltate?",
-          "What music do you listen to?",
+          "Che canzone strana...",
+          "What a weird song...",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che altro vorresti?",
+          "What more would you want?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Che fallito!",
           "What a loser!",
           "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "altro",
+      "translations": [
+        "other",
+        "another",
+        "else",
+        "additional"
+      ],
+      "usageExamples": [
+        [
+          "Che altro vorresti?",
+          "What more would you want?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "Che altro stai considerando?",
+          "What else are you considering?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, dammi un altro po' di tè.",
+          "Please give me a little more tea.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cosa",
+      "content": "volete",
       "translations": [
-        "thing",
-        "item",
-        "object",
-        "matter"
+        "you want",
+        "you wish",
+        "you desire"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cos'è quella cosa là?",
-          "What's that thing there?",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "c'è",
+      "content": "compri",
       "translations": [
-        "there is",
-        "there are",
-        "is there",
-        "there exists"
+        "buy",
+        "purchase",
+        "acquire",
+        "obtain"
       ],
-      "usageExamples": [
-        [
-          "A Berlino c'è già stata.",
-          "You have already been to Berlin.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Berlino c'è già stato.",
-          "You've already been to Berlin.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "per",
-      "translations": [
-        "for",
-        "by",
-        "through"
-      ],
-      "usageExamples": [
-        [
-          "Sono preparata per morire.",
-          "I'm prepared to die.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cena",
-      "translations": [
-        "dinner",
-        "supper",
-        "meal"
-      ],
-      "usageExamples": [
-        [
-          "Studio inglese dopo cena.",
-          "I study English after dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A noi è piaciuta la cena.",
-          "We enjoyed the dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha a malapena toccato la sua cena.",
-          "He barely touched his dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

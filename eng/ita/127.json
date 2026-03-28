@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non piace la sua matrigna.",
+  "sentence": "A Mary non piace il suo nome.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary doesn't like her stepmother."
+    "Mary doesn't like her name."
   ],
   "parts": [
     {
@@ -17,18 +17,18 @@
       ],
       "usageExamples": [
         [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "A quale proposito?",
           "For what purpose?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A John piace l'infermiera.",
-          "John likes the nurse.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Fadil piaceva scommettere.",
-          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -52,8 +52,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary mancava suo figlio.",
-          "Mary missed her son.",
+          "Mary nega di avere pianto.",
+          "Mary denies that she cried.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -68,18 +68,18 @@
       ],
       "usageExamples": [
         [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Tom non cambia mai.",
           "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non stai dormendo?",
-          "Why aren't you asleep?",
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -93,6 +93,11 @@
       ],
       "usageExamples": [
         [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "A John piace l'infermiera.",
           "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,63 +106,84 @@
           "A Judy piace.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Judy piace lui.",
-          "Judy likes him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "il",
       "translations": [
         "the",
-        "that",
-        "which",
-        "those"
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Hai guardato la partita?",
-          "Did you watch the game?",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sua",
+      "content": "suo",
       "translations": [
-        "your",
-        "yours",
         "his",
-        "her"
+        "her",
+        "its",
+        "their"
       ],
       "usageExamples": [
         [
-          "Dov'è la sua casa?",
-          "Where is your house?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary mancano sua madre e suo padre.",
-          "Mary misses her mother and father.",
+          "A Mary mancava suo figlio.",
+          "Mary missed her son.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è piuttosto soddisfatta della sua vita così com'è.",
-          "She is quite satisfied with her life as it is.",
+          "È fiera di suo padre?",
+          "Are you proud of your father?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Benedito è piaciuto il suo viaggio in India.",
+          "Benedito enjoyed his trip to India.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nome",
+      "translations": [
+        "name",
+        "title",
+        "designation",
+        "label"
+      ],
+      "usageExamples": [
+        [
+          "Ho scordato il suo nome.",
+          "I have forgotten your name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo nome.",
+          "Mary didn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso chiedere il vostro nome?",
+          "May I ask your name?",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
         ]
       ]
     }

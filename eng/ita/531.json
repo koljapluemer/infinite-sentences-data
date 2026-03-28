@@ -1,11 +1,11 @@
 {
-  "sentence": "Lo hanno aiutato.",
+  "sentence": "Lo conosci il ragazzo nella foto?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They helped him."
+    "Do you know the boy in the picture?"
   ],
   "parts": [
     {
@@ -18,55 +18,120 @@
       ],
       "usageExamples": [
         [
+          "Lo decorò.",
+          "He decorated it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo hanno aiutato.",
+          "They helped him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Lo incontro per colazione.",
           "I'm meeting him for breakfast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo decorò.",
-          "She decorated it.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo mostreremo a lei.",
-          "We'll show her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hanno",
+      "content": "conosci",
       "translations": [
-        "they have",
-        "you (plural) have"
+        "you know",
+        "do you know",
+        "are you familiar with",
+        "have you heard of"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Le due famiglie hanno legami familiari stretti.",
-          "The two families have very close ties.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ],
-        [
-          "1,3 miliardi di persone in tutto il mondo non hanno accesso all'elettricità.",
-          "1.3 billion people around the world lack access to electricity.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "I gatti non hanno le pulci.",
-          "The cats have fleas.",
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aiutato",
+      "content": "ragazzo",
       "translations": [
-        "helped",
-        "assisted",
-        "aided",
-        "supported"
+        "boy",
+        "young man",
+        "guy",
+        "lad"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ai miei genitori non piace il mio ragazzo.",
+          "My parents don't like my boyfriend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nella",
+      "translations": [
+        "in the",
+        "at the",
+        "on the",
+        "within the"
+      ],
+      "usageExamples": [
+        [
+          "Guardai John e Mary camminare mano nella mano.",
+          "I watched John and Mary walking hand in hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Probabilmente è da sola nella sua stanza.",
+          "She's probably alone in her room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha trovato una pistola nella borsa di Mary.",
+          "Tom found a gun in Mary's purse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "foto",
+      "translations": [
+        "photo",
+        "picture",
+        "image",
+        "snapshot"
+      ],
+      "usageExamples": [
+        [
+          "Quanti anni aveva nella prima foto?",
+          "How old was she in the first photo?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

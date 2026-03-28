@@ -1,11 +1,10 @@
 {
-  "sentence": "Ĉu vi scias, ke vi estas bela?",
+  "sentence": "Ĉu Pontio Pilato, la prefekto de Judeo antaŭ kiu okazis la proceso kontraŭ Jesuo, estis kruela kaj senkompata tirano aŭ malkuraĝa kaj hezitema funkciulo?",
   "credits": [
-    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Lo sai che sei bella?"
+    "Ponzio Pilato, il prefetto della Giudea davanti al quale si svolse il processo a Gesù, fu un tiranno crudele e spietato o un funzionario pavido ed esitante?"
   ],
   "parts": [
     {
@@ -14,42 +13,36 @@
         "Sei",
         "È"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ĉu vi scias, ke vi estas bela?",
+          "Lo sai che sei bella?",
+          "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "vi",
+      "content": "Pontio Pilato",
       "translations": [
-        "tu",
-        "voi"
+        "Ponzio Pilato",
+        "Pilato"
       ],
       "usageExamples": []
     },
     {
-      "content": "scias",
+      "content": "la",
       "translations": [
-        "sa",
-        "conosce",
-        "sa di",
-        "è a conoscenza di"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ke",
-      "translations": [
-        "che",
-        "affinché",
-        "perché"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "estas",
-      "translations": [
-        "è",
-        "sono"
+        "la",
+        "il",
+        "lo",
+        "le"
       ],
       "usageExamples": [
+        [
+          "\"Hodiaŭ panjo mortis.\" Tiel komenciĝas la libro \"La strangulo\", de Albert Camus.",
+          "\"Oggi la mamma è morta.\" Così comincia \"Lo Straniero\" di Albert Camus.",
+          "Sentence from Tatoeba by ianna (CC-BY 2.0 FR)"
+        ],
         [
           "La ĉielarka flago estas la simbolo de respekto de seksa diverseco.",
           "La bandiera arcobaleno è il simbolo di rispetto della diversità sessuale.",
@@ -58,10 +51,160 @@
       ]
     },
     {
-      "content": "bela",
+      "content": "prefekto",
       "translations": [
-        "bella",
-        "bello"
+        "prefetto",
+        "governatore"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "di",
+        "da"
+      ],
+      "usageExamples": [
+        [
+          "\"Hodiaŭ panjo mortis.\" Tiel komenciĝas la libro \"La strangulo\", de Albert Camus.",
+          "\"Oggi la mamma è morta.\" Così comincia \"Lo Straniero\" di Albert Camus.",
+          "Sentence from Tatoeba by ianna (CC-BY 2.0 FR)"
+        ],
+        [
+          "La ĉielarka flago estas la simbolo de respekto de seksa diverseco.",
+          "La bandiera arcobaleno è il simbolo di rispetto della diversità sessuale.",
+          "Sentence from Tatoeba by ianna (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Judeo",
+      "translations": [
+        "Giudeo",
+        "Ebreo"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "antaŭ",
+      "translations": [
+        "prima",
+        "davanti a"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kiu",
+      "translations": [
+        "chi",
+        "quale"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "okazis",
+      "translations": [
+        "è successo",
+        "è accaduto",
+        "è avvenuto"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "proceso",
+      "translations": [
+        "processo",
+        "procedura"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kontraŭ",
+      "translations": [
+        "contro",
+        "contro di"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Jesuo",
+      "translations": [
+        "Gesù",
+        "Gesù Cristo"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "estis",
+      "translations": [
+        "era",
+        "è stato"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kruela",
+      "translations": [
+        "crudele",
+        "spietato"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kaj",
+      "translations": [
+        "e",
+        "ed"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "senkompata",
+      "translations": [
+        "spietato",
+        "senza pietà"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "tirano",
+      "translations": [
+        "tiranno",
+        "dittatore"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "aŭ",
+      "translations": [
+        "o",
+        "oppure"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "malkuraĝa",
+      "translations": [
+        "codardo",
+        "timido",
+        "pauroso"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hezitema",
+      "translations": [
+        "esitante",
+        "indeciso",
+        "titubante"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "funkciulo",
+      "translations": [
+        "funzionario",
+        "impiegato"
       ],
       "usageExamples": []
     }

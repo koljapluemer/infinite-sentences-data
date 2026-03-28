@@ -1,11 +1,11 @@
 {
-  "sentence": "As-tu un crayon ?",
+  "sentence": "As-tu quelques conseils pour moi ?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you have a pencil?"
+    "Do you have any advice for me?"
   ],
   "parts": [
     {
@@ -18,8 +18,8 @@
       ],
       "usageExamples": [
         [
-          "As-tu quelques conseils pour moi ?",
-          "Do you have any advice for me?",
+          "As-tu un crayon ?",
+          "Do you have a pencil?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -32,50 +32,56 @@
       ],
       "usageExamples": [
         [
-          "Où as-tu regardé ?",
-          "Where did you look?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "Que faisais-tu là-bas ?",
           "What were you doing down there?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Je pensais que tu ne lui dirais pas que nous n'avions pas fait nos devoirs.",
-          "I thought you wouldn't tell her that we hadn't done our homework.",
+          "As-tu un crayon ?",
+          "Do you have a pencil?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Où as-tu regardé ?",
+          "Where did you look?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "conseils",
       "translations": [
-        "a"
+        "advice",
+        "tips",
+        "counsel"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "pour",
+      "translations": [
+        "for",
+        "to",
+        "in favor of",
+        "on behalf of"
       ],
       "usageExamples": [
         [
-          "C'est un danseur algérien.",
-          "He's an Algerian dancer.",
+          "Quelle cuisson voudrais-tu pour ton bifteck ?",
+          "How would you like your steak?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Je veux un ordinateur portatif.",
-          "I want a notebook.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "J'ai pensé que Tom avait fait un bon travail.",
-          "I thought that Tom did a nice job.",
+          "Je ferai tout ce que je peux pour encourager Tom à ne pas quitter l'école.",
+          "I'll do whatever I can to encourage Tom to stay in school.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "crayon",
+      "content": "moi",
       "translations": [
-        "pencil",
-        "crayon"
+        "me"
       ],
       "usageExamples": []
     }

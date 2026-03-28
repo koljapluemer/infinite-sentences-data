@@ -1,47 +1,30 @@
 {
-  "sentence": "Où as-tu regardé ?",
+  "sentence": "Ne lui en dis rien.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Where did you look?"
+    "Don't tell her about it."
   ],
   "parts": [
     {
-      "content": "Où",
+      "content": "Ne",
       "translations": [
-        "Where",
-        "Where is",
-        "Where to"
+        "No.",
+        "Not"
       ],
       "usageExamples": []
     },
     {
-      "content": "as",
+      "content": "lui",
       "translations": [
-        "as",
-        "like",
-        "in the role of",
-        "in the capacity of"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tu",
-      "translations": [
-        "you",
-        "thou"
+        "him"
       ],
       "usageExamples": [
         [
-          "Que faisais-tu là-bas ?",
-          "What were you doing down there?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "As-tu un crayon ?",
-          "Do you have a pencil?",
+          "Je n'ai pas entendu parler de lui depuis longtemps.",
+          "I have not heard from him for a long time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -50,6 +33,40 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "en",
+      "translations": [
+        "in",
+        "at",
+        "on"
+      ],
+      "usageExamples": [
+        [
+          "Je crois en elle.",
+          "I have faith in her.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quel musée aimerais-tu visiter en premier ?",
+          "Which museum would you like to visit first?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La chaise en plastique coûte quatre pounds.",
+          "The plastic chair costs four pounds.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dis",
+      "translations": [
+        "of",
+        "from",
+        "about"
+      ],
+      "usageExamples": []
     }
   ]
 }

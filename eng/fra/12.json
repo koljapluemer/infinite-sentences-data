@@ -1,37 +1,29 @@
 {
-  "sentence": "Quelle cuisson voudrais-tu pour ton bifteck ?",
+  "sentence": "Où as-tu regardé ?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How would you like your steak?"
+    "Where did you look?"
   ],
   "parts": [
     {
-      "content": "Quelle",
+      "content": "Où",
       "translations": [
-        "What",
-        "Which",
-        "Source",
-        "Where"
+        "Where",
+        "Where is",
+        "Where to"
       ],
       "usageExamples": []
     },
     {
-      "content": "cuisson",
+      "content": "as",
       "translations": [
-        "cooking",
-        "baking",
-        "roasting"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "voudrais",
-      "translations": [
-        "would like",
-        "would want"
+        "as",
+        "like",
+        "in the role of",
+        "in the capacity of"
       ],
       "usageExamples": []
     },
@@ -53,48 +45,11 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Où as-tu regardé ?",
-          "Where did you look?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "pour",
-      "translations": [
-        "for",
-        "to",
-        "in favor of",
-        "on behalf of"
-      ],
-      "usageExamples": [
-        [
           "As-tu quelques conseils pour moi ?",
           "Do you have any advice for me?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ferai tout ce que je peux pour encourager Tom à ne pas quitter l'école.",
-          "I'll do whatever I can to encourage Tom to stay in school.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "ton",
-      "translations": [
-        "your",
-        "yours"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bifteck",
-      "translations": [
-        "steak",
-        "beefsteak"
-      ],
-      "usageExamples": []
     }
   ]
 }

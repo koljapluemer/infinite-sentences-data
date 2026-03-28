@@ -1,11 +1,11 @@
 {
-  "sentence": "È quello che fanno le persone intelligenti.",
+  "sentence": "È molto bello rivedervi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sharris123 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That's what smart people do."
+    "It is very nice to see you again."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1163.json
           "È piuttosto avventurosa, vero?",
           "She's pretty adventurous, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,30 +26,43 @@
         [
           "È un portiere.",
           "He's a goal keeper.",
+=======
+          "È mio nemico.",
+          "He's my enemy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1084.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "È stata in piedi?",
+          "Did you stand up?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1163.json
+=======
+        ],
+        [
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1084.json
         ]
       ]
     },
     {
-      "content": "quello",
+      "content": "molto",
       "translations": [
-        "that",
-        "the one",
-        "those",
-        "the"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Amo molto mia madre.",
+          "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1163.json
           "Tu sei quello che ha chiesto a Tom di aiutare?",
           "Are you the one who asked Tom to help?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,18 +70,28 @@
         [
           "A Mary non piaceva quello che ha visto.",
           "Mary didn't like what she saw.",
+=======
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1084.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "bello",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "war",
+        "beautiful",
+        "handsome",
+        "nice"
       ],
+<<<<<<< HEAD:out/eng/ita/1163.json
       "usageExamples": [
         [
           "Sembra che sia seria.",
@@ -85,10 +109,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1084.json
     },
     {
-      "content": "fanno",
+      "content": "rivedervi",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1163.json
         "they do",
         "they make",
         "they are doing",
@@ -166,6 +194,12 @@
         "understanding",
         "perceptive",
         "insightful"
+=======
+        "see you again",
+        "meet you again",
+        "catch up with you",
+        "revisit you"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1084.json
       ],
       "usageExamples": []
     }

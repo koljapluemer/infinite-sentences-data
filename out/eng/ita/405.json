@@ -1,51 +1,75 @@
 {
-  "sentence": "Ho abbastanza amici.",
+  "sentence": "Hanno delle famiglie da sfamare.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have enough friends."
+    "They have families to feed."
   ],
   "parts": [
     {
-      "content": "Ho",
+      "content": "Hanno",
       "translations": [
-        "I have",
-        "I possess",
-        "I hold",
-        "I own"
+        "They have",
+        "They possess",
+        "They own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/405.json
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
+=======
+          "Hanno cominciato ad innervosirsi.",
+          "They started to get nervous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/326.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Hanno perso la guerra sul fronte orientale.",
+          "They lost the war on the eastern front.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/405.json
           "Ho iniziato dal fondo.",
           "I started at the bottom.",
+=======
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/326.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "abbastanza",
+      "content": "delle",
       "translations": [
-        "enough",
-        "fairly",
-        "quite",
-        "sufficiently"
+        "of the",
+        "some",
+        "of them",
+        "from the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/405.json
           "Non mi sento abbastanza forte per dirglielo.",
           "I don’t feel strong enough to tell him.",
+=======
+          "Siamo tutte delle codarde.",
+          "We're all cowards.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono delle isole nel mare.",
+          "There are islands in the sea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Più della metà delle persone condannate dai tribunali è innocente.",
+          "More than half of the people convicted by the courts are innocent.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/326.json
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ],
         [
@@ -56,15 +80,16 @@
       ]
     },
     {
-      "content": "amici",
+      "content": "famiglie",
       "translations": [
-        "friends",
-        "buddies",
-        "companions",
-        "mates"
+        "families",
+        "households",
+        "clans",
+        "kin"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/405.json
           "Tom ha molti amici?",
           "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -78,8 +103,49 @@
           "Gli amici entrano nelle nostre vite volontariamente.",
           "Friends come into our lives voluntarily.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Le due famiglie hanno legami familiari stretti.",
+          "The two families have very close ties.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "da",
+      "translations": [
+        "from",
+        "since",
+        "by",
+        "of"
+      ],
+      "usageExamples": [
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/326.json
+        ]
+      ]
+    },
+    {
+      "content": "sfamare",
+      "translations": [
+        "to feed",
+        "to nourish",
+        "to provide food for",
+        "to satisfy hunger"
+      ],
+      "usageExamples": []
     }
   ]
 }

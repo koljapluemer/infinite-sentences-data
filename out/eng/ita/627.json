@@ -1,11 +1,11 @@
 {
-  "sentence": "Lui sembra un delinquente.",
+  "sentence": "Lui colse l'occasione di ottenere un impiego.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He looks like a gangster."
+    "He grabbed the chance to get a job."
   ],
   "parts": [
     {
@@ -23,6 +23,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/627.json
           "Lui accese la radio.",
           "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,20 +31,45 @@
         [
           "Lui ama parlare con la gente.",
           "He loves talking to people.",
+=======
+          "Lui sembra un delinquente.",
+          "He looks like a gangster.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/548.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sembra",
+      "content": "colse",
       "translations": [
-        "it seems",
-        "it appears",
-        "it looks like",
-        "seems to be"
+        "close",
+        "shut",
+        "near",
+        "shut down"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "l'occasione",
+      "translations": [
+        "the opportunity",
+        "the occasion",
+        "the chance",
+        "the event"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/627.json
           "Sembra grassa.",
           "You look fat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,9 +82,33 @@
         [
           "Tom sembra compiaciuto.",
           "Tom looks pleased.",
+=======
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/548.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "ottenere",
+      "translations": [
+        "to obtain",
+        "to get",
+        "to achieve",
+        "to acquire"
+      ],
+      "usageExamples": []
     },
     {
       "content": "un",
@@ -69,8 +119,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/627.json
           "Tom è un fan.",
           "Tom is a fan.",
+=======
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/548.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -79,21 +134,42 @@
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/627.json
           "È un nuovo libro.",
           "It's a new book.",
+=======
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/548.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "delinquente",
+      "content": "impiego",
       "translations": [
-        "delinquent",
-        "offender",
-        "criminal",
-        "lawbreaker"
+        "employment",
+        "use",
+        "application",
+        "job"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Mary non piace il suo nuovo impiego.",
+          "Mary doesn't like her new job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo impiego.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo impiego.",
+          "Mary didn't enjoy her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

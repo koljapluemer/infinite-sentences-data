@@ -1,28 +1,38 @@
 {
-  "sentence": "Ci sono andata l'altro ieri.",
+  "sentence": "Chiamatemi se avete bisogno di assistenza.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I went there the day before yesterday."
+    "Call me if you need assistance."
   ],
   "parts": [
     {
-      "content": "Ci",
+      "content": "Chiamatemi",
       "translations": [
-        "Here",
-        "This",
-        "It",
-        "That"
+        "Call me.",
+        "You can call me",
+        "Just call me"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "se",
+      "translations": [
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
       "usageExamples": [
         [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/292.json
           "Ci scuserai per un momento?",
           "Will you excuse us for a moment?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,22 +40,45 @@
         [
           "Ci sarò sempre per aiutarti.",
           "I will always be there to help you.",
+=======
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi sveglierò neppure se suona la sveglia.",
+          "I won't wake up even if the alarm rings.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/213.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sono",
+      "content": "avete",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
+        "you have",
+        "you've got",
+        "are you having"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/292.json
           "Si sono sposati.",
           "They got married.",
+=======
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/213.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,44 +94,66 @@
       ]
     },
     {
-      "content": "andata",
+      "content": "bisogno",
       "translations": [
-        "outbound",
-        "departure",
-        "going",
-        "one-way trip"
+        "need",
+        "requirement",
+        "necessity",
+        "desire"
       ],
       "usageExamples": [
         [
-          "È andata bene oggi?",
-          "Did it go well today?",
+          "Tom ha bisogno di una mano.",
+          "Tom needs a hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho bisogno di parlarti stanotte.",
+          "I need to talk to you tonight.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "l'altro",
+      "content": "di",
       "translations": [
-        "the other",
-        "the other one",
-        "the alternative",
-        "the different one"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Ha commesso un crimine dopo l'altro.",
-          "He committed one crime after another.",
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ieri",
+      "content": "assistenza",
       "translations": [
-        "yesterday",
-        "the day before today",
-        "the previous day"
+        "assistance",
+        "support",
+        "help",
+        "aid"
       ],
+<<<<<<< HEAD:out/eng/ita/292.json
       "usageExamples": [
         [
           "Era occupato ieri?",
@@ -116,6 +171,9 @@
           "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/213.json
     }
   ]
 }

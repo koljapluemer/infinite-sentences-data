@@ -1,23 +1,22 @@
 {
-  "sentence": "Tu comprendi quel libro.",
+  "sentence": "Tom è ovviamente arrabbiato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You understand that book."
+    "Tom is obviously angry."
   ],
   "parts": [
     {
-      "content": "Tu",
+      "content": "Tom",
       "translations": [
-        "You",
-        "Yourself",
-        "Thou",
-        "Ye"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1076.json
           "Tu sei sposata?",
           "Are you married?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,33 +24,69 @@
         [
           "Tu hai ordinato qualcosa?",
           "Did you order something?",
+=======
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tu sei quello che ha chiesto a Tom di aiutare?",
-          "Are you the one who asked Tom to help?",
+          "Tom si è addolcito.",
+          "Tom relented.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/997.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "comprendi",
+      "content": "è",
       "translations": [
-        "I understood.",
-        "I comprehend",
-        "I get it",
-        "I realize"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ovviamente",
+      "translations": [
+        "obviously",
+        "of course",
+        "evidently",
+        "clearly"
       ],
       "usageExamples": []
     },
     {
-      "content": "quel",
+      "content": "arrabbiato",
       "translations": [
-        "that",
-        "the one",
-        "which",
-        "those"
+        "angry",
+        "mad",
+        "irritated",
+        "furious"
       ],
+<<<<<<< HEAD:out/eng/ita/1076.json
       "usageExamples": [
         [
           "A Marie non è piaciuto quel gioco.",
@@ -90,6 +125,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/997.json
     }
   ]
 }

@@ -1,29 +1,37 @@
 {
-  "sentence": "Io amo i miei genitori.",
+  "sentence": "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
   "credits": [
-    "Sentence from Tatoeba by rado (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I love my parents."
+    "The train is taking off and we haven't bought our tickets!"
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "Il",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "The",
+        "It"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/465.json
           "Io consegno pizze.",
           "I deliver pizzas.",
+=======
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io l'ho comprata.",
-          "I bought it.",
+          "Il tempo è finito.",
+          "Time is up.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/386.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,17 +42,188 @@
       ]
     },
     {
-      "content": "amo",
+      "content": "treno",
       "translations": [
-        "I love",
-        "I like",
-        "I am fond of",
-        "I adore"
+        "train",
+        "railway",
+        "locomotive",
+        "train service"
       ],
       "usageExamples": [
         [
-          "Io amo il suono della pioggia sul tetto.",
-          "I love the sound of rain on the roof.",
+          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
+          "When riding a bus or a train, you need to pay the fare.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ],
+        [
+          "Se non ci sbrighiamo, perderemo il nostro treno.",
+          "If we don't hurry, we'll miss our train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo arrivati ieri in treno.",
+          "We arrived yesterday afternoon by train.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sta",
+      "translations": [
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is whining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "partendo",
+      "translations": [
+        "departing",
+        "leaving",
+        "setting off",
+        "starting out"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "e",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition"
+      ],
+      "usageExamples": [
+        [
+          "'Aspetti qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da lei immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il signor Jones crede nel duro lavoro e nei profitti.",
+          "Mr Jones believes in hard work and profits.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Jack ha un gatto e un pappagallo a casa.",
+          "Jack keeps a cat and a parrot at home.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "abbiamo",
+      "translations": [
+        "we have",
+        "we've got",
+        "we possess"
+      ],
+      "usageExamples": [
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non abbiamo cantato per Tom.",
+          "We didn't sing for Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ancora",
+      "translations": [
+        "anchor",
+        "still",
+        "yet",
+        "also"
+      ],
+      "usageExamples": [
+        [
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sono ancora stato a Boston.",
+          "I haven't been to Boston yet.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non siamo ancora molto affamati.",
+          "We aren't very hungry yet.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "comprato",
+      "translations": [
+        "bought",
+        "purchased",
+        "acquired",
+        "procured"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha comprato un anello per Mary.",
+          "Tom bought Mary a ring.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha comprato del cibo a Mary.",
+          "Tom bought some food for Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -64,6 +243,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/465.json
           "Odio prendere i mezzi pubblici.",
           "I hate taking public transportation.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -71,17 +251,28 @@
         [
           "Esprimi costantemente disaccordo con i miei suggerimenti.",
           "You consistently express disagreement with my suggestions.",
+=======
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
+          "He threw his dirty, smelly socks on the floor.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/386.json
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "miei",
+      "content": "nostri",
       "translations": [
-        "my",
-        "mine",
-        "of mine"
+        "our",
+        "ours",
+        "of us",
+        "belonging to us"
       ],
+<<<<<<< HEAD:out/eng/ita/465.json
       "usageExamples": [
         [
           "Ai miei genitori non piace il mio ragazzo.",
@@ -99,15 +290,19 @@
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/386.json
     },
     {
-      "content": "genitori",
+      "content": "biglietti",
       "translations": [
-        "parents",
-        "guardians",
-        "caregivers",
-        "progenitors"
+        "tickets",
+        "passes",
+        "vouchers",
+        "entries"
       ],
+<<<<<<< HEAD:out/eng/ita/465.json
       "usageExamples": [
         [
           "Mary vuole che i suoi genitori le comprino un pony.",
@@ -125,6 +320,9 @@
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/386.json
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Non siamo ancora molto affamati.",
+  "sentence": "Non sembrate imbarazzate.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We aren't very hungry yet."
+    "You don't look embarrassed."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/758.json
           "Non sapeva cosa fare.",
           "She didn't know what to do.",
           "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
@@ -30,18 +31,33 @@
         [
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
+=======
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/679.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "siamo",
+      "content": "sembrate",
       "translations": [
-        "we are",
-        "let's be",
-        "we're",
-        "we exist"
+        "you seem",
+        "you appear",
+        "you look",
+        "you are like"
       ],
+<<<<<<< HEAD:out/eng/ita/758.json
       "usageExamples": [
         [
           "Noi siamo in Finlandia.",
@@ -59,10 +75,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/679.json
     },
     {
-      "content": "ancora",
+      "content": "imbarazzate",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/758.json
         "anchor",
         "still",
         "yet",
@@ -119,6 +139,12 @@
         "starving",
         "famished",
         "in need of food"
+=======
+        "embarrassed",
+        "awkward",
+        "self-conscious",
+        "uncomfortable"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/679.json
       ],
       "usageExamples": []
     }

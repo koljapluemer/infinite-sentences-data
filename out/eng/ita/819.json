@@ -1,24 +1,24 @@
 {
-  "sentence": "Perché non ti rilassi un po'?",
+  "sentence": "Perché non lo avete fatto?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why don't you relax a bit?",
-    "Why don't you to relax a bit?"
+    "Why didn't you do it?"
   ],
   "parts": [
     {
-      "content": "Perché",
+      "content": "perché",
       "translations": [
-        "Why",
-        "For what reason",
-        "What for",
-        "Why is that"
+        "why",
+        "because",
+        "for what reason",
+        "for what purpose"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/819.json
           "Perché sono qui?",
           "Why are they here?",
           "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
@@ -26,12 +26,24 @@
         [
           "Perché siete andati lì?",
           "Why did you go there?",
+=======
+          "Il Museo del Prado è chiuso perché oggi è lunedì.",
+          "The Prado Museum is closed because today is Monday.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/740.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché qualcuno vorrebbe baciarvi?",
-          "Why would anyone want to kiss you?",
+          "Tom voleva sapere perché Mary non era felice.",
+          "Tom wanted to know why Mary was not happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/819.json
+=======
+        ],
+        [
+          "Tom non è potuto venire perché è ammalato.",
+          "Tom couldn't come because he's sick.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/740.json
         ]
       ]
     },
@@ -41,10 +53,45 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/819.json
+=======
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lo",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Beh, sicuramente lo richiederò.",
+          "Well, I'll surely ask again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/740.json
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -52,30 +99,33 @@
         [
           "Certamente non lo odiava.",
           "She certainly did not hate him.",
+<<<<<<< HEAD:out/eng/ita/819.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Perché non ha corso?",
           "Why didn't you run?",
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/740.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ti",
+      "content": "avete",
       "translations": [
-        "you",
-        "yourself",
-        "to you",
-        "for you"
+        "you have",
+        "you've got",
+        "are you having"
       ],
       "usageExamples": [
         [
-          "Noi ti amiamo entrambi.",
-          "We both love you.",
+          "Cosa avete consigliato?",
+          "What did you recommend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/819.json
           "Come ti sei sentita quando è successo?",
           "How did you feel when that happened?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -84,28 +134,30 @@
           "Cosa ti fa andare il cuore a tutta velocità?",
           "What makes your heart race?",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/740.json
         ]
       ]
     },
     {
-      "content": "rilassi",
+      "content": "fatto",
       "translations": [
-        "relax",
-        "ease",
-        "unwind",
-        "calm down"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
+        "fact",
+        "done",
+        "made",
+        "event"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/819.json
           "Vado a trovare un'amica.",
           "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -144,6 +196,20 @@
         [
           "'Aspetti qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da lei immediatamente.'",
           "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+=======
+          "L'ha fatto lentamente.",
+          "She did it slowly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse ho fatto un errore.",
+          "Perhaps I made a mistake.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/740.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

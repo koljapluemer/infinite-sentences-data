@@ -1,23 +1,22 @@
 {
-  "sentence": "Tu devi essere onesta con noi.",
+  "sentence": "Tom è terribilmente magro, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You need to be honest with us."
+    "Tom is awfully skinny, isn't he?"
   ],
   "parts": [
     {
-      "content": "Tu",
+      "content": "Tom",
       "translations": [
-        "You",
-        "Yourself",
-        "Thou",
-        "Ye"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1077.json
           "Tu comprendi quel libro.",
           "You understand that book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,39 +24,62 @@
         [
           "Tu sei sposata?",
           "Are you married?",
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/998.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1077.json
+=======
+        ],
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/998.json
         ]
       ]
     },
     {
-      "content": "devi",
+      "content": "è",
       "translations": [
-        "you must",
-        "you have to",
-        "you need to",
-        "you are supposed to"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Mi devi aiutare a salvarle.",
-          "You must help me save them.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "essere",
+      "content": "terribilmente",
       "translations": [
-        "to be",
-        "to exist",
-        "to occur",
-        "to happen"
+        "terribly",
+        "awfully",
+        "horribly",
+        "extremely"
       ],
+<<<<<<< HEAD:out/eng/ita/1077.json
       "usageExamples": [
         [
           "Deve essere difficile.",
@@ -75,33 +97,31 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/998.json
     },
     {
-      "content": "onesta",
+      "content": "magro",
       "translations": [
-        "honest",
-        "fair",
-        "upright",
-        "respectable"
+        "thin",
+        "slim",
+        "lean",
+        "skinny"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
       ],
       "usageExamples": [
         [
-          "Io sono stata onesta con lui.",
-          "I have been honest with him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
-      ],
-      "usageExamples": [
-        [
+<<<<<<< HEAD:out/eng/ita/1077.json
           "Siate pazienti con noi.",
           "Be patient with us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -142,6 +162,23 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È scoraggiata, vero?",
+          "She's discouraged, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/998.json
     }
   ]
 }

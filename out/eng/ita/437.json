@@ -1,21 +1,23 @@
 {
-  "sentence": "Il cane scodinzolava.",
+  "sentence": "I suoi figli sono nel giardino.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by patgfisher (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by hoffmania (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The dog wagged its tail."
+    "Her sons are in the garden."
   ],
   "parts": [
     {
-      "content": "Il",
+      "content": "I",
       "translations": [
-        "The",
-        "It"
+        "me",
+        "myself",
+        "the one who is speaking"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/437.json
           "Il gatto mangia.",
           "The cat eats.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -29,42 +31,142 @@
           "Il bambino mi sorrise.",
           "The baby smiled at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "I miei genitori abitano in una casa grande.",
+          "My parents live in a big house.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "I personal computer sono molto utili.",
+          "Personal computers are very useful.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "I contadini più stupidi hanno le patate più grandi.",
+          "The dumbest farmers have the biggest potatoes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/358.json
         ]
       ]
     },
     {
-      "content": "cane",
+      "content": "suoi",
       "translations": [
-        "dog",
-        "walking stick",
-        "rod"
+        "his",
+        "her",
+        "its"
       ],
       "usageExamples": [
         [
-          "Un cane ha corso.",
-          "A dog ran.",
+          "A Mary mancavano i suoi amici.",
+          "Mary missed her friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "La cosa migliore del Giappone sono i suoi videogiochi.",
+          "The best thing about Japan is its video games.",
+          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
         ],
         [
-          "Per favore, faccia un bagno al cane.",
-          "Please give the dog a bath.",
+          "A Mary mancavano i suoi figli.",
+          "Mary missed her kids.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scodinzolava",
+      "content": "figli",
       "translations": [
-        "wagged its tail",
-        "was wagging its tail",
-        "wagging the tail"
+        "children",
+        "sons",
+        "offspring",
+        "kids"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano suo marito e i suoi figli.",
+          "Mary misses her husband and children.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questi sono i suoi figli?",
+          "Are these your children?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
+      ],
+      "usageExamples": [
+        [
+          "Io sono solo curiosa.",
+          "I'm just curious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutte sono felici.",
+          "Everybody's happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nel",
+      "translations": [
+        "in the",
+        "inside the",
+        "within the",
+        "at the"
+      ],
+      "usageExamples": [
+        [
+          "Riuscite a leggermi nel pensiero?",
+          "Can you read my mind?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary è nel suo ufficio.",
+          "Mary is in her office.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il signor Jones crede nel duro lavoro e nei profitti.",
+          "Mr Jones believes in hard work and profits.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "giardino",
+      "translations": [
+        "garden",
+        "yard",
+        "park",
+        "green space"
+      ],
+      "usageExamples": [
+        [
+          "Il mio giardino è piccolo.",
+          "My garden is small.",
+          "Sentence from Tatoeba by VPZ (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,20 +1,22 @@
 {
-  "sentence": "Io e Tom andremo a Boston.",
+  "sentence": "Iniziai a uscire con lui.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom and I'll go to Boston."
+    "I started dating him."
   ],
   "parts": [
     {
-      "content": "Io",
+      "content": "Iniziai",
       "translations": [
-        "I",
-        "me",
-        "myself"
+        "I started.",
+        "I began",
+        "I initiated",
+        "I commenced"
       ],
+<<<<<<< HEAD:out/eng/ita/470.json
       "usageExamples": [
         [
           "Io insegno il berbero.",
@@ -108,6 +110,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/391.json
     },
     {
       "content": "a",
@@ -118,6 +123,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/470.json
           "Non riusciva a vederla.",
           "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -125,6 +131,15 @@
         [
           "Cosa capiterà a loro?",
           "What's going to happen to them?",
+=======
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/391.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -135,26 +150,78 @@
       ]
     },
     {
-      "content": "Boston",
+      "content": "uscire",
       "translations": [
-        "City of Boston",
-        "Boston, Massachusetts",
-        "The Hub"
+        "to go out",
+        "to exit",
+        "to leave",
+        "to come out"
       ],
       "usageExamples": [
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "Io ho voglia di uscire.",
+          "I feel like going out.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/470.json
           "Non sono ancora stato a Boston.",
           "I haven't been to Boston yet.",
+=======
+          "A Mary non è permesso uscire da sola.",
+          "Mary isn't allowed to go out by herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
+      ],
+      "usageExamples": [
+        [
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/391.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "So che Tom e Mary devono andare a Boston.",
-          "I know Tom and Mary have to go to Boston.",
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lui",
+      "translations": [
+        "he",
+        "him",
+        "his"
+      ],
+      "usageExamples": [
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

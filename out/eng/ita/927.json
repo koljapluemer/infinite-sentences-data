@@ -1,16 +1,17 @@
 {
-  "sentence": "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+  "sentence": "Sento la primavera nell'aria.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He moved to Madrid to take the reins of his father's business."
+    "I feel spring in the air."
   ],
   "parts": [
     {
-      "content": "Si",
+      "content": "Sento",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/927.json
         "If",
         "Whether",
         "In case",
@@ -41,10 +42,17 @@
         "moved",
         "conveyed",
         "relocated"
+=======
+        "I feel",
+        "I sense",
+        "I perceive",
+        "I experience"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/848.json
       ],
       "usageExamples": []
     },
     {
+<<<<<<< HEAD:out/eng/ita/927.json
       "content": "a",
       "translations": [
         "an",
@@ -131,50 +139,59 @@
     },
     {
       "content": "le",
+=======
+      "content": "la",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/848.json
       "translations": [
         "the",
-        "them",
-        "to them",
-        "for them"
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Non le vogliamo là.",
-          "We don't want them there.",
+          "Ha perso la partita.",
+          "He lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non le può licenziare.",
-          "You can't fire them.",
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/927.json
           "Io sto guardando le Olimpiadi.",
           "I'm watching the Olympics.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/848.json
         ]
       ]
     },
     {
-      "content": "redini",
+      "content": "primavera",
       "translations": [
-        "reins",
-        "bridle straps",
-        "riding reins",
-        "horse reins"
+        "spring",
+        "springtime",
+        "the season of spring"
       ],
       "usageExamples": []
     },
     {
-      "content": "degli",
+      "content": "nell'",
       "translations": [
-        "some",
-        "of the",
-        "of",
-        "from the"
+        "in the",
+        "at the",
+        "inside the",
+        "within the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/927.json
           "Quando è stata l'ultima volta che avete indossato degli occhiali da sole?",
           "When was the last time you wore sunglasses?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -187,19 +204,29 @@
         [
           "Odio il cibo degli ospedali.",
           "I hate hospital food.",
+=======
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo pensando di arruolarmi nell'esercito.",
+          "I was thinking about joining the army.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/848.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "affari",
+      "content": "aria",
       "translations": [
-        "business",
-        "affairs",
-        "matters",
-        "transactions"
+        "air",
+        "melody",
+        "tune",
+        "song"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/927.json
     },
     {
       "content": "di",
@@ -278,6 +305,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/848.json
     }
   ]
 }

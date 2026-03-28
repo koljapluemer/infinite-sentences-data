@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary e Tom importa la privacy.",
+  "sentence": "A Mark non piace San Valentino.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary and Tom care about privacy."
+    "Mark doesn't like Valentine's Day."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/123.json
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,18 +31,35 @@
           "A Fadil piaceva sciare.",
           "Fadil liked skiing.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/93.json
         ]
       ]
     },
     {
-      "content": "Mary",
+      "content": "Mark",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "Mark",
+        "Sign",
+        "Stain",
+        "Score"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/123.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,20 +72,26 @@
         [
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Mark potrebbe piacere Jessica.",
+          "Mark might like Jessica.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/93.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "e",
+      "content": "non",
       "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/123.json
           "Perché non lo scorda e basta?",
           "Why don't you just forget it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,17 +105,34 @@
           "Camminare regolarmente può aiutarmi a mantenere un peso sano e a prevenire l'aumento di peso.",
           "Regular walking can help me maintain a healthy weight and prevent weight gain.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/93.json
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "piace",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/123.json
           "Tom era creativo.",
           "Tom was creative.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -99,23 +140,31 @@
         [
           "Tom si è divertito.",
           "Tom had some fun.",
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "A Judy piace lui.",
+          "Judy likes him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/93.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "importa",
+      "content": "San",
       "translations": [
-        "it matters",
-        "it is important",
-        "it counts",
-        "it is significant"
+        "Saint",
+        "Holy"
       ],
+<<<<<<< HEAD:out/eng/ita/123.json
       "usageExamples": [
         [
           "Mi importa di lei.",
@@ -133,15 +182,17 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/93.json
     },
     {
-      "content": "la",
+      "content": "Valentino",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "Valentine",
+        "Valentino"
       ],
+<<<<<<< HEAD:out/eng/ita/123.json
       "usageExamples": [
         [
           "Lui accese la radio.",
@@ -168,6 +219,8 @@
         "personal space",
         "seclusion"
       ],
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/93.json
       "usageExamples": []
     }
   ]

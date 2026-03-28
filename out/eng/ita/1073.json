@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom è un fan.",
+  "sentence": "Tom è diverso dagli altri ragazzi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mactrey (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is a fan."
+    "Tom is different from other boys."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1073.json
           "Dovresti aiutare Tom.",
           "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -23,6 +24,15 @@
         [
           "È con Tom, vero?",
           "You're with Tom, aren't you?",
+=======
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/994.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -42,6 +52,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1073.json
           "Lei è la dottoressa?",
           "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,19 +65,55 @@
         [
           "Forse è lui.",
           "Maybe it's him.",
+=======
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/994.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "diverso",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "different",
+        "various",
+        "diverse",
+        "distinct"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dagli",
+      "translations": [
+        "from the",
+        "by the",
+        "of the",
+        "since the"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "altri",
+      "translations": [
+        "others",
+        "other people",
+        "the rest",
+        "additional ones"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1073.json
           "Questo è un occhio.",
           "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,15 +127,26 @@
           "È un portiere.",
           "He's a goal keeper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Sono stanco di ascoltare incessantemente i problemi degli altri.",
+          "I'm tired of listening incessantly to other people's problems.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sento unico rispetto agli altri.",
+          "I feel unique compared to others.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/994.json
         ]
       ]
     },
     {
-      "content": "fan",
+      "content": "ragazzi",
       "translations": [
-        "ventilator",
-        "blower",
-        "air circulator"
+        "boys",
+        "kids",
+        "guys",
+        "young people"
       ],
       "usageExamples": []
     }

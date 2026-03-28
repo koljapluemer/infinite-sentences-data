@@ -1,11 +1,11 @@
 {
-  "sentence": "È difficile per me dipendere da te.",
+  "sentence": "È ancora in fase di test.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by marshmallowcat (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's hard for me to depend on you."
+    "It's still being tested."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1148.json
           "È una giornata nuvolosa.",
           "It's a cloudy day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,59 +31,89 @@
         [
           "È scoraggiata, vero?",
           "She's discouraged, isn't she?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "difficile",
-      "translations": [
-        "difficult",
-        "hard",
-        "challenging",
-        "tough"
-      ],
-      "usageExamples": [
-        [
-          "Deve essere difficile.",
-          "That must be hard.",
+=======
+          "È una maledizione.",
+          "It's a curse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È difficile restare calmi quando le scadenze vengono ignorate.",
-          "It's hard to stay calm when deadlines are ignored.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "È idolatrato?",
+          "Is he idolised?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1069.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "per",
+      "content": "ancora",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "anchor",
+        "still",
+        "yet",
+        "also"
       ],
       "usageExamples": [
         [
+          "Perché nessuno è ancora qui?",
+          "Why is no one here yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non siamo ancora molto affamati.",
+          "We aren't very hungry yet.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che sei ancora arrabbiata con me.",
+          "I know you're still mad at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/1148.json
           "Vuole andare per prima?",
           "Do you want to go first?",
+=======
+          "È stata in piedi?",
+          "Did you stand up?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1069.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hey, grazie per l'aiuto.",
-          "Hey, thanks for the help.",
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1148.json
           "Sei speciale per me.",
           "You're special to me.",
+=======
+          "Era in ritardo.",
+          "He was late.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1069.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "me",
+      "content": "fase",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1148.json
         "myself",
         "to me",
         "for me"
@@ -112,19 +143,26 @@
         "to rely",
         "to hinge on",
         "to be contingent upon"
+=======
+        "phase",
+        "stage",
+        "step",
+        "period"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1069.json
       ],
       "usageExamples": []
     },
     {
-      "content": "da",
+      "content": "di",
       "translations": [
+        "of",
         "from",
-        "since",
-        "by",
-        "of"
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1148.json
           "Scendi da quella scala.",
           "Get down from that ladder.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -133,24 +171,34 @@
           "Dovresti lasciarmi da sola.",
           "You should leave me alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Imparai l'esperanto da sola.",
-          "I learned Esperanto by myself.",
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1069.json
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "te",
+      "content": "test",
       "translations": [
-        "you",
-        "yourself",
-        "to you",
-        "for you"
+        "exam",
+        "assessment",
+        "evaluation"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1148.json
           "Andrò in biblioteca con te domani.",
           "I'll go to the library with you tomorrow.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -163,6 +211,10 @@
         [
           "C'è una chiamata per te. È Tom.",
           "There's a call for you. It's Tom.",
+=======
+          "Questo è un test?",
+          "Is this a test?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1069.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

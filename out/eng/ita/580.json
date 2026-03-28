@@ -1,11 +1,11 @@
 {
-  "sentence": "Le prestò la sua bicicletta.",
+  "sentence": "Le dirò che eravate qui.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He lent his bicycle to her."
+    "I'll tell her you were here."
   ],
   "parts": [
     {
@@ -23,6 +23,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/580.json
           "Le fece sorridere.",
           "That made them smile.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -31,28 +32,35 @@
           "Le mie gambe stanno migliorando giorno dopo giorno.",
           "My legs are getting better day by day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Le due famiglie hanno legami familiari stretti.",
+          "The two families have very close ties.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/501.json
         ]
       ]
     },
     {
-      "content": "prestò",
+      "content": "dirò",
       "translations": [
-        "he/she lent",
-        "he/she loaned",
-        "he/she provided"
+        "I will say",
+        "I will tell",
+        "I will speak",
+        "I will declare"
       ],
       "usageExamples": []
     },
     {
-      "content": "la",
+      "content": "che",
       "translations": [
-        "the",
         "that",
         "which",
-        "those"
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/580.json
           "Ha perso la partita.",
           "He lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,19 +74,34 @@
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/501.json
         ]
       ]
     },
     {
-      "content": "sua",
+      "content": "eravate",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "you were",
+        "you used to be",
+        "you had been"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/580.json
           "Dov'è la sua casa?",
           "Where is your house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -92,21 +115,43 @@
           "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
           "Tom received an urgent message to call his wife.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "Tom mi ha detto che eravate felici.",
+          "Tom told me you were happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/501.json
         ]
       ]
     },
     {
-      "content": "bicicletta",
+      "content": "qui",
       "translations": [
-        "bicycle",
-        "bike",
-        "cycle"
+        "who",
+        "that",
+        "which",
+        "whom"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/580.json
           "A Mary piace andare in bicicletta.",
           "Mary likes riding her bicycle.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Erano proprio qui.",
+          "They were right here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Odio qui.",
+          "I hate it here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/501.json
         ]
       ]
     }

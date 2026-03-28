@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom disse che era divertito.",
+  "sentence": "Tom dice di non aver nuotato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom said that he was amused."
+    "Tom says he didn't swim."
   ],
   "parts": [
     {
@@ -16,32 +16,43 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/997.json
           "Qualcuno sta osservando Tom.",
           "Someone is watching Tom.",
+=======
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/918.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io appoggiavo Tom.",
-          "I used to support Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/997.json
           "Tom sembra compiaciuto.",
           "Tom seems pleased.",
+=======
+          "Tom è un esperto.",
+          "Tom is a pro.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/918.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "disse",
+      "content": "dice",
       "translations": [
-        "said",
-        "told",
-        "stated",
-        "declared"
+        "to say",
+        "to tell",
+        "to speak",
+        "to declare"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/997.json
           "Mary disse che era offesa.",
           "Mary said that she was offended.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -49,32 +60,81 @@
         [
           "Tom disse che aveva nostalgia di casa.",
           "Tom said that he was homesick.",
+=======
+          "Ciò che si fa è più importante di ciò che si dice.",
+          "What you do is more important than what you say.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/918.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom disse che non era ricco.",
-          "Tom said that he wasn't rich.",
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/997.json
+=======
+        ],
+        [
+          "Ora lui mi dice la verità.",
+          "Now he tells me the truth.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/918.json
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "di",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/997.json
           "Disse che lo amava.",
           "She said that she loved him.",
+=======
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/918.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -85,13 +145,13 @@
       ]
     },
     {
-      "content": "era",
+      "content": "aver",
       "translations": [
-        "was",
-        "used to be",
-        "used to",
-        "was in the process of"
+        "to have",
+        "to possess",
+        "to hold"
       ],
+<<<<<<< HEAD:out/eng/ita/997.json
       "usageExamples": [
         [
           "Chiese se era invitata.",
@@ -109,15 +169,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/918.json
     },
     {
-      "content": "divertito",
+      "content": "nuotato",
       "translations": [
-        "entertained",
-        "amused",
-        "enjoyed",
-        "delighted"
+        "swum",
+        "swimming",
+        "has swum",
+        "was swimming"
       ],
+<<<<<<< HEAD:out/eng/ita/997.json
       "usageExamples": [
         [
           "Tom si è divertito.",
@@ -125,6 +189,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/918.json
     }
   ]
 }

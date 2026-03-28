@@ -1,48 +1,55 @@
 {
-  "sentence": "Tutti noi parliamo inglese.",
+  "sentence": "Tu sei sposata?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by pauldhunt (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We all speak English."
+    "Are you married?"
   ],
   "parts": [
     {
-      "content": "Tutti",
+      "content": "Tu",
       "translations": [
-        "Everyone",
-        "All",
-        "Everybody",
-        "All people"
+        "You",
+        "Yourself",
+        "Thou",
+        "Ye"
       ],
       "usageExamples": [
         [
-          "Tutti erano in ansia.",
-          "Everyone was apprehensive.",
+          "Tu comprendi quel libro.",
+          "You understand that book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tutti li ignorarono.",
-          "Everyone ignored them.",
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu lasceresti tua moglie per me?",
+          "Would you leave your wife for me?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "noi",
+      "content": "sei",
       "translations": [
-        "we",
-        "us",
-        "ourselves"
+        "six",
+        "you are",
+        "if you",
+        "be"
       ],
       "usageExamples": [
         [
-          "Siate pazienti con noi.",
-          "Be patient with us.",
+          "Tu non sei un barbiere, vero?",
+          "You're not a barber, are you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1090.json
           "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
           "Only time will tell what the world has in store for us.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
@@ -50,45 +57,28 @@
         [
           "Venite a pranzare con noi.",
           "Come to lunch with us.",
+=======
+          "So che sei ancora arrabbiata con me.",
+          "I know you're still mad at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu sei stato di grande aiuto per la nostra famiglia.",
+          "You've been a great help to our family.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1011.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "parliamo",
+      "content": "sposata",
       "translations": [
-        "let's talk",
-        "we speak",
-        "we are talking",
-        "let's speak"
+        "married",
+        "spouse",
+        "wife",
+        "in a marital relationship"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "inglese",
-      "translations": [
-        "English.",
-        "the English language",
-        "English (language)",
-        "English (as a subject)"
-      ],
-      "usageExamples": [
-        [
-          "Studio inglese dopo cena.",
-          "I study English after dinner.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho intenzione questo pomeriggio di studiare inglese.",
-          "I'm going to study English this afternoon.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi studiamo tutti i giorni inglese.",
-          "We study English every day.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

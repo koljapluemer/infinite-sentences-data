@@ -1,32 +1,34 @@
 {
-  "sentence": "Arrostisca il bhakri mentre la pentola viene riscaldata.",
+  "sentence": "Amo molto mia madre.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sabretou (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Roast the bhakri while the pan is heated."
+    "I love my mother very much."
   ],
   "parts": [
     {
-      "content": "Arrostisca",
+      "content": "Amo",
       "translations": [
-        "Grilled meat",
-        "Roasted meat",
-        "Barbecued meat"
+        "I love",
+        "I like",
+        "I am fond of",
+        "I adore"
       ],
       "usageExamples": []
     },
     {
-      "content": "il",
+      "content": "molto",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/251.json
           "Avete il nostro rispetto.",
           "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -39,40 +41,34 @@
         [
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/172.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bhakri",
+      "content": "mia",
       "translations": [
-        "flatbread",
-        "unleavened bread",
-        "whole wheat bread",
-        "rustic bread"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mentre",
-      "translations": [
-        "while",
-        "as",
-        "during",
-        "meanwhile"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "my",
+        "mine",
+        "belonging to me"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/251.json
           "Apri la cassaforte.",
           "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -86,49 +82,49 @@
           "Cosa la sta causando?",
           "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno ha rubato la mia borsa.",
+          "Somebody has stolen my bag.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono orgoglioso di mia madre.",
+          "I'm proud of my mother.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/172.json
         ]
       ]
     },
     {
-      "content": "pentola",
+      "content": "madre",
       "translations": [
-        "pot",
-        "cooking pot",
-        "saucepan",
-        "kettle"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "viene",
-      "translations": [
-        "comes",
-        "arrives",
-        "is coming",
-        "is happening"
+        "mother",
+        "mom",
+        "mum",
+        "mama"
       ],
       "usageExamples": [
         [
-          "Quanto spesso ti viene a trovare Tom?",
-          "How often does Tom visit you?",
-          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+          "A Mary non piaceva sua madre.",
+          "Mary didn't like her mother.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
-          "\"Where's your girlfriend from?\" \"She's Russian.\"",
+          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+          "My mother advises me against sitting at my computer all day long.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sua madre sarebbe fiera di lei.",
+          "Your mother would be proud of you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "riscaldata",
-      "translations": [
-        "heated",
-        "warmed up",
-        "heated up",
-        "made warm"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,11 +1,12 @@
 {
-  "sentence": "Lei l'ha colpito con un martello.",
+  "sentence": "Lei ci catturerà.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She hit him with a hammer."
+    "She will catch us.",
+    "You will catch us."
   ],
   "parts": [
     {
@@ -18,6 +19,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/593.json
           "Lei è americano?",
           "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -31,38 +33,64 @@
           "Lei chiuse gli occhi.",
           "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Lei ha già finito?",
+          "Have you already finished?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è americano?",
+          "Are you American?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/514.json
         ]
       ]
     },
     {
-      "content": "l'ha",
+      "content": "ci",
       "translations": [
-        "he has it",
-        "she has it",
-        "it has",
-        "he's got it"
+        "us",
+        "to us",
+        "for us",
+        "at us"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/593.json
           "Tom l'ha fatta per voi.",
           "Tom did it for you.",
+=======
+          "Con chi ci andrà?",
+          "Who are you going with?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/514.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non l'ha mostrato a Mary.",
-          "Tom didn't show that to Mary.",
+          "Loro ci aiutano.",
+          "They help us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/593.json
           "Tom non me l'ha restituita.",
           "Tom didn't give it back to me.",
+=======
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/514.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "colpito",
+      "content": "catturerà",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/593.json
         "hit",
         "struck",
         "affected",
@@ -128,6 +156,12 @@
         "mallet",
         "tool for striking",
         "heavy hand tool"
+=======
+        "will capture",
+        "will seize",
+        "will catch",
+        "will trap"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/514.json
       ],
       "usageExamples": []
     }

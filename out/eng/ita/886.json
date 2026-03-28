@@ -1,57 +1,56 @@
 {
-  "sentence": "Restiamo con Tom.",
+  "sentence": "Questo non ha sorpreso Yanni.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's stay with Tom."
+    "This didn't surprise Yanni."
   ],
   "parts": [
     {
-      "content": "Restiamo",
+      "content": "Questo",
       "translations": [
-        "Let's stay",
-        "We stay",
-        "We remain",
-        "Let's remain"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "This",
+        "This one",
+        "This thing",
+        "This item"
       ],
       "usageExamples": [
         [
-          "Era sposato con lei.",
-          "He used to be married to her.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Parlo frequentemente con lui.",
-          "I frequently talk to him.",
+          "Questo è un test?",
+          "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/886.json
           "Sono fidanzata con lei.",
           "I'm engaged to her.",
+=======
+          "Questo è un occhio.",
+          "This is an eye.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/807.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "non",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/886.json
           "Mi descriva Tom.",
           "Describe Tom to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -64,6 +63,75 @@
         [
           "Tom vende funghi psichedelici.",
           "Tom sells psychedelic mushrooms.",
+=======
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sorpreso",
+      "translations": [
+        "surprised",
+        "astonished",
+        "taken aback",
+        "startled"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Yanni",
+      "translations": [
+        "Yanni (a name)",
+        "Yanni (musician)",
+        "Yanni (Greek composer)"
+      ],
+      "usageExamples": [
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/807.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

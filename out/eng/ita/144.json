@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary mancava suo figlio.",
+  "sentence": "A Mary manca suo marito.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary missed her son."
+    "Mary misses her husband."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/144.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,6 +30,20 @@
         [
           "A Fadil piaceva scommettere.",
           "Fadil liked to gamble.",
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/110.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,8 +57,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/144.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/110.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -51,6 +71,22 @@
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+        [
+          "Mary spera di poter vincere.",
+          "Mary hopes that she can win.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "manca",
+      "translations": [
+        "missing",
+        "lacking",
+        "absent",
+        "deficient"
+      ],
+      "usageExamples": [
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
@@ -73,6 +109,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/144.json
           "A Karl mancava bere il latte.",
           "Karl missed drinking milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,6 +117,15 @@
         [
           "A Mary mancava l'esperienza politica.",
           "Many lacked political experience.",
+=======
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca sua figlia.",
+          "Mary misses her daughter.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/110.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -94,6 +140,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/144.json
           "A Mary non piace il suo nuovo lavoro.",
           "Mary doesn't like her new job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -106,28 +153,21 @@
         [
           "A Mary manca suo marito.",
           "Mary misses her husband.",
+=======
+          "A Benedito piacque il suo viaggio in India.",
+          "Benedito enjoyed his trip to India.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "figlio",
-      "translations": [
-        "son",
-        "child",
-        "offspring",
-        "descendant"
-      ],
-      "usageExamples": [
-        [
-          "Non so se i padrini di mio figlio siano ancora vivi.",
-          "I don't know if my son's godparents are still alive.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ],
         [
-          "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
-          "A son would represent continuity in a rapidly changing world.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Ha lasciato un po' di cibo nel suo piatto.",
+          "She left some food on her plate.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho scordato il suo nome.",
+          "I've forgotten her name.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/110.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,23 +1,23 @@
 {
-  "sentence": "Quando è stata l'ultima volta che avete indossato degli occhiali da sole?",
+  "sentence": "Qualcuno ha pugnalato l'uomo nella gamba.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "When was the last time you wore sunglasses?"
+    "Someone stabbed the man in the leg."
   ],
   "parts": [
     {
-      "content": "Quando",
+      "content": "Qualcuno",
       "translations": [
-        "When",
-        "At what time",
-        "At which point",
-        "During which period"
+        "Someone",
+        "Somebody",
+        "Anyone",
+        "A person"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/855.json
           "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
           "When riding a bus or a train, you need to pay the fare.",
           "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
@@ -51,55 +51,69 @@
         [
           "Forse è lui.",
           "Maybe it's him.",
+=======
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno ha rubato la mia borsa.",
+          "Somebody has stolen my bag.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/776.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stata",
+      "content": "ha",
       "translations": [
-        "was",
-        "has been",
-        "was located",
-        "was situated"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "È stata in piedi?",
-          "Did you stand up?",
+          "Lei ha già finito?",
+          "Have you already finished?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/855.json
           "A Jim è stata rubata la macchina fotografica.",
           "Jim had his camera stolen.",
+=======
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/776.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "l'ultima",
+      "content": "pugnalato",
       "translations": [
-        "the last one",
-        "the latest",
-        "the final"
+        "stabbed",
+        "knifed",
+        "slashed",
+        "pierced"
       ],
       "usageExamples": []
     },
     {
-      "content": "volta",
+      "content": "l'uomo",
       "translations": [
-        "turn",
-        "return",
-        "change",
-        "revolution"
+        "the man",
+        "a man",
+        "man"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/855.json
           "A Bill e John piace ritrovarsi una volta al mese per scambiare due chiacchiere.",
           "Bill and John like to get together once a month to chat.",
           "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
@@ -128,6 +142,10 @@
         [
           "Sembra che sia seria.",
           "She looks like she's serious.",
+=======
+          "Di fatto l'uomo si arrabbiò.",
+          "In fact, the man got angry.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/776.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -138,50 +156,52 @@
       ]
     },
     {
-      "content": "avete",
+      "content": "nella",
       "translations": [
-        "you have",
-        "you've got",
-        "are you having"
+        "in the",
+        "at the",
+        "on the",
+        "within the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/855.json
           "Dove li avete oliati?",
           "Where did you oil them?",
+=======
+          "Guardai John e Mary camminare mano nella mano.",
+          "I watched John and Mary walking hand in hand.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/776.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li avete rapiti?",
-          "Did you kidnap them?",
+          "Tom ha trovato una pistola nella borsa di Mary.",
+          "Tom found a gun in Mary's purse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/855.json
           "Cosa avete consigliato?",
           "What did you recommend?",
+=======
+          "Lo conosci il ragazzo nella foto?",
+          "Do you know the boy in the picture?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/776.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "indossato",
+      "content": "gamba",
       "translations": [
-        "worn",
-        "put on",
-        "dressed in",
-        "wearing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "degli",
-      "translations": [
-        "some",
-        "of the",
-        "of",
-        "from the"
+        "leg",
+        "shank",
+        "limb",
+        "gait"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/855.json
           "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
           "He moved to Madrid to take the reins of his father's business.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -242,6 +262,13 @@
         "flat part of a shoe"
       ],
       "usageExamples": []
+=======
+          "A Mary fu amputata la gamba sinistra.",
+          "Mary had her left leg amputated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/776.json
     }
   ]
 }

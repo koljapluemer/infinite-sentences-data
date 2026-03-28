@@ -1,26 +1,26 @@
 {
-  "sentence": "Tirate fuori i vostri quaderni e le vostre penne.",
+  "sentence": "Taxi, segui quella macchina.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Luornu (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Get out your notebooks and pens."
+    "Taxi, follow that car."
   ],
   "parts": [
     {
-      "content": "Tirate",
+      "content": "Taxi",
       "translations": [
-        "Pull",
-        "Draw",
-        "Shoot",
-        "Take a shot"
+        "Cab",
+        "Taxicab",
+        "Ride-hailing service"
       ],
       "usageExamples": []
     },
     {
-      "content": "fuori",
+      "content": "segui",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/980.json
         "outside",
         "out",
         "outdoors",
@@ -88,19 +88,26 @@
         "exercise books",
         "workbooks",
         "note pads"
+=======
+        "follow",
+        "continue",
+        "pursue",
+        "go after"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/901.json
       ],
       "usageExamples": []
     },
     {
-      "content": "e",
+      "content": "quella",
       "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "that",
+        "the one",
+        "that one",
+        "the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/980.json
           "La pâte brisée, per essere buona, deve essere friabile e leggera.",
           "To be good, pâte brisée should be light and flaky.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -114,19 +121,35 @@
           "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
           "My eyes were full of tears and I could barely see him.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami sentì quella ragazza.",
+          "Sami heard that girl.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/901.json
         ]
       ]
     },
     {
-      "content": "le",
+      "content": "macchina",
       "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
+        "machine",
+        "car",
+        "device",
+        "engine"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/980.json
           "Non le può licenziare.",
           "You can't fire them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -134,6 +157,20 @@
         [
           "Non le vogliamo là.",
           "We don't want them there.",
+=======
+          "Mary sta caricando la macchina, vero?",
+          "Mary is loading the car, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voglio ricomprare la mia macchina.",
+          "I want to buy my car back.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Jim è stata rubata la macchina fotografica.",
+          "Jim had his camera stolen.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/901.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -142,30 +179,6 @@
           "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "vostre",
-      "translations": [
-        "your (plural)",
-        "yours (plural)",
-        "of yours (plural)"
-      ],
-      "usageExamples": [
-        [
-          "Dovreste provare a vivere con le vostre capacità.",
-          "You should try to live within your means.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "penne",
-      "translations": [
-        "pens",
-        "feathers",
-        "quills"
-      ],
-      "usageExamples": []
     }
   ]
 }

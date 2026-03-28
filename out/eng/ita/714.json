@@ -1,11 +1,11 @@
 {
-  "sentence": "Non farei niente per Tom se fossi in voi.",
+  "sentence": "Non dormite mai?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I wouldn't do anything for Tom if I were you."
+    "Don't you ever sleep?"
   ],
   "parts": [
     {
@@ -23,6 +23,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/714.json
           "Non tutti erano compiaciuti.",
           "Not everyone was pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,35 +31,40 @@
         [
           "Non doveva aiutarla.",
           "He didn't have to help her.",
+=======
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/635.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "farei",
+      "content": "dormite",
       "translations": [
-        "I will do",
-        "I will make",
-        "I will perform"
+        "sleep",
+        "rest",
+        "take a nap",
+        "slumber"
       ],
-      "usageExamples": [
-        [
-          "Non lo farei mai per lui.",
-          "I'd never do that for him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "niente",
+      "content": "mai",
       "translations": [
-        "nothing",
-        "none",
-        "not anything",
-        "zero"
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/714.json
           "Non ho niente di cui vantarmi.",
           "I have nothing to boast about.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -213,6 +219,20 @@
         [
           "'Aspettate qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da voi immediatamente.'",
           "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+=======
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/635.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

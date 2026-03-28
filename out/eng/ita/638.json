@@ -1,23 +1,33 @@
 {
-  "sentence": "Mary ha ammesso che era colpevole.",
+  "sentence": "Mandatela per posta aerea.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary admitted she was guilty.",
-    "Mary admitted that she was guilty."
+    "Send it by airmail."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Mandatela",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "Mandate",
+        "Authorization",
+        "Power of attorney",
+        "Delegation"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/638.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,17 +40,33 @@
         [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
+=======
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/559.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "posta",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "mail",
+        "post",
+        "postal service",
+        "mail delivery"
       ],
+<<<<<<< HEAD:out/eng/ita/638.json
       "usageExamples": [
         [
           "Perché non ha corso?",
@@ -58,10 +84,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/559.json
     },
     {
-      "content": "ammesso",
+      "content": "aerea",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/638.json
         "admitted",
         "allowed",
         "accepted",
@@ -134,6 +164,12 @@
         "culprit",
         "offender",
         "responsible"
+=======
+        "aerial",
+        "airborne",
+        "atmospheric",
+        "aviation-related"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/559.json
       ],
       "usageExamples": []
     }

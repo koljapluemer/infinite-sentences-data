@@ -1,11 +1,11 @@
 {
-  "sentence": "Io sono stata onesta con lui.",
+  "sentence": "Io sono andato a trovarlo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have been honest with him."
+    "I went to see him."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/514.json
           "Io ero lì.",
           "I was there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,6 +31,21 @@
           "Io appoggiavo Tom.",
           "I used to support Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Io consegno pizze.",
+          "I deliver pizzas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ero lì.",
+          "I was there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/435.json
         ]
       ]
     },
@@ -43,6 +59,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/514.json
           "Mi sono tuffato nell'acqua.",
           "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,60 +72,84 @@
         [
           "È quello che sono.",
           "It's what I am.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "stata",
-      "translations": [
-        "was",
-        "has been",
-        "was located",
-        "was situated"
-      ],
-      "usageExamples": [
+=======
+          "Perché sono qui?",
+          "Why am I here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
         [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
+          "Tutte sono felici.",
+          "All are happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È stata in piedi?",
-          "Did you stand up?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "La nuova legge è stata una riforma importante.",
-          "The new law was a major reform.",
+          "Io sono solo curiosa.",
+          "I'm just curious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/435.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "onesta",
+      "content": "andato",
       "translations": [
-        "honest",
-        "fair",
-        "upright",
-        "respectable"
+        "gone",
+        "went",
+        "having gone",
+        "departed"
       ],
       "usageExamples": [
         [
-          "Tu devi essere onesta con noi.",
-          "You need to be honest with us.",
+          "Sono andato all'ospedale ieri.",
+          "I went to the hospital yesterday.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mese scorso è andato in Italia.",
+          "Last month, he went to Italy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutto il nostro cibo è andato a male.",
+          "All our food was spoiled.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "con",
+      "content": "a",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "an",
+        "one",
+        "each"
       ],
+      "usageExamples": [
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trovarlo",
+      "translations": [
+        "to find it",
+        "to locate it",
+        "to discover it",
+        "to come across it"
+      ],
+<<<<<<< HEAD:out/eng/ita/514.json
       "usageExamples": [
         [
           "È con Tom, vero?",
@@ -151,6 +192,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/435.json
     }
   ]
 }

@@ -1,33 +1,24 @@
 {
-  "sentence": "Chiese se era invitata.",
+  "sentence": "Chi era qua?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She asked if she was invited."
+    "Who was here?"
   ],
   "parts": [
     {
-      "content": "Chiese",
+      "content": "Chi",
       "translations": [
-        "Churches",
-        "Places of worship",
-        "Chapels",
-        "Religious buildings"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "se",
-      "translations": [
-        "himself",
-        "herself",
-        "itself",
-        "themselves"
+        "Who",
+        "Whom",
+        "Who is it",
+        "Who is that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/288.json
           "A Mary importava solo di se stessa.",
           "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,6 +31,15 @@
         [
           "A Mary importava soltanto di se stessa.",
           "Mary only cared about herself.",
+=======
+          "Chi potrebbe incolparci?",
+          "Who could blame us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/209.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -59,26 +59,47 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Chi era qua?",
-          "Who was here?",
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/288.json
           "L'avversario più importante del Giappone era la Cina.",
           "Japan's most important opponent was China.",
+=======
+          "Lui era assente a causa della tempesta.",
+          "He was absent because of the storm.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/209.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "invitata",
+      "content": "qua",
       "translations": [
-        "invited",
-        "invitation",
-        "guest",
-        "invited person"
+        "where",
+        "in which",
+        "at which",
+        "by which"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Devo aspettarli qua.",
+          "I have to wait here for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\"Passami il sale, per piacere.\" \"Ecco qua.\"",
+          "\"Pass me the salt, please.\" \"Here you are.\"",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

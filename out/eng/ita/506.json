@@ -1,11 +1,11 @@
 {
-  "sentence": "Io so com'era Tom.",
+  "sentence": "Io parlo bosniaco.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I know how Tom used to be."
+    "I speak Bosnian."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/506.json
           "Io sto diventando piccolo!",
           "I am getting small!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,12 +31,28 @@
           "Io l'ho comprata.",
           "I bought it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Io consegno pizze.",
+          "I deliver pizzas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sto diventando piccolo!",
+          "I am getting small!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/427.json
         ]
       ]
     },
     {
-      "content": "so",
+      "content": "parlo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/506.json
         "thus",
         "therefore",
         "in that way"
@@ -65,15 +82,23 @@
         "what it was like",
         "how it used to be",
         "the way it was"
+=======
+        "I speak",
+        "I talk",
+        "I am speaking.",
+        "I am talking."
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/427.json
       ],
       "usageExamples": []
     },
     {
-      "content": "Tom",
+      "content": "bosniaco",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "Bosnian",
+        "Bosniak",
+        "Bosnian person"
       ],
+<<<<<<< HEAD:out/eng/ita/506.json
       "usageExamples": [
         [
           "Nessuno credeva a Tom.",
@@ -91,6 +116,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/427.json
     }
   ]
 }

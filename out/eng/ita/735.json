@@ -1,11 +1,11 @@
 {
-  "sentence": "Non mi piacciono le sue barzellette.",
+  "sentence": "Non le vogliamo là.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't like his jokes."
+    "We don't want them there."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/735.json
           "Non vinco molto spesso.",
           "I don't win very often.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,6 +82,20 @@
         [
           "A Inoue non piacciono i computer.",
           "Inoue doesn't like computers.",
+=======
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/656.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -95,6 +110,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/735.json
           "Non le vogliamo là.",
           "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,19 +123,35 @@
         [
           "I contadini più stupidi hanno le patate più grandi.",
           "The dumbest farmers have the biggest potatoes.",
+=======
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary vuole che i suoi genitori le comprino un pony.",
+          "Mary wants her parents to buy her a pony.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Cuba serve Internet per le esportazioni.",
+          "Cuba needs the Internet for exports.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/656.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sue",
+      "content": "vogliamo",
       "translations": [
-        "to sue",
-        "to file a lawsuit",
-        "to take legal action against"
+        "we want",
+        "we wish",
+        "we desire",
+        "let's"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/735.json
           "A Mary mancavano le sue amiche.",
           "Mary missed her friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -132,19 +164,39 @@
         [
           "A John piace scambiare francobolli con le sue amiche.",
           "John likes to trade stamps with his friends.",
+=======
+          "Non vogliamo che se ne vada.",
+          "We don't want him to leave.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/656.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "barzellette",
+      "content": "là",
       "translations": [
-        "jokes",
-        "funny stories",
-        "humorous anecdotes",
-        "gags"
+        "there",
+        "here",
+        "in that place",
+        "at that location"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Di tutti là, parlai meno.",
+          "Out of everyone there, I spoke the least.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho trascorso là una settimana di ozio.",
+          "I spent an idle week there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

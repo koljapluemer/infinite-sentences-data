@@ -1,14 +1,15 @@
 {
-  "sentence": "Mia madre vuole che io studi in Svizzera.",
+  "sentence": "Mi servono dei francobolli.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My mother wants me to study in Switzerland."
+    "I need stamps."
   ],
   "parts": [
     {
+<<<<<<< HEAD:out/eng/ita/680.json
       "content": "Mia",
       "translations": [
         "Mine",
@@ -109,13 +110,17 @@
     },
     {
       "content": "io",
+=======
+      "content": "Mi",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/601.json
       "translations": [
+        "Me",
         "I",
-        "me",
-        "myself"
+        "Myself"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/680.json
           "Il sushi va bene, però io preferirei del cibo thailandese.",
           "Sushi is OK, but I'd prefer Thai food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -164,17 +169,80 @@
           "Domani andiamo in montagna.",
           "Tomorrow we'll go to the mountains.",
           "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+=======
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/601.json
         ]
       ]
     },
     {
-      "content": "Svizzera",
+      "content": "servono",
       "translations": [
-        "Switzerland",
-        "Swiss Confederation",
-        "Helvetia"
+        "they are needed",
+        "they are required",
+        "they are necessary",
+        "they serve"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "dei",
+      "translations": [
+        "gods",
+        "deities",
+        "divine beings",
+        "spirits"
+      ],
+      "usageExamples": [
+        [
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri mangiò dei datteri.",
+          "Ziri ate dates.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qual è la tua canzone preferita dei Rolling Stones?",
+          "What's your favorite song by the Rolling Stones?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "francobolli",
+      "translations": [
+        "stamps",
+        "postage stamps",
+        "mail stamps",
+        "postal stamps"
+      ],
+      "usageExamples": [
+        [
+          "A John piace scambiare francobolli con i suoi amici.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace scambiare francobolli con le sue amiche.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

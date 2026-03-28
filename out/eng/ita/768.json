@@ -1,11 +1,11 @@
 {
-  "sentence": "Non vi dimenticate di loro.",
+  "sentence": "Non so se lui verrà in treno o in auto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Don't forget them."
+    "I don't know whether he'll come by train or by car."
   ],
   "parts": [
     {
@@ -18,8 +18,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/768.json
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
+=======
+          "Non voglio guardarlo.",
+          "I don't want to look at him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/689.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -28,27 +33,32 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/768.json
           "Non vengono.",
           "They're not coming.",
+=======
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/689.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vi",
+      "content": "so",
       "translations": [
-        "way",
-        "road",
-        "path",
-        "route"
+        "thus",
+        "therefore",
+        "in that way"
       ],
       "usageExamples": [
         [
-          "Nessuno vi sostituirà.",
-          "Nobody will ever replace you.",
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/768.json
           "Perché vi state fermando adesso?",
           "Why are you stopping now?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,30 +66,90 @@
         [
           "So che Tom vi ha ferite.",
           "I know that Tom hurt you.",
+=======
+          "Non so cosa farò con Tom.",
+          "I don't know what I'm going to do with Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "se",
+      "translations": [
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
+      ],
+      "usageExamples": [
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiamatemi se avete bisogno di assistenza.",
+          "Call me if you need assistance.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa soltanto di se stessa.",
+          "Mary only cares about herself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/689.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dimenticate",
+      "content": "lui",
       "translations": [
-        "forgotten",
-        "overlooked",
-        "neglected",
-        "abandoned"
+        "he",
+        "him",
+        "his"
+      ],
+      "usageExamples": [
+        [
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "verrà",
+      "translations": [
+        "will come",
+        "is coming",
+        "will be",
+        "is going to be"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "in",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "inside",
+        "within",
+        "into"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/768.json
           "Può fare di meglio.",
           "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -93,31 +163,92 @@
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+=======
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/689.json
         ]
       ]
     },
     {
-      "content": "loro",
+      "content": "treno",
       "translations": [
-        "their",
-        "theirs",
-        "them",
-        "those"
+        "train",
+        "railway",
+        "locomotive",
+        "train service"
       ],
       "usageExamples": [
         [
-          "Cosa capiterà a loro?",
-          "What'll happen to them?",
+          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
+          "The train is taking off and we haven't bought our tickets!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom corse per prendere l'ultimo treno.",
+          "Tom ran to catch the last train.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/768.json
           "Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firenze.",
           "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence.",
+=======
+          "Se non ci sbrighiamo, perderemo il nostro treno.",
+          "If we don't hurry, we'll miss our train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "o",
+      "translations": [
+        "or",
+        "either",
+        "alternatively",
+        "otherwise"
+      ],
+      "usageExamples": [
+        [
+          "Sbrigati o perderai l'aereo.",
+          "Hurry up, or you'll miss your plane.",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui va a scuola a piedi o in bici?",
+          "Does he go to school on foot or by bicycle?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/689.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non avete detto questo a loro?",
-          "Why didn't you tell them this?",
+          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
+          "When riding a bus or a train, you need to pay the fare.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "auto",
+      "translations": [
+        "car",
+        "automobile",
+        "vehicle"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha un'auto molto costosa.",
+          "Tom has a very expensive car.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

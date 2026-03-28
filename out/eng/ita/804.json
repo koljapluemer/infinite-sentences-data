@@ -1,16 +1,17 @@
 {
-  "sentence": "Per piacere, copi questa pagina.",
+  "sentence": "Penso che lei sia un idiota.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please copy this page."
+    "I think you're an idiot."
   ],
   "parts": [
     {
-      "content": "Per",
+      "content": "Penso",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/804.json
         "for",
         "by",
         "through",
@@ -67,26 +68,42 @@
         "duplicate",
         "reproduction",
         "facsimile"
+=======
+        "I think.",
+        "I believe",
+        "I consider",
+        "I reflect"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/725.json
       ],
       "usageExamples": []
     },
     {
-      "content": "questa",
+      "content": "che",
       "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Ti darò questa biro.",
-          "I'll give you this pen.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/804.json
           "Ho bevuto del caffè questa mattina.",
           "I drank coffee this morning.",
+=======
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/725.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -97,20 +114,90 @@
       ]
     },
     {
-      "content": "pagina",
+      "content": "lei",
       "translations": [
-        "page",
-        "sheet",
-        "leaf",
-        "folio"
+        "she",
+        "you (formal)",
+        "her"
       ],
       "usageExamples": [
         [
-          "Questa pagina non è mai stata divertente.",
-          "This page was never funny.",
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "sia",
+      "translations": [
+        "herself",
+        "hers",
+        "she herself",
+        "her own"
+      ],
+      "usageExamples": [
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Penso che Tom sia normale.",
+          "I think Tom is normal.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Ho letto un fumetto.",
+          "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "idiota",
+      "translations": [
+        "idiot",
+        "fool",
+        "simpleton",
+        "dunce"
+      ],
+      "usageExamples": []
     }
   ]
 }

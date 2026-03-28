@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non piace dormire da sola.",
+  "sentence": "A Mary non importa dei suoi voti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary doesn't like sleeping alone."
+    "Mary doesn't care about her grades."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/153.json
           "A Fadil piaceva scommettere.",
           "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -42,6 +43,8 @@
       ],
       "usageExamples": [
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/118.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -52,8 +55,38 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/153.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary nega di avere pianto.",
+          "Mary denies she cried.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/118.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -64,10 +97,12 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/153.json
           "Yanni non comprende l'Islam.",
           "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,19 +115,14 @@
         [
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
+=======
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/118.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "piace",
-      "translations": [
-        "to like",
-        "to please",
-        "to be pleasing to"
-      ],
-      "usageExamples": [
+        ],
         [
+<<<<<<< HEAD:out/eng/ita/153.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -105,46 +135,61 @@
         [
           "A Judy piace.",
           "Judy likes him.",
+=======
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/118.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dormire",
+      "content": "importa",
       "translations": [
-        "to sleep",
-        "sleeping",
-        "to take a nap",
-        "to rest"
+        "it matters",
+        "it is important",
+        "it counts",
+        "it is significant"
       ],
       "usageExamples": [
         [
-          "Voi non potete dormire qui.",
-          "You can't sleep here.",
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La lasciai dormire fino a mezzogiorno.",
-          "I let her sleep until noon.",
+          "A Mary importa della sua salute.",
+          "Mary cares about her health.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non importa, vero?",
+          "Mary doesn't care, does she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "da",
+      "content": "dei",
       "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
+        "gods",
+        "deities",
+        "divine beings",
+        "spirits"
       ],
       "usageExamples": [
         [
-          "Scendi da quella scala.",
-          "Get down from that ladder.",
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/153.json
           "Imparai l'esperanto da sola.",
           "I learned Esperanto by myself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -152,20 +197,29 @@
         [
           "Dovresti lasciarmi da sola.",
           "You should leave me alone.",
+=======
+          "Mi servono dei francobolli.",
+          "I need stamps.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri mangiò dei datteri.",
+          "Ziri ate dates.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/118.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sola",
+      "content": "suoi",
       "translations": [
-        "alone",
-        "only",
-        "single",
-        "solitary"
+        "his",
+        "her",
+        "its"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/153.json
           "Imparai l'esperanto da sola.",
           "I learned Esperanto by myself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -173,11 +227,20 @@
         [
           "Dovresti lasciarmi da sola.",
           "You should leave me alone.",
+=======
+          "Mary vuole che i suoi genitori le comprino un pony.",
+          "Mary wants her parents to buy her a pony.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Probabilmente è da sola nella sua stanza.",
-          "She's probably alone in her room.",
+          "I suoi figli sono nel giardino.",
+          "Her sons are in the garden.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/118.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano i suoi figli.",
+          "Mary missed her kids.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

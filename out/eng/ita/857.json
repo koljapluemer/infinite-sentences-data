@@ -1,33 +1,24 @@
 {
-  "sentence": "Quante persone ha ucciso Tom?",
+  "sentence": "Qualcuno sta osservando Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How many people did Tom kill?"
+    "Someone is watching Tom."
   ],
   "parts": [
     {
-      "content": "Quante",
+      "content": "Qualcuno",
       "translations": [
-        "How many",
-        "How much",
-        "How many of them",
-        "How many pieces"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "persone",
-      "translations": [
-        "people",
-        "persons",
-        "individuals",
-        "human beings"
+        "Someone",
+        "Somebody",
+        "Anyone",
+        "A person"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/857.json
           "Più della metà delle persone condannate dai tribunali è innocente.",
           "More than half of the people convicted by the courts are innocent.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -40,13 +31,49 @@
         [
           "Non crederesti alla roba che le persone buttano via.",
           "You wouldn't believe the stuff people throw away.",
+=======
+          "Qualcuno ha rubato la mia borsa.",
+          "Somebody has stolen my bag.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno ha pugnalato l'uomo nella gamba.",
+          "Someone stabbed the man in the leg.",
+          "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sta",
+      "translations": [
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/778.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "osservando",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/857.json
         "has",
         "he has",
         "there is"
@@ -76,6 +103,12 @@
         "murdered",
         "slain",
         "assassinated"
+=======
+        "observing",
+        "watching",
+        "noticing",
+        "monitoring"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/778.json
       ],
       "usageExamples": []
     },
@@ -87,6 +120,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/857.json
           "Scusami, sto cercando Tom.",
           "Excuse me, I'm looking for Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -100,6 +134,21 @@
           "Io appoggiavo Tom.",
           "I used to support Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/778.json
         ]
       ]
     }

@@ -1,10 +1,11 @@
 {
-  "sentence": "Era una visione orrenda.",
+  "sentence": "Era facile risolvere quel problema.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It was a horrible vision."
+    "It was easy to solve that problem."
   ],
   "parts": [
     {
@@ -21,8 +22,18 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/351.json
           "Era eroico.",
           "He was heroic.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era occupato ieri?",
+          "Were you busy yesterday?",
+=======
+          "Era eccellente.",
+          "You were excellent.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/272.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -33,50 +44,104 @@
       ]
     },
     {
-      "content": "una",
+      "content": "facile",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "easy",
+        "simple",
+        "straightforward",
+        "effortless"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/351.json
           "Datele una mano, OK?",
           "Give her a hand, will you?",
+=======
+          "Leggere questo libro è facile.",
+          "Reading this book is easy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/272.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Posso avere una birra?",
-          "Can I have a beer?",
+          "Non è facile la risposta?",
+          "Isn't the answer easy?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/351.json
           "Sono una buona persona.",
           "I'm a good person.",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+=======
+          "La seconda lezione è facile.",
+          "Lesson Two is easy.",
+          "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "visione",
+      "content": "risolvere",
       "translations": [
-        "vision",
-        "sight",
-        "view",
-        "perspective"
+        "to solve",
+        "to resolve",
+        "to figure out",
+        "to work out"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          ". È molto brava a risolvere enigmi.",
+          "She's very good at solving puzzles.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "orrenda",
+      "content": "quel",
       "translations": [
-        "horrible",
-        "dreadful",
-        "awful",
-        "terrible"
+        "that",
+        "the one",
+        "which",
+        "those"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tu comprendi quel libro.",
+          "You understand that book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Marie non è piaciuto quel gioco.",
+          "Marie didn't like that game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/272.json
+        ]
+      ]
+    },
+    {
+      "content": "problema",
+      "translations": [
+        "problem",
+        "issue",
+        "challenge",
+        "difficulty"
+      ],
+      "usageExamples": [
+        [
+          "So che hai un problema.",
+          "I know you have a problem.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È il mio problema con lui.",
+          "That's my problem with him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio problema è che sono troppo occupata.",
+          "My problem is I'm too busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

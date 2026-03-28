@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho preso un taxi per andare alla stazione dei treni.",
+  "sentence": "Ho detto così con l'intenzione di compiacerlo.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Auride (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I took a taxi to the train station."
+    "I said so with a view to pleasing him."
   ],
   "parts": [
     {
@@ -20,11 +20,14 @@
         [
           "Ho iniziato dal fondo.",
           "I started at the bottom.",
+<<<<<<< HEAD:out/eng/ita/416.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/337.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,15 +38,16 @@
       ]
     },
     {
-      "content": "preso",
+      "content": "detto",
       "translations": [
-        "caught",
-        "arrested",
-        "taken",
-        "seized"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/416.json
           "Io ho preso un taxi perché stava piovendo.",
           "I took a taxi because it was raining.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -51,19 +55,35 @@
         [
           "Io non ho preso nulla per te.",
           "I didn't get anything for you.",
+=======
+          "Perché non avete detto questo a loro?",
+          "Why didn't you tell them this?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete detto al capo?",
+          "What did you say to the boss?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che voleva comprare qualcosa di più economico.",
+          "Mary said she wanted to buy something cheaper.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/337.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "così",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "so",
+        "like this",
+        "in this way",
+        "thus"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/416.json
           "Era un libro nuovo.",
           "It was a new book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -76,28 +96,54 @@
         [
           "Ho letto un fumetto.",
           "I read a comic book.",
+=======
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così impazienti.",
+          "You're so impatient.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così paranoici.",
+          "You're so paranoid.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/337.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "taxi",
+      "content": "con",
       "translations": [
-        "cab",
-        "taxicab",
-        "ride-hailing service"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
-          "Io ho preso un taxi perché stava piovendo.",
-          "I took a taxi because it was raining.",
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "per",
+      "content": "l'intenzione",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/416.json
         "for",
         "by",
         "through"
@@ -179,42 +225,48 @@
         "stop",
         "depot",
         "terminal"
+=======
+        "the intention",
+        "the purpose",
+        "the aim",
+        "the plan"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/337.json
       ],
       "usageExamples": []
     },
     {
-      "content": "dei",
+      "content": "di",
       "translations": [
-        "gods",
-        "deities",
-        "divine beings",
-        "spirits"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Mi servono dei francobolli.",
-          "I need stamps.",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ziri mangiò dei datteri.",
-          "Ziri ate dates.",
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non mandarmi dei messaggi.",
-          "Don't send me messages.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "treni",
+      "content": "compiacerlo",
       "translations": [
-        "trains",
-        "train cars",
-        "railway trains",
-        "locomotives"
+        "to please him",
+        "to satisfy him",
+        "to make him happy",
+        "to gratify him"
       ],
       "usageExamples": []
     }

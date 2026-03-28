@@ -1,11 +1,11 @@
 {
-  "sentence": "A Layla stava piacendo questo.",
+  "sentence": "A Layla piaceva giocare a Monopoly.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Layla was enjoying this."
+    "Layla liked to play Monopoly."
   ],
   "parts": [
     {
@@ -17,8 +17,8 @@
       ],
       "usageExamples": [
         [
-          "A Judy piace.",
-          "Judy likes him.",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -27,9 +27,17 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/98.json
+        ],
+        [
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/72.json
         ]
       ]
     },
@@ -52,34 +60,43 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/98.json
           "A Layla piaceva giocare a Monopoly.",
           "Layla liked to play Monopoly.",
+=======
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/72.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stava",
+      "content": "piaceva",
       "translations": [
-        "was standing",
-        "was",
-        "stood",
-        "was situated"
+        "liked",
+        "was pleasing"
       ],
       "usageExamples": [
         [
-          "Io ho preso un taxi perché stava piovendo.",
-          "I took a taxi because it was raining.",
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Con chi stava parlando Tom?",
-          "Who was Tom talking to?",
+          "A Mary non piaceva il suo impiego.",
+          "Mary didn't enjoy her job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/98.json
       "content": "piacendo",
       "translations": [
         "pleasing",
@@ -97,29 +114,77 @@
     },
     {
       "content": "questo",
+=======
+      "content": "giocare",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/72.json
       "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
+        "to play",
+        "playing",
+        "to engage in a game",
+        "to participate in a game"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/98.json
           "Dica questo in ungherese!",
           "Say this in Hungarian!",
+=======
+          "A Helena piace giocare a tennis.",
+          "Helena likes to play tennis.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/72.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Inscatola questo.",
-          "Box this up.",
+          "A Chach piace giocare a basket.",
+          "Chach likes to play basketball.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/98.json
           "Trasporti questo.",
           "Carry this.",
+=======
+          "A Chach piace giocare a pallacanestro.",
+          "Chach likes to play basketball.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/72.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Monopoly",
+      "translations": [
+        "Monopoly",
+        "Exclusive control",
+        "Market dominance",
+        "Sole ownership"
+      ],
+      "usageExamples": []
     }
   ]
 }

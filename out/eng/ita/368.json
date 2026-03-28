@@ -1,37 +1,29 @@
 {
-  "sentence": "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
+  "sentence": "Forse ho fatto un errore.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He threw his dirty, smelly socks on the floor."
+    "Perhaps I made a mistake."
   ],
   "parts": [
     {
-      "content": "Gettò",
+      "content": "forse",
       "translations": [
-        "He/she threw",
-        "He/she cast",
-        "He/she dropped",
-        "He/she tossed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "maybe",
+        "perhaps",
+        "possibly",
+        "might be"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Forse fareste meglio a chiamarle.",
+          "Maybe you'd better call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/368.json
           "A Inoue non piacciono i computer.",
           "Inoue doesn't like computers.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -39,19 +31,25 @@
         [
           "A Mary mancavano i suoi figli.",
           "Mary missed her kids.",
+=======
+          "Forse lo dovrebbe chiedere a lei.",
+          "Maybe you should ask her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/289.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suoi",
+      "content": "ho",
       "translations": [
-        "his",
-        "her",
-        "its"
+        "I have",
+        "I've got",
+        "I possess",
+        "I own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/368.json
           "A Mary mancavano i suoi figli.",
           "Mary missed her kids.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -59,6 +57,15 @@
         [
           "Questi sono i suoi figli?",
           "Are these your children?",
+=======
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io l'ho comprata.",
+          "I bought it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/289.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -69,14 +76,66 @@
       ]
     },
     {
-      "content": "calzini",
+      "content": "fatto",
       "translations": [
-        "socks",
-        "hosiery",
-        "footwear accessories",
-        "sockwear"
+        "fact",
+        "done",
+        "made",
+        "event"
+      ],
+      "usageExamples": [
+        [
+          "L'ha fatto lentamente.",
+          "She did it slowly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Tom sarebbe piaciuto quello che avete fatto.",
+          "Tom would've liked what you did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Di fatto l'uomo si arrabbiò.",
+          "In fact, the man got angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Ho letto un fumetto.",
+          "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "errore",
+      "translations": [
+        "error",
+        "mistake",
+        "fault",
+        "blunder"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/368.json
     },
     {
       "content": "sporchi",
@@ -171,6 +230,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/289.json
     }
   ]
 }

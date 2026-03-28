@@ -1,22 +1,22 @@
 {
-  "sentence": "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+  "sentence": "Mi sento unico rispetto agli altri.",
   "credits": [
     "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My mother advises me against sitting at my computer all day long."
+    "I feel unique compared to others."
   ],
   "parts": [
     {
-      "content": "Mia",
+      "content": "Mi",
       "translations": [
-        "Mine",
-        "My",
-        "Belonging to me",
-        "Of me"
+        "Me",
+        "I",
+        "Myself"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/679.json
           "Mia madre è impegnatissima ogni giorno.",
           "My mother is busy as a bee every day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,20 +24,35 @@
         [
           "Mia madre vuole che io studi in Svizzera.",
           "My mother wants me to study in Switzerland.",
+=======
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sto riposando ora.",
+          "I'm resting now.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/600.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "madre",
+      "content": "sento",
       "translations": [
-        "mother",
-        "mom",
-        "mum",
-        "mama"
+        "I feel",
+        "I sense",
+        "I perceive",
+        "I experience"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/679.json
           "Amo molto mia madre.",
           "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -77,29 +92,35 @@
           "Volevo che Tom mi dicesse come farlo.",
           "I wanted Tom to tell me how to do that.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+=======
+          "Non mi sento abbastanza forte per dirglielo.",
+          "I don’t feel strong enough to tell him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/600.json
         ]
       ]
     },
     {
-      "content": "sconsiglia",
+      "content": "unico",
       "translations": [
-        "discourages",
-        "advises against",
-        "recommends against",
-        "dissuades"
+        "unique",
+        "only",
+        "singular",
+        "one-of-a-kind"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "rispetto",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "respect",
+        "regard",
+        "consideration",
+        "esteem"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/679.json
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -226,23 +247,46 @@
           "Avete il nostro rispetto.",
           "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "giorno",
+      "content": "agli",
       "translations": [
-        "day",
-        "date",
-        "24-hour period"
+        "to the",
+        "at the",
+        "for the",
+        "in the"
       ],
       "usageExamples": [
         [
-          "Ridete ogni giorno?",
-          "Do you laugh every day?",
+          "Agli algerini piace il calcio.",
+          "Algerians like soccer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/600.json
+        ]
+      ]
+    },
+    {
+      "content": "altri",
+      "translations": [
+        "others",
+        "other people",
+        "the rest",
+        "additional ones"
+      ],
+      "usageExamples": [
+        [
+          "Sono stanco di ascoltare incessantemente i problemi degli altri.",
+          "I'm tired of listening incessantly to other people's problems.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/679.json
           "Il mondo cambia ogni giorno.",
           "The world changes every day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -250,6 +294,10 @@
         [
           "Mia madre è impegnatissima ogni giorno.",
           "My mother is busy as a bee every day.",
+=======
+          "Tom è diverso dagli altri ragazzi.",
+          "Tom is different from other boys.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/600.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

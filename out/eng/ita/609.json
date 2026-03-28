@@ -1,28 +1,29 @@
 {
-  "sentence": "Lo dovrebbe chiedere a loro.",
+  "sentence": "Li avete rapiti?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should ask them."
+    "Did you kidnap them?"
   ],
   "parts": [
     {
-      "content": "Lo",
+      "content": "Li",
       "translations": [
+        "The",
         "It",
         "Him",
-        "Them",
-        "That"
+        "Her"
       ],
       "usageExamples": [
         [
-          "Lo decorò.",
-          "She decorated it.",
+          "Li vuoi?",
+          "Do you want them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/609.json
           "Lo hanno aiutato.",
           "They helped him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,44 +31,63 @@
         [
           "Lo mostreremo a lei.",
           "We'll show her.",
+=======
+          "Li sta confondendo.",
+          "You're confusing them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li vada ad aiutare.",
+          "Go help them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/530.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dovrebbe",
+      "content": "avete",
       "translations": [
-        "should",
-        "ought to",
-        "must",
-        "is supposed to"
+        "you have",
+        "you've got",
+        "are you having"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/609.json
           "Io non so chi dovrebbe guidarmi.",
           "I don't know who should guide me.",
+=======
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/530.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché a Tom dovrebbe importare?",
-          "Why should Tom care?",
+          "Cosa avete consigliato?",
+          "What did you recommend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/609.json
           "Forse lo dovrebbe chiedere a lei.",
           "Maybe you should ask her.",
+=======
+          "Voi avete mai avuto un animale domestico?",
+          "Have you ever had a pet?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/530.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chiedere",
+      "content": "rapiti",
       "translations": [
-        "to ask",
-        "to request",
-        "to inquire",
-        "to demand"
+        "kidnapped",
+        "abducted",
+        "taken away",
+        "seized"
       ],
+<<<<<<< HEAD:out/eng/ita/609.json
       "usageExamples": [
         [
           "Avrebbe dovuto chiedere a lui prima.",
@@ -136,6 +156,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/530.json
     }
   ]
 }

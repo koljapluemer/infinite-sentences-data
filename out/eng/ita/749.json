@@ -1,11 +1,11 @@
 {
-  "sentence": "Non sappiamo nemmeno con chi si è sposato Tom.",
+  "sentence": "Non posso farla da sola.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We don't even know who Tom got married to."
+    "I can't do it by myself."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/749.json
           "Non l'ho riconosciuto.",
           "I didn't recognize it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -31,75 +32,102 @@
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Non vuole fermarla.",
+          "He doesn't want to stop her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/670.json
         ]
       ]
     },
     {
-      "content": "sappiamo",
+      "content": "posso",
       "translations": [
-        "we know",
-        "let's know",
-        "we are aware",
-        "we understand"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "nemmeno",
-      "translations": [
-        "not even",
-        "neither",
-        "not at all",
-        "not a single one"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "I can.",
+        "I am able to",
+        "I may",
+        "I am allowed to"
       ],
       "usageExamples": [
         [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
+          "Io non posso dirle come si pronuncia la parola.",
+          "I can't tell you how to pronounce the word.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Vi posso insegnare a lottare.",
+          "I can teach you how to fight.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "farla",
+      "translations": [
+        "to do it",
+        "to make it happen",
+        "to get it done",
+        "to carry it out"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "da",
+      "translations": [
+        "from",
+        "since",
+        "by",
+        "of"
+      ],
+      "usageExamples": [
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/749.json
           "Parlo frequentemente con lui.",
           "I frequently talk to him.",
+=======
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/670.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chi",
+      "content": "sola",
       "translations": [
-        "who",
-        "whom",
-        "which",
-        "that"
+        "alone",
+        "only",
+        "single",
+        "solitary"
       ],
       "usageExamples": [
         [
-          "Sai chi intendo.",
-          "You know who I mean.",
-          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
-        ],
-        [
-          "Con chi ci andrà?",
-          "Who are you going with?",
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/749.json
           "A chi non piace quello?",
           "Who doesn't like that?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -204,6 +232,15 @@
         [
           "Lasciate finire Tom.",
           "Let Tom finish.",
+=======
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non dispiaceva vivere da sola.",
+          "Mary didn't mind living by herself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/670.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

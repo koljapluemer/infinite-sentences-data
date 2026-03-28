@@ -1,11 +1,11 @@
 {
-  "sentence": "Il mio labbro è scoppiato.",
+  "sentence": "Il libro è arrivato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My lip split."
+    "The book came."
   ],
   "parts": [
     {
@@ -19,6 +19,14 @@
           "Il gatto mangia.",
           "The cat eats.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/449.json
+=======
+        ],
+        [
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/370.json
         ],
         [
           "Il tempo è finito.",
@@ -33,15 +41,16 @@
       ]
     },
     {
-      "content": "mio",
+      "content": "libro",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "book",
+        "volume",
+        "tome",
+        "publication"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/449.json
           "È mio nemico.",
           "He's my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,16 +64,23 @@
           "Ho avuto la fortuna di seguire il mio percorso senza rimpianti.",
           "I've been lucky to follow my own path without regrets.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu comprendi quel libro.",
+          "You understand that book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/370.json
         ]
       ]
-    },
-    {
-      "content": "labbro",
-      "translations": [
-        "lip",
-        "lips"
-      ],
-      "usageExamples": []
     },
     {
       "content": "è",
@@ -76,8 +92,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/449.json
           "Tom è un esperto.",
           "Tom is a pro.",
+=======
+          "Tom si è divertito.",
+          "Tom had some fun.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/370.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -86,19 +107,24 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/449.json
           "Lei è americano?",
           "Are you American?",
+=======
+          "La risposta è complicata.",
+          "The answer is complicated.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/370.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scoppiato",
+      "content": "arrivato",
       "translations": [
-        "exploded",
-        "burst",
-        "broken",
-        "shattered"
+        "arrived",
+        "come",
+        "reached",
+        "got here"
       ],
       "usageExamples": []
     }

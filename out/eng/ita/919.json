@@ -1,23 +1,24 @@
 {
-  "sentence": "Sembra che sia seria.",
+  "sentence": "Sei mai stato in Francia?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She looks like she's serious."
+    "Have you ever been to France?"
   ],
   "parts": [
     {
-      "content": "sembra",
+      "content": "Sei",
       "translations": [
-        "it seems",
-        "it appears",
-        "it looks like",
-        "seems to be"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/919.json
           "Tom sembra impegnato.",
           "Tom looks busy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -26,17 +27,28 @@
           "Tom sembra compiaciuto.",
           "Tom looks pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Sei un testimone.",
+          "You are a witness.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra rancoroso.",
-          "You seem bitter.",
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/840.json
+        ],
+        [
+          "Sei sospesa?",
+          "Are you suspended?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "mai",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/919.json
         "that",
         "which",
         "who",
@@ -67,6 +79,12 @@
         "hers",
         "she herself",
         "her own"
+=======
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/840.json
       ],
       "usageExamples": [
         [
@@ -75,6 +93,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/919.json
           "Penso che lei sia un idiota.",
           "I think you're an idiot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -82,25 +101,78 @@
         [
           "Mi fa piacere che tu sia d'accordo.",
           "I'm glad you agree.",
+=======
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/840.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "seria",
+      "content": "stato",
       "translations": [
-        "series",
-        "set",
-        "sequence",
-        "collection"
+        "state",
+        "status",
+        "condition",
+        "situation"
       ],
       "usageExamples": [
         [
-          "Sposarsi è una questione seria.",
-          "Getting married is a serious matter.",
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato scaricato.",
+          "He was dumped.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino c'è già stato.",
+          "You have already been to Berlin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Francia",
+      "translations": [
+        "France",
+        "French Republic",
+        "Land of the French"
+      ],
+      "usageExamples": []
     }
   ]
 }

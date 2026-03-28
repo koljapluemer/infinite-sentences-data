@@ -1,27 +1,28 @@
 {
-  "sentence": "Ziri non utilizza mai quella parola.",
+  "sentence": "Yanni non comprende l'Islam.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ziri never uses that word."
+    "Yanni doesn't understand Islam."
   ],
   "parts": [
     {
-      "content": "Ziri",
+      "content": "Yanni",
       "translations": [
-        "Ziri (a name)",
-        "Ziri (a term)",
-        "Ziri (a concept)"
+        "Yanni (a name)",
+        "Yanni (musician)",
+        "Yanni (Greek composer)"
       ],
       "usageExamples": [
         [
-          "Ziri mangiò dei datteri.",
-          "Ziri ate dates.",
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1140.json
           "Ziri ha alzato il volume della musica.",
           "Ziri increased the music volume.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,6 +30,10 @@
         [
           "Ziri non rapinò una banca.",
           "Ziri didn't rob a bank.",
+=======
+          "Questo non ha sorpreso Yanni.",
+          "This didn't surprise Yanni.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1061.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -39,7 +44,8 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
@@ -53,30 +59,39 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non stai dormendo?",
-          "Why aren't you sleeping?",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1140.json
+=======
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1061.json
         ]
       ]
     },
     {
-      "content": "utilizza",
+      "content": "comprende",
       "translations": [
-        "use",
-        "utilize",
-        "employ",
-        "make use of"
+        "understands",
+        "comprises",
+        "includes",
+        "consists of"
       ],
       "usageExamples": []
     },
     {
-      "content": "mai",
+      "content": "l'Islam",
       "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
+        "Islam",
+        "the Islamic faith",
+        "the religion of Islam",
+        "Islamic belief system"
       ],
+<<<<<<< HEAD:out/eng/ita/1140.json
       "usageExamples": [
         [
           "Avete mai provato?",
@@ -136,6 +151,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1061.json
     }
   ]
 }

@@ -1,22 +1,135 @@
 {
-  "sentence": "Ridete ogni giorno?",
+  "sentence": "Questo ristorante ha tre stelle Michelin.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you laugh every day?"
+    "This restaurant has three Michelin stars."
   ],
   "parts": [
     {
-      "content": "Ridete",
+      "content": "Questo",
       "translations": [
-        "You laugh",
-        "Laugh",
-        "You are laughing",
-        "Laughing"
+        "This",
+        "This one",
+        "This thing",
+        "This item"
+      ],
+      "usageExamples": [
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ristorante",
+      "translations": [
+        "restaurant",
+        "diner",
+        "eatery",
+        "bistro"
+      ],
+      "usageExamples": [
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "L'ha salvata.",
+          "He rescued her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tre",
+      "translations": [
+        "three",
+        "3",
+        "thrice"
+      ],
+      "usageExamples": [
+        [
+          "Abbiamo scritto tre libri.",
+          "We wrote three books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mamma ha diviso la torta in tre.",
+          "Mum divided the cake into three.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom fa un bagno almeno tre volte a settimana.",
+          "Tom takes a bath at least three times a week.",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stelle",
+      "translations": [
+        "stars",
+        "constellations",
+        "celestial bodies",
+        "heavenly bodies"
+      ],
+      "usageExamples": [
+        [
+          "Il padre di Tom gli ha insegnato a conoscere le stelle.",
+          "Tom's father taught him about the stars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Michelin",
+      "translations": [
+        "Michelin tires",
+        "Michelin brand",
+        "Michelin company"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/888.json
     },
     {
       "content": "ogni",
@@ -68,6 +181,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/809.json
     }
   ]
 }

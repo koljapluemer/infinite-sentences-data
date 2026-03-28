@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non piace per niente il prezzemolo.",
+  "sentence": "A Mary non piace il suo nuovo lavoro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary doesn't like parsley at all."
+    "Mary doesn't like her new job."
   ],
   "parts": [
     {
@@ -17,18 +17,31 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/165.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/129.json
           "A Fadil piaceva sciare.",
-          "Fadil liked to ski.",
+          "Fadil liked skiing.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/165.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/129.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -52,8 +65,13 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/165.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "Mary ha preparato la colazione.",
+          "Mary made breakfast.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/129.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -64,17 +82,28 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/165.json
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/129.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Però non funzionerà!",
-          "But that won't work!",
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -98,14 +127,10 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Judy piace lui.",
-          "Judy likes him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/165.json
         ]
       ]
     },
@@ -156,6 +181,12 @@
         [
           "Assicuratevi che non faccia niente di stupido.",
           "Make sure he doesn't do anything stupid.",
+=======
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/129.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -170,8 +201,101 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/165.json
           "Mi piace il reggae.",
           "I like reggae.",
+=======
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suo",
+      "translations": [
+        "his",
+        "her",
+        "its",
+        "their"
+      ],
+      "usageExamples": [
+        [
+          "A Mary non piace il suo impiego.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voleva parlare con il suo avvocato.",
+          "She wanted to talk to her lawyer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo lavoro.",
+          "Mary didn't enjoy her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nuovo",
+      "translations": [
+        "new",
+        "novel",
+        "fresh",
+        "recent"
+      ],
+      "usageExamples": [
+        [
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A te piace il tuo appartamento nuovo?",
+          "Do you like your new apartment?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lavoro",
+      "translations": [
+        "work",
+        "job",
+        "labor",
+        "employment"
+      ],
+      "usageExamples": [
+        [
+          "Perché questo è il mio lavoro?",
+          "Why is this my job?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo lavoro.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Giusto, cominciamo il nostro lavoro.",
+          "Right, let's start our work.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/129.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [

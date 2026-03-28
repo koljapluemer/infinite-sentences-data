@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary manca Boston.",
+  "sentence": "A Mary importava solamente di se stessa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary misses Boston."
+    "Mary only cared about herself."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/134.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,6 +31,21 @@
           "A Fadil piaceva sciare.",
           "Fadil liked skiing.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/102.json
         ]
       ]
     },
@@ -42,8 +58,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/134.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/102.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -52,47 +73,59 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/134.json
           "Mary li ha ingannati tutti.",
           "Mary tricked them all.",
+=======
+          "A Mary non piace il suo nome.",
+          "Mary doesn't like her name.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/102.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "manca",
+      "content": "importava",
       "translations": [
-        "missing",
-        "lacking",
-        "absent",
-        "deficient"
+        "it mattered",
+        "it was important",
+        "it was significant",
+        "it was relevant"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/134.json
           "Vi manca molto, vero?",
           "You miss her a lot, don't you?",
+=======
+          "Gli importava.",
+          "He cared.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/102.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary manca molto la sua famiglia.",
-          "Mary misses her family a lot.",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+          "A Mary importava soltanto di se stessa.",
+          "Mary only cared about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary manca suo marito.",
-          "Mary misses her husband.",
+          "A Mary importava solo di se stessa.",
+          "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Boston",
+      "content": "solamente",
       "translations": [
-        "City of Boston",
-        "Boston, Massachusetts",
-        "The Hub"
+        "only",
+        "just",
+        "merely",
+        "simply"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/134.json
           "Ha acconsentito ad andare a Boston con lei.",
           "He agreed to go to Boston with her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -100,11 +133,98 @@
         [
           "A Mary piace Boston, vero?",
           "Mary likes Boston, doesn't she?",
+=======
+          "Mi importa solamente di lui.",
+          "I only care about him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io e Tom andremo a Boston.",
-          "Tom and I'll go to Boston.",
+          "A Mary importa solamente di se stessa.",
+          "Mary only cares about herself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/102.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei parla solamente in finlandese in classe.",
+          "She only speaks Finnish in class.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "se",
+      "translations": [
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
+      ],
+      "usageExamples": [
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiamatemi se avete bisogno di assistenza.",
+          "Call me if you need assistance.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vogliamo che se ne vada.",
+          "We don't want him to leave.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stessa",
+      "translations": [
+        "same",
+        "itself",
+        "the same",
+        "identical"
+      ],
+      "usageExamples": [
+        [
+          "A MAry non piace parlare di se stessa.",
+          "Mary doesn't like talking about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa soltanto di se stessa.",
+          "Mary only cares about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dice sempre la stessa cosa.",
+          "You always say the same thing.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,11 +1,13 @@
 {
-  "sentence": "Non è sposato con Tom?",
+  "sentence": "Non voglio guardarlo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Aren't you married to Tom?"
+    "I don't want to look at him.",
+    "I don't want to watch that."
   ],
   "parts": [
     {
@@ -18,6 +20,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/778.json
           "Non vinco molto spesso.",
           "I don't win very often.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,25 +28,38 @@
         [
           "Non sembrate imbarazzate.",
           "You don't look embarrassed.",
+=======
+          "Non le vogliamo là.",
+          "We don't want them there.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/699.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Non volevo intromettermi.",
           "I didn't want to intrude.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/778.json
+=======
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/699.json
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "voglio",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "I want",
+        "I would like",
+        "I wish",
+        "I desire"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/778.json
           "Il cambiamento è spaventoso.",
           "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,18 +72,28 @@
         [
           "La risposta è complicata.",
           "The answer is complicated.",
+=======
+          "Io non voglio che cambi.",
+          "I don't want it to change.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io voglio andare in Inghilterra.",
+          "I want to go to England.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/699.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sposato",
+      "content": "guardarlo",
       "translations": [
-        "married",
-        "spouse",
-        "wedded",
-        "in a marital relationship"
+        "to keep it",
+        "to store it",
+        "to save it",
+        "to hold it"
       ],
+<<<<<<< HEAD:out/eng/ita/778.json
       "usageExamples": [
         [
           "Era sposato con lei.",
@@ -135,6 +161,9 @@
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/699.json
     }
   ]
 }

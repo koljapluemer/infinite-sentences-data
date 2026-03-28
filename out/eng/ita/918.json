@@ -1,16 +1,17 @@
 {
-  "sentence": "Sei un'ispirazione per tutti noi.",
+  "sentence": "Se non ci sbrighiamo, perderemo il nostro treno.",
   "credits": [
-    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're an inspiration to us all."
+    "If we don't hurry, we'll miss our train."
   ],
   "parts": [
     {
-      "content": "Sei",
+      "content": "Se",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/918.json
         "You are",
         "You exist",
         "You live",
@@ -55,18 +56,27 @@
         "motivation",
         "stimulus",
         "encouragement"
+=======
+        "If",
+        "Whether",
+        "As",
+        "Self"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/839.json
       ],
       "usageExamples": []
     },
     {
-      "content": "per",
+      "content": "non",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/918.json
           "Stavo per aiutare Tom.",
           "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -79,13 +89,28 @@
         [
           "Mandatela per posta aerea.",
           "Send it by airmail.",
+=======
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/839.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tutti",
+      "content": "ci",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/918.json
         "everyone",
         "all",
         "everybody",
@@ -113,11 +138,16 @@
       "content": "noi",
       "translations": [
         "we",
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/839.json
         "us",
-        "ourselves"
+        "to us",
+        "for us",
+        "at us"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/918.json
           "Siate pazienti con noi.",
           "Be patient with us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -131,6 +161,118 @@
           "Venite a pranzare con noi.",
           "Come to lunch with us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Loro ci aiutano.",
+          "They help us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ci catturerà.",
+          "She will catch us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sbrighiamo",
+      "translations": [
+        "let's hurry up",
+        "let's get moving",
+        "let's speed things up",
+        "let's be quick"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "perderemo",
+      "translations": [
+        "we will lose",
+        "we'll lose",
+        "we are going to lose"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nostro",
+      "translations": [
+        "our",
+        "ours",
+        "of ours",
+        "belonging to us"
+      ],
+      "usageExamples": [
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutto il nostro cibo è andato a male.",
+          "All our food was spoiled.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Giusto, cominciamo il nostro lavoro.",
+          "Right, let's start our work.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "treno",
+      "translations": [
+        "train",
+        "railway",
+        "locomotive",
+        "train service"
+      ],
+      "usageExamples": [
+        [
+          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
+          "When riding a bus or a train, you need to pay the fare.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom corse per prendere l'ultimo treno.",
+          "Tom ran to catch the last train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo arrivati ieri in treno.",
+          "We arrived yesterday afternoon by train.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/839.json
         ]
       ]
     }

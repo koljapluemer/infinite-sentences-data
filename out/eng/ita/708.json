@@ -1,11 +1,11 @@
 {
-  "sentence": "Non dormite mai?",
+  "sentence": "Non bevete il caffè?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by araneo (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Don't you ever sleep?"
+    "Do you not drink coffee?"
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/708.json
           "Non volevo intromettermi.",
           "I didn't want to intrude.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,42 +31,92 @@
         [
           "Non sia mai gelosa.",
           "Never be jealous.",
+=======
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/629.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dormite",
+      "content": "bevete",
       "translations": [
-        "sleep",
-        "rest",
-        "take a nap",
-        "slumber"
+        "drink",
+        "you drink",
+        "drink up",
+        "have a drink"
       ],
       "usageExamples": []
     },
     {
-      "content": "mai",
+      "content": "il",
       "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/708.json
           "Non sia mai gelosa.",
           "Never be jealous.",
+=======
+          "Non conosco il sistema.",
+          "I don't know the system.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/629.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non cambia mai.",
-          "Tom never changes.",
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/708.json
           "Avete mai provato?",
           "Did you ever try?",
+=======
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "caffè",
+      "translations": [
+        "coffee",
+        "café",
+        "espresso",
+        "java"
+      ],
+      "usageExamples": [
+        [
+          "Bevo solo caffè decaffeinato.",
+          "I only drink decaffeinated coffee.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il latte nel suo caffè.",
+          "Mary doesn't like milk in her coffee.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho bevuto del caffè questa mattina.",
+          "I drank coffee this morning.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/629.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

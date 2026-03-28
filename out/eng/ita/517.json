@@ -1,11 +1,11 @@
 {
-  "sentence": "Io sono una patata.",
+  "sentence": "Io sono sicura che Tom sarà di ritorno.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Eccles17 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I am a potato."
+    "I'm sure Tom will be back."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/517.json
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,6 +31,21 @@
           "Io l'ho comprata.",
           "I bought it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Io ero lì.",
+          "I was there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/438.json
         ]
       ]
     },
@@ -43,6 +59,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/517.json
           "Tutte sono felici.",
           "All are happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,20 +72,35 @@
         [
           "È quello che sono.",
           "It's what I am.",
+=======
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/438.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "sicura",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "safe",
+        "secure",
+        "sure",
+        "reliable"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/517.json
           "È stato una delusione.",
           "It was a disappointment.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,17 +113,113 @@
         [
           "Posso avere una birra?",
           "Can I have a beer?",
+=======
+          "Sono sicura che Tom amerà il tuo regalo.",
+          "I'm sure Tom will love your present.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/438.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "patata",
+      "content": "che",
       "translations": [
-        "potato",
-        "spud",
-        "tater",
-        "murph"
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sarà",
+      "translations": [
+        "will be",
+        "shall be",
+        "is going to be",
+        "is to be"
+      ],
+      "usageExamples": [
+        [
+          "Non ci sarà così tanta gente lì.",
+          "There won't be so many people there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ritorno",
+      "translations": [
+        "return",
+        "comeback",
+        "reappearance",
+        "reversion"
       ],
       "usageExamples": []
     }

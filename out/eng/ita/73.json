@@ -1,11 +1,11 @@
 {
-  "sentence": "A Jane piaceva far credere che fosse un insegnante.",
+  "sentence": "A Inoue non piacciono i computer.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Jane liked to make believe she was a teacher."
+    "Inoue doesn't like computers."
   ],
   "parts": [
     {
@@ -23,37 +23,64 @@
         ],
         [
           "A Fadil piaceva sciare.",
-          "Fadil liked to ski.",
+          "Fadil liked skiing.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/73.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Jane",
-      "translations": [
-        "Jane Doe",
-        "Ms. Jane",
-        "Lady Jane"
-      ],
-      "usageExamples": [
-        [
-          "Riuscite a distinguere Jane dalla sua sorella gemella?",
-          "Can you tell Jane from her twin sister?",
+=======
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Jane piaceva far credere che lei fosse un insegnante.",
-          "Jane liked to make believe she was a teacher.",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/49.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+      "content": "Inoue",
+      "translations": [
+        "Inoue",
+        "Inoue (surname)",
+        "Inoue (family name)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+<<<<<<< HEAD:out/eng/ita/73.json
       "content": "piaceva",
       "translations": [
         "liked",
@@ -80,14 +107,17 @@
     },
     {
       "content": "far",
+=======
+      "content": "piacciono",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/49.json
       "translations": [
-        "to do",
-        "to make",
-        "to cause",
-        "to perform"
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/73.json
           "A Jane piaceva far credere che lei fosse un insegnante.",
           "Jane liked to make believe she was a teacher.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -209,6 +239,71 @@
         [
           "A Jane piaceva far credere che lei fosse un insegnante.",
           "Jane liked to make believe she was a teacher.",
+=======
+          "A Henrietta non piacciono i gatti.",
+          "Henrietta doesn't like cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piacciono le mele, vero?",
+          "Mary doesn't like apples, does she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Cookie non piacciono i baci.",
+          "Cookie doesn't like kisses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi studiamo tutti i giorni inglese.",
+          "We study English every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, ma non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "computer",
+      "translations": [
+        "PC",
+        "computing device",
+        "laptop"
+      ],
+      "usageExamples": [
+        [
+          "I personal computer sono molto utili.",
+          "Personal computers are very useful.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+          "My mother advises me against sitting at my computer all day long.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha gridato contro il suo computer.",
+          "He yelled at his computer.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/49.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

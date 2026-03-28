@@ -1,10 +1,10 @@
 {
-  "sentence": "Non so se i padrini di mio figlio siano ancora vivi.",
+  "sentence": "Non si trova in una bella situazione.",
   "credits": [
-    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't know if my son's godparents are still alive."
+    "He isn't in a good place."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/761.json
           "Non dormite mai?",
           "Don't you ever sleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,24 +30,45 @@
         [
           "Non l'ho riconosciuto.",
           "I didn't recognize it.",
+=======
+          "Non volevo intromettermi.",
+          "I didn't want to intrude.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non voglio guardarlo.",
+          "I don't want to watch that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/682.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "so",
+      "content": "si",
       "translations": [
-        "thus",
-        "therefore",
-        "in that way"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
       ],
       "usageExamples": [
         [
-          "Io so com'era Tom.",
-          "I know how Tom used to be.",
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/761.json
           "Io so cosa gli è successo.",
           "I know what happened to him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,13 +76,18 @@
         [
           "Io non so chi dovrebbe guidarmi.",
           "I don't know who should guide me.",
+=======
+          "Tom si è divertito.",
+          "Tom had some fun.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/682.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "se",
+      "content": "trova",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/761.json
         "himself",
         "herself",
         "itself",
@@ -117,26 +144,42 @@
         "sponsors",
         "mentors",
         "guardians"
+=======
+        "find",
+        "locate",
+        "discover",
+        "search for"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/682.json
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "in",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "inside",
+        "within",
+        "into"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/761.json
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+=======
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/682.json
         ],
         [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -147,15 +190,16 @@
       ]
     },
     {
-      "content": "mio",
+      "content": "una",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/761.json
           "È mio nemico.",
           "He's my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -163,12 +207,17 @@
         [
           "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
           "Only my best friend would understand my love for minions.",
+=======
+          "Noi terremo una festa.",
+          "We'll have a party.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/682.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Posso riavere il mio coltello?",
-          "Can I have my knife back?",
+          "È una giornata nuvolosa.",
+          "It's a cloudy day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/761.json
         ]
       ]
     },
@@ -189,35 +238,43 @@
         [
           "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
           "A son would represent continuity in a rapidly changing world.",
+=======
+        ],
+        [
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/682.json
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "siano",
+      "content": "bella",
       "translations": [
-        "they are",
-        "let them be",
-        "may they be"
+        "beautiful",
+        "pretty",
+        "lovely",
+        "gorgeous"
       ],
       "usageExamples": [
         [
-          "Io spero che Tom e Mary siano qui.",
-          "I hope Tom and Mary are here.",
+          "Lei è più bella di quanto immaginassi.",
+          "You're more beautiful than I imagined.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ancora",
+      "content": "situazione",
       "translations": [
-        "anchor",
-        "still",
-        "yet",
-        "also"
+        "situation",
+        "condition",
+        "state",
+        "circumstance"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/761.json
           "Non sono ancora stato a Boston.",
           "I haven't been to Boston yet.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -230,19 +287,18 @@
         [
           "Perché nessuno è ancora qui?",
           "Why is no one here yet?",
+=======
+          "Lui non riesce ad adattarsi alla sua situazione.",
+          "He can't accommodate himself to his circumstances.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/682.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "vivi",
-      "translations": [
-        "live",
-        "to live",
-        "alive",
-        "living"
-      ],
-      "usageExamples": []
     }
   ]
 }

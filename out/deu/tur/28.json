@@ -21,13 +21,13 @@
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Bir zamanlar kafam çok karışıktı.",
-          "Ich war einmal so verwirrt.",
+          "Bir dil yeterince iyi öğrenilemez.",
+          "Man kann keine Sprache genug beherrschen.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Bir dil yeterince iyi öğrenilemez.",
-          "Man kann keine Sprache genug beherrschen.",
+          "Bir zamanlar kafam çok karışıktı.",
+          "Ich war einmal so verwirrt.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
@@ -56,6 +56,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/deu/tur/28.json
           "Belki sizin için hâlâ umut vardır.",
           "Vielleicht gibt es ja noch Hoffnung für Sie.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
@@ -69,6 +70,21 @@
           "Sana gitmen için izin veriyorum.",
           "Ich erlaube dir zu gehen.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+=======
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ],
+        [
+          "Belki sizin için hâlâ umut vardır.",
+          "Vielleicht gibt es ja noch Hoffnung für Sie.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:deu/tur/27.json
         ]
       ]
     },

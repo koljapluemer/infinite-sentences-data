@@ -1,16 +1,17 @@
 {
-  "sentence": "Si unisca al nostro gruppo di lettura.",
+  "sentence": "Shloyme vuole essere uno scrittore.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Join our book club."
+    "Shloyme wants to be a writer."
   ],
   "parts": [
     {
-      "content": "Si",
+      "content": "Shloyme",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/928.json
         "If",
         "Whether",
         "In case",
@@ -41,19 +42,25 @@
         "merge",
         "join together",
         "combine"
+=======
+        "Shlomo",
+        "Solomon",
+        "Peaceful one"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/849.json
       ],
       "usageExamples": []
     },
     {
-      "content": "al",
+      "content": "vuole",
       "translations": [
-        "to the",
-        "at the",
-        "in the",
-        "for the"
+        "wants",
+        "desires",
+        "wishes",
+        "intends"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/928.json
           "Andammo al supermercato asiatico.",
           "We went to the Asian supermarket.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -61,60 +68,88 @@
         [
           "Sami lavorava al ristorante.",
           "Sami used to work at the restaurant.",
+=======
+          "Non vuole fermarla.",
+          "He doesn't want to stop her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/849.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/928.json
+=======
+        ],
+        [
+          "Tom vuole che qualcuno lo aiuti.",
+          "Tom wants somebody to help him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/849.json
         ]
       ]
     },
     {
-      "content": "nostro",
+      "content": "essere",
       "translations": [
-        "our",
-        "ours",
-        "of ours",
-        "belonging to us"
+        "to be",
+        "to exist",
+        "to occur",
+        "to happen"
       ],
       "usageExamples": [
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "Deve essere difficile.",
+          "That must be hard.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/928.json
           "Tutto il nostro cibo è andato a male.",
           "All our food was spoiled.",
+=======
+          "La pâte brisée, per essere buona, deve essere friabile e leggera.",
+          "To be good, pâte brisée should be light and flaky.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/849.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "250 copie sono disponibili dal nostro negozio ufficiale.",
-          "250 copies are available from our official shop.",
+          "Smettetela di essere dei codardi.",
+          "Stop being cowards.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gruppo",
+      "content": "uno",
       "translations": [
-        "group",
-        "team",
-        "set",
-        "batch"
+        "one",
+        "a single",
+        "one unit",
+        "one item"
       ],
       "usageExamples": [
         [
-          "Un gruppo di gangster ha rubato del denaro.",
-          "A group of gangsters stole money.",
+          "Ha mai visto uno di questi?",
+          "Have you ever seen one of these?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ne ho portato fuori uno.",
+          "I brought one out.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La figlia di uno zio è una cugina.",
+          "The daughter of an uncle is a cousin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "scrittore",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/928.json
         "of",
         "from",
         "about",
@@ -145,6 +180,12 @@
         "lecture",
         "study",
         "interpretation"
+=======
+        "writer",
+        "author",
+        "scribe",
+        "penman"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/849.json
       ],
       "usageExamples": []
     }

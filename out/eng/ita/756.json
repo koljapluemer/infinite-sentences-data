@@ -1,11 +1,11 @@
 {
-  "sentence": "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+  "sentence": "Non scordi di chiamarli.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He doesn't want to take responsibility for what he did."
+    "Don't forget to call them."
   ],
   "parts": [
     {
@@ -23,6 +23,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/756.json
           "Non sapeva cosa fare.",
           "She didn't know what to do.",
           "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
@@ -30,13 +31,23 @@
         [
           "Non dormite mai?",
           "Don't you ever sleep?",
+=======
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non siamo sposati.",
+          "We're not married.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/677.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "si",
+      "content": "scordi",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/756.json
         "if",
         "whether",
         "in case",
@@ -145,18 +156,25 @@
         "accountability",
         "liability",
         "duty"
+=======
+        "forget",
+        "to forget",
+        "forgetting"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/677.json
       ],
       "usageExamples": []
     },
     {
-      "content": "per",
+      "content": "di",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/756.json
           "Hey, grazie per l'aiuto.",
           "Hey, thanks for the help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -170,17 +188,33 @@
           "Lo incontro per colazione.",
           "I'm meeting him for breakfast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/677.json
         ]
       ]
     },
     {
-      "content": "ciò",
+      "content": "chiamarli",
       "translations": [
-        "this",
-        "that",
-        "it",
-        "the thing"
+        "to call them",
+        "calling them",
+        "to name them",
+        "to summon them"
       ],
+<<<<<<< HEAD:out/eng/ita/756.json
       "usageExamples": [
         [
           "Ciò che si fa è più importante di ciò che si dice.",
@@ -275,6 +309,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/677.json
     }
   ]
 }

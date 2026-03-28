@@ -1,10 +1,11 @@
 {
-  "sentence": "Non mi sento abbastanza forte per dirglielo.",
+  "sentence": "Non lo farei mai per lui.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don’t feel strong enough to tell him."
+    "I'd never do that for him."
   ],
   "parts": [
     {
@@ -17,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/737.json
           "Non sapeva cosa fare.",
           "She didn't know what to do.",
           "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
@@ -108,6 +110,87 @@
         [
           "Vladimir è forte come una mucca.",
           "Vladimir is strong as a cow.",
+=======
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non hai coscienza!",
+          "You have no conscience!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lo",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Beh, sicuramente lo richiederò.",
+          "Well, I'll surely ask again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "farei",
+      "translations": [
+        "I will do",
+        "I will make",
+        "I will perform"
+      ],
+      "usageExamples": [
+        [
+          "Non farei niente per Tom se fossi in voi.",
+          "I wouldn't do anything for Tom if I were you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mai",
+      "translations": [
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/658.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -121,13 +204,18 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/737.json
           "Vuole andare per prima?",
           "Do you want to go first?",
+=======
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/658.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hey, grazie per l'aiuto.",
-          "Hey, thanks for the help.",
+          "Vuole andare per prima?",
+          "Do you want to go first?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -138,13 +226,29 @@
       ]
     },
     {
-      "content": "dirglielo",
+      "content": "lui",
       "translations": [
-        "tell him",
-        "say it to him",
-        "give him the message"
+        "he",
+        "him",
+        "his"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

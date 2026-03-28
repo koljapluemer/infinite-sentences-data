@@ -1,42 +1,32 @@
 {
-  "sentence": "Forse lo dovrebbe chiedere a lei.",
+  "sentence": "Faccia attenzione alle api.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Maybe you should ask her."
+    "Look out for bees."
   ],
   "parts": [
     {
-      "content": "forse",
+      "content": "Faccia",
       "translations": [
-        "maybe",
-        "perhaps",
-        "possibly",
-        "might be"
+        "face",
+        "surface",
+        "appearance",
+        "front"
       ],
-      "usageExamples": [
-        [
-          "Forse fareste meglio a chiamarle.",
-          "Maybe you'd better call them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Forse ho fatto un errore.",
-          "Perhaps I made a mistake.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "lo",
+      "content": "attenzione",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "attention",
+        "care",
+        "notice",
+        "alertness"
       ],
+<<<<<<< HEAD:out/eng/ita/363.json
       "usageExamples": [
         [
           "Tom non lo vorrebbe.",
@@ -54,15 +44,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/284.json
     },
     {
-      "content": "dovrebbe",
+      "content": "alle",
       "translations": [
-        "should",
-        "ought to",
-        "must",
-        "is supposed to"
+        "to the",
+        "at the",
+        "in the",
+        "for the"
       ],
+<<<<<<< HEAD:out/eng/ita/363.json
       "usageExamples": [
         [
           "Perché a Tom dovrebbe importare?",
@@ -80,15 +74,18 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/284.json
     },
     {
-      "content": "chiedere",
+      "content": "api",
       "translations": [
-        "to ask",
-        "to request",
-        "to inquire",
-        "to demand"
+        "bee",
+        "honeybee",
+        "bee species"
       ],
+<<<<<<< HEAD:out/eng/ita/363.json
       "usageExamples": [
         [
           "Posso chiedere il vostro nome?",
@@ -155,6 +152,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/284.json
     }
   ]
 }

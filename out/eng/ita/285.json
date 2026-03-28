@@ -1,32 +1,24 @@
 {
-  "sentence": "Chiamate un'ambulanza!",
+  "sentence": "Che musica ascoltate?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by jared1981 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by DiePain (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Call an ambulance!"
+    "What music do you listen to?"
   ],
   "parts": [
     {
-      "content": "Chiamate",
+      "content": "Che",
       "translations": [
-        "Calls",
-        "Phone calls",
-        "Incoming calls",
-        "Outgoing calls"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
+        "What",
+        "Which",
+        "That",
+        "Who"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/285.json
           "Questo è un occhio.",
           "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -39,17 +31,57 @@
         [
           "Lui sembra un delinquente.",
           "He looks like a gangster.",
+=======
+          "Che altro vorresti?",
+          "What more would you want?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che fallito!",
+          "What a loser!",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che altro stai considerando?",
+          "What else are you considering?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/206.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ambulanza",
+      "content": "musica",
       "translations": [
-        "ambulance",
-        "emergency vehicle",
-        "medic transport",
-        "rescue vehicle"
+        "music",
+        "musical piece",
+        "tune",
+        "song"
+      ],
+      "usageExamples": [
+        [
+          "A Robert piace la musica classica.",
+          "Robert likes classical music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio hobby è la musica.",
+          "My hobby is music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A José piace la musica latina.",
+          "José likes latin music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ascoltate",
+      "translations": [
+        "listen",
+        "hear",
+        "pay attention",
+        "take heed"
       ],
       "usageExamples": []
     }

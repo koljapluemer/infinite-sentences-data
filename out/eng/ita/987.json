@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom cercava di non essere irritato.",
+  "sentence": "Tom acconsentì con riluttanza.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom tried not to be irritated."
+    "Tom reluctantly agreed."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/987.json
           "Tom è un esperto.",
           "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,30 +29,45 @@
         [
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
+=======
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/908.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cercava",
+      "content": "acconsentì",
       "translations": [
-        "was looking for",
-        "searched for",
-        "was seeking",
-        "was trying to find"
+        "he/she consented",
+        "he/she agreed",
+        "he/she assented",
+        "he/she approved"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "con",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/987.json
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
@@ -64,13 +80,28 @@
         [
           "Cos'hai contro di lui?",
           "What do you have against him?",
+=======
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/908.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "riluttanza",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/987.json
         "not",
         "no",
         "none",
@@ -127,6 +158,12 @@
         "annoyed",
         "angry",
         "upset"
+=======
+        "reluctance",
+        "hesitation",
+        "unwillingness",
+        "disinclination"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/908.json
       ],
       "usageExamples": []
     }

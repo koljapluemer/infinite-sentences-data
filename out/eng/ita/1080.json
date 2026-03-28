@@ -1,23 +1,22 @@
 {
-  "sentence": "Tu lasceresti tua moglie per me?",
+  "sentence": "Tom è una brava persona.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Would you leave your wife for me?"
+    "Tom is a good person."
   ],
   "parts": [
     {
-      "content": "Tu",
+      "content": "Tom",
       "translations": [
-        "You",
-        "Yourself",
-        "Thou",
-        "Ye"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1080.json
           "Tu comprendi quel libro.",
           "You understand that book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,70 +24,74 @@
         [
           "Tu sei sposata?",
           "Are you married?",
+=======
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1001.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1080.json
+=======
+        ],
+        [
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1001.json
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ],
+        [
+          "La risposta è complicata.",
+          "The answer is complicated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lasceresti",
+      "content": "una",
       "translations": [
-        "would you leave",
-        "would you let go",
-        "would you abandon",
-        "would you allow"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tua",
-      "translations": [
-        "your",
-        "yours",
-        "of you",
-        "belonging to you"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
-          "Apprezzo la tua onestà.",
-          "I appreciate your honesty.",
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
-          "\"Where's your girlfriend from?\" \"She's Russian.\"",
+          "Vorreste una ricevuta?",
+          "Would you like a receipt?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La tua religione non mi interessa.",
-          "Your religion does not interest me.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "moglie",
-      "translations": [
-        "wife",
-        "spouse",
-        "partner"
-      ],
-      "usageExamples": [
-        [
-          "Sami ha perso sua moglie.",
-          "Sami lost his wife.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tua moglie ti sta tradendo.",
-          "Your wife is cheating on you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
+<<<<<<< HEAD:out/eng/ita/1080.json
           "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
           "Tom received an urgent message to call his wife.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -116,31 +119,62 @@
         [
           "Sei speciale per me.",
           "You're special to me.",
+=======
+          "Vorrei una camera.",
+          "I would like a room.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1001.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "me",
+      "content": "brava",
       "translations": [
-        "myself",
-        "to me",
-        "for me"
+        "brave",
+        "good",
+        "well done",
+        "excellent"
       ],
       "usageExamples": [
         [
-          "Sei speciale per me.",
-          "You're special to me.",
+          "Tom disse che era brava.",
+          "Tom said that you were good.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non me l'ha restituita.",
-          "Tom didn't give it back to me.",
+          "Mary è un'allenatrice molto brava, vero?",
+          "Mary is a very good coach, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1080.json
           "So che sei ancora arrabbiata con me.",
           "I know you're still mad at me.",
+=======
+          ". È molto brava a risolvere enigmi.",
+          "She's very good at solving puzzles.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "persona",
+      "translations": [
+        "person",
+        "individual",
+        "character",
+        "figure"
+      ],
+      "usageExamples": [
+        [
+          "Sono una buona persona.",
+          "I'm a good person.",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è una persona pigra.",
+          "Tom is a lazy person.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1001.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

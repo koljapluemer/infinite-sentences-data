@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary ha detto che voleva comprare qualcosa di più economico.",
+  "sentence": "Mary dice di essere troppo stanca oggi per aiutare.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary said she wanted to buy something cheaper."
+    "Mary says she's too tired today to help."
   ],
   "parts": [
     {
@@ -17,31 +17,38 @@
       ],
       "usageExamples": [
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/641.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo divano nuovo.",
+          "Mary doesn't like her new sofa.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/562.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "dice",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "to say",
+        "to tell",
+        "to speak",
+        "to declare"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/641.json
           "Quanti figli ha Tom?",
           "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -179,6 +186,20 @@
         [
           "Layla dimenticò qualcosa.",
           "Layla forgot something.",
+=======
+          "Mary dice che ha già deciso di farlo.",
+          "Mary says she's already decided to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom dice di non aver nuotato.",
+          "Tom says he didn't swim.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciò che si fa è più importante di ciò che si dice.",
+          "What you do is more important than what you say.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/562.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -193,32 +214,67 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/641.json
           "Mi importa di lei.",
           "I care about her.",
+=======
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/562.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "più",
+      "content": "essere",
       "translations": [
-        "more",
-        "plus",
-        "greater",
-        "further"
+        "to be",
+        "to exist",
+        "to occur",
+        "to happen"
       ],
       "usageExamples": [
         [
+          "Deve essere difficile.",
+          "That must be hard.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/641.json
+=======
+        ],
+        [
+          "Non hai paura di essere infettata dal virus?",
+          "Aren't you afraid of getting infected by the virus?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Grazie per essere state con lui.",
+          "Thanks for staying with him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/562.json
+        ]
+      ]
+    },
+    {
+      "content": "troppo",
+      "translations": [
+        "too much",
+        "excessively",
+        "overly",
+        "very"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/641.json
           "Volete sentire di più?",
           "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -226,27 +282,106 @@
         [
           "Studiate più duramente.",
           "Study harder.",
+=======
+          "Quella gonna non è troppo corta?",
+          "Isn't that skirt too short?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È anche più economico.",
-          "It's also cheaper.",
+          "Le scarpe che diedi a Tom e Mary erano troppo piccole per loro.",
+          "The shoes I gave Tom and Mary were too small for them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/562.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary fu detto che era troppo bassa.",
+          "Mary was told she was too short.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "economico",
+      "content": "stanca",
       "translations": [
-        "economic",
-        "affordable",
-        "cost-effective",
-        "budget-friendly"
+        "tired",
+        "weary",
+        "fatigued",
+        "exhausted"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "oggi",
+      "translations": [
+        "today",
+        "this day",
+        "on this day"
       ],
       "usageExamples": [
         [
-          "È anche più economico.",
-          "It's also cheaper.",
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'ho vista al funerale oggi.",
+          "I saw her at the funeral today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non ho ancora mangiato niente oggi.",
+          "I haven't eaten anything yet today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aiutare",
+      "translations": [
+        "to help",
+        "to assist",
+        "to aid",
+        "to support"
+      ],
+      "usageExamples": [
+        [
+          "Li vada ad aiutare.",
+          "Go and help them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

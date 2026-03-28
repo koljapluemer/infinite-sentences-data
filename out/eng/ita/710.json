@@ -1,11 +1,11 @@
 {
-  "sentence": "Non dovete preoccuparvi per lei.",
+  "sentence": "Non ci sarà così tanta gente lì.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Lazovic (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You need not worry about her."
+    "There won't be so many people there."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/710.json
           "Non dormite mai?",
           "Don't you ever sleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,54 +31,121 @@
         [
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
+=======
+          "Non scordatela.",
+          "Don't forget it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/631.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dovete",
+      "content": "ci",
       "translations": [
-        "you must",
-        "you have to",
-        "you need to"
+        "us",
+        "to us",
+        "for us",
+        "at us"
       ],
       "usageExamples": [
         [
           "Quanto denaro ci dovete?",
           "How much money do you owe us?",
+<<<<<<< HEAD:out/eng/ita/710.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "La dovete avvertire.",
           "You've got to warn her.",
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/631.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non dovete andare a scuola la domenica.",
-          "You don't have to go to school on Sunday.",
+          "Con chi ci andrà?",
+          "Who are you going with?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Loro ci aiutano.",
+          "They help us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "preoccuparvi",
+      "content": "sarà",
       "translations": [
-        "to worry you",
-        "to concern you",
-        "to trouble you",
-        "to bother you"
+        "will be",
+        "shall be",
+        "is going to be",
+        "is to be"
+      ],
+      "usageExamples": [
+        [
+          "Io sono sicura che Tom sarà di ritorno.",
+          "I'm sure Tom will be back.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "così",
+      "translations": [
+        "so",
+        "like this",
+        "in this way",
+        "thus"
+      ],
+      "usageExamples": [
+        [
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così paranoici.",
+          "You're so paranoid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così impazienti.",
+          "You're so impatient.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tanta",
+      "translations": [
+        "so much",
+        "such a great amount",
+        "so many",
+        "such a large quantity"
       ],
       "usageExamples": []
     },
     {
-      "content": "per",
+      "content": "gente",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "people",
+        "folk",
+        "community",
+        "society"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/710.json
           "Sei speciale per me.",
           "You're special to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -90,18 +158,30 @@
         [
           "Sono preparata per morire.",
           "I'm prepared to die.",
+=======
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui ama parlare con la gente.",
+          "He loves talking to people.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/631.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lei",
+      "content": "lì",
       "translations": [
-        "she",
-        "you (formal)"
+        "there",
+        "over there",
+        "in that place",
+        "at that location"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/710.json
           "Era sposato con lei.",
           "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -114,6 +194,15 @@
         [
           "Mi importa di lei.",
           "I care about her.",
+=======
+          "Io ero lì.",
+          "I was there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché siete andati lì?",
+          "Why did you go there?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/631.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

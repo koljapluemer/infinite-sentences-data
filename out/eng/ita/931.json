@@ -1,28 +1,83 @@
 {
-  "sentence": "Siamo tutte delle codarde.",
+  "sentence": "Si sono sposati.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We're all cowards."
+    "They got married."
   ],
   "parts": [
     {
-      "content": "siamo",
+      "content": "Si",
       "translations": [
-        "we are",
-        "let's be",
-        "we're",
-        "we exist"
+        "If",
+        "Whether",
+        "In case",
+        "Provided that"
       ],
       "usageExamples": [
         [
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si ruppe entrambe le braccia.",
+          "She broke both of her arms.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
+      ],
+      "usageExamples": [
+        [
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sposati",
+      "translations": [
+        "married",
+        "to be married",
+        "get married",
+        "marry"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/931.json
           "Noi siamo in Finlandia.",
           "We are in Finland.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/852.json
           "Non siamo sposati.",
           "We're not married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -33,6 +88,7 @@
           "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
         ]
       ]
+<<<<<<< HEAD:out/eng/ita/931.json
     },
     {
       "content": "tutte",
@@ -95,6 +151,8 @@
         "timid person"
       ],
       "usageExamples": []
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/852.json
     }
   ]
 }

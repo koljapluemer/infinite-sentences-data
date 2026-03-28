@@ -1,10 +1,10 @@
 {
-  "sentence": "È mio cugino da parte di padre.",
+  "sentence": "È difficile restare calmi quando le scadenze vengono ignorate.",
   "credits": [
-    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He is my cousin on the father's side."
+    "It's hard to stay calm when deadlines are ignored."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1155.json
           "È molto bello rivedervi.",
           "It is very nice to see you again.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,19 +31,35 @@
           "È con Tom, vero?",
           "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È uscito dalla cucina.",
+          "He got out of the kitchen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una maledizione.",
+          "It's a curse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1076.json
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "difficile",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "difficult",
+        "hard",
+        "challenging",
+        "tough"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1155.json
           "È mio nemico.",
           "He's my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,6 +67,15 @@
         [
           "È il mio problema con lui.",
           "That's my problem with him.",
+=======
+          "Deve essere difficile.",
+          "That must be hard.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È difficile per me dipendere da te.",
+          "It's hard for me to depend on you.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1076.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -60,50 +86,73 @@
       ]
     },
     {
-      "content": "cugino",
+      "content": "restare",
       "translations": [
-        "cousin",
-        "male cousin",
-        "male relative"
+        "to remain",
+        "to stay",
+        "to be left",
+        "to rest"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei restare qua a Boston.",
+          "I'd rather stay here in Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "calmi",
+      "translations": [
+        "calm",
+        "quiet",
+        "peaceful",
+        "serene"
       ],
       "usageExamples": []
     },
     {
-      "content": "da",
+      "content": "quando",
       "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
+        "when",
+        "at what time",
+        "whenever",
+        "as soon as"
       ],
       "usageExamples": [
         [
-          "Imparai l'esperanto da sola.",
-          "I learned Esperanto by myself.",
+          "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
+          "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Scendi da quella scala.",
-          "Get down from that ladder.",
+          "L'ho usata quando ero in Cina la scorsa estate.",
+          "I used it when I was in China last summer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dovresti lasciarmi da sola.",
-          "You should leave me alone.",
+          "Come ti sei sentita quando è successo?",
+          "How did you feel when that happened?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "parte",
+      "content": "le",
       "translations": [
-        "part",
-        "section",
-        "component",
-        "piece"
+        "the",
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1155.json
           "Io non sono mai stato in quella parte del paese.",
           "I have never been to that part of the country.",
           "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
@@ -111,20 +160,45 @@
         [
           "Salutate i vostri genitori da parte mia.",
           "Say hello to your parents from me.",
+=======
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tirate fuori i vostri quaderni e le vostre penne.",
+          "Get out your notebooks and pens.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1076.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "scadenze",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "deadlines",
+        "due dates",
+        "expiration dates",
+        "time limits"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vengono",
+      "translations": [
+        "they come",
+        "they are coming",
+        "they will come",
+        "they are being"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1155.json
           "Volete sentire di più?",
           "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -138,17 +212,22 @@
           "Sei pieno di rabbia.",
           "You're full of anger.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Non vengono.",
+          "They're not coming.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1076.json
         ]
       ]
     },
     {
-      "content": "padre",
+      "content": "ignorate",
       "translations": [
-        "father",
-        "dad",
-        "papa",
-        "parent"
+        "ignore",
+        "overlook",
+        "disregard"
       ],
+<<<<<<< HEAD:out/eng/ita/1155.json
       "usageExamples": [
         [
           "Il padre di Tom gli ha insegnato a conoscere le stelle.",
@@ -166,6 +245,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1076.json
     }
   ]
 }

@@ -1,20 +1,35 @@
 {
-  "sentence": "Suggerirei di inserire una virgola.",
+  "sentence": "Stavo pensando di arruolarmi nell'esercito.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd suggest inserting a comma."
+    "I was thinking about joining the army."
   ],
   "parts": [
     {
-      "content": "Suggerirei",
+      "content": "Stavo",
       "translations": [
-        "I would suggest",
-        "I would recommend",
-        "I suggest",
-        "I recommend"
+        "I was",
+        "I used to be",
+        "I was being"
+      ],
+      "usageExamples": [
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pensando",
+      "translations": [
+        "thinking",
+        "considering",
+        "pondering",
+        "reflecting"
       ],
       "usageExamples": []
     },
@@ -28,42 +43,51 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/973.json
           "Volete sentire di più?",
           "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/894.json
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "L'abbiamo perso di vista.",
-          "We lost sight of him.",
-          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "inserire",
+      "content": "arruolarmi",
       "translations": [
-        "insert",
-        "add",
-        "include",
-        "put in"
+        "to enlist myself",
+        "to recruit myself",
+        "to sign up",
+        "to enroll"
       ],
       "usageExamples": []
     },
     {
-      "content": "una",
+      "content": "nell'",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "in the",
+        "at the",
+        "inside the",
+        "within the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/973.json
           "Datele una mano, OK?",
           "Give her a hand, will you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -76,17 +100,26 @@
         [
           "È stato una delusione.",
           "It was a disappointment.",
+=======
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/894.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "virgola",
+      "content": "esercito",
       "translations": [
-        "comma",
-        "virgule",
-        "punctuation mark",
-        "separator"
+        "army",
+        "military",
+        "troops",
+        "forces"
       ],
       "usageExamples": []
     }

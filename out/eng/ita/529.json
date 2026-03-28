@@ -1,43 +1,54 @@
 {
-  "sentence": "L'abbiamo perso di vista.",
+  "sentence": "Io voglio andare in Inghilterra.",
   "credits": [
-    "Sentence from Tatoeba by martin (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We lost sight of him."
+    "I want to go to England."
   ],
   "parts": [
     {
-      "content": "L'",
+      "content": "Io",
       "translations": [
-        "The",
-        "It",
-        "This",
-        "That"
+        "I",
+        "me",
+        "myself"
       ],
       "usageExamples": [
         [
-          "L'ha salvata.",
-          "He rescued her.",
+          "Io l'ho sentito.",
+          "I heard it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io consegno pizze.",
+          "I deliver pizzas.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "abbiamo",
+      "content": "voglio",
       "translations": [
-        "we have",
-        "we've got",
-        "we possess"
+        "I want",
+        "I would like",
+        "I wish",
+        "I desire"
       ],
       "usageExamples": [
         [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Non voglio guardarlo.",
+          "I don't want to watch that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/529.json
           "Adesso che abbiamo mangiato, andiamo.",
           "Now that we have eaten, let's go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -45,46 +56,55 @@
         [
           "Noi abbiamo una scorta di carta igienica.",
           "We have a stock of toilet paper.",
+=======
+          "Io non voglio che cambi.",
+          "I don't want it to change.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/450.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "perso",
+      "content": "andare",
       "translations": [
-        "lost",
-        "missing",
-        "absent",
-        "gone"
+        "to go",
+        "to walk",
+        "to move",
+        "to travel"
       ],
       "usageExamples": [
         [
-          "Ha perso la partita.",
-          "He lost the game.",
+          "Devo andare a trovarli.",
+          "I have to go find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha perso qualcosa?",
-          "Did you lose something?",
+          "Vuole andare per prima?",
+          "Do you want to go first?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/529.json
           "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
           "Tom didn't want me to tell you this, but he just lost his job.",
+=======
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/450.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "in",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "inside",
+        "within",
+        "into"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/529.json
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -98,29 +118,33 @@
           "Sei pieno di rabbia.",
           "You're full of anger.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/450.json
         ]
       ]
     },
     {
-      "content": "vista",
+      "content": "Inghilterra",
       "translations": [
-        "view",
-        "sight",
-        "perspective",
-        "outlook"
+        "England",
+        "UK",
+        "Great Britain",
+        "Britain"
       ],
-      "usageExamples": [
-        [
-          "L'ho vista al funerale oggi.",
-          "I saw her at the funeral today.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il falco ha la vista acuta.",
-          "The falcon has keen eyes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

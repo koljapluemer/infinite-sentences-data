@@ -1,23 +1,23 @@
 {
-  "sentence": "Ti ho visto sbadigliare.",
+  "sentence": "Sua madre sarebbe fiera di lei.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I saw you yawning."
+    "Your mother would be proud of you."
   ],
   "parts": [
     {
-      "content": "Ti",
+      "content": "Sua",
       "translations": [
-        "You",
-        "To you",
-        "For you",
-        "Yourself"
+        "yours",
+        "your",
+        "belonging to you"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/978.json
           "Ti compro un regalo.",
           "I buy you a present.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,25 +30,30 @@
         [
           "Ti darò questa biro.",
           "I'll give you this pen.",
+=======
+          "Confronti la Sua risposta con la sua.",
+          "Check your answer with his.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/899.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ho",
+      "content": "madre",
       "translations": [
-        "I have",
-        "I've got",
-        "I possess",
-        "I own"
+        "mother",
+        "mom",
+        "mum",
+        "mama"
       ],
       "usageExamples": [
         [
-          "Io l'ho comprata.",
-          "I bought it.",
+          "Amo molto mia madre.",
+          "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/978.json
           "Io ho preso un taxi perché stava piovendo.",
           "I took a taxi because it was raining.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,20 +61,56 @@
         [
           "Io ho voglia di uscire.",
           "I feel like going out.",
+=======
+          "Lei è del tutto diversa da sua madre.",
+          "She is not anything like her mother.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono orgoglioso di mia madre.",
+          "I'm proud of my mother.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sarebbe",
+      "translations": [
+        "it would be",
+        "it would",
+        "it is supposed to be",
+        "it should be"
+      ],
+      "usageExamples": [
+        [
+          "Tom sarebbe dovuto venire alla riunione.",
+          "Tom should've come to the meeting.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Tom sarebbe piaciuto quello che avete fatto.",
+          "Tom would've liked what you did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha detto a Mary che sarebbe stato libero domani.",
+          "Tom told Mary that he'd be free tomorrow.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/899.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "visto",
+      "content": "fiera",
       "translations": [
-        "visa",
-        "sight",
-        "view",
-        "sightseeing"
+        "fair",
+        "exhibition",
+        "trade show",
+        "market"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/978.json
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -82,19 +123,64 @@
         [
           "Hai visto Tom quella notte?",
           "Did you see Tom that night?",
+=======
+          "È fiera di suo padre?",
+          "Are you proud of your father?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/899.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sbadigliare",
+      "content": "di",
       "translations": [
-        "to unhinge",
-        "to unfasten",
-        "to detach",
-        "to unclip"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lei",
+      "translations": [
+        "she",
+        "you (formal)",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

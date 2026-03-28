@@ -1,33 +1,34 @@
 {
-  "sentence": "Stavano parlando insieme come vecchi amici.",
+  "sentence": "Sposarsi è una questione seria.",
   "credits": [
-    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They were talking together like old pals."
+    "Getting married is a serious matter."
   ],
   "parts": [
     {
-      "content": "Stavano",
+      "content": "Sposarsi",
       "translations": [
-        "They were",
-        "They used to be",
-        "They were standing.",
-        "They were staying"
+        "to get married",
+        "to marry",
+        "to tie the knot",
+        "to wed"
       ],
       "usageExamples": []
     },
     {
-      "content": "parlando",
+      "content": "è",
       "translations": [
-        "speaking",
-        "talking",
-        "conversing",
-        "discussing"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/966.json
           "Loro stanno parlando di lei?",
           "Are they talking about you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -35,30 +36,71 @@
         [
           "Con chi stava parlando Tom?",
           "Who was Tom talking to?",
+=======
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/887.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "insieme",
+      "content": "una",
       "translations": [
-        "together",
-        "set",
-        "group",
-        "collection"
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorrei una camera.",
+          "I would like a room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "questione",
+      "translations": [
+        "question",
+        "issue",
+        "matter",
+        "concern"
       ],
       "usageExamples": []
     },
     {
-      "content": "come",
+      "content": "seria",
       "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
+        "series",
+        "set",
+        "sequence",
+        "collection"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/966.json
           "Sa come raggiungerla?",
           "Do you know how to reach her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,6 +149,10 @@
         [
           "A Mary mancavano i suoi amici.",
           "Mary missed her friends.",
+=======
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/887.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

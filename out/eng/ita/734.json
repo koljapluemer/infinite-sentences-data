@@ -1,10 +1,11 @@
 {
-  "sentence": "Non mi piacciono le carte di credito. Preferisco i contanti.",
+  "sentence": "Non le può licenziare.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't like credit cards. I prefer cash."
+    "You can't fire them."
   ],
   "parts": [
     {
@@ -17,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/734.json
           "Non vuole fermarla.",
           "He doesn't want to stop her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,6 +83,21 @@
           "A Mary piacciono le commedie romantiche.",
           "Mary likes romantic comedies.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non hai coscienza!",
+          "You have no conscience!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non doveva aiutarla.",
+          "He didn't have to help her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/655.json
         ]
       ]
     },
@@ -94,42 +111,38 @@
       ],
       "usageExamples": [
         [
-          "Non le può licenziare.",
-          "You can't fire them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Non le vogliamo là.",
           "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/734.json
           "A Mary piacciono le commedie romantiche.",
           "Mary likes romantic comedies.",
+=======
+          "Non mi piacciono le sue barzellette.",
+          "I don't like his jokes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si ruppe entrambe le braccia.",
+          "He broke both of his arms.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/655.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "carte",
+      "content": "può",
       "translations": [
-        "cards",
-        "maps",
-        "sheets of paper",
-        "documents"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "can",
+        "may",
+        "is able to",
+        "is allowed to"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/734.json
           "Cos'hai contro di lui?",
           "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -142,13 +155,28 @@
         [
           "Volete sentire di più?",
           "Do you want to hear more?",
+=======
+          "Cosa può dirci riguardo a questo dipinto?",
+          "What can you tell us about this painting?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Camminare regolarmente può aiutarmi a mantenere un peso sano e a prevenire l'aumento di peso.",
+          "Regular walking can help me maintain a healthy weight and prevent weight gain.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse Tom lo può fare.",
+          "Perhaps Tom can do that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/655.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "credito",
+      "content": "licenziare",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/734.json
         "credit",
         "loan",
         "trust",
@@ -199,6 +227,12 @@
         "in cash",
         "cash payment",
         "cash money"
+=======
+        "to dismiss",
+        "to fire",
+        "to terminate",
+        "to lay off"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/655.json
       ],
       "usageExamples": []
     }

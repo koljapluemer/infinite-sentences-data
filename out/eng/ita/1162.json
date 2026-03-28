@@ -1,10 +1,13 @@
 {
-  "sentence": "È più freddo di quello che solitamente sperimentiamo.",
+  "sentence": "È mio nemico.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's colder than what we usually experience."
+    "He is my enemy.",
+    "He's my enemy."
   ],
   "parts": [
     {
@@ -17,8 +20,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1162.json
           "È una giornata nuvolosa.",
           "It's a cloudy day.",
+=======
+          "È un portiere.",
+          "He's a goal keeper.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1083.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -27,22 +35,28 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1162.json
           "È stata in piedi?",
           "Did you stand up?",
+=======
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1083.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "più",
+      "content": "mio",
       "translations": [
-        "more",
-        "plus",
-        "greater",
-        "further"
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1162.json
           "È anche più economico.",
           "It's also cheaper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,18 +64,31 @@
         [
           "Studiate più duramente.",
           "Study harder.",
+=======
+          "Il mio labbro è scoppiato.",
+          "My lip split.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1083.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
+          "Il mio problema è che sono troppo occupata.",
+          "My problem is I'm too busy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1162.json
+=======
+        ],
+        [
+          "Ho avuto la fortuna di seguire il mio percorso senza rimpianti.",
+          "I've been lucky to follow my own path without regrets.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1083.json
         ]
       ]
     },
     {
-      "content": "freddo",
+      "content": "nemico",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1162.json
         "cold",
         "chilly",
         "cool",
@@ -170,6 +197,12 @@
         "we experiment",
         "we try out",
         "let's test"
+=======
+        "enemy",
+        "foe",
+        "opponent",
+        "adversary"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1083.json
       ],
       "usageExamples": []
     }

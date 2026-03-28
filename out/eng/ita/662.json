@@ -1,48 +1,49 @@
 {
-  "sentence": "Mi fa piacere che tu sia d'accordo.",
+  "sentence": "Mary è un membro di una gang, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm glad you agree."
+    "Mary is a gang member, isn't she?"
   ],
   "parts": [
     {
-      "content": "Mi",
+      "content": "Mary",
       "translations": [
-        "Me",
-        "I",
-        "Myself"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi importa di lei.",
-          "I care about her.",
+          "A Mary non importa dei suoi voti.",
+          "Mary doesn't care about her grades.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fa",
+      "content": "è",
       "translations": [
-        "do",
-        "make",
-        "perform",
-        "act"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/662.json
           "5 più 3 fa 8.",
           "Add 5 to 3 and you have 8.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -55,27 +56,50 @@
         [
           "A Mary piace ciò che fa.",
           "Mary likes what she does.",
+=======
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/583.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piacere",
+      "content": "un",
       "translations": [
-        "to please",
-        "to like",
-        "pleasure",
-        "enjoyment"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/662.json
           "Per piacere, aspetta finché non arriva.",
           "Please wait until he arrives.",
+=======
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi fa piacere che le piaccia.",
-          "I'm glad you like him.",
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/583.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -86,8 +110,9 @@
       ]
     },
     {
-      "content": "che",
+      "content": "membro",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/662.json
         "that",
         "which",
         "who",
@@ -165,8 +190,102 @@
         "okay",
         "alright",
         "fine"
+=======
+        "member",
+        "part",
+        "component",
+        "participant"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/583.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Vorreste una ricevuta?",
+          "Would you like a receipt?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gang",
+      "translations": [
+        "group",
+        "crew",
+        "clique",
+        "team"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È scoraggiata, vero?",
+          "She's discouraged, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

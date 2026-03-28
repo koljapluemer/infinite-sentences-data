@@ -1,16 +1,19 @@
 {
-  "sentence": "Che altro volete che compri?",
+  "sentence": "C'era sangue dappertutto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What else do you want me to buy?"
+    "Blood was everywhere.",
+    "There was blood everywhere."
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "C'era",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/272.json
         "What",
         "Which",
         "That",
@@ -66,19 +69,25 @@
         "you want",
         "you wish",
         "you desire"
+=======
+        "There was",
+        "There used to be",
+        "There existed"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/193.json
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "sangue",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "blood",
+        "sanguine",
+        "gore",
+        "hemoglobin"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/272.json
           "È quello che sono.",
           "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -91,17 +100,26 @@
         [
           "Disse che lo amava.",
           "She said that she loved him.",
+=======
+          "Stava tossendo sangue.",
+          "You were coughing up blood.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ho il sangue blu nelle vene.",
+          "I have blue blood in my veins.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/193.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "compri",
+      "content": "dappertutto",
       "translations": [
-        "buy",
-        "purchase",
-        "acquire",
-        "obtain"
+        "everywhere",
+        "all over",
+        "throughout",
+        "in all places"
       ],
       "usageExamples": []
     }

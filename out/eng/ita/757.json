@@ -1,11 +1,11 @@
 {
-  "sentence": "Non sia mai gelosa.",
+  "sentence": "Non sei una spia, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by FaridTrad (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Never be jealous."
+    "You aren't a spy, are you?"
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/757.json
           "Non tutti erano compiaciuti.",
           "Not everyone was pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,53 +31,82 @@
         [
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
+=======
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non volevo intromettermi.",
+          "I didn't want to intrude.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/678.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sia",
+      "content": "sei",
       "translations": [
-        "herself",
-        "hers",
-        "she herself",
-        "her own"
+        "six",
+        "you are",
+        "if you",
+        "be"
       ],
       "usageExamples": [
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Tu sei sposata?",
+          "Are you married?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi fa piacere che tu sia d'accordo.",
-          "I'm glad you agree.",
+          "O Romeo Romeo, perché sei tu Romeo?",
+          "O Romeo Romeo, why are you Romeo?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/757.json
           "Penso che Tom sia normale.",
           "I think Tom is normal.",
+=======
+          "Tu sei quello che ha chiesto a Tom di aiutare?",
+          "Are you the one who asked Tom to help?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/678.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mai",
+      "content": "una",
       "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/757.json
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "È una maledizione.",
+          "It is a curse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete mai provato?",
-          "Did you ever try?",
+          "Vorreste una ricevuta?",
+          "Would you like a receipt?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/678.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scriva una risposta.",
+          "Write an answer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -87,17 +117,37 @@
       ]
     },
     {
-      "content": "gelosa",
+      "content": "spia",
       "translations": [
-        "jealous",
-        "envious",
-        "possessive",
-        "protective"
+        "spy",
+        "informant",
+        "snoop",
+        "mole"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
       ],
       "usageExamples": [
         [
-          "La mia ragazza è molto gelosa.",
-          "My girlfriend is very jealous.",
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È piuttosto avventurosa, vero?",
+          "She's pretty adventurous, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

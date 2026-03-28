@@ -1,27 +1,29 @@
 {
-  "sentence": "Come si fa a sentirlo?",
+  "sentence": "Ci scuserai per un momento?",
   "credits": [
-    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How can you hear him?"
+    "Will you excuse us for a moment?"
   ],
   "parts": [
     {
-      "content": "come",
+      "content": "Ci",
       "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
+        "Here",
+        "This",
+        "It",
+        "That"
       ],
       "usageExamples": [
         [
-          "Sa come raggiungerla?",
-          "Do you know how to reach her?",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/296.json
           "Volevo che Tom mi dicesse come farlo.",
           "I wanted Tom to tell me how to do that.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
@@ -29,13 +31,23 @@
         [
           "Tom sa come si sente Mary a riguardo.",
           "Tom knows how Mary feels about that.",
+=======
+          "Ci sarò sempre per aiutarti.",
+          "I will always be there to help you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono andata l'altro ieri.",
+          "I went there the day before yesterday.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/217.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "si",
+      "content": "scuserai",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/296.json
         "if",
         "whether",
         "in case",
@@ -117,8 +129,90 @@
         "to hear it",
         "to sense it",
         "to perceive it"
+=======
+        "I will excuse",
+        "I will apologize",
+        "I will forgive",
+        "I will pardon"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/217.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "momento",
+      "translations": [
+        "moment",
+        "instant",
+        "time",
+        "point in time"
+      ],
+      "usageExamples": [
+        [
+          "Forse questo è un brutto momento.",
+          "Maybe this is a bad time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È la stagione delle piogge in Giappone in questo momento.",
+          "It's the rainy season in Japan right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove sei in questo momento?",
+          "Where are you right now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

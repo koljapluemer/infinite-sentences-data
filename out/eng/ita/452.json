@@ -1,11 +1,11 @@
 {
-  "sentence": "Il padre di Tom gli ha insegnato a conoscere le stelle.",
+  "sentence": "Il mio amico è svizzero.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by helloroto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom's father taught him about the stars."
+    "My friend is Swiss."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/452.json
           "Il libro è arrivato.",
           "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,19 +30,35 @@
           "Il gatto mangia.",
           "The cat eats.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "Il gatto mangia.",
+          "The cat eats.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/373.json
         ]
       ]
     },
     {
-      "content": "padre",
+      "content": "mio",
       "translations": [
-        "father",
-        "dad",
-        "papa",
-        "parent"
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/452.json
           "È fiera di suo padre?",
           "Are you proud of your father?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,20 +71,35 @@
         [
           "Avete visitato la città dove è nato vostro padre?",
           "Have you visited the town where your father was born?",
+=======
+          "È mio nemico.",
+          "He is my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio giardino è piccolo.",
+          "My garden is small.",
+          "Sentence from Tatoeba by VPZ (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi manca così tanto il mio moroso!",
+          "I miss my boyfriend so much!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/373.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "amico",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "friend",
+        "buddy",
+        "mate",
+        "companion"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/452.json
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
@@ -80,18 +112,30 @@
         [
           "Beve latte di mucca.",
           "He drinks cow's milk.",
+=======
+          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
+          "Only my best friend would understand my love for minions.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio amico va in biblioteca a studiare.",
+          "My friend goes to the library to study.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/373.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "è",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/452.json
           "È con Tom, vero?",
           "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -105,12 +149,28 @@
           "Nessuno credeva a Tom.",
           "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Lei è americano?",
+          "Are you American?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/373.json
         ]
       ]
     },
     {
-      "content": "gli",
+      "content": "svizzero",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/452.json
         "the",
         "them",
         "those"
@@ -244,6 +304,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+        "Swiss",
+        "from Switzerland",
+        "Swiss person",
+        "Swiss cheese"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/373.json
     }
   ]
 }

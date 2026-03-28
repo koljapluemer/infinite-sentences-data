@@ -1,12 +1,12 @@
 {
-  "sentence": "Mary li ha ingannati tutti.",
+  "sentence": "Mary ha ammesso che era colpevole.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary fooled them all.",
-    "Mary tricked them all."
+    "Mary admitted she was guilty.",
+    "Mary admitted that she was guilty."
   ],
   "parts": [
     {
@@ -23,6 +23,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/644.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,6 +57,10 @@
         [
           "Dove li avete oliati?",
           "Where did you oil them?",
+=======
+          "A Mary non piace per nulla il prezzemolo.",
+          "Mary doesn't like parsley at all.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/565.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -69,6 +74,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/644.json
           "Lei ha frenato.",
           "She braked.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
@@ -81,30 +87,35 @@
         [
           "L'ha salvata.",
           "He rescued her.",
+=======
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/565.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ingannati",
+      "content": "ammesso",
       "translations": [
-        "deceived",
-        "fooled",
-        "tricked",
-        "misled"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tutti",
-      "translations": [
-        "everyone",
-        "all",
-        "everybody",
-        "all of them"
+        "admitted",
+        "allowed",
+        "accepted",
+        "permitted"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/644.json
           "Non tutti erano compiaciuti.",
           "Not everyone was pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -118,8 +129,75 @@
           "Sei un'ispirazione per tutti noi.",
           "You're an inspiration to us all.",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+=======
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/565.json
         ]
       ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "era",
+      "translations": [
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
+      ],
+      "usageExamples": [
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "colpevole",
+      "translations": [
+        "guilty",
+        "culprit",
+        "offender",
+        "responsible"
+      ],
+      "usageExamples": []
     }
   ]
 }

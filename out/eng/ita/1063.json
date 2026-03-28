@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom vuole che qualcuno lo aiuti.",
+  "sentence": "Tom tradusse il contratto in francese.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom wants somebody to help him."
+    "Tom translated the contract into French."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1063.json
           "Mi descriva Tom.",
           "Describe Tom to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,17 +30,33 @@
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/984.json
         ]
       ]
     },
     {
-      "content": "vuole",
+      "content": "tradusse",
       "translations": [
-        "wants",
-        "desires",
-        "wishes",
-        "intends"
+        "he/she translated",
+        "he/she rendered",
+        "he/she conveyed",
+        "he/she interpreted"
       ],
+<<<<<<< HEAD:out/eng/ita/1063.json
       "usageExamples": [
         [
           "Non vuole fermarla.",
@@ -107,6 +124,12 @@
     },
     {
       "content": "lo",
+=======
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/984.json
       "translations": [
         "the",
         "it",
@@ -115,31 +138,72 @@
       ],
       "usageExamples": [
         [
-          "Beh, sicuramente lo richiederò.",
-          "Well, I'll surely ask again.",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aiuti",
+      "content": "contratto",
       "translations": [
-        "help",
-        "assistance",
-        "aid",
-        "support"
+        "contract",
+        "agreement",
+        "contractual agreement",
+        "deal"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "francese",
+      "translations": [
+        "French",
+        "French language",
+        "French person",
+        "French cuisine"
+      ],
+      "usageExamples": [
+        [
+          "Tom e Mary studiano il francese ogni sera per trenta minuti.",
+          "Tom and Mary study French every evening for thirty minutes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

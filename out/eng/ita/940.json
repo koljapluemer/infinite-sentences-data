@@ -1,22 +1,22 @@
 {
-  "sentence": "So che Tom vi ha ferite.",
+  "sentence": "Siete così impazienti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I know that Tom hurt you."
+    "You're so impatient."
   ],
   "parts": [
     {
-      "content": "So",
+      "content": "Siete",
       "translations": [
-        "Therefore",
-        "Thus",
-        "In that case"
+        "Seven",
+        "7"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/940.json
           "So che sei ancora arrabbiata con me.",
           "I know you're still mad at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,25 +24,38 @@
         [
           "So che hai un problema.",
           "I know you have a problem.",
+=======
+          "Siete soli.",
+          "You are alone.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/861.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "So che Tom e Mary devono andare a Boston.",
-          "I know Tom and Mary have to go to Boston.",
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/940.json
+=======
+        ],
+        [
+          "Siete senza speranza.",
+          "You're hopeless.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/861.json
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "così",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "so",
+        "like this",
+        "in this way",
+        "thus"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/940.json
           "È quello che sono.",
           "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,18 +63,28 @@
         [
           "Disse che lo amava.",
           "She said that she loved him.",
+=======
+          "Siete così paranoici.",
+          "You're so paranoid.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
+          "È così sciocco.",
+          "That's so silly.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/861.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "impazienti",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/940.json
         "Thomas",
         "Tommy"
       ],
@@ -141,6 +164,12 @@
         "injuries",
         "cuts",
         "bruises"
+=======
+        "impatient",
+        "anxious",
+        "restless",
+        "eager"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/861.json
       ],
       "usageExamples": []
     }

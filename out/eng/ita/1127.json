@@ -1,23 +1,41 @@
 {
-  "sentence": "Vorrei che capissero il mio bisogno di pace.",
+  "sentence": "Volete sentire di più?",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I wish they would understand my need for peace."
+    "Do you want to hear more?"
   ],
   "parts": [
     {
-      "content": "Vorrei",
+      "content": "Volete",
       "translations": [
-        "I would like",
-        "I want",
-        "I would love to",
-        "I wish to"
+        "You want",
+        "Do you want",
+        "Would you like",
+        "Are you wanting"
+      ],
+      "usageExamples": [
+        [
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sentire",
+      "translations": [
+        "to feel",
+        "to sense",
+        "to perceive",
+        "to hear"
       ],
       "usageExamples": []
     },
     {
+<<<<<<< HEAD:out/eng/ita/1127.json
       "content": "che",
       "translations": [
         "that",
@@ -131,6 +149,8 @@
       ]
     },
     {
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1048.json
       "content": "di",
       "translations": [
         "of",
@@ -140,8 +160,18 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1127.json
           "Cos'hai contro di lui?",
           "What do you have against him?",
+=======
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1048.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -157,13 +187,30 @@
       ]
     },
     {
-      "content": "pace",
+      "content": "più",
       "translations": [
-        "peace",
-        "calm",
-        "tranquility"
+        "more",
+        "plus",
+        "greater",
+        "further"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Studiate più duramente.",
+          "Study harder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È anche più economico.",
+          "It's also cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sono mai stato più orgoglioso.",
+          "I've never been more proud.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

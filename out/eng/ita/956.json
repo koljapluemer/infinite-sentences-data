@@ -1,11 +1,11 @@
 {
-  "sentence": "Sono una buona persona.",
+  "sentence": "Sono preparata per morire.",
   "credits": [
-    "Sentence from Tatoeba by ver (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by weihaiping (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm a good person."
+    "I'm prepared to die."
   ],
   "parts": [
     {
@@ -19,13 +19,14 @@
       "usageExamples": []
     },
     {
-      "content": "una",
+      "content": "preparata",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "prepared",
+        "ready",
+        "set up",
+        "arranged"
       ],
+<<<<<<< HEAD:out/eng/ita/956.json
       "usageExamples": [
         [
           "È stato una delusione.",
@@ -43,17 +44,20 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/877.json
     },
     {
-      "content": "buona",
+      "content": "per",
       "translations": [
-        "good",
-        "nice",
-        "pleasant",
-        "fine"
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/956.json
           "La pâte brisée, per essere buona, deve essere friabile e leggera.",
           "To be good, pâte brisée should be light and flaky.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -61,20 +65,35 @@
         [
           "Questa è una buona domanda.",
           "This is a good question.",
+=======
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/877.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "persona",
+      "content": "morire",
       "translations": [
-        "person",
-        "individual",
-        "character",
-        "figure"
+        "to die",
+        "to pass away",
+        "to expire",
+        "to perish"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/956.json
           "Tom è una persona pigra.",
           "Tom is a lazy person.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -83,6 +102,11 @@
           "Tom è una brava persona.",
           "Tom is a good person.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/877.json
         ]
       ]
     }

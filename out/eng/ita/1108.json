@@ -1,28 +1,30 @@
 {
-  "sentence": "Voglio comprare una dozzina di banane.",
+  "sentence": "Vi manca molto, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Sbgodin (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I want to buy a dozen bananas."
+    "You miss her a lot, don't you?",
+    "You miss him a lot, don't you?"
   ],
   "parts": [
     {
-      "content": "Voglio",
+      "content": "Vi",
       "translations": [
-        "I want",
-        "I would like",
-        "I wish",
-        "I desire"
+        "Way",
+        "Path",
+        "Route",
+        "Journey"
       ],
       "usageExamples": [
         [
-          "Voglio studiare matematica.",
-          "I want to study math.",
+          "Vi obbedirà.",
+          "He'll obey you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1108.json
           "Voglio sapere cos'è l'amore.",
           "I want to know what love is.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,22 +32,36 @@
         [
           "Voglio parlare con te da sola.",
           "I want to speak to you alone.",
+=======
+          "Vi posso insegnare a lottare.",
+          "I can teach you how to fight.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1029.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "comprare",
+      "content": "manca",
       "translations": [
-        "to buy",
-        "to purchase",
-        "to acquire",
-        "to get"
+        "missing",
+        "lacking",
+        "absent",
+        "deficient"
       ],
       "usageExamples": [
         [
-          "Mary ha detto che voleva comprare qualcosa di più economico.",
-          "Mary said she wanted to buy something cheaper.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca la sua scarpa destra.",
+          "Mary is missing her right shoe.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca la sua famiglia.",
+          "Mary misses her family.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -56,17 +72,32 @@
       ]
     },
     {
-      "content": "una",
+      "content": "molto",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1108.json
           "È una giornata nuvolosa.",
           "It's a cloudy day.",
+=======
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1029.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -82,25 +113,16 @@
       ]
     },
     {
-      "content": "dozzina",
+      "content": "vero",
       "translations": [
-        "dozen",
-        "twelve",
-        "a dozen items",
-        "a set of twelve"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1108.json
           "Può fare di meglio.",
           "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -129,6 +151,20 @@
         [
           "A Mary piacciono anche le banane.",
           "Mary also likes bananas.",
+=======
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È scoraggiata, vero?",
+          "She's discouraged, isn't she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1029.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,14 +1,11 @@
 {
-  "sentence": "Ho scordato il suo nome.",
+  "sentence": "Ho intenzione questo pomeriggio di studiare inglese.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sharris123 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by speedwell (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I forgot your name.",
-    "I have forgotten your name.",
-    "I've forgotten her name."
+    "I'm going to study English this afternoon."
   ],
   "parts": [
     {
@@ -21,8 +18,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/418.json
           "Ho letto un fumetto.",
           "I read a comic book.",
+=======
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/339.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -31,32 +33,89 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/418.json
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
+=======
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/339.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scordato",
+      "content": "intenzione",
       "translations": [
-        "out of tune",
-        "off-key",
-        "out of harmony",
-        "discordant"
+        "intention",
+        "purpose",
+        "aim",
+        "design"
+      ],
+      "usageExamples": [
+        [
+          "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
+          "I understand that you and Tom are planning to get married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avevano intenzione di incrementare il budget militare.",
+          "They intended to increase the military budget.",
+          "Sentence from Tatoeba by remod (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non avevo intenzione di metterla in imbarazzo.",
+          "I didn't mean to embarrass you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "questo",
+      "translations": [
+        "this",
+        "this one",
+        "this thing",
+        "this item"
+      ],
+      "usageExamples": [
+        [
+          "Trasporti questo.",
+          "Carry this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prenda questo denaro.",
+          "Take this money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Inscatola questo.",
+          "Box this up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pomeriggio",
+      "translations": [
+        "afternoon",
+        "late day",
+        "post-noon"
       ],
       "usageExamples": []
     },
     {
-      "content": "il",
+      "content": "di",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/418.json
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -69,20 +128,61 @@
         [
           "Io insegno il berbero.",
           "I teach Berber.",
+=======
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "studiare",
+      "translations": [
+        "to study",
+        "to learn",
+        "to examine",
+        "to review"
+      ],
+      "usageExamples": [
+        [
+          "Voglio studiare matematica.",
+          "I want to study math.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo studiare stasera.",
+          "I have to study tonight.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Andò in Italia a studiare la musica.",
+          "He went to Italy to study music.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/339.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suo",
+      "content": "inglese",
       "translations": [
-        "his",
-        "her",
-        "its",
-        "their"
+        "English.",
+        "the English language",
+        "English (language)",
+        "English (as a subject)"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/418.json
           "A Mary non piace il suo lavoro.",
           "Mary doesn't like her job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -124,6 +224,23 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Studio inglese dopo cena.",
+          "I study English after dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi studiamo tutti i giorni inglese.",
+          "We study English every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/339.json
     }
   ]
 }

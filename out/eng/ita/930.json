@@ -1,50 +1,70 @@
 {
-  "sentence": "Siamo preoccupate per il nonno e la nonna.",
+  "sentence": "Si ruppe entrambe le braccia.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by WestofEden (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We are worried about grandpa and grandma."
+    "He broke both his arms.",
+    "He broke both of his arms.",
+    "She broke both her arms.",
+    "She broke both of her arms."
   ],
   "parts": [
     {
-      "content": "Siamo",
+      "content": "Si",
       "translations": [
-        "We are",
-        "We exist",
-        "We stand",
-        "We remain"
+        "If",
+        "Whether",
+        "In case",
+        "Provided that"
       ],
       "usageExamples": [
         [
-          "Siamo veramente così poveri?",
-          "Are we really that poor?",
+          "Si sono sposati.",
+          "They got married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Siamo eccentrici.",
-          "We're unusual.",
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Siamo arrivati ieri in treno.",
-          "We arrived yesterday afternoon by train.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+          "Si sta lavando i capelli.",
+          "He's washing his hair.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "preoccupate",
+      "content": "ruppe",
       "translations": [
-        "worried",
-        "concerned",
-        "preoccupied",
-        "anxious"
+        "rupee",
+        "currency",
+        "money"
+      ],
+      "usageExamples": [
+        [
+          "La ruppe.",
+          "He broke it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "entrambe",
+      "translations": [
+        "both",
+        "both of them",
+        "the two",
+        "each of them"
       ],
       "usageExamples": []
     },
     {
+<<<<<<< HEAD:out/eng/ita/930.json
       "content": "per",
       "translations": [
         "for",
@@ -71,33 +91,47 @@
     },
     {
       "content": "il",
+=======
+      "content": "le",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/851.json
       "translations": [
         "the",
-        "it",
-        "him",
-        "that"
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/930.json
           "Non bevete il caffè?",
           "Do you not drink coffee?",
+=======
+          "Non le può licenziare.",
+          "You can't fire them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/851.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "Non le vogliamo là.",
+          "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/930.json
           "Non conosco il sistema.",
           "I don't know the system.",
+=======
+          "Mary vuole che i suoi genitori le comprino un pony.",
+          "Mary wants her parents to buy her a pony.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/851.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nonno",
+      "content": "braccia",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/930.json
         "grandfather",
         "granddad",
         "gramps",
@@ -170,6 +204,12 @@
         "nana",
         "granny",
         "gramma"
+=======
+        "arms",
+        "branches",
+        "limbs",
+        "arms (body part)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/851.json
       ],
       "usageExamples": []
     }

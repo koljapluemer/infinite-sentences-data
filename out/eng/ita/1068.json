@@ -1,12 +1,11 @@
 {
-  "sentence": "Tom è famoso.",
+  "sentence": "Tom voleva sapere perché Mary non era felice.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is famous.",
-    "Tom's famous."
+    "Tom wanted to know why Mary was not happy."
   ],
   "parts": [
     {
@@ -17,8 +16,164 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1068.json
           "Tom sembrava esitante.",
           "Tom seemed hesitant.",
+=======
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "voleva",
+      "translations": [
+        "wanted",
+        "was wanting",
+        "desired",
+        "wished"
+      ],
+      "usageExamples": [
+        [
+          "Mary ha detto che voleva comprare qualcosa di più economico.",
+          "Mary said she wanted to buy something cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom voleva dire di no.",
+          "Tom wanted to say no.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom voleva che questa fosse una sorpresa.",
+          "Tom wanted this to be a surprise.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sapere",
+      "translations": [
+        "to know",
+        "to taste",
+        "to be wise",
+        "to have knowledge"
+      ],
+      "usageExamples": [
+        [
+          "Voglio sapere cos'è l'amore.",
+          "I want to know what love is.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "perché",
+      "translations": [
+        "why",
+        "because",
+        "for what reason",
+        "for what purpose"
+      ],
+      "usageExamples": [
+        [
+          "Non capisco perché non tutte le ragazze sono lesbiche.",
+          "I don't get why not all girls are lesbians.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ho preso un taxi perché stava piovendo.",
+          "I took a taxi because it was raining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il Museo del Prado è chiuso perché oggi è lunedì.",
+          "The Prado Museum is closed because today is Monday.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa soltanto di se stessa.",
+          "Mary only cares about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "era",
+      "translations": [
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
+      ],
+      "usageExamples": [
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/989.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,15 +189,16 @@
       ]
     },
     {
-      "content": "è",
+      "content": "felice",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "happy",
+        "joyful",
+        "fortunate",
+        "lucky"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1068.json
           "Ti è piaciuto Tom?",
           "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,19 +211,13 @@
         [
           "Tom si è divertito.",
           "Tom had fun.",
+=======
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/989.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "famoso",
-      "translations": [
-        "famous",
-        "well-known",
-        "renowned",
-        "celebrated"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,53 +1,90 @@
 {
-  "sentence": "Stai facendo progressi.",
+  "sentence": "Sono una buona persona.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ver (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by weihaiping (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're making progress."
+    "I'm a good person."
   ],
   "parts": [
     {
-      "content": "Stai",
+      "content": "Sono",
       "translations": [
-        "You are",
-        "Stay.",
-        "Be",
-        "Remain"
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
       ],
       "usageExamples": []
     },
     {
-      "content": "facendo",
+      "content": "una",
       "translations": [
-        "doing",
-        "making",
-        "performing",
-        "executing"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
-          "Faresti meglio ad andare. Si sta facendo tardi.",
-          "You'd better go. It's getting late.",
+          "Vorrei una camera.",
+          "I would like a room.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi sto facendo ricrescere la barba.",
-          "I'm growing a beard again.",
+          "Noi terremo una festa.",
+          "We'll have a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "progressi",
+      "content": "buona",
       "translations": [
-        "progress",
-        "advancements",
-        "developments",
-        "improvements"
+        "good",
+        "nice",
+        "pleasant",
+        "fine"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Questa è una buona domanda.",
+          "This is a good question.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La pâte brisée, per essere buona, deve essere friabile e leggera.",
+          "To be good, pâte brisée should be light and flaky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "persona",
+      "translations": [
+        "person",
+        "individual",
+        "character",
+        "figure"
+      ],
+      "usageExamples": [
+        [
+          "Tom è una brava persona.",
+          "Tom is a good person.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è una persona pigra.",
+          "Tom is a lazy person.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

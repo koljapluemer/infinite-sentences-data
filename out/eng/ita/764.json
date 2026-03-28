@@ -1,11 +1,11 @@
 {
-  "sentence": "Non sono mai stato più orgoglioso.",
+  "sentence": "Non siamo ancora molto affamati.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've never been more proud."
+    "We aren't very hungry yet."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/764.json
           "Non parlate così impudentemente.",
           "Don't talk so impudently.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,22 +31,51 @@
         [
           "Non sembrate imbarazzate.",
           "You don't look embarrassed.",
+=======
+          "Non hai coscienza!",
+          "You have no conscience!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/685.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sono",
+      "content": "siamo",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
+        "we are",
+        "let's be",
+        "we're",
+        "we exist"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/764.json
           "Si sono sposati.",
           "They got married.",
+=======
+          "Non siamo sposati.",
+          "We're not married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo tutte delle codarde.",
+          "We're all cowards.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/685.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,17 +91,32 @@
       ]
     },
     {
-      "content": "mai",
+      "content": "ancora",
       "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
+        "anchor",
+        "still",
+        "yet",
+        "also"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/764.json
           "Avete mai provato?",
           "Did you ever try?",
+=======
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sono ancora stato a Boston.",
+          "I haven't been to Boston yet.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non ho ancora mangiato niente oggi.",
+          "I haven't yet eaten anything today.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/685.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -87,15 +132,16 @@
       ]
     },
     {
-      "content": "stato",
+      "content": "molto",
       "translations": [
-        "state",
-        "status",
-        "condition",
-        "situation"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/764.json
           "È stato una delusione.",
           "It was a disappointment.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -108,51 +154,33 @@
         [
           "Tu sei stato di grande aiuto per la nostra famiglia.",
           "You've been a great help to our family.",
+=======
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/685.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "più",
+      "content": "affamati",
       "translations": [
-        "more",
-        "plus",
-        "greater",
-        "further"
+        "hungry",
+        "starving",
+        "famished",
+        "in need of food"
       ],
-      "usageExamples": [
-        [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Studiate più duramente.",
-          "Study harder.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È anche più economico.",
-          "It's also cheaper.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "orgoglioso",
-      "translations": [
-        "proud",
-        "arrogant",
-        "haughty",
-        "conceited"
-      ],
-      "usageExamples": [
-        [
-          "Sono orgoglioso di mia madre.",
-          "I'm proud of my mother.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

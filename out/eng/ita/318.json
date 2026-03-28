@@ -1,32 +1,87 @@
 {
-  "sentence": "Devo andare a trovarli.",
+  "sentence": "Cosa ti fa andare il cuore a tutta velocità?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have to go find them.",
-    "I must go and find them."
+    "What makes your heart race?"
   ],
   "parts": [
     {
-      "content": "Devo",
+      "content": "Cosa",
       "translations": [
-        "I must.",
-        "I have to.",
-        "I need to",
-        "I ought to"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
       ],
       "usageExamples": [
         [
-          "Devo aspettarli qua.",
-          "I have to wait here for them.",
+          "Cosa la sta causando?",
+          "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Devo studiare stasera.",
-          "I have to study tonight.",
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ti",
+      "translations": [
+        "you",
+        "yourself",
+        "to you",
+        "for you"
+      ],
+      "usageExamples": [
+        [
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tua moglie ti sta tradendo.",
+          "Your wife is cheating on you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono sicuro che Tom ti aiuterà.",
+          "I'm sure Tom will help you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fa",
+      "translations": [
+        "do",
+        "make",
+        "perform",
+        "act"
+      ],
+      "usageExamples": [
+        [
+          "Mi fa piacere che le piaccia.",
+          "I'm glad you like him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli alberi pietrificati di Yellowstone sono il risultato di flussi di detriti vulcanici verificatisi circa cinquanta milioni di anni fa.",
+          "Petrified trees in Yellowstone are the result of volcanic debris flows that occurred about 50 million years ago.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "5 più 3 fa 8.",
+          "Add 5 to 3 and you have 8.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -40,11 +95,41 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/318.json
+=======
           "Lasci andare il ragazzo.",
           "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/239.json
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/318.json
           "Vuole andare per prima?",
           "Do you want to go first?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -52,6 +137,31 @@
         [
           "Tom decise di rinunciare ad andare in skateboard dopo il suo incidente.",
           "Tom decided to give up skateboarding after his accident.",
+=======
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cuore",
+      "translations": [
+        "heart",
+        "core",
+        "center",
+        "essence"
+      ],
+      "usageExamples": [
+        [
+          "Tom è di buon cuore.",
+          "Tom has a good heart.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/239.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -65,13 +175,42 @@
       ],
       "usageExamples": [
         [
-          "Cosa capiterà a loro?",
-          "What'll happen to them?",
+<<<<<<< HEAD:out/eng/ita/318.json
+=======
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/239.json
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tutta",
+      "translations": [
+        "all",
+        "whole",
+        "entire",
+        "complete"
+      ],
+      "usageExamples": [
+        [
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "100 euro per tutta la giornata.",
+          "100 euros for the whole day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -82,20 +221,14 @@
       ]
     },
     {
-      "content": "trovarli",
+      "content": "velocità",
       "translations": [
-        "to find them",
-        "to locate them",
-        "to discover them",
-        "to get hold of them"
+        "speed",
+        "velocity",
+        "rate of motion",
+        "pace"
       ],
-      "usageExamples": [
-        [
-          "Devi trovarli.",
-          "You have to find them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

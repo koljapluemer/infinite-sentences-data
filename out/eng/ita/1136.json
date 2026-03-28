@@ -1,41 +1,58 @@
 {
-  "sentence": "Ziri e Rima erano nudi.",
+  "sentence": "Vorreste una ricevuta?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Agestur (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ziri and Rima were naked."
+    "Would you like a receipt?"
   ],
   "parts": [
     {
-      "content": "Ziri",
+      "content": "Vorreste",
       "translations": [
-        "Ziri (a name)",
-        "Ziri (a term)",
-        "Ziri (a concept)"
+        "Would you like",
+        "Do you want",
+        "Would you prefer",
+        "Are you interested in"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
-          "Ziri mangiò dei datteri.",
-          "Ziri ate dates.",
+          "È una maledizione.",
+          "It's a curse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ziri ama i gatti siamesi.",
-          "Ziri loves Siamese cats.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Sono una buona persona.",
+          "I'm a good person.",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1136.json
           "Ziri non rapinò una banca.",
           "Ziri didn't rob a bank.",
+=======
+          "Scriva una risposta.",
+          "Write an answer.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1057.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "e",
+      "content": "ricevuta",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1136.json
         "and",
         "also",
         "as well as",
@@ -117,6 +134,12 @@
         "bare",
         "stripped",
         "unclothed"
+=======
+        "receipt",
+        "invoice",
+        "proof of payment",
+        "sales slip"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1057.json
       ],
       "usageExamples": []
     }

@@ -1,47 +1,96 @@
 {
-  "sentence": "Dille cos'è successo veramente.",
+  "sentence": "Di solito bevo molto latte.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Disconnect (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tell her what really happened."
+    "I usually drink a lot of milk."
   ],
   "parts": [
     {
-      "content": "Dille",
+      "content": "Di",
       "translations": [
-        "Dill",
-        "Dill herb",
-        "Dill weed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "cos'è",
-      "translations": [
-        "what is it",
-        "what's that",
-        "what is this"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Voglio sapere cos'è l'amore.",
-          "I want to know what love is.",
+          "Di fatto l'uomo si arrabbiò.",
+          "In fact, the man got angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Di tutti là, parlai meno.",
+          "Out of everyone there, I spoke the least.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "successo",
+      "content": "solito",
       "translations": [
-        "success",
-        "outcome",
-        "result",
-        "achievement"
+        "usual",
+        "customary",
+        "habitual",
+        "regular"
       ],
       "usageExamples": [
         [
+          "I problemi di solito non vanno via da soli.",
+          "Problems don't usually go away by themselves.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bevo",
+      "translations": [
+        "I drink.",
+        "I am drinking",
+        "I do drink"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "molto",
+      "translations": [
+        "very",
+        "much",
+        "a lot",
+        "extremely"
+      ],
+      "usageExamples": [
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "latte",
+      "translations": [
+        "milk",
+        "dairy milk",
+        "cow's milk",
+        "liquid milk"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/328.json
           "Io so cosa gli è successo.",
           "I know what happened to him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -70,6 +119,20 @@
         [
           "Siamo veramente così poveri?",
           "Are we really that poor?",
+=======
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il latte nel suo caffè.",
+          "Mary doesn't like milk in her coffee.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/249.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

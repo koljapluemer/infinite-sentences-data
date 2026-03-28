@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary fu detto che era troppo bassa.",
+  "sentence": "A Mark potrebbe piacere Jessica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary was told she was too short."
+    "Mark might like Jessica."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/125.json
           "A Judy piace.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -49,12 +50,22 @@
         [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
+=======
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/94.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/125.json
         ]
       ]
     },
@@ -81,19 +92,22 @@
           "A Mary fu amputata la gamba sinistra.",
           "Mary had her left leg amputated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/94.json
         ]
       ]
     },
     {
-      "content": "detto",
+      "content": "Mark",
       "translations": [
-        "said",
-        "so-called",
-        "aforementioned",
-        "referred to as"
+        "Mark",
+        "Sign",
+        "Stain",
+        "Score"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/125.json
           "Ho detto così con l'intenzione di compiacerlo.",
           "I said so with a view to pleasing him.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -106,65 +120,85 @@
         [
           "Che ha detto lo specialista?",
           "What did the specialist say?",
+=======
+          "A Mark non piace San Valentino.",
+          "Mark doesn't like Valentine's Day.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/94.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "potrebbe",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "could",
+        "might",
+        "may",
+        "can"
       ],
       "usageExamples": [
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Chi potrebbe incolparci?",
+          "Who could blame us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/125.json
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
+=======
+          "La potrebbe ferire.",
+          "He might hurt her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/94.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "Pensa che Tom potrebbe avere ragione?",
+          "Do you think Tom might be correct?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "era",
+      "content": "piacere",
       "translations": [
-        "was",
-        "used to be",
-        "used to",
-        "was in the process of"
+        "to please",
+        "to like",
+        "pleasure",
+        "enjoyment"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/125.json
           "Tom era creativo.",
           "Tom was creative.",
+=======
+          "\"Passami il sale, per piacere.\" \"Ecco qua.\"",
+          "\"Pass me the salt, please.\" \"Here you are.\"",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/94.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/125.json
           "Chi era qua?",
           "Who was here?",
+=======
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/94.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "troppo",
+      "content": "Jessica",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/125.json
         "too much",
         "excessively",
         "overly",
@@ -194,6 +228,10 @@
         "low",
         "short",
         "flat"
+=======
+        "Jessica",
+        "Jessie"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/94.json
       ],
       "usageExamples": []
     }

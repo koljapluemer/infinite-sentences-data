@@ -1,27 +1,28 @@
 {
-  "sentence": "Mi ha detto che non mangiava carne.",
+  "sentence": "Mary è un'allenatrice molto brava, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She told me that she didn't eat meat."
+    "Mary is a very good coach, isn't she?"
   ],
   "parts": [
     {
-      "content": "Mi",
+      "content": "Mary",
       "translations": [
-        "Me",
-        "I",
-        "Myself"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Mi sono tuffato nell'acqua.",
-          "I dived into the water.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/663.json
           "Mi descriva Tom.",
           "Describe Tom to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,19 +30,30 @@
         [
           "Mi importa di lei.",
           "I care about her.",
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A volte Mary lo fa e a volte non lo fa.",
+          "Sometimes Mary does that and sometimes she doesn't.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/584.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "è",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/663.json
           "Un cane ha corso.",
           "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,20 +66,34 @@
         [
           "Lei ha già finito?",
           "Are you finished yet?",
+=======
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had some fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/584.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "detto",
+      "content": "un",
       "translations": [
-        "said",
-        "so-called",
-        "aforementioned",
-        "referred to as"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/663.json
           "Mary ha detto che voleva comprare qualcosa di più economico.",
           "Mary said she wanted to buy something cheaper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,12 +107,28 @@
           "Ho detto così con l'intenzione di compiacerlo.",
           "I said so with a view to pleasing him.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui sembra un delinquente.",
+          "He looks like a gangster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/584.json
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "allenatrice",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/663.json
         "that",
         "which",
         "who",
@@ -142,18 +184,92 @@
         "he/she was eating",
         "he/she used to eat",
         "he/she ate"
+=======
+        "coach",
+        "trainer",
+        "instructor",
+        "facilitator"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/584.json
       ],
       "usageExamples": []
     },
     {
-      "content": "carne",
+      "content": "molto",
       "translations": [
-        "meat",
-        "flesh",
-        "beef",
-        "protein"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "brava",
+      "translations": [
+        "brave",
+        "good",
+        "well done",
+        "excellent"
+      ],
+      "usageExamples": [
+        [
+          ". È molto brava a risolvere enigmi.",
+          "She's very good at solving puzzles.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom disse che era brava.",
+          "Tom said you were good.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è una brava persona.",
+          "Tom is a good person.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "È piuttosto avventurosa, vero?",
+          "She's pretty adventurous, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È scoraggiata, vero?",
+          "She's discouraged, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

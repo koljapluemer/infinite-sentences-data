@@ -1,11 +1,11 @@
 {
-  "sentence": "Mi importa solamente di lui.",
+  "sentence": "Mi devi aiutare a salvarle.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I only care about him."
+    "You must help me save them."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/666.json
           "Mi servono dei francobolli.",
           "I need stamps.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,25 +25,38 @@
         [
           "Mi descriva Tom.",
           "Describe Tom to me.",
+=======
+          "Mi importa di lei.",
+          "I care about her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/587.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Mi sto riposando ora.",
           "I'm resting now.",
+<<<<<<< HEAD:out/eng/ita/666.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/587.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "importa",
+      "content": "devi",
       "translations": [
-        "it matters",
-        "it is important",
-        "it counts",
-        "it is significant"
+        "you must",
+        "you have to",
+        "you need to",
+        "you are supposed to"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/666.json
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,20 +69,25 @@
         [
           "A Mary importa solamente di se stessa.",
           "Mary only cares about herself.",
+=======
+          "Tu devi essere onesta con noi.",
+          "You need to be honest with us.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/587.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "solamente",
+      "content": "aiutare",
       "translations": [
-        "only",
-        "just",
-        "merely",
-        "simply"
+        "to help",
+        "to assist",
+        "to aid",
+        "to support"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/666.json
           "A Mary importava solamente di se stessa.",
           "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,20 +100,34 @@
         [
           "A Mary importa solamente di se stessa.",
           "Mary only cares about herself.",
+=======
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li vada ad aiutare.",
+          "Go help them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/587.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "a",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/666.json
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -103,21 +136,33 @@
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+=======
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/587.json
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lui",
+      "content": "salvarle",
       "translations": [
-        "he",
-        "him",
-        "his"
+        "to save them",
+        "to rescue them",
+        "to preserve them",
+        "to safeguard them"
       ],
+<<<<<<< HEAD:out/eng/ita/666.json
       "usageExamples": [
         [
           "Parlo frequentemente con lui.",
@@ -135,6 +180,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/587.json
     }
   ]
 }

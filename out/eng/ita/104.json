@@ -1,11 +1,11 @@
 {
-  "sentence": "A Londra ho preferito il cibo indiano.",
+  "sentence": "A Leonid piaceva il fratello di Anna.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "In London I preferred Indian food."
+    "Leonid liked Anna's brother."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/104.json
           "A quale proposito?",
           "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,11 +30,58 @@
         [
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
+=======
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+      "content": "Leonid",
+      "translations": [
+        "Leonid",
+        "Leonids"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "piaceva",
+      "translations": [
+        "liked",
+        "was pleasing"
+      ],
+      "usageExamples": [
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla piaceva giocare a Monopoly.",
+          "Layla liked to play Monopoly.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/77.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+<<<<<<< HEAD:out/eng/ita/104.json
       "content": "Londra",
       "translations": [
         "London",
@@ -97,6 +145,8 @@
       ]
     },
     {
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/77.json
       "content": "il",
       "translations": [
         "the",
@@ -106,8 +156,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/104.json
           "Non bevete il caffè?",
           "Do you not drink coffee?",
+=======
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/77.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -123,32 +188,33 @@
       ]
     },
     {
-      "content": "cibo",
+      "content": "fratello",
       "translations": [
-        "food",
-        "meal",
-        "nourishment",
-        "provisions"
+        "brother",
+        "sibling",
+        "bro",
+        "male sibling"
       ],
       "usageExamples": [
         [
-          "Yanni comprò del cibo.",
-          "Yanni bought food.",
+          "Ho un fratello più grande.",
+          "I have an older brother.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/104.json
           "Il cibo giapponese le mancherà negli Stati Uniti.",
           "You will miss Japanese food in the United States.",
+=======
+          "Loro sono fratello e sorella.",
+          "They're brother and sister.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/77.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
-          "The orphans were forced to work long hours without pay or food.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/104.json
       "content": "indiano",
       "translations": [
         "Indian",
@@ -161,6 +227,41 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Anna",
+      "translations": [
+        "Anna",
+        "Anne",
+        "Ana"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/77.json
     }
   ]
 }

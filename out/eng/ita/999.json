@@ -1,12 +1,11 @@
 {
-  "sentence": "Tom disse che sembravo infastidito.",
+  "sentence": "Tom diede un'occhiata al soffitto.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by PVTranslator (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom said I seemed annoyed.",
-    "Tom said that I looked annoyed."
+    "Tom glanced up at the ceiling."
   ],
   "parts": [
     {
@@ -17,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/999.json
           "Tom ha molti amici?",
           "Does Tom have lots of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,20 +29,35 @@
         [
           "Tom sta gemendo.",
           "Tom is whining.",
+=======
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/920.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "disse",
+      "content": "diede",
       "translations": [
-        "said",
-        "told",
-        "stated",
-        "declared"
+        "gave",
+        "delivered",
+        "provided",
+        "offered"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/999.json
           "Tom disse che era divertito.",
           "Tom said that he was amused.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,13 +70,18 @@
         [
           "Mary disse che era offesa.",
           "Mary said that she was offended.",
+=======
+          "Il professore diede un premio a John.",
+          "The teacher gave John a prize.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/920.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "un'occhiata",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/999.json
         "that",
         "which",
         "who",
@@ -92,16 +112,47 @@
         "I appeared",
         "I looked like",
         "I was seeming"
+=======
+        "a glance",
+        "a look",
+        "a peek",
+        "a quick look"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/920.json
       ],
       "usageExamples": []
     },
     {
-      "content": "infastidito",
+      "content": "al",
       "translations": [
-        "annoyed",
-        "irritated",
-        "bothered",
-        "displeased"
+        "to the",
+        "at the",
+        "in the",
+        "for the"
+      ],
+      "usageExamples": [
+        [
+          "Andammo al supermercato asiatico.",
+          "We went to the Asian supermarket.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "soffitto",
+      "translations": [
+        "ceiling",
+        "roof",
+        "overhead surface"
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non è permesso uscire da sola.",
+  "sentence": "A Mary non piaceva il suo nome.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary isn't allowed to go out by herself."
+    "Mary didn't like her name."
   ],
   "parts": [
     {
@@ -17,18 +17,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/179.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/140.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -55,6 +60,14 @@
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/179.json
+=======
+        ],
+        [
+          "Mary è nel suo ufficio.",
+          "Mary is in her office.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/140.json
         ]
       ]
     },
@@ -64,7 +77,8 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
@@ -80,20 +94,27 @@
         [
           "Certamente non lo odiava.",
           "She certainly did not hate him.",
+<<<<<<< HEAD:out/eng/ita/179.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/140.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "piaceva",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "liked",
+        "was pleasing"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/179.json
           "Tom si è addolcito.",
           "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -148,46 +169,71 @@
         [
           "Io ho voglia di uscire.",
           "I feel like going out.",
+=======
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva sua madre.",
+          "Mary didn't like her mother.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/140.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "da",
+      "content": "il",
       "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/179.json
           "Dovresti lasciarmi da sola.",
           "You should leave me alone.",
+=======
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/140.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Scendi da quella scala.",
-          "Get down from that ladder.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/179.json
           "Imparai l'esperanto da sola.",
           "I learned Esperanto by myself.",
+=======
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/140.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sola",
+      "content": "suo",
       "translations": [
-        "alone",
-        "only",
-        "single",
-        "solitary"
+        "his",
+        "her",
+        "its",
+        "their"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/179.json
           "Dovresti lasciarmi da sola.",
           "You should leave me alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -200,6 +246,46 @@
         [
           "A Mary piace fare passeggiate da sola.",
           "Mary likes taking walks by herself.",
+=======
+          "È fiera di suo padre?",
+          "Are you proud of your father?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary è nel suo ufficio.",
+          "Mary is in her office.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom spiegò come perse tutto il suo denaro.",
+          "Tom explained how he lost his money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nome",
+      "translations": [
+        "name",
+        "title",
+        "designation",
+        "label"
+      ],
+      "usageExamples": [
+        [
+          "Posso chiedere il vostro nome?",
+          "May I ask your name?",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho scordato il suo nome.",
+          "I forgot your name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo nome.",
+          "Mary doesn't like her name.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/140.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

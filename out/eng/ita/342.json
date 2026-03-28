@@ -1,54 +1,45 @@
 {
-  "sentence": "Dovresti lasciarmi da sola.",
+  "sentence": "Dove sei in questo momento?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should leave me alone."
+    "Where are you right now?"
   ],
   "parts": [
     {
-      "content": "Dovresti",
+      "content": "Dove",
       "translations": [
-        "You should",
-        "You ought to",
-        "You must",
-        "You are supposed to"
+        "Where",
+        "Where is it?",
+        "Where to?",
+        "Where are you?"
       ],
       "usageExamples": [
         [
-          "Dovresti sposarlo.",
-          "You should marry him.",
+          "Dove li avete oliati?",
+          "Where did you oil them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
+          "Dove ha portato il mio lenzuolo?",
+          "Where did you take my blanket?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lasciarmi",
+      "content": "sei",
       "translations": [
-        "let me go",
-        "leave me",
-        "allow me to leave",
-        "let me be"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "da",
-      "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
+        "six",
+        "you are",
+        "if you",
+        "be"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/342.json
           "Scendi da quella scala.",
           "Get down from that ladder.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -61,25 +52,39 @@
         [
           "Tom venne qui da solo.",
           "Tom came here alone.",
+=======
+          "Tu sei sposata?",
+          "Are you married?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "O Romeo Romeo, perché sei tu Romeo?",
+          "O Romeo Romeo, wherefore art thou Romeo?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu sei quello che ha chiesto a Tom di aiutare?",
+          "Are you the one who asked Tom to help?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/263.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sola",
+      "content": "in",
       "translations": [
-        "alone",
-        "only",
-        "single",
-        "solitary"
+        "inside",
+        "within",
+        "into"
       ],
       "usageExamples": [
         [
-          "Imparai l'esperanto da sola.",
-          "I learned Esperanto by myself.",
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/342.json
           "A Mary piace fare quasi tutto da sola.",
           "Mary likes to do almost everything by herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -88,6 +93,68 @@
           "Vuole una sola notte di intimità.",
           "He wants a single night of intimacy.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "questo",
+      "translations": [
+        "this",
+        "this one",
+        "this thing",
+        "this item"
+      ],
+      "usageExamples": [
+        [
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Inscatola questo.",
+          "Box this up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Trasporti questo.",
+          "Carry this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "momento",
+      "translations": [
+        "moment",
+        "instant",
+        "time",
+        "point in time"
+      ],
+      "usageExamples": [
+        [
+          "Ci scuserai per un momento?",
+          "Will you excuse us for a moment?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse questo è un brutto momento.",
+          "Maybe this is a bad time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È la stagione delle piogge in Giappone in questo momento.",
+          "It's the rainy season in Japan right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/263.json
         ]
       ]
     }

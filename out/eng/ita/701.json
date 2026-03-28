@@ -1,23 +1,24 @@
 {
-  "sentence": "Non avevo intenzione di metterla in imbarazzo.",
+  "sentence": "Noi studiamo tutti i giorni inglese.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I didn't mean to embarrass you."
+    "We study English every day."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Noi",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
+        "We",
+        "Us",
+        "Ours",
+        "Our group"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/701.json
           "Non sembrate imbarazzate.",
           "You don't look embarrassed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,19 +31,45 @@
         [
           "Non riusciva a vederla.",
           "He couldn't see her.",
+=======
+          "Noi terremo una festa.",
+          "We'll have a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/622.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "avevo",
+      "content": "studiamo",
       "translations": [
-        "I had",
-        "I used to have",
-        "I was having"
+        "we study",
+        "let's study",
+        "we are studying",
+        "studying together"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "tutti",
+      "translations": [
+        "everyone",
+        "all",
+        "everybody",
+        "all of them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/701.json
           "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
           "My eyes were full of tears and I could barely see him.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -50,23 +77,100 @@
         [
           "Tom mi chiese se avevo fame.",
           "Tom asked me whether I was hungry.",
+=======
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Cuba piace a tutti.",
+          "Everyone in Cuba likes it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Boston erano tutti congregazionalisti.",
+          "In Boston, they were all congregationalists.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/622.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "intenzione",
+      "content": "i",
       "translations": [
-        "intention",
-        "purpose",
-        "aim",
-        "design"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/701.json
           "Avevano intenzione di incrementare il budget militare.",
           "They intended to increase the military budget.",
           "Sentence from Tatoeba by remod (CC-BY 2.0 FR)"
+=======
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tirate fuori i vostri quaderni e le vostre penne.",
+          "Get out your notebooks and pens.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Dan non piacciono i dittatori.",
+          "Dan doesn't like dictators.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "giorni",
+      "translations": [
+        "days",
+        "daytime",
+        "periods",
+        "timeframes"
+      ],
+      "usageExamples": [
+        [
+          "40 dollari per sette giorni.",
+          "40 dollars for seven days.",
+          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+        ],
+        [
+          "Leggo un giornale tutti i giorni per tenermi aggiornata.",
+          "I read a newspaper every day so that I may keep up with the time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti giorni ci sono a ottobre?",
+          "How many days are in October?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "inglese",
+      "translations": [
+        "English.",
+        "the English language",
+        "English (language)",
+        "English (as a subject)"
+      ],
+      "usageExamples": [
+        [
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Studio inglese dopo cena.",
+          "I study English after dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/622.json
         ],
         [
           "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
@@ -79,6 +183,7 @@
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ]
       ]
+<<<<<<< HEAD:out/eng/ita/701.json
     },
     {
       "content": "di",
@@ -150,6 +255,8 @@
         "self-consciousness"
       ],
       "usageExamples": []
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/622.json
     }
   ]
 }

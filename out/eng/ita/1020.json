@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom ha un'auto molto costosa.",
+  "sentence": "Tom ha la sua propria camera da letto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom has a very expensive car."
+    "Tom has his own bedroom."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1020.json
           "Tom sembrava esitante.",
           "Tom seemed hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,6 +29,20 @@
         [
           "Tom è ovviamente arrabbiato.",
           "Tom is obviously angry.",
+=======
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra compiaciuto.",
+          "Tom seems pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is whining.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/941.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -41,6 +56,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1020.json
           "Cookie ha 15 anni.",
           "Cookie is 15.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -64,38 +80,35 @@
         "an"
       ],
       "usageExamples": [
+=======
+          "L'ha salvata.",
+          "He rescued her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
-          "Sei un'ispirazione per tutti noi.",
-          "You're an inspiration to us all.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "auto",
-      "translations": [
-        "car",
-        "automobile",
-        "vehicle"
-      ],
-      "usageExamples": [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/941.json
         [
-          "Non so se lui verrà in treno o in auto.",
-          "I don't know whether he'll come by train or by car.",
+          "Un cane ha corso.",
+          "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molto",
+      "content": "la",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1020.json
           "Si contraddicono molto.",
           "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -108,19 +121,126 @@
         [
           "Amo molto mia madre.",
           "I love my mother very much.",
+=======
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "She lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/941.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "costosa",
+      "content": "sua",
       "translations": [
-        "expensive",
-        "costly",
-        "high-priced",
-        "pricey"
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva sua madre.",
+          "Mary didn't like her mother.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "propria",
+      "translations": [
+        "own",
+        "personal",
+        "specific",
+        "particular"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "camera",
+      "translations": [
+        "photographic device",
+        "image-capturing device",
+        "photo camera"
+      ],
+      "usageExamples": [
+        [
+          "Vorrei una camera.",
+          "I would like a room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "da",
+      "translations": [
+        "from",
+        "since",
+        "by",
+        "of"
+      ],
+      "usageExamples": [
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "letto",
+      "translations": [
+        "bed",
+        "bedding",
+        "to bed",
+        "bed frame"
+      ],
+      "usageExamples": [
+        [
+          "Ho letto un fumetto.",
+          "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui ha letto la poesia ad alta voce.",
+          "He read the poem with a loud voice.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

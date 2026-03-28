@@ -1,53 +1,61 @@
 {
-  "sentence": "Hanno delle famiglie da sfamare.",
+  "sentence": "Hai bisogno di una tastiera nuova?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by LB (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They have families to feed."
+    "Do you need a new keyboard?"
   ],
   "parts": [
     {
-      "content": "Hanno",
+      "content": "Hai",
       "translations": [
-        "They have",
-        "They possess",
-        "They own"
+        "Yes.",
+        "Yeah",
+        "Yep.",
+        "Affirmative"
       ],
       "usageExamples": [
         [
-          "Hanno cominciato ad innervosirsi.",
-          "They started to get nervous.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hanno perso la guerra sul fronte orientale.",
-          "They lost the war on the eastern front.",
+          "Hai già visto il campus?",
+          "Have you seen the campus yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/399.json
           "Hanno sofferto molto durante gli anni della guerra.",
           "They suffered a lot during the war years.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/320.json
         ]
       ]
     },
     {
-      "content": "delle",
+      "content": "bisogno",
       "translations": [
-        "of the",
-        "some",
-        "of them",
-        "from the"
+        "need",
+        "requirement",
+        "necessity",
+        "desire"
       ],
       "usageExamples": [
         [
-          "Siamo tutte delle codarde.",
-          "We're all cowards.",
+          "Ho bisogno di parlarti stanotte.",
+          "I need to talk to you tonight.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/399.json
           "È la stagione delle piogge in Giappone in questo momento.",
           "It's the rainy season in Japan right now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,35 +64,30 @@
           "A Dan non piace il colore delle pareti.",
           "Dan doesn't like the color of the walls.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "famiglie",
-      "translations": [
-        "families",
-        "households",
-        "clans",
-        "kin"
-      ],
-      "usageExamples": [
+=======
+          "Chiamatemi se avete bisogno di assistenza.",
+          "Call me if you need assistance.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
-          "Le due famiglie hanno legami familiari stretti.",
-          "The two families have very close ties.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+          "Vorrei che capissero il mio bisogno di pace.",
+          "I wish they would understand my need for peace.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/320.json
         ]
       ]
     },
     {
-      "content": "da",
+      "content": "di",
       "translations": [
+        "of",
         "from",
-        "since",
-        "by",
-        "of"
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/399.json
           "Dovresti lasciarmi da sola.",
           "You should leave me alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -97,19 +100,80 @@
         [
           "Scendi da quella scala.",
           "Get down from that ladder.",
+=======
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/320.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sfamare",
+      "content": "una",
       "translations": [
-        "to feed",
-        "to nourish",
-        "to provide food for",
-        "to satisfy hunger"
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi terremo una festa.",
+          "We'll have a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tastiera",
+      "translations": [
+        "keyboard",
+        "keypad",
+        "typewriter",
+        "control panel"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "nuova",
+      "translations": [
+        "new",
+        "novel",
+        "fresh",
+        "recent"
+      ],
+      "usageExamples": [
+        [
+          "La nuova legge è stata una riforma importante.",
+          "The new law was a major reform.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La nuova strada sta venendo costruita.",
+          "The new street is being built.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

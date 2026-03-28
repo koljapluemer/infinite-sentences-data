@@ -1,49 +1,158 @@
 {
-  "sentence": "Stava tossendo sangue.",
+  "sentence": "Spesso un gesto vale più di mille parole.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by tieguy (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You were coughing up blood."
+    "One gesture is often worth more than a thousand words."
   ],
   "parts": [
     {
-      "content": "Stava",
+      "content": "Spesso",
       "translations": [
-        "was",
-        "used to be",
-        "stood",
-        "was standing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tossendo",
-      "translations": [
-        "coughing",
-        "to cough",
-        "cough"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sangue",
-      "translations": [
-        "blood",
-        "sanguine",
-        "gore",
-        "hemoglobin"
+        "often",
+        "frequently",
+        "many times",
+        "regularly"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/965.json
           "C'era sangue dappertutto.",
           "There was blood everywhere.",
+=======
+          "Spesso la paella include lumache.",
+          "Paella often includes snails.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/886.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io ho il sangue blu nelle vene.",
-          "I have blue blood in my veins.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiamate un'ambulanza!",
+          "Call an ambulance!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gesto",
+      "translations": [
+        "gesture",
+        "sign",
+        "motion",
+        "signal"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vale",
+      "translations": [
+        "be well",
+        "farewell",
+        "goodbye",
+        "take care"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "più",
+      "translations": [
+        "more",
+        "plus",
+        "greater",
+        "further"
+      ],
+      "usageExamples": [
+        [
+          "È anche più economico.",
+          "It's also cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Studiate più duramente.",
+          "Study harder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mille",
+      "translations": [
+        "thousand",
+        "one thousand",
+        "1000",
+        "a thousand"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "parole",
+      "translations": [
+        "words",
+        "speech",
+        "terms",
+        "vocabulary"
+      ],
+      "usageExamples": [
+        [
+          "È solamente una di quelle fastidiose parole alla moda.",
+          "It's just one of those annoying buzzwords.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le sue parole mi resero senza parole.",
+          "His words rendered me speechless.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

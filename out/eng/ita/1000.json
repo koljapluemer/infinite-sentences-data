@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom e Mary non erano feriti.",
+  "sentence": "Tom dimenticò la sua chiave.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom and Mary weren't injured."
+    "Tom forgot his key."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1000.json
           "Tom sembrava esitante.",
           "Tom looked hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,20 +29,35 @@
         [
           "Tom acconsentì con riluttanza.",
           "Tom reluctantly agreed.",
+=======
+          "Tom sembra impegnato.",
+          "Tom looks busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/921.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "e",
+      "content": "dimenticò",
       "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "forgot",
+        "he/she forgot",
+        "did forget",
+        "has forgotten"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1000.json
           "'Aspetta qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da te immediatamente.'",
           "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,46 +71,72 @@
           "A Bill e John piace ritrovarsi una volta al mese per parlare.",
           "Bill and John like to get together once a month to talk.",
           "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
+=======
+          "Layla dimenticò qualcosa.",
+          "Layla forgot something.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/921.json
         ]
       ]
     },
     {
-      "content": "Mary",
+      "content": "la",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1000.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/921.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "sua",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "your",
+        "yours",
+        "his",
+        "her"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1000.json
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Riuscite a distinguere Jane dalla sua sorella gemella?",
+          "Can you tell Jane from her twin sister?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary deve mancare la sua famiglia.",
+          "Mary must miss her family.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/921.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -110,8 +152,9 @@
       ]
     },
     {
-      "content": "erano",
+      "content": "chiave",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1000.json
         "they were",
         "they used to be",
         "they had been"
@@ -140,6 +183,12 @@
         "wounded",
         "injured",
         "hurt"
+=======
+        "key",
+        "clue",
+        "solution",
+        "answer"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/921.json
       ],
       "usageExamples": []
     }

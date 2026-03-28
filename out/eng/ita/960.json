@@ -1,33 +1,34 @@
 {
-  "sentence": "Sposarsi è una questione seria.",
+  "sentence": "Sono troppo vecchia per votare?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Getting married is a serious matter."
+    "Am I too old to vote?"
   ],
   "parts": [
     {
-      "content": "Sposarsi",
+      "content": "Sono",
       "translations": [
-        "to get married",
-        "to marry",
-        "to tie the knot",
-        "to wed"
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "troppo",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "too much",
+        "excessively",
+        "overly",
+        "very"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/960.json
           "Tom si è nascosto.",
           "Tom hid.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
@@ -40,20 +41,35 @@
         [
           "Ti è piaciuto Tom?",
           "Did you like Tom?",
+=======
+          "A Mary fu detto che era troppo bassa.",
+          "Mary was told she was too short.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non fidarti troppo di Tom.",
+          "Don't trust Tom too much.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/881.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "vecchia",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "old",
+        "ancient",
+        "aged",
+        "vintage"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/960.json
           "Sono una buona persona.",
           "I'm a good person.",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -67,31 +83,51 @@
           "Era una visione orrenda.",
           "It was a horrible vision.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Lui è una vecchia volpe.",
+          "He is a sly old dog.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/881.json
         ]
       ]
     },
     {
-      "content": "questione",
+      "content": "per",
       "translations": [
-        "question",
-        "issue",
-        "matter",
-        "concern"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "seria",
-      "translations": [
-        "series",
-        "set",
-        "sequence",
-        "collection"
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "votare",
+      "translations": [
+        "to vote",
+        "to cast a vote",
+        "to elect",
+        "to poll"
+      ],
+      "usageExamples": [
+        [
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

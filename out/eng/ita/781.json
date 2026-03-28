@@ -1,28 +1,34 @@
 {
-  "sentence": "Odio il cibo degli ospedali.",
+  "sentence": "Non vuole fermarla.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I hate hospital food."
+    "He doesn't want to stop her."
   ],
   "parts": [
     {
-      "content": "Odio",
+      "content": "Non",
       "translations": [
-        "Hate",
-        "Loathing",
-        "Aversion",
-        "Dislike"
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
       ],
       "usageExamples": [
         [
-          "Odio qui.",
-          "I hate it here.",
+          "Non hai coscienza!",
+          "You have no conscience!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/781.json
           "Odio prendere i mezzi pubblici.",
           "I hate taking public transportation.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,25 +36,30 @@
         [
           "Odio tornare da lui. Voglio vivere con voi.",
           "I hate going back to him. I want to live with you.",
+=======
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/702.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "vuole",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "wants",
+        "desires",
+        "wishes",
+        "intends"
       ],
       "usageExamples": [
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/781.json
           "Non bevete il caffè?",
           "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,13 +67,23 @@
         [
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
+=======
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Shloyme vuole essere uno scrittore.",
+          "Shloyme wants to be a writer.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/702.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cibo",
+      "content": "fermarla",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/781.json
         "food",
         "meal",
         "nourishment",
@@ -119,6 +140,12 @@
         "medical facilities",
         "healthcare centers",
         "clinics"
+=======
+        "stop it",
+        "halt it",
+        "hold it",
+        "prevent it"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/702.json
       ],
       "usageExamples": []
     }

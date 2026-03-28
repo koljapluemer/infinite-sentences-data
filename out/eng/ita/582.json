@@ -1,11 +1,11 @@
 {
-  "sentence": "Le sue parole mi resero senza parole.",
+  "sentence": "Le due famiglie hanno legami familiari stretti.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "His words rendered me speechless."
+    "The two families have very close ties."
   ],
   "parts": [
     {
@@ -18,31 +18,38 @@
       ],
       "usageExamples": [
         [
-          "Le fece sorridere.",
-          "That made them smile.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Le amiamo.",
           "We love them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/582.json
           "Le dirò che eravate qui.",
           "I'll tell her you were here.",
+=======
+          "Le fece sorridere.",
+          "That made them smile.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/503.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le dispute dei suoi genitori riecheggiavano nella sua mente, facendolo piangere disperatamente.",
+          "His parents' disputes echoed in his mind, making him cry helplessly.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sue",
+      "content": "due",
       "translations": [
-        "to sue",
-        "to file a lawsuit",
-        "to take legal action against"
+        "two",
+        "a couple",
+        "duo",
+        "pair"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/582.json
           "A John piace scambiare francobolli con le sue amiche.",
           "John likes to trade stamps with his friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,45 +63,54 @@
           "A Mary piacciono tutte le sue insegnanti.",
           "Mary likes all of her teachers.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "La nostra insegnante ci ha divisi in due gruppi.",
+          "Our teacher separated us into two groups.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quei due esperimenti hanno prodotto risultati simili.",
+          "Those two experiments yielded similar results.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Bill e John piace ritrovarsi una volta al mese per scambiare due chiacchiere.",
+          "Bill and John like to get together once a month to chat.",
+          "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/503.json
         ]
       ]
     },
     {
-      "content": "parole",
+      "content": "famiglie",
       "translations": [
-        "words",
-        "speech",
-        "terms",
-        "vocabulary"
+        "families",
+        "households",
+        "clans",
+        "kin"
       ],
       "usageExamples": [
         [
-          "Spesso un gesto vale più di mille parole.",
-          "One gesture is often worth more than a thousand words.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È solamente una di quelle fastidiose parole alla moda.",
-          "It's just one of those annoying buzzwords.",
+          "Hanno delle famiglie da sfamare.",
+          "They have families to feed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mi",
+      "content": "hanno",
       "translations": [
-        "me",
-        "myself",
-        "to me",
-        "for me"
+        "they have",
+        "you (plural) have"
       ],
       "usageExamples": [
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Lo hanno aiutato.",
+          "They helped him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/582.json
           "OK, mi ricorderò di voi.",
           "OK, I'll remind you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -103,27 +119,38 @@
           "Volevo che Tom mi dicesse come farlo.",
           "I wanted Tom to tell me how to do that.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+=======
+          "I sondaggisti hanno condotto un sondaggio sulla popolarità dei candidati politici.",
+          "Pollsters conducted a poll on the popularity of the political candidates.",
+          "Sentence from Tatoeba by alesimpa (CC-BY 2.0 FR)"
+        ],
+        [
+          "I gatti non hanno le pulci.",
+          "The cats have fleas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/503.json
         ]
       ]
     },
     {
-      "content": "resero",
+      "content": "legami",
       "translations": [
-        "I unlock",
-        "I open",
-        "I reveal",
-        "I disclose"
+        "bonds",
+        "ties",
+        "connections",
+        "links"
       ],
       "usageExamples": []
     },
     {
-      "content": "senza",
+      "content": "familiari",
       "translations": [
-        "without",
-        "lacking",
-        "absent",
-        "devoid of"
+        "relatives",
+        "family members",
+        "kin",
+        "relations"
       ],
+<<<<<<< HEAD:out/eng/ita/582.json
       "usageExamples": [
         [
           "Siete senza speranza.",
@@ -141,6 +168,19 @@
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+    },
+    {
+      "content": "stretti",
+      "translations": [
+        "tight",
+        "narrow",
+        "close",
+        "restricted"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/503.json
     }
   ]
 }

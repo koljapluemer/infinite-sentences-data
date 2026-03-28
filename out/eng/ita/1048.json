@@ -1,16 +1,11 @@
 {
-  "sentence": "Tom si è divertito.",
+  "sentence": "Tom sa come si sente Mary a riguardo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom enjoyed himself.",
-    "Tom had a good time.",
-    "Tom had fun.",
-    "Tom had some fun."
+    "Tom knows how Mary feels about that."
   ],
   "parts": [
     {
@@ -21,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1048.json
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -34,6 +30,73 @@
           "Tom amerà abitare qua.",
           "Tom will love living here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom sembra impegnato.",
+          "Tom looks busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sa",
+      "translations": [
+        "if",
+        "whether",
+        "that",
+        "as"
+      ],
+      "usageExamples": [
+        [
+          "Non sa che sono giapponese.",
+          "She doesn't know that I'm Japanese.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary sa che cosa vuole dire.",
+          "Mary knows what she wants to say.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "come",
+      "translations": [
+        "how",
+        "like",
+        "as",
+        "when"
+      ],
+      "usageExamples": [
+        [
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Come ti sei sentita quando è successo?",
+          "How did you feel when that happened?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volevo che Tom mi dicesse come farlo.",
+          "I wanted Tom to tell me how to do that.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/969.json
         ]
       ]
     },
@@ -52,11 +115,12 @@
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Tom si è divertito.",
+          "Tom had some fun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1048.json
           "Tom non si fida degli estranei.",
           "Tom doesn't trust strangers.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -75,11 +139,50 @@
         [
           "Questo è un test?",
           "Is this a test?",
+=======
+          "Tom si è addolcito.",
+          "Tom relented.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/969.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sente",
+      "translations": [
+        "to feel",
+        "to sense",
+        "to perceive",
+        "to hear"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1048.json
           "Tom è ovviamente arrabbiato.",
           "Tom is obviously angry.",
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary è un membro di una gang, vero?",
+          "Mary is a gang member, isn't she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/969.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -90,17 +193,52 @@
       ]
     },
     {
-      "content": "divertito",
+      "content": "a",
       "translations": [
-        "entertained",
-        "amused",
-        "enjoyed",
-        "delighted"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Tom disse che era divertito.",
-          "Tom said that he was amused.",
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "riguardo",
+      "translations": [
+        "regarding",
+        "concerning",
+        "in relation to",
+        "about"
+      ],
+      "usageExamples": [
+        [
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ho obiezioni a riguardo.",
+          "I don't have any objection to that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa può dirci riguardo a questo dipinto?",
+          "What can you tell us about this painting?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

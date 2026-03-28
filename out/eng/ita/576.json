@@ -1,16 +1,17 @@
 {
-  "sentence": "Le due famiglie hanno legami familiari stretti.",
+  "sentence": "Lascia il mais sul tavolo.",
   "credits": [
-    "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by tieguy (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The two families have very close ties."
+    "Leave the corn on the table."
   ],
   "parts": [
     {
-      "content": "Le",
+      "content": "Lascia",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/576.json
         "The",
         "It",
         "Them",
@@ -107,26 +108,82 @@
         "ties",
         "connections",
         "links"
+=======
+        "Leave",
+        "Let go",
+        "Allow",
+        "Leave behind"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/497.json
       ],
       "usageExamples": []
     },
     {
-      "content": "familiari",
+      "content": "il",
       "translations": [
-        "relatives",
-        "family members",
-        "kin",
-        "relations"
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mais",
+      "translations": [
+        "corn",
+        "maize"
       ],
       "usageExamples": []
     },
     {
-      "content": "stretti",
+      "content": "sul",
       "translations": [
-        "tight",
-        "narrow",
-        "close",
-        "restricted"
+        "on",
+        "upon",
+        "over",
+        "above"
+      ],
+      "usageExamples": [
+        [
+          "A Ken piace sul serio Tom.",
+          "Ken does like Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno perso la guerra sul fronte orientale.",
+          "They lost the war on the eastern front.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
+          "He threw his dirty, smelly socks on the floor.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tavolo",
+      "translations": [
+        "table",
+        "desk",
+        "dining table",
+        "work table"
       ],
       "usageExamples": []
     }

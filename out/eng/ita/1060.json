@@ -1,11 +1,12 @@
 {
-  "sentence": "Tom voleva che questa fosse una sorpresa.",
+  "sentence": "Tom sta gemendo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom wanted this to be a surprise."
+    "Tom is groaning.",
+    "Tom is whining."
   ],
   "parts": [
     {
@@ -16,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1060.json
           "Intimidisci Tom.",
           "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,39 +30,64 @@
         [
           "A Ken mancava Tom.",
           "Ken missed Tom.",
+=======
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom vende funghi psichedelici.",
+          "Tom sells psychedelic mushrooms.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/981.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "voleva",
+      "content": "sta",
       "translations": [
-        "wanted",
-        "was wanting",
-        "desired",
-        "wished"
+        "is",
+        "stands",
+        "is located",
+        "exists"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1060.json
           "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
           "Tom didn't want me to tell you this, but he just lost his job.",
+=======
+          "Li sta confondendo.",
+          "You're confusing them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/981.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom voleva dire di no.",
-          "Tom wanted to say no.",
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1060.json
           "Mary ha detto che voleva comprare qualcosa di più economico.",
           "Mary said she wanted to buy something cheaper.",
+=======
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/981.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "gemendo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1060.json
         "that",
         "which",
         "who",
@@ -169,6 +196,12 @@
         "unexpected event",
         "astonishment",
         "shock"
+=======
+        "groaning",
+        "moaning",
+        "sighing",
+        "lamenting"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/981.json
       ],
       "usageExamples": []
     }

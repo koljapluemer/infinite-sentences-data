@@ -1,11 +1,11 @@
 {
-  "sentence": "A Ken piace sul serio Tom.",
+  "sentence": "A Ken piace andare in campeggio.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ken does like Tom."
+    "Ken likes camping."
   ],
   "parts": [
     {
@@ -17,19 +17,19 @@
       ],
       "usageExamples": [
         [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "A Fadil piaceva sciare.",
           "Fadil liked to ski.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
-        ],
-        [
-          "A quale proposito?",
-          "For what purpose?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -52,8 +52,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Ken piace andare in campeggio.",
-          "Ken likes camping.",
+          "A Ken piace sul serio Tom.",
+          "Ken does like Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -67,49 +67,74 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/91.json
           "A Judy piace.",
           "Judy likes him.",
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/66.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Judy piace lui.",
           "Judy likes him.",
+<<<<<<< HEAD:out/eng/ita/91.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/66.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sul",
+      "content": "andare",
       "translations": [
-        "on",
-        "upon",
-        "over",
-        "above"
+        "to go",
+        "to walk",
+        "to move",
+        "to travel"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/91.json
           "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
           "He threw his dirty, smelly socks on the floor.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/66.json
         ],
         [
-          "Tom sta contando sul tuo aiuto.",
-          "Tom is counting on your help.",
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/91.json
           "Hanno perso la guerra sul fronte orientale.",
           "They lost the war on the eastern front.",
+=======
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/66.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/91.json
       "content": "serio",
       "translations": [
         "seriously",
@@ -121,12 +146,17 @@
     },
     {
       "content": "Tom",
+=======
+      "content": "in",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/66.json
       "translations": [
-        "Thomas",
-        "Tommy"
+        "inside",
+        "within",
+        "into"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/91.json
           "Quanti anni hai, Tom?",
           "How old are you, Tom?",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
@@ -140,8 +170,32 @@
           "Tom amerà abitare qua.",
           "Tom will love living here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/66.json
         ]
       ]
+    },
+    {
+      "content": "campeggio",
+      "translations": [
+        "camping",
+        "campsite",
+        "campground"
+      ],
+      "usageExamples": []
     }
   ]
 }

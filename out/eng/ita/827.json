@@ -1,11 +1,11 @@
 {
-  "sentence": "Perché ti serve un coltello?",
+  "sentence": "Perché qualcuno vorrebbe baciarvi?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why do you need a knife?"
+    "Why would anyone want to kiss you?"
   ],
   "parts": [
     {
@@ -18,13 +18,26 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/827.json
           "Perché non la cercate?",
           "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/748.json
           "Perché non ha corso?",
           "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/827.json
+          "Perché sono qui?",
+          "Why am I here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+=======
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,20 +48,43 @@
       ]
     },
     {
-      "content": "ti",
+      "content": "qualcuno",
       "translations": [
-        "you",
-        "yourself",
-        "to you",
-        "for you"
+        "someone",
+        "somebody",
+        "anyone",
+        "anybody"
       ],
       "usageExamples": [
         [
-          "Noi ti amiamo entrambi.",
-          "We both love you.",
+          "Voi conoscete qualcuno che possa aiutare?",
+          "Do you know someone who can help?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Tom vuole che qualcuno lo aiuti.",
+          "Tom wants somebody to help him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/748.json
+        ]
+      ]
+    },
+    {
+      "content": "vorrebbe",
+      "translations": [
+        "would like",
+        "wants",
+        "would want",
+        "is hoping for"
+      ],
+      "usageExamples": [
+        [
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/827.json
           "Quanto spesso ti viene a trovare Tom?",
           "How often does Tom visit you?",
           "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
@@ -56,18 +92,28 @@
         [
           "Penso che Tom ti chiederà di sposarlo.",
           "I think Tom will ask you to marry him.",
+=======
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+          "Mary said she'd like to borrow a few books.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/748.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "serve",
+      "content": "baciarvi",
       "translations": [
-        "to serve",
-        "to be of use",
-        "to assist",
-        "to provide"
+        "to kiss you",
+        "kissing you",
+        "to give you a kiss",
+        "kiss you"
       ],
+<<<<<<< HEAD:out/eng/ita/827.json
       "usageExamples": [
         [
           "A Cuba serve Internet per le esportazioni.",
@@ -121,6 +167,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/748.json
     }
   ]
 }

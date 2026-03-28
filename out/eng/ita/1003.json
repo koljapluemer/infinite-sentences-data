@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom e Mary studiano il francese ogni sera per trenta minuti.",
+  "sentence": "Tom disse che era divertito.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom and Mary study French every evening for thirty minutes."
+    "Tom said that he was amused."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1003.json
           "Tom sta lavorando, vero?",
           "Tom is working, isn't he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,81 +29,102 @@
         [
           "Tom è un esperto.",
           "Tom is a pro.",
+=======
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/924.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "e",
+      "content": "disse",
       "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "said",
+        "told",
+        "stated",
+        "declared"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1003.json
           "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
           "I understand that you and Tom are planning to get married.",
+=======
+          "Tom disse che aveva nostalgia di casa.",
+          "Tom said that he was homesick.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/924.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io spero che Tom e Mary siano qui.",
-          "I hope Tom and Mary are here.",
+          "Tom disse che sembravo infastidito.",
+          "Tom said that I looked annoyed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1003.json
           "Perché non lo scorda e basta?",
           "Why don't you just forget it?",
+=======
+          "Mary disse che era offesa.",
+          "Mary said that she was offended.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/924.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Mary",
+      "content": "che",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1003.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/924.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "studiano",
+      "content": "era",
       "translations": [
-        "they study",
-        "you (plural) study",
-        "studying",
-        "are studying"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1003.json
           "Avete il nostro rispetto.",
           "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -115,25 +137,40 @@
         [
           "Mi piace il reggae.",
           "I like reggae.",
+=======
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/924.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "francese",
+      "content": "divertito",
       "translations": [
-        "French",
-        "French language",
-        "French person",
-        "French cuisine"
+        "entertained",
+        "amused",
+        "enjoyed",
+        "delighted"
       ],
       "usageExamples": [
         [
-          "Tom tradusse il contratto in francese.",
-          "Tom translated the contract into French.",
+          "Tom si è divertito.",
+          "Tom had fun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+<<<<<<< HEAD:out/eng/ita/1003.json
     },
     {
       "content": "ogni",
@@ -221,6 +258,8 @@
         "minute"
       ],
       "usageExamples": []
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/924.json
     }
   ]
 }

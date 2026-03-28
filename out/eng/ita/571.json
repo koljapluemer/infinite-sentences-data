@@ -1,41 +1,24 @@
 {
-  "sentence": "Lasciate finire Tom.",
+  "sentence": "La sua pressione sanguigna è alta?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let Tom finish."
+    "Is your blood pressure high?"
   ],
   "parts": [
     {
-      "content": "Lasciate",
+      "content": "La",
       "translations": [
-        "Leave",
-        "Let go",
-        "Abandon",
-        "Allow"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "finire",
-      "translations": [
-        "to finish",
-        "to end",
-        "to complete",
-        "to conclude"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
+        "The",
+        "It",
+        "Her",
+        "Them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/571.json
           "Tom sta lavorando, vero?",
           "Tom is working, isn't he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -48,6 +31,108 @@
         [
           "Dovremmo avvertire Tom.",
           "We should warn Tom.",
+=======
+          "La dovete avvertire.",
+          "You've got to warn her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La ruppe.",
+          "He broke it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca sua figlia.",
+          "Mary misses her daughter.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva sua madre.",
+          "Mary didn't like her mother.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pressione",
+      "translations": [
+        "pressure",
+        "stress",
+        "tension",
+        "force per unit area"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sanguigna",
+      "translations": [
+        "blood-red",
+        "sanguine",
+        "red ochre",
+        "blood-like"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "alta",
+      "translations": [
+        "high",
+        "tall",
+        "elevated",
+        "lofty"
+      ],
+      "usageExamples": [
+        [
+          "Lui ha letto la poesia ad alta voce.",
+          "He read the poem with a loud voice.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/492.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

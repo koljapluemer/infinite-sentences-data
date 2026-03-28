@@ -1,11 +1,11 @@
 {
-  "sentence": "Tu sei quello che ha chiesto a Tom di aiutare?",
+  "sentence": "Tu devi essere onesta con noi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are you the one who asked Tom to help?"
+    "You need to be honest with us."
   ],
   "parts": [
     {
@@ -22,6 +22,7 @@
           "Did you order something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+<<<<<<< HEAD:out/eng/ita/1083.json
         [
           "Tu comprendi quel libro.",
           "You understand that book.",
@@ -43,12 +44,15 @@
         "be"
       ],
       "usageExamples": [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1004.json
         [
           "Tu sei sposata?",
           "Are you married?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1083.json
           "O Romeo Romeo, perché sei tu Romeo?",
           "O Romeo Romeo, wherefore art thou Romeo?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,20 +60,25 @@
         [
           "Tu non sei un barbiere, vero?",
           "You're not a barber, are you?",
+=======
+          "Tu comprendi quel libro.",
+          "You understand that book.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1004.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quello",
+      "content": "devi",
       "translations": [
-        "that",
-        "the one",
-        "those",
-        "the"
+        "you must",
+        "you have to",
+        "you need to",
+        "you are supposed to"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1083.json
           "È quello che sono.",
           "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -82,27 +91,41 @@
         [
           "A volte, un po' di orgoglio è quello che ci serve.",
           "Sometimes, a little bit of pride is what we need.",
+=======
+          "Mi devi aiutare a salvarle.",
+          "You must help me save them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1004.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "essere",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "to be",
+        "to exist",
+        "to occur",
+        "to happen"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1083.json
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
+=======
+          "Deve essere difficile.",
+          "That must be hard.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "A Layla non piace essere ignorata.",
+          "Layla doesn't like to be ignored.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1004.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom cercava di non essere irritato.",
+          "Tom tried not to be irritated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -113,16 +136,22 @@
       ]
     },
     {
-      "content": "ha",
+      "content": "onesta",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "honest",
+        "fair",
+        "upright",
+        "respectable"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1083.json
           "Nessuno ha capito nulla.",
           "No one understood anything.",
+=======
+          "Io sono stata onesta con lui.",
+          "I have been honest with him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1004.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -138,35 +167,46 @@
       ]
     },
     {
-      "content": "chiesto",
+      "content": "con",
       "translations": [
-        "asked",
-        "requested",
-        "inquired",
-        "demanded"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
-          "Tom aveva sete e ha chiesto un po' d'acqua.",
-          "Tom was thirsty and asked for some water.",
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "a",
+      "content": "noi",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "we",
+        "us",
+        "ourselves"
       ],
       "usageExamples": [
         [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1083.json
           "Volate fino a Londra.",
           "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -250,6 +290,15 @@
         [
           "Dovresti aiutare Tom.",
           "You should help Tom.",
+=======
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Venite a pranzare con noi.",
+          "Come to lunch with us.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1004.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

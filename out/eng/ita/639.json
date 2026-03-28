@@ -1,16 +1,17 @@
 {
-  "sentence": "Mary ha aspettato che Tom la chiamasse.",
+  "sentence": "Mangia finché è caldo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary has been waiting for Tom to call her."
+    "Eat while it's warm."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Mangia",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/639.json
         "Maria",
         "Miriam",
         "Marie"
@@ -65,19 +66,26 @@
         "expected",
         "anticipated",
         "looked forward to"
+=======
+        "Eat",
+        "Consume",
+        "Devour",
+        "Ingest"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/560.json
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "finché",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "as long as",
+        "until",
+        "provided that",
+        "so long as"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/639.json
           "Disse che lo amava.",
           "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -90,20 +98,41 @@
         [
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
+=======
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/560.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "è",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/639.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
+=======
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/560.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -119,8 +148,9 @@
       ]
     },
     {
-      "content": "la",
+      "content": "caldo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/639.json
         "the",
         "that",
         "which",
@@ -150,6 +180,12 @@
         "he/she/it would call",
         "he/she/it might call",
         "he/she/it was calling"
+=======
+        "hot",
+        "warm",
+        "heated",
+        "spicy"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/560.json
       ],
       "usageExamples": []
     }

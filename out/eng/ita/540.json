@@ -1,33 +1,34 @@
 {
-  "sentence": "L'insegnante è entrato in ritardo.",
+  "sentence": "L'avversario più importante del Giappone era la Cina.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The teacher came in late."
+    "Japan's most important opponent was China."
   ],
   "parts": [
     {
-      "content": "L'insegnante",
+      "content": "L'avversario",
       "translations": [
-        "The teacher",
-        "The instructor",
-        "The educator",
-        "The lecturer"
+        "the opponent",
+        "the adversary",
+        "the rival",
+        "the competitor"
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "più",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "more",
+        "plus",
+        "greater",
+        "further"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/540.json
           "Tom è un esperto.",
           "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,29 +41,35 @@
         [
           "Il libro è arrivato.",
           "The book came.",
+=======
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Studiate più duramente.",
+          "Study harder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È anche più economico.",
+          "It's also cheaper.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/461.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "entrato",
+      "content": "importante",
       "translations": [
-        "entered",
-        "came in",
-        "got in",
-        "arrived"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "inside",
-        "within",
-        "into"
+        "important",
+        "significant",
+        "crucial",
+        "essential"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/540.json
           "Noi siamo in Finlandia.",
           "We are in Finland.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -70,6 +77,15 @@
         [
           "Tutti erano in ansia.",
           "Everyone was apprehensive.",
+=======
+          "Ciò che si fa è più importante di ciò che si dice.",
+          "What you do is more important than what you say.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La nuova legge è stata una riforma importante.",
+          "The new law was a major reform.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/461.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -80,17 +96,120 @@
       ]
     },
     {
-      "content": "ritardo",
+      "content": "del",
       "translations": [
-        "delay",
-        "lateness",
-        "hold-up",
-        "setback"
+        "of the",
+        "from the",
+        "about the",
+        "by the"
       ],
       "usageExamples": [
         [
-          "Era in ritardo.",
-          "He was late.",
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La cosa migliore del Giappone sono i suoi videogiochi.",
+          "The best thing about Japan is its video games.",
+          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Giappone",
+      "translations": [
+        "Japan",
+        "The Land of the Rising Sun",
+        "Nippon",
+        "Japanese Archipelago"
+      ],
+      "usageExamples": [
+        [
+          "La cosa migliore del Giappone sono i suoi videogiochi.",
+          "The best thing about Japan is its video games.",
+          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Marika è piaciuto il suo viaggio in Giappone?",
+          "Did Marika like her trip to Japan?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È la stagione delle piogge in Giappone in questo momento.",
+          "It's the rainy season in Japan right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "era",
+      "translations": [
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
+      ],
+      "usageExamples": [
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Cina",
+      "translations": [
+        "China",
+        "Chinese",
+        "Cina (as in the country)"
+      ],
+      "usageExamples": [
+        [
+          "L'ho usata quando ero in Cina la scorsa estate.",
+          "I used it when I was in China last summer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

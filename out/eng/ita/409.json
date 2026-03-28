@@ -1,28 +1,38 @@
 {
-  "sentence": "Ho bisogno di parlarti stanotte.",
+  "sentence": "Heraklion è il capoluogo dell'isola di Creta.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I need to talk to you tonight."
+    "Heraklion is the capital of the island of Crete."
   ],
   "parts": [
     {
-      "content": "Ho",
+      "content": "Heraklion",
       "translations": [
-        "I have",
-        "I possess",
-        "I hold",
-        "I own"
+        "Iraklion",
+        "Heraclion",
+        "Herakleion"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Ho abbastanza amici.",
-          "I have enough friends.",
+          "Tom è famoso.",
+          "Tom is famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/409.json
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,20 +40,30 @@
         [
           "Ho iniziato dal fondo.",
           "I started at the bottom.",
+=======
+          "Tom si è divertito.",
+          "Tom had a good time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/330.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bisogno",
+      "content": "il",
       "translations": [
-        "need",
-        "requirement",
-        "necessity",
-        "desire"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/409.json
           "Tom ha bisogno di una mano.",
           "Tom needs a hand.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -51,14 +71,52 @@
         [
           "Hai bisogno di una tastiera nuova?",
           "Do you need a new keyboard?",
+=======
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vorrei che capissero il mio bisogno di pace.",
-          "I wish they would understand my need for peace.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Mi piace il reggae.",
+          "I like reggae.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/330.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "capoluogo",
+      "translations": [
+        "capital city",
+        "provincial capital",
+        "main town",
+        "administrative center"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dell'",
+      "translations": [
+        "of the",
+        "from the",
+        "of",
+        "from"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "isola",
+      "translations": [
+        "island",
+        "isle",
+        "islet"
+      ],
+      "usageExamples": []
     },
     {
       "content": "di",
@@ -70,6 +128,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/409.json
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
@@ -77,31 +136,34 @@
         [
           "Può fare di meglio.",
           "You can do better.",
+=======
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/330.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/409.json
+=======
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/330.json
         ]
       ]
     },
     {
-      "content": "parlarti",
+      "content": "Creta",
       "translations": [
-        "to talk to you",
-        "to speak with you",
-        "to chat with you",
-        "to converse with you"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "stanotte",
-      "translations": [
-        "tonight",
-        "this night",
-        "tonight's"
+        "Clay",
+        "Chalk",
+        "Putty",
+        "Ceramic material"
       ],
       "usageExamples": []
     }

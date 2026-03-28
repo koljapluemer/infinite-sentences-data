@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho passato tutta la mattina a pulire la mia camera.",
+  "sentence": "Ho bisogno di parlarti stanotte.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by thorin (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've spent the entire morning cleaning my room."
+    "I need to talk to you tonight."
   ],
   "parts": [
     {
@@ -23,8 +23,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho iniziato dal fondo.",
-          "I started at the bottom.",
+          "Ho abbastanza amici.",
+          "I have enough friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,52 +35,42 @@
       ]
     },
     {
-      "content": "passato",
+      "content": "bisogno",
       "translations": [
-        "past",
-        "passed",
-        "gone by",
-        "previous"
+        "need",
+        "requirement",
+        "necessity",
+        "desire"
       ],
       "usageExamples": [
         [
-          "Tom ha passato la sua infanzia a Boston.",
-          "Tom spent his childhood in Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tutta",
-      "translations": [
-        "all",
-        "whole",
-        "entire",
-        "complete"
-      ],
-      "usageExamples": [
-        [
-          "Cosa ti fa andare il cuore a tutta velocità?",
-          "What makes your heart race?",
+          "Vorrei che capissero il mio bisogno di pace.",
+          "I wish they would understand my need for peace.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ],
         [
-          "100 euro per tutta la giornata.",
-          "100 euros for the whole day.",
+          "Tom ha bisogno di una mano.",
+          "Tom needs a hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "di",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/415.json
           "Apri la cassaforte.",
           "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -93,18 +83,33 @@
         [
           "Prendi la mia.",
           "Take mine.",
+=======
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/336.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mattina",
+      "content": "parlarti",
       "translations": [
-        "morning",
-        "morn",
-        "AM",
-        "daybreak"
+        "to talk to you",
+        "to speak with you",
+        "to chat with you",
+        "to converse with you"
       ],
+<<<<<<< HEAD:out/eng/ita/415.json
       "usageExamples": [
         [
           "Questa mattina Tatoeba non sta funzionando molto bene.",
@@ -117,14 +122,18 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/336.json
     },
     {
-      "content": "a",
+      "content": "stanotte",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "tonight",
+        "this night",
+        "tonight's"
       ],
+<<<<<<< HEAD:out/eng/ita/415.json
       "usageExamples": [
         [
           "Devo andare a trovarli.",
@@ -203,6 +212,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/336.json
     }
   ]
 }

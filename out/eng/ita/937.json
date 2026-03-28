@@ -1,28 +1,40 @@
 {
-  "sentence": "Siete senza speranza.",
+  "sentence": "Siamo tutte delle codarde.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're hopeless."
+    "We're all cowards."
   ],
   "parts": [
     {
-      "content": "Siete",
+      "content": "siamo",
       "translations": [
-        "Seven",
-        "7"
+        "we are",
+        "let's be",
+        "we're",
+        "we exist"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/937.json
           "Siete soli.",
           "You are alone.",
+=======
+          "Non siamo sposati.",
+          "We're not married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Siete così impazienti.",
-          "You're so impatient.",
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/858.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non siamo ancora molto affamati.",
+          "We aren't very hungry yet.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -33,22 +45,27 @@
       ]
     },
     {
-      "content": "senza",
+      "content": "tutte",
       "translations": [
-        "without",
-        "lacking",
-        "absent",
-        "devoid of"
+        "all",
+        "everyone",
+        "everything",
+        "everybody"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/937.json
           "Le sue parole mi resero senza parole.",
           "His words rendered me speechless.",
+=======
+          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
+          "Tom should've closed all his windows.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/858.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi cosa faremmo senza di lui?",
-          "What would we do without him?",
+          "Non capisco perché non tutte le ragazze sono lesbiche.",
+          "I don't get why girls aren't all lesbians.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -59,20 +76,40 @@
       ]
     },
     {
-      "content": "speranza",
+      "content": "delle",
       "translations": [
-        "hope",
-        "expectation",
-        "aspiration",
-        "promise"
+        "of the",
+        "some",
+        "of them",
+        "from the"
       ],
       "usageExamples": [
         [
-          "Cercherò di addormentarmi con la speranza di sognarti.",
-          "I'll try to fall asleep with the hope of dreaming of you.",
+          "A Dan non piace il colore delle pareti.",
+          "Dan doesn't like the color of the walls.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho detto delle cose così orribili. Mi dispiace.",
+          "I said such horrible things to you. I'm sorry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È la stagione delle piogge in Giappone in questo momento.",
+          "It's the rainy season in Japan right now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "codarde",
+      "translations": [
+        "coward",
+        "chicken",
+        "scaredy-cat",
+        "timid person"
+      ],
+      "usageExamples": []
     }
   ]
 }

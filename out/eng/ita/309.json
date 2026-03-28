@@ -1,17 +1,17 @@
 {
-  "sentence": "Cosa capiterà a loro?",
+  "sentence": "Consigliai a Tom di farlo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What'll happen to them?",
-    "What's going to happen to them?"
+    "I advised Tom to do that."
   ],
   "parts": [
     {
-      "content": "Cosa",
+      "content": "Consigliai",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/309.json
         "Thing",
         "Item",
         "Object",
@@ -42,6 +42,12 @@
         "it will occur",
         "it will take place",
         "it will come to pass"
+=======
+        "I advised",
+        "I recommended",
+        "I suggested",
+        "I counseled"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/230.json
       ],
       "usageExamples": []
     },
@@ -64,22 +70,26 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/309.json
           "Sei stata a Parigi?",
           "Have you been to Paris?",
+=======
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/230.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "loro",
+      "content": "Tom",
       "translations": [
-        "their",
-        "theirs",
-        "them",
-        "those"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/309.json
           "Non vi dimenticate di loro.",
           "Don't forget them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -93,6 +103,73 @@
           "Perché non avete detto questo a loro?",
           "Why didn't you tell them this?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "farlo",
+      "translations": [
+        "to do it",
+        "to make it",
+        "to get it done",
+        "to accomplish it"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi non possiamo farlo ora.",
+          "We can't do it now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/230.json
         ]
       ]
     }

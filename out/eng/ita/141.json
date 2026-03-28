@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary mancano sua madre e suo padre.",
+  "sentence": "A Mary manca sua figlia.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary misses her mother and father."
+    "Mary misses her daughter."
   ],
   "parts": [
     {
@@ -17,18 +17,32 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/141.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Judy piace lui.",
-          "Judy likes him.",
+=======
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Judy piace.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/109.json
           "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/141.json
+          "A Judy piace.",
+          "Judy likes him.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/109.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,11 +56,46 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/141.json
+=======
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva ciò che ha visto.",
+          "Mary didn't like what she saw.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "manca",
+      "translations": [
+        "missing",
+        "lacking",
+        "absent",
+        "deficient"
+      ],
+      "usageExamples": [
+        [
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/109.json
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/141.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -75,6 +124,10 @@
         [
           "A Mary mancano i suoi genitori.",
           "Mary misses her parents.",
+=======
+          "A Carlos manca il couscous di Melissa.",
+          "Carlos misses Melissa's couscous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/109.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -94,6 +147,7 @@
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/141.json
           "È intelligente quanto sua sorella.",
           "He's as smart as his sister.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,20 +155,30 @@
         [
           "Ha a malapena toccato la sua cena.",
           "He barely touched his dinner.",
+=======
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary deve mancare la sua famiglia.",
+          "Mary must miss her family.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/109.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "madre",
+      "content": "figlia",
       "translations": [
-        "mother",
-        "mom",
-        "mum",
-        "mama"
+        "daughter",
+        "girl",
+        "female child",
+        "offspring"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/141.json
           "Amo molto mia madre.",
           "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -205,6 +269,10 @@
         [
           "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
           "He moved to Madrid to take the reins of his father's business.",
+=======
+          "La figlia di uno zio è una cugina.",
+          "The daughter of an uncle is a cousin.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/109.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

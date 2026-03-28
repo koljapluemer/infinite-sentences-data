@@ -1,32 +1,23 @@
 {
-  "sentence": "Fa male! Smettila!",
+  "sentence": "Era una corsa contro il tempo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by trieuho (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That hurts! Stop it!"
+    "It was a race against time."
   ],
   "parts": [
     {
-      "content": "Fa",
+      "content": "Era",
       "translations": [
-        "Do",
-        "Make",
-        "Perform",
-        "Create"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "male",
-      "translations": [
-        "man",
-        "masculine",
-        "boy"
+        "Period",
+        "Age",
+        "Epoch"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/356.json
           "A Heather fanno male i denti.",
           "Heather has a toothache.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -34,24 +25,131 @@
         [
           "Tutto il nostro cibo è andato a male.",
           "All our food was spoiled.",
+=======
+          "Era sposato con lei.",
+          "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non gli feci mai del male.",
-          "I never harmed him.",
+          "Era eccellente.",
+          "You were excellent.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/277.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Smettila",
+      "content": "una",
       "translations": [
-        "Stop it.",
-        "Quit it",
-        "Cut it out",
-        "Knock it off"
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Noi terremo una festa.",
+          "We'll have a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una giornata nuvolosa.",
+          "It's a cloudy day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scriva una risposta.",
+          "Write an answer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "corsa",
+      "translations": [
+        "run",
+        "race",
+        "course",
+        "journey"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "contro",
+      "translations": [
+        "against",
+        "opposed to",
+        "in contrast to",
+        "counter"
+      ],
+      "usageExamples": [
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha gridato contro il suo computer.",
+          "She yelled at her computer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tempo",
+      "translations": [
+        "time",
+        "weather",
+        "period"
+      ],
+      "usageExamples": [
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
+          "Only time will tell what the world has in store for us.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto tempo ci è voluto per tradurre questo libro?",
+          "How long did it take us to translate this book?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

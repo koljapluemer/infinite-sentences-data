@@ -1,18 +1,18 @@
 {
-  "sentence": "Questo portatile è molto sottile.",
+  "sentence": "Queste scatole sono fatte di plastica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by halfdan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This laptop computer is very thin.",
-    "This laptop is very thin."
+    "These boxes are made of plastic.",
+    "These boxes are made out of plastic."
   ],
   "parts": [
     {
-      "content": "Questo",
+      "content": "Queste",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/881.json
         "This",
         "This one",
         "This thing",
@@ -43,19 +43,36 @@
         "laptop",
         "mobile device",
         "handheld"
+=======
+        "These",
+        "These ones",
+        "These items",
+        "These things"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/802.json
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "scatole",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "boxes",
+        "containers",
+        "cases",
+        "packaging"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/881.json
           "Tom è un fan.",
           "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -68,43 +85,72 @@
         [
           "Ti è piaciuto Tom?",
           "Did you like Tom?",
+=======
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si sono sposati.",
+          "They got married.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/802.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molto",
+      "content": "fatte",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "made",
+        "done",
+        "performed",
+        "accomplished"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
+          "Può fare di meglio.",
+          "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/881.json
           "Si contraddicono molto.",
           "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/802.json
         ],
         [
-          "Vi manca molto, vero?",
-          "You miss her a lot, don't you?",
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sottile",
+      "content": "plastica",
       "translations": [
-        "thin",
-        "slim",
-        "subtle",
-        "fine"
+        "plastic",
+        "plastic material",
+        "synthetic polymer"
       ],
       "usageExamples": []
     }

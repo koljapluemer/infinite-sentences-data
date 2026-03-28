@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho trascorso là una settimana di ozio.",
+  "sentence": "Ho letto un fumetto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sundown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I spent an idle week there."
+    "I read a comic book."
   ],
   "parts": [
     {
@@ -23,8 +23,18 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/420.json
           "Ho letto un fumetto.",
           "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+=======
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/341.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,70 +45,60 @@
       ]
     },
     {
-      "content": "trascorso",
+      "content": "letto",
       "translations": [
-        "elapsed",
-        "spent",
-        "passed",
-        "gone by"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "là",
-      "translations": [
-        "there",
-        "here",
-        "in that place",
-        "at that location"
+        "bed",
+        "bedding",
+        "to bed",
+        "bed frame"
       ],
       "usageExamples": [
         [
-          "Cos'è quella cosa là?",
-          "What's that thing there?",
+          "Lui ha letto la poesia ad alta voce.",
+          "He read the poem with a loud voice.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non le vogliamo là.",
-          "We don't want them there.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Di tutti là, parlai meno.",
-          "Out of everyone there, I spoke the least.",
+          "Tom ha la sua propria camera da letto.",
+          "Tom has his own bedroom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "un",
       "translations": [
         "one",
         "a",
-        "an",
-        "a single"
+        "an"
       ],
       "usageExamples": [
         [
-          "Vorrei una camera.",
-          "I would like a room.",
+          "Sei un testimone.",
+          "You are a witness.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono una buona persona.",
-          "I'm a good person.",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+          "Beviamo un'altra birra.",
+          "Let's have another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/420.json
           "È una maledizione.",
           "It is a curse.",
+=======
+          "Era un libro nuovo.",
+          "It was a new book.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/341.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "settimana",
+      "content": "fumetto",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/420.json
         "week",
         "seven days",
         "weekly period",
@@ -150,6 +150,12 @@
         "idleness",
         "free time",
         "relaxation"
+=======
+        "comic",
+        "comic strip",
+        "cartoon",
+        "graphic novel"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/341.json
       ],
       "usageExamples": []
     }

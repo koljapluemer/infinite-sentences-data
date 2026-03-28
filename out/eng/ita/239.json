@@ -1,37 +1,28 @@
 {
-  "sentence": "Accendiamo qualche candela.",
+  "sentence": "A volte Mary lo fa e a volte non lo fa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's light some candles."
+    "Sometimes Mary does that and sometimes she doesn't."
   ],
   "parts": [
     {
-      "content": "Accendiamo",
+      "content": "A",
       "translations": [
-        "Let's light up",
-        "Let's turn on",
-        "Let's ignite"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "qualche",
-      "translations": [
-        "some",
-        "a few",
-        "several",
-        "a couple of"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Io ho qualche idea per te.",
-          "I have a few ideas for you.",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/239.json
           "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
           "Mary said she'd like to borrow a few books.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -39,19 +30,199 @@
         [
           "Tom ha qualche problema psicologico.",
           "Tom has some psychological issues.",
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/160.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "candela",
+      "content": "volte",
       "translations": [
-        "candle",
-        "light",
-        "torch",
-        "luminary"
+        "turns",
+        "times",
+        "revolutions",
+        "cycles"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A volte, un po' di orgoglio è quello che ci serve.",
+          "Sometimes, a little bit of pride is what we need.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom fa un bagno almeno tre volte a settimana.",
+          "Tom takes a bath at least three times a week.",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lessi la storia tre volte.",
+          "I read the story three times.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A MAry non piace parlare di se stessa.",
+          "Mary doesn't like talking about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lo",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Beh, sicuramente lo richiederò.",
+          "Well, I'll surely ask again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fa",
+      "translations": [
+        "do",
+        "make",
+        "perform",
+        "act"
+      ],
+      "usageExamples": [
+        [
+          "Mi fa piacere che le piaccia.",
+          "I'm glad you like him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciò che si fa è più importante di ciò che si dice.",
+          "What you do is more important than what you say.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "4 per 4 fa 16",
+          "4 times 4 is 16.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "e",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition"
+      ],
+      "usageExamples": [
+        [
+          "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
+          "He threw his dirty, smelly socks on the floor.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le scarpe che diedi a Tom e Mary erano troppo piccole per loro.",
+          "The shoes I gave Tom and Mary were too small for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Guardai John e Mary camminare mano nella mano.",
+          "I watched John and Mary walking hand in hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

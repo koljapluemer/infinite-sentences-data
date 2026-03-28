@@ -1,22 +1,43 @@
 {
-  "sentence": "Era in ritardo.",
+  "sentence": "Dovreste provare a vivere con le vostre capacità.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He was late."
+    "You should try to live within your means."
   ],
   "parts": [
     {
-      "content": "Era",
+      "content": "Dovreste",
       "translations": [
-        "Period",
-        "Age",
-        "Epoch"
+        "You should",
+        "You ought to",
+        "You must",
+        "You are supposed to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "provare",
+      "translations": [
+        "to try",
+        "to test",
+        "to prove",
+        "to attempt"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/346.json
           "Era eccellente.",
           "You were excellent.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,24 +45,35 @@
         [
           "Era occupato ieri?",
           "Were you busy yesterday?",
+=======
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era sposato con lei.",
-          "He used to be married to her.",
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/267.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "in",
+      "content": "vivere",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "to live",
+        "to exist",
+        "to be alive",
+        "to experience life"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/346.json
           "Viviamo in campagna adesso.",
           "We live in the country now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,25 +86,100 @@
         [
           "È stata in piedi?",
           "Did you stand up?",
+=======
+          "Odio tornare da lui. Voglio vivere con voi.",
+          "I hate going back to him. I want to live with you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non dispiaceva vivere da sola.",
+          "Mary didn't mind living by herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom dice di non voler più vivere così.",
+          "Tom says he doesn't want to live like this anymore.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/267.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ritardo",
+      "content": "con",
       "translations": [
-        "delay",
-        "lateness",
-        "hold-up",
-        "setback"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
-          "L'insegnante è entrato in ritardo.",
-          "The teacher came in late.",
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono fidanzata con lei.",
+          "I'm engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
+      ],
+      "usageExamples": [
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano le sue amiche.",
+          "Mary missed her friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vostre",
+      "translations": [
+        "your (plural)",
+        "yours (plural)",
+        "of yours (plural)"
+      ],
+      "usageExamples": [
+        [
+          "Tirate fuori i vostri quaderni e le vostre penne.",
+          "Get out your notebooks and pens.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "capacità",
+      "translations": [
+        "capacity",
+        "ability",
+        "capability",
+        "competence"
+      ],
+      "usageExamples": []
     }
   ]
 }

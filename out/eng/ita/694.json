@@ -1,23 +1,24 @@
 {
-  "sentence": "Noi siamo in Finlandia.",
+  "sentence": "Nessuno vi sostituirà.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We are in Finland."
+    "Nobody will ever replace you."
   ],
   "parts": [
     {
-      "content": "Noi",
+      "content": "Nessuno",
       "translations": [
-        "We",
-        "Us",
-        "Ours",
-        "Our group"
+        "No one",
+        "Nobody",
+        "Not anyone",
+        "None"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/694.json
           "Noi abbiamo un ristorante.",
           "We have a restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,18 +26,54 @@
         [
           "Noi terremo una festa.",
           "We'll have a party.",
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi ti amiamo entrambi.",
-          "We both love you.",
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/615.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno qua balla bene come te.",
+          "Nobody here dances as well as you.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vi",
+      "translations": [
+        "way",
+        "road",
+        "path",
+        "route"
+      ],
+      "usageExamples": [
+        [
+          "So che Tom vi ha ferite.",
+          "I know that Tom hurt you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché vi state comportando in modo così strano?",
+          "Why are you acting so strange?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché vi state fermando adesso?",
+          "Why are you stopping now?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "siamo",
+      "content": "sostituirà",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/694.json
         "we are",
         "let's be",
         "we're",
@@ -91,6 +128,12 @@
         "Finland",
         "Finnish land",
         "Land of Finland"
+=======
+        "will replace",
+        "will substitute",
+        "will take the place of",
+        "will stand in for"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/615.json
       ],
       "usageExamples": []
     }

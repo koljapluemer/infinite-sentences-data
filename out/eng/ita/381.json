@@ -1,63 +1,98 @@
 {
-  "sentence": "Ha commesso un crimine dopo l'altro.",
+  "sentence": "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He committed one crime after another."
+    "The orphans were forced to work long hours without pay or food."
   ],
   "parts": [
     {
-      "content": "Ha",
+      "content": "Gli",
       "translations": [
-        "He has",
-        "There is",
-        "It has"
+        "the",
+        "them",
+        "those",
+        "the ones"
       ],
       "usageExamples": [
         [
-          "Ha perso qualcosa?",
-          "Have you lost something?",
+          "Gli uomini amano vantarsi.",
+          "Men love to brag.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/381.json
           "Ha perso la partita.",
           "You lost the game.",
+=======
+          "Gli importava.",
+          "He cared.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/302.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha ritrovato per caso la macchina fotografica che aveva perso.",
-          "He found his lost camera by chance.",
-          "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)"
+          "Gli amici entrano nelle nostre vite volontariamente.",
+          "Friends come into our lives voluntarily.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "commesso",
+      "content": "orfani",
       "translations": [
-        "clerk",
-        "salesperson",
-        "shop assistant",
-        "store attendant"
+        "orphans",
+        "children without parents",
+        "parentless children",
+        "youths without guardians"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "erano",
+      "translations": [
+        "they were",
+        "they used to be",
+        "they had been"
       ],
       "usageExamples": [
         [
-          "Un crimine è stato commesso.",
-          "A crime has been committed.",
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri e Rima erano nudi.",
+          "Ziri and Rima were naked.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "costretti",
       "translations": [
+        "forced",
+        "compelled",
+        "obliged",
+        "constrained"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
         "one",
-        "a",
-        "an"
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/381.json
           "Noi abbiamo un ristorante.",
           "We have a restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -70,41 +105,60 @@
         [
           "Questo è un test?",
           "Is this a test?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "crimine",
-      "translations": [
-        "crime",
-        "offense",
-        "felony",
-        "wrongdoing"
-      ],
-      "usageExamples": [
-        [
-          "Un crimine è stato commesso.",
-          "A crime has been committed.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dopo",
-      "translations": [
-        "after",
-        "later",
-        "following",
-        "subsequently"
-      ],
-      "usageExamples": [
-        [
-          "Studio inglese dopo cena.",
-          "I study English after dinner.",
+=======
+          "Volate fino a Londra.",
+          "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/302.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lavorare",
+      "translations": [
+        "to work",
+        "working",
+        "to labor",
+        "to operate"
+      ],
+      "usageExamples": [
+        [
+          "Ha ripreso a lavorare con fisioterapisti.",
+          "He went back to work with physiotherapists.",
+          "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace lavorare da sola.",
+          "Mary doesn't like to work by herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/381.json
           "Le mie gambe stanno migliorando giorno dopo giorno.",
           "My legs are getting better day by day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -112,22 +166,107 @@
         [
           "Tom decise di rinunciare ad andare in skateboard dopo il suo incidente.",
           "Tom decided to give up skateboarding after his accident.",
+=======
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/302.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "l'altro",
+      "content": "lunghe",
       "translations": [
-        "the other",
-        "the other one",
-        "the alternative",
-        "the different one"
+        "long",
+        "lengthy",
+        "tall",
+        "extended"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ore",
+      "translations": [
+        "hour",
+        "time",
+        "o'clock",
+        "period"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "senza",
+      "translations": [
+        "without",
+        "lacking",
+        "absent",
+        "devoid of"
       ],
       "usageExamples": [
         [
-          "Ci sono andata l'altro ieri.",
-          "I went there the day before yesterday.",
+          "Siete senza speranza.",
+          "You're hopeless.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le sue parole mi resero senza parole.",
+          "His words rendered me speechless.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi cosa faremmo senza di lui?",
+          "What would we do without him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "retribuzione",
+      "translations": [
+        "compensation",
+        "remuneration",
+        "payment",
+        "salary"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "né",
+      "translations": [
+        "neither",
+        "nor",
+        "not even",
+        "not at all"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "cibo",
+      "translations": [
+        "food",
+        "meal",
+        "nourishment",
+        "provisions"
+      ],
+      "usageExamples": [
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha comprato del cibo a Mary.",
+          "Tom bought some food for Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

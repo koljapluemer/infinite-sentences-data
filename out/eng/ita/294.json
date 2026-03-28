@@ -1,33 +1,34 @@
 {
-  "sentence": "Ciò che si fa è più importante di ciò che si dice.",
+  "sentence": "Chiese se era invitata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What you do is more important than what you say."
+    "She asked if she was invited."
   ],
   "parts": [
     {
-      "content": "Ciò",
+      "content": "Chiese",
       "translations": [
-        "This",
-        "That",
-        "It",
-        "Such"
+        "Churches",
+        "Places of worship",
+        "Chapels",
+        "Religious buildings"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "se",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/294.json
           "Sembra che sia seria.",
           "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,20 +41,35 @@
         [
           "È quello che sono.",
           "It's what I am.",
+=======
+          "Lei se ne vuole andare domani?",
+          "Do you want to leave tomorrow?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiamatemi se avete bisogno di assistenza.",
+          "Call me if you need assistance.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A MAry non piace parlare di se stessa.",
+          "Mary doesn't like talking about herself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/215.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "si",
+      "content": "era",
       "translations": [
-        "if",
-        "whether",
-        "in case",
-        "provided that"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/294.json
           "Tom si è nascosto.",
           "Tom hid.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
@@ -87,6 +103,20 @@
         [
           "A Mary piace ciò che fa.",
           "Mary likes what she does.",
+=======
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non era più malata.",
+          "Mary told me she wasn't sick anymore.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/215.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -97,13 +127,14 @@
       ]
     },
     {
-      "content": "è",
+      "content": "invitata",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "invited",
+        "invitation",
+        "guest",
+        "invited person"
       ],
+<<<<<<< HEAD:out/eng/ita/294.json
       "usageExamples": [
         [
           "Lei è americano?",
@@ -246,6 +277,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/215.json
     }
   ]
 }

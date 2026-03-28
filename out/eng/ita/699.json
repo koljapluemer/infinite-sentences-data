@@ -1,23 +1,24 @@
 {
-  "sentence": "Non accarezzo i vostri cani.",
+  "sentence": "Noi sentiamo con le nostre orecchie.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't pet your dogs."
+    "We hear with our ears."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Noi",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
+        "We",
+        "Us",
+        "Ours",
+        "Our group"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/699.json
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,40 +26,50 @@
         [
           "Non riusciva a vederla.",
           "He couldn't see her.",
+=======
+          "Noi terremo una festa.",
+          "We'll have a party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non l'ho riconosciuto.",
-          "I didn't recognize it.",
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/620.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "accarezzo",
+      "content": "sentiamo",
       "translations": [
-        "caress",
-        "stroke",
-        "pet",
-        "touch gently"
+        "we hear",
+        "let's hear",
+        "we feel",
+        "let's feel"
       ],
       "usageExamples": []
     },
     {
-      "content": "i",
+      "content": "con",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/699.json
           "Aart è conosciuto per i suoi tweet razzisti.",
           "Aart is known for his racist tweets.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,20 +77,30 @@
         [
           "Odio prendere i mezzi pubblici.",
           "I hate taking public transportation.",
+=======
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/620.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vostri",
+      "content": "le",
       "translations": [
-        "your",
-        "yours",
-        "your own",
-        "of yours"
+        "the",
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/699.json
           "Salutate i vostri genitori da parte mia.",
           "Say hello to your parents from me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -87,20 +108,34 @@
         [
           "Tirate fuori i vostri quaderni e le vostre penne.",
           "Get out your notebooks and pens.",
+=======
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovreste provare a vivere con le vostre capacità.",
+          "You should try to live within your means.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/620.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cani",
+      "content": "nostre",
       "translations": [
-        "dogs",
-        "canines",
-        "pups",
-        "pooches"
+        "our",
+        "ours",
+        "of ours"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/699.json
           "Mi piacciono i cani e i gatti.",
           "I like dogs and cats.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -114,8 +149,23 @@
           "A Eva piacciono i cani, ma non i gatti.",
           "Eva likes dogs, but not cats.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Gli amici entrano nelle nostre vite volontariamente.",
+          "Friends come into our lives voluntarily.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/620.json
         ]
       ]
+    },
+    {
+      "content": "orecchie",
+      "translations": [
+        "ears",
+        "earlobes",
+        "auricles",
+        "hearing organs"
+      ],
+      "usageExamples": []
     }
   ]
 }

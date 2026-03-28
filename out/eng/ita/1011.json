@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom ha detto che sembrava nervoso.",
+  "sentence": "Tom fa un bagno almeno tre volte a settimana.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom said I looked nervous."
+    "Tom takes a bath at least three times a week."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1011.json
           "Tom era creativo.",
           "Tom was creative.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -53,20 +54,35 @@
         [
           "Nessuno ha capito nulla.",
           "No one understood anything.",
+=======
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/932.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "detto",
+      "content": "fa",
       "translations": [
-        "said",
-        "so-called",
-        "aforementioned",
-        "referred to as"
+        "do",
+        "make",
+        "perform",
+        "act"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1011.json
           "Mary ha detto che voleva comprare qualcosa di più economico.",
           "Mary said she wanted to buy something cheaper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -79,20 +95,34 @@
         [
           "Perché non avete detto questo a loro?",
           "Why didn't you tell them this?",
+=======
+          "Cosa ti fa andare il cuore a tutta velocità?",
+          "What makes your heart race?",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "3 per 5 fa 15.",
+          "3 multiplied by 5 is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli alberi pietrificati di Yellowstone sono il risultato di flussi di detriti vulcanici verificatisi circa cinquanta milioni di anni fa.",
+          "Petrified trees in Yellowstone are the result of volcanic debris flows that occurred about 50 million years ago.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/932.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "un",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1011.json
           "È quello che sono.",
           "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -105,38 +135,148 @@
         [
           "Disse che lo amava.",
           "She said that she loved him.",
+=======
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono un tipo solitario.",
+          "I'm a loner.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/932.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sembrava",
+      "content": "bagno",
       "translations": [
-        "it seemed",
-        "it appeared",
-        "it looked like",
-        "it was as if"
+        "bathroom",
+        "bath",
+        "restroom",
+        "toilet"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1011.json
           "Tom sembrava esitante.",
           "Tom seemed hesitant.",
+=======
+          "Per favore, faccia un bagno al cane.",
+          "Please give the dog a bath.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/932.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nervoso",
+      "content": "almeno",
       "translations": [
-        "nervous",
-        "jittery",
-        "anxious",
-        "edgy"
+        "at least",
+        "minimum",
+        "no less than",
+        "at the very least"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "tre",
+      "translations": [
+        "three",
+        "3",
+        "thrice"
       ],
       "usageExamples": [
         [
-          "Il vostro silenzio mi rende nervoso.",
-          "Your silence makes me nervous.",
+          "Abbiamo scritto tre libri.",
+          "We wrote three books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo ristorante ha tre stelle Michelin.",
+          "This restaurant has three Michelin stars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono stato un istruttore di sci per tre anni.",
+          "I've been a ski instructor for three years.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "volte",
+      "translations": [
+        "turns",
+        "times",
+        "revolutions",
+        "cycles"
+      ],
+      "usageExamples": [
+        [
+          "Lessi la storia tre volte.",
+          "I read the story three times.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A volte, un po' di orgoglio è quello che ci serve.",
+          "Sometimes, a little bit of pride is what we need.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A volte Mary lo fa e a volte non lo fa.",
+          "Sometimes Mary does that and sometimes she doesn't.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "settimana",
+      "translations": [
+        "week",
+        "seven days",
+        "weekly period",
+        "seven-day span"
+      ],
+      "usageExamples": [
+        [
+          "Partirò per il Marocco la settimana prossima.",
+          "I will be leaving for Morocco next week.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho trascorso là una settimana di ozio.",
+          "I spent an idle week there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD:out/eng/fra/7.json
   "sentence": "Mon nom est Jisung.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
@@ -31,15 +32,87 @@
         [
           "Nous devons nous assurer que ceci est vrai.",
           "We need to make sure that this is true.",
+=======
+  "sentence": "Je crois en elle.",
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Fenrir (CC-BY 2.0 FR)"
+  ],
+  "translations": [
+    "I have faith in her."
+  ],
+  "parts": [
+    {
+      "content": "Je",
+      "translations": [
+        "I",
+        "Me"
+      ],
+      "usageExamples": [
+        [
+          "Je te respecte.",
+          "I respect you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je parle Lakota.",
+          "I speak Lakota.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je suis vraiment désolé de t'avoir fait attendre.",
+          "I am so sorry to have kept you waiting.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/7.json
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/fra/7.json
       "content": "Jisung",
       "translations": [
         "Jisung",
         "Jisung (name)"
+=======
+      "content": "crois",
+      "translations": [
+        "believe",
+        "think",
+        "trust"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "in",
+        "at",
+        "on"
+      ],
+      "usageExamples": [
+        [
+          "La chaise en plastique coûte quatre pounds.",
+          "The plastic chair costs four pounds.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ne lui en dis rien.",
+          "Don't tell her about it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quel musée aimerais-tu visiter en premier ?",
+          "Which museum would you like to visit first?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "elle",
+      "translations": [
+        "she",
+        "her"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/7.json
       ],
       "usageExamples": []
     }

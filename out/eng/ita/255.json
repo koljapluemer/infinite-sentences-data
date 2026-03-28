@@ -1,85 +1,99 @@
 {
-  "sentence": "Avete mai provato?",
+  "sentence": "Apprezzo la tua onestà.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you ever try?"
+    "I appreciate your honesty."
   ],
   "parts": [
     {
-      "content": "Avete",
+      "content": "Apprezzo",
       "translations": [
-        "You have",
-        "Do you have?",
-        "You all have",
-        "Have you?"
+        "I appreciate",
+        "I value",
+        "I cherish",
+        "I admire"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete visitato la città dove è nato vostro padre?",
-          "Have you visited the town where your father was born?",
+          "Ha perso la partita.",
+          "You lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/255.json
           "Avete annotato il numero di telefono?",
           "Did you write down the telephone number?",
+=======
+          "Cosa la sta causando?",
+          "What's causing it?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/176.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mai",
+      "content": "tua",
       "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
+        "your",
+        "yours",
+        "of you",
+        "belonging to you"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/255.json
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
+          "\"Where's your girlfriend from?\" \"She's Russian.\"",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/176.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non sia mai gelosa.",
-          "Never be jealous.",
+          "Qual è la tua canzone preferita dei Rolling Stones?",
+          "What's your favorite song by the Rolling Stones?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/255.json
           "Non dormite mai?",
           "Don't you ever sleep?",
+=======
+          "Tu lasceresti tua moglie per me?",
+          "Would you leave your wife for me?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/176.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "provato",
+      "content": "onestà",
       "translations": [
-        "tried",
-        "tested",
-        "proven",
-        "experienced"
+        "honesty",
+        "integrity",
+        "uprightness",
+        "truthfulness"
       ],
-      "usageExamples": [
-        [
-          "Ho provato a seguire le sue instruzioni.",
-          "I tried to follow your instructions.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Avete provato l'hot pot a Taiwan?",
-          "Have you tried the hot pot in Taiwan?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

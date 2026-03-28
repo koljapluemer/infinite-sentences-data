@@ -1,27 +1,29 @@
 {
-  "sentence": "I gatti non hanno le pulci.",
+  "sentence": "Ho trascorso là una settimana di ozio.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sundown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The cats have fleas."
+    "I spent an idle week there."
   ],
   "parts": [
     {
-      "content": "I",
+      "content": "Ho",
       "translations": [
-        "me",
-        "myself",
-        "the one who is speaking"
+        "I have",
+        "I possess",
+        "I hold",
+        "I own"
       ],
       "usageExamples": [
         [
-          "I suoi figli sono nel giardino.",
-          "Her sons are in the garden.",
+          "Ho letto un fumetto.",
+          "I read a comic book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/426.json
           "I contadini più stupidi hanno le patate più grandi.",
           "The dumbest farmers have the biggest potatoes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,17 +32,28 @@
           "I sondaggisti hanno condotto un sondaggio sulla popolarità dei candidati politici.",
           "Pollsters conducted a poll on the popularity of the political candidates.",
           "Sentence from Tatoeba by alesimpa (CC-BY 2.0 FR)"
+=======
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho iniziato dal fondo.",
+          "I started at the bottom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/347.json
         ]
       ]
     },
     {
-      "content": "gatti",
+      "content": "trascorso",
       "translations": [
-        "cats",
-        "kittens",
-        "felines",
-        "domestic cats"
+        "elapsed",
+        "spent",
+        "passed",
+        "gone by"
       ],
+<<<<<<< HEAD:out/eng/ita/426.json
       "usageExamples": [
         [
           "A Eva piacciono i cani, però non i gatti.",
@@ -58,17 +71,21 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/347.json
     },
     {
-      "content": "non",
+      "content": "là",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "there",
+        "here",
+        "in that place",
+        "at that location"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/426.json
           "Perché non ha corso?",
           "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -124,24 +141,109 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/347.json
           "Non le vogliamo là.",
           "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/426.json
           "A Mary piacciono anche le banane.",
           "Mary also likes bananas.",
+=======
+          "Di tutti là, parlai meno.",
+          "Out of everyone there, I spoke the least.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/347.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pulci",
+      "content": "una",
       "translations": [
-        "fleas",
-        "lice",
-        "small insects",
-        "parasites"
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una giornata nuvolosa.",
+          "It's a cloudy day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "settimana",
+      "translations": [
+        "week",
+        "seven days",
+        "weekly period",
+        "seven-day span"
+      ],
+      "usageExamples": [
+        [
+          "Partirò per il Marocco la settimana prossima.",
+          "I will be leaving for Morocco next week.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom fa un bagno almeno tre volte a settimana.",
+          "Tom takes a bath at least three times a week.",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ozio",
+      "translations": [
+        "leisure",
+        "idleness",
+        "free time",
+        "relaxation"
       ],
       "usageExamples": []
     }

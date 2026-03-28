@@ -1,11 +1,11 @@
 {
-  "sentence": "Io voglio andare in Inghilterra.",
+  "sentence": "Io sono una patata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Eccles17 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I want to go to England."
+    "I am a potato."
   ],
   "parts": [
     {
@@ -19,6 +19,7 @@
         [
           "Io sono solo curiosa.",
           "I'm just curious.",
+<<<<<<< HEAD:out/eng/ita/523.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -29,48 +30,75 @@
         [
           "Io parlo bosniaco.",
           "I speak Bosnian.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "voglio",
-      "translations": [
-        "I want",
-        "I would like",
-        "I wish",
-        "I desire"
-      ],
-      "usageExamples": [
-        [
-          "Non voglio guardarlo.",
-          "I don't want to look at him.",
+=======
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io non voglio che cambi.",
-          "I don't want it to change.",
+          "Io ero lì.",
+          "I was there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io l'ho sentito.",
+          "I heard it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/444.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "andare",
+      "content": "sono",
       "translations": [
-        "to go",
-        "to walk",
-        "to move",
-        "to travel"
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutte sono felici.",
+          "Everybody's happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/523.json
           "Devo andare a trovarli.",
           "I have to go find them.",
+=======
+          "Scriva una risposta.",
+          "Write an answer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
+          "Noi terremo una festa.",
+          "We'll have a party.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/444.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una giornata nuvolosa.",
+          "It's a cloudy day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -81,8 +109,9 @@
       ]
     },
     {
-      "content": "in",
+      "content": "patata",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/523.json
         "inside",
         "within",
         "into"
@@ -112,6 +141,12 @@
         "UK",
         "Great Britain",
         "Britain"
+=======
+        "potato",
+        "spud",
+        "tater",
+        "murph"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/444.json
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom sarebbe dovuto venire alla riunione.",
+  "sentence": "Tom non è bravo a tennis.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom should've come to the meeting."
+    "Tom isn't good at tennis."
   ],
   "parts": [
     {
@@ -21,6 +21,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1043.json
           "Tom sta gemendo.",
           "Tom is groaning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,27 +29,47 @@
         [
           "Tom sembra impegnato.",
           "Tom seems busy.",
+=======
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/964.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sarebbe",
+      "content": "non",
       "translations": [
-        "it would be",
-        "it would",
-        "it is supposed to be",
-        "it should be"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1043.json
           "A Tom sarebbe piaciuto quello che avete fatto.",
           "Tom would've liked what you did.",
+=======
+          "Però non funzionerà!",
+          "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sua madre sarebbe fiera di lei.",
-          "Your mother would be proud of you.",
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/964.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -59,34 +80,45 @@
       ]
     },
     {
-      "content": "dovuto",
+      "content": "è",
       "translations": [
-        "due",
-        "owed",
-        "required",
-        "necessary"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1043.json
           "Avrebbe dovuto chiedere a lui prima.",
           "You should've asked him first.",
+=======
+          "Forse è lui.",
+          "Maybe it's him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/964.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
-          "Tom should've closed all his windows.",
+          "Questo è un occhio.",
+          "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1043.json
           "Lo avreste dovuto aiutare con il suo lavoro.",
           "You should have helped him with his work.",
+=======
+          "Tom si è addolcito.",
+          "Tom relented.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/964.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "venire",
+      "content": "bravo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1043.json
         "to come",
         "to arrive",
         "to happen",
@@ -133,8 +165,64 @@
         "gathering",
         "assembly",
         "conference"
+=======
+        "good",
+        "brave",
+        "clever",
+        "well done"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/964.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tennis",
+      "translations": [
+        "the sport of tennis",
+        "game of tennis",
+        "tennis match"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace giocare a tennis.",
+          "Lucy likes playing tennis.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Helena piace giocare a tennis.",
+          "Helena likes to play tennis.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Giocherete a tennis dopo la scuola?",
+          "Will you play tennis after school?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

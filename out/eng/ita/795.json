@@ -1,20 +1,20 @@
 {
-  "sentence": "Penso che Tom sia normale.",
+  "sentence": "Pensa che Tom potrebbe avere ragione?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I think Tom is normal."
+    "Do you think Tom might be correct?"
   ],
   "parts": [
     {
-      "content": "Penso",
+      "content": "Pensa",
       "translations": [
-        "I think.",
-        "I believe",
-        "I consider",
-        "I reflect"
+        "Think.",
+        "Consider",
+        "Reflect",
+        "Ponder"
       ],
       "usageExamples": []
     },
@@ -28,8 +28,8 @@
       ],
       "usageExamples": [
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -52,6 +52,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/795.json
           "Tom è un fan.",
           "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -64,20 +65,35 @@
         [
           "Volete veramente votare Tom?",
           "Do you really want to vote for Tom?",
+=======
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/716.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sia",
+      "content": "potrebbe",
       "translations": [
-        "herself",
-        "hers",
-        "she herself",
-        "her own"
+        "could",
+        "might",
+        "may",
+        "can"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/795.json
           "Non sia mai gelosa.",
           "Never be jealous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -85,22 +101,57 @@
         [
           "Sembra che sia seria.",
           "She looks like she's serious.",
+=======
+          "Chi potrebbe incolparci?",
+          "Who could blame us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Voi pensate che Tom sia innocente?",
-          "Do you think Tom is innocent?",
+          "La potrebbe ferire.",
+          "He might hurt her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/716.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mark potrebbe piacere Jessica.",
+          "Mark might like Jessica.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "normale",
+      "content": "avere",
       "translations": [
-        "normal",
-        "usual",
-        "standard",
-        "regular"
+        "to have",
+        "to possess",
+        "to own",
+        "to hold"
+      ],
+      "usageExamples": [
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Possono avere qualsiasi cosa vogliono.",
+          "They can have anything they want.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary nega di avere pianto.",
+          "Mary denies that she cried.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ragione",
+      "translations": [
+        "reason",
+        "cause",
+        "justification",
+        "argument"
       ],
       "usageExamples": []
     }

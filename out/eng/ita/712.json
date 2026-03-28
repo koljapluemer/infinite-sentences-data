@@ -1,11 +1,11 @@
 {
-  "sentence": "Non dovreste fumare così tanto.",
+  "sentence": "Non crederesti alla roba che le persone buttano via.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You shouldn't smoke so much."
+    "You wouldn't believe the stuff people throw away."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/712.json
           "Non riusciva a vederla.",
           "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,40 +31,44 @@
         [
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
+=======
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordatela.",
+          "Don't forget it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/633.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dovreste",
+      "content": "crederesti",
       "translations": [
-        "you should",
-        "you ought to",
-        "you must",
-        "you are supposed to"
+        "would you believe",
+        "would you trust",
+        "would you think"
       ],
       "usageExamples": []
     },
     {
-      "content": "fumare",
+      "content": "alla",
       "translations": [
-        "to smoke",
-        "smoking",
-        "to puff",
-        "to inhale smoke"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "così",
-      "translations": [
-        "so",
-        "like this",
-        "in this way",
-        "thus"
+        "to",
+        "at",
+        "in the direction of",
+        "towards"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/712.json
           "È così sciocco.",
           "That's so silly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -71,32 +76,133 @@
         [
           "Siamo veramente così poveri?",
           "Are we really that poor?",
+=======
+          "Tom sarebbe dovuto venire alla riunione.",
+          "Tom should've come to the meeting.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non parlate così impudentemente.",
-          "Don't talk so impudently.",
+          "Ho preso un taxi per andare alla stazione dei treni.",
+          "I took a taxi to the train station.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/633.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beh, eccoci qui alla fine!",
+          "Well, here we are at last!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tanto",
+      "content": "roba",
       "translations": [
-        "so much",
-        "as much",
-        "so many",
-        "such a lot"
+        "clothes",
+        "stuff",
+        "things",
+        "gear"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Perché odiate così tanto il vostro paese?",
-          "Why do you hate your country so much?",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi manca così tanto il mio moroso!",
-          "I miss my boyfriend so much!",
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
+      ],
+      "usageExamples": [
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "2.200 dollari sono stati stanziati per le spese.",
+          "2200 dollars have been allocated for expenses.",
+          "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "persone",
+      "translations": [
+        "people",
+        "persons",
+        "individuals",
+        "human beings"
+      ],
+      "usageExamples": [
+        [
+          "Quante persone ha ucciso Tom?",
+          "How many people did Tom kill?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Più della metà delle persone condannate dai tribunali è innocente.",
+          "More than half of the people convicted by the courts are innocent.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "La polizia arrestò tredici persone.",
+          "Police arrested 13 people.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "buttano",
+      "translations": [
+        "they push",
+        "they shove",
+        "they throw"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "via",
+      "translations": [
+        "way",
+        "road",
+        "street",
+        "path"
+      ],
+      "usageExamples": [
+        [
+          "I problemi di solito non vanno via da soli.",
+          "Problems don't usually go away by themselves.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

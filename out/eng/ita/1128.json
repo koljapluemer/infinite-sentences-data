@@ -1,32 +1,24 @@
 {
-  "sentence": "Vorrei un po' di vino bianco, per favore.",
+  "sentence": "Volete veramente votare Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd like some white wine, please."
+    "Do you really want to vote for Tom?"
   ],
   "parts": [
     {
-      "content": "Vorrei",
+      "content": "Volete",
       "translations": [
-        "I would like",
-        "I want",
-        "I would love",
-        "I wish for"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
+        "You want",
+        "Do you want",
+        "Would you like",
+        "Are you wanting"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1128.json
           "Questo è un test?",
           "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -39,20 +31,25 @@
         [
           "Ti compro un regalo.",
           "I buy you a present.",
+=======
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1049.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "po'",
+      "content": "veramente",
       "translations": [
-        "a little",
-        "somewhat",
-        "a bit",
-        "rather"
+        "truly",
+        "really",
+        "actually",
+        "indeed"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1128.json
           "A Claudio serviva un po' d'acqua.",
           "Claudio needed some water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -65,20 +62,30 @@
         [
           "Per favore, dammi un altro po' di tè.",
           "Please give me a little more tea.",
+=======
+          "Siamo veramente così poveri?",
+          "Are we really that poor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dille cos'è successo veramente.",
+          "Tell her what really happened.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1049.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "votare",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "to vote",
+        "to cast a vote",
+        "to elect",
+        "to poll"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1128.json
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -92,18 +99,23 @@
           "Sei pieno di rabbia.",
           "You're full of anger.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Sono troppo vecchia per votare?",
+          "Am I too old to vote?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1049.json
         ]
       ]
     },
     {
-      "content": "vino",
+      "content": "Tom",
       "translations": [
-        "wine",
-        "grape beverage",
-        "fermented grape drink"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1128.json
           "Tom ha ordinato una bottiglia di vino.",
           "Tom ordered a bottle of wine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -136,12 +148,17 @@
         [
           "Hey, grazie per l'aiuto.",
           "Hey, thanks for the help.",
+=======
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1049.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
+          "Tom sembra compiaciuto.",
+          "Tom looks smug.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1128.json
         ]
       ]
     },
@@ -167,6 +184,12 @@
         [
           "Per favore, dammi un altro po' di tè.",
           "Please give me a little more tea.",
+=======
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1049.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

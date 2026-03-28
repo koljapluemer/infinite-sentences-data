@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom chiese a Mary se lei si fidava di John.",
+  "sentence": "Tom amerà abitare qua.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom asked Mary if she trusted John."
+    "Tom will love living here."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/988.json
           "Dovremmo avvertire Tom.",
           "We should warn Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -171,28 +172,60 @@
           "Tom si è addolcito.",
           "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra impegnato.",
+          "Tom seems busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/909.json
         ]
       ]
     },
     {
-      "content": "fidava",
+      "content": "amerà",
       "translations": [
-        "I trusted",
-        "I relied on",
-        "I had faith in"
+        "he/she will love",
+        "you will love",
+        "it will love"
+      ],
+      "usageExamples": [
+        [
+          "Sono sicura che Tom amerà il tuo regalo.",
+          "I'm sure Tom will love your present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "abitare",
+      "translations": [
+        "to live",
+        "to reside",
+        "to inhabit",
+        "to dwell"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "qua",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "where",
+        "in which",
+        "at which",
+        "by which"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/988.json
           "Beve latte di mucca.",
           "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -231,6 +264,21 @@
           "A Bill e John piace ritrovarsi una volta al mese per parlare.",
           "Bill and John like to get together once a month to talk.",
           "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
+=======
+          "Devo aspettarli qua.",
+          "I have to wait here for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\"Passami il sale, per piacere.\" \"Ecco qua.\"",
+          "\"Pass me the salt, please.\" \"Here you are.\"",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/909.json
         ]
       ]
     }

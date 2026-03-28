@@ -1,15 +1,15 @@
 {
-  "sentence": "Questo non ha sorpreso Yanni.",
+  "sentence": "Questa è una buona domanda.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This didn't surprise Yanni."
+    "This is a good question."
   ],
   "parts": [
     {
-      "content": "Questo",
+      "content": "Questa",
       "translations": [
         "This",
         "This one",
@@ -18,13 +18,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/880.json
           "Questo è un test?",
           "Is this a test?",
+=======
+          "Questa è casa sua adesso.",
+          "This is your house now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Questa mattina Tatoeba non sta funzionando molto bene.",
+          "This morning, Tatoeba isn't working very well.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/801.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa pagina non è mai stata divertente.",
+          "This page was never funny.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,15 +45,16 @@
       ]
     },
     {
-      "content": "non",
+      "content": "è",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/880.json
           "Perché non la cercate?",
           "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,19 +67,35 @@
         [
           "Preferirei non farlo.",
           "I'd rather not do it.",
+=======
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/801.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "una",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/880.json
           "Tom ha molti amici?",
           "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,36 +108,57 @@
         [
           "Nessuno ha capito nulla.",
           "No one understood anything.",
+=======
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/801.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sorpreso",
+      "content": "buona",
       "translations": [
-        "surprised",
-        "astonished",
-        "taken aback",
-        "startled"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Yanni",
-      "translations": [
-        "Yanni (a name)",
-        "Yanni (musician)",
-        "Yanni (Greek composer)"
+        "good",
+        "nice",
+        "pleasant",
+        "fine"
       ],
       "usageExamples": [
         [
-          "Yanni comprò del cibo.",
-          "Yanni bought some food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Sono una buona persona.",
+          "I'm a good person.",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ],
         [
-          "Yanni non comprende l'Islam.",
-          "Yanni doesn't understand Islam.",
+          "La pâte brisée, per essere buona, deve essere friabile e leggera.",
+          "To be good, pâte brisée should be light and flaky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "domanda",
+      "translations": [
+        "question",
+        "inquiry",
+        "request",
+        "application"
+      ],
+      "usageExamples": [
+        [
+          "Ho una domanda da porle.",
+          "I have a question to pose you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

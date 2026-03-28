@@ -1,11 +1,11 @@
 {
-  "sentence": "Io sono sicuro che Tom ti aiuterà.",
+  "sentence": "Io so com'era Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm sure Tom will help you."
+    "I know how Tom used to be."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/512.json
           "Io sono una patata.",
           "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,20 +30,14 @@
         [
           "Io consegno pizze.",
           "I deliver pizzas.",
+=======
+          "Io parlo bosniaco.",
+          "I speak Bosnian.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/433.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sono",
-      "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
-      ],
-      "usageExamples": [
+        ],
         [
+<<<<<<< HEAD:out/eng/ita/512.json
           "Mi sono tuffato nell'acqua.",
           "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,39 +50,58 @@
         [
           "Io sono solo curiosa.",
           "I'm just curious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sicuro",
-      "translations": [
-        "safe",
-        "secure",
-        "sure",
-        "reliable"
-      ],
-      "usageExamples": [
-        [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
+=======
+          "Io ero lì.",
+          "I was there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che non si sentiva al sicuro.",
-          "She said she didn't feel safe.",
+          "Io consegno pizze.",
+          "I deliver pizzas.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/433.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "so",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "thus",
+        "therefore",
+        "in that way"
       ],
+      "usageExamples": [
+        [
+          "Io so cosa gli è successo.",
+          "I know what happened to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/512.json
+          "Disse che non si sentiva al sicuro.",
+          "She said she didn't feel safe.",
+=======
+          "Io non so chi dovrebbe guidarmi.",
+          "I don't know who should guide me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so cosa farò con Tom.",
+          "I don't know what I'm going to do with Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/433.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "com'era",
+      "translations": [
+        "how it was",
+        "what it was like",
+        "how it used to be",
+        "the way it was"
+      ],
+<<<<<<< HEAD:out/eng/ita/512.json
       "usageExamples": [
         [
           "Disse che lo amava.",
@@ -105,6 +119,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/433.json
     },
     {
       "content": "Tom",
@@ -114,13 +131,18 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/512.json
           "Tom è un fan.",
           "Tom is a fan.",
+=======
+          "Tom è famoso.",
+          "Tom is famous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/433.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -129,6 +151,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+<<<<<<< HEAD:out/eng/ita/512.json
     },
     {
       "content": "ti",
@@ -165,6 +188,8 @@
         "will support"
       ],
       "usageExamples": []
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/433.json
     }
   ]
 }

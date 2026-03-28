@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho sognato di baciare Tom.",
+  "sentence": "Ho lasciato Tom in casa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I dreamed about kissing Tom."
+    "I let Tom in the house."
   ],
   "parts": [
     {
@@ -18,6 +18,14 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/419.json
+=======
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/340.json
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -35,25 +43,16 @@
       ]
     },
     {
-      "content": "sognato",
+      "content": "lasciato",
       "translations": [
-        "dreamed",
-        "dreamt",
-        "imagined",
-        "envisioned"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "left",
+        "abandoned",
+        "let go",
+        "allowed"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/419.json
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
@@ -66,19 +65,18 @@
         [
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
+=======
+          "Tom mi ha lasciato entrare.",
+          "Tom let me in.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha lasciato un po' di cibo nel suo piatto.",
+          "She left some food on her plate.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/340.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "baciare",
-      "translations": [
-        "to kiss",
-        "kissing",
-        "to peck",
-        "to smooch"
-      ],
-      "usageExamples": []
     },
     {
       "content": "Tom",
@@ -88,6 +86,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/419.json
           "Stavo per aiutare Tom.",
           "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,6 +100,72 @@
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom sembrava esitante.",
+          "Tom looked hesitant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "casa",
+      "translations": [
+        "house",
+        "home",
+        "dwelling",
+        "residence"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Jack ha un gatto e un pappagallo a casa.",
+          "Jack keeps a cat and a parrot at home.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La casa è stata venduta per un milione di dollari.",
+          "The house was sold for one million dollars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/340.json
         ]
       ]
     }

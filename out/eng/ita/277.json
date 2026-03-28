@@ -1,11 +1,11 @@
 {
-  "sentence": "Che cosa stavano indossando Tom e Mary?",
+  "sentence": "Che altro stai considerando?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What were Tom and Mary wearing?"
+    "What else are you considering?"
   ],
   "parts": [
     {
@@ -18,10 +18,36 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/277.json
           "Che musica ascoltate?",
           "What music do you listen to?",
+=======
+          "Che fallito!",
+          "What a loser!",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa direste?",
+          "What would you say?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+        [
+          "Che canzone strana...",
+          "What a weird song...",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/198.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "altro",
+      "translations": [
+        "other",
+        "another",
+        "else",
+        "additional"
+      ],
+      "usageExamples": [
         [
           "Che altro stai considerando?",
           "What else are you considering?",
@@ -31,44 +57,49 @@
           "Che cosa direste?",
           "What would you say?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, dammi un altro po' di tè.",
+          "Please give me a little more tea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che altro volete che compri?",
+          "What else do you want me to buy?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cosa",
+      "content": "stai",
       "translations": [
-        "thing",
-        "item",
-        "object",
-        "matter"
+        "you stay",
+        "you are staying",
+        "you remain"
       ],
       "usageExamples": [
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Perché te ne stai andando?",
+          "Why are you leaving?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non sapeva cosa fare.",
-          "She didn't know what to do.",
-          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stavano",
+      "content": "considerando",
       "translations": [
-        "they were",
-        "they used to be",
-        "they were standing",
-        "they were staying"
+        "considering",
+        "taking into account",
+        "in light of",
+        "regarding"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/277.json
     },
     {
       "content": "indossando",
@@ -154,6 +185,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/198.json
     }
   ]
 }

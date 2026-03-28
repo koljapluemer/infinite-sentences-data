@@ -1,23 +1,24 @@
 {
-  "sentence": "Quanto tempo ci è voluto per tradurre questo libro?",
+  "sentence": "Quanti figli ha Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How long did it take us to translate this book?"
+    "How many kids does Tom have?"
   ],
   "parts": [
     {
-      "content": "Quanto",
+      "content": "Quanti",
       "translations": [
-        "How much",
-        "How many",
-        "To what extent",
-        "As much as"
+        "How much?",
+        "How many?",
+        "What is the price?",
+        "What is the cost?"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/866.json
           "Quanto spesso mangi pesce?",
           "How often do you eat fish?",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -30,24 +31,40 @@
         [
           "Quanto è freddo il Canada?",
           "How cold is Canada?",
+=======
+          "Quanti ne hai?",
+          "How many do you have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti anni aveva nella prima foto?",
+          "How old was she in the first photo?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/787.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tempo",
+      "content": "figli",
       "translations": [
-        "time",
-        "weather",
-        "period"
+        "children",
+        "sons",
+        "offspring",
+        "kids"
       ],
       "usageExamples": [
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Questi sono i suoi figli?",
+          "Are these your children?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/866.json
           "Era una corsa contro il tempo.",
           "It was a race against time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,20 +72,53 @@
         [
           "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
           "Only time will tell what the world has in store for us.",
+=======
+          "A Mary mancavano i suoi figli.",
+          "Mary missed her kids.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano suo marito e i suoi figli.",
+          "Mary misses her husband and children.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha già finito?",
+          "Are you through yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha frenato.",
+          "She braked.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/787.json
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ci",
+      "content": "Tom",
       "translations": [
-        "us",
-        "to us",
-        "for us",
-        "at us"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/866.json
           "Loro ci aiutano.",
           "They help us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -204,6 +254,20 @@
         [
           "Il libro è arrivato.",
           "The book came.",
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/787.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

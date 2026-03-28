@@ -1,23 +1,24 @@
 {
-  "sentence": "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
+  "sentence": "Cosa avete detto al capo?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "\"Where's your girlfriend from?\" \"She's Russian.\""
+    "What did you say to the boss?"
   ],
   "parts": [
     {
-      "content": "Da",
+      "content": "Cosa",
       "translations": [
-        "From",
-        "By",
-        "Since",
-        "Of"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/314.json
           "Da un anno io e lui ci scambiamo sguardi.",
           "He and I have been exchanging looks for the past year.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -46,22 +47,50 @@
         [
           "Avete visitato la città dove è nato vostro padre?",
           "Have you visited the town where your father was born?",
+=======
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/235.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "viene",
+      "content": "avete",
       "translations": [
-        "comes",
-        "arrives",
-        "is coming",
-        "is happening"
+        "you have",
+        "you've got",
+        "are you having"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/314.json
           "Arrostisca il bhakri mentre la pentola viene riscaldata.",
           "Roast the bhakri while the pan is heated.",
+=======
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/235.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -72,25 +101,31 @@
       ]
     },
     {
-      "content": "la",
+      "content": "detto",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/314.json
           "Lei è la dottoressa?",
           "Are you the doctor?",
+=======
+          "Tom mi ha detto che eravate felici.",
+          "Tom told me you were happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/235.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
+          "Tom ha detto che sembrava nervoso.",
+          "Tom said I looked nervous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/314.json
           "Prendi la mia.",
           "Take mine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -119,33 +154,49 @@
         [
           "Qual è la tua canzone preferita dei Rolling Stones?",
           "What's your favorite song by the Rolling Stones?",
+=======
+          "Perché non avete detto questo a loro?",
+          "Why didn't you tell them this?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/235.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fidanzata",
+      "content": "al",
       "translations": [
-        "girlfriend",
-        "fiancée",
-        "betrothed"
+        "to the",
+        "at the",
+        "in the",
+        "for the"
       ],
       "usageExamples": [
         [
-          "Sono fidanzata con lei.",
-          "I'm engaged to her.",
+          "Andammo al supermercato asiatico.",
+          "We went to the Asian supermarket.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "È",
+      "content": "capo",
       "translations": [
-        "It is",
-        "He is",
-        "She is",
-        "There is"
+        "head",
+        "chief",
+        "leader",
+        "boss"
       ],
+<<<<<<< HEAD:out/eng/ita/314.json
       "usageExamples": [
         [
           "È uscito dalla cucina.",
@@ -178,6 +229,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/235.json
     }
   ]
 }

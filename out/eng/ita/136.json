@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary manca la sua scarpa destra.",
+  "sentence": "A Mary importava soltanto di se stessa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is missing her right shoe."
+    "Mary only cared about herself."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/136.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,6 +29,19 @@
         ],
         [
           "A Judy piace.",
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/104.json
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
@@ -47,6 +61,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/136.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,46 +69,61 @@
         [
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "Mary dice che ha già deciso di farlo.",
+          "Mary says she's already decided to do that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/104.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "manca",
+      "content": "importava",
       "translations": [
-        "missing",
-        "lacking",
-        "absent",
-        "deficient"
+        "it mattered",
+        "it was important",
+        "it was significant",
+        "it was relevant"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/136.json
           "Vi manca molto, vero?",
           "You miss him a lot, don't you?",
+=======
+          "Gli importava.",
+          "He cared.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/104.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "A Mary importava solamente di se stessa.",
+          "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/136.json
           "A Mary manca la sua famiglia.",
           "Mary misses her family.",
+=======
+          "A Mary importava solo di se stessa.",
+          "Mary only cared about herself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/104.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "di",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/136.json
           "Lui accese la radio.",
           "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -106,20 +136,35 @@
         [
           "Apri la cassaforte.",
           "Open the safe.",
+=======
+          "Volete sentire di più?",
+          "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/104.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sua",
+      "content": "se",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/136.json
           "Dov'è la sua casa?",
           "Where's his home?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -133,10 +178,26 @@
           "A Mary manca molto la sua famiglia.",
           "Mary misses her family a lot.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+=======
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vogliamo che se ne vada.",
+          "We don't want him to leave.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/104.json
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/136.json
       "content": "scarpa",
       "translations": [
         "shoe",
@@ -147,11 +208,32 @@
     },
     {
       "content": "destra",
+=======
+      "content": "stessa",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/104.json
       "translations": [
-        "right",
-        "right side"
+        "same",
+        "itself",
+        "the same",
+        "identical"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dice sempre la stessa cosa.",
+          "He always says the same thing.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importava solamente di se stessa.",
+          "Mary only cared about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa soltanto di se stessa.",
+          "Mary only cares about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

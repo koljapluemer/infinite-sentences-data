@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom non è bravo a tennis.",
+  "sentence": "Tom non riusciva a vederla.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom isn't good at tennis."
+    "Tom couldn't see it."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1037.json
           "Tom è un esperto.",
           "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,6 +29,20 @@
         [
           "Dovresti aiutare Tom.",
           "You should help Tom.",
+=======
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom vende funghi psichedelici.",
+          "Tom sells psychedelic mushrooms.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/958.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -38,12 +53,18 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1037.json
           "Perché non ha corso?",
           "Why didn't you run?",
+=======
+          "Tom non cambia mai.",
+          "Tom never changes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/958.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -52,22 +73,23 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Preferirei non farlo.",
-          "I'd rather not do it.",
+          "Però non funzionerà!",
+          "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "riusciva",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "was able to",
+        "managed to",
+        "could",
+        "succeeded in"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1037.json
           "Il cambiamento è spaventoso.",
           "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,19 +102,13 @@
         [
           "Il libro è arrivato.",
           "The book came.",
+=======
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/958.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "bravo",
-      "translations": [
-        "good",
-        "brave",
-        "clever",
-        "well done"
-      ],
-      "usageExamples": []
     },
     {
       "content": "a",
@@ -108,6 +124,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1037.json
           "Sei stata a Parigi?",
           "Have you been to Paris?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -115,31 +132,31 @@
         [
           "Lo mostreremo a lei.",
           "We'll show her.",
+=======
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/958.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tennis",
+      "content": "vederla",
       "translations": [
-        "the sport of tennis",
-        "game of tennis",
-        "tennis match"
+        "to see her",
+        "to see it (feminine)",
+        "to look at her",
+        "to look at it (feminine)"
       ],
       "usageExamples": [
         [
-          "A Lucy piace giocare a tennis.",
-          "Lucy likes playing tennis.",
-          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
-        ],
-        [
-          "Giocherete a tennis dopo la scuola?",
-          "Will you play tennis after school?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Helena piace giocare a tennis.",
-          "Helena likes to play tennis.",
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,11 +1,11 @@
 {
-  "sentence": "A Lincoln piaceva questo piano.",
+  "sentence": "A Layla stava piacendo questo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Lincoln liked this plan."
+    "Layla was enjoying this."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/102.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,24 +25,72 @@
         [
           "A quale proposito?",
           "For what purpose?",
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/75.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/102.json
+=======
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/75.json
+        ]
+      ]
+    },
+    {
+      "content": "Layla",
+      "translations": [
+        "Night",
+        "Dark beauty",
+        "Nighttime"
+      ],
+      "usageExamples": [
+        [
+          "Layla dimenticò qualcosa.",
+          "Layla forgot something.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami sa dove abita Layla.",
+          "Sami knows where Layla lives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Lincoln",
+      "content": "stava",
       "translations": [
-        "Lincoln",
-        "Abraham Lincoln",
-        "President Lincoln",
-        "Lincoln Memorial"
+        "was standing",
+        "was",
+        "stood",
+        "was situated"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io ho preso un taxi perché stava piovendo.",
+          "I took a taxi because it was raining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Con chi stava parlando Tom?",
+          "Who was Tom talking to?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "piaceva",
@@ -78,14 +127,20 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/102.json
           "Dica questo in ungherese!",
           "Say this in Hungarian!",
+=======
+          "Trasporti questo.",
+          "Carry this.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/75.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Prenda questo denaro.",
           "Take this money.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/102.json
         ],
         [
           "Trasporti questo.",
@@ -106,10 +161,12 @@
           "Le piacerebbe imparare a suonare il piano?",
           "Would you like to learn to play the piano?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/75.json
         ],
         [
-          "Lui abita al piano sopra al mio.",
-          "He lives on the floor above mine.",
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

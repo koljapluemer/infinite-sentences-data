@@ -1,30 +1,65 @@
 {
-  "sentence": "Noi non possiamo farlo ora.",
+  "sentence": "Nessuno ha capito nulla.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We can't do it now."
+    "No one understood anything."
   ],
   "parts": [
     {
-      "content": "Noi",
+      "content": "Nessuno",
       "translations": [
-        "We",
-        "Us",
-        "Ours",
-        "Our group"
+        "No one",
+        "Nobody",
+        "Not anyone",
+        "None"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/692.json
           "Noi ti amiamo entrambi.",
           "We both love you.",
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi terremo una festa.",
-          "We'll have a party.",
+          "Nessuno vi sostituirà.",
+          "Nobody will ever replace you.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/613.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno qua balla bene come te.",
+          "Nobody here dances as well as you.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,15 +70,26 @@
       ]
     },
     {
-      "content": "non",
+      "content": "capito",
       "translations": [
-        "not",
-        "no",
+        "I understand.",
+        "I get it",
+        "I grasp it",
+        "I see."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "nulla",
+      "translations": [
         "none",
-        "never"
+        "nothing",
+        "no one",
+        "not any"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/692.json
           "Perché non la cercate?",
           "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -124,6 +170,20 @@
         [
           "Io preferirei non discuterne ora.",
           "I'd rather not discuss it now.",
+=======
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace per nulla il prezzemolo.",
+          "Mary doesn't like parsley at all.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non ho preso nulla per te.",
+          "I didn't get anything for you.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/613.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

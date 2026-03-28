@@ -1,43 +1,24 @@
 {
-  "sentence": "Puoi lanciare una palla veloce?",
+  "sentence": "Preferirei restare qua a Boston.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Can you throw a fastball?"
+    "I'd rather stay here in Boston."
   ],
   "parts": [
     {
-      "content": "puoi",
+      "content": "Preferirei",
       "translations": [
-        "you can",
-        "you may",
-        "you are able to",
-        "you are allowed to"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "lanciare",
-      "translations": [
-        "to throw",
-        "to launch",
-        "to cast",
-        "to hurl"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "I would prefer",
+        "I would rather",
+        "I would choose",
+        "I would like to prefer"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/846.json
           "È stato una delusione.",
           "It was a disappointment.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,32 +31,107 @@
         [
           "Io sono una patata.",
           "I am a potato.",
+=======
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/767.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "palla",
+      "content": "restare",
       "translations": [
-        "ball",
-        "sphere",
-        "round object",
-        "ball-shaped item"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "veloce",
-      "translations": [
-        "fast",
-        "quick",
-        "swift",
-        "speedy"
+        "to remain",
+        "to stay",
+        "to be left",
+        "to rest"
       ],
       "usageExamples": [
         [
-          "State guidando decisamente troppo veloce.",
-          "You're driving way too fast.",
+          "È difficile restare calmi quando le scadenze vengono ignorate.",
+          "It's hard to stay calm when deadlines are ignored.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "qua",
+      "translations": [
+        "where",
+        "in which",
+        "at which",
+        "by which"
+      ],
+      "usageExamples": [
+        [
+          "Devo aspettarli qua.",
+          "I have to wait here for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Boston",
+      "translations": [
+        "City of Boston",
+        "Boston, Massachusetts",
+        "The Hub"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che Tom e Mary devono andare a Boston.",
+          "I know Tom and Mary have to go to Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Boston erano tutti congregazionalisti.",
+          "In Boston, they were all congregationalists.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

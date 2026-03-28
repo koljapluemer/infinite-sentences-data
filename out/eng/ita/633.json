@@ -1,49 +1,50 @@
 {
-  "sentence": "Mangia finché è caldo.",
+  "sentence": "Lui sembra un delinquente.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Eat while it's warm."
+    "He looks like a gangster."
   ],
   "parts": [
     {
-      "content": "Mangia",
+      "content": "Lui",
       "translations": [
-        "Eat",
-        "Consume",
-        "Devour",
-        "Ingest"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "finché",
-      "translations": [
-        "as long as",
-        "until",
-        "provided that",
-        "so long as"
+        "Him",
+        "He",
+        "That guy",
+        "This man"
       ],
       "usageExamples": [
         [
-          "Per piacere, aspetta finché non arriva.",
-          "Please wait until he arrives.",
+          "Lui studiò economia all'università.",
+          "He studied economics at college.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui ama parlare con la gente.",
+          "He loves talking to people.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "sembra",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "it seems",
+        "it appears",
+        "it looks like",
+        "seems to be"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/633.json
           "Tom si è divertito.",
           "Tom had a good time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,17 +57,56 @@
         [
           "Il libro è arrivato.",
           "The book came.",
+=======
+          "Tom sembra impegnato.",
+          "Tom seems busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra grassa.",
+          "You look fat.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/554.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "caldo",
+      "content": "un",
       "translations": [
-        "hot",
-        "warm",
-        "heated",
-        "spicy"
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "delinquente",
+      "translations": [
+        "delinquent",
+        "offender",
+        "criminal",
+        "lawbreaker"
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Il dottore gli ha dato un sedativo.",
+  "sentence": "Il bambino mi sorrise.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The doctor gave him a sedative."
+    "The baby smiled at me."
   ],
   "parts": [
     {
@@ -16,11 +16,12 @@
       ],
       "usageExamples": [
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Il tempo è finito.",
+          "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/440.json
           "Il cane scodinzolava.",
           "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,39 +30,61 @@
           "Il gatto mangia.",
           "The cat eats.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dottore",
-      "translations": [
-        "doctor",
-        "physician",
-        "medical doctor",
-        "healthcare professional"
-      ],
-      "usageExamples": [
+=======
+          "Il gatto mangia.",
+          "The cat eats.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
         [
-          "A Jim piace il dottore.",
-          "Jim likes the doctor.",
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/361.json
         ]
       ]
     },
     {
-      "content": "gli",
+      "content": "bambino",
       "translations": [
-        "the",
-        "them",
-        "those"
+        "child",
+        "baby",
+        "kid",
+        "infant"
       ],
       "usageExamples": [
         [
-          "Lei chiuse gli occhi.",
-          "She closed her eyes.",
+          "'Aspetta qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da te immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "'Aspettate qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da voi immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "'Aspetti qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da lei immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "me",
+        "myself",
+        "to me",
+        "for me"
+      ],
+      "usageExamples": [
+        [
+          "OK, mi ricorderò di voi.",
+          "OK, I'll remind you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/440.json
           "Hanno sofferto molto durante gli anni della guerra.",
           "They suffered a lot during the war years.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -89,6 +112,15 @@
         [
           "Non ha un fidanzato?",
           "Don't you have a boyfriend?",
+=======
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mi ha detto che eravate felici.",
+          "Tom told me you were happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/361.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -99,8 +131,9 @@
       ]
     },
     {
-      "content": "dato",
+      "content": "sorrise",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/440.json
         "given",
         "data",
         "fact",
@@ -156,6 +189,12 @@
         "tranquilizer",
         "calming agent",
         "sleep aid"
+=======
+        "smiled",
+        "grinned",
+        "beamed",
+        "laughed"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/361.json
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom ha detto a Mary che sarebbe stato libero domani.",
+  "sentence": "Tom era creativo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom told Mary that he'd be free tomorrow."
+    "Tom was creative."
   ],
   "parts": [
     {
@@ -21,6 +21,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1010.json
           "Qualcuno sta osservando Tom.",
           "Someone is watching Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,24 +29,35 @@
         [
           "Tom acconsentì con riluttanza.",
           "Tom reluctantly agreed.",
+=======
+          "Tom sembra compiaciuto.",
+          "Tom looks pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/931.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "era",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
       "usageExamples": [
         [
-          "Cookie ha 15 anni.",
-          "Cookie is 15.",
+          "Chi era qua?",
+          "Who was here?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1010.json
           "Lei ha frenato.",
           "She braked.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
@@ -79,13 +91,23 @@
         [
           "Ti ho detto delle cose così orribili. Mi dispiace.",
           "I said such horrible things to you. I'm sorry.",
+=======
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'avversario più importante del Giappone era la Cina.",
+          "Japan's most important opponent was China.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/931.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "a",
+      "content": "creativo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1010.json
         "an",
         "one",
         "each"
@@ -245,6 +267,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+        "creative",
+        "innovative",
+        "imaginative",
+        "original"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/931.json
     }
   ]
 }

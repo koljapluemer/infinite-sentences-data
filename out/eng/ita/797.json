@@ -1,20 +1,20 @@
 {
-  "sentence": "Penso che Tom ti chiederà di sposarlo.",
+  "sentence": "Pensi che abbiamo convinto Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I think Tom will ask you to marry him."
+    "Do you think we convinced Tom?"
   ],
   "parts": [
     {
-      "content": "Penso",
+      "content": "Pensi",
       "translations": [
-        "I think.",
-        "I believe",
-        "I consider",
-        "I reflect"
+        "Thoughts",
+        "Considerations",
+        "Reflections",
+        "Opinions"
       ],
       "usageExamples": []
     },
@@ -45,6 +45,41 @@
       ]
     },
     {
+      "content": "abbiamo",
+      "translations": [
+        "we have",
+        "we've got",
+        "we possess"
+      ],
+      "usageExamples": [
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
+          "The train is taking off and we haven't bought our tickets!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "convinto",
+      "translations": [
+        "convinced",
+        "persuaded",
+        "won over",
+        "assured"
+      ],
+      "usageExamples": []
+    },
+    {
       "content": "Tom",
       "translations": [
         "Thomas",
@@ -52,6 +87,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/797.json
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -141,6 +177,20 @@
         [
           "Dovresti sposarlo.",
           "You should marry him.",
+=======
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/718.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

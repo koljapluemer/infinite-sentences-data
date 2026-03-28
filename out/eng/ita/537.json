@@ -1,23 +1,31 @@
 {
-  "sentence": "L'ho conosciuto a una festa.",
+  "sentence": "L'astronauta ha trovato un organismo intelligente.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I met him at a party."
+    "The astronaut found an intelligent organism."
   ],
   "parts": [
     {
-      "content": "L'ho",
+      "content": "L'astronauta",
       "translations": [
-        "I have it",
-        "I've got it",
-        "I possess it",
-        "I own it"
+        "The astronaut",
+        "An astronaut",
+        "Astronaut"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/537.json
           "L'ho usata quando ero in Cina la scorsa estate.",
           "I used it when I was in China last summer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,27 +33,42 @@
         [
           "L'ho vista al funerale oggi.",
           "I saw her at the funeral today.",
+=======
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/458.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "conosciuto",
+      "content": "trovato",
       "translations": [
-        "known",
-        "recognized",
-        "familiar",
-        "acknowledged"
+        "found",
+        "discovered",
+        "located",
+        "identified"
       ],
       "usageExamples": [
         [
-          "Aart è conosciuto per i suoi tweet razzisti.",
-          "Aart is known for his racist tweets.",
+          "Tom ha trovato una pistola nella borsa di Mary.",
+          "Tom found a gun in Mary's purse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/537.json
       "content": "a",
       "translations": [
         "an",
@@ -72,14 +95,17 @@
     },
     {
       "content": "una",
+=======
+      "content": "un",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/458.json
       "translations": [
         "one",
         "a",
-        "an",
-        "a single"
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/537.json
           "È una giornata nuvolosa.",
           "It's a cloudy day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -92,20 +118,45 @@
         [
           "È stato una delusione.",
           "It was a disappointment.",
+=======
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiamate un'ambulanza!",
+          "Call an ambulance!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei un testimone.",
+          "You are a witness.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/458.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "festa",
+      "content": "organismo",
       "translations": [
-        "party",
-        "celebration",
-        "feast",
-        "festival"
+        "organism",
+        "body",
+        "entity",
+        "organization"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "intelligente",
+      "translations": [
+        "intelligent",
+        "smart",
+        "clever",
+        "bright"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/537.json
           "Noi terremo una festa.",
           "We'll have a party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -118,6 +169,10 @@
         [
           "Non dimenticherò mai quella festa.",
           "I'll never forget that party.",
+=======
+          "È intelligente quanto sua sorella.",
+          "He's as smart as his sister.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/458.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

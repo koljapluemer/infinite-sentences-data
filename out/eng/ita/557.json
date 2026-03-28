@@ -1,11 +1,11 @@
 {
-  "sentence": "La nuova strada sta venendo costruita.",
+  "sentence": "La matematica è divertente.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by halfb1t (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The new street is being built."
+    "Math is fun."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/557.json
           "La risposta è complicata.",
           "The answer is complicated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,20 +31,51 @@
         [
           "La mangeremo.",
           "We'll eat it.",
+=======
+          "La mangeremo.",
+          "We'll eat it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La detesta assolutamente.",
+          "He absolutely detests her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nuova",
+      "content": "matematica",
       "translations": [
-        "new",
-        "novel",
-        "fresh",
-        "recent"
+        "mathematics",
+        "math",
+        "arithmetic",
+        "calculations"
       ],
       "usageExamples": [
         [
+          "Voglio studiare matematica.",
+          "I want to study math.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/478.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/557.json
           "Hai bisogno di una tastiera nuova?",
           "Do you need a new keyboard?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -51,20 +83,35 @@
         [
           "La nuova legge è stata una riforma importante.",
           "The new law was a major reform.",
+=======
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/478.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "strada",
+      "content": "divertente",
       "translations": [
-        "road",
-        "street",
-        "way",
-        "route"
+        "funny",
+        "entertaining",
+        "amusing",
+        "enjoyable"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/557.json
           "La vita è una lunga, lunga strada.",
           "Life is a long, long road.",
           "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
@@ -124,6 +171,10 @@
         [
           "È stata costruita una ferrovia in questa città.",
           "A railroad was constructed in this town.",
+=======
+          "Questa pagina non è mai stata divertente.",
+          "This page was never funny.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/478.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

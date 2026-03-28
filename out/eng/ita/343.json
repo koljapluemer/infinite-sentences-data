@@ -1,33 +1,34 @@
 {
-  "sentence": "Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firenze.",
+  "sentence": "Dovette pulire la cucina.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Conjuice (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence."
+    "He had to clean the kitchen."
   ],
   "parts": [
     {
-      "content": "Durante",
+      "content": "Dovette",
       "translations": [
-        "during",
-        "while",
-        "in the course of",
-        "throughout"
+        "Should have",
+        "Ought to have",
+        "Had to",
+        "Was supposed to"
       ],
       "usageExamples": []
     },
     {
-      "content": "il",
+      "content": "pulire",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "to clean",
+        "to tidy up",
+        "to purify",
+        "to polish"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/343.json
           "Non conosco il sistema.",
           "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -223,6 +224,10 @@
         [
           "Sono preparata per morire.",
           "I'm prepared to die.",
+=======
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/264.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -247,13 +252,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/343.json
           "Apri la cassaforte.",
           "Open the safe.",
+=======
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/264.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -264,15 +279,16 @@
       ]
     },
     {
-      "content": "loro",
+      "content": "cucina",
       "translations": [
-        "their",
-        "theirs",
-        "them",
-        "those"
+        "kitchen",
+        "cooking area",
+        "culinary space",
+        "kitchenette"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/343.json
           "Cosa capiterà a loro?",
           "What'll happen to them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -361,6 +377,18 @@
         "Florentine"
       ],
       "usageExamples": []
+=======
+          "È uscito dalla cucina.",
+          "He got out of the kitchen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Riconosco il tuo contributo per tenere pulita la cucina.",
+          "I recognize your contribution to keeping the kitchen clean.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/264.json
     }
   ]
 }

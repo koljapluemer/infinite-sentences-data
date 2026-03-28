@@ -1,11 +1,11 @@
 {
-  "sentence": "Non ha un fidanzato?",
+  "sentence": "Non era una vittoria completa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Don't you have a boyfriend?"
+    "It was not a complete victory."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/719.json
           "Non scordatela.",
           "Don't forget it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,19 +31,35 @@
         [
           "Non conosco il sistema.",
           "I don't know the system.",
+=======
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/640.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "era",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/719.json
           "Nessuno ha capito nulla.",
           "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,19 +72,35 @@
         [
           "Quanti figli ha Tom?",
           "How many kids does Tom have?",
+=======
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/640.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "una",
       "translations": [
         "one",
         "a",
-        "an"
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/719.json
           "Lui sembra un delinquente.",
           "He looks like a gangster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,15 +114,41 @@
           "È un ghostwriter.",
           "He's a ghostwriter.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "È una maledizione.",
+          "It is a curse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/640.json
         ]
       ]
     },
     {
-      "content": "fidanzato",
+      "content": "vittoria",
       "translations": [
-        "boyfriend",
-        "fiancé",
-        "partner"
+        "victory",
+        "triumph",
+        "win",
+        "success"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "completa",
+      "translations": [
+        "complete",
+        "full",
+        "finished",
+        "entire"
       ],
       "usageExamples": []
     }

@@ -1,23 +1,34 @@
 {
-  "sentence": "Sei mai stato in Francia?",
+  "sentence": "Saranno arrivate a Morioka per mezzogiorno.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Have you ever been to France?"
+    "They will have arrived at Morioka by noon."
   ],
   "parts": [
     {
-      "content": "Sei",
+      "content": "Saranno",
       "translations": [
-        "You are",
-        "You exist",
-        "You live",
-        "You are being"
+        "They will be",
+        "There will be",
+        "They are going to be",
+        "It will be"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "arrivate",
+      "translations": [
+        "arrive",
+        "you arrive",
+        "you have arrived",
+        "arrived"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/913.json
           "Sei un testimone.",
           "You are a witness.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,20 +41,84 @@
         [
           "Sei sospesa?",
           "Are you suspended?",
+=======
+          "A che ora arrivate al lavoro?",
+          "What time do you arrive at work?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mai",
+      "content": "a",
       "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Morioka",
+      "translations": [
+        "City of Morioka",
+        "Morioka City",
+        "Morioka Prefecture"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/834.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mezzogiorno",
+      "translations": [
+        "noon",
+        "midday",
+        "12 PM",
+        "midday time"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/913.json
           "Non sia mai gelosa.",
           "Never be jealous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -119,6 +194,13 @@
         "Land of the French"
       ],
       "usageExamples": []
+=======
+          "La lasciai dormire fino a mezzogiorno.",
+          "I let her sleep until noon.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/834.json
     }
   ]
 }

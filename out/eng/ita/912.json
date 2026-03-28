@@ -1,35 +1,61 @@
 {
-  "sentence": "Se non ci sbrighiamo, perderemo il nostro treno.",
+  "sentence": "Sapeva che doveva farlo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "If we don't hurry, we'll miss our train."
+    "She knew she had to do that."
   ],
   "parts": [
     {
-      "content": "Se",
+      "content": "sapeva",
       "translations": [
-        "If",
-        "Whether",
-        "As",
-        "Self"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "non",
-      "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "knew",
+        "was aware",
+        "understood",
+        "had knowledge"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/912.json
           "Perché non ha corso?",
           "Why didn't you run?",
+=======
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non sapeva quale fosse il cognome di Mary.",
+          "Tom didn't know what Mary's last name was.",
+          "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/833.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -45,15 +71,16 @@
       ]
     },
     {
-      "content": "ci",
+      "content": "doveva",
       "translations": [
-        "us",
-        "to us",
-        "for us",
-        "at us"
+        "had to",
+        "was supposed to",
+        "was required to",
+        "needed to"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/912.json
           "Quanto denaro ci dovete?",
           "How much money do you owe us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,39 +93,25 @@
         [
           "Loro ci aiutano.",
           "They help us.",
+=======
+          "Non doveva aiutarla.",
+          "He didn't have to help her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/833.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sbrighiamo",
+      "content": "farlo",
       "translations": [
-        "let's hurry up",
-        "let's get moving",
-        "let's speed things up",
-        "let's be quick"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "perderemo",
-      "translations": [
-        "we will lose",
-        "we'll lose",
-        "we are going to lose"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "to do it",
+        "to make it",
+        "to get it done",
+        "to accomplish it"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/912.json
           "Mi piace il reggae.",
           "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -106,12 +119,17 @@
         [
           "Avete il nostro rispetto.",
           "You have our respect.",
+=======
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/833.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "Non potrei mai farlo a lei.",
+          "I could never do that to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/912.json
         ]
       ]
     },
@@ -164,6 +182,13 @@
           "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
           "The train is taking off and we haven't bought our tickets!",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+=======
+        ],
+        [
+          "Mary dice che ha già deciso di farlo.",
+          "Mary says she's already decided to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/833.json
         ]
       ]
     }

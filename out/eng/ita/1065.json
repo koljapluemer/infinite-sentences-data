@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom è corso ad aiutare Mary.",
+  "sentence": "Tom venne qui da solo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom ran to help Mary."
+    "Tom came here alone."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1065.json
           "Tom sta gemendo.",
           "Tom is whining.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,19 +30,45 @@
           "Dovremmo avvertire Tom.",
           "We should warn Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/986.json
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "venne",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "came",
+        "arrived",
+        "went",
+        "showed up"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "qui",
+      "translations": [
+        "who",
+        "that",
+        "which",
+        "whom"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1065.json
           "Tom è un esperto.",
           "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,20 +81,35 @@
         [
           "Tom è famoso.",
           "Tom's famous.",
+=======
+          "Odio qui.",
+          "I hate it here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché sono qui?",
+          "Why am I here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Erano proprio qui.",
+          "They were right here.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/986.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "corso",
+      "content": "da",
       "translations": [
-        "course",
-        "class",
-        "program",
-        "training"
+        "from",
+        "since",
+        "by",
+        "of"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1065.json
           "Un cane ha corso.",
           "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -106,25 +148,40 @@
         [
           "State provando ad escludermi?",
           "Are you trying to exclude me?",
+=======
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/986.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aiutare",
+      "content": "solo",
       "translations": [
-        "to help",
-        "to assist",
-        "to aid",
-        "to support"
+        "alone",
+        "only",
+        "just",
+        "single"
       ],
       "usageExamples": [
         [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
+          "Io sono solo curiosa.",
+          "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1065.json
           "Dovresti aiutare Tom.",
           "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -157,6 +214,15 @@
         [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
+=======
+          "Bevo solo caffè decaffeinato.",
+          "I only drink decaffeinated coffee.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sospetto che Tom non faccia i compiti da solo.",
+          "I suspect that Tom doesn't do his homework by himself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/986.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

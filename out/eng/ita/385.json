@@ -1,12 +1,11 @@
 {
-  "sentence": "Ha lasciato un po' di cibo nel suo piatto.",
+  "sentence": "Ha a malapena toccato la sua cena.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He left some food on his plate.",
-    "She left some food on her plate."
+    "He barely touched his dinner."
   ],
   "parts": [
     {
@@ -19,6 +18,7 @@
       "usageExamples": [
         [
           "Ha perso qualcosa?",
+<<<<<<< HEAD:out/eng/ita/385.json
           "Have you lost something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
@@ -30,11 +30,20 @@
         [
           "Ha fatto qualcosa di incredibilmente stupido.",
           "You did something incredibly stupid.",
+=======
+          "Did you lose something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "He lost the game.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/306.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/385.json
       "content": "lasciato",
       "translations": [
         "left",
@@ -57,13 +66,17 @@
     },
     {
       "content": "un",
+=======
+      "content": "a",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/306.json
       "translations": [
+        "an",
         "one",
-        "a",
-        "an"
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/385.json
           "Era un libro nuovo.",
           "It was a new book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -71,25 +84,35 @@
         [
           "Lui sembra un delinquente.",
           "He looks like a gangster.",
+=======
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un esperto.",
-          "Tom is a pro.",
+          "Volate fino a Londra.",
+          "Fly to London.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/306.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "po'",
+      "content": "malapena",
       "translations": [
-        "a little",
-        "somewhat",
-        "a bit",
-        "rather"
+        "barely",
+        "hardly",
+        "scarcely",
+        "just about"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/385.json
           "Vorrei un po' di vino bianco, per favore.",
           "I'd like some white wine, please.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -155,12 +178,18 @@
           "Tutto il nostro cibo è andato a male.",
           "All our food was spoiled.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
+          "My eyes were full of tears and I could barely see him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/306.json
         ]
       ]
     },
     {
-      "content": "nel",
+      "content": "toccato",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/385.json
         "in the",
         "inside the",
         "within the",
@@ -217,8 +246,91 @@
         "dish",
         "platter",
         "tray"
+=======
+        "touched",
+        "played (as in music)",
+        "struck",
+        "affected"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/306.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "You lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where's his home?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace la sua matrigna.",
+          "Mary doesn't like her stepmother.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa della sua salute.",
+          "Mary cares about her health.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cena",
+      "translations": [
+        "dinner",
+        "supper",
+        "meal"
+      ],
+      "usageExamples": [
+        [
+          "Studio inglese dopo cena.",
+          "I study English after dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A noi è piaciuta la cena.",
+          "We enjoyed the dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa c'è per cena?",
+          "What's for supper?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

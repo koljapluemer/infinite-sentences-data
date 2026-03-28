@@ -1,11 +1,11 @@
 {
-  "sentence": "A Layla piaceva la sua vita al Cairo.",
+  "sentence": "A Larry piace l'aragosta.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Layla was enjoying her life in Cairo."
+    "Larry likes lobster."
   ],
   "parts": [
     {
@@ -27,15 +27,21 @@
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/95.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/70.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Layla",
+      "content": "Larry",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/95.json
         "Night",
         "Dark beauty",
         "Nighttime"
@@ -187,8 +193,37 @@
       "translations": [
         "Cairo",
         "Cairo, Egypt"
+=======
+        "Larry",
+        "Lorenzo"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/70.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,16 +1,17 @@
 {
-  "sentence": "Era una corsa contro il tempo.",
+  "sentence": "Ehi, Tom, dimentica le tue paure.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It was a race against time."
+    "Hey, Tom, forget about your worries."
   ],
   "parts": [
     {
-      "content": "Era",
+      "content": "Ehi",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/350.json
         "Period",
         "Age",
         "Epoch"
@@ -66,42 +67,81 @@
         "race",
         "course",
         "journey"
+=======
+        "Hey.",
+        "Hello.",
+        "Hi.",
+        "Yo"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/271.json
       ],
       "usageExamples": []
     },
     {
-      "content": "contro",
+      "content": "Tom",
       "translations": [
-        "against",
-        "opposed to",
-        "in contrast to",
-        "counter"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/350.json
           "Ha gridato contro il suo computer.",
           "She yelled at her computer.",
+=======
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/271.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "dimentica",
+      "translations": [
+        "forget",
+        "overlook",
+        "neglect",
+        "dismiss"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "le",
       "translations": [
         "the",
-        "it",
-        "him",
-        "that"
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/350.json
           "Io insegno il berbero.",
           "I teach Berber.",
+=======
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi piacciono le sue barzellette.",
+          "I don't like his jokes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/271.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -117,29 +157,23 @@
       ]
     },
     {
-      "content": "tempo",
+      "content": "tue",
       "translations": [
-        "time",
-        "weather",
-        "period"
+        "your",
+        "yours",
+        "of you"
       ],
-      "usageExamples": [
-        [
-          "Il tempo è finito.",
-          "Time is up.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
-          "Only time will tell what the world has in store for us.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanto tempo ci è voluto per tradurre questo libro?",
-          "How long did it take us to translate this book?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "paure",
+      "translations": [
+        "fear",
+        "scare",
+        "anxiety",
+        "dread"
+      ],
+      "usageExamples": []
     }
   ]
 }

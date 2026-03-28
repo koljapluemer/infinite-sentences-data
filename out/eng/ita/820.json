@@ -1,11 +1,11 @@
 {
-  "sentence": "Perché odiate così tanto il vostro paese?",
+  "sentence": "Perché non lo scorda e basta?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why do you hate your country so much?"
+    "Why don't you just forget it?"
   ],
   "parts": [
     {
@@ -18,23 +18,59 @@
       ],
       "usageExamples": [
         [
-          "Perché siete andati lì?",
-          "Why did you go there?",
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Perché qualcuno vorrebbe baciarvi?",
           "Why would anyone want to kiss you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/820.json
         ],
         [
           "Perché non la cercate?",
           "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/741.json
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/820.json
       "content": "odiate",
       "translations": [
         "to hate",
@@ -93,6 +129,9 @@
     },
     {
       "content": "il",
+=======
+      "content": "lo",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/741.json
       "translations": [
         "the",
         "it",
@@ -101,6 +140,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/820.json
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -113,19 +153,44 @@
         [
           "Avete il nostro rispetto.",
           "You have our respect.",
+=======
+          "Beh, sicuramente lo richiederò.",
+          "Well, I'll surely ask again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/741.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vostro",
+      "content": "scorda",
       "translations": [
-        "your",
-        "yours",
-        "your own"
+        "forget",
+        "to forget",
+        "forgetting"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "e",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/820.json
           "Il vostro silenzio mi rende nervoso.",
           "Your silence makes me nervous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -138,23 +203,37 @@
         [
           "Avete visitato la città dove è nato vostro padre?",
           "Have you visited the town where your father was born?",
+=======
+          "Tom e Mary non erano feriti.",
+          "Tom and Mary weren't injured.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A volte Mary lo fa e a volte non lo fa.",
+          "Sometimes Mary does that and sometimes she doesn't.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom e Mary stanno decorando la loro stanza.",
+          "Tom and Mary are decorating their room.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/741.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "paese",
+      "content": "basta",
       "translations": [
-        "country",
-        "village",
-        "town",
-        "nation"
+        "enough",
+        "just",
+        "only",
+        "stop"
       ],
       "usageExamples": [
         [
-          "Io non sono mai stato in quella parte del paese.",
-          "I have never been to that part of the country.",
-          "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
+          "Chiedilo a loro e basta.",
+          "Just ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

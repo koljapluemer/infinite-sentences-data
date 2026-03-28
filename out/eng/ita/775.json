@@ -1,11 +1,11 @@
 {
-  "sentence": "Non vuole fermarla.",
+  "sentence": "Non vinco molto spesso.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He doesn't want to stop her."
+    "I don't win very often."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/775.json
           "Non l'ho riconosciuto.",
           "I didn't recognize it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,25 +31,50 @@
         [
           "Non vinco molto spesso.",
           "I don't win very often.",
+=======
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/696.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non l'ho riconosciuto.",
+          "I didn't recognize it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vuole",
+      "content": "vinco",
       "translations": [
-        "wants",
-        "desires",
-        "wishes",
-        "intends"
+        "I conquer",
+        "I win.",
+        "I overcome",
+        "I defeat"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "molto",
+      "translations": [
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/775.json
           "Mary sa che cosa vuole dire.",
           "Mary knows what she wants to say.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,19 +82,44 @@
         [
           "Tom vuole che qualcuno lo aiuti.",
           "Tom wants somebody to help him.",
+=======
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/696.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fermarla",
+      "content": "spesso",
       "translations": [
-        "stop it",
-        "halt it",
-        "hold it",
-        "prevent it"
+        "often",
+        "frequently",
+        "usually",
+        "repeatedly"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Quanto spesso mangi pesce?",
+          "How often do you eat fish?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "La saggezza spesso cresce con le esperienze che accumuli.",
+          "Wisdom often grows with the experiences you accumulate.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

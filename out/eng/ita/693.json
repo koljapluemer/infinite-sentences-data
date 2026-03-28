@@ -1,30 +1,40 @@
 {
-  "sentence": "Noi sentiamo con le nostre orecchie.",
+  "sentence": "Nessuno qua balla bene come te.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We hear with our ears."
+    "Nobody here dances as well as you."
   ],
   "parts": [
     {
-      "content": "Noi",
+      "content": "Nessuno",
       "translations": [
-        "We",
-        "Us",
-        "Ours",
-        "Our group"
+        "No one",
+        "Nobody",
+        "Not anyone",
+        "None"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/693.json
           "Noi ti amiamo entrambi.",
           "We both love you.",
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi terremo una festa.",
-          "We'll have a party.",
+          "Nessuno vi sostituirà.",
+          "Nobody will ever replace you.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/614.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,30 +45,57 @@
       ]
     },
     {
-      "content": "sentiamo",
+      "content": "qua",
       "translations": [
-        "we hear",
-        "let's hear",
-        "we feel",
-        "let's feel"
+        "where",
+        "in which",
+        "at which",
+        "by which"
+      ],
+      "usageExamples": [
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo aspettarli qua.",
+          "I have to wait here for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "balla",
+      "translations": [
+        "dance",
+        "to dance",
+        "ball",
+        "a dance event"
       ],
       "usageExamples": []
     },
     {
-      "content": "con",
+      "content": "bene",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "well",
+        "good",
+        "fine",
+        "okay"
       ],
       "usageExamples": [
         [
-          "Siate pazienti con noi.",
-          "Be patient with us.",
+          "È andata bene oggi?",
+          "Did it go well today?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/693.json
           "Era sposato con lei.",
           "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,20 +103,30 @@
         [
           "Parlo frequentemente con lui.",
           "I frequently talk to him.",
+=======
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai giocare bene a pallacanestro?",
+          "Can you play basketball well?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/614.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "le",
+      "content": "come",
       "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
+        "how",
+        "like",
+        "as",
+        "when"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/693.json
           "Non le può licenziare.",
           "You can't fire them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -92,34 +139,49 @@
         [
           "Tirate fuori i vostri quaderni e le vostre penne.",
           "Get out your notebooks and pens.",
+=======
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vladimir è forte come una mucca.",
+          "Vladimir is strong as a cow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Come ti sei sentita quando è successo?",
+          "How did you feel when that happened?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/614.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nostre",
+      "content": "te",
       "translations": [
-        "our",
-        "ours",
-        "of ours"
+        "you",
+        "yourself",
+        "to you",
+        "for you"
       ],
       "usageExamples": [
         [
-          "Gli amici entrano nelle nostre vite volontariamente.",
-          "Friends come into our lives voluntarily.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Voglio parlare con te da sola.",
+          "I want to speak to you alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché te ne stai andando?",
+          "Why are you leaving?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non è alto come te.",
+          "Tom isn't tall like you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "orecchie",
-      "translations": [
-        "ears",
-        "earlobes",
-        "auricles",
-        "hearing organs"
-      ],
-      "usageExamples": []
     }
   ]
 }

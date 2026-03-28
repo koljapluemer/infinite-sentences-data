@@ -1,32 +1,23 @@
 {
-  "sentence": "Natalia e Veronica si guardavano a vicenda con complicità.",
+  "sentence": "Mi sto facendo ricrescere la barba.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by marcelostockle (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Natalia and Veronica looked at each other in complicity."
+    "I'm growing a beard again."
   ],
   "parts": [
     {
-      "content": "Natalia",
+      "content": "Mi",
       "translations": [
-        "Natasha",
-        "Natalie",
-        "Nat"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "e",
-      "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "Me",
+        "I",
+        "Myself"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/683.json
           "Jack ha un gatto e un pappagallo a casa.",
           "Jack keeps a cat and a parrot at home.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -74,29 +65,35 @@
         [
           "Tom si è addolcito.",
           "Tom relented.",
+=======
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi servono dei francobolli.",
+          "I need stamps.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/604.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "guardavano",
+      "content": "sto",
       "translations": [
-        "they were looking",
-        "they looked",
-        "they were watching",
-        "they watched"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
+        "I stand",
+        "I am standing",
+        "I stay",
+        "I am staying"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/683.json
           "Volate fino a Londra.",
           "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -109,30 +106,35 @@
         [
           "Cosa capiterà a loro?",
           "What's going to happen to them?",
+=======
+          "Io sto diventando piccolo!",
+          "I am getting small!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sto riposando ora.",
+          "I'm resting now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/604.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vicenda",
+      "content": "facendo",
       "translations": [
-        "event",
-        "incident",
-        "situation",
-        "story"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "doing",
+        "making",
+        "performing",
+        "executing"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/683.json
           "È con Tom, vero?",
           "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -145,17 +147,62 @@
         [
           "Siate pazienti con noi.",
           "Be patient with us.",
+=======
+          "Stai facendo progressi.",
+          "You're making progress.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Faresti meglio ad andare. Si sta facendo tardi.",
+          "You'd better go. It's getting late.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/604.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "complicità",
+      "content": "ricrescere",
       "translations": [
-        "complicity",
-        "collusion",
-        "involvement",
-        "connivance"
+        "to regrow",
+        "to grow back",
+        "to regenerate",
+        "to sprout again"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "She lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "barba",
+      "translations": [
+        "beard",
+        "facial hair",
+        "whiskers",
+        "stubble"
       ],
       "usageExamples": []
     }

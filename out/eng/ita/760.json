@@ -1,11 +1,11 @@
 {
-  "sentence": "Non so cosa farò con Tom.",
+  "sentence": "Non si preoccupi per Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't know what I'm going to do with Tom."
+    "Don't worry about Tom."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/760.json
           "Non vengono.",
           "They're not coming.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,25 +56,45 @@
         [
           "Io so cosa gli è successo.",
           "I know what happened to him.",
+=======
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/681.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cosa",
+      "content": "si",
       "translations": [
-        "thing",
-        "item",
-        "object",
-        "matter"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
       ],
       "usageExamples": [
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/760.json
           "Sai cosa vuole Tom?",
           "Do you know what Tom wants?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -82,47 +103,55 @@
           "Non sapeva cosa fare.",
           "She didn't know what to do.",
           "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+=======
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/681.json
         ]
       ]
     },
     {
-      "content": "farò",
+      "content": "preoccupi",
       "translations": [
-        "I will do",
-        "I will make",
-        "I will create",
-        "I will perform"
+        "worry",
+        "concern",
+        "preoccupy",
+        "trouble"
       ],
-      "usageExamples": [
-        [
-          "A Dio piacendo, lo farò domani.",
-          "God willing, I will do it tomorrow.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "con",
+      "content": "per",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/760.json
           "Siate pazienti con noi.",
           "Be patient with us.",
+=======
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/681.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/760.json
           "È con Tom, vero?",
           "You're with Tom, aren't you?",
+=======
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/681.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -136,6 +165,7 @@
       "usageExamples": [
         [
           "Tom si è divertito.",
+<<<<<<< HEAD:out/eng/ita/760.json
           "Tom enjoyed himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
@@ -147,6 +177,19 @@
         [
           "Tom è ovviamente arrabbiato.",
           "Tom is obviously angry.",
+=======
+          "Tom had a good time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/681.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

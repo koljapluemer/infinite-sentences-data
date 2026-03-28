@@ -1,11 +1,11 @@
 {
-  "sentence": "Non hai paura di essere infettata dal virus?",
+  "sentence": "Non fidarti troppo di Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Aren't you afraid of getting infected by the virus?"
+    "Don't trust Tom too much."
   ],
   "parts": [
     {
@@ -18,57 +18,70 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/721.json
           "Non dormite mai?",
           "Don't you ever sleep?",
+=======
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/642.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Non bevete il caffè?",
           "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/721.json
         ],
         [
           "Non volevo intromettermi.",
           "I didn't want to intrude.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/642.json
         ]
       ]
     },
     {
-      "content": "hai",
+      "content": "fidarti",
       "translations": [
-        "you have",
-        "you've got",
-        "you possess",
-        "you own"
+        "to trust",
+        "to rely on",
+        "to confide in",
+        "to have faith in"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "troppo",
+      "translations": [
+        "too much",
+        "excessively",
+        "overly",
+        "very"
       ],
       "usageExamples": [
         [
-          "Perché li hai attaccati?",
-          "Why did you attack them?",
+          "State guidando decisamente troppo veloce.",
+          "You're driving way too fast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti ne hai?",
-          "How many do you have?",
+          "Penso che Tom sia troppo giovane.",
+          "I think Tom is too young.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non hai coscienza!",
-          "You have no conscience!",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+          "Potrebbe funzionare, però è troppo rischioso.",
+          "That might work, but it's too risky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "paura",
-      "translations": [
-        "fear",
-        "fright",
-        "anxiety",
-        "dread"
-      ],
-      "usageExamples": []
     },
     {
       "content": "di",
@@ -80,6 +93,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/721.json
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -88,6 +102,16 @@
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+=======
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/642.json
         ],
         [
           "L'abbiamo perso di vista.",
@@ -97,20 +121,19 @@
       ]
     },
     {
-      "content": "essere",
+      "content": "Tom",
       "translations": [
-        "to be",
-        "to exist",
-        "to occur",
-        "to happen"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Deve essere difficile.",
-          "That must be hard.",
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/721.json
           "Shloyme vuole essere uno scrittore.",
           "Shloyme wants to be a writer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -118,49 +141,18 @@
         [
           "A Layla non piace essere ignorata.",
           "Layla doesn't like to be ignored.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "infettata",
-      "translations": [
-        "infected",
-        "contaminated",
-        "tainted",
-        "polluted"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dal",
-      "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
-      ],
-      "usageExamples": [
-        [
-          "Ho iniziato dal fondo.",
-          "I started at the bottom.",
+=======
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "250 copie sono disponibili dal nostro negozio ufficiale.",
-          "250 copies are available from our official shop.",
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/642.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "virus",
-      "translations": [
-        "pathogen",
-        "infectious agent",
-        "viral agent"
-      ],
-      "usageExamples": []
     }
   ]
 }

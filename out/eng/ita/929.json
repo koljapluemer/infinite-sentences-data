@@ -1,23 +1,24 @@
 {
-  "sentence": "Siamo arrivati ieri in treno.",
+  "sentence": "Si contraddicono molto.",
   "credits": [
-    "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sundown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We arrived yesterday afternoon by train."
+    "They contradict themselves a lot."
   ],
   "parts": [
     {
-      "content": "Siamo",
+      "content": "Si",
       "translations": [
-        "We are",
-        "We exist",
-        "We stand",
-        "We remain"
+        "If",
+        "Whether",
+        "In case",
+        "Provided that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/929.json
           "Siamo veramente così poveri?",
           "Are we really that poor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,39 +26,50 @@
         [
           "Siamo eccentrici.",
           "We're unusual.",
+=======
+          "Si sono sposati.",
+          "They got married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Siamo preoccupate per il nonno e la nonna.",
-          "We are worried about grandpa and grandma.",
+          "Si ruppe entrambe le braccia.",
+          "She broke both her arms.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/850.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "arrivati",
+      "content": "contraddicono",
       "translations": [
-        "arrived",
-        "have arrived",
-        "gotten here",
-        "reached"
+        "they contradict",
+        "they oppose",
+        "they counter",
+        "they clash"
       ],
       "usageExamples": []
     },
     {
-      "content": "ieri",
+      "content": "molto",
       "translations": [
-        "yesterday",
-        "the day before today",
-        "the previous day"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
-          "Era occupato ieri?",
-          "Were you busy yesterday?",
+          "Non vinco molto spesso.",
+          "I don't win very often.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/929.json
           "Sono andato all'ospedale ieri.",
           "I went to the hospital yesterday.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
@@ -117,6 +129,16 @@
           "Non so se lui verrà in treno o in auto.",
           "I don't know whether he'll come by train or by car.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/850.json
         ]
       ]
     }

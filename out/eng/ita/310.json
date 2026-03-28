@@ -1,23 +1,23 @@
 {
-  "sentence": "Cosa la sta causando?",
+  "sentence": "Cookie ha 15 anni.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Miktsoanit (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's causing it?"
+    "Cookie is 15."
   ],
   "parts": [
     {
-      "content": "Cosa",
+      "content": "Cookie",
       "translations": [
-        "Thing",
-        "Item",
-        "Object",
-        "Stuff"
+        "Biscuit",
+        "Sweet biscuit",
+        "Baked treat"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/310.json
           "Cosa vorrebbe bere?",
           "What would you like to drink?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,25 +30,29 @@
         [
           "Cosa capiterà a loro?",
           "What's going to happen to them?",
+=======
+          "A Cookie non piacciono i baci.",
+          "Cookie doesn't like kisses.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/231.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "ha",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/310.json
           "Ci serviva la pioggia.",
           "We needed the rain.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,45 +60,70 @@
         [
           "Prendi la mia.",
           "Take mine.",
+=======
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/231.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sta",
+      "content": "15",
       "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
+        "Item: 15",
+        "Number: 15",
+        "Fifteenth item",
+        "Fifteen"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/310.json
           "Tom sta gemendo.",
           "Tom is groaning.",
+=======
+          "3 per 5 fa 15.",
+          "3 multiplied by 5 is 15.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/231.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Qualcuno sta osservando Tom.",
-          "Someone is watching Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Li sta confondendo.",
-          "You're confusing them.",
+          "3 moltiplicato per 5 fa 15.",
+          "3 multiplied by 5 is 15.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "causando",
+      "content": "anni",
       "translations": [
-        "causing",
-        "causal",
-        "resulting in",
-        "leading to"
+        "years",
+        "ages",
+        "annums",
+        "time periods"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno sofferto molto durante gli anni della guerra.",
+          "They suffered a lot during the war years.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "95 anni! Dio salvi la regina!",
+          "95 years old! God Save the Queen!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

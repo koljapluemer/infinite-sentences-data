@@ -1,11 +1,11 @@
 {
-  "sentence": "Io non mi sono mai sentito così vivo.",
+  "sentence": "Io l'ho sentito.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've never felt so alive."
+    "I heard it."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/490.json
           "Io parlo bosniaco.",
           "I speak Bosnian.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -102,6 +103,20 @@
         [
           "Si sono sposati.",
           "They got married.",
+=======
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/411.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -112,20 +127,21 @@
       ]
     },
     {
-      "content": "mai",
+      "content": "l'ho",
       "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
+        "I have it",
+        "I've got it",
+        "I possess it",
+        "I own it"
       ],
       "usageExamples": [
         [
-          "Tom non cambia mai.",
-          "Tom never changes.",
+          "Non l'ho riconosciuto.",
+          "I didn't recognize it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/490.json
           "Non sia mai gelosa.",
           "Never be jealous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -133,6 +149,10 @@
         [
           "Avete mai provato?",
           "Did you ever try?",
+=======
+          "In realtà non l'ho mai incontrata.",
+          "I've never actually met her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/411.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -147,11 +167,12 @@
       ],
       "usageExamples": [
         [
-          "Io l'ho sentito.",
-          "I heard it.",
+          "Io non mi sono mai sentito così vivo.",
+          "I've never felt so alive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+<<<<<<< HEAD:out/eng/ita/490.json
     },
     {
       "content": "così",
@@ -188,6 +209,8 @@
         "I exist."
       ],
       "usageExamples": []
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/411.json
     }
   ]
 }

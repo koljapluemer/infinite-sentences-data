@@ -1,29 +1,38 @@
 {
-  "sentence": "So che hai un problema.",
+  "sentence": "Siete così paranoici.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I know you have a problem."
+    "You're so paranoid."
   ],
   "parts": [
     {
-      "content": "So",
+      "content": "Siete",
       "translations": [
-        "Therefore",
-        "Thus",
-        "In that case"
+        "Seven",
+        "7"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/941.json
           "So che Tom vi ha ferite.",
           "I know that Tom hurt you.",
+=======
+          "Siete così impazienti.",
+          "You're so impatient.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "So che Tom e Mary devono andare a Boston.",
-          "I know Tom and Mary have to go to Boston.",
+          "Siete senza speranza.",
+          "You're hopeless.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/862.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete soli.",
+          "You are alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,15 +43,16 @@
       ]
     },
     {
-      "content": "che",
+      "content": "così",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "so",
+        "like this",
+        "in this way",
+        "thus"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/941.json
           "È quello che sono.",
           "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,20 +65,35 @@
         [
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
+=======
+          "Siete così impazienti.",
+          "You're so impatient.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È così sciocco.",
+          "That's so silly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo veramente così poveri?",
+          "Are we really that poor?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/862.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hai",
+      "content": "paranoici",
       "translations": [
-        "you have",
-        "you've got",
-        "you possess",
-        "you own"
+        "paranoids",
+        "paranoid individuals",
+        "people with paranoia",
+        "those suffering from paranoia"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/941.json
           "Quanti ne hai?",
           "How many do you have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -132,6 +157,10 @@
         [
           "Il mio problema è che sono troppo occupata.",
           "My problem is I'm too busy.",
+=======
+          "Sospettai sempre che Tom e Mary fossero un po' paranoici.",
+          "I always suspected that Tom and Mary were a little paranoid.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/862.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

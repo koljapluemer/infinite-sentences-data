@@ -1,32 +1,134 @@
 {
-  "sentence": "Vieni in Albania, dove trovi sempre del caffè ottimo.",
+<<<<<<< HEAD:out/eng/ita/1104.json
+  "sentence": "Vado ora a iscrivermi a un corso di tedesco.",
   "credits": [
-    "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Ylberi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by xicotenga (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ryanwhiting (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Come to Albania, where we always make good coffee."
+    "I'm going to sign up for a German class right now."
   ],
   "parts": [
     {
-      "content": "Vieni",
+      "content": "Vado",
       "translations": [
-        "Come",
-        "Come here.",
-        "Come over",
-        "Join us."
+        "I go",
+        "I'm going.",
+        "I am going.",
+        "I will go."
+      ],
+      "usageExamples": [
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+=======
+  "sentence": "È una cantante davvero pessima, vero?",
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+  ],
+  "translations": [
+    "She's a really bad singer, isn't she?"
+  ],
+  "parts": [
+    {
+      "content": "È",
+      "translations": [
+        "It is",
+        "He is",
+        "She is",
+        "There is"
+      ],
+      "usageExamples": [
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una giornata nuvolosa.",
+          "It's a cloudy day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1104.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+<<<<<<< HEAD:out/eng/ita/1104.json
+      "content": "ora",
+      "translations": [
+        "now",
+        "hour",
+        "time",
+        "moment"
+      ],
+      "usageExamples": [
+        [
+          "Mi sto riposando ora.",
+          "I'm resting now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi non possiamo farlo ora.",
+          "We can't do it now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A che ora arrivate al lavoro?",
+          "What time do you arrive at work?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "iscrivermi",
+      "translations": [
+        "to enroll myself",
+        "to register myself",
+        "to sign up"
       ],
       "usageExamples": []
     },
     {
-      "content": "in",
+      "content": "un",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<<< HEAD:out/eng/ita/1104.json
           "Noi siamo in Finlandia.",
           "We are in Finland.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,64 +142,95 @@
           "Viviamo in campagna adesso.",
           "We live in the country now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+========
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beviamo un'altra birra.",
+          "Let's have another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1025.json
         ]
       ]
     },
     {
-      "content": "Albania",
+      "content": "corso",
       "translations": [
-        "the Republic of Albania",
-        "Albanian territory",
-        "Albanian state"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dove",
-      "translations": [
-        "where",
-        "wherever",
-        "whither",
-        "to what place"
+        "course",
+        "class",
+        "program",
+        "training"
       ],
       "usageExamples": [
         [
+<<<<<<<< HEAD:out/eng/ita/1104.json
           "Avete visitato la città dove è nato vostro padre?",
           "Have you visited the town where your father was born?",
+========
+          "Perché non ha corso?",
+          "Why didn't you run?",
+>>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1025.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami sa dove abita Layla.",
-          "Sami knows where Layla lives.",
+          "Un cane ha corso.",
+          "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<<< HEAD:out/eng/ita/1104.json
           "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
           "\"Where's your girlfriend from?\" \"She's Russian.\"",
+========
+          "Tom è corso ad aiutare Mary.",
+          "Tom ran to help Mary.",
+>>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1025.json
+=======
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Sono una buona persona.",
+          "I'm a good person.",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1104.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "trovi",
+<<<<<<< HEAD:out/eng/ita/1104.json
+      "content": "di",
       "translations": [
-        "find",
-        "locate",
-        "discover",
-        "come across"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sempre",
-      "translations": [
-        "always",
-        "forever",
-        "at all times",
-        "constantly"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<<< HEAD:out/eng/ita/1104.json
           "L'autobus non arriva sempre in orario.",
           "The bus doesn't always come on time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -105,18 +238,31 @@
         [
           "Perché Tom è sempre così occupato?",
           "Why is Tom always so busy?",
+========
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+>>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1025.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché siete sempre così gelose?",
-          "Why are you always so jealous?",
+          "Volete sentire di più?",
+          "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<<< HEAD:out/eng/ita/1104.json
+========
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+>>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1025.json
         ]
       ]
     },
     {
-      "content": "del",
+      "content": "tedesco",
       "translations": [
+<<<<<<<< HEAD:out/eng/ita/1104.json
         "of the",
         "from the",
         "about the",
@@ -173,8 +319,84 @@
         "great",
         "fantastic",
         "superb"
+========
+        "German",
+        "Teutonic",
+        "Germanic"
+>>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1025.json
       ],
       "usageExamples": []
+=======
+      "content": "cantante",
+      "translations": [
+        "singer",
+        "vocalist",
+        "performer"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "davvero",
+      "translations": [
+        "really",
+        "truly",
+        "actually",
+        "indeed"
+      ],
+      "usageExamples": [
+        [
+          "Loro l'hanno fatta davvero.",
+          "They really did it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken piace davvero Tom.",
+          "Ken does like Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono divertita davvero alla festa.",
+          "I really enjoyed myself at the party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pessima",
+      "translations": [
+        "very bad",
+        "terrible",
+        "awful",
+        "dreadful"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1104.json
     }
   ]
 }

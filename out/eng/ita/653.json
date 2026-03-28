@@ -1,11 +1,12 @@
 {
-  "sentence": "Mary vuole che i suoi genitori le comprino un pony.",
+  "sentence": "Mary nega di avere pianto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary wants her parents to buy her a pony."
+    "Mary denies she cried.",
+    "Mary denies that she cried."
   ],
   "parts": [
     {
@@ -17,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/653.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,12 +32,28 @@
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Probabilmente non sono occupata come Tom e Mary.",
+          "I'm probably not as busy as Tom and Mary are.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/574.json
         ]
       ]
     },
     {
-      "content": "vuole",
+      "content": "nega",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/653.json
         "wants",
         "desires",
         "wishes",
@@ -195,18 +213,26 @@
         "I purchase",
         "I acquire",
         "I get"
+=======
+        "deny",
+        "refuse",
+        "negate",
+        "reject"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/574.json
       ],
       "usageExamples": []
     },
     {
-      "content": "un",
+      "content": "di",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/653.json
           "Chiamate un'ambulanza!",
           "Call an ambulance!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -219,16 +245,57 @@
         [
           "Noi abbiamo un ristorante.",
           "We have a restaurant.",
+=======
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "avere",
+      "translations": [
+        "to have",
+        "to possess",
+        "to own",
+        "to hold"
+      ],
+      "usageExamples": [
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pensa che Tom potrebbe avere ragione?",
+          "Do you think Tom might be correct?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Possono avere qualsiasi cosa vogliono.",
+          "They can have anything they want.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/574.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pony",
+      "content": "pianto",
       "translations": [
-        "small horse",
-        "young horse",
-        "miniature horse"
+        "cry",
+        "weeping",
+        "lament",
+        "sobbing"
       ],
       "usageExamples": []
     }

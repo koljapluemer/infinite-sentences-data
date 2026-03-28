@@ -1,27 +1,29 @@
 {
-  "sentence": "Un linguaggio non è mai abbastanza.",
+  "sentence": "Tutti noi parliamo inglese.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Eldad (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by pauldhunt (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "One language is never enough."
+    "We all speak English."
   ],
   "parts": [
     {
-      "content": "Un",
+      "content": "Tutti",
       "translations": [
-        "One",
-        "A",
-        "An"
+        "Everyone",
+        "All",
+        "Everybody",
+        "All people"
       ],
       "usageExamples": [
         [
-          "Un cane ha corso.",
-          "A dog ran.",
+          "Tutti li ignorarono.",
+          "Everyone ignored them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1096.json
           "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
           "A son would represent continuity in a rapidly changing world.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -29,30 +31,60 @@
         [
           "Un crimine è stato commesso.",
           "A crime has been committed.",
+=======
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1017.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "linguaggio",
+      "content": "noi",
       "translations": [
-        "language",
-        "speech",
-        "linguistic expression",
-        "tongue"
+        "we",
+        "us",
+        "ourselves"
+      ],
+      "usageExamples": [
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A noi è piaciuta la cena.",
+          "We enjoyed the dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Venite a pranzare con noi.",
+          "Come to lunch with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "parliamo",
+      "translations": [
+        "let's talk",
+        "we speak",
+        "we are talking",
+        "let's speak"
       ],
       "usageExamples": []
     },
     {
-      "content": "non",
+      "content": "inglese",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "English.",
+        "the English language",
+        "English (language)",
+        "English (as a subject)"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1096.json
           "Tom non cambia mai.",
           "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -139,6 +171,21 @@
           "Non mi sento abbastanza forte per dirglielo.",
           "I don’t feel strong enough to tell him.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Studio inglese dopo cena.",
+          "I study English after dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi studiamo tutti i giorni inglese.",
+          "We study English every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho intenzione questo pomeriggio di studiare inglese.",
+          "I'm going to study English this afternoon.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1017.json
         ]
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "A Jim piace il dottore.",
+  "sentence": "A James piaceva la spiaggia.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Jim likes the doctor."
+    "James liked the beach."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/76.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,11 +67,19 @@
       ],
       "usageExamples": [
         [
+=======
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/51.json
           "A Judy piace lui.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/76.json
           "A John piace l'infermiera.",
           "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -78,25 +87,62 @@
         [
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/51.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "James",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "James",
+        "Jim"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "piaceva",
+      "translations": [
+        "liked",
+        "was pleasing"
       ],
       "usageExamples": [
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo impiego.",
+          "Mary didn't enjoy her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/76.json
           "Non conosco il sistema.",
           "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -120,6 +166,15 @@
         [
           "Il dottore gli ha dato un sedativo.",
           "The doctor gave him a sedative.",
+=======
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/51.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

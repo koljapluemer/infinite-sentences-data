@@ -24,6 +24,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/arz/8.json
           "أنا هَرَوَّح بَدري النهارده",
           "I will go home early today",
           "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
@@ -36,6 +37,20 @@
         [
           "أنا شوفت كُلّ الاِستِمارات",
           "I checked every form",
+=======
+          "لَأ شُكراً، أنا إتَعشيت",
+          "no thankyou, I have already had dinner",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "أنا هَلكان مِن الشغل",
+          "I am exhausted because of work",
+          "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
+        ],
+        [
+          "أنا حَرّان أوي دلوقتي",
+          "I feel very hot now",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/arz/8.json
           "Data from [lisaanmasry](https://eu.lisaanmasry.org/info/en/copyright.html); This material is Copyright © 2007-2020 Mike Green."
         ]
       ]
@@ -44,7 +59,8 @@
       "content": "هروح",
       "translations": [
         "I will go.",
-        "I'm going."
+        "I'm going.",
+        "I'm going to go."
       ],
       "usageExamples": []
     },

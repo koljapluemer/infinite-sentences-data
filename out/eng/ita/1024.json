@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom mi ha lasciato entrare.",
+  "sentence": "Tom ha qualche problema psicologico.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom let me in."
+    "Tom has some psychological issues."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1024.json
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,6 +56,21 @@
           "Non mi lasciare qui da solo.",
           "Don't leave me here alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/945.json
         ]
       ]
     },
@@ -67,6 +83,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1024.json
           "Lei ha già finito?",
           "Have you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -74,12 +91,17 @@
         [
           "Nessuno ha capito nulla.",
           "No one understood anything.",
+=======
+          "Lei ha già cominciato.",
+          "She has already begun.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/945.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "L'ha salvata.",
-          "He rescued her.",
+          "Lei ha già finito?",
+          "Are you through yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1024.json
         ]
       ]
     },
@@ -100,25 +122,77 @@
         [
           "Ha lasciato un po' di cibo nel suo piatto.",
           "She left some food on her plate.",
+=======
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/945.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "entrare",
+      "content": "qualche",
       "translations": [
-        "to enter",
-        "to go in",
-        "to come in",
-        "to step in"
+        "some",
+        "a few",
+        "several",
+        "a couple of"
       ],
       "usageExamples": [
         [
-          "A Dan è stato permesso di entrare nella stanza degli interrogatori.",
-          "Dan was allowed into the interrogation room.",
+          "Accendiamo qualche candela.",
+          "Let's light some candles.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ho qualche idea per te.",
+          "I have a few ideas for you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+          "Mary said she'd like to borrow a few books.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "problema",
+      "translations": [
+        "problem",
+        "issue",
+        "challenge",
+        "difficulty"
+      ],
+      "usageExamples": [
+        [
+          "So che hai un problema.",
+          "I know you have a problem.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È il mio problema con lui.",
+          "That's my problem with him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio problema è che sono troppo occupata.",
+          "My problem is I'm too busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "psicologico",
+      "translations": [
+        "psychological",
+        "mental",
+        "cognitive",
+        "emotional"
+      ],
+      "usageExamples": []
     }
   ]
 }

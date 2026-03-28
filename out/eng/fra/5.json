@@ -1,21 +1,23 @@
 {
-  "sentence": "Je crois en elle.",
+  "sentence": "C'est un danseur algérien.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Fenrir (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have faith in her."
+    "He's an Algerian dancer."
   ],
   "parts": [
     {
-      "content": "Je",
+      "content": "C'est",
       "translations": [
-        "I",
-        "Me"
+        "It is",
+        "This is",
+        "That is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/fra/5.json
           "Je parle Lakota.",
           "I speak Lakota.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
@@ -28,22 +30,26 @@
         [
           "Je suis sur la route.",
           "I'm on the road.",
+=======
+          "C'est là que vous faites erreur.",
+          "That's where you're wrong.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/3.json
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "crois",
+      "content": "danseur",
       "translations": [
-        "believe",
-        "think",
-        "trust"
+        "dancer",
+        "male dancer"
       ],
       "usageExamples": []
     },
     {
-      "content": "en",
+      "content": "algérien",
       "translations": [
+<<<<<<< HEAD:out/eng/fra/5.json
         "in",
         "at",
         "on"
@@ -71,6 +77,10 @@
       "translations": [
         "she",
         "her"
+=======
+        "Algerian",
+        "from Algeria"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/3.json
       ],
       "usageExamples": []
     }

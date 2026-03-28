@@ -1,11 +1,11 @@
 {
-  "sentence": "Il mio hobby è la musica.",
+  "sentence": "Il gatto mangia.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by cntrational (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My hobby is music."
+    "The cat eats."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/448.json
           "Il gatto mangia.",
           "The cat eats.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -28,23 +29,36 @@
         [
           "Il tempo è finito.",
           "Time is up.",
+=======
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il libro è arrivato.",
+          "The book came.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/369.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "gatto",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "cat",
+        "kitten"
       ],
       "usageExamples": [
         [
-          "È mio nemico.",
-          "He is my enemy.",
+          "Jack ha un gatto e un pappagallo a casa.",
+          "Jack keeps a cat and a parrot at home.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/448.json
         ],
         [
           "È mio cugino da parte di padre.",
@@ -55,17 +69,21 @@
           "Vorrei che capissero il mio bisogno di pace.",
           "I wish they would understand my need for peace.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/369.json
         ]
       ]
     },
     {
-      "content": "hobby",
+      "content": "mangia",
       "translations": [
-        "pastime",
-        "leisure activity",
-        "recreational pursuit"
+        "eat",
+        "consume",
+        "dine",
+        "feast"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/448.json
     },
     {
       "content": "è",
@@ -144,6 +162,8 @@
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/369.json
     }
   ]
 }

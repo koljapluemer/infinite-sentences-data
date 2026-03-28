@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom non cambia mai.",
+  "sentence": "Tom ha un'auto molto costosa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom never changes."
+    "Tom has a very expensive car."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1026.json
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,27 +29,50 @@
         [
           "Dovremmo avvertire Tom.",
           "We should warn Tom.",
+=======
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/947.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "ha",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1026.json
           "Preferirei non farlo.",
           "I'd rather not do it.",
+=======
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non ha corso?",
-          "Why didn't you run?",
+          "Lei ha già cominciato.",
+          "She has already begun.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/947.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -59,46 +83,69 @@
       ]
     },
     {
-      "content": "cambia",
+      "content": "un'",
       "translations": [
-        "change",
-        "exchange",
-        "switch",
-        "alter"
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "Il mondo cambia ogni giorno.",
-          "The world changes every day.",
+          "Sei un'ispirazione per tutti noi.",
+          "You're an inspiration to us all.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "auto",
+      "translations": [
+        "car",
+        "automobile",
+        "vehicle"
+      ],
+      "usageExamples": [
+        [
+          "Non so se lui verrà in treno o in auto.",
+          "I don't know whether he'll come by train or by car.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mai",
+      "content": "molto",
       "translations": [
-        "never",
-        "not ever",
-        "at no time",
-        "not at all"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
-          "Avete mai provato?",
-          "Did you ever try?",
+          "Amo molto mia madre.",
+          "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non dormite mai?",
-          "Don't you ever sleep?",
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non sia mai gelosa.",
-          "Never be jealous.",
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "costosa",
+      "translations": [
+        "expensive",
+        "costly",
+        "high-priced",
+        "pricey"
+      ],
+      "usageExamples": []
     }
   ]
 }

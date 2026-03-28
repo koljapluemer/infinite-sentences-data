@@ -1,11 +1,10 @@
 {
-  "sentence": "Ho lasciato Tom in casa.",
+  "sentence": "Ho avuto la fortuna di seguire il mio percorso senza rimpianti.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I let Tom in the house."
+    "I've been lucky to follow my own path without regrets."
   ],
   "parts": [
     {
@@ -28,6 +27,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/413.json
           "Ho iniziato dal fondo.",
           "I started at the bottom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -47,22 +47,30 @@
           "Ha lasciato un po' di cibo nel suo piatto.",
           "He left some food on his plate.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/334.json
         ],
         [
-          "Tom mi ha lasciato entrare.",
-          "Tom let me in.",
+          "Ho iniziato dal fondo.",
+          "I started at the bottom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "avuto",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "had",
+        "received",
+        "got",
+        "obtained"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/413.json
           "Tom si è nascosto.",
           "Tom hid.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
@@ -75,24 +83,30 @@
         [
           "Dovremmo avvertire Tom.",
           "We should warn Tom.",
+=======
+          "Voi avete mai avuto un animale domestico?",
+          "Have you ever had a pet?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/334.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "in",
+      "content": "la",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
+          "Ha perso la partita.",
+          "She lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/413.json
           "Viviamo in campagna adesso.",
           "We live in the country now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -100,20 +114,40 @@
         [
           "Tutti erano in ansia.",
           "Everyone was apprehensive.",
+=======
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/334.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "casa",
+      "content": "fortuna",
       "translations": [
-        "house",
-        "home",
-        "dwelling",
-        "residence"
+        "fortune",
+        "luck",
+        "fate",
+        "destiny"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/413.json
           "Dov'è la sua casa?",
           "Where's his home?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -127,8 +161,137 @@
           "Jack ha un gatto e un pappagallo a casa.",
           "Jack keeps a cat and a parrot at home.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "seguire",
+      "translations": [
+        "to follow",
+        "to pursue",
+        "to track",
+        "to attend"
+      ],
+      "usageExamples": [
+        [
+          "Ho provato a seguire le sue instruzioni.",
+          "I tried to follow your instructions.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/334.json
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mio",
+      "translations": [
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
+      ],
+      "usageExamples": [
+        [
+          "È mio nemico.",
+          "He is my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio labbro è scoppiato.",
+          "My lip split.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
+          "Only my best friend would understand my love for minions.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "percorso",
+      "translations": [
+        "route",
+        "path",
+        "course",
+        "track"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "senza",
+      "translations": [
+        "without",
+        "lacking",
+        "absent",
+        "devoid of"
+      ],
+      "usageExamples": [
+        [
+          "Siete senza speranza.",
+          "You're hopeless.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi cosa faremmo senza di lui?",
+          "What would we do without him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le sue parole mi resero senza parole.",
+          "His words rendered me speechless.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "rimpianti",
+      "translations": [
+        "regrets",
+        "remorse",
+        "sorrow",
+        "lament"
+      ],
+      "usageExamples": []
     }
   ]
 }

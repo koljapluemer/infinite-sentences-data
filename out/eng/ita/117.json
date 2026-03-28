@@ -1,11 +1,11 @@
 {
-  "sentence": "A Marie non è piaciuto quel gioco.",
+  "sentence": "A Maria non piace il prezzemolo.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Objectivesea (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Marie didn't like that game."
+    "Maria doesn't like parsley."
   ],
   "parts": [
     {
@@ -17,13 +17,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/117.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/88.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,12 +44,23 @@
       ]
     },
     {
-      "content": "Marie",
+      "content": "Maria",
       "translations": [
-        "Marie",
+        "Maria",
         "Mary"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Maria piacciono i fiori.",
+          "Maria likes flowers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Maria non piace parlare in pubblico.",
+          "Maria doesn't like speaking in public.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "non",
@@ -47,12 +68,51 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
+<<<<<<< HEAD:out/eng/ita/117.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/88.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -68,15 +128,16 @@
       ]
     },
     {
-      "content": "è",
+      "content": "il",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/117.json
           "Tom è un fan.",
           "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -136,6 +197,20 @@
         [
           "Era facile risolvere quel problema.",
           "It was easy to solve that problem.",
+=======
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/88.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

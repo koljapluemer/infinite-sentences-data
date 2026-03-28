@@ -1,21 +1,62 @@
 {
-  "sentence": "Aart è conosciuto per i suoi tweet razzisti.",
+  "sentence": "A noi è piaciuta la cena.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Aart is known for his racist tweets."
+    "We enjoyed the dinner."
   ],
   "parts": [
     {
-      "content": "Aart",
+      "content": "A",
       "translations": [
-        "Art",
-        "Craft",
-        "Skill"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "noi",
+      "translations": [
+        "we",
+        "us",
+        "ourselves"
+      ],
+      "usageExamples": [
+        [
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
+          "Only time will tell what the world has in store for us.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "è",
@@ -27,6 +68,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/235.json
           "Questo è un occhio.",
           "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -34,6 +76,15 @@
         [
           "Forse è lui.",
           "Maybe it's him.",
+=======
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è americano?",
+          "Are you American?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/156.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -44,32 +95,58 @@
       ]
     },
     {
-      "content": "conosciuto",
+      "content": "piaciuta",
       "translations": [
-        "known",
-        "recognized",
-        "familiar",
-        "acknowledged"
+        "liked",
+        "pleased",
+        "enjoyed",
+        "found appealing"
       ],
       "usageExamples": [
         [
-          "L'ho conosciuto a una festa.",
-          "I met him at a party.",
+          "A Layla è piaciuta la festa.",
+          "Layla liked the party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Carlos è piaciuta la presentazione di Rima.",
+          "Carlos enjoyed Rima’s presentation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le è piaciuta la pizza?",
+          "Did you enjoy the pizza?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "per",
+      "content": "la",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/235.json
           "Sono preparata per morire.",
           "I'm prepared to die.",
+=======
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/156.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -85,20 +162,20 @@
       ]
     },
     {
-      "content": "i",
+      "content": "cena",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "dinner",
+        "supper",
+        "meal"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Studio inglese dopo cena.",
+          "I study English after dinner.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/235.json
           "Quelli sono i cani di Tom?",
           "Are those Tom dogs?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -131,28 +208,18 @@
         [
           "A Mary mancavano i suoi amici.",
           "Mary missed her friends.",
+=======
+          "Che cosa c'è per cena?",
+          "What's for supper?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha a malapena toccato la sua cena.",
+          "He barely touched his dinner.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/156.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "tweet",
-      "translations": [
-        "post on Twitter",
-        "Twitter update",
-        "Twitter message"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "razzisti",
-      "translations": [
-        "racists",
-        "bigots",
-        "prejudiced individuals",
-        "discriminators"
-      ],
-      "usageExamples": []
     }
   ]
 }

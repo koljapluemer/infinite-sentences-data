@@ -1,40 +1,57 @@
 {
-  "sentence": "Sono orgoglioso di mia madre.",
+  "sentence": "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
   "credits": [
-    "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm proud of my mother."
+    "Only my best friend would understand my love for minions."
   ],
   "parts": [
     {
-      "content": "Sono",
+      "content": "Solo",
       "translations": [
-        "I am.",
-        "I exist.",
-        "I am here.",
-        "I am present"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "orgoglioso",
-      "translations": [
-        "proud",
-        "arrogant",
-        "haughty",
-        "conceited"
+        "alone",
+        "only",
+        "just",
+        "single"
       ],
       "usageExamples": [
         [
-          "Non sono mai stato più orgoglioso.",
-          "I've never been more proud.",
+          "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
+          "Only time will tell what the world has in store for us.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/949.json
       "content": "di",
       "translations": [
         "of",
@@ -62,13 +79,18 @@
     },
     {
       "content": "mia",
+=======
+      "content": "mio",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/870.json
       "translations": [
         "my",
         "mine",
+        "of mine",
         "belonging to me"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/949.json
           "Amo molto mia madre.",
           "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,25 +103,40 @@
         [
           "Salutate i vostri genitori da parte mia.",
           "Say hello to your parents from me.",
+=======
+          "È mio nemico.",
+          "He's my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ai miei genitori non piace il mio ragazzo.",
+          "My parents don't like my boyfriend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso riavere il mio coltello?",
+          "Can I have my knife back?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/870.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "madre",
+      "content": "migliore",
       "translations": [
-        "mother",
-        "mom",
-        "mum",
-        "mama"
+        "better",
+        "best",
+        "improved",
+        "superior"
       ],
       "usageExamples": [
         [
-          "Amo molto mia madre.",
-          "I love my mother very much.",
+          "Lei ha un aspetto migliore.",
+          "You're looking better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/949.json
           "Sua madre sarebbe fiera di lei.",
           "Your mother would be proud of you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -108,8 +145,121 @@
           "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
           "My mother advises me against sitting at my computer all day long.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "La cosa migliore del Giappone sono i suoi videogiochi.",
+          "The best thing about Japan is its video games.",
+          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "amico",
+      "translations": [
+        "friend",
+        "buddy",
+        "mate",
+        "companion"
+      ],
+      "usageExamples": [
+        [
+          "Il mio amico va in biblioteca a studiare.",
+          "My friend goes to the library to study.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio amico è svizzero.",
+          "My friend is Swiss.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/870.json
+        ]
+      ]
+    },
+    {
+      "content": "capirebbe",
+      "translations": [
+        "would understand",
+        "would comprehend",
+        "would grasp",
+        "would get"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "amore",
+      "translations": [
+        "love",
+        "affection",
+        "romance",
+        "passion"
+      ],
+      "usageExamples": [
+        [
+          "Quant'è profondo il tuo amore?",
+          "How deep is your love?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi piacciono le carte di credito. Preferisco i contanti.",
+          "I don't like credit cards. I prefer cash.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Dan non piacciono i dittatori.",
+          "Dan doesn't like dictators.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "servitori",
+      "translations": [
+        "servants",
+        "helpers",
+        "attendants",
+        "assistants"
+      ],
+      "usageExamples": []
     }
   ]
 }

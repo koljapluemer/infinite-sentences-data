@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom è aggressivo, ma Mary non lo è.",
+  "sentence": "Tom vende funghi psichedelici.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is aggressive, but Mary isn't."
+    "Tom sells psychedelic mushrooms."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1064.json
           "Dovresti aiutare Tom.",
           "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,13 +29,28 @@
         [
           "Tom era creativo.",
           "Tom was creative.",
+=======
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/985.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "vende",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1064.json
         "it is",
         "there is",
         "he is",
@@ -65,17 +81,23 @@
         "assertive",
         "hostile",
         "forceful"
+=======
+        "sell",
+        "to sell",
+        "selling"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/985.json
       ],
       "usageExamples": []
     },
     {
-      "content": "ma",
+      "content": "funghi",
       "translations": [
-        "but",
-        "however",
-        "yet",
-        "on the other hand"
+        "mushrooms",
+        "fungi",
+        "mushroom",
+        "fungus"
       ],
+<<<<<<< HEAD:out/eng/ita/1064.json
       "usageExamples": [
         [
           "A Eva piacciono i cani, ma non i gatti.",
@@ -93,14 +115,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/985.json
     },
     {
-      "content": "Mary",
+      "content": "psichedelici",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "psychedelics",
+        "psychedelic substances",
+        "psychedelic drugs",
+        "hallucinogens"
       ],
+<<<<<<< HEAD:out/eng/ita/1064.json
       "usageExamples": [
         [
           "A Mary manca Boston.",
@@ -170,6 +197,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/985.json
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD:out/eng/fra/11.json
   "sentence": "Tom fait souvent les mêmes erreurs.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
@@ -28,11 +29,43 @@
         [
           "Dis à Tom que je n'y serai pas.",
           "Tell Tom that I won't be there.",
+=======
+  "sentence": "Je te respecte.",
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "translations": [
+    "I respect you."
+  ],
+  "parts": [
+    {
+      "content": "Je",
+      "translations": [
+        "I",
+        "Me"
+      ],
+      "usageExamples": [
+        [
+          "Je parle Lakota.",
+          "I speak Lakota.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je crois en elle.",
+          "I have faith in her.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je veux un ordinateur portatif.",
+          "I want a notebook.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/11.json
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/fra/11.json
       "content": "fait",
       "translations": [
         "done",
@@ -84,10 +117,17 @@
         "the same",
         "identical",
         "similar"
+=======
+      "content": "te",
+      "translations": [
+        "you",
+        "yourself"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/11.json
       ],
       "usageExamples": []
     },
     {
+<<<<<<< HEAD:out/eng/fra/11.json
       "content": "erreurs",
       "translations": [
         "errors",
@@ -100,6 +140,16 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "content": "respecte",
+      "translations": [
+        "respect",
+        "honor",
+        "regard",
+        "observe"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/11.json
     }
   ]
 }

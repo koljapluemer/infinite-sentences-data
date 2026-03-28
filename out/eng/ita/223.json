@@ -1,11 +1,11 @@
 {
-  "sentence": "A Tom sarebbe piaciuto quello che avete fatto.",
+  "sentence": "A Mary non piaceva sua madre.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom would've liked what you did."
+    "Mary didn't like her mother."
   ],
   "parts": [
     {
@@ -17,16 +17,93 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/223.json
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/144.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa solamente di se stessa.",
+          "Mary only cares about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaceva",
+      "translations": [
+        "liked",
+        "was pleasing"
+      ],
+      "usageExamples": [
         [
           "A Fadil piaceva scommettere.",
           "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/223.json
           "A Judy piace.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -44,10 +121,15 @@
           "Tom vende funghi psichedelici.",
           "Tom sells psychedelic mushrooms.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/144.json
         ],
         [
-          "Tom sta gemendo.",
-          "Tom is whining.",
+          "A Layla piaceva giocare a Monopoly.",
+          "Layla liked to play Monopoly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -58,20 +140,26 @@
       ]
     },
     {
-      "content": "sarebbe",
+      "content": "sua",
       "translations": [
-        "it would be",
-        "it would",
-        "it is supposed to be",
-        "it should be"
+        "your",
+        "yours",
+        "his",
+        "her"
       ],
       "usageExamples": [
         [
-          "Sua madre sarebbe fiera di lei.",
-          "Your mother would be proud of you.",
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Confronti la Sua risposta con la sua.",
+          "Check your answer with his.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/223.json
           "Tom ha detto a Mary che sarebbe stato libero domani.",
           "Tom told Mary that he'd be free tomorrow.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -79,25 +167,30 @@
         [
           "Tom sarebbe dovuto venire alla riunione.",
           "Tom should've come to the meeting.",
+=======
+          "Riuscite a distinguere Jane dalla sua sorella gemella?",
+          "Can you tell Jane from her twin sister?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/144.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piaciuto",
+      "content": "madre",
       "translations": [
-        "liked",
-        "pleased",
-        "enjoyed",
-        "appreciated"
+        "mother",
+        "mom",
+        "mum",
+        "mama"
       ],
       "usageExamples": [
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Amo molto mia madre.",
+          "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/223.json
           "A Marika è piaciuto il suo viaggio in Giappone?",
           "Did Marika like her trip to Japan?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -208,6 +301,15 @@
         [
           "Tom ha fatto la cosa giusta.",
           "Tom did the right thing.",
+=======
+          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+          "My mother advises me against sitting at my computer all day long.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/144.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

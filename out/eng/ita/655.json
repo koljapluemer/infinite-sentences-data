@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary è nel suo ufficio.",
+  "sentence": "Mary sa che cosa vuole dire.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is in her office."
+    "Mary knows what she wants to say."
   ],
   "parts": [
     {
@@ -30,19 +30,28 @@
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/655.json
+=======
+        ],
+        [
+          "A Mary non piacciono le mele, vero?",
+          "Mary doesn't like apples, does she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/576.json
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "sa",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "if",
+        "whether",
+        "that",
+        "as"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/655.json
           "Tom è un esperto.",
           "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,20 +64,35 @@
         [
           "Tom è un fan.",
           "Tom is a fan.",
+=======
+          "Sami sa dove abita Layla.",
+          "Sami knows where Layla lives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sa che sono giapponese.",
+          "He doesn't know that I'm Japanese.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/576.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nel",
+      "content": "che",
       "translations": [
-        "in the",
-        "inside the",
-        "within the",
-        "at the"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/655.json
           "Il signor Jones crede nel duro lavoro e nei profitti.",
           "Mr Jones believes in hard work and profits.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,20 +105,35 @@
         [
           "Ci sono delle isole nel mare.",
           "There are islands in the sea.",
+=======
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/576.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suo",
+      "content": "cosa",
       "translations": [
-        "his",
-        "her",
-        "its",
-        "their"
+        "thing",
+        "item",
+        "object",
+        "matter"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/655.json
           "A Mary non piace il suo divano nuovo.",
           "Mary doesn't like her new sofa.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,19 +146,65 @@
         [
           "A Mary non piace il suo nuovo lavoro.",
           "Mary doesn't like her new job.",
+=======
+          "Che cosa direste?",
+          "What would you say?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/576.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ufficio",
+      "content": "vuole",
       "translations": [
-        "office",
-        "workplace",
-        "bureau",
-        "administrative office"
+        "wants",
+        "desires",
+        "wishes",
+        "intends"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Non vuole fermarla.",
+          "He doesn't want to stop her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dire",
+      "translations": [
+        "to say",
+        "to tell",
+        "to speak",
+        "to express"
+      ],
+      "usageExamples": [
+        [
+          "Tom voleva dire di no.",
+          "Tom wanted to say no.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

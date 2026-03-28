@@ -1,47 +1,69 @@
 {
-  "sentence": "Voleva che lo facessi per lei.",
+  "sentence": "Voi siete alzate?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He wanted me to do that for her.",
-    "She wanted me to do that for her."
+    "Are you up?"
   ],
   "parts": [
     {
-      "content": "Voleva",
+      "content": "Voi",
       "translations": [
-        "He/She wanted",
-        "He/She wished",
-        "He/She was wanting",
-        "He/She desired"
+        "You (plural)",
+        "You all",
+        "You guys",
+        "You (formal plural)"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1123.json
           "Voleva parlare con il suo avvocato.",
           "He wanted to talk to his lawyer.",
+=======
+          "Voi siete attraenti.",
+          "You're attractive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi siete burbere.",
+          "You're grumpy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi pensate che Tom sia innocente?",
+          "Do you think Tom is innocent?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1044.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "siete",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "seven",
+        "7"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1123.json
           "Disse che lo amava.",
           "She said she loved him.",
+=======
+          "Voi siete attraenti.",
+          "You're attractive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Voi siete burbere.",
+          "You're grumpy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1044.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché siete andati lì?",
+          "Why did you go there?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -52,8 +74,9 @@
       ]
     },
     {
-      "content": "lo",
+      "content": "alzate",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1123.json
         "the",
         "it",
         "him",
@@ -134,6 +157,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+        "lifts",
+        "raises",
+        "elevations",
+        "hoists"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1044.json
     }
   ]
 }

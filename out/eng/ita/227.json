@@ -1,11 +1,11 @@
 {
-  "sentence": "A me non importa di lei.",
+  "sentence": "A Mary piacciono gli sport, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't care about her."
+    "Mary likes sports, doesn't she?"
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/227.json
           "A John piace l'infermiera.",
           "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -27,47 +28,64 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/148.json
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "me",
+      "content": "Mary",
       "translations": [
-        "myself",
-        "to me",
-        "for me"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Sei speciale per me.",
-          "You're special to me.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non me l'ha restituita.",
-          "Tom didn't give it back to me.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/227.json
           "È difficile per me dipendere da te.",
           "It's hard for me to depend on you.",
+=======
+          "Mary è molto paziente, vero?",
+          "Mary is being very patient, isn't she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/148.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "piacciono",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/227.json
           "Certamente non lo odiava.",
           "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,25 +98,39 @@
         [
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "A Cookie non piacciono i baci.",
+          "Cookie doesn't like kisses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi piacciono le carte di credito. Preferisco i contanti.",
+          "I don't like credit cards. I prefer cash.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piacciono gli scacchi.",
+          "John likes chess.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/148.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "importa",
+      "content": "gli",
       "translations": [
-        "it matters",
-        "it is important",
-        "it counts",
-        "it is significant"
+        "the",
+        "them",
+        "those"
       ],
       "usageExamples": [
         [
-          "Mi importa di lei.",
-          "I care about her.",
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/227.json
           "A Mary importa soltanto di se stessa.",
           "Mary only cares about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -106,20 +138,30 @@
         [
           "A Mary non importa dei suoi voti.",
           "Mary doesn't care about her grades.",
+=======
+          "Dice che non gli dispiacerà.",
+          "He says he won't mind.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "'Aspetta qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da te immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/148.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "vero",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/227.json
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -156,6 +198,20 @@
         [
           "Era sposato con lei.",
           "He used to be married to her.",
+=======
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/148.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

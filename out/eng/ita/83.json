@@ -1,11 +1,11 @@
 {
-  "sentence": "A José piace la musica latina.",
+  "sentence": "A John piace l'infermiera.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by FeuDRenais (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "José likes latin music."
+    "John likes the nurse."
   ],
   "parts": [
     {
@@ -22,9 +22,15 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/83.json
           "A Fadil piaceva sciare.",
           "Fadil liked skiing.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+=======
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/58.json
         ],
         [
           "A Judy piace.",
@@ -34,12 +40,29 @@
       ]
     },
     {
-      "content": "José",
+      "content": "John",
       "translations": [
-        "Joseph",
-        "Joe"
+        "John Doe",
+        "Johnny",
+        "J."
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A John piace scambiare francobolli con i suoi amici.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom chiese a Mary se lei si fidava di John.",
+          "Tom asked Mary if she trusted John.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Bill e John piace ritrovarsi una volta al mese per parlare.",
+          "Bill and John like to get together once a month to talk.",
+          "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "piace",
@@ -60,6 +83,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/83.json
           "A Judy piace lui.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -109,6 +133,10 @@
         [
           "A Ken piace molto la musica.",
           "Ken likes music very much.",
+=======
+          "Mi piace il reggae.",
+          "I like reggae.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/58.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [

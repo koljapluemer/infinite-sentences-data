@@ -1,11 +1,11 @@
 {
-  "sentence": "Mi mandi la sua posizione.",
+  "sentence": "Mi fa piacere che tu sia d'accordo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ajje (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Send me your position."
+    "I'm glad you agree."
   ],
   "parts": [
     {
@@ -27,31 +27,80 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/668.json
           "Mi sto riposando ora.",
           "I'm resting now.",
+=======
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/589.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mandi",
+      "content": "fa",
       "translations": [
-        "to wash",
-        "to bathe",
-        "to cleanse"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "do",
+        "make",
+        "perform",
+        "act"
       ],
       "usageExamples": [
         [
+          "Gli alberi pietrificati di Yellowstone sono il risultato di flussi di detriti vulcanici verificatisi circa cinquanta milioni di anni fa.",
+          "Petrified trees in Yellowstone are the result of volcanic debris flows that occurred about 50 million years ago.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "4 per 4 fa 16",
+          "4 times 4 is 16.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi fa piacere che le piaccia.",
+          "I'm glad you like it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piacere",
+      "translations": [
+        "to please",
+        "to like",
+        "pleasure",
+        "enjoyment"
+      ],
+      "usageExamples": [
+        [
+          "Mi fa piacere che le piaccia.",
+          "I'm glad you like it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mark potrebbe piacere Jessica.",
+          "Mark might like Jessica.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/668.json
           "Hai guardato la partita?",
           "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -64,20 +113,35 @@
         [
           "Lei è la dottoressa?",
           "Are you the doctor?",
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/589.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sua",
+      "content": "tu",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "you",
+        "yourself",
+        "thou",
+        "yours"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/668.json
           "Dov'è la sua casa?",
           "Where is your house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -90,17 +154,52 @@
         [
           "A Mary mancano sua madre e suo padre.",
           "Mary misses her mother and father.",
+=======
+          "O Romeo Romeo, perché sei tu Romeo?",
+          "O Romeo, Romeo, wherefore art thou Romeo?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
+          "I understand that you and Tom are planning to get married.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/589.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "posizione",
+      "content": "sia",
       "translations": [
-        "position",
-        "location",
-        "stance",
-        "situation"
+        "herself",
+        "hers",
+        "she herself",
+        "her own"
+      ],
+      "usageExamples": [
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi pensate che Tom sia innocente?",
+          "Do you think Tom is innocent?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "d'accordo",
+      "translations": [
+        "agreed",
+        "okay",
+        "alright",
+        "fine"
       ],
       "usageExamples": []
     }

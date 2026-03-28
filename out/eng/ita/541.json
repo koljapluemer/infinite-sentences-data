@@ -1,32 +1,34 @@
 {
-  "sentence": "L'occhio di Dio tiene d'occhio quelli piccoli.",
+  "sentence": "L'ha fatto lentamente.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The eye of God watches over the little ones."
+    "She did it slowly."
   ],
   "parts": [
     {
-      "content": "L'occhio",
+      "content": "L'ha",
       "translations": [
-        "The eye",
-        "An eye",
-        "Eye"
+        "He has it.",
+        "She has it",
+        "It has",
+        "You have it"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "fatto",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "fact",
+        "done",
+        "made",
+        "event"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/541.json
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -39,13 +41,28 @@
         [
           "Cos'hai contro di lui?",
           "What do you have against him?",
+=======
+          "Di fatto l'uomo si arrabbiò.",
+          "In fact, the man got angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Tom sarebbe piaciuto quello che avete fatto.",
+          "Tom would've liked what you did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non lo avete fatto?",
+          "Why didn't you do it?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/462.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Dio",
+      "content": "lentamente",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/541.json
         "God",
         "Deity",
         "Divine being",
@@ -101,6 +118,12 @@
         "little",
         "tiny",
         "petite"
+=======
+        "slowly",
+        "gently",
+        "gradually",
+        "leisurely"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/462.json
       ],
       "usageExamples": []
     }

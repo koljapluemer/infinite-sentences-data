@@ -1,28 +1,27 @@
 {
-  "sentence": "Tu non sei un barbiere, vero?",
+  "sentence": "Tom è una persona pigra.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're not a barber, are you?"
+    "Tom is a lazy person."
   ],
   "parts": [
     {
-      "content": "Tu",
+      "content": "Tom",
       "translations": [
-        "You",
-        "Yourself",
-        "Thou",
-        "Ye"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1081.json
           "Tu comprendi quel libro.",
           "You understand that book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,20 +29,30 @@
         [
           "Tu sei sposata?",
           "Are you married?",
+=======
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1002.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "è",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1081.json
           "Certamente non lo odiava.",
           "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,11 +65,26 @@
         [
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
+=======
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom is famous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1002.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/1081.json
       "content": "sei",
       "translations": [
         "six",
@@ -88,13 +112,18 @@
     },
     {
       "content": "un",
+=======
+      "content": "una",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1002.json
       "translations": [
         "one",
         "a",
-        "an"
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1081.json
           "Tom è un esperto.",
           "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,18 +136,55 @@
         [
           "È un portiere.",
           "He's a goal keeper.",
+=======
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorrei una camera.",
+          "I would like a room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi terremo una festa.",
+          "We'll have a party.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1002.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "barbiere",
+      "content": "persona",
       "translations": [
-        "barber",
-        "hairdresser",
-        "shaver"
+        "person",
+        "individual",
+        "character",
+        "figure"
+      ],
+      "usageExamples": [
+        [
+          "Sono una buona persona.",
+          "I'm a good person.",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è una brava persona.",
+          "Tom is a good person.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pigra",
+      "translations": [
+        "lazy",
+        "sluggish",
+        "indolent",
+        "inactive"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/1081.json
     },
     {
       "content": "vero",
@@ -145,6 +211,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1002.json
     }
   ]
 }

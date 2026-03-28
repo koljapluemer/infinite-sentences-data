@@ -1,14 +1,11 @@
 {
-  "sentence": "Mary ha detto che non ha fame.",
+  "sentence": "Mary dice che ha già deciso di farlo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary said she isn't hungry.",
-    "Mary said she's not hungry.",
-    "Mary said that she isn't hungry.",
-    "Mary said that she's not hungry."
+    "Mary says she's already decided to do that."
   ],
   "parts": [
     {
@@ -30,21 +27,28 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/640.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "Mary è molto paziente, vero?",
+          "Mary is being very patient, isn't she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/561.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "dice",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "to say",
+        "to tell",
+        "to speak",
+        "to declare"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/640.json
           "Quanti figli ha Tom?",
           "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -83,6 +87,20 @@
         [
           "Hanno detto che Mary era felice.",
           "They said Mary was happy.",
+=======
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ora lui mi dice la verità.",
+          "Now he tells me the truth.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciò che si fa è più importante di ciò che si dice.",
+          "What you do is more important than what you say.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/561.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -102,14 +120,123 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'ha salvata.",
+          "He rescued her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "già",
+      "translations": [
+        "already",
+        "now",
+        "yet",
+        "at this point"
+      ],
+      "usageExamples": [
+        [
+          "Lei ha già finito?",
+          "Have you finished yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci sei già stato.",
+          "You've already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "deciso",
+      "translations": [
+        "decided",
+        "resolved",
+        "determined",
+        "settled"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "farlo",
+      "translations": [
+        "to do it",
+        "to make it",
+        "to get it done",
+        "to accomplish it"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/640.json
         ]
       ]
     },
@@ -161,6 +288,13 @@
           "Non possiamo restare in silenzio vedendo la gente morire di fame.",
           "We cannot stand quiet and watch people starve.",
           "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+=======
+        ],
+        [
+          "Ha detto che mi avrebbe aiutata a farlo.",
+          "She said she'd help me do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/561.json
         ]
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom non sapeva quale fosse il cognome di Mary.",
+  "sentence": "Tom non ci tradirà mai.",
   "credits": [
-    "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom didn't know what Mary's last name was."
+    "Tom will never betray us."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1033.json
           "Tom vende funghi psichedelici.",
           "Tom sells psychedelic mushrooms.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,6 +29,20 @@
         [
           "Tom è famoso.",
           "Tom's famous.",
+=======
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/954.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -38,12 +53,18 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1033.json
           "Perché non la cercate?",
           "Why don't you look for her?",
+=======
+          "Però non funzionerà!",
+          "But that won't work!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/954.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -52,52 +73,47 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1033.json
           "Preferirei non farlo.",
           "I'd rather not do it.",
+=======
+          "Tom non cambia mai.",
+          "Tom never changes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/954.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sapeva",
+      "content": "ci",
       "translations": [
-        "knew",
-        "was aware",
-        "understood",
-        "had knowledge"
+        "us",
+        "to us",
+        "for us",
+        "at us"
       ],
       "usageExamples": [
         [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
+          "Con chi ci andrà?",
+          "Who are you going with?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non sapeva cosa fare.",
-          "She didn't know what to do.",
-          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "quale",
-      "translations": [
-        "which",
-        "what kind of",
-        "what",
-        "such as"
-      ],
-      "usageExamples": [
+          "Lei ci catturerà.",
+          "You will catch us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
-          "A quale proposito?",
-          "For what purpose?",
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fosse",
+      "content": "tradirà",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1033.json
         "pit",
         "ditch",
         "trench",
@@ -154,19 +170,26 @@
         "last name",
         "family name",
         "clan name"
+=======
+        "will betray",
+        "will deceive",
+        "will be disloyal",
+        "will turn against"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/954.json
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "mai",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1033.json
           "Volete sentire di più?",
           "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -204,6 +227,20 @@
         [
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/954.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

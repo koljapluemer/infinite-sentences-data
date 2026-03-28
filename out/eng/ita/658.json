@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary è una rammollita, vero?",
+  "sentence": "Mary sta caricando la macchina, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is a wimp, isn't she?"
+    "Mary is loading the car, isn't she?"
   ],
   "parts": [
     {
@@ -27,22 +27,28 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/658.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Mary importa solo di se stessa.",
+          "Mary only cares about herself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/579.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "sta",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "is",
+        "stands",
+        "is located",
+        "exists"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/658.json
           "Tom si è divertito.",
           "Tom had fun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,13 +61,28 @@
         [
           "Questo è un occhio.",
           "This is an eye.",
+=======
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li sta confondendo.",
+          "You're confusing them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/579.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "caricando",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/658.json
         "one",
         "a",
         "an",
@@ -92,8 +113,66 @@
         "soggy",
         "mushy",
         "limp"
+=======
+        "loading",
+        "charging",
+        "uploading",
+        "filling"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/579.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "She lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "macchina",
+      "translations": [
+        "machine",
+        "car",
+        "device",
+        "engine"
+      ],
+      "usageExamples": [
+        [
+          "Taxi, segui quella macchina.",
+          "Taxi, follow that car.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Jim è stata rubata la macchina fotografica.",
+          "Jim had his camera stolen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha ritrovato per caso la macchina fotografica che aveva perso.",
+          "He found his lost camera by chance.",
+          "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "vero",
@@ -117,6 +196,11 @@
         [
           "È scoraggiata, vero?",
           "She's discouraged, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È piuttosto avventurosa, vero?",
+          "She's pretty adventurous, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

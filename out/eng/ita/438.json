@@ -1,11 +1,11 @@
 {
-  "sentence": "Il cibo giapponese le mancherà negli Stati Uniti.",
+  "sentence": "Il Museo del Prado è chiuso perché oggi è lunedì.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You will miss Japanese food in the United States."
+    "The Prado Museum is closed because today is Monday."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/438.json
           "Il cane scodinzolava.",
           "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,24 +30,55 @@
           "Il libro è arrivato.",
           "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/359.json
         ]
       ]
     },
     {
-      "content": "cibo",
+      "content": "Museo",
       "translations": [
-        "food",
-        "meal",
-        "nourishment",
-        "provisions"
+        "Museum",
+        "Gallery",
+        "Exhibition space",
+        "Cultural institution"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "by the"
       ],
       "usageExamples": [
         [
-          "Yanni comprò del cibo.",
-          "Yanni bought food.",
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/438.json
           "A Londra preferii il cibo indiano.",
           "In London I preferred Indian food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,88 +87,121 @@
           "Il sushi va bene, però io preferirei del cibo thailandese.",
           "Sushi is OK, but I'd prefer Thai food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Sami si prese cura del pappagallo di Layla.",
+          "Sami took care of Layla's parrot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/359.json
         ]
       ]
     },
     {
-      "content": "giapponese",
+      "content": "Prado",
       "translations": [
-        "Japanese",
-        "of Japan",
-        "Japanese language",
-        "Japanese person"
+        "Meadow",
+        "Field",
+        "Pasture"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Non sa che sono giapponese.",
-          "He doesn't know that I'm Japanese.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "le",
+      "content": "chiuso",
       "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
+        "closed",
+        "shut",
+        "locked",
+        "sealed"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "perché",
+      "translations": [
+        "why",
+        "because",
+        "for what reason",
+        "for what purpose"
       ],
       "usageExamples": [
         [
-          "Non le vogliamo là.",
-          "We don't want them there.",
+          "O Romeo Romeo, perché sei tu Romeo?",
+          "O Romeo, Romeo, wherefore art thou Romeo?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non le può licenziare.",
-          "You can't fire them.",
+          "Tom voleva sapere perché Mary non era felice.",
+          "Tom wanted to know why Mary was not happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/438.json
           "Io ho le mani grandi.",
           "I have big hands.",
+=======
+          "Perché non lo avete fatto?",
+          "Why didn't you do it?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/359.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mancherà",
+      "content": "oggi",
       "translations": [
-        "will be missing",
-        "will lack",
-        "will be absent",
-        "will not be there"
+        "today",
+        "this day",
+        "on this day"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La temperatura minima di oggi era di 3 gradi Celsius.",
+          "Today's low was 3 degrees Celsius.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voglio andare davvero al parco oggi.",
+          "I really wanna go to the park today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "negli",
+      "content": "lunedì",
       "translations": [
-        "in the",
-        "at the",
-        "among the",
-        "within the"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Stati",
-      "translations": [
-        "States",
-        "Conditions",
-        "Statuses",
-        "Situations"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Uniti",
-      "translations": [
-        "United",
-        "Together",
-        "Joined",
-        "Combined"
+        "Monday",
+        "the first day of the week",
+        "day of the moon"
       ],
       "usageExamples": []
     }

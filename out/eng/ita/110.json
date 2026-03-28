@@ -1,11 +1,11 @@
 {
-  "sentence": "A Madre Teresa fu dato il Premio Nobel.",
+  "sentence": "A Lucy piace giocare a tennis.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mother Teresa was given the Nobel prize."
+    "Lucy likes playing tennis."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/110.json
           "A quale proposito?",
           "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,12 +31,28 @@
           "A John piace l'infermiera.",
           "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/82.json
         ]
       ]
     },
     {
-      "content": "Madre Teresa",
+      "content": "Lucy",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/110.json
         "Mother Teresa",
         "Saint Teresa of Calcutta"
       ],
@@ -89,20 +106,29 @@
         [
           "A Madre Teresa è stato dato il Premio Nobel.",
           "Mother Teresa was given the Nobel prize.",
+=======
+        "Lucy",
+        "Lucia"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/82.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "piace",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/110.json
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -115,17 +141,99 @@
         [
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/82.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Premio Nobel",
+      "content": "giocare",
       "translations": [
-        "Nobel Prize",
-        "Nobel Award"
+        "to play",
+        "playing",
+        "to engage in a game",
+        "to participate in a game"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Non giocare in quella stanza.",
+          "Don't play in that room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai giocare bene a pallacanestro?",
+          "Can you play basketball well?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Chach piace giocare a pallacanestro.",
+          "Chach likes playing basketball.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tennis",
+      "translations": [
+        "the sport of tennis",
+        "game of tennis",
+        "tennis match"
+      ],
+      "usageExamples": [
+        [
+          "A Helena piace giocare a tennis.",
+          "Helena likes to play tennis.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non è bravo a tennis.",
+          "Tom isn't good at tennis.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Giocherete a tennis dopo la scuola?",
+          "Will you play tennis after school?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,11 +1,12 @@
 {
-  "sentence": "Tom spiegò come perse tutto il suo denaro.",
+  "sentence": "Tom sembra impegnato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom explained how he lost his money."
+    "Tom looks busy.",
+    "Tom seems busy."
   ],
   "parts": [
     {
@@ -16,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1051.json
           "Scusami, sto cercando Tom.",
           "Excuse me, I'm looking for Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,37 +30,51 @@
         [
           "Tom amerà abitare qua.",
           "Tom will love living here.",
+=======
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is whining.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/972.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "spiegò",
+      "content": "sembra",
       "translations": [
-        "explained",
-        "clarified",
-        "elucidated",
-        "made clear"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "come",
-      "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
+        "it seems",
+        "it appears",
+        "it looks like",
+        "seems to be"
       ],
       "usageExamples": [
         [
-          "Sa come raggiungerla?",
-          "Do you know how to reach her?",
+          "Sembra rancoroso.",
+          "You seem bitter.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1051.json
           "Vladimir è forte come una mucca.",
           "Vladimir is strong as a cow.",
+=======
+          "Sembra grassa.",
+          "You look fat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra compiaciuto.",
+          "Tom looks pleased.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/972.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -69,24 +85,16 @@
       ]
     },
     {
-      "content": "perse",
+      "content": "impegnato",
       "translations": [
-        "dark blue",
-        "deep blue",
-        "indigo"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tutto",
-      "translations": [
-        "everything",
-        "all",
-        "the whole",
-        "entirety"
+        "busy",
+        "engaged",
+        "committed",
+        "occupied"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1051.json
           "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
           "My mother advises me against sitting at my computer all day long.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -177,6 +185,10 @@
         [
           "Un gruppo di gangster ha rubato del denaro.",
           "A group of gangsters stole money.",
+=======
+          "Tom è molto impegnato con il suo lavoro.",
+          "Tom is very busy with his work.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/972.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

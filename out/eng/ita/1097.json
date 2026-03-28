@@ -1,26 +1,150 @@
 {
-  "sentence": "Vado a trovare un'amica.",
+  "sentence": "Tutto il nostro cibo è andato a male.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by cazort (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm going to visit a friend."
+    "All our food was spoiled."
   ],
   "parts": [
     {
-      "content": "Vado",
+      "content": "Tutto",
       "translations": [
-        "I go",
-        "I'm going.",
-        "I am going.",
-        "I will go."
+        "Everything",
+        "All",
+        "Whole",
+        "Entirety"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Vado ora a iscrivermi a un corso di tedesco.",
-          "I'm going to sign up for a German class right now.",
-          "Sentence from Tatoeba by xicotenga (CC-BY 2.0 FR)"
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nostro",
+      "translations": [
+        "our",
+        "ours",
+        "of ours",
+        "belonging to us"
+      ],
+      "usageExamples": [
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "250 copie sono disponibili dal nostro negozio ufficiale.",
+          "250 copies are available from our official shop.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Se non ci sbrighiamo, perderemo il nostro treno.",
+          "If we don't hurry, we'll miss our train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cibo",
+      "translations": [
+        "food",
+        "meal",
+        "nourishment",
+        "provisions"
+      ],
+      "usageExamples": [
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che tipo di cibo non le piace?",
+          "What kind of food don't you like?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "andato",
+      "translations": [
+        "gone",
+        "went",
+        "having gone",
+        "departed"
+      ],
+      "usageExamples": [
+        [
+          "Sono andato all'ospedale ieri.",
+          "I went to the hospital yesterday.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Com'è andato il tuo incontro con Tom?",
+          "How did your meeting with Tom go?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mese scorso è andato in Italia.",
+          "Last month, he went to Italy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -43,6 +167,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1097.json
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1018.json
           "Lo mostreremo a lei.",
           "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,25 +182,30 @@
       ]
     },
     {
-      "content": "trovare",
+      "content": "male",
       "translations": [
-        "to find",
-        "to discover",
-        "to locate",
-        "to come across"
+        "man",
+        "masculine",
+        "boy"
       ],
       "usageExamples": [
         [
-          "Quanto spesso ti viene a trovare Tom?",
-          "How often does Tom visit you?",
-          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+          "Fa male! Smettila!",
+          "That hurts! Stop it!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
-          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
+          "A Heather fanno male i denti.",
+          "Heather has a toothache.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non gli feci mai del male.",
+          "I never harmed him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+<<<<<<< HEAD:out/eng/ita/1097.json
     },
     {
       "content": "un",
@@ -103,6 +240,8 @@
         "girlfriend"
       ],
       "usageExamples": []
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1018.json
     }
   ]
 }

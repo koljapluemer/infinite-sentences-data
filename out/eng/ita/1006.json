@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom ha bisogno di una mano.",
+  "sentence": "Tom e Mary non erano feriti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom needs a hand."
+    "Tom and Mary weren't injured."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1006.json
           "Tom sembrava esitante.",
           "Tom seemed hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,19 +29,35 @@
         [
           "Dovremmo avvertire Tom.",
           "We should warn Tom.",
+=======
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/927.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "e",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "and",
+        "also",
+        "as well as",
+        "in addition"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1006.json
           "Lei ha già finito?",
           "Have you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -70,62 +87,93 @@
           "Hai bisogno di una tastiera nuova?",
           "Do you need a new keyboard?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
+          "My eyes were full of tears and I could barely see him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/927.json
         ],
         [
-          "Chiamatemi se avete bisogno di assistenza.",
-          "Call me if you need assistance.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "A Bill e John piace ritrovarsi una volta al mese per parlare.",
+          "Bill and John like to get together once a month to talk.",
+          "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1006.json
           "Vorrei che capissero il mio bisogno di pace.",
           "I wish they would understand my need for peace.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Io spero che Tom e Mary siano qui.",
+          "I hope Tom and Mary are here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/927.json
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "Mary",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1006.json
           "Cos'hai contro di lui?",
           "What do you have against him?",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/927.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1006.json
           "Può fare di meglio.",
           "You can do better.",
+=======
+          "A Mary non piaceva sua madre.",
+          "Mary didn't like her mother.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/927.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "non",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1006.json
           "Posso avere una birra?",
           "Can I have a beer?",
+=======
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/927.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -136,30 +184,43 @@
       ]
     },
     {
-      "content": "mano",
+      "content": "erano",
       "translations": [
-        "hand",
-        "palm",
-        "manual",
-        "handle"
+        "they were",
+        "they used to be",
+        "they had been"
       ],
       "usageExamples": [
         [
-          "Datele una mano, OK?",
-          "Give her a hand, will you?",
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Guardai John e Mary camminare mano nella mano.",
-          "I watched John and Mary walking hand in hand.",
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1006.json
           "Io vorrei stringere la mano a Tom.",
           "I'd like to shake Tom's hand.",
+=======
+          "Ziri e Rima erano nudi.",
+          "Ziri and Rima were naked.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/927.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "feriti",
+      "translations": [
+        "wounded",
+        "injured",
+        "hurt"
+      ],
+      "usageExamples": []
     }
   ]
 }

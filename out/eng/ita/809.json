@@ -1,23 +1,24 @@
 {
-  "sentence": "Perché nessuno è ancora qui?",
+  "sentence": "Per piacere, aspetta finché non arriva.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ariarin (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why is no one here yet?"
+    "Please wait until he arrives."
   ],
   "parts": [
     {
-      "content": "Perché",
+      "content": "Per",
       "translations": [
-        "Why",
-        "For what reason",
-        "What for",
-        "Why is that"
+        "for",
+        "by",
+        "through",
+        "per"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/809.json
           "Perché sono qui?",
           "Why are they here?",
           "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
@@ -31,35 +32,114 @@
           "Perché qualcuno vorrebbe baciarvi?",
           "Why would anyone want to kiss you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Per favore, digli di partire.",
+          "Please tell him to leave.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, dammi un altro po' di tè.",
+          "Please give me a little more tea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/730.json
         ]
       ]
     },
     {
-      "content": "nessuno",
+      "content": "piacere",
       "translations": [
-        "nobody",
-        "no one",
-        "none",
-        "not anyone"
+        "to please",
+        "to like",
+        "pleasure",
+        "enjoyment"
       ],
       "usageExamples": [
         [
-          "Mary non ha nessuno ad aiutarla.",
-          "Mary doesn't have anybody to help her.",
+          "Mi fa piacere che le piaccia.",
+          "I'm glad you like him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi fa piacere che tu sia d'accordo.",
+          "I'm glad you agree.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "aspetta",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "wait",
+        "hold on",
+        "wait a moment",
+        "hang on"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "finché",
+      "translations": [
+        "as long as",
+        "until",
+        "provided that",
+        "so long as"
       ],
       "usageExamples": [
         [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "arriva",
+      "translations": [
+        "arrives",
+        "comes",
+        "gets here",
+        "shows up"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/809.json
           "Lei è la dottoressa?",
           "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -119,6 +199,10 @@
         [
           "Odio qui.",
           "I hate it here.",
+=======
+          "L'autobus non arriva sempre in orario.",
+          "The bus doesn't always come on time.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/730.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [

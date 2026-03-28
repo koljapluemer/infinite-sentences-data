@@ -1,48 +1,50 @@
 {
-  "sentence": "Hanno perso la guerra sul fronte orientale.",
+  "sentence": "Hai già visto il campus?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They lost the war on the eastern front."
+    "Have you seen the campus yet?"
   ],
   "parts": [
     {
-      "content": "Hanno",
+      "content": "Hai",
       "translations": [
-        "They have",
-        "They possess",
-        "They own"
+        "Yes.",
+        "Yeah",
+        "Yep.",
+        "Affirmative"
       ],
       "usageExamples": [
         [
-          "Hanno cominciato ad innervosirsi.",
-          "They started to get nervous.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hanno sofferto molto durante gli anni della guerra.",
-          "They suffered a lot during the war years.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ],
         [
-          "Hanno detto che Mary era felice.",
-          "They said Mary was happy.",
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "perso",
+      "content": "già",
       "translations": [
-        "lost",
-        "missing",
-        "absent",
-        "gone"
+        "already",
+        "now",
+        "yet",
+        "at this point"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/401.json
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
@@ -50,25 +52,61 @@
         [
           "Ha perso la partita.",
           "He lost the game.",
+=======
+          "Lei ha già finito?",
+          "Are you through yet?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/322.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha perso qualcosa?",
-          "Have you lost something?",
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino c'è già stato.",
+          "You've already been to Berlin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "visto",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "visa",
+        "sight",
+        "view",
+        "sightseeing"
       ],
       "usageExamples": [
         [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva ciò che ha visto.",
+          "Mary didn't like what she saw.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/401.json
           "Lui accese la radio.",
           "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -82,12 +120,28 @@
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/322.json
         ]
       ]
     },
     {
-      "content": "guerra",
+      "content": "campus",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/401.json
         "war",
         "conflict",
         "battle",
@@ -160,6 +214,11 @@
         "oriental",
         "from the East",
         "eastern-style"
+=======
+        "field",
+        "grounds",
+        "area"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/322.json
       ],
       "usageExamples": []
     }

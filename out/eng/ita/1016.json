@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom ha ordinato una bottiglia di vino.",
+  "sentence": "Tom ha detto a Mary che sarebbe stato libero domani.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom ordered a bottle of wine."
+    "Tom told Mary that he'd be free tomorrow."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1016.json
           "Stavo per aiutare Tom.",
           "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,6 +29,20 @@
         [
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
+=======
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/937.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -43,46 +58,64 @@
         [
           "Perché non ha corso?",
           "Why didn't you run?",
+<<<<<<< HEAD:out/eng/ita/1016.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Nessuno ha capito nulla.",
           "No one understood anything.",
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/937.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "L'ha salvata.",
           "He rescued her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ordinato",
-      "translations": [
-        "ordered",
-        "neat",
-        "tidy",
-        "arranged"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
+          "Lei ha già finito?",
+          "Have you already finished?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "detto",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
       ],
       "usageExamples": [
         [
+          "Tom mi ha detto che eravate felici.",
+          "Tom told me you were happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete detto al capo?",
+          "What did you say to the boss?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/1016.json
           "Posso avere una birra?",
           "Can I have a beer?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -96,29 +129,147 @@
           "Sono una buona persona.",
           "I'm a good person.",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/937.json
         ]
       ]
     },
     {
-      "content": "bottiglia",
+      "content": "Mary",
       "translations": [
-        "bottle",
-        "flask",
-        "container",
-        "vessel"
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo nuovo impiego.",
+          "Mary doesn't like her new job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sarebbe",
+      "translations": [
+        "it would be",
+        "it would",
+        "it is supposed to be",
+        "it should be"
+      ],
+      "usageExamples": [
+        [
+          "A Tom sarebbe piaciuto quello che avete fatto.",
+          "Tom would've liked what you did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sua madre sarebbe fiera di lei.",
+          "Your mother would be proud of you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sarebbe dovuto venire alla riunione.",
+          "Tom should've come to the meeting.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stato",
+      "translations": [
+        "state",
+        "status",
+        "condition",
+        "situation"
+      ],
+      "usageExamples": [
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato scaricato.",
+          "He was dumped.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un crimine è stato commesso.",
+          "A crime has been committed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "libero",
+      "translations": [
+        "free",
+        "to free",
+        "to liberate",
+        "liberated"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "domani",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "tomorrow",
+        "next day",
+        "the following day"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1016.json
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
@@ -143,9 +294,20 @@
         "fermented grape drink"
       ],
       "usageExamples": [
+=======
+          "Andrò in biblioteca con te domani.",
+          "I'll go to the library with you tomorrow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
-          "Vorrei un po' di vino bianco, per favore.",
-          "I'd like some white wine, please.",
+          "A Dio piacendo, lo farò domani.",
+          "God willing, I will do it tomorrow.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/937.json
+        [
+          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
+          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

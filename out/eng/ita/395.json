@@ -1,85 +1,103 @@
 {
-  "sentence": "Hai già visto il campus?",
+  "sentence": "Ha perso qualcosa?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ajje (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Have you seen the campus yet?"
+    "Did you lose something?",
+    "Have you lost something?"
   ],
   "parts": [
     {
-      "content": "Hai",
+      "content": "Ha",
       "translations": [
-        "Yes.",
-        "Yeah",
-        "Yep.",
-        "Affirmative"
+        "He has",
+        "There is",
+        "It has"
       ],
       "usageExamples": [
         [
-          "Hai guardato la partita?",
-          "Did you watch the game?",
+          "Ha perso la partita.",
+          "You lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai visto Tom quella notte?",
-          "Did you see Tom that night?",
+          "Ha fatto qualcosa di incredibilmente stupido.",
+          "You did something incredibly stupid.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/395.json
           "Hai finito i tuoi compiti?",
           "Are you done with your homework?",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "Ha detto che mi avrebbe aiutata a farlo.",
+          "She said she'd help me do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/316.json
         ]
       ]
     },
     {
-      "content": "già",
+      "content": "perso",
       "translations": [
-        "already",
-        "now",
-        "yet",
-        "at this point"
+        "lost",
+        "missing",
+        "absent",
+        "gone"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/395.json
           "Lei ha già finito?",
           "Have you finished yet?",
+=======
+          "Ha perso la partita.",
+          "She lost the game.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/316.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/395.json
           "A Berlino ci sei già stata.",
           "You've already been to Berlin.",
+=======
+          "Alla fine ha perso la pazienza.",
+          "Finally, he lost his temper.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/316.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "visto",
+      "content": "qualcosa",
       "translations": [
-        "visa",
-        "sight",
-        "view",
-        "sightseeing"
+        "something",
+        "anything",
+        "a thing",
+        "a little something"
       ],
       "usageExamples": [
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
+          "Layla dimenticò qualcosa.",
+          "Layla forgot something.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/395.json
           "A Mary non piaceva quello che ha visto.",
           "Mary didn't like what she saw.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -120,6 +138,13 @@
         "area"
       ],
       "usageExamples": []
+=======
+          "Mary ha detto che voleva comprare qualcosa di più economico.",
+          "Mary said she wanted to buy something cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/316.json
     }
   ]
 }

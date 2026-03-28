@@ -1,23 +1,23 @@
 {
-  "sentence": "È buono che il cavallo non abbia sofferto.",
+  "sentence": "Ziri mangiò dei datteri.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's good that the horse didn't suffer."
+    "Ziri ate dates."
   ],
   "parts": [
     {
-      "content": "È",
+      "content": "Ziri",
       "translations": [
-        "It is",
-        "He is",
-        "She is",
-        "There is"
+        "Ziri (a name)",
+        "Ziri (a term)",
+        "Ziri (a concept)"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1144.json
           "È così sciocco.",
           "That's so silly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,32 +30,60 @@
         [
           "È uscito dalla cucina.",
           "He got out of the kitchen.",
+=======
+          "Ziri non rapinò una banca.",
+          "Ziri didn't rob a bank.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri ha alzato il volume della musica.",
+          "Ziri increased the music volume.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri ama i gatti siamesi.",
+          "Ziri loves Siamese cats.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1065.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "buono",
+      "content": "mangiò",
       "translations": [
-        "good",
-        "nice",
-        "well",
-        "fine"
+        "he/she ate",
+        "he/she has eaten",
+        "he/she was eating"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "dei",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "gods",
+        "deities",
+        "divine beings",
+        "spirits"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1144.json
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
+=======
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi servono dei francobolli.",
+          "I need stamps.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu hai dei vestiti per bambini?",
+          "Do you have children's clothes?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1065.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -71,8 +99,9 @@
       ]
     },
     {
-      "content": "il",
+      "content": "datteri",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1144.json
         "the",
         "it",
         "him",
@@ -162,6 +191,13 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+        "dates",
+        "date fruits",
+        "date palms"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1065.json
     }
   ]
 }

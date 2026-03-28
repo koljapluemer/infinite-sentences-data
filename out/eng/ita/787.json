@@ -1,39 +1,40 @@
 {
-  "sentence": "Partirò per il Marocco la settimana prossima.",
+  "sentence": "Odio il cibo degli ospedali.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I will be leaving for Morocco next week."
+    "I hate hospital food."
   ],
   "parts": [
     {
-      "content": "Partirò",
+      "content": "Odio",
       "translations": [
-        "I will leave",
-        "I am going to leave",
-        "I will depart",
-        "I am leaving"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "per",
-      "translations": [
-        "for",
-        "by",
-        "through"
+        "Hate",
+        "Loathing",
+        "Aversion",
+        "Dislike"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/787.json
           "Sono preparata per morire.",
           "I'm prepared to die.",
+=======
+          "Odio qui.",
+          "I hate it here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
+          "Odio tornare da lui. Voglio vivere con voi.",
+          "I hate going back to him. I want to live with you.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/708.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Odio prendere i mezzi pubblici.",
+          "I hate taking public transportation.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -53,6 +54,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/787.json
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -65,29 +67,35 @@
         [
           "Non bevete il caffè?",
           "Do you not drink coffee?",
+=======
+          "Io insegno il berbero.",
+          "I teach Berber.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/708.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Marocco",
+      "content": "cibo",
       "translations": [
-        "Morocco",
-        "Kingdom of Morocco",
-        "Moroccan"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "food",
+        "meal",
+        "nourishment",
+        "provisions"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/787.json
           "Sento la primavera nell'aria.",
           "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -100,38 +108,57 @@
         [
           "Perché non la cercate?",
           "Why don't you look for her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "settimana",
-      "translations": [
-        "week",
-        "seven days",
-        "weekly period",
-        "seven-day span"
-      ],
-      "usageExamples": [
-        [
-          "Ho trascorso là una settimana di ozio.",
-          "I spent an idle week there.",
+=======
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom fa un bagno almeno tre volte a settimana.",
-          "Tom takes a bath at least three times a week.",
-          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Londra ho preferito il cibo indiano.",
+          "In London I preferred Indian food.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/708.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "prossima",
+      "content": "degli",
       "translations": [
-        "next",
-        "upcoming",
-        "following",
-        "nearby"
+        "some",
+        "of the",
+        "of",
+        "from the"
+      ],
+      "usageExamples": [
+        [
+          "Quando è stata l'ultima volta che avete indossato degli occhiali da sole?",
+          "When was the last time you wore sunglasses?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Dan è stato permesso di entrare nella stanza degli interrogatori.",
+          "Dan was allowed into the interrogation room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono stanco di ascoltare incessantemente i problemi degli altri.",
+          "I'm tired of listening incessantly to other people's problems.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ospedali",
+      "translations": [
+        "hospitals",
+        "medical facilities",
+        "healthcare centers",
+        "clinics"
       ],
       "usageExamples": []
     }

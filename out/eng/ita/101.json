@@ -1,11 +1,11 @@
 {
-  "sentence": "A Leonid piaceva il fratello di Anna.",
+  "sentence": "A Layla piacque la festa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Leonid liked Anna's brother."
+    "Layla liked the party."
   ],
   "parts": [
     {
@@ -17,8 +17,18 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/101.json
           "A quale proposito?",
           "For what purpose?",
+=======
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/74.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,14 +44,32 @@
       ]
     },
     {
-      "content": "Leonid",
+      "content": "Layla",
       "translations": [
-        "Leonid",
-        "Leonids"
+        "Night",
+        "Dark beauty",
+        "Nighttime"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Layla dimenticò qualcosa.",
+          "Layla forgot something.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla non piace essere ignorata.",
+          "Layla doesn't like to be ignored.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla piacevano i suoi capelli naturali.",
+          "Layla loved her natural hair.",
+          "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/101.json
       "content": "piaceva",
       "translations": [
         "liked",
@@ -68,14 +96,18 @@
     },
     {
       "content": "il",
+=======
+      "content": "la",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/74.json
       "translations": [
         "the",
-        "it",
-        "him",
-        "that"
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/101.json
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -88,20 +120,35 @@
         [
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/74.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fratello",
+      "content": "festa",
       "translations": [
-        "brother",
-        "sibling",
-        "bro",
-        "male sibling"
+        "party",
+        "celebration",
+        "feast",
+        "festival"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/101.json
           "Loro sono fratello e sorella.",
           "They're brother and sister.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -147,6 +194,23 @@
         "Ana"
       ],
       "usageExamples": []
+=======
+          "Noi terremo una festa.",
+          "We'll have a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dimenticherò mai quella festa.",
+          "I'll never forget that party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'ho conosciuto a una festa.",
+          "I met him at a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/74.json
     }
   ]
 }

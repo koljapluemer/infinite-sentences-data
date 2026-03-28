@@ -1,12 +1,11 @@
 {
-  "sentence": "Tom ha comprato del cibo a Mary.",
+  "sentence": "Tom e Mary sono soli?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom bought Mary some food.",
-    "Tom bought some food for Mary."
+    "Are Tom and Mary lonely?"
   ],
   "parts": [
     {
@@ -17,11 +16,12 @@
       ],
       "usageExamples": [
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1007.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,19 +29,30 @@
         [
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
+=======
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/928.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "e",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "and",
+        "also",
+        "as well as",
+        "in addition"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1007.json
           "Lei ha già finito?",
           "Have you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -153,6 +164,21 @@
           "Non riusciva a vederla.",
           "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A volte Mary lo fa e a volte non lo fa.",
+          "Sometimes Mary does that and sometimes she doesn't.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
+          "My eyes were full of tears and I could barely see him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/928.json
         ]
       ]
     },
@@ -165,6 +191,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1007.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -177,6 +204,67 @@
         [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa soltanto di se stessa.",
+          "Mary only cares about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
+      ],
+      "usageExamples": [
+        [
+          "Io sono solo curiosa.",
+          "I'm just curious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si sono sposati.",
+          "They got married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché sono qui?",
+          "Why am I here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "soli",
+      "translations": [
+        "alone",
+        "only",
+        "sole",
+        "single"
+      ],
+      "usageExamples": [
+        [
+          "Siete soli.",
+          "You are alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "I problemi di solito non vanno via da soli.",
+          "Problems don't usually go away by themselves.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/928.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

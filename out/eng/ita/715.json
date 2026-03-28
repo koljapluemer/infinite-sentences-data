@@ -1,11 +1,11 @@
 {
-  "sentence": "Non fidarti troppo di Tom.",
+  "sentence": "Non dovete andare a scuola la domenica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Don't trust Tom too much."
+    "You don't have to go to school on Sunday."
   ],
   "parts": [
     {
@@ -18,31 +18,170 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/715.json
           "Non doveva aiutarla.",
           "He didn't have to help her.",
+=======
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/636.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non hai coscienza!",
+          "You have no conscience!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ],
         [
           "Non vinse, vero?",
           "He didn't win, did he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dovete",
+      "translations": [
+        "you must",
+        "you have to",
+        "you need to"
+      ],
+      "usageExamples": [
+        [
+          "La dovete avvertire.",
+          "You've got to warn her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/715.json
           "Non sembrate imbarazzate.",
           "You don't look embarrassed.",
+=======
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dovete preoccuparvi per lei.",
+          "You need not worry about her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/636.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fidarti",
+      "content": "andare",
       "translations": [
-        "to trust",
-        "to rely on",
-        "to confide in",
-        "to have faith in"
+        "to go",
+        "to walk",
+        "to move",
+        "to travel"
+      ],
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "scuola",
+      "translations": [
+        "school",
+        "academy",
+        "educational institution",
+        "learning center"
+      ],
+      "usageExamples": [
+        [
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La nostra scuola è nel mezzo della città.",
+          "Our school is in the middle of the city.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A che ora finisce la scuola?",
+          "What time does school end?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "domenica",
+      "translations": [
+        "Sunday",
+        "the Lord's Day",
+        "day of rest",
+        "weekend day"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/715.json
     },
     {
       "content": "troppo",
@@ -119,6 +258,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/636.json
     }
   ]
 }

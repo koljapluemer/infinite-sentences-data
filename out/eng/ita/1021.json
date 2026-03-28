@@ -1,11 +1,12 @@
 {
-  "sentence": "Tom l'ha fatta per voi.",
+  "sentence": "Tom ha molti amici?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom did it for you."
+    "Does Tom have a lot of friends?",
+    "Does Tom have lots of friends?"
   ],
   "parts": [
     {
@@ -16,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1021.json
           "Tom sembra compiaciuto.",
           "Tom seems pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,20 +30,34 @@
         [
           "Quanti figli ha Tom?",
           "How many kids does Tom have?",
+=======
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembrava esitante.",
+          "Tom looked hesitant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/942.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "l'ha",
+      "content": "ha",
       "translations": [
-        "he has it",
-        "she has it",
-        "it has",
-        "he's got it"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1021.json
           "Tom non l'ha mostrato a Mary.",
           "Tom didn't show Mary that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -49,40 +65,51 @@
         [
           "Lei l'ha colpito con un martello.",
           "She hit him with a hammer.",
+=======
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non me l'ha restituita.",
-          "Tom didn't give it back to me.",
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/942.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fatta",
+      "content": "molti",
       "translations": [
-        "made",
-        "done",
-        "created",
-        "produced"
+        "many",
+        "a lot",
+        "numerous",
+        "several"
       ],
       "usageExamples": [
         [
-          "Loro l'hanno fatta davvero.",
-          "They really did it.",
+          "Lui ha molti libri per giovani.",
+          "He has a lot of books for the young.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "per",
+      "content": "amici",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "friends",
+        "buddies",
+        "companions",
+        "mates"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1021.json
           "Hey, grazie per l'aiuto.",
           "Hey, thanks for the help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -121,6 +148,20 @@
         [
           "Odio tornare da lui. Voglio vivere con voi.",
           "I hate going back to him. I want to live with you.",
+=======
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace scambiare francobolli con i suoi amici.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano i suoi amici.",
+          "Mary missed her friends.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/942.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

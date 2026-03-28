@@ -1,21 +1,24 @@
 {
-  "sentence": "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
+  "sentence": "Avete annotato il numero di telefono?",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by spockofvulcan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My eyes were full of tears and I could barely see him."
+    "Did you write down the telephone number?"
   ],
   "parts": [
     {
-      "content": "avevo",
+      "content": "Avete",
       "translations": [
-        "I had",
-        "I used to have",
-        "I was having"
+        "You have",
+        "Do you have?",
+        "You all have",
+        "Have you?"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/259.json
           "Non avevo intenzione di metterla in imbarazzo.",
           "I didn't mean to embarrass you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -23,13 +26,28 @@
         [
           "Tom mi chiese se avevo fame.",
           "Tom asked me whether I was hungry.",
+=======
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/180.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gli",
+      "content": "annotato",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/259.json
         "the",
         "them",
         "those"
@@ -75,8 +93,61 @@
         "little",
         "tiny",
         "petite"
+=======
+        "noted",
+        "annotated",
+        "marked",
+        "recorded"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/180.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "numero",
+      "translations": [
+        "number",
+        "numeral",
+        "digit",
+        "figure"
+      ],
+      "usageExamples": [
+        [
+          "2 è l'unico numero primo pari.",
+          "2 is the only even prime number.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "49 è un numero quadrato.",
+          "49 is a square number.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "di",
@@ -88,11 +159,12 @@
       ],
       "usageExamples": [
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "Può fare di meglio.",
+          "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/259.json
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,29 +173,30 @@
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+=======
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/180.json
         ]
       ]
     },
     {
-      "content": "lacrime",
+      "content": "telefono",
       "translations": [
-        "tears",
-        "crying",
-        "sorrow",
-        "lament"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "e",
-      "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "telephone",
+        "phone",
+        "cell phone",
+        "mobile phone"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/259.json
           "Io spero che Tom e Mary siano qui.",
           "I hope Tom and Mary are here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -197,6 +270,10 @@
         [
           "Ha a malapena toccato la sua cena.",
           "He barely touched his dinner.",
+=======
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/180.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

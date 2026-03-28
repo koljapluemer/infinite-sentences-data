@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary sta caricando la macchina, vero?",
+  "sentence": "Mary mi disse che non era più malata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is loading the car, isn't she?"
+    "Mary told me she wasn't sick anymore."
   ],
   "parts": [
     {
@@ -22,6 +22,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/652.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,56 +30,87 @@
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
+=======
+          "A Mary non è permesso farlo, vero?",
+          "Mary isn't allowed to do that, is she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/573.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sta",
+      "content": "mi",
       "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
+        "me",
+        "myself",
+        "to me",
+        "for me"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/652.json
           "Tom sta cenando adesso.",
           "Tom is eating dinner right now.",
+=======
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/573.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cosa la sta causando?",
-          "What's causing it?",
+          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+          "My mother advises me against sitting at my computer all day long.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volevo che Tom mi dicesse come farlo.",
+          "I wanted Tom to tell me how to do that.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "disse",
+      "translations": [
+        "said",
+        "told",
+        "stated",
+        "declared"
+      ],
+      "usageExamples": [
+        [
+          "Tom disse che non era ricco.",
+          "Tom said that he wasn't rich.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/652.json
           "Qualcuno sta osservando Tom.",
           "Someone is watching Tom.",
+=======
+          "Mary disse che era offesa.",
+          "Mary said that she was offended.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom disse che era brava.",
+          "Tom said that you were good.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/573.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "caricando",
+      "content": "che",
       "translations": [
-        "loading",
-        "charging",
-        "uploading",
-        "filling"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
         "that",
         "which",
-        "those"
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/652.json
           "Cosa la sta causando?",
           "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -91,25 +123,41 @@
         [
           "Prendi la mia.",
           "Take mine.",
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/573.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "macchina",
+      "content": "non",
       "translations": [
-        "machine",
-        "car",
-        "device",
-        "engine"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
-          "Taxi, segui quella macchina.",
-          "Taxi, follow that car.",
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/652.json
           "Ha ritrovato per caso la macchina fotografica che aveva perso.",
           "He found his lost camera by chance.",
           "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)"
@@ -117,20 +165,30 @@
         [
           "A Mary fu rubata la macchina fotografica.",
           "Mary had her camera stolen.",
+=======
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/573.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vero",
+      "content": "era",
       "translations": [
-        "true",
-        "indeed",
-        "in fact",
-        "certainly"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/652.json
           "Non vinse, vero?",
           "He didn't win, did he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -138,14 +196,59 @@
         [
           "Siete piuttosto timidi, vero?",
           "You're quite shy, aren't you?",
+=======
+          "Chi era qua?",
+          "Who was here?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È scoraggiata, vero?",
-          "She's discouraged, isn't she?",
+          "Tom era creativo.",
+          "Tom was creative.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/573.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "più",
+      "translations": [
+        "more",
+        "plus",
+        "greater",
+        "further"
+      ],
+      "usageExamples": [
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È anche più economico.",
+          "It's also cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Studiate più duramente.",
+          "Study harder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "malata",
+      "translations": [
+        "sick",
+        "ill",
+        "diseased",
+        "unwell"
+      ],
+      "usageExamples": []
     }
   ]
 }

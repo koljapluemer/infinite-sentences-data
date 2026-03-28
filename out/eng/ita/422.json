@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho un sacco di cose da fare.",
+  "sentence": "Ho preso un taxi per andare alla stazione dei treni.",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have loads of things to do."
+    "I took a taxi to the train station."
   ],
   "parts": [
     {
@@ -18,13 +18,42 @@
       ],
       "usageExamples": [
         [
-          "Ho abbastanza amici.",
-          "I have enough friends.",
+<<<<<<< HEAD:out/eng/ita/422.json
+=======
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho iniziato dal fondo.",
-          "I started at the bottom.",
+          "Ho letto un fumetto.",
+          "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/343.json
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "preso",
+      "translations": [
+        "caught",
+        "arrested",
+        "taken",
+        "seized"
+      ],
+      "usageExamples": [
+        [
+          "Io non ho preso nulla per te.",
+          "I didn't get anything for you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ho preso un taxi perché stava piovendo.",
+          "I took a taxi because it was raining.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -43,13 +72,19 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/422.json
           "È un ghostwriter.",
           "He's a ghostwriter.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "Chiamate un'ambulanza!",
+          "Call an ambulance!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/343.json
         ],
         [
-          "Sei un testimone.",
-          "You are a witness.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -60,25 +95,118 @@
       ]
     },
     {
-      "content": "sacco",
+      "content": "taxi",
       "translations": [
-        "bag",
-        "sack",
-        "pouch",
-        "pack"
+        "cab",
+        "taxicab",
+        "ride-hailing service"
+      ],
+      "usageExamples": [
+        [
+          "Io ho preso un taxi perché stava piovendo.",
+          "I took a taxi because it was raining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "andare",
+      "translations": [
+        "to go",
+        "to walk",
+        "to move",
+        "to travel"
+      ],
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "alla",
+      "translations": [
+        "to",
+        "at",
+        "in the direction of",
+        "towards"
+      ],
+      "usageExamples": [
+        [
+          "È solamente una di quelle fastidiose parole alla moda.",
+          "It's just one of those annoying buzzwords.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beh, eccoci qui alla fine!",
+          "Well, here we are at last!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono divertita davvero alla festa.",
+          "I really enjoyed myself at the party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stazione",
+      "translations": [
+        "station",
+        "stop",
+        "depot",
+        "terminal"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "dei",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "gods",
+        "deities",
+        "divine beings",
+        "spirits"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/422.json
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -117,18 +245,33 @@
         [
           "Ti ho detto delle cose così orribili. Mi dispiace.",
           "I said such horrible things to you. I'm sorry.",
+=======
+          "Mi servono dei francobolli.",
+          "I need stamps.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri mangiò dei datteri.",
+          "Ziri ate dates.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/343.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "da",
+      "content": "treni",
       "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
+        "trains",
+        "train cars",
+        "railway trains",
+        "locomotives"
       ],
+<<<<<<< HEAD:out/eng/ita/422.json
       "usageExamples": [
         [
           "Scendi da quella scala.",
@@ -172,6 +315,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/343.json
     }
   ]
 }

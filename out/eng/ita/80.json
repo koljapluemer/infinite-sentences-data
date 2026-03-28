@@ -1,11 +1,11 @@
 {
-  "sentence": "A John piace l'infermiera.",
+  "sentence": "A Jim piace suonare la batteria.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by FeuDRenais (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "John likes the nurse."
+    "Jim likes to play the drum."
   ],
   "parts": [
     {
@@ -17,9 +17,15 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/80.json
           "A Fadil piaceva sciare.",
           "Fadil liked skiing.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/55.json
         ],
         [
           "A Judy piace.",
@@ -34,14 +40,14 @@
       ]
     },
     {
-      "content": "John",
+      "content": "Jim",
       "translations": [
-        "John Doe",
-        "Johnny",
-        "J."
+        "Jim",
+        "James"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/80.json
           "Tom chiese a Mary se lei si fidava di John.",
           "Tom asked Mary if she trusted John.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,6 +60,20 @@
         [
           "Il professore diede un premio a John.",
           "The teacher gave John a prize.",
+=======
+          "A Jim piace il dottore.",
+          "Jim likes the doctor.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Jim è stata rubata la macchina fotografica.",
+          "Jim had his camera stolen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Jim fu rubata la macchina fotografica.",
+          "Jim had his camera stolen.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/55.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -67,8 +87,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/80.json
           "A Judy piace lui.",
           "Judy likes him.",
+=======
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/55.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -84,10 +109,59 @@
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/80.json
       "content": "l'infermiera",
       "translations": [
         "the nurse",
         "nurse"
+=======
+      "content": "suonare",
+      "translations": [
+        "to play (an instrument)",
+        "to sound",
+        "to ring",
+        "to perform (music)"
+      ],
+      "usageExamples": [
+        [
+          "Le piacerebbe imparare a suonare il piano?",
+          "Would you like to learn to play the piano?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "batteria",
+      "translations": [
+        "battery",
+        "drum kit"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/55.json
       ],
       "usageExamples": []
     }

@@ -1,49 +1,50 @@
 {
-  "sentence": "Li sta confondendo.",
+  "sentence": "Lei è del tutto diversa da sua madre.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're confusing them."
+    "She is not anything like her mother."
   ],
   "parts": [
     {
-      "content": "Li",
+      "content": "Lei",
       "translations": [
-        "The",
-        "It",
-        "Him",
-        "Her"
+        "You (formal)",
+        "She",
+        "Mrs.",
+        "Ma'am"
       ],
       "usageExamples": [
         [
-          "Li vuoi?",
-          "Do you want them?",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li vada ad aiutare.",
-          "Go and help them.",
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Li avete rapiti?",
-          "Did you kidnap them?",
+          "Lei ha già finito?",
+          "Have you already finished?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sta",
+      "content": "è",
       "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/604.json
           "Tom sta lavorando, vero?",
           "Tom is working, isn't he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -51,24 +52,163 @@
         [
           "Tom sta gemendo.",
           "Tom is whining.",
+=======
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta cenando adesso.",
-          "Tom is eating dinner right now.",
+          "Tom è un esperto.",
+          "Tom is a pro.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/525.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "confondendo",
+      "content": "del",
       "translations": [
-        "confusing",
-        "mixing up",
-        "blurring",
-        "muddling"
+        "of the",
+        "from the",
+        "about the",
+        "by the"
+      ],
+      "usageExamples": [
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'avversario più importante del Giappone era la Cina.",
+          "Japan's most important opponent was China.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tutto",
+      "translations": [
+        "everything",
+        "all",
+        "the whole",
+        "entirety"
+      ],
+      "usageExamples": [
+        [
+          "1,3 miliardi di persone in tutto il mondo non hanno accesso all'elettricità.",
+          "1.3 billion people around the world lack access to electricity.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom spiegò come perse tutto il suo denaro.",
+          "Tom explained how he lost his money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
+          "My mother advises me against sitting at my computer all day long.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "diversa",
+      "translations": [
+        "various",
+        "diverse",
+        "different",
+        "varied"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "da",
+      "translations": [
+        "from",
+        "since",
+        "by",
+        "of"
+      ],
+      "usageExamples": [
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il suo sommario molto approssimativo non rende giustizia al testo originale e alla sua raffinatezza intellettuale.",
+          "His very rough summary does not do justice to the original text and its intellectual sophistication.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui non riesce ad adattarsi alla sua situazione.",
+          "He can't accommodate himself to his circumstances.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "madre",
+      "translations": [
+        "mother",
+        "mom",
+        "mum",
+        "mama"
+      ],
+      "usageExamples": [
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono orgoglioso di mia madre.",
+          "I'm proud of my mother.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

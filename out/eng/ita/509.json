@@ -1,11 +1,11 @@
 {
-  "sentence": "Io sono qui per lui.",
+  "sentence": "Io penso che il vento si stia indebolendo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by blay_paul (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm here for him."
+    "I think the wind's dropping off."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/509.json
           "Io l'ho sentito.",
           "I heard it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -27,21 +28,17 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/430.json
           "Io l'ho comprata.",
           "I bought it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sono",
-      "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
-      ],
-      "usageExamples": [
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Perché sono qui?",
           "Why are they here?",
@@ -56,26 +53,66 @@
           "Io sono una patata.",
           "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/509.json
+=======
         ]
       ]
     },
     {
-      "content": "qui",
+      "content": "penso",
       "translations": [
-        "who",
-        "that",
-        "which",
-        "whom"
+        "I think.",
+        "I believe",
+        "I consider",
+        "I reflect"
       ],
       "usageExamples": [
         [
+          "Io penso che Tom fosse qui.",
+          "I think Tom was here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io penso che siate egoisti.",
+          "I think you're selfish.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non penso che Tom mentirebbe.",
+          "I don't think Tom would lie.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/430.json
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/509.json
           "Perché sono qui?",
           "Why am I here?",
           "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+=======
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Erano proprio qui.",
-          "They were right here.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/430.json
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -86,8 +123,9 @@
       ]
     },
     {
-      "content": "per",
+      "content": "il",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/509.json
         "for",
         "by",
         "through"
@@ -114,26 +152,97 @@
       "content": "lui",
       "translations": [
         "he",
+=======
+        "the",
+        "it",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/430.json
         "him",
-        "his"
+        "that"
       ],
       "usageExamples": [
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Forse è lui.",
-          "Maybe it's him.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/509.json
           "Parlo frequentemente con lui.",
           "I frequently talk to him.",
+=======
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/430.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "vento",
+      "translations": [
+        "wind",
+        "breeze",
+        "air current",
+        "draft"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "si",
+      "translations": [
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had a good time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stia",
+      "translations": [
+        "stay",
+        "be",
+        "remain",
+        "live"
+      ],
+      "usageExamples": [
+        [
+          "Io non penso che lui stia fingendo.",
+          "I don't think he's faking.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "indebolendo",
+      "translations": [
+        "weakening",
+        "diminishing",
+        "undermining",
+        "lessening"
+      ],
+      "usageExamples": []
     }
   ]
 }

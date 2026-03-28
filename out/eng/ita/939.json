@@ -1,27 +1,49 @@
 {
-  "sentence": "So che Tom e Mary devono andare a Boston.",
+  "sentence": "Siate pazienti con noi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I know Tom and Mary have to go to Boston."
+    "Be patient with us."
   ],
   "parts": [
     {
-      "content": "So",
+      "content": "Siate",
       "translations": [
-        "Therefore",
-        "Thus",
-        "In that case"
+        "Be",
+        "You are",
+        "Let there be",
+        "Become"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "pazienti",
+      "translations": [
+        "patients",
+        "clients",
+        "individuals",
+        "service users"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
-          "So che hai un problema.",
-          "I know you have a problem.",
+          "Era sposato con lei.",
+          "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/939.json
           "So che sei ancora arrabbiata con me.",
           "I know you're still mad at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,30 +51,44 @@
         [
           "So che Tom vi ha ferite.",
           "I know that Tom hurt you.",
+=======
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/860.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "noi",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "we",
+        "us",
+        "ourselves"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/939.json
           "Disse che lo amava.",
           "She said that she loved him.",
+=======
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/860.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
+          "Only time will tell what the world has in store for us.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/939.json
           "È quello che sono.",
           "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -222,6 +258,10 @@
         [
           "Non sono ancora stato a Boston.",
           "I haven't been to Boston yet.",
+=======
+          "Tu devi essere onesta con noi.",
+          "You need to be honest with us.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/860.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

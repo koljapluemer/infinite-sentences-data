@@ -1,11 +1,11 @@
 {
-  "sentence": "A Ken piace molto la musica.",
+  "sentence": "A Ken mancava Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ken likes music very much."
+    "Ken missed Tom."
   ],
   "parts": [
     {
@@ -17,8 +17,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/90.json
           "A Fadil piaceva scommettere.",
           "Fadil liked to gamble.",
+=======
+          "A quale proposito?",
+          "For what purpose?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/65.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -27,8 +32,13 @@
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/90.json
           "A Judy piace lui.",
           "Judy likes him.",
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/65.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,8 +52,8 @@
       ],
       "usageExamples": [
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "A Ken piace molto la musica.",
+          "Ken likes music very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -59,14 +69,14 @@
       ]
     },
     {
-      "content": "piace",
+      "content": "Tom",
       "translations": [
-        "to like",
-        "to please",
-        "to be pleasing to"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/90.json
           "A Judy piace.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -157,6 +167,20 @@
         [
           "Il mio hobby è la musica.",
           "My hobby is music.",
+=======
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/65.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

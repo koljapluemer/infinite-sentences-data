@@ -1,44 +1,45 @@
 {
-  "sentence": "Dovresti aiutare Tom.",
+  "sentence": "Dove li avete oliati?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should help Tom."
+    "Where did you oil them?"
   ],
   "parts": [
     {
-      "content": "Dovresti",
+      "content": "Dove",
       "translations": [
-        "You should",
-        "You ought to",
-        "You must",
-        "You are supposed to"
+        "Where",
+        "Where is it?",
+        "Where to?",
+        "Where are you?"
       ],
       "usageExamples": [
         [
-          "Dovresti sposarlo.",
-          "You should marry him.",
+          "Dove ha portato il mio lenzuolo?",
+          "Where did you take my blanket?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dovresti lasciarmi da sola.",
-          "You should leave me alone.",
+          "Dove sei in questo momento?",
+          "Where are you right now?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aiutare",
+      "content": "li",
       "translations": [
-        "to help",
-        "to assist",
-        "to aid",
-        "to support"
+        "the",
+        "it",
+        "him",
+        "them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/341.json
           "Li vada ad aiutare.",
           "Go help them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -46,23 +47,34 @@
         [
           "Stavo per aiutare Tom.",
           "I was going to help Tom.",
+=======
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo avreste dovuto aiutare con il suo lavoro.",
-          "You should have helped him with his work.",
+          "Tutti li ignorarono.",
+          "Everyone ignored them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/262.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary li ha ingannati tutti.",
+          "Mary fooled them all.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "avete",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "you have",
+        "you've got",
+        "are you having"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/341.json
           "Volete veramente votare Tom?",
           "Do you really want to vote for Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -75,9 +87,33 @@
         [
           "A Ken mancava Tom.",
           "Ken missed Tom.",
+=======
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Tom sarebbe piaciuto quello che avete fatto.",
+          "Tom would've liked what you did.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/262.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "oliati",
+      "translations": [
+        "oiled",
+        "greased",
+        "lubricated",
+        "oily"
+      ],
+      "usageExamples": []
     }
   ]
 }

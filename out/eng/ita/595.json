@@ -1,11 +1,11 @@
 {
-  "sentence": "Lei se ne vuole andare domani?",
+  "sentence": "Lei ha già cominciato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by jm (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you want to leave tomorrow?"
+    "She has already begun."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/595.json
           "Lei ha già finito?",
           "Have you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -26,29 +27,19 @@
           "Lei ci catturerà.",
           "You will catch us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/516.json
         ],
         [
           "Lei è la dottoressa?",
           "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "se",
-      "translations": [
-        "himself",
-        "herself",
-        "itself",
-        "themselves"
-      ],
-      "usageExamples": [
-        [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/595.json
           "A Mary importava solo di se stessa.",
           "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -57,24 +48,29 @@
           "Non so se i padrini di mio figlio siano ancora vivi.",
           "I don't know if my son's godparents are still alive.",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+=======
+          "Lei è americano?",
+          "Are you American?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/516.json
         ]
       ]
     },
     {
-      "content": "ne",
+      "content": "ha",
       "translations": [
-        "not",
-        "no",
-        "neither",
-        "nor"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Quanti ne hai?",
-          "How many do you have?",
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/595.json
           "Non vogliamo che se ne vada.",
           "We don't want her to leave.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -82,20 +78,30 @@
         [
           "Perché te ne stai andando?",
           "Why are you leaving?",
+=======
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/516.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vuole",
+      "content": "già",
       "translations": [
-        "wants",
-        "desires",
-        "wishes",
-        "intends"
+        "already",
+        "now",
+        "yet",
+        "at this point"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/595.json
           "Non vuole fermarla.",
           "He doesn't want to stop her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -108,25 +114,40 @@
         [
           "Mia madre vuole che io studi in Svizzera.",
           "My mother wants me to study in Switzerland.",
+=======
+          "Lei ha già finito?",
+          "Have you already finished?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci sei già stata.",
+          "You have already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pensavo che avesse già parlato con Tom.",
+          "I thought you'd already talked to Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/516.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "andare",
+      "content": "cominciato",
       "translations": [
-        "to go",
-        "to walk",
-        "to move",
-        "to travel"
+        "started",
+        "begun",
+        "initiated",
+        "commenced"
       ],
       "usageExamples": [
         [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
+          "Hanno cominciato ad innervosirsi.",
+          "They started to get nervous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/595.json
           "Lasci andare il ragazzo.",
           "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -159,6 +180,10 @@
         [
           "Andrò in biblioteca con te domani.",
           "I'll go to the library with you tomorrow.",
+=======
+          "Abbiamo cominciato a parlare dell'Islam.",
+          "We started talking about Islam.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/516.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

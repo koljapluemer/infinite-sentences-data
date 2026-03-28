@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom sa come si sente Mary a riguardo.",
+  "sentence": "Tom non è alto come te.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom knows how Mary feels about that."
+    "Tom isn't tall like you."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1042.json
           "Tom era creativo.",
           "Tom was creative.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,20 +29,36 @@
         [
           "Dovresti aiutare Tom.",
           "You should help Tom.",
+=======
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/963.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sa",
+      "content": "non",
       "translations": [
-        "if",
-        "whether",
-        "that",
-        "as"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1042.json
           "Mary sa che cosa vuole dire.",
           "Mary knows what she wants to say.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -49,14 +66,62 @@
         [
           "Non sa che sono giapponese.",
           "He doesn't know that I'm Japanese.",
+=======
+          "Però non funzionerà!",
+          "But that won't work!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/963.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non sa nulla a riguardo della situazione.",
-          "Tom doesn't know anything about the situation.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1042.json
+=======
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/963.json
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had a good time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "alto",
+      "translations": [
+        "high",
+        "tall",
+        "loud",
+        "elevated"
+      ],
+      "usageExamples": []
     },
     {
       "content": "come",
@@ -73,6 +138,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1042.json
           "Tom spiegò come perse tutto il suo denaro.",
           "Tom explained how he lost his money.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -96,11 +162,15 @@
         [
           "Tom si è divertito.",
           "Tom had fun.",
+=======
+          "Tom sa come si sente Mary a riguardo.",
+          "Tom knows how Mary feels about that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/963.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Tom ballò come un robot.",
+          "Tom danced like a robot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -111,24 +181,16 @@
       ]
     },
     {
-      "content": "sente",
+      "content": "te",
       "translations": [
-        "to feel",
-        "to sense",
-        "to perceive",
-        "to hear"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Mary",
-      "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "you",
+        "yourself",
+        "to you",
+        "for you"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1042.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -192,6 +254,20 @@
         [
           "Tom non sa nulla a riguardo della situazione.",
           "Tom doesn't know anything about the situation.",
+=======
+          "Perché te ne stai andando?",
+          "Why are you leaving?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non ho preso nulla per te.",
+          "I didn't get anything for you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voglio parlare con te da sola.",
+          "I want to speak to you alone.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/963.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

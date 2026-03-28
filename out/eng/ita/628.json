@@ -1,11 +1,11 @@
 {
-  "sentence": "Lui studiò economia all'università.",
+  "sentence": "Lui era assente a causa della tempesta.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He studied economics at college."
+    "He was absent because of the storm."
   ],
   "parts": [
     {
@@ -28,37 +28,96 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/628.json
           "Lui non riesce ad adattarsi alla sua situazione.",
           "He can't accommodate himself to his circumstances.",
+=======
+          "Lui studiò economia all'università.",
+          "He studied economics at college.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/549.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "studiò",
+      "content": "era",
       "translations": [
-        "he/she studied",
-        "he/she has studied",
-        "he/she was studying"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
+      ],
+      "usageExamples": [
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "assente",
+      "translations": [
+        "absent",
+        "not present",
+        "away",
+        "missing"
       ],
       "usageExamples": []
     },
     {
-      "content": "economia",
+      "content": "a causa di",
       "translations": [
-        "economy",
-        "economics",
-        "financial system",
-        "economic affairs"
+        "because of",
+        "due to",
+        "on account of",
+        "as a result of"
       ],
       "usageExamples": []
     },
     {
-      "content": "all'università",
+      "content": "della",
       "translations": [
-        "to the university",
-        "at the university",
-        "in university"
+        "of the",
+        "from the",
+        "about the",
+        "concerning the"
+      ],
+      "usageExamples": [
+        [
+          "Sami consegnò della pizza.",
+          "Sami delivered pizza.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa della sua salute.",
+          "Mary cares about her health.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tempesta",
+      "translations": [
+        "storm",
+        "tempest",
+        "bad weather",
+        "violent weather"
       ],
       "usageExamples": []
     }

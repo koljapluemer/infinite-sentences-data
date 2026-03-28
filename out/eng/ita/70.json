@@ -1,11 +1,11 @@
 {
-  "sentence": "A Inoue non piacciono i computer.",
+  "sentence": "A Henrietta non piacciono i gatti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Inoue doesn't like computers."
+    "Henrietta doesn't like cats."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/70.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,15 +31,29 @@
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/47.json
         ]
       ]
     },
     {
-      "content": "Inoue",
+      "content": "Henrietta",
       "translations": [
-        "Inoue",
-        "Inoue (surname)",
-        "Inoue (family name)"
+        "Henrietta",
+        "Henriette"
       ],
       "usageExamples": []
     },
@@ -48,10 +63,24 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/70.json
+=======
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/47.json
           "Perché non ha corso?",
           "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -77,18 +106,28 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/70.json
           "A Mary piacciono le principesse.",
           "Mary likes princesses.",
+=======
+          "A me piacciono i tulipani.",
+          "I like tulips.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/47.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary non piacciono le mele, vero?",
-          "Mary doesn't like apples, does she?",
+          "Non mi piacciono le sue barzellette.",
+          "I don't like his jokes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/70.json
           "A Mary piacciono le ragazze.",
           "Mary likes girls.",
+=======
+          "A Eva piacciono i cani, però non i gatti.",
+          "Eva likes dogs, but not cats.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/47.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -108,6 +147,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/70.json
           "Io sospetto che Tom non faccia i compiti da solo.",
           "I suspect that Tom doesn't do his homework by himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -115,19 +155,30 @@
         [
           "Ziri ama i gatti siamesi.",
           "Ziri loves Siamese cats.",
+=======
+          "A John piace scambiare francobolli con i suoi amici.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Inoue non piacciono i computer.",
+          "Inoue doesn't like computers.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/47.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "computer",
+      "content": "gatti",
       "translations": [
-        "PC",
-        "computing device",
-        "laptop"
+        "cats",
+        "kittens",
+        "felines",
+        "domestic cats"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/70.json
           "I personal computer sono molto utili.",
           "Personal computers are very useful.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -141,6 +192,21 @@
           "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
           "My mother advises me against sitting at my computer all day long.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "I gatti non hanno le pulci.",
+          "The cats have fleas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, ma non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piacciono i cani e i gatti.",
+          "I like dogs and cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/47.json
         ]
       ]
     }

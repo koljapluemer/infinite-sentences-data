@@ -1,11 +1,11 @@
 {
-  "sentence": "Io ero lì.",
+  "sentence": "Io amo il suono della pioggia sul tetto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I was there."
+    "I love the sound of rain on the roof."
   ],
   "parts": [
     {
@@ -17,13 +17,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/472.json
           "Io appoggiavo Tom.",
           "I used to support Tom.",
+=======
+          "Io sono una patata.",
+          "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io l'ho comprata.",
-          "I bought it.",
+          "Io parlo bosniaco.",
+          "I speak Bosnian.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/393.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sto diventando piccolo!",
+          "I am getting small!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,41 +44,134 @@
       ]
     },
     {
-      "content": "ero",
+      "content": "amo",
       "translations": [
-        "I was",
-        "I used to be",
-        "I used to",
-        "I was being"
+        "I love",
+        "I like",
+        "I am fond of",
+        "I adore"
       ],
       "usageExamples": [
         [
-          "L'ho usata quando ero in Cina la scorsa estate.",
-          "I used it when I was in China last summer.",
+          "Io amo i miei genitori.",
+          "I love my parents.",
+          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lì",
+      "content": "suono",
       "translations": [
-        "there",
-        "over there",
-        "in that place",
-        "at that location"
+        "sound",
+        "noise",
+        "tone",
+        "audio"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "della",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "concerning the"
       ],
       "usageExamples": [
         [
-          "Perché siete andati lì?",
-          "Why did you go there?",
+          "Sami consegnò della pizza.",
+          "Sami delivered pizza.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non ci sarà così tanta gente lì.",
-          "There won't be so many people there.",
+          "Più della metà delle persone condannate dai tribunali è innocente.",
+          "More than half of the people convicted by the courts are innocent.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui era assente a causa della tempesta.",
+          "He was absent because of the storm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "pioggia",
+      "translations": [
+        "rain",
+        "precipitation",
+        "downpour",
+        "shower"
+      ],
+      "usageExamples": [
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sul",
+      "translations": [
+        "on",
+        "upon",
+        "over",
+        "above"
+      ],
+      "usageExamples": [
+        [
+          "Hanno perso la guerra sul fronte orientale.",
+          "They lost the war on the eastern front.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
+          "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lascia il mais sul tavolo.",
+          "Leave the corn on the table.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tetto",
+      "translations": [
+        "roof",
+        "ceiling",
+        "top",
+        "cover"
+      ],
+      "usageExamples": []
     }
   ]
 }

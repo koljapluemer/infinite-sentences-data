@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non piace il latte nel suo caffè.",
+  "sentence": "A Mary non importa, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary doesn't like milk in her coffee."
+    "Mary doesn't care, does she?"
   ],
   "parts": [
     {
@@ -17,6 +17,19 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/155.json
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/119.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -42,6 +55,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/155.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,6 +69,21 @@
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary e Tom importa la privacy.",
+          "Mary and Tom care about privacy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/119.json
         ]
       ]
     },
@@ -64,17 +93,23 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
-          "Perché non ha corso?",
-          "Why didn't you run?",
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/155.json
           "Perché non stai dormendo?",
           "Why aren't you sleeping?",
+=======
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/119.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -85,14 +120,16 @@
       ]
     },
     {
-      "content": "piace",
+      "content": "importa",
       "translations": [
-        "to like",
-        "to please",
-        "to be pleasing to"
+        "it matters",
+        "it is important",
+        "it counts",
+        "it is significant"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/155.json
           "A John piace l'infermiera.",
           "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -105,20 +142,35 @@
         [
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
+=======
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa della sua salute.",
+          "Mary cares about her health.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa solamente di se stessa.",
+          "Mary only cares about herself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/119.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "vero",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/155.json
           "Non conosco il sistema.",
           "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -126,12 +178,17 @@
         [
           "Mi piace il reggae.",
           "I like reggae.",
+=======
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/119.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
+          "Non vinse, vero?",
+          "He didn't win, did he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/155.json
         ]
       ]
     },
@@ -235,6 +292,12 @@
         [
           "Ho bevuto del caffè questa mattina.",
           "I drank coffee this morning.",
+=======
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/119.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

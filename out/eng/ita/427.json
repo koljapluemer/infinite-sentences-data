@@ -1,22 +1,24 @@
 {
-  "sentence": "I miei genitori abitano in una casa grande.",
+  "sentence": "Ho un fratello più grande.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Barra (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My parents live in a big house."
+    "I have an older brother."
   ],
   "parts": [
     {
-      "content": "I",
+      "content": "Ho",
       "translations": [
-        "me",
-        "myself",
-        "the one who is speaking"
+        "I have",
+        "I possess",
+        "I hold",
+        "I own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/427.json
           "I gatti non hanno le pulci.",
           "The cats have fleas.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,28 +32,65 @@
           "I sondaggisti hanno condotto un sondaggio sulla popolarità dei candidati politici.",
           "Pollsters conducted a poll on the popularity of the political candidates.",
           "Sentence from Tatoeba by alesimpa (CC-BY 2.0 FR)"
+=======
+          "Ho iniziato dal fondo.",
+          "I started at the bottom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho letto un fumetto.",
+          "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "miei",
+      "content": "un",
       "translations": [
-        "my",
-        "mine",
-        "of mine"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "Io amo i miei genitori.",
-          "I love my parents.",
-          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ai miei genitori non piace il mio ragazzo.",
-          "My parents don't like my boyfriend.",
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Beviamo un'altra birra.",
+          "Let's drink another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/348.json
+        ]
+      ]
+    },
+    {
+      "content": "fratello",
+      "translations": [
+        "brother",
+        "sibling",
+        "bro",
+        "male sibling"
+      ],
+      "usageExamples": [
+        [
+          "A Leonid piaceva il fratello di Anna.",
+          "Leonid liked Anna's brother.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/427.json
           "Esprimi costantemente disaccordo con i miei suggerimenti.",
           "You consistently express disagreement with my suggestions.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -81,28 +120,25 @@
           "Io amo i miei genitori.",
           "I love my parents.",
           "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+=======
+          "Loro sono fratello e sorella.",
+          "They're brother and sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/348.json
         ]
       ]
     },
     {
-      "content": "abitano",
+      "content": "più",
       "translations": [
-        "they live",
-        "they inhabit",
-        "they reside",
-        "they dwell"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "inside",
-        "within",
-        "into"
+        "more",
+        "plus",
+        "greater",
+        "further"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/427.json
           "Domani andiamo in montagna.",
           "Tomorrow we'll go to the mountains.",
           "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
@@ -167,6 +203,20 @@
         [
           "Jack ha un gatto e un pappagallo a casa.",
           "Jack keeps a cat and a parrot at home.",
+=======
+          "È anche più economico.",
+          "It's also cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Studiate più duramente.",
+          "Study harder.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/348.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -181,8 +231,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/427.json
           "Ho un fratello più grande.",
           "I have an older brother.",
+=======
+          "I miei genitori abitano in una casa grande.",
+          "My parents live in a big house.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/348.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [

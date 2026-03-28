@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary mancavano le sue amiche.",
+  "sentence": "A Mary mancava suo figlio.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary missed her friends."
+    "Mary missed her son."
   ],
   "parts": [
     {
@@ -17,18 +17,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/148.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Judy piace.",
-          "Judy likes him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Judy piace lui.",
-          "Judy likes him.",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/113.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -47,6 +52,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/148.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,19 +107,25 @@
         [
           "A Cuba serve Internet per le esportazioni.",
           "Cuba needs the Internet for exports.",
+=======
+          "Mary sta caricando la macchina, vero?",
+          "Mary is loading the car, isn't she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/113.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sue",
+      "content": "suo",
       "translations": [
-        "to sue",
-        "to file a lawsuit",
-        "to take legal action against"
+        "his",
+        "her",
+        "its",
+        "their"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/148.json
           "Non mi piacciono le sue barzellette.",
           "I don't like his jokes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -126,28 +138,42 @@
         [
           "Ho provato a seguire le sue instruzioni.",
           "I tried to follow your instructions.",
+=======
+          "Tom spiegò come perse tutto il suo denaro.",
+          "Tom explained how he lost his money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il suo sommario molto approssimativo non rende giustizia al testo originale e alla sua raffinatezza intellettuale.",
+          "His very rough summary does not do justice to the original text and its intellectual sophistication.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo impiego.",
+          "Mary didn't enjoy her job.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/113.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "amiche",
+      "content": "figlio",
       "translations": [
-        "friends",
-        "girlfriends",
-        "female friends",
-        "buddies"
+        "son",
+        "child",
+        "offspring",
+        "descendant"
       ],
       "usageExamples": [
         [
-          "A John piace scambiare francobolli con le sue amiche.",
-          "John likes to trade stamps with his friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ],
         [
-          "Mary era circondata dalle sue amiche.",
-          "Mary was surrounded by her friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
+          "A son would represent continuity in a rapidly changing world.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     }

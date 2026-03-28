@@ -1,11 +1,11 @@
 {
-  "sentence": "A Madre Teresa è stato dato il Premio Nobel.",
+  "sentence": "A MAry non piace parlare di se stessa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mother Teresa was given the Nobel prize."
+    "Mary doesn't like talking about herself."
   ],
   "parts": [
     {
@@ -17,51 +17,120 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/111.json
           "A John piace l'infermiera.",
           "John likes the nurse.",
+=======
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/83.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
         [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/111.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non sapeva quale fosse il cognome di Mary.",
+          "Tom didn't know what Mary's last name was.",
+          "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Madre",
+      "content": "piace",
       "translations": [
-        "Mother",
-        "Mom",
-        "Mama",
-        "Mum"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Teresa",
-      "translations": [
-        "Teresa",
-        "Terry",
-        "Tess"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
       "usageExamples": [
         [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/83.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "parlare",
+      "translations": [
+        "to speak",
+        "to talk",
+        "to converse",
+        "to communicate"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/111.json
           "La matematica è divertente.",
           "Math is fun.",
           "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
@@ -74,51 +143,71 @@
         [
           "La risposta è complicata.",
           "The answer is complicated.",
+=======
+          "A Bill e John piace ritrovarsi una volta al mese per parlare.",
+          "Bill and John like to get together once a month to talk.",
+          "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
+        ],
+        [
+          "Abbiamo cominciato a parlare dell'Islam.",
+          "We started talking about Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui ama parlare con la gente.",
+          "He loves talking to people.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/83.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stato",
+      "content": "di",
       "translations": [
-        "state",
-        "status",
-        "condition",
-        "situation"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "È stato scaricato.",
-          "He was dumped.",
+          "Volete sentire di più?",
+          "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È stato una delusione.",
-          "It was a disappointment.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/111.json
           "Io sono stato invitato al loro matrimonio.",
           "I was invited to their wedding.",
+=======
+          "Mi importa di lei.",
+          "I care about her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/83.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dato",
+      "content": "se",
       "translations": [
-        "given",
-        "data",
-        "fact",
-        "information"
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
       "usageExamples": [
         [
-          "Tom ha dato dell'idiota all'arbitro.",
-          "Tom called the referee an idiot.",
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/111.json
           "A Madre Teresa fu dato il Premio Nobel.",
           "Mother Teresa was given the Nobel prize.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -127,21 +216,46 @@
           "Il dottore gli ha dato un sedativo.",
           "The doctor gave him a sedative.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Non mi sveglierò neppure se suona la sveglia.",
+          "I won't wake up even if the alarm rings.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/83.json
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "stessa",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "same",
+        "itself",
+        "the same",
+        "identical"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/111.json
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
+=======
+          "A Mary importava solo di se stessa.",
+          "Mary only cared about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dice sempre la stessa cosa.",
+          "You always say the same thing.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa solamente di se stessa.",
+          "Mary only cares about herself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/83.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -155,22 +269,6 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "Premio",
-      "translations": [
-        "prize",
-        "award"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Nobel",
-      "translations": [
-        "Nobel Prize",
-        "Nobel laureate"
-      ],
-      "usageExamples": []
     }
   ]
 }

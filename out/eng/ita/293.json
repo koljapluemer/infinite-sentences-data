@@ -1,16 +1,17 @@
 {
-  "sentence": "Ci sono delle isole nel mare.",
+  "sentence": "Chiedilo a loro e basta.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There are islands in the sea."
+    "Just ask them."
   ],
   "parts": [
     {
-      "content": "Ci",
+      "content": "Chiedilo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/293.json
         "Here",
         "This",
         "It",
@@ -93,19 +94,25 @@
         "isles",
         "island groups",
         "island chains"
+=======
+        "Ask it",
+        "Request it",
+        "Inquire about it",
+        "Pose the question"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/214.json
       ],
       "usageExamples": []
     },
     {
-      "content": "nel",
+      "content": "a",
       "translations": [
-        "in the",
-        "inside the",
-        "within the",
-        "at the"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/293.json
           "Ha lasciato un po' di cibo nel suo piatto.",
           "She left some food on her plate.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -113,24 +120,92 @@
         [
           "A Mary non piace il latte nel suo caffè.",
           "Mary doesn't like milk in her coffee.",
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "L'Angola è diventata indipendente nel 1975.",
-          "Angola became independent in 1975.",
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/214.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mare",
+      "content": "loro",
       "translations": [
-        "sea",
-        "ocean",
-        "large body of water",
-        "marine area"
+        "their",
+        "theirs",
+        "them",
+        "those",
+        "They"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo dovrebbe chiedere a loro.",
+          "You should ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vi dimenticate di loro.",
+          "Don't forget them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "e",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition"
+      ],
+      "usageExamples": [
+        [
+          "Probabilmente non sono occupata come Tom e Mary.",
+          "I'm probably not as busy as Tom and Mary are.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A volte Mary lo fa e a volte non lo fa.",
+          "Sometimes Mary does that and sometimes she doesn't.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io spero che Tom e Mary siano qui.",
+          "I hope Tom and Mary are here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "basta",
+      "translations": [
+        "enough",
+        "just",
+        "only",
+        "stop"
+      ],
+      "usageExamples": [
+        [
+          "Perché non lo scorda e basta?",
+          "Why don't you just forget it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

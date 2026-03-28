@@ -1,32 +1,24 @@
 {
-  "sentence": "Heraklion è il capoluogo dell'isola di Creta.",
+  "sentence": "Hai visto Tom quella notte?",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Heraklion is the capital of the island of Crete."
+    "Did you see Tom that night?"
   ],
   "parts": [
     {
-      "content": "Heraklion",
+      "content": "Hai",
       "translations": [
-        "Iraklion",
-        "Heraclion",
-        "Herakleion"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "Yes.",
+        "Yeah",
+        "Yep.",
+        "Affirmative"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/403.json
           "Lei è americano?",
           "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -39,20 +31,59 @@
         [
           "Tom è un esperto.",
           "Tom is a pro.",
+=======
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "visto",
+      "translations": [
+        "visa",
+        "sight",
+        "view",
+        "sightseeing"
+      ],
+      "usageExamples": [
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha mai visto uno di questi?",
+          "Have you ever seen one of these?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/324.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "Tom",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/403.json
           "Non bevete il caffè?",
           "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -65,49 +96,35 @@
         [
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
+=======
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/324.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "capoluogo",
+      "content": "quella",
       "translations": [
-        "capital city",
-        "provincial capital",
-        "main town",
-        "administrative center"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dell'",
-      "translations": [
-        "of the",
-        "from the",
-        "of",
-        "from"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "isola",
-      "translations": [
-        "island",
-        "isle",
-        "islet"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "that",
+        "the one",
+        "that one",
+        "the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/403.json
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -121,18 +138,39 @@
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+=======
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Taxi, segui quella macchina.",
+          "Taxi, follow that car.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/324.json
         ]
       ]
     },
     {
-      "content": "Creta",
+      "content": "notte",
       "translations": [
-        "Clay",
-        "Chalk",
-        "Putty",
-        "Ceramic material"
+        "night",
+        "evening",
+        "darkness",
+        "nighttime"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Vuole una sola notte di intimità.",
+          "He wants a single night of intimacy.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

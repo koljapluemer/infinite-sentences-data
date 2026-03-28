@@ -1,66 +1,105 @@
 {
-  "sentence": "Andammo al supermercato asiatico.",
+  "sentence": "Adesso che abbiamo mangiato, andiamo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ryanthewired (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by zumley (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We went to the Asian supermarket."
+    "Now that we have eaten, let's go."
   ],
   "parts": [
     {
-      "content": "Andammo",
+      "content": "Adesso",
       "translations": [
-        "We went",
-        "We have gone"
+        "Now",
+        "Right now",
+        "At this moment",
+        "Currently"
       ],
       "usageExamples": []
     },
     {
-      "content": "al",
+      "content": "che",
       "translations": [
-        "to the",
-        "at the",
-        "in the",
-        "for the"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Rispondete al dannato telefono!",
-          "Answer the damn phone!",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami lavorava al ristorante.",
-          "Sami used to work at the restaurant.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "supermercato",
+      "content": "abbiamo",
       "translations": [
-        "supermarket",
-        "grocery store",
-        "food market",
-        "market"
+        "we have",
+        "we've got",
+        "we possess"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo una scorta di carta igienica.",
+          "We have a stock of toilet paper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "asiatico",
+      "content": "mangiato",
       "translations": [
-        "Asian",
-        "Asian person",
-        "Asian culture",
-        "Asian cuisine"
+        "eaten",
+        "consumed",
+        "devoured",
+        "ingested"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io non ho ancora mangiato niente oggi.",
+          "I haven't eaten anything yet today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "andiamo",
+      "translations": [
+        "let's go",
+        "we go",
+        "come on",
+        "let's move"
+      ],
+      "usageExamples": [
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

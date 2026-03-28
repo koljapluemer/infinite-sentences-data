@@ -1,11 +1,11 @@
 {
-  "sentence": "Il professore diede un premio a John.",
+  "sentence": "Il mio hobby è la musica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The teacher gave John a prize."
+    "My hobby is music."
   ],
   "parts": [
     {
@@ -26,32 +26,58 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "professore",
+      "content": "mio",
       "translations": [
-        "professor",
-        "teacher",
-        "instructor",
-        "lecturer"
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
+      ],
+      "usageExamples": [
+        [
+          "È mio nemico.",
+          "He is my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove ha portato il mio lenzuolo?",
+          "Where did you take my blanket?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hobby",
+      "translations": [
+        "pastime",
+        "leisure activity",
+        "recreational pursuit"
       ],
       "usageExamples": []
     },
     {
-      "content": "diede",
+      "content": "è",
       "translations": [
-        "gave",
-        "delivered",
-        "provided",
-        "offered"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/454.json
           "Tom diede un'occhiata al soffitto.",
           "Tom glanced up at the ceiling.",
           "Sentence from Tatoeba by PVTranslator (CC-BY 2.0 FR)"
@@ -79,29 +105,35 @@
         [
           "Chiamate un'ambulanza!",
           "Call an ambulance!",
+=======
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/375.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "premio",
+      "content": "la",
       "translations": [
-        "prize",
-        "award",
-        "reward",
-        "trophy"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/454.json
           "Nessuno credeva a Tom.",
           "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -114,24 +146,40 @@
         [
           "Volate fino a Londra.",
           "Fly to London.",
+=======
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apri la cassaforte.",
+          "Open the safe.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/375.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "John",
+      "content": "musica",
       "translations": [
-        "John Doe",
-        "Johnny",
-        "J."
+        "music",
+        "musical piece",
+        "tune",
+        "song"
       ],
       "usageExamples": [
         [
-          "A John piace l'infermiera.",
-          "John likes the nurse.",
+          "Che musica ascoltate?",
+          "What music do you listen to?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/454.json
           "Tom chiese a Mary se lei si fidava di John.",
           "Tom asked Mary if she trusted John.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -140,6 +188,16 @@
           "A Mary piacciono sia Tom che John.",
           "Mary likes both Tom and John.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "Ziri ha alzato il volume della musica.",
+          "Ziri increased the music volume.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Robert piace la musica classica.",
+          "Robert likes classical music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/375.json
         ]
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Io guardo la TV quasi ogni sera.",
+  "sentence": "Io appoggiavo Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I watch TV almost every night."
+    "I used to support Tom."
   ],
   "parts": [
     {
@@ -17,13 +17,21 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/473.json
+=======
+          "Io sto diventando piccolo!",
+          "I am getting small!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/394.json
           "Io ero lì.",
           "I was there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono una patata.",
-          "I am a potato.",
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,25 +42,23 @@
       ]
     },
     {
-      "content": "guardo",
+      "content": "appoggiavo",
       "translations": [
-        "I watch",
-        "I look",
-        "I guard",
-        "I keep an eye on"
+        "he/she was leaning",
+        "he/she leaned",
+        "he/she was resting"
       ],
       "usageExamples": []
     },
     {
-      "content": "la",
+      "content": "Tom",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/473.json
           "Apri la cassaforte.",
           "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -144,6 +150,20 @@
         [
           "Tom e Mary studiano il francese ogni sera per trenta minuti.",
           "Tom and Mary study French every evening for thirty minutes.",
+=======
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/394.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

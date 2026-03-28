@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non importa dei suoi voti.",
+  "sentence": "A Mary mancavano i suoi figli.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary doesn't care about her grades."
+    "Mary missed her kids."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/150.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -27,8 +28,20 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/115.json
           "A Judy piace lui.",
           "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -55,6 +68,7 @@
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/150.json
         ]
       ]
     },
@@ -107,26 +121,43 @@
           "A Mary importa soltanto di se stessa.",
           "Mary only cares about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+        ],
+        [
+          "A Mary importa solo di se stessa.",
+          "Mary only cares about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/115.json
         ]
       ]
     },
     {
-      "content": "dei",
+      "content": "i",
       "translations": [
-        "gods",
-        "deities",
-        "divine beings",
-        "spirits"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/150.json
           "Mi servono dei francobolli.",
           "I need stamps.",
+=======
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non mandarmi dei messaggi.",
-          "Don't send me messages.",
+          "Noi studiamo tutti i giorni inglese.",
+          "We study English every day.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/115.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri ama i gatti siamesi.",
+          "Ziri loves Siamese cats.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -145,13 +176,50 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/150.json
           "Le dispute dei suoi genitori riecheggiavano nella sua mente, facendolo piangere disperatamente.",
           "His parents' disputes echoed in his mind, making him cry helplessly.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "La cosa migliore del Giappone sono i suoi videogiochi.",
+          "The best thing about Japan is its video games.",
+          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary mancavano i suoi amici.",
-          "Mary missed her friends.",
+          "Questi sono i suoi figli?",
+          "Are these your children?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary vuole che i suoi genitori le comprino un pony.",
+          "Mary wants her parents to buy her a pony.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "figli",
+      "translations": [
+        "children",
+        "sons",
+        "offspring",
+        "kids"
+      ],
+      "usageExamples": [
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/115.json
+        ],
+        [
+          "Questi sono i suoi figli?",
+          "Are these your children?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "I suoi figli sono nel giardino.",
+          "Her sons are in the garden.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [

@@ -1,11 +1,11 @@
 {
-  "sentence": "Il signor Jones crede nel duro lavoro e nei profitti.",
+  "sentence": "Il mio labbro è scoppiato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mr Jones believes in hard work and profits."
+    "My lip split."
   ],
   "parts": [
     {
@@ -21,62 +21,62 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il tempo è finito.",
-          "Time is up.",
+          "Il gatto mangia.",
+          "The cat eats.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mio",
+      "translations": [
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
+      ],
+      "usageExamples": [
+        [
+          "È mio nemico.",
+          "He's my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il libro è arrivato.",
-          "The book came.",
+          "Tom ha il mio libro.",
+          "Tom has my book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio amico è svizzero.",
+          "My friend is Swiss.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "signor",
+      "content": "labbro",
       "translations": [
-        "mister",
-        "sir",
-        "gentleman",
-        "lord"
-      ],
-      "usageExamples": [
-        [
-          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
-          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Jones",
-      "translations": [
-        "Mr. Jones",
-        "Jonesy",
-        "Jones the third"
+        "lip",
+        "lips"
       ],
       "usageExamples": []
     },
     {
-      "content": "crede",
+      "content": "è",
       "translations": [
-        "believe",
-        "trust",
-        "have faith",
-        "rely on"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "nel",
-      "translations": [
-        "in the",
-        "inside the",
-        "within the",
-        "at the"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/455.json
           "Mary è nel suo ufficio.",
           "Mary is in her office.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -89,13 +89,28 @@
         [
           "L'attinio è stato scoperto da André-Louis Debierne nel 1899.",
           "Actinium was discovered by André-Louis Debierne in 1899.",
+=======
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è americano?",
+          "Are you American?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/376.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "duro",
+      "content": "scoppiato",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/455.json
         "hard",
         "tough",
         "sturdy",
@@ -172,6 +187,12 @@
         "earnings",
         "gains",
         "returns"
+=======
+        "exploded",
+        "burst",
+        "broken",
+        "shattered"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/376.json
       ],
       "usageExamples": []
     }

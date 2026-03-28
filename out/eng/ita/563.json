@@ -1,11 +1,11 @@
 {
-  "sentence": "La seconda lezione è facile.",
+  "sentence": "La nuova strada sta venendo costruita.",
   "credits": [
-    "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by halfb1t (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Lesson Two is easy."
+    "The new street is being built."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/563.json
           "La ruppe.",
           "He broke it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -43,33 +44,113 @@
         "second item"
       ],
       "usageExamples": [
+=======
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
-          "A Hong Kong, l'inglese è una seconda lingua.",
-          "In Hong Kong, English is the second language.",
+          "La detesta assolutamente.",
+          "He absolutely detests her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/484.json
+        [
+          "La mangeremo.",
+          "We'll eat it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lezione",
+      "content": "nuova",
       "translations": [
-        "lesson",
-        "class",
-        "lecture",
-        "session"
+        "new",
+        "novel",
+        "fresh",
+        "recent"
+      ],
+      "usageExamples": [
+        [
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La nuova legge è stata una riforma importante.",
+          "The new law was a major reform.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "strada",
+      "translations": [
+        "road",
+        "street",
+        "way",
+        "route"
+      ],
+      "usageExamples": [
+        [
+          "L'amore non è la mia strada.",
+          "Love is not my path.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "La vita è una lunga, lunga strada.",
+          "Life is a long, long road.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sta",
+      "translations": [
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "venendo",
+      "translations": [
+        "coming",
+        "arriving",
+        "approaching",
+        "on the way"
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "costruita",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "built",
+        "constructed",
+        "made",
+        "established"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/563.json
           "Questo è un test?",
           "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -108,6 +189,10 @@
         [
           "Leggere questo libro è facile.",
           "Reading this book is easy.",
+=======
+          "È stata costruita una ferrovia in questa città.",
+          "A railroad was constructed in this town.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/484.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

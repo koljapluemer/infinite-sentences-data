@@ -1,21 +1,111 @@
 {
-  "sentence": "Giocherete a tennis dopo la scuola?",
+  "sentence": "Forse lo dovrebbe chiedere a lei.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Will you play tennis after school?"
+    "Maybe you should ask her."
   ],
   "parts": [
     {
-      "content": "Giocherete",
+      "content": "forse",
       "translations": [
-        "You will play",
-        "You guys will play",
-        "You all will play"
+        "maybe",
+        "perhaps",
+        "possibly",
+        "might be"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Forse ho fatto un errore.",
+          "Perhaps I made a mistake.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse fareste meglio a chiamarle.",
+          "Maybe you'd better call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lo",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Beh, sicuramente lo richiederò.",
+          "Well, I'll surely ask again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dovrebbe",
+      "translations": [
+        "should",
+        "ought to",
+        "must",
+        "is supposed to"
+      ],
+      "usageExamples": [
+        [
+          "Perché a Tom dovrebbe importare?",
+          "Why should Tom care?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo dovrebbe chiedere a loro.",
+          "You should ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non so chi dovrebbe guidarmi.",
+          "I don't know who should guide me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "chiedere",
+      "translations": [
+        "to ask",
+        "to request",
+        "to inquire",
+        "to demand"
+      ],
+      "usageExamples": [
+        [
+          "Lo dovrebbe chiedere a loro.",
+          "You should ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avrebbe dovuto chiedere a lui prima.",
+          "You should've asked him first.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso chiedere il vostro nome?",
+          "May I ask your name?",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "a",
@@ -26,8 +116,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/369.json
           "Devo andare a trovarli.",
           "I have to go find them.",
+=======
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/290.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -43,19 +138,20 @@
       ]
     },
     {
-      "content": "tennis",
+      "content": "lei",
       "translations": [
-        "the sport of tennis",
-        "game of tennis",
-        "tennis match"
+        "she",
+        "you (formal)",
+        "her"
       ],
       "usageExamples": [
         [
-          "Tom non è bravo a tennis.",
-          "Tom isn't good at tennis.",
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/369.json
           "A Helena piace giocare a tennis.",
           "Helena likes to play tennis.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -141,6 +237,15 @@
         [
           "La nostra scuola è nel mezzo della città.",
           "Our school is in the middle of the city.",
+=======
+          "Sono fidanzata con lei.",
+          "I'm engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/290.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

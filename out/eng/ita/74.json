@@ -1,11 +1,11 @@
 {
-  "sentence": "A Jane piaceva far credere che lei fosse un insegnante.",
+  "sentence": "A Jack interessa la pittura.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by matsuteo (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Jane liked to make believe she was a teacher."
+    "Jack is interested in painting."
   ],
   "parts": [
     {
@@ -17,15 +17,19 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/74.json
           "A Fadil piaceva sciare.",
           "Fadil liked skiing.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/50.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+<<<<<<< HEAD:out/eng/ita/74.json
         [
           "A Mary piace cucinare.",
           "Mary likes to cook.",
@@ -41,19 +45,22 @@
         "Lady Jane"
       ],
       "usageExamples": [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/50.json
         [
-          "Riuscite a distinguere Jane dalla sua sorella gemella?",
-          "Can you tell Jane from her twin sister?",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Jane piaceva far credere che fosse un insegnante.",
-          "Jane liked to make believe she was a teacher.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/74.json
       "content": "piaceva",
       "translations": [
         "liked",
@@ -80,16 +87,24 @@
     },
     {
       "content": "far",
+=======
+      "content": "Jack",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/50.json
       "translations": [
-        "to do",
-        "to make",
-        "to cause",
-        "to perform"
+        "jack",
+        "car jack",
+        "lifting device",
+        "mechanical jack"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/74.json
           "A Jane piaceva far credere che fosse un insegnante.",
           "Jane liked to make believe she was a teacher.",
+=======
+          "Jack ha un gatto e un pappagallo a casa.",
+          "Jack keeps a cat and a parrot at home.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/50.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -100,31 +115,32 @@
       ]
     },
     {
-      "content": "credere",
+      "content": "interessa",
       "translations": [
-        "to believe",
-        "to trust",
-        "to have faith",
-        "to think"
+        "it matters",
+        "it concerns",
+        "it interests",
+        "it is relevant"
       ],
       "usageExamples": [
         [
-          "A Jane piaceva far credere che fosse un insegnante.",
-          "Jane liked to make believe she was a teacher.",
+          "La tua religione non mi interessa.",
+          "Your religion does not interest me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "la",
       "translations": [
+        "the",
         "that",
         "which",
-        "who",
-        "what"
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/74.json
           "È quello che sono.",
           "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -234,6 +250,21 @@
           "A Jane piaceva far credere che fosse un insegnante.",
           "Jane liked to make believe she was a teacher.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/50.json
         ]
       ]
     }

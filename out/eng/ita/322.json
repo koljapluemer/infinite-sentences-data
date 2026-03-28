@@ -1,16 +1,17 @@
 {
-  "sentence": "Di solito bevo molto latte.",
+  "sentence": "Datele una mano, OK?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Disconnect (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I usually drink a lot of milk."
+    "Give her a hand, will you?"
   ],
   "parts": [
     {
-      "content": "Di",
+      "content": "Datele",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/322.json
         "of",
         "from",
         "about",
@@ -51,19 +52,26 @@
         "I drink.",
         "I am drinking",
         "I do drink"
+=======
+        "The dates",
+        "The data",
+        "The details",
+        "The facts"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/243.json
       ],
       "usageExamples": []
     },
     {
-      "content": "molto",
+      "content": "una",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/322.json
           "Non vinco molto spesso.",
           "I don't win very often.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -71,40 +79,59 @@
         [
           "Vi manca molto, vero?",
           "You miss her a lot, don't you?",
+=======
+          "È una maledizione.",
+          "It is a curse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È molto bello rivedervi.",
-          "It is very nice to see you again.",
+          "Scriva una risposta.",
+          "Write an answer.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/243.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi terremo una festa.",
+          "We'll have a party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "latte",
+      "content": "mano",
       "translations": [
-        "milk",
-        "dairy milk",
-        "cow's milk",
-        "liquid milk"
+        "hand",
+        "palm",
+        "manual",
+        "handle"
       ],
       "usageExamples": [
         [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
+          "Tom ha bisogno di una mano.",
+          "Tom needs a hand.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
-          "Would you mind if I drank the rest of the milk?",
-          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+          "Io vorrei stringere la mano a Tom.",
+          "I'd like to shake Tom's hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary non piace il latte nel suo caffè.",
-          "Mary doesn't like milk in her coffee.",
+          "Mary si è bruciata la mano.",
+          "Mary burned her hand.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "OK",
+      "translations": [
+        "Okay.",
+        "All right.",
+        "Fine",
+        "Good."
+      ],
+      "usageExamples": []
     }
   ]
 }

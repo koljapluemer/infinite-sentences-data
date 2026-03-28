@@ -1,11 +1,12 @@
 {
-  "sentence": "Tom non si fida degli estranei.",
+  "sentence": "Tom non l'ha mostrato a Mary.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom doesn't trust strangers."
+    "Tom didn't show Mary that.",
+    "Tom didn't show that to Mary."
   ],
   "parts": [
     {
@@ -16,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1034.json
           "Tom si è addolcito.",
           "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -23,12 +25,24 @@
         [
           "Sai cosa vuole Tom?",
           "Do you know what Tom wants?",
+=======
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/955.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Volete veramente votare Tom?",
           "Do you really want to vote for Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1034.json
+=======
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/955.json
         ]
       ]
     },
@@ -38,10 +52,12 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1034.json
           "Perché non stai dormendo?",
           "Why aren't you asleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -52,6 +68,18 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/955.json
           "Preferirei non farlo.",
           "I'd rather not do it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -59,15 +87,16 @@
       ]
     },
     {
-      "content": "si",
+      "content": "l'ha",
       "translations": [
-        "if",
-        "whether",
-        "in case",
-        "provided that"
+        "he has it",
+        "she has it",
+        "it has",
+        "he's got it"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1034.json
           "Tom si è nascosto.",
           "Tom hid.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
@@ -80,55 +109,93 @@
         [
           "Tom si è addolcito.",
           "Tom relented.",
+=======
+          "Tom non me l'ha restituita.",
+          "Tom didn't give it back to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom l'ha fatta per voi.",
+          "Tom did it for you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei l'ha colpito con un martello.",
+          "She hit him with a hammer.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/955.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fida",
+      "content": "mostrato",
       "translations": [
-        "faithful",
-        "loyal",
-        "trustworthy",
-        "reliable"
+        "shown",
+        "displayed",
+        "demonstrated",
+        "exhibited"
       ],
       "usageExamples": []
     },
     {
-      "content": "degli",
+      "content": "a",
       "translations": [
-        "some",
-        "of the",
-        "of",
-        "from the"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1034.json
           "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
           "He moved to Madrid to take the reins of his father's business.",
+=======
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/955.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono stanco di ascoltare incessantemente i problemi degli altri.",
-          "I'm tired of listening incessantly to other people's problems.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1034.json
           "A Dan è stato permesso di entrare nella stanza degli interrogatori.",
           "Dan was allowed into the interrogation room.",
+=======
+          "Volate fino a Londra.",
+          "Fly to London.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/955.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "estranei",
+      "content": "Mary",
       "translations": [
-        "strangers",
-        "outsiders",
-        "foreigners",
-        "aliens"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo impiego.",
+          "Mary didn't enjoy her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

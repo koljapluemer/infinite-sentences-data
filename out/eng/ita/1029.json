@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom non lo vorrebbe.",
+  "sentence": "Tom mi ha detto che eravate felici.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom wouldn't want this."
+    "Tom told me you were happy."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1029.json
           "Nessuno credeva a Tom.",
           "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,77 +29,173 @@
         [
           "Mi descriva Tom.",
           "Describe Tom to me.",
+=======
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/950.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "mi",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "me",
+        "myself",
+        "to me",
+        "for me"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1029.json
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/950.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non ha corso?",
-          "Why didn't you run?",
+          "Non mi lasciare qui da solo.",
+          "Don't leave me here alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1029.json
           "Perché non la cercate?",
           "Why don't you look for her?",
+=======
+          "Ora lui mi dice la verità.",
+          "Now he tells me the truth.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/950.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lo",
+      "content": "ha",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
+          "L'ha salvata.",
+          "He rescued her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1029.json
           "Disse che lo amava.",
           "She said she loved him.",
+=======
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "detto",
+      "translations": [
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
+      ],
+      "usageExamples": [
+        [
+          "Mary ha detto che voleva comprare qualcosa di più economico.",
+          "Mary said she wanted to buy something cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi ha detto che non mangiava carne.",
+          "She told me that she didn't eat meat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete detto al capo?",
+          "What did you say to the boss?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "È quello che sono.",
+          "It's what I am.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/950.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Beh, sicuramente lo richiederò.",
           "Well, I'll surely ask again.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vorrebbe",
+      "content": "eravate",
       "translations": [
-        "would like",
-        "wants",
-        "would want",
-        "is hoping for"
+        "you were",
+        "you used to be",
+        "you had been"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1029.json
           "Cosa vorrebbe bere?",
           "What would you like to drink?",
+=======
+          "Le dirò che eravate qui.",
+          "I'll tell her you were here.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/950.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "felici",
+      "translations": [
+        "happy",
+        "joyful",
+        "fortunate",
+        "blissful"
+      ],
+      "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1029.json
           "Perché qualcuno vorrebbe baciarvi?",
           "Why would anyone want to kiss you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -106,6 +203,10 @@
         [
           "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
           "Mary said she'd like to borrow a few books.",
+=======
+          "Tutte sono felici.",
+          "All are happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/950.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

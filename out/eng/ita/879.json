@@ -1,15 +1,15 @@
 {
-  "sentence": "Questo messaggio non ha senso.",
+  "sentence": "Questa è casa sua adesso.",
   "credits": [
-    "Sentence from Tatoeba by iltrex (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This message doesn't make sense."
+    "This is your house now."
   ],
   "parts": [
     {
-      "content": "Questo",
+      "content": "Questa",
       "translations": [
         "This",
         "This one",
@@ -18,11 +18,12 @@
       ],
       "usageExamples": [
         [
-          "Questo è un test?",
-          "Is this a test?",
+          "Questa pagina non è mai stata divertente.",
+          "This page was never funny.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/879.json
           "Questo cane è brutto.",
           "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,36 +31,82 @@
         [
           "Questo è un occhio.",
           "This is an eye.",
+=======
+          "Questa mattina Tatoeba non sta funzionando molto bene.",
+          "This morning, Tatoeba isn't working very well.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa è una buona domanda.",
+          "This is a good question.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "messaggio",
+      "content": "è",
       "translations": [
-        "message",
-        "note",
-        "communication",
-        "notification"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
-          "Tom received an urgent message to call his wife.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/800.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "casa",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "house",
+        "home",
+        "dwelling",
+        "residence"
       ],
       "usageExamples": [
         [
+          "Dov'è la sua casa?",
+          "Where's his home?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho lasciato Tom in casa.",
+          "I let Tom in the house.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom disse che aveva nostalgia di casa.",
+          "Tom said that he was homesick.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/879.json
           "Però non funzionerà!",
           "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -72,19 +119,35 @@
         [
           "Perché non stai dormendo?",
           "Why aren't you asleep?",
+=======
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il suo sommario molto approssimativo non rende giustizia al testo originale e alla sua raffinatezza intellettuale.",
+          "His very rough summary does not do justice to the original text and its intellectual sophistication.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva sua madre.",
+          "Mary didn't like her mother.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/800.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "adesso",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "now",
+        "right now",
+        "at this moment",
+        "currently"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/879.json
           "Quanti figli ha Tom?",
           "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -97,19 +160,23 @@
         [
           "Nessuno ha capito nulla.",
           "No one understood anything.",
+=======
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sto cucinando adesso.",
+          "I am cooking now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/800.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "senso",
-      "translations": [
-        "sense",
-        "meaning",
-        "feeling",
-        "perception"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,33 +1,33 @@
 {
-  "sentence": "L'avversario più importante del Giappone era la Cina.",
+  "sentence": "L'Angola è diventata indipendente nel 1975.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Japan's most important opponent was China."
+    "Angola became independent in 1975."
   ],
   "parts": [
     {
-      "content": "L'avversario",
+      "content": "L'Angola",
       "translations": [
-        "the opponent",
-        "the adversary",
-        "the rival",
-        "the competitor"
+        "Angola",
+        "The Angola",
+        "Angolan"
       ],
       "usageExamples": []
     },
     {
-      "content": "più",
+      "content": "è",
       "translations": [
-        "more",
-        "plus",
-        "greater",
-        "further"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/534.json
           "È anche più economico.",
           "It's also cheaper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -35,44 +35,81 @@
         [
           "Volete sentire di più?",
           "Do you want to hear more?",
+=======
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/455.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Studiate più duramente.",
-          "Study harder.",
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/534.json
+=======
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/455.json
         ]
       ]
     },
     {
-      "content": "importante",
+      "content": "diventata",
       "translations": [
-        "important",
-        "significant",
-        "crucial",
-        "essential"
+        "become",
+        "turned into",
+        "has become",
+        "became"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "indipendente",
+      "translations": [
+        "independent",
+        "self-sufficient",
+        "autonomous",
+        "free-standing"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "nel",
+      "translations": [
+        "in the",
+        "inside the",
+        "within the",
+        "at the"
       ],
       "usageExamples": [
         [
-          "La nuova legge è stata una riforma importante.",
-          "The new law was a major reform.",
+          "Riuscite a leggermi nel pensiero?",
+          "Can you read my mind?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ciò che si fa è più importante di ciò che si dice.",
-          "What you do is more important than what you say.",
+          "Il signor Jones crede nel duro lavoro e nei profitti.",
+          "Mr Jones believes in hard work and profits.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'attinio è stato scoperto da André-Louis Debierne nel 1899.",
+          "Actinium was discovered by André-Louis Debierne in 1899.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "del",
+      "content": "1975",
       "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
+        "Year 1975",
+        "The year nineteen seventy-five",
+        "Seventy-five"
       ],
+<<<<<<< HEAD:out/eng/ita/534.json
       "usageExamples": [
         [
           "Yanni comprò del cibo.",
@@ -183,6 +220,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/455.json
     }
   ]
 }

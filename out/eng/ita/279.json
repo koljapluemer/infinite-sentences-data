@@ -1,11 +1,11 @@
 {
-  "sentence": "Che musica ascoltate?",
+  "sentence": "Che altro vorresti?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by DiePain (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by BraveSentry (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What music do you listen to?"
+    "What more would you want?"
   ],
   "parts": [
     {
@@ -20,6 +20,7 @@
         [
           "Che canzone strana...",
           "What a weird song...",
+<<<<<<< HEAD:out/eng/ita/279.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -31,19 +32,33 @@
           "Che altro stai considerando?",
           "What else are you considering?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa direste?",
+          "What would you say?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che fallito!",
+          "What a loser!",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/200.json
         ]
       ]
     },
     {
-      "content": "musica",
+      "content": "altro",
       "translations": [
-        "music",
-        "musical piece",
-        "tune",
-        "song"
+        "other",
+        "another",
+        "else",
+        "additional"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/279.json
           "A proposito di musica classica, qual è il vostro compositore preferito?",
           "Talking of classical music, who is your favorite composer?",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -57,16 +72,31 @@
           "A José piace la musica latina.",
           "José likes latin music.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Che altro stai considerando?",
+          "What else are you considering?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che altro volete che compri?",
+          "What else do you want me to buy?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, dammi un altro po' di tè.",
+          "Please give me a little more tea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/200.json
         ]
       ]
     },
     {
-      "content": "ascoltate",
+      "content": "vorresti",
       "translations": [
-        "listen",
-        "hear",
-        "pay attention",
-        "take heed"
+        "would you like",
+        "would you want",
+        "do you want",
+        "would you care to"
       ],
       "usageExamples": []
     }

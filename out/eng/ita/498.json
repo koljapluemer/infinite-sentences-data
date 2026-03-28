@@ -1,11 +1,11 @@
 {
-  "sentence": "Io non voglio che cambi.",
+  "sentence": "Io non penso che lui stia fingendo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by DostKaplan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't want it to change."
+    "I don't think he's faking."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/498.json
           "Io l'ho sentito.",
           "I heard it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,11 +25,20 @@
         [
           "Io l'ho comprata.",
           "I bought it.",
+=======
+          "Io ero lì.",
+          "I was there.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/419.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io consegno pizze.",
-          "I deliver pizzas.",
+          "Io parlo bosniaco.",
+          "I speak Bosnian.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sto diventando piccolo!",
+          "I am getting small!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -39,15 +49,25 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/498.json
+=======
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/419.json
           "Perché non la cercate?",
           "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/498.json
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,27 +75,41 @@
         [
           "Perché non stai dormendo?",
           "Why aren't you asleep?",
+=======
+          "Perché non ha corso?",
+          "Why didn't you run?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/419.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "voglio",
+      "content": "penso",
       "translations": [
-        "I want",
-        "I would like",
-        "I wish",
-        "I desire"
+        "I think.",
+        "I believe",
+        "I consider",
+        "I reflect"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/498.json
           "Non voglio guardarlo.",
           "I don't want to look at him.",
+=======
+          "Io non penso che Tom mentirebbe.",
+          "I don't think Tom would lie.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/419.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io voglio andare in Inghilterra.",
-          "I want to go to England.",
+          "Io penso che il vento si stia indebolendo.",
+          "I think the wind's dropping off.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io penso che siate egoisti.",
+          "I think you're selfish.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -100,19 +134,60 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cambi",
+      "content": "lui",
       "translations": [
-        "changes",
-        "exchanges",
-        "modifications",
-        "swaps"
+        "he",
+        "him",
+        "his"
+      ],
+      "usageExamples": [
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stia",
+      "translations": [
+        "stay",
+        "be",
+        "remain",
+        "live"
+      ],
+      "usageExamples": [
+        [
+          "Io penso che il vento si stia indebolendo.",
+          "I think the wind's dropping off.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fingendo",
+      "translations": [
+        "by pretending",
+        "through pretending",
+        "by feigning",
+        "through feigning"
       ],
       "usageExamples": []
     }

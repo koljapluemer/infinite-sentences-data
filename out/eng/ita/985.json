@@ -1,13 +1,91 @@
 {
-  "sentence": "Tom avrebbe dovuto chiudere tutte le sue finestre.",
+  "sentence": "Ti è piaciuto Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom should've closed all his windows."
+    "Did you like Tom?"
   ],
   "parts": [
+    {
+      "content": "Ti",
+      "translations": [
+        "You",
+        "To you",
+        "For you",
+        "Yourself"
+      ],
+      "usageExamples": [
+        [
+          "Ti darò questa biro.",
+          "I'll give you this pen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaciuto",
+      "translations": [
+        "liked",
+        "pleased",
+        "enjoyed",
+        "appreciated"
+      ],
+      "usageExamples": [
+        [
+          "A Benedito è piaciuto il suo viaggio in India.",
+          "Benedito enjoyed his trip to India.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Marika è piaciuto il suo viaggio in Giappone?",
+          "Did Marika like her trip to Japan?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Tom sarebbe piaciuto quello che avete fatto.",
+          "Tom would've liked what you did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
     {
       "content": "Tom",
       "translations": [
@@ -16,6 +94,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/985.json
           "Sai cosa vuole Tom?",
           "Do you know what Tom wants?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -179,6 +258,23 @@
         "sashes"
       ],
       "usageExamples": []
+=======
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/906.json
     }
   ]
 }

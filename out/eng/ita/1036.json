@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom non è alto come te.",
+  "sentence": "Tom non me l'ha restituita.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom isn't tall like you."
+    "Tom didn't give it back to me."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1036.json
           "Tom è un esperto.",
           "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,6 +29,20 @@
         [
           "Ti è piaciuto Tom?",
           "Did you like Tom?",
+=======
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom is famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/957.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -38,10 +53,12 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1036.json
           "Preferirei non farlo.",
           "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,25 +71,39 @@
         [
           "Certamente non lo odiava.",
           "She certainly did not hate him.",
+=======
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/957.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "me",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "myself",
+        "to me",
+        "for me"
       ],
       "usageExamples": [
         [
-          "Il libro è arrivato.",
-          "The book came.",
+          "Sei speciale per me.",
+          "You're special to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1036.json
           "Tom si è nascosto.",
           "Tom hid.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
@@ -80,19 +111,55 @@
         [
           "Il tempo è finito.",
           "Time is up.",
+=======
+          "A me piacciono i tulipani.",
+          "I like tulips.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A me non importa di lei.",
+          "I don't care about her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/957.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "alto",
+      "content": "l'ha",
       "translations": [
-        "high",
-        "tall",
-        "loud",
-        "elevated"
+        "he has it",
+        "she has it",
+        "it has",
+        "he's got it"
+      ],
+      "usageExamples": [
+        [
+          "Lei l'ha colpito con un martello.",
+          "She hit him with a hammer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non l'ha mostrato a Mary.",
+          "Tom didn't show that to Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom l'ha fatta per voi.",
+          "Tom did it for you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "restituita",
+      "translations": [
+        "returned",
+        "restored",
+        "reinstated",
+        "recovered"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/1036.json
     },
     {
       "content": "come",
@@ -145,6 +212,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/957.json
     }
   ]
 }

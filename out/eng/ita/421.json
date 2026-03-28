@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho un fratello più grande.",
+  "sentence": "Ho passato tutta la mattina a pulire la mia camera.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by thorin (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have an older brother."
+    "I've spent the entire morning cleaning my room."
   ],
   "parts": [
     {
@@ -20,6 +20,19 @@
         [
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
+<<<<<<< HEAD:out/eng/ita/421.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/342.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,11 +48,95 @@
       ]
     },
     {
-      "content": "un",
+      "content": "passato",
       "translations": [
+        "past",
+        "passed",
+        "gone by",
+        "previous"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha passato la sua infanzia a Boston.",
+          "Tom spent his childhood in Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tutta",
+      "translations": [
+        "all",
+        "whole",
+        "entire",
+        "complete"
+      ],
+      "usageExamples": [
+        [
+          "100 euro per tutta la giornata.",
+          "100 euros for the whole day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa ti fa andare il cuore a tutta velocità?",
+          "What makes your heart race?",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mattina",
+      "translations": [
+        "morning",
+        "morn",
+        "AM",
+        "daybreak"
+      ],
+      "usageExamples": [
+        [
+          "Questa mattina Tatoeba non sta funzionando molto bene.",
+          "This morning, Tatoeba isn't working very well.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho bevuto del caffè questa mattina.",
+          "I drank coffee this morning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
         "one",
-        "a",
-        "an"
+        "each"
       ],
       "usageExamples": [
         [
@@ -53,22 +150,33 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/421.json
           "Questo è un occhio.",
           "This is an eye.",
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/342.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fratello",
+      "content": "pulire",
       "translations": [
-        "brother",
-        "sibling",
-        "bro",
-        "male sibling"
+        "to clean",
+        "to tidy up",
+        "to purify",
+        "to polish"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/421.json
           "A Leonid piaceva il fratello di Anna.",
           "Leonid liked Anna's brother.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -76,25 +184,29 @@
         [
           "Loro sono fratello e sorella.",
           "They're brother and sister.",
+=======
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/342.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "più",
+      "content": "mia",
       "translations": [
-        "more",
-        "plus",
-        "greater",
-        "further"
+        "my",
+        "mine",
+        "belonging to me"
       ],
       "usageExamples": [
         [
-          "Studiate più duramente.",
-          "Study harder.",
+          "Amo molto mia madre.",
+          "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/421.json
           "Volete sentire di più?",
           "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -102,20 +214,29 @@
         [
           "È anche più economico.",
           "It's also cheaper.",
+=======
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voglio ricomprare la mia macchina.",
+          "I want to buy my car back.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/342.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "grande",
+      "content": "camera",
       "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
+        "photographic device",
+        "image-capturing device",
+        "photo camera"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/421.json
           "Tu sei stato di grande aiuto per la nostra famiglia.",
           "You've been a great help to our family.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -128,6 +249,15 @@
         [
           "Abita in una villa piuttosto grande.",
           "She lives in quite a big mansion.",
+=======
+          "Vorrei una camera.",
+          "I would like a room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha la sua propria camera da letto.",
+          "Tom has his own bedroom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/342.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

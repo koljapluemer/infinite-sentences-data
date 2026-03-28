@@ -1,11 +1,11 @@
 {
-  "sentence": "La nuova legge è stata una riforma importante.",
+  "sentence": "La lasciai dormire fino a mezzogiorno.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The new law was a major reform."
+    "I let her sleep until noon."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/556.json
           "La risposta è complicata.",
           "The answer is complicated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,11 +26,21 @@
         [
           "La ruppe.",
           "He broke it.",
+=======
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ],
+        [
+          "La detesta assolutamente.",
+          "He absolutely detests her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/477.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "La mangeremo.",
           "We'll eat it.",
+<<<<<<< HEAD:out/eng/ita/556.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -51,13 +62,16 @@
         [
           "Hai bisogno di una tastiera nuova?",
           "Do you need a new keyboard?",
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/477.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "legge",
+      "content": "lasciai",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/556.json
         "law",
         "rule",
         "statute",
@@ -156,26 +170,89 @@
         "restructuring",
         "reorganization",
         "amendment"
+=======
+        "I left.",
+        "I let go",
+        "I allowed",
+        "I abandoned"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/477.json
       ],
       "usageExamples": []
     },
     {
-      "content": "importante",
+      "content": "dormire",
       "translations": [
-        "important",
-        "significant",
-        "crucial",
-        "essential"
+        "to sleep",
+        "sleeping",
+        "to take a nap",
+        "to rest"
       ],
       "usageExamples": [
         [
-          "L'avversario più importante del Giappone era la Cina.",
-          "Japan's most important opponent was China.",
+          "Voi non potete dormire qui.",
+          "You can't sleep here.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ciò che si fa è più importante di ciò che si dice.",
-          "What you do is more important than what you say.",
+          "A Mary non piace dormire da sola.",
+          "Mary doesn't like sleeping alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fino",
+      "translations": [
+        "until",
+        "up to",
+        "as far as",
+        "to the extent of"
+      ],
+      "usageExamples": [
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mezzogiorno",
+      "translations": [
+        "noon",
+        "midday",
+        "12 PM",
+        "midday time"
+      ],
+      "usageExamples": [
+        [
+          "Saranno arrivate a Morioka per mezzogiorno.",
+          "They will have arrived at Morioka by noon.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

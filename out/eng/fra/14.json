@@ -1,29 +1,132 @@
 {
-  "sentence": "Ziri touchait Rima.",
+<<<<<<< HEAD:out/eng/fra/14.json
+  "sentence": "J'ai beaucoup d'élastiques.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sundown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ziri touched Rima."
+    "I have a lot of elastic bands."
   ],
   "parts": [
     {
-      "content": "Ziri",
+      "content": "J'ai",
       "translations": [
-        "Ziri",
-        "Ziri (a name)",
-        "Ziri (a term of endearment)"
+        "I have",
+        "I've"
+      ],
+      "usageExamples": [
+        [
+          "J'ai très soif.",
+          "I'm really thirsty.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "J'ai pensé que Tom avait fait un bon travail.",
+          "I thought that Tom did a nice job.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je n'ai pas besoin de votre argent. J'ai besoin de votre temps.",
+          "I don't need your money. I just need your time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "beaucoup",
+      "translations": [
+        "a lot",
+        "many",
+        "much"
+      ],
+      "usageExamples": [
+        [
+          "Anne aime beaucoup la musique.",
+          "Ann likes music very much.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je suis un gars on ne peut plus normal qui a beaucoup de violons d'Ingres, peut-être trop.",
+          "I'm a completely normal guy who has many hobbies, maybe too many.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "d'élastiques",
+      "translations": [
+        "of elastics",
+        "elastic bands",
+        "rubber bands"
+      ],
+      "usageExamples": []
+=======
+  "sentence": "Ne lui en dis rien.",
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+  ],
+  "translations": [
+    "Don't tell her about it."
+  ],
+  "parts": [
+    {
+      "content": "Ne",
+      "translations": [
+        "No.",
+        "Not"
       ],
       "usageExamples": []
     },
     {
-      "content": "Rima",
+      "content": "en",
       "translations": [
-        "Rhyme",
-        "Verse"
+        "in",
+        "at",
+        "on"
+      ],
+      "usageExamples": [
+        [
+          "Je crois en elle.",
+          "I have faith in her.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La chaise en plastique coûte quatre pounds.",
+          "The plastic chair costs four pounds.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quel musée aimerais-tu visiter en premier ?",
+          "Which museum would you like to visit first?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dis",
+      "translations": [
+        "of",
+        "from",
+        "about"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "rien",
+      "translations": [
+        "nothing",
+        "none"
+      ],
+      "usageExamples": [
+        [
+          "N'as-tu rien appris de tes erreurs ?",
+          "Have you learned nothing from your mistakes?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/14.json
     }
   ]
 }

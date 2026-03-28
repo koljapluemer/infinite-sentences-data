@@ -1,11 +1,11 @@
 {
-  "sentence": "Questo è tutto quello che porto con me.",
+  "sentence": "Questo articolo ridicolizza i vegetariani.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lesgles (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This is all I'm taking with me."
+    "This article makes fun of vegetarians."
   ],
   "parts": [
     {
@@ -18,13 +18,18 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/883.json
           "Questo è un occhio.",
           "This is an eye.",
+=======
+          "Questo è un test?",
+          "Is this a test?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/804.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un test?",
-          "Is this a test?",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,8 +40,9 @@
       ]
     },
     {
-      "content": "è",
+      "content": "articolo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/883.json
         "it is",
         "there is",
         "he is",
@@ -145,21 +151,52 @@
         "I bring",
         "I transport",
         "I deliver"
+=======
+        "article",
+        "item",
+        "section",
+        "clause"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/804.json
       ],
       "usageExamples": []
     },
     {
-      "content": "con",
+      "content": "ridicolizza",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "ridicules",
+        "makes fun of",
+        "mock",
+        "derides"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/883.json
           "Siate pazienti con noi.",
           "Be patient with us.",
+=======
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Maria piacciono i fiori.",
+          "Maria likes flowers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quelli sono i cani di Tom?",
+          "Are those Tom dogs?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/804.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -175,12 +212,14 @@
       ]
     },
     {
-      "content": "me",
+      "content": "vegetariani",
       "translations": [
-        "myself",
-        "to me",
-        "for me"
+        "vegetarians",
+        "vegetarian people",
+        "those who follow a vegetarian diet",
+        "individuals who do not eat meat"
       ],
+<<<<<<< HEAD:out/eng/ita/883.json
       "usageExamples": [
         [
           "Sei speciale per me.",
@@ -198,6 +237,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/804.json
     }
   ]
 }

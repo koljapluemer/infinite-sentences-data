@@ -1,22 +1,24 @@
 {
-  "sentence": "I sondaggisti hanno condotto un sondaggio sulla popolarità dei candidati politici.",
+  "sentence": "Ho visto Tom prima.",
   "credits": [
-    "Sentence from Tatoeba by alesimpa (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Chris (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Pollsters conducted a poll on the popularity of the political candidates."
+    "I saw Tom earlier."
   ],
   "parts": [
     {
-      "content": "I",
+      "content": "Ho",
       "translations": [
-        "me",
-        "myself",
-        "the one who is speaking"
+        "I have",
+        "I possess",
+        "I hold",
+        "I own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/430.json
           "I suoi figli sono nel giardino.",
           "Her sons are in the garden.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -88,95 +90,117 @@
         [
           "Noi abbiamo un ristorante.",
           "We have a restaurant.",
+=======
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/351.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "È un portiere.",
           "He's a goal keeper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/430.json
         ],
         [
           "Ti compro un regalo.",
           "I buy you a present.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/351.json
         ]
       ]
     },
     {
-      "content": "sondaggio",
+      "content": "visto",
       "translations": [
-        "survey",
-        "poll",
-        "questionnaire",
-        "study"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sulla",
-      "translations": [
-        "on the",
-        "about the",
-        "concerning the",
-        "regarding the"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "popolarità",
-      "translations": [
-        "popularity",
-        "fame",
-        "notoriety",
-        "appeal"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dei",
-      "translations": [
-        "gods",
-        "deities",
-        "divine beings",
-        "spirits"
+        "visa",
+        "sight",
+        "view",
+        "sightseeing"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/430.json
           "Mi servono dei francobolli.",
           "I need stamps.",
+=======
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/351.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ziri mangiò dei datteri.",
-          "Ziri ate dates.",
+          "A Mary non piaceva quello che ha visto.",
+          "Mary didn't like what she saw.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/430.json
           "Non mandarmi dei messaggi.",
           "Don't send me messages.",
+=======
+          "Ha mai visto uno di questi?",
+          "Have you ever seen one of these?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/351.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "candidati",
+      "content": "Tom",
       "translations": [
-        "candidates",
-        "applicants",
-        "nominees",
-        "contenders"
+        "Thomas",
+        "Tommy"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "politici",
+      "content": "prima",
       "translations": [
-        "politicians",
-        "political figures",
-        "political leaders",
-        "government officials"
+        "first",
+        "primary",
+        "initial",
+        "foremost"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo devo fare prima di potere andare a casa oggi.",
+          "I have to do that before I can go home today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avrebbe dovuto chiedere a lui prima.",
+          "You should've asked him first.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom non è molto stanco.",
+  "sentence": "Tom non sa nulla a riguardo della situazione.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom isn't very tired."
+    "Tom doesn't know anything about the situation."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1038.json
           "Tom vende funghi psichedelici.",
           "Tom sells psychedelic mushrooms.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,6 +29,20 @@
         [
           "Tom sembrava esitante.",
           "Tom looked hesitant.",
+=======
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is whining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra impegnato.",
+          "Tom seems busy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/959.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -38,15 +53,38 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Yanni non comprende l'Islam.",
           "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "sa",
+      "translations": [
+        "if",
+        "whether",
+        "that",
+        "as"
+      ],
+      "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1038.json
           "Però non funzionerà!",
           "But that won't work!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,20 +92,35 @@
         [
           "Perché non stai dormendo?",
           "Why aren't you asleep?",
+=======
+          "Tom sa come si sente Mary a riguardo.",
+          "Tom knows how Mary feels about that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami sa dove abita Layla.",
+          "Sami knows where Layla lives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary sa che cosa vuole dire.",
+          "Mary knows what she wants to say.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/959.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "nulla",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "none",
+        "nothing",
+        "no one",
+        "not any"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1038.json
           "Tom è ovviamente arrabbiato.",
           "Tom is obviously angry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,25 +133,39 @@
         [
           "Questo cane è brutto.",
           "This dog is ugly.",
+=======
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace per nulla il prezzemolo.",
+          "Mary doesn't like parsley at all.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non ho preso nulla per te.",
+          "I didn't get anything for you.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/959.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molto",
+      "content": "a",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Amo molto mia madre.",
-          "I love my mother very much.",
+          "Lo mostreremo a lei.",
+          "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1038.json
           "Vi manca molto, vero?",
           "You miss her a lot, don't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -106,23 +173,89 @@
         [
           "Non vinco molto spesso.",
           "I don't win very often.",
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/959.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stanco",
+      "content": "riguardo",
       "translations": [
-        "tired",
-        "weary",
-        "fatigued",
-        "exhausted"
+        "regarding",
+        "concerning",
+        "in relation to",
+        "about"
       ],
       "usageExamples": [
         [
-          "Sono stanco di ascoltare incessantemente i problemi degli altri.",
-          "I'm tired of listening incessantly to other people's problems.",
+          "Tom sa come si sente Mary a riguardo.",
+          "Tom knows how Mary feels about that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa può dirci riguardo a questo dipinto?",
+          "What can you tell us about this painting?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ho obiezioni a riguardo.",
+          "I don't have any objection to that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "della",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "concerning the"
+      ],
+      "usageExamples": [
+        [
+          "Sami consegnò della pizza.",
+          "Sami delivered pizza.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno sofferto molto durante gli anni della guerra.",
+          "They suffered a lot during the war years.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri ha alzato il volume della musica.",
+          "Ziri increased the music volume.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "situazione",
+      "translations": [
+        "situation",
+        "condition",
+        "state",
+        "circumstance"
+      ],
+      "usageExamples": [
+        [
+          "Non si trova in una bella situazione.",
+          "He isn't in a good place.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui non riesce ad adattarsi alla sua situazione.",
+          "He can't accommodate himself to his circumstances.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

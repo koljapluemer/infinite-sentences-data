@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho una domanda da porle.",
+  "sentence": "Ho provato a seguire le sue instruzioni.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sharptoothed (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have a question to pose you."
+    "I tried to follow your instructions."
   ],
   "parts": [
     {
@@ -20,11 +20,13 @@
         [
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
+<<<<<<< HEAD:out/eng/ita/423.json
+=======
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho abbastanza amici.",
-          "I have enough friends.",
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,15 +37,42 @@
       ]
     },
     {
-      "content": "una",
+      "content": "provato",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "tried",
+        "tested",
+        "proven",
+        "experienced"
       ],
       "usageExamples": [
         [
+          "Avete mai provato?",
+          "Did you ever try?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/344.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete provato l'hot pot a Taiwan?",
+          "Have you tried the hot pot in Taiwan?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho letto un fumetto.",
+          "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/423.json
           "Vorreste una ricevuta?",
           "Would you like a receipt?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -51,34 +80,98 @@
         [
           "Posso avere una birra?",
           "Can I have a beer?",
+=======
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/344.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
+          "Devo andare a trovarli.",
+          "I must go and find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/423.json
+=======
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/344.json
         ]
       ]
     },
     {
-      "content": "domanda",
+      "content": "seguire",
       "translations": [
-        "question",
-        "inquiry",
-        "request",
-        "application"
+        "to follow",
+        "to pursue",
+        "to track",
+        "to attend"
       ],
       "usageExamples": [
         [
-          "Questa è una buona domanda.",
-          "This is a good question.",
+          "Ho avuto la fortuna di seguire il mio percorso senza rimpianti.",
+          "I've been lucky to follow my own path without regrets.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
+      ],
+      "usageExamples": [
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È difficile restare calmi quando le scadenze vengono ignorate.",
+          "It's hard to stay calm when deadlines are ignored.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sue",
+      "translations": [
+        "to sue",
+        "to file a lawsuit",
+        "to take legal action against"
+      ],
+      "usageExamples": [
+        [
+          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
+          "Tom should've closed all his windows.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary era circondata dalle sue amiche.",
+          "Mary was surrounded by her friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace scambiare francobolli con le sue amiche.",
+          "John likes to trade stamps with his friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "da",
+      "content": "instruzioni",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/423.json
         "from",
         "since",
         "by",
@@ -109,6 +202,12 @@
         "to talk",
         "to say",
         "to converse"
+=======
+        "instructions",
+        "guidelines",
+        "directions",
+        "manual"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/344.json
       ],
       "usageExamples": []
     }

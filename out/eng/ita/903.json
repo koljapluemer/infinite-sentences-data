@@ -1,22 +1,24 @@
 {
-  "sentence": "Sami sa dove abita Layla.",
+  "sentence": "Sai cosa vuole Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sami knows where Layla lives."
+    "Do you know what Tom wants?"
   ],
   "parts": [
     {
-      "content": "Sami",
+      "content": "Sai",
       "translations": [
-        "Sámi",
-        "Saami",
-        "Sami people"
+        "to know",
+        "to be aware of",
+        "to be familiar with",
+        "to have knowledge of"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/903.json
           "Sami lavorava al ristorante.",
           "Sami used to work at the restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,20 +31,51 @@
         [
           "Sami consegnò della pizza.",
           "Sami delivered pizza.",
+=======
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cosa",
+      "translations": [
+        "thing",
+        "item",
+        "object",
+        "matter"
+      ],
+      "usageExamples": [
+        [
+          "Che cosa direste?",
+          "What would you say?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/824.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sa",
+      "content": "vuole",
       "translations": [
-        "if",
-        "whether",
-        "that",
-        "as"
+        "wants",
+        "desires",
+        "wishes",
+        "intends"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/903.json
           "Tom sa come si sente Mary a riguardo.",
           "Tom knows how Mary feels about that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -53,6 +86,18 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+          "Non vuole fermarla.",
+          "He doesn't want to stop her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary vuole che i suoi genitori le comprino un pony.",
+          "Mary wants her parents to buy her a pony.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/824.json
           "Mary sa che cosa vuole dire.",
           "Mary knows what she wants to say.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -60,20 +105,19 @@
       ]
     },
     {
-      "content": "dove",
+      "content": "Tom",
       "translations": [
-        "where",
-        "wherever",
-        "whither",
-        "to what place"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
-          "Come to Albania, where we always make good coffee.",
-          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/903.json
           "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
           "\"Where's your girlfriend from?\" \"She's Russian.\"",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -122,6 +166,15 @@
         [
           "A Layla piacque la festa.",
           "Layla liked the party.",
+=======
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/824.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,11 +1,11 @@
 {
-  "sentence": "Lui non riesce ad adattarsi alla sua situazione.",
+  "sentence": "Lui ama parlare con la gente.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Aghanim (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He can't accommodate himself to his circumstances."
+    "He loves talking to people."
   ],
   "parts": [
     {
@@ -35,15 +35,16 @@
       ]
     },
     {
-      "content": "non",
+      "content": "ama",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "love",
+        "to love",
+        "to care for",
+        "to cherish"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/626.json
           "Perché non ha corso?",
           "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -51,6 +52,10 @@
         [
           "Perché non stai dormendo?",
           "Why aren't you asleep?",
+=======
+          "Ziri ama i gatti siamesi.",
+          "Ziri loves Siamese cats.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/547.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,32 +66,32 @@
       ]
     },
     {
-      "content": "riesce",
+      "content": "parlare",
       "translations": [
-        "succeeds",
-        "manages",
-        "is able to",
-        "can"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ad",
-      "translations": [
-        "to",
-        "at",
-        "toward",
-        "for"
+        "to speak",
+        "to talk",
+        "to converse",
+        "to communicate"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/626.json
           "Li vada ad aiutare.",
           "Go help them.",
+=======
+          "A Maria non piace parlare in pubblico.",
+          "Maria doesn't like speaking in public.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hanno cominciato ad innervosirsi.",
-          "They started to get nervous.",
+          "Voleva parlare con il suo avvocato.",
+          "He wanted to talk to his lawyer.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/547.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voglio parlare con te da sola.",
+          "I want to speak to you alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -97,27 +102,32 @@
       ]
     },
     {
-      "content": "adattarsi",
+      "content": "con",
       "translations": [
-        "to adapt",
-        "to adjust",
-        "to fit in",
-        "to conform"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "alla",
-      "translations": [
-        "to",
-        "at",
-        "in the direction of",
-        "towards"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/626.json
           "Il suo sommario molto approssimativo non rende giustizia al testo originale e alla sua raffinatezza intellettuale.",
           "His very rough summary does not do justice to the original text and its intellectual sophistication.",
+=======
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/547.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -133,15 +143,16 @@
       ]
     },
     {
-      "content": "sua",
+      "content": "la",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/626.json
           "Dov'è la sua casa?",
           "Where is his house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -154,20 +165,35 @@
         [
           "Confronti la Sua risposta con la sua.",
           "Check your answer with his.",
+=======
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apri la cassaforte.",
+          "Open the safe.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/547.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "situazione",
+      "content": "gente",
       "translations": [
-        "situation",
-        "condition",
-        "state",
-        "circumstance"
+        "people",
+        "folk",
+        "community",
+        "society"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/626.json
           "Tom non sa nulla a riguardo della situazione.",
           "Tom doesn't know anything about the situation.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -176,6 +202,16 @@
           "Non si trova in una bella situazione.",
           "He isn't in a good place.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+=======
+          "Non ci sarà così tanta gente lì.",
+          "There won't be so many people there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/547.json
         ]
       ]
     }

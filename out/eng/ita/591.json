@@ -1,25 +1,48 @@
 {
-  "sentence": "Lei ha parlato con Tom, vero?",
+  "sentence": "Leggo un giornale tutti i giorni per tenermi aggiornata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You talked to Tom, didn't you?"
+    "I read a newspaper every day so that I may keep up with the time."
   ],
   "parts": [
     {
-      "content": "Lei",
+      "content": "Leggo",
       "translations": [
-        "You (formal)",
-        "She",
-        "Mrs.",
-        "Ma'am"
+        "I read.",
+        "I am reading",
+        "I will read"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/591.json
           "Lei ha già finito?",
           "Are you through yet?",
+=======
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/512.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,61 +58,98 @@
       ]
     },
     {
-      "content": "ha",
+      "content": "giornale",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "newspaper",
+        "journal",
+        "magazine",
+        "periodical"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "tutti",
+      "translations": [
+        "everyone",
+        "all",
+        "everybody",
+        "all of them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/591.json
           "Non ha un fidanzato?",
           "Don't you have a boyfriend?",
+=======
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/512.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha molti amici?",
-          "Does Tom have lots of friends?",
+          "A Boston erano tutti congregazionalisti.",
+          "In Boston, they were all congregationalists.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/591.json
           "Lei ha già cominciato.",
           "She has already begun.",
+=======
+          "Noi studiamo tutti i giorni inglese.",
+          "We study English every day.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/512.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "parlato",
+      "content": "i",
       "translations": [
-        "spoken",
-        "talked",
-        "verbal",
-        "oral"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Pensavo che avesse già parlato con Tom.",
-          "I thought you'd already talked to Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
-      ],
-      "usageExamples": [
-        [
-          "Parlo frequentemente con lui.",
-          "I frequently talk to him.",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "A Dan non sono piaciuti i commenti di Linda.",
+          "Dan didn't like Linda's comments.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Maria piacciono i fiori.",
+          "Maria likes flowers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "giorni",
+      "translations": [
+        "days",
+        "daytime",
+        "periods",
+        "timeframes"
+      ],
+      "usageExamples": [
+        [
+          "40 dollari per sette giorni.",
+          "40 dollars for seven days.",
+          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti giorni ci sono a ottobre?",
+          "How many days are in October?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/591.json
           "Sono fidanzata con lei.",
           "I am engaged to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -97,18 +157,24 @@
         [
           "Tom acconsentì con riluttanza.",
           "Tom reluctantly agreed.",
+=======
+          "Noi studiamo tutti i giorni inglese.",
+          "We study English every day.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/512.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "per",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/591.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -121,18 +187,33 @@
         [
           "Tom sta gemendo.",
           "Tom is groaning.",
+=======
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/512.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vero",
+      "content": "tenermi",
       "translations": [
-        "true",
-        "indeed",
-        "in fact",
-        "certainly"
+        "to hold me",
+        "to keep me",
+        "to hold onto me",
+        "to maintain me"
       ],
+<<<<<<< HEAD:out/eng/ita/591.json
       "usageExamples": [
         [
           "Non vinse, vero?",
@@ -150,6 +231,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+    },
+    {
+      "content": "aggiornata",
+      "translations": [
+        "updated",
+        "refreshed",
+        "revised",
+        "amended"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/512.json
     }
   ]
 }

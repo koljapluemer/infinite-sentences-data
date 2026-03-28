@@ -1,32 +1,45 @@
 {
-  "sentence": "Ora lui mi dice la verità.",
+  "sentence": "O Romeo Romeo, perché sei tu Romeo?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rheotaxis (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Scott (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Now he tells me the truth."
+    "O Romeo Romeo, wherefore art thou Romeo?",
+    "O Romeo Romeo, why are you Romeo?",
+    "O Romeo, Romeo, wherefore art thou Romeo?"
   ],
   "parts": [
     {
-      "content": "Ora",
+      "content": "O",
       "translations": [
-        "Now",
-        "Hour",
-        "Time",
-        "At this moment"
+        "Oh.",
+        "O!",
+        "O, the"
       ],
       "usageExamples": []
     },
     {
-      "content": "lui",
+      "content": "Romeo",
       "translations": [
-        "he",
-        "him",
-        "his"
+        "Romeo (a male given name)",
+        "Romeo (character from Shakespeare's play)",
+        "Romeo (a romantic figure)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "perché",
+      "translations": [
+        "why",
+        "because",
+        "for what reason",
+        "for what purpose"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/785.json
           "A Judy piace lui.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -34,30 +47,40 @@
         [
           "Cos'hai contro di lui?",
           "What do you have against him?",
+=======
+          "Io ho preso un taxi perché stava piovendo.",
+          "I took a taxi because it was raining.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Forse è lui.",
-          "Maybe it's him.",
+          "Non capisco perché non tutte le ragazze sono lesbiche.",
+          "I don't get why not all girls are lesbians.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/706.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non è potuto venire perché è ammalato.",
+          "Tom couldn't come because he's sick.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mi",
+      "content": "sei",
       "translations": [
-        "me",
-        "myself",
-        "to me",
-        "for me"
+        "six",
+        "you are",
+        "if you",
+        "be"
       ],
       "usageExamples": [
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Tu sei sposata?",
+          "Are you married?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/785.json
           "Le sue parole mi resero senza parole.",
           "His words rendered me speechless.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -65,28 +88,38 @@
         [
           "Io non mi sono mai sentito così vivo.",
           "I've never felt so alive.",
+=======
+          "Come ti sei sentita quando è successo?",
+          "How did you feel when that happened?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu sei stato di grande aiuto per la nostra famiglia.",
+          "You've been a great help to our family.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/706.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dice",
+      "content": "tu",
       "translations": [
-        "to say",
-        "to tell",
-        "to speak",
-        "to declare"
+        "you",
+        "yourself",
+        "thou",
+        "yours"
       ],
       "usageExamples": [
         [
-          "Mary dice che ha già deciso di farlo.",
-          "Mary says she's already decided to do that.",
+          "Mi fa piacere che tu sia d'accordo.",
+          "I'm glad you agree.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom dice di non aver nuotato.",
-          "Tom says he didn't swim.",
+          "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
+          "I understand that you and Tom are planning to get married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/785.json
         ],
         [
           "Mary dice di essere troppo stanca oggi per aiutare.",
@@ -134,6 +167,8 @@
           "Lui non conosce la verità.",
           "He doesn't know the truth.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/706.json
         ]
       ]
     }

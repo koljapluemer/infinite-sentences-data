@@ -1,11 +1,11 @@
 {
-  "sentence": "È molto bello rivedervi.",
+  "sentence": "È il mio problema con lui.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sharris123 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It is very nice to see you again."
+    "That's my problem with him."
   ],
   "parts": [
     {
@@ -18,8 +18,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1157.json
           "È una maledizione.",
           "It's a curse.",
+=======
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1078.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -31,24 +36,30 @@
           "È organizzando, vero?",
           "She's organized, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È anche più economico.",
+          "It's also cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molto",
+      "content": "il",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Vi manca molto, vero?",
-          "You miss him a lot, don't you?",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1157.json
           "Si contraddicono molto.",
           "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,29 +67,121 @@
         [
           "Non vinco molto spesso.",
           "I don't win very often.",
+=======
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1078.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bello",
+      "content": "mio",
       "translations": [
-        "war",
-        "beautiful",
-        "handsome",
-        "nice"
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "È mio nemico.",
+          "He is my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio amico va in biblioteca a studiare.",
+          "My friend goes to the library to study.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "rivedervi",
+      "content": "problema",
       "translations": [
-        "see you again",
-        "meet you again",
-        "catch up with you",
-        "revisit you"
+        "problem",
+        "issue",
+        "challenge",
+        "difficulty"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom ha qualche problema psicologico.",
+          "Tom has some psychological issues.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio problema è che sono troppo occupata.",
+          "My problem is I'm too busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che hai un problema.",
+          "I know you have a problem.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
+      ],
+      "usageExamples": [
+        [
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono fidanzata con lei.",
+          "I'm engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lui",
+      "translations": [
+        "he",
+        "him",
+        "his"
+      ],
+      "usageExamples": [
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

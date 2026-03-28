@@ -1,16 +1,17 @@
 {
-  "sentence": "Per favore, dammi un altro po' di tè.",
+  "sentence": "Penso che Tom fosse annoiato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please give me a little more tea."
+    "I think Tom was bored."
   ],
   "parts": [
     {
-      "content": "Per",
+      "content": "Penso",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/800.json
         "for",
         "by",
         "through",
@@ -67,25 +68,42 @@
         "hand me",
         "pass me",
         "bring me"
+=======
+        "I think.",
+        "I believe",
+        "I consider",
+        "I reflect"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/721.json
       ],
       "usageExamples": []
     },
     {
-      "content": "un",
+      "content": "che",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/800.json
           "Sono un tipo solitario.",
           "I'm a loner.",
+=======
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vedemmo un lupo.",
-          "We saw a wolf.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/721.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -96,41 +114,40 @@
       ]
     },
     {
-      "content": "altro",
+      "content": "Tom",
       "translations": [
-        "other",
-        "another",
-        "else",
-        "additional"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Che altro stai considerando?",
-          "What else are you considering?",
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che altro vorresti?",
-          "What more would you want?",
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che altro volete che compri?",
-          "What else do you want me to buy?",
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "po'",
+      "content": "fosse",
       "translations": [
-        "a little",
-        "somewhat",
-        "a bit",
-        "rather"
+        "pit",
+        "ditch",
+        "trench",
+        "hole"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/800.json
           "Perché non sta per un po'?",
           "Why don't you stay for a while?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -143,13 +160,28 @@
         [
           "Perché non ti rilassi un po'?",
           "Why don't you to relax a bit?",
+=======
+          "Tom non sapeva quale fosse il cognome di Mary.",
+          "Tom didn't know what Mary's last name was.",
+          "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom voleva che questa fosse una sorpresa.",
+          "Tom wanted this to be a surprise.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Jane piaceva far credere che fosse un insegnante.",
+          "Jane liked to make believe she was a teacher.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/721.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "annoiato",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/800.json
         "of",
         "from",
         "about",
@@ -180,6 +212,12 @@
         "herbal tea",
         "tea beverage",
         "infusion"
+=======
+        "bored",
+        "annoyed",
+        "weary",
+        "disinterested"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/721.json
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "A Maria non piace il prezzemolo.",
+  "sentence": "A Madre Teresa fu dato il Premio Nobel.",
   "credits": [
-    "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Maria doesn't like parsley."
+    "Mother Teresa was given the Nobel prize."
   ],
   "parts": [
     {
@@ -22,6 +22,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/114.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -97,8 +98,49 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/85.json
           "A John piace l'infermiera.",
           "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Madre Teresa",
+      "translations": [
+        "Mother Teresa",
+        "Saint Teresa of Calcutta"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dato",
+      "translations": [
+        "given",
+        "data",
+        "fact",
+        "information"
+      ],
+      "usageExamples": [
+        [
+          "Il dottore gli ha dato un sedativo.",
+          "The doctor gave him a sedative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha dato dell'idiota all'arbitro.",
+          "Tom called the referee an idiot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Madre Teresa è stato dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -113,8 +155,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/114.json
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "Io insegno il berbero.",
+          "I teach Berber.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/85.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -151,8 +198,21 @@
           "A Mary non piace per nulla il prezzemolo.",
           "Mary doesn't like parsley at all.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "Premio Nobel",
+      "translations": [
+        "Nobel Prize",
+        "Nobel Award"
+      ],
+      "usageExamples": []
     }
   ]
 }

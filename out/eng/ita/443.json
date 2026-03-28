@@ -1,11 +1,11 @@
 {
-  "sentence": "Il libro è arrivato.",
+  "sentence": "Il cane scodinzolava.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by patgfisher (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The book came."
+    "The dog wagged its tail."
   ],
   "parts": [
     {
@@ -33,15 +33,15 @@
       ]
     },
     {
-      "content": "libro",
+      "content": "cane",
       "translations": [
-        "book",
-        "volume",
-        "tome",
-        "publication"
+        "dog",
+        "walking stick",
+        "rod"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/443.json
           "Tu comprendi quel libro.",
           "You understand that book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -70,6 +70,10 @@
         [
           "Tom si è divertito.",
           "Tom had some fun.",
+=======
+          "Un cane ha corso.",
+          "A dog ran.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/364.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -81,16 +85,20 @@
           "Tom è famoso.",
           "Tom's famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, faccia un bagno al cane.",
+          "Please give the dog a bath.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "arrivato",
+      "content": "scodinzolava",
       "translations": [
-        "arrived",
-        "come",
-        "reached",
-        "got here"
+        "wagged its tail",
+        "was wagging its tail",
+        "wagging the tail"
       ],
       "usageExamples": []
     }

@@ -1,29 +1,48 @@
 {
-  "sentence": "Un cane ha corso.",
+  "sentence": "Tua moglie ti sta tradendo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Miktsoanit (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "A dog ran."
+    "Your wife is cheating on you."
   ],
   "parts": [
     {
-      "content": "Un",
+      "content": "Tua",
       "translations": [
-        "One",
-        "A",
-        "An"
+        "yours",
+        "your",
+        "belonging to you"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "moglie",
+      "translations": [
+        "wife",
+        "spouse",
+        "partner"
       ],
       "usageExamples": [
         [
-          "Un crimine è stato commesso.",
-          "A crime has been committed.",
+          "Sami ha perso sua moglie.",
+          "Sami lost his wife.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1092.json
           "Un gruppo di gangster ha rubato del denaro.",
           "A group of gangsters stole money.",
+=======
+          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
+          "Tom received an urgent message to call his wife.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu lasceresti tua moglie per me?",
+          "Would you leave your wife for me?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1013.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,14 +53,16 @@
       ]
     },
     {
-      "content": "cane",
+      "content": "ti",
       "translations": [
-        "dog",
-        "walking stick",
-        "rod"
+        "you",
+        "yourself",
+        "to you",
+        "for you"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1092.json
           "Il cane scodinzolava.",
           "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,47 +71,69 @@
           "Questo cane è brutto.",
           "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Per favore, faccia un bagno al cane.",
-          "Please give the dog a bath.",
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1013.json
+        ],
+        [
+          "Io sono sicuro che Tom ti aiuterà.",
+          "I'm sure Tom will help you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "sta",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "is",
+        "stands",
+        "is located",
+        "exists"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1092.json
           "Lei ha già finito?",
           "Are you through yet?",
+=======
+          "Li sta confondendo.",
+          "You're confusing them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1013.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cookie ha 15 anni.",
-          "Cookie is 15.",
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1092.json
           "Perché non ha corso?",
           "Why didn't you run?",
+=======
+          "Cosa la sta causando?",
+          "What's causing it?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1013.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "corso",
+      "content": "tradendo",
       "translations": [
-        "course",
-        "class",
-        "program",
-        "training"
+        "by handing over",
+        "through delivering",
+        "in transferring",
+        "by conveying"
       ],
+<<<<<<< HEAD:out/eng/ita/1092.json
       "usageExamples": [
         [
           "Perché non ha corso?",
@@ -108,6 +151,9 @@
           "Sentence from Tatoeba by xicotenga (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1013.json
     }
   ]
 }

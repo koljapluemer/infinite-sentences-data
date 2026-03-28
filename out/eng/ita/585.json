@@ -1,31 +1,75 @@
 {
-  "sentence": "Leggo un giornale tutti i giorni per tenermi aggiornata.",
+  "sentence": "Le piacerebbe imparare a suonare il piano?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I read a newspaper every day so that I may keep up with the time."
+    "Would you like to learn to play the piano?"
   ],
   "parts": [
     {
-      "content": "Leggo",
+      "content": "Le",
       "translations": [
-        "I read.",
-        "I am reading",
-        "I will read"
+        "The",
+        "It",
+        "Them",
+        "Those"
+      ],
+      "usageExamples": [
+        [
+          "Le fece sorridere.",
+          "That made them smile.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le amiamo.",
+          "We love them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le è piaciuta la pizza?",
+          "Did you enjoy the pizza?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piacerebbe",
+      "translations": [
+        "would like",
+        "would be pleasing",
+        "would enjoy",
+        "would be nice"
+      ],
+      "usageExamples": [
+        [
+          "Mi piacerebbe cenare con lei.",
+          "I'd like to have dinner with you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "imparare",
+      "translations": [
+        "to learn",
+        "to acquire knowledge",
+        "to master",
+        "to study"
       ],
       "usageExamples": []
     },
     {
-      "content": "un",
+      "content": "a",
       "translations": [
+        "an",
         "one",
-        "a",
-        "an"
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/585.json
           "Ho letto un fumetto.",
           "I read a comic book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -38,30 +82,35 @@
         [
           "Noi abbiamo un ristorante.",
           "We have a restaurant.",
+=======
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/506.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "giornale",
+      "content": "suonare",
       "translations": [
-        "newspaper",
-        "journal",
-        "magazine",
-        "periodical"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tutti",
-      "translations": [
-        "everyone",
-        "all",
-        "everybody",
-        "all of them"
+        "to play (an instrument)",
+        "to sound",
+        "to ring",
+        "to perform (music)"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/585.json
           "Non tutti erano compiaciuti.",
           "Not everyone was pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -74,25 +123,30 @@
         [
           "Noi studiamo tutti i giorni inglese.",
           "We study English every day.",
+=======
+          "A Jim piace suonare la batteria.",
+          "Jim likes to play the drum.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/506.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "i",
+      "content": "il",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/585.json
           "A Dan non piacciono i dittatori.",
           "Dan doesn't like dictators.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -100,35 +154,39 @@
         [
           "A Cookie non piacciono i baci.",
           "Cookie doesn't like kisses.",
+=======
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/506.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "giorni",
+      "content": "piano",
       "translations": [
-        "days",
-        "daytime",
-        "periods",
-        "timeframes"
+        "flat",
+        "level",
+        "smooth"
       ],
       "usageExamples": [
         [
-          "Quanti giorni ci sono a ottobre?",
-          "How many days are in October?",
+          "Lui abita al piano sopra al mio.",
+          "He lives on the floor above mine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "40 dollari per sette giorni.",
-          "40 dollars for seven days.",
-          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi studiamo tutti i giorni inglese.",
-          "We study English every day.",
+          "A Lincoln piaceva questo piano.",
+          "Lincoln liked this plan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+<<<<<<< HEAD:out/eng/ita/585.json
     },
     {
       "content": "per",
@@ -174,6 +232,8 @@
         "amended"
       ],
       "usageExamples": []
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/506.json
     }
   ]
 }

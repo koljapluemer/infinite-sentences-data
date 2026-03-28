@@ -1,33 +1,59 @@
 {
-  "sentence": "Com'è andato il tuo incontro con Tom?",
+  "sentence": "Ci sarò sempre per aiutarti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by cruzedu73 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How did your meeting with Tom go?"
+    "I will always be there to help you."
   ],
   "parts": [
     {
-      "content": "Com'è",
+      "content": "Ci",
       "translations": [
-        "How is it?",
-        "How's it going?",
-        "What is it like?",
-        "How does it feel?"
+        "Here",
+        "This",
+        "It",
+        "That"
+      ],
+      "usageExamples": [
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono delle isole nel mare.",
+          "There are islands in the sea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono andata l'altro ieri.",
+          "I went there the day before yesterday.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sarò",
+      "translations": [
+        "I will be",
+        "I shall be",
+        "I am going to be"
       ],
       "usageExamples": []
     },
     {
-      "content": "andato",
+      "content": "sempre",
       "translations": [
-        "gone",
-        "went",
-        "having gone",
-        "departed"
+        "always",
+        "forever",
+        "at all times",
+        "constantly"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/295.json
           "Sono andato all'ospedale ieri.",
           "I went to the hospital yesterday.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
@@ -40,43 +66,68 @@
         [
           "Io sono andato a trovarlo.",
           "I went to see him.",
+=======
+          "Dice sempre la stessa cosa.",
+          "He always says the same thing.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono sempre stato un repubblicano.",
+          "I've always been a Republican.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché siete sempre così gelose?",
+          "Why are you always so jealous?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/216.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "per",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/295.json
           "Mi piace il reggae.",
           "I like reggae.",
+=======
+          "Sei speciale per me.",
+          "You're special to me.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/216.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non tollererò il fallimento.",
-          "I will not tolerate failure.",
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/295.json
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/216.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tuo",
+      "content": "aiutarti",
       "translations": [
-        "your",
-        "yours",
-        "of yours"
+        "to help you",
+        "helping you",
+        "assist you",
+        "to assist you"
       ],
+<<<<<<< HEAD:out/eng/ita/295.json
       "usageExamples": [
         [
           "Riconosco il tuo contributo per tenere pulita la cucina.",
@@ -160,6 +211,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/216.json
     }
   ]
 }

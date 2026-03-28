@@ -1,26 +1,26 @@
 {
-  "sentence": "Pensavo che avesse già parlato con Tom.",
+  "sentence": "Ooh! Mousse di cioccolata. Gnam.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by halfb1t (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I thought you'd already talked to Tom."
+    "Ooh! Chocolate mousse. Yummy."
   ],
   "parts": [
     {
-      "content": "Pensavo",
+      "content": "Ooh",
       "translations": [
-        "I was thinking.",
-        "I thought",
-        "I used to think",
-        "I was considering"
+        "Oh.",
+        "Wow",
+        "Ah"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "Mousse",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/790.json
         "that",
         "which",
         "who",
@@ -51,19 +51,25 @@
         "to possess",
         "to own",
         "to hold"
+=======
+        "Foam dessert",
+        "Whipped dessert",
+        "Light and airy dessert"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/711.json
       ],
       "usageExamples": []
     },
     {
-      "content": "già",
+      "content": "di",
       "translations": [
-        "already",
-        "now",
-        "yet",
-        "at this point"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/790.json
           "Lei ha già finito?",
           "Are you done yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -77,33 +83,48 @@
           "A Berlino ci siete già state.",
           "You have already been to Berlin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/711.json
         ]
       ]
     },
     {
-      "content": "parlato",
+      "content": "cioccolata",
       "translations": [
-        "spoken",
-        "talked",
-        "verbal",
-        "oral"
+        "chocolate",
+        "hot chocolate",
+        "cocoa"
       ],
       "usageExamples": [
         [
-          "Lei ha parlato con Tom, vero?",
-          "You talked to Tom, didn't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "A Linda piace la cioccolata.",
+          "Linda likes chocolate.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "con",
+      "content": "Gnam",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "Yum",
+        "Delicious.",
+        "Tasty",
+        "Yummy"
       ],
+<<<<<<< HEAD:out/eng/ita/790.json
       "usageExamples": [
         [
           "Tom acconsentì con riluttanza.",
@@ -145,6 +166,9 @@
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/711.json
     }
   ]
 }

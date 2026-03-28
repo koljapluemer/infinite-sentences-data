@@ -1,11 +1,10 @@
 {
-  "sentence": "Non posso farla da sola.",
+  "sentence": "Non mi sento abbastanza forte per dirglielo.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I can't do it by myself."
+    "I don’t feel strong enough to tell him."
   ],
   "parts": [
     {
@@ -18,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/743.json
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,6 +25,15 @@
         [
           "Non bevete il caffè?",
           "Do you not drink coffee?",
+=======
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/664.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,35 +44,118 @@
       ]
     },
     {
-      "content": "posso",
+      "content": "mi",
       "translations": [
-        "I can.",
-        "I am able to",
-        "I may",
-        "I am allowed to"
+        "me",
+        "myself",
+        "to me",
+        "for me"
       ],
       "usageExamples": [
         [
-          "Vi posso insegnare a lottare.",
-          "I can teach you how to fight.",
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io non posso dirle come si pronuncia la parola.",
-          "I can't tell you how to pronounce the word.",
+          "Io non mi sono mai sentito così vivo.",
+          "I've never felt so alive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ora lui mi dice la verità.",
+          "Now he tells me the truth.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "farla",
+      "content": "sento",
       "translations": [
-        "to do it",
-        "to make it happen",
-        "to get it done",
-        "to carry it out"
+        "I feel",
+        "I sense",
+        "I perceive",
+        "I experience"
+      ],
+      "usageExamples": [
+        [
+          "Mi sento unico rispetto agli altri.",
+          "I feel unique compared to others.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "abbastanza",
+      "translations": [
+        "enough",
+        "fairly",
+        "quite",
+        "sufficiently"
+      ],
+      "usageExamples": [
+        [
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un linguaggio non è mai abbastanza.",
+          "One language is never enough.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "forte",
+      "translations": [
+        "strong",
+        "powerful",
+        "forceful",
+        "intense"
+      ],
+      "usageExamples": [
+        [
+          "Vladimir è forte come una mucca.",
+          "Vladimir is strong as a cow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dirglielo",
+      "translations": [
+        "tell him",
+        "say it to him",
+        "give him the message"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/743.json
     },
     {
       "content": "da",
@@ -116,6 +208,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/664.json
     }
   ]
 }

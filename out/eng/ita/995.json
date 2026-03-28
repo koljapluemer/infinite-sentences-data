@@ -1,12 +1,11 @@
 {
-  "sentence": "Tom disse che aveva nostalgia di casa.",
+  "sentence": "Tom corse per prendere l'ultimo treno.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom said he was homesick.",
-    "Tom said that he was homesick."
+    "Tom ran to catch the last train."
   ],
   "parts": [
     {
@@ -17,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/995.json
           "Tom non cambia mai.",
           "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,6 +24,15 @@
         [
           "Tom sembra impegnato.",
           "Tom seems busy.",
+=======
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra compiaciuto.",
+          "Tom seems pleased.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/916.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,8 +43,9 @@
       ]
     },
     {
-      "content": "disse",
+      "content": "corse",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/995.json
         "said",
         "told",
         "stated",
@@ -117,19 +127,25 @@
         "longing for the past",
         "sentimental yearning",
         "wistful remembrance"
+=======
+        "course",
+        "path",
+        "route",
+        "track"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/916.json
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "per",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/995.json
           "Può fare di meglio.",
           "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -143,19 +159,35 @@
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+=======
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/916.json
         ]
       ]
     },
     {
-      "content": "casa",
+      "content": "prendere",
       "translations": [
-        "house",
-        "home",
-        "dwelling",
-        "residence"
+        "to take",
+        "to grab",
+        "to catch",
+        "to seize"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/995.json
           "Dov'è la sua casa?",
           "Where is your house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -163,6 +195,55 @@
         [
           "Lo devo fare prima di potere andare a casa oggi.",
           "I have to do that before I can go home today.",
+=======
+          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+          "Mary said she'd like to borrow a few books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "l'ultimo",
+      "translations": [
+        "the last",
+        "the latest",
+        "the final"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "treno",
+      "translations": [
+        "train",
+        "railway",
+        "locomotive",
+        "train service"
+      ],
+      "usageExamples": [
+        [
+          "Siamo arrivati ieri in treno.",
+          "We arrived yesterday afternoon by train.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
+          "When riding a bus or a train, you need to pay the fare.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se lui verrà in treno o in auto.",
+          "I don't know whether he'll come by train or by car.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/916.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [

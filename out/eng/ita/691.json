@@ -1,23 +1,24 @@
 {
-  "sentence": "Noi cosa faremmo senza di lui?",
+  "sentence": "Nessuno credeva a Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What would we do without him?"
+    "Nobody believed Tom."
   ],
   "parts": [
     {
-      "content": "Noi",
+      "content": "Nessuno",
       "translations": [
-        "We",
-        "Us",
-        "Ours",
-        "Our group"
+        "No one",
+        "Nobody",
+        "Not anyone",
+        "None"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/691.json
           "Noi ti amiamo entrambi.",
           "We both love you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -31,12 +32,28 @@
           "Noi siamo in Finlandia.",
           "We are in Finland.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno vi sostituirà.",
+          "Nobody will ever replace you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno qua balla bene come te.",
+          "Nobody here dances as well as you.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/612.json
         ]
       ]
     },
     {
-      "content": "cosa",
+      "content": "credeva",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/691.json
         "thing",
         "item",
         "object",
@@ -66,24 +83,29 @@
         "we would do",
         "we would make",
         "we would perform"
+=======
+        "he/she believed",
+        "he/she thought",
+        "he/she used to believe"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/612.json
       ],
       "usageExamples": []
     },
     {
-      "content": "senza",
+      "content": "a",
       "translations": [
-        "without",
-        "lacking",
-        "absent",
-        "devoid of"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Siete senza speranza.",
-          "You're hopeless.",
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/691.json
           "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
           "The orphans were forced to work long hours without pay or food.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -112,6 +134,15 @@
         [
           "Può fare di meglio.",
           "You can do better.",
+=======
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/612.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -122,14 +153,14 @@
       ]
     },
     {
-      "content": "lui",
+      "content": "Tom",
       "translations": [
-        "he",
-        "him",
-        "his"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/691.json
           "Parlo frequentemente con lui.",
           "I frequently talk to him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -137,12 +168,21 @@
         [
           "Forse è lui.",
           "Maybe it's him.",
+=======
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Judy piace lui.",
-          "Judy likes him.",
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/612.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ]
       ]
     }

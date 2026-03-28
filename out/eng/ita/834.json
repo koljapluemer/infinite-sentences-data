@@ -1,59 +1,147 @@
 {
-  "sentence": "Posso chiedere il vostro nome?",
+  "sentence": "Perché vi state comportando in modo così strano?",
   "credits": [
-    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sysko (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "May I ask your name?"
+    "Why are you acting so strange?"
   ],
   "parts": [
     {
-      "content": "Posso",
+      "content": "Perché",
       "translations": [
-        "I can.",
-        "I am able to",
-        "I may",
-        "I might"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "chiedere",
-      "translations": [
-        "to ask",
-        "to request",
-        "to inquire",
-        "to demand"
+        "Why",
+        "For what reason",
+        "What for",
+        "Why is that"
       ],
       "usageExamples": [
         [
-          "Forse lo dovrebbe chiedere a lei.",
-          "Maybe you should ask her.",
+          "Perché non la cercate?",
+          "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo dovrebbe chiedere a loro.",
-          "You should ask them.",
+          "Perché qualcuno vorrebbe baciarvi?",
+          "Why would anyone want to kiss you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avrebbe dovuto chiedere a lui prima.",
-          "You should've asked him first.",
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "vi",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "way",
+        "road",
+        "path",
+        "route"
       ],
       "usageExamples": [
         [
+          "Nessuno vi sostituirà.",
+          "Nobody will ever replace you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché vi state fermando adesso?",
+          "Why are you stopping now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che Tom vi ha ferite.",
+          "I know that Tom hurt you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "state",
+      "translations": [
+        "condition",
+        "situation",
+        "status",
+        "government"
+      ],
+      "usageExamples": [
+        [
+          "Grazie per essere state con lui.",
+          "Thanks for staying with him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché vi state fermando adesso?",
+          "Why are you stopping now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci siete già state.",
+          "You've already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "comportando",
+      "translations": [
+        "carrying",
+        "bearing",
+        "conducting",
+        "behaving"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "modo",
+      "translations": [
+        "way",
+        "manner",
+        "method",
+        "style"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "così",
+      "translations": [
+        "so",
+        "like this",
+        "in this way",
+        "thus"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/834.json
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,17 +154,33 @@
         [
           "Non bevete il caffè?",
           "Do you not drink coffee?",
+=======
+          "Siete così impazienti.",
+          "You're so impatient.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così paranoici.",
+          "You're so paranoid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È così sciocco.",
+          "That's so silly.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/755.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vostro",
+      "content": "strano",
       "translations": [
-        "your",
-        "yours",
-        "your own"
+        "strange",
+        "weird",
+        "odd",
+        "unusual"
       ],
+<<<<<<< HEAD:out/eng/ita/834.json
       "usageExamples": [
         [
           "Il vostro silenzio mi rende nervoso.",
@@ -120,6 +224,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/755.json
     }
   ]
 }

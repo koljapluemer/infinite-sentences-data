@@ -1,23 +1,34 @@
 {
-  "sentence": "Cosa può dirci riguardo a questo dipinto?",
+  "sentence": "Cos'hai contro di lui?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What can you tell us about this painting?"
+    "What do you have against him?"
   ],
   "parts": [
     {
-      "content": "Cosa",
+      "content": "Cos'hai",
       "translations": [
-        "Thing",
-        "Item",
-        "Object",
-        "Stuff"
+        "What do you have?",
+        "What do you got?",
+        "What do you possess?",
+        "What is it that you have?"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "contro",
+      "translations": [
+        "against",
+        "opposed to",
+        "in contrast to",
+        "counter"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/311.json
           "Cosa vorrebbe bere?",
           "What would you like to drink?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,66 +41,70 @@
         [
           "Cosa avete consigliato?",
           "What did you recommend?",
+=======
+          "Era una corsa contro il tempo.",
+          "It was a race against time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha gridato contro il suo computer.",
+          "He yelled at his computer.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/232.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "può",
+      "content": "di",
       "translations": [
-        "can",
-        "may",
-        "is able to",
-        "is allowed to"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Non le può licenziare.",
-          "You can't fire them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ],
         [
-          "Forse Tom lo può fare.",
-          "Perhaps Tom can do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Camminare regolarmente può aiutarmi a mantenere un peso sano e a prevenire l'aumento di peso.",
-          "Regular walking can help me maintain a healthy weight and prevent weight gain.",
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dirci",
+      "content": "lui",
       "translations": [
-        "to say to us",
-        "to tell us",
-        "to inform us",
-        "to speak to us"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "riguardo",
-      "translations": [
-        "regarding",
-        "concerning",
-        "in relation to",
-        "about"
+        "he",
+        "him",
+        "his"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/311.json
           "Non ho obiezioni a riguardo.",
           "I don't have any objection to that.",
+=======
+          "Forse è lui.",
+          "Maybe it's him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/232.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sa come si sente Mary a riguardo.",
-          "Tom knows how Mary feels about that.",
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/311.json
           "Tom non sa nulla a riguardo della situazione.",
           "Tom doesn't know anything about the situation.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -156,6 +171,13 @@
         "illustrated"
       ],
       "usageExamples": []
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/232.json
     }
   ]
 }

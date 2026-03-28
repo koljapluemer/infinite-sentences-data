@@ -1,32 +1,24 @@
 {
-  "sentence": "Mamma ha diviso la torta in tre.",
+  "sentence": "Lui non conosce la verità.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sundown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mum divided the cake into three."
+    "He doesn't know the truth."
   ],
   "parts": [
     {
-      "content": "Mamma",
+      "content": "Lui",
       "translations": [
-        "Mom",
-        "Mother",
-        "Mama",
-        "Mum"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ha",
-      "translations": [
-        "has",
-        "he has",
-        "there is"
+        "Him",
+        "He",
+        "That guy",
+        "This man"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/631.json
           "Un cane ha corso.",
           "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -39,17 +31,58 @@
         [
           "Non ha un fidanzato?",
           "Don't you have a boyfriend?",
+=======
+          "Lui studiò economia all'università.",
+          "He studied economics at college.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui sembra un delinquente.",
+          "He looks like a gangster.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/552.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "diviso",
+      "content": "non",
       "translations": [
-        "divided",
-        "split",
-        "separated",
-        "partitioned"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "conosce",
+      "translations": [
+        "knows",
+        "is familiar with",
+        "recognizes",
+        "understands"
       ],
       "usageExamples": []
     },
@@ -63,6 +96,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/631.json
           "Sento la primavera nell'aria.",
           "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -75,29 +109,35 @@
         [
           "Cosa la sta causando?",
           "What's causing it?",
+=======
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/552.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "torta",
+      "content": "verità",
       "translations": [
-        "cake",
-        "pie",
-        "tart",
-        "pastry"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "inside",
-        "within",
-        "into"
+        "truth",
+        "veracity",
+        "fact",
+        "reality"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/631.json
           "È stata in piedi?",
           "Did you stand up?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -135,6 +175,10 @@
         [
           "Lessi la storia tre volte.",
           "I read the story three times.",
+=======
+          "Ora lui mi dice la verità.",
+          "Now he tells me the truth.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/552.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

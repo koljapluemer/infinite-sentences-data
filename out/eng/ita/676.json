@@ -1,11 +1,11 @@
 {
-  "sentence": "Mi sono tuffato nell'acqua.",
+  "sentence": "Mi piace il reggae.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by LdjuherTaqvaylit (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I dived into the water."
+    "I like reggae."
   ],
   "parts": [
     {
@@ -17,8 +17,18 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/676.json
           "Mi descriva Tom.",
           "Describe Tom to me.",
+=======
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sto riposando ora.",
+          "I'm resting now.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/597.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,15 +44,15 @@
       ]
     },
     {
-      "content": "sono",
+      "content": "piace",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/676.json
           "Si sono sposati.",
           "They got married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,12 +60,17 @@
         [
           "Io sono una patata.",
           "I am a potato.",
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/597.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/676.json
         ]
       ]
     },
@@ -86,17 +101,49 @@
         [
           "Stavo pensando di arruolarmi nell'esercito.",
           "I was thinking about joining the army.",
+=======
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/597.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "acqua",
+      "content": "il",
       "translations": [
-        "water",
-        "aqua",
-        "H2O",
-        "liquid"
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "reggae",
+      "translations": [
+        "reggae music",
+        "reggae genre",
+        "reggae style",
+        "reggae rhythm"
       ],
       "usageExamples": []
     }

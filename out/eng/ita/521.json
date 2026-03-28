@@ -1,11 +1,11 @@
 {
-  "sentence": "Io sto guardando le Olimpiadi.",
+  "sentence": "Io sono stato invitato al loro matrimonio.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm watching the Olympics."
+    "I was invited to their wedding."
   ],
   "parts": [
     {
@@ -17,8 +17,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/521.json
           "Io sono una patata.",
           "I am a potato.",
+=======
+          "Io parlo bosniaco.",
+          "I speak Bosnian.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/442.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -27,29 +32,44 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/521.json
           "Io parlo bosniaco.",
           "I speak Bosnian.",
+=======
+          "Io l'ho comprata.",
+          "I bought it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/442.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sto",
+      "content": "sono",
       "translations": [
-        "I stand",
-        "I am standing",
-        "I stay",
-        "I am staying"
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/521.json
           "Mi sto riposando ora.",
           "I'm resting now.",
+=======
+          "Tutte sono felici.",
+          "Everybody's happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Scusami, sto cercando Tom.",
-          "Excuse me, I'm looking for Tom.",
+          "Io sono solo curiosa.",
+          "I'm just curious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/442.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -60,25 +80,52 @@
       ]
     },
     {
-      "content": "guardando",
+      "content": "stato",
       "translations": [
-        "watching",
-        "looking at",
-        "guarding",
-        "keeping an eye on"
+        "state",
+        "status",
+        "condition",
+        "situation"
+      ],
+      "usageExamples": [
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato scaricato.",
+          "He was dumped.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei mai stato in Francia?",
+          "Have you ever been to France?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "invitato",
+      "translations": [
+        "guest",
+        "invitee",
+        "attendee",
+        "participant"
       ],
       "usageExamples": []
     },
     {
-      "content": "le",
+      "content": "al",
       "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
+        "to the",
+        "at the",
+        "in the",
+        "for the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/521.json
           "Non le vogliamo là.",
           "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -86,6 +133,20 @@
         [
           "Non le può licenziare.",
           "You can't fire them.",
+=======
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/442.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -96,12 +157,39 @@
       ]
     },
     {
-      "content": "Olimpiadi",
+      "content": "loro",
       "translations": [
-        "Olympics",
-        "Olympic Games",
-        "Olympic Championships",
-        "Olympic Events"
+        "their",
+        "theirs",
+        "them",
+        "those",
+        "They"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le scarpe che diedi a Tom e Mary erano troppo piccole per loro.",
+          "The shoes I gave Tom and Mary were too small for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vi dimenticate di loro.",
+          "Don't forget them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "matrimonio",
+      "translations": [
+        "marriage",
+        "matrimony",
+        "wedlock",
+        "union"
       ],
       "usageExamples": []
     }

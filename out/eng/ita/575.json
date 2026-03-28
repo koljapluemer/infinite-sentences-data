@@ -1,15 +1,17 @@
 {
-  "sentence": "Le dispute dei suoi genitori riecheggiavano nella sua mente, facendolo piangere disperatamente.",
+  "sentence": "Lasci andare il ragazzo.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "His parents' disputes echoed in his mind, making him cry helplessly."
+    "Let the boy go."
   ],
   "parts": [
     {
-      "content": "Le",
+      "content": "Lasci",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/575.json
         "The",
         "It",
         "Them",
@@ -40,44 +42,62 @@
         "conflict",
         "debate",
         "controversy"
+=======
+        "Leave",
+        "Let go",
+        "Abandon",
+        "Allow"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/496.json
       ],
       "usageExamples": []
     },
     {
-      "content": "dei",
+      "content": "andare",
       "translations": [
-        "gods",
-        "deities",
-        "divine beings",
-        "spirits"
+        "to go",
+        "to walk",
+        "to move",
+        "to travel"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/575.json
           "Mi servono dei francobolli.",
           "I need stamps.",
+=======
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/496.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non mandarmi dei messaggi.",
-          "Don't send me messages.",
+          "Devo andare a trovarli.",
+          "I have to go find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/575.json
           "Ziri mangiò dei datteri.",
           "Ziri ate dates.",
+=======
+          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
+          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/496.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suoi",
+      "content": "il",
       "translations": [
-        "his",
-        "her",
-        "its"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/575.json
           "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
           "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -90,20 +110,35 @@
         [
           "A John piace scambiare francobolli con i suoi amici.",
           "John likes to trade stamps with his friends.",
+=======
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/496.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "genitori",
+      "content": "ragazzo",
       "translations": [
-        "parents",
-        "guardians",
-        "caregivers",
-        "progenitors"
+        "boy",
+        "young man",
+        "guy",
+        "lad"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/575.json
           "I miei genitori abitano in una casa grande.",
           "My parents live in a big house.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -178,49 +213,18 @@
         [
           "Lui non riesce ad adattarsi alla sua situazione.",
           "He can't accommodate himself to his circumstances.",
+=======
+          "Lo conosci il ragazzo nella foto?",
+          "Do you know the boy in the picture?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ai miei genitori non piace il mio ragazzo.",
+          "My parents don't like my boyfriend.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/496.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "mente",
-      "translations": [
-        "mind",
-        "brain",
-        "intellect",
-        "thought"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "facendolo",
-      "translations": [
-        "doing it",
-        "making it happen",
-        "carrying it out",
-        "executing it"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "piangere",
-      "translations": [
-        "to cry",
-        "to weep",
-        "to shed tears",
-        "to lament"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "disperatamente",
-      "translations": [
-        "desperately",
-        "in desperation",
-        "hopelessly",
-        "frantically"
-      ],
-      "usageExamples": []
     }
   ]
 }

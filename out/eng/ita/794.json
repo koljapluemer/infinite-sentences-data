@@ -1,33 +1,33 @@
 {
-  "sentence": "Penso che Tom fosse annoiato.",
+  "sentence": "\"Passami il sale, per piacere.\" \"Ecco qua.\"",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I think Tom was bored."
+    "\"Pass me the salt, please.\" \"Here you are.\""
   ],
   "parts": [
     {
-      "content": "Penso",
+      "content": "Passami",
       "translations": [
-        "I think.",
-        "I believe",
-        "I consider",
-        "I reflect"
+        "Pass me",
+        "Hand me",
+        "Give me"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "il",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/794.json
           "Sembra che sia seria.",
           "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,26 +40,124 @@
         [
           "Disse che lo amava.",
           "She said she loved him.",
+=======
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/715.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "sale",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "discount",
+        "sale price",
+        "clearance",
+        "promotion"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/794.json
           "Intimidisci Tom.",
           "You intimidate Tom.",
+=======
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piacere",
+      "translations": [
+        "to please",
+        "to like",
+        "pleasure",
+        "enjoyment"
+      ],
+      "usageExamples": [
+        [
+          "Mi fa piacere che le piaccia.",
+          "I'm glad you like it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mark potrebbe piacere Jessica.",
+          "Mark might like Jessica.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi fa piacere che tu sia d'accordo.",
+          "I'm glad you agree.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Ecco",
+      "translations": [
+        "Here",
+        "Here it is",
+        "This is",
+        "Look"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "qua",
+      "translations": [
+        "where",
+        "in which",
+        "at which",
+        "by which"
+      ],
+      "usageExamples": [
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo aspettarli qua.",
+          "I have to wait here for them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/715.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Tom è famoso.",
           "Tom is famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/794.json
         ],
         [
           "Nessuno credeva a Tom.",
@@ -103,6 +201,10 @@
         "disinterested"
       ],
       "usageExamples": []
+=======
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/715.json
     }
   ]
 }

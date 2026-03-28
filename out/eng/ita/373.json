@@ -1,15 +1,17 @@
 {
-  "sentence": "Gli amici entrano nelle nostre vite volontariamente.",
+  "sentence": "Galileo morì l'8 gennaio 1642.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Friends come into our lives voluntarily."
+    "Galileo died on January 8, 1642."
   ],
   "parts": [
     {
-      "content": "Gli",
+      "content": "Galileo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/373.json
         "the",
         "them",
         "those",
@@ -66,57 +68,51 @@
         "they go in",
         "they come in",
         "they get in"
+=======
+        "Galileo Galilei",
+        "Galileo the astronomer",
+        "Galileo the scientist"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/294.json
       ],
       "usageExamples": []
     },
     {
-      "content": "nelle",
+      "content": "morì",
       "translations": [
-        "in the",
-        "at the",
-        "to the",
-        "on the"
-      ],
-      "usageExamples": [
-        [
-          "Io ho il sangue blu nelle vene.",
-          "I have blue blood in my veins.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "nostre",
-      "translations": [
-        "our",
-        "ours",
-        "of ours"
-      ],
-      "usageExamples": [
-        [
-          "Noi sentiamo con le nostre orecchie.",
-          "We hear with our ears.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "vite",
-      "translations": [
-        "screw",
-        "bolt",
-        "fastener",
-        "threaded rod"
+        "to die",
+        "to pass away",
+        "to expire",
+        "to perish"
       ],
       "usageExamples": []
     },
     {
-      "content": "volontariamente",
+      "content": "l'8",
       "translations": [
-        "voluntarily",
-        "willingly",
-        "of one's own accord",
-        "by choice"
+        "the 8th",
+        "the eighth",
+        "number 8",
+        "8"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gennaio",
+      "translations": [
+        "January",
+        "the first month of the year",
+        "month of new beginnings",
+        "winter month in the Northern Hemisphere"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "1642",
+      "translations": [
+        "Item: 1642",
+        "Product: 1642",
+        "Article: 1642",
+        "Reference: 1642"
       ],
       "usageExamples": []
     }

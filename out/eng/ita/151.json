@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non importa, vero?",
+  "sentence": "A Mary mancavano le sue amiche.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary doesn't care, does she?"
+    "Mary missed her friends."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/151.json
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,10 +26,20 @@
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/116.json
         ],
         [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,6 +53,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/151.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,19 +67,35 @@
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary fu amputata la gamba sinistra.",
+          "Mary had her left leg amputated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/116.json
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "le",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "the",
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/151.json
           "Perché non la cercate?",
           "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,46 +108,65 @@
         [
           "Preferirei non farlo.",
           "I'd rather not do that.",
+=======
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quando depongono le uova i salmoni?",
+          "When do salmon spawn?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/116.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "importa",
+      "content": "sue",
       "translations": [
-        "it matters",
-        "it is important",
-        "it counts",
-        "it is significant"
+        "to sue",
+        "to file a lawsuit",
+        "to take legal action against"
       ],
       "usageExamples": [
         [
-          "Mi importa di lei.",
-          "I care about her.",
+          "Le sue parole mi resero senza parole.",
+          "His words rendered me speechless.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary importa della sua salute.",
-          "Mary cares about her health.",
+          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
+          "Tom should've closed all his windows.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/151.json
           "A Mary e Tom importa la privacy.",
           "Mary and Tom care about privacy.",
+=======
+          "Non mi piacciono le sue barzellette.",
+          "I don't like his jokes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/116.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vero",
+      "content": "amiche",
       "translations": [
-        "true",
-        "indeed",
-        "in fact",
-        "certainly"
+        "friends",
+        "girlfriends",
+        "female friends",
+        "buddies"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/151.json
           "È organizzando, vero?",
           "She's organized, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -132,6 +179,15 @@
         [
           "È con Tom, vero?",
           "You're with Tom, aren't you?",
+=======
+          "Mary era circondata dalle sue amiche.",
+          "Mary was surrounded by her friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace scambiare francobolli con le sue amiche.",
+          "John likes to trade stamps with his friends.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/116.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

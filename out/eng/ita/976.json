@@ -1,90 +1,69 @@
 {
-  "sentence": "Ti darò questa biro.",
+  "sentence": "Studiate più duramente.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'll give you this pen."
+    "Study harder."
   ],
   "parts": [
     {
-      "content": "Ti",
+      "content": "Studiate",
       "translations": [
-        "You",
-        "To you",
-        "For you",
-        "Yourself"
-      ],
-      "usageExamples": [
-        [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti compro un regalo.",
-          "I buy you a present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "darò",
-      "translations": [
-        "I will give",
-        "I will provide",
-        "I will offer",
-        "I will hand over"
+        "Study hard.",
+        "Focus on your studies",
+        "Put effort into studying",
+        "Dedicate yourself to learning"
       ],
       "usageExamples": []
     },
     {
-      "content": "questa",
+      "content": "più",
       "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
+        "more",
+        "plus",
+        "greater",
+        "further"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/976.json
           "Ho bevuto del caffè questa mattina.",
           "I drank coffee this morning.",
+=======
+          "È anche più economico.",
+          "It's also cheaper.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/897.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mio nonno si siede sempre su questa sedia.",
-          "My grandfather always sits in this chair.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/976.json
           "È stata costruita una ferrovia in questa città.",
           "A railroad was constructed in this town.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Ha offerto più di quanto ci si potesse aspettare.",
+          "He offered more than could be expected.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/897.json
         ]
       ]
     },
     {
-      "content": "biro",
+      "content": "duramente",
       "translations": [
-        "ballpoint pen",
-        "biro pen",
-        "ball pen",
-        "ink pen"
+        "harshly",
+        "severely",
+        "sternly",
+        "toughly"
       ],
-      "usageExamples": [
-        [
-          "Prendi in prestito le biro dai tuoi amici.",
-          "You borrow pens from your friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

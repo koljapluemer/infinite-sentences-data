@@ -1,15 +1,15 @@
 {
-  "sentence": "Questo articolo ridicolizza i vegetariani.",
+  "sentence": "Questa mattina Tatoeba non sta funzionando molto bene.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lesgles (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Mateon1 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This article makes fun of vegetarians."
+    "This morning, Tatoeba isn't working very well."
   ],
   "parts": [
     {
-      "content": "Questo",
+      "content": "Questa",
       "translations": [
         "This",
         "This one",
@@ -18,13 +18,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/877.json
           "Questo è un test?",
           "Is this a test?",
+=======
+          "Questa pagina non è mai stata divertente.",
+          "This page was never funny.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Questa è una buona domanda.",
+          "This is a good question.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/798.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa è casa sua adesso.",
+          "This is your house now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,40 +45,21 @@
       ]
     },
     {
-      "content": "articolo",
+      "content": "mattina",
       "translations": [
-        "article",
-        "item",
-        "section",
-        "clause"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ridicolizza",
-      "translations": [
-        "ridicules",
-        "makes fun of",
-        "mock",
-        "derides"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "morning",
+        "morn",
+        "AM",
+        "daybreak"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/877.json
           "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
           "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -76,19 +67,138 @@
         [
           "A Eva piacciono i cani, però non i gatti.",
           "Eva likes dogs, but not cats.",
+=======
+          "Ho bevuto del caffè questa mattina.",
+          "I drank coffee this morning.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/798.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vegetariani",
+      "content": "Tatoeba",
       "translations": [
-        "vegetarians",
-        "vegetarian people",
-        "those who follow a vegetarian diet",
-        "individuals who do not eat meat"
+        "For example",
+        "Such as",
+        "Like this",
+        "For instance"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sta",
+      "translations": [
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Li sta confondendo.",
+          "You're confusing them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is whining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "funzionando",
+      "translations": [
+        "functioning",
+        "operating",
+        "working",
+        "in operation"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "molto",
+      "translations": [
+        "very",
+        "much",
+        "a lot",
+        "extremely"
+      ],
+      "usageExamples": [
+        [
+          "Amo molto mia madre.",
+          "I love my mother very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bene",
+      "translations": [
+        "well",
+        "good",
+        "fine",
+        "okay"
+      ],
+      "usageExamples": [
+        [
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno qua balla bene come te.",
+          "Nobody here dances as well as you.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

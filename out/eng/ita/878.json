@@ -1,15 +1,15 @@
 {
-  "sentence": "Questo cane è brutto.",
+  "sentence": "Questa pagina non è mai stata divertente.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by VoiceLessQ (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This dog is ugly."
+    "This page was never funny."
   ],
   "parts": [
     {
-      "content": "Questo",
+      "content": "Questa",
       "translations": [
         "This",
         "This one",
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/878.json
           "Questo è un occhio.",
           "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,6 +26,20 @@
         [
           "Questo è un test?",
           "Is this a test?",
+=======
+          "Questa mattina Tatoeba non sta funzionando molto bene.",
+          "This morning, Tatoeba isn't working very well.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa è una buona domanda.",
+          "This is a good question.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa è casa sua adesso.",
+          "This is your house now.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/799.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,14 +50,16 @@
       ]
     },
     {
-      "content": "cane",
+      "content": "pagina",
       "translations": [
-        "dog",
-        "walking stick",
-        "rod"
+        "page",
+        "sheet",
+        "leaf",
+        "folio"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/878.json
           "Il cane scodinzolava.",
           "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,11 +67,37 @@
         [
           "Un cane ha corso.",
           "A dog ran.",
+=======
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Per favore, faccia un bagno al cane.",
-          "Please give the dog a bath.",
+          "Perché non ha corso?",
+          "Why didn't you run?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/799.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -69,8 +112,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/878.json
           "Ti è piaciuto Tom?",
           "Did you like Tom?",
+=======
+          "Il tempo è finito.",
+          "Time is up.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/799.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -79,25 +127,82 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/878.json
           "La risposta è complicata.",
           "The answer is complicated.",
+=======
+          "Tom è un fan.",
+          "Tom is a fan.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/799.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "brutto",
+      "content": "mai",
       "translations": [
-        "ugly",
-        "bad",
-        "rough",
-        "disgusting"
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
       ],
       "usageExamples": [
         [
-          "Forse questo è un brutto momento.",
-          "Maybe this is a bad time.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stata",
+      "translations": [
+        "was",
+        "has been",
+        "was located",
+        "was situated"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono stata onesta con lui.",
+          "I have been honest with him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "divertente",
+      "translations": [
+        "funny",
+        "entertaining",
+        "amusing",
+        "enjoyable"
+      ],
+      "usageExamples": [
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,23 +1,23 @@
 {
-  "sentence": "È andata bene oggi?",
+  "sentence": "Ziri ha alzato il volume della musica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did it go well today?"
+    "Ziri increased the music volume."
   ],
   "parts": [
     {
-      "content": "È",
+      "content": "Ziri",
       "translations": [
-        "It is",
-        "He is",
-        "She is",
-        "There is"
+        "Ziri (a name)",
+        "Ziri (a term)",
+        "Ziri (a concept)"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1143.json
           "È una giornata nuvolosa.",
           "It's a cloudy day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,61 +30,111 @@
         [
           "È una maledizione.",
           "It's a curse.",
+=======
+          "Ziri mangiò dei datteri.",
+          "Ziri ate dates.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri e Rima erano nudi.",
+          "Ziri and Rima were naked.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri ama i gatti siamesi.",
+          "Ziri loves Siamese cats.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1064.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "andata",
+      "content": "ha",
       "translations": [
-        "outbound",
-        "departure",
-        "going",
-        "one-way trip"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Ci sono andata l'altro ieri.",
-          "I went there the day before yesterday.",
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bene",
+      "content": "alzato",
       "translations": [
-        "well",
-        "good",
-        "fine",
-        "okay"
+        "raised",
+        "lifted",
+        "elevated",
+        "upturned"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Sai giocare bene a pallacanestro?",
-          "Can you play basketball well?",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Nessuno qua balla bene come te.",
-          "Nobody here dances as well as you.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1143.json
           "Il sushi va bene, però io preferirei del cibo thailandese.",
           "Sushi is OK, but I'd prefer Thai food.",
+=======
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1064.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "oggi",
+      "content": "volume",
       "translations": [
-        "today",
-        "this day",
-        "on this day"
+        "amount of space occupied by a substance",
+        "measure of three-dimensional space",
+        "capacity of a container",
+        "quantity of sound or music"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "della",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "concerning the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1143.json
           "Voglio andare davvero al parco oggi.",
           "I really wanna go to the park today.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -98,6 +148,47 @@
           "L'ho vista al funerale oggi.",
           "I saw her at the funeral today.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Sami consegnò della pizza.",
+          "Sami delivered pizza.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io amo il suono della pioggia sul tetto.",
+          "I love the sound of rain on the roof.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa della sua salute.",
+          "Mary cares about her health.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "musica",
+      "translations": [
+        "music",
+        "musical piece",
+        "tune",
+        "song"
+      ],
+      "usageExamples": [
+        [
+          "Che musica ascoltate?",
+          "What music do you listen to?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken piace molto la musica.",
+          "Ken likes music very much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Robert piace la musica classica.",
+          "Robert likes classical music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1064.json
         ]
       ]
     }

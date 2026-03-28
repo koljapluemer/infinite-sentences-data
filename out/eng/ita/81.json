@@ -1,11 +1,11 @@
 {
-  "sentence": "A John piace scambiare francobolli con i suoi amici.",
+  "sentence": "A Jim è stata rubata la macchina fotografica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "John likes to trade stamps with his friends."
+    "Jim had his camera stolen."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/81.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,29 +30,69 @@
         [
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Jim",
+      "translations": [
+        "Jim",
+        "James"
+      ],
+      "usageExamples": [
+        [
+          "A Jim piace suonare la batteria.",
+          "Jim likes to play the drum.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Jim fu rubata la macchina fotografica.",
+          "Jim had his camera stolen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Jim piace il dottore.",
+          "Jim likes the doctor.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/56.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "John",
+      "content": "è",
       "translations": [
-        "John Doe",
-        "Johnny",
-        "J."
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "A John piace l'infermiera.",
-          "John likes the nurse.",
+          "Questo è un test?",
+          "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom chiese a Mary se lei si fidava di John.",
-          "Tom asked Mary if she trusted John.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/81.json
           "A John piacciono gli scacchi.",
           "John likes chess.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -100,41 +141,51 @@
         [
           "A John piace scambiare francobolli con le sue amiche.",
           "John likes to trade stamps with his friends.",
+=======
+          "Tom si è addolcito.",
+          "Tom relented.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/56.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "francobolli",
+      "content": "stata",
       "translations": [
-        "stamps",
-        "postage stamps",
-        "mail stamps",
-        "postal stamps"
+        "was",
+        "has been",
+        "was located",
+        "was situated"
       ],
       "usageExamples": [
         [
-          "Mi servono dei francobolli.",
-          "I need stamps.",
+          "È stata in piedi?",
+          "Did you stand up?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A John piace scambiare francobolli con le sue amiche.",
-          "John likes to trade stamps with his friends.",
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci sei già stata.",
+          "You have already been to Berlin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "con",
+      "content": "la",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/81.json
           "Sono fidanzata con lei.",
           "I'm engaged to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -142,30 +193,40 @@
         [
           "Era sposato con lei.",
           "He used to be married to her.",
+=======
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom acconsentì con riluttanza.",
-          "Tom reluctantly agreed.",
+          "Lui accese la radio.",
+          "He turned on the radio.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/56.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "i",
+      "content": "macchina",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "machine",
+        "car",
+        "device",
+        "engine"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Taxi, segui quella macchina.",
+          "Taxi, follow that car.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/81.json
           "Io odio i pesci rossi.",
           "I hate goldfish.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -174,28 +235,46 @@
           "A Mary piacciono i cavalli, vero?",
           "Mary likes horses, doesn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Mary fu rubata la macchina fotografica.",
+          "Mary had her camera stolen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha ritrovato per caso la macchina fotografica che aveva perso.",
+          "He found his lost camera by chance.",
+          "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/56.json
         ]
       ]
     },
     {
-      "content": "suoi",
+      "content": "fotografica",
       "translations": [
-        "his",
-        "her",
-        "its"
+        "photographic",
+        "camera-related",
+        "photo",
+        "photography"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/81.json
           "A Layla piacevano i suoi capelli naturali.",
           "Layla loved her natural hair.",
           "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
+=======
+          "A Mary fu rubata la macchina fotografica.",
+          "Mary had her camera stolen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/56.json
         ],
         [
-          "A Mary mancano i suoi genitori.",
-          "Mary misses her parents.",
+          "A Jim fu rubata la macchina fotografica.",
+          "Jim had his camera stolen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/81.json
           "A Mary mancavano i suoi figli.",
           "Mary missed her kids.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -225,6 +304,11 @@
           "A Mary mancavano i suoi amici.",
           "Mary missed her friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Ha ritrovato per caso la macchina fotografica che aveva perso.",
+          "He found his lost camera by chance.",
+          "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/56.json
         ]
       ]
     }

@@ -1,35 +1,53 @@
 {
-  "sentence": "Stavo per aiutare Tom.",
+  "sentence": "Stai facendo progressi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I was going to help Tom."
+    "You're making progress."
   ],
   "parts": [
     {
-      "content": "Stavo",
+      "content": "Stai",
       "translations": [
-        "I was",
-        "I used to be",
-        "I was being"
+        "You are",
+        "Stay.",
+        "Be",
+        "Remain"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "facendo",
+      "translations": [
+        "doing",
+        "making",
+        "performing",
+        "executing"
       ],
       "usageExamples": [
         [
-          "Stavo pensando di arruolarmi nell'esercito.",
-          "I was thinking about joining the army.",
+          "Mi sto facendo ricrescere la barba.",
+          "I'm growing a beard again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Faresti meglio ad andare. Si sta facendo tardi.",
+          "You'd better go. It's getting late.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "per",
+      "content": "progressi",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "progress",
+        "advancements",
+        "developments",
+        "improvements"
       ],
+<<<<<<< HEAD:out/eng/ita/968.json
       "usageExamples": [
         [
           "Hey, grazie per l'aiuto.",
@@ -97,6 +115,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/889.json
     }
   ]
 }

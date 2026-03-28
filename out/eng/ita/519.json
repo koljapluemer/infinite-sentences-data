@@ -1,11 +1,11 @@
 {
-  "sentence": "Io spero che Tom e Mary siano qui.",
+  "sentence": "Io sono solo curiosa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I hope Tom and Mary are here."
+    "I'm just curious."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/519.json
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,12 +25,17 @@
         [
           "Io sono una patata.",
           "I am a potato.",
+=======
+          "Io parlo bosniaco.",
+          "I speak Bosnian.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/440.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Io sono solo curiosa.",
           "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/519.json
         ]
       ]
     },
@@ -65,11 +71,18 @@
         [
           "Sembra che sia seria.",
           "She looks like she's serious.",
+=======
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/440.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/519.json
       "content": "Tom",
       "translations": [
         "Thomas",
@@ -146,26 +159,14 @@
     },
     {
       "content": "siano",
+=======
+      "content": "sono",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/440.json
       "translations": [
+        "I am.",
+        "you are",
         "they are",
-        "let them be",
-        "may they be"
-      ],
-      "usageExamples": [
-        [
-          "Non so se i padrini di mio figlio siano ancora vivi.",
-          "I don't know if my son's godparents are still alive.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "qui",
-      "translations": [
-        "who",
-        "that",
-        "which",
-        "whom"
+        "we are"
       ],
       "usageExamples": [
         [
@@ -174,8 +175,18 @@
           "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/519.json
           "Erano proprio qui.",
           "They were right here.",
+=======
+          "Tutte sono felici.",
+          "All are happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/440.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -184,6 +195,42 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "solo",
+      "translations": [
+        "alone",
+        "only",
+        "just",
+        "single"
+      ],
+      "usageExamples": [
+        [
+          "Bevo solo caffè decaffeinato.",
+          "I only drink decaffeinated coffee.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi lasciare qui da solo.",
+          "Don't leave me here alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importava solo di se stessa.",
+          "Mary only cared about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "curiosa",
+      "translations": [
+        "curiosities",
+        "oddities",
+        "novelties",
+        "fascinating items"
+      ],
+      "usageExamples": []
     }
   ]
 }

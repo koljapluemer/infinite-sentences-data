@@ -1,22 +1,23 @@
 {
-  "sentence": "Mi descriva Tom.",
+  "sentence": "Mary vuole che i suoi genitori le comprino un pony.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Describe Tom to me."
+    "Mary wants her parents to buy her a pony."
   ],
   "parts": [
     {
-      "content": "Mi",
+      "content": "Mary",
       "translations": [
-        "Me",
-        "I",
-        "Myself"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/659.json
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,33 +25,202 @@
         [
           "Mi piace il reggae.",
           "I like reggae.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/580.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/659.json
+=======
+        ],
+        [
+          "Tom è aggressivo, ma Mary non lo è.",
+          "Tom is aggressive, but Mary isn't.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/580.json
+        ]
+      ]
+    },
+    {
+      "content": "vuole",
+      "translations": [
+        "wants",
+        "desires",
+        "wishes",
+        "intends"
+      ],
+      "usageExamples": [
+        [
+          "Non vuole fermarla.",
+          "He doesn't want to stop her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "descriva",
+      "content": "che",
       "translations": [
-        "describe",
-        "depict",
-        "portray",
-        "outline"
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non leggo molto i giornali.",
+          "I don't read newspapers much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
+          "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suoi",
+      "translations": [
+        "his",
+        "her",
+        "its"
+      ],
+      "usageExamples": [
+        [
+          "Mi scuso se ho ferito i suoi sentimenti.",
+          "I apologize if I hurt your feelings.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
+          "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla piacevano i suoi capelli naturali.",
+          "Layla loved her natural hair.",
+          "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "genitori",
+      "translations": [
+        "parents",
+        "guardians",
+        "caregivers",
+        "progenitors"
+      ],
+      "usageExamples": [
+        [
+          "I miei genitori abitano in una casa grande.",
+          "My parents live in a big house.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io amo i miei genitori.",
+          "I love my parents.",
+          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le dispute dei suoi genitori riecheggiavano nella sua mente, facendolo piangere disperatamente.",
+          "His parents' disputes echoed in his mind, making him cry helplessly.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
+      ],
+      "usageExamples": [
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "I contadini più stupidi hanno le patate più grandi.",
+          "The dumbest farmers have the biggest potatoes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "comprino",
+      "translations": [
+        "I buy",
+        "I purchase",
+        "I acquire",
+        "I get"
       ],
       "usageExamples": []
     },
     {
-      "content": "Tom",
+      "content": "un",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/659.json
           "Restiamo con Tom.",
           "Let's stay with Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -63,9 +233,32 @@
         [
           "Tom è un fan.",
           "Tom is a fan.",
+=======
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/580.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "pony",
+      "translations": [
+        "small horse",
+        "young horse",
+        "miniature horse"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,23 +1,24 @@
 {
-  "sentence": "La città russa Togliatti è stata nominata in onore del comunista italiano Palmiro Togliatti.",
+  "sentence": "L'ho vista al funerale oggi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The Russian city Togliatti was named in honor of the Italian communist Palmiro Togliatti."
+    "I saw her at the funeral today."
   ],
   "parts": [
     {
-      "content": "La",
+      "content": "L'ho",
       "translations": [
-        "The",
-        "It",
-        "Her",
-        "Them"
+        "I have it",
+        "I've got it",
+        "I possess it",
+        "I own it"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/545.json
           "La detesta assolutamente.",
           "He absolutely detests her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -31,26 +32,41 @@
           "La matematica è divertente.",
           "Math is fun.",
           "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+=======
+          "L'ho usata quando ero in Cina la scorsa estate.",
+          "I used it when I was in China last summer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'ho conosciuto a una festa.",
+          "I met him at a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/466.json
         ]
       ]
     },
     {
-      "content": "città",
+      "content": "vista",
       "translations": [
-        "city",
-        "town",
-        "urban area",
-        "metropolis"
+        "view",
+        "sight",
+        "perspective",
+        "outlook"
       ],
       "usageExamples": [
         [
-          "Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firenze.",
-          "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/545.json
           "La nostra scuola è nel mezzo della città.",
           "Our school is in the middle of the city.",
+=======
+          "Il falco ha la vista acuta.",
+          "The falcon has keen eyes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/466.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,39 +77,50 @@
       ]
     },
     {
-      "content": "russa",
+      "content": "al",
       "translations": [
-        "Russian",
-        "red-haired",
-        "red"
+        "to the",
+        "at the",
+        "in the",
+        "for the"
       ],
       "usageExamples": [
         [
-          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
-          "\"Where's your girlfriend from?\" \"She's Russian.\"",
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Togliatti",
+      "content": "funerale",
       "translations": [
-        "Togliatti city",
-        "Togliatti town",
-        "Togliatti municipality"
+        "funeral",
+        "burial service",
+        "memorial service"
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "oggi",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "today",
+        "this day",
+        "on this day"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/545.json
           "Tom si è divertito.",
           "Tom enjoyed himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -240,6 +267,23 @@
         "Palm-related"
       ],
       "usageExamples": []
+=======
+          "È andata bene oggi?",
+          "Did it go well today?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo devo fare prima di potere andare a casa oggi.",
+          "I have to do that before I can go home today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il Museo del Prado è chiuso perché oggi è lunedì.",
+          "The Prado Museum is closed because today is Monday.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/466.json
     }
   ]
 }

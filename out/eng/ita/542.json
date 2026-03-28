@@ -1,22 +1,64 @@
 {
-  "sentence": "L'unica risposta era la guerra.",
+  "sentence": "L'ha salvata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The only answer was war."
+    "He rescued her."
   ],
   "parts": [
     {
-      "content": "L'unica",
+      "content": "L'",
       "translations": [
-        "The only one",
-        "The unique one",
-        "The sole one",
-        "The one and only"
+        "The",
+        "It",
+        "This",
+        "That"
+      ],
+      "usageExamples": [
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già finito?",
+          "Are you done yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "salvata",
+      "translations": [
+        "saved",
+        "rescued",
+        "preserved",
+        "spared"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/542.json
     },
     {
       "content": "risposta",
@@ -121,6 +163,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/463.json
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "A Judy piace.",
+  "sentence": "A John piace scambiare francobolli con le sue amiche.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Judy likes him."
+    "John likes to trade stamps with his friends."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/85.json
           "A John piace l'infermiera.",
           "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,19 +31,45 @@
           "A Fadil piaceva sciare.",
           "Fadil liked to ski.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/60.json
         ]
       ]
     },
     {
-      "content": "Judy",
+      "content": "John",
       "translations": [
-        "Judy",
-        "Judith"
+        "John Doe",
+        "Johnny",
+        "J."
       ],
       "usageExamples": [
         [
-          "A Judy piace lui.",
-          "Judy likes him.",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Bill e John piace ritrovarsi una volta al mese per scambiare due chiacchiere.",
+          "Bill and John like to get together once a month to chat.",
+          "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
+        ],
+        [
+          "Guardai John e Mary camminare mano nella mano.",
+          "I watched John and Mary walking hand in hand.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -61,13 +88,140 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/85.json
           "A John piace l'infermiera.",
           "John likes the nurse.",
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/60.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
+<<<<<<< HEAD:out/eng/ita/85.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "francobolli",
+      "translations": [
+        "stamps",
+        "postage stamps",
+        "mail stamps",
+        "postal stamps"
+      ],
+      "usageExamples": [
+        [
+          "Mi servono dei francobolli.",
+          "I need stamps.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace scambiare francobolli con i suoi amici.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
+      ],
+      "usageExamples": [
+        [
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono fidanzata con lei.",
+          "I'm engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
+      ],
+      "usageExamples": [
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano le sue amiche.",
+          "Mary missed her friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sue",
+      "translations": [
+        "to sue",
+        "to file a lawsuit",
+        "to take legal action against"
+      ],
+      "usageExamples": [
+        [
+          "Mary era circondata dalle sue amiche.",
+          "Mary was surrounded by her friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non è mai online, neanche durante le sue vacanze.",
+          "She is never online, even during her vacation.",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le sue parole mi resero senza parole.",
+          "His words rendered me speechless.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "amiche",
+      "translations": [
+        "friends",
+        "girlfriends",
+        "female friends",
+        "buddies"
+      ],
+      "usageExamples": [
+        [
+          "A Mary mancavano le sue amiche.",
+          "Mary missed her friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary era circondata dalle sue amiche.",
+          "Mary was surrounded by her friends.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/60.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

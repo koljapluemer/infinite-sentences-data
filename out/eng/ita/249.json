@@ -1,33 +1,43 @@
 {
-  "sentence": "Apprezzo la tua onestà.",
+  "sentence": "Alcune scuole devono far fronte a tagli al bilancio.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I appreciate your honesty."
+    "Some schools face budget cuts."
   ],
   "parts": [
     {
-      "content": "Apprezzo",
+      "content": "Alcune",
       "translations": [
-        "I appreciate",
-        "I value",
-        "I cherish",
-        "I admire"
+        "Some",
+        "A few",
+        "Several",
+        "A number of"
       ],
       "usageExamples": []
     },
     {
-      "content": "la",
+      "content": "scuole",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "schools",
+        "educational institutions",
+        "learning centers",
+        "academic establishments"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "devono",
+      "translations": [
+        "they must",
+        "they have to",
+        "they need to",
+        "they are required to"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/249.json
           "Sento la primavera nell'aria.",
           "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,25 +50,30 @@
         [
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
+=======
+          "So che Tom e Mary devono andare a Boston.",
+          "I know Tom and Mary have to go to Boston.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/170.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tua",
+      "content": "far",
       "translations": [
-        "your",
-        "yours",
-        "of you",
-        "belonging to you"
+        "to do",
+        "to make",
+        "to cause",
+        "to perform"
       ],
       "usageExamples": [
         [
-          "La tua religione non mi interessa.",
-          "Your religion does not interest me.",
+          "A Jane piaceva far credere che fosse un insegnante.",
+          "Jane liked to make believe she was a teacher.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/249.json
           "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
           "\"Where's your girlfriend from?\" \"She's Russian.\"",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,17 +81,98 @@
         [
           "Tu lasceresti tua moglie per me?",
           "Would you leave your wife for me?",
+=======
+          "A Jane piaceva far credere che lei fosse un insegnante.",
+          "Jane liked to make believe she was a teacher.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/170.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "onestà",
+      "content": "fronte",
       "translations": [
-        "honesty",
-        "integrity",
-        "uprightness",
-        "truthfulness"
+        "forehead",
+        "front",
+        "face",
+        "frontline"
+      ],
+      "usageExamples": [
+        [
+          "Hanno perso la guerra sul fronte orientale.",
+          "They lost the war on the eastern front.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tagli",
+      "translations": [
+        "cuts",
+        "slices",
+        "sections",
+        "pieces"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the",
+        "for the"
+      ],
+      "usageExamples": [
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bilancio",
+      "translations": [
+        "balance",
+        "financial statement",
+        "budget",
+        "accounts"
       ],
       "usageExamples": []
     }

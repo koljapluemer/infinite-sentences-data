@@ -1,11 +1,11 @@
 {
-  "sentence": "Il tempo è finito.",
+  "sentence": "Il padre di Tom gli ha insegnato a conoscere le stelle.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Time is up."
+    "Tom's father taught him about the stars."
   ],
   "parts": [
     {
@@ -15,6 +15,11 @@
         "It"
       ],
       "usageExamples": [
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Il cane scodinzolava.",
           "The dog wagged its tail.",
@@ -29,18 +34,49 @@
           "Il gatto mangia.",
           "The cat eats.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/458.json
+=======
         ]
       ]
     },
     {
-      "content": "tempo",
+      "content": "padre",
       "translations": [
-        "time",
-        "weather",
-        "period"
+        "father",
+        "dad",
+        "papa",
+        "parent"
       ],
       "usageExamples": [
         [
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È fiera di suo padre?",
+          "Are you proud of your father?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/379.json
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/458.json
           "Quanto tempo ci è voluto per tradurre questo libro?",
           "How long did it take us to translate this book?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -53,20 +89,33 @@
         [
           "Era una corsa contro il tempo.",
           "It was a race against time.",
+=======
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/379.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "Tom",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/458.json
           "Questo è un test?",
           "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,27 +129,163 @@
           "La matematica è divertente.",
           "Math is fun.",
           "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+=======
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "finito",
+      "content": "gli",
       "translations": [
-        "finished",
-        "done",
-        "completed",
-        "over"
+        "the",
+        "them",
+        "those"
       ],
       "usageExamples": [
         [
-          "Lei ha già finito?",
-          "Have you finished yet?",
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
+          "My eyes were full of tears and I could barely see him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "'Aspetta qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da te immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/379.json
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/458.json
+          "Lei ha già finito?",
+          "Have you finished yet?",
+=======
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/379.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "insegnato",
+      "translations": [
+        "taught",
+        "instructed",
+        "educated",
+        "trained"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "conoscere",
+      "translations": [
+        "to know",
+        "to be acquainted with",
+        "to recognize",
+        "to understand"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "le",
+      "translations": [
+        "the",
+        "them",
+        "to them",
+        "for them"
+      ],
+      "usageExamples": [
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi fa piacere che le piaccia.",
+          "I'm glad you like it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stelle",
+      "translations": [
+        "stars",
+        "constellations",
+        "celestial bodies",
+        "heavenly bodies"
+      ],
+      "usageExamples": [
+        [
+          "Questo ristorante ha tre stelle Michelin.",
+          "This restaurant has three Michelin stars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

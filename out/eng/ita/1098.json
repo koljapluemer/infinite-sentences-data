@@ -1,44 +1,78 @@
 {
-  "sentence": "Vado ora a iscrivermi a un corso di tedesco.",
+  "sentence": "Un cane ha corso.",
   "credits": [
-    "Sentence from Tatoeba by xicotenga (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ryanwhiting (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Miktsoanit (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm going to sign up for a German class right now."
+    "A dog ran."
   ],
   "parts": [
     {
-      "content": "Vado",
+      "content": "Un",
       "translations": [
-        "I go",
-        "I'm going.",
-        "I am going.",
-        "I will go."
+        "One",
+        "A",
+        "An"
       ],
       "usageExamples": [
         [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
+          "Un linguaggio non è mai abbastanza.",
+          "One language is never enough.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un crimine è stato commesso.",
+          "A crime has been committed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
+          "A son would represent continuity in a rapidly changing world.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cane",
+      "translations": [
+        "dog",
+        "walking stick",
+        "rod"
+      ],
+      "usageExamples": [
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, faccia un bagno al cane.",
+          "Please give the dog a bath.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ora",
+      "content": "ha",
       "translations": [
-        "now",
-        "hour",
-        "time",
-        "moment"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1098.json
           "Io preferirei non discuterne ora.",
           "I'd rather not discuss it now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -105,6 +139,15 @@
         [
           "Vedemmo un lupo.",
           "We saw a wolf.",
+=======
+          "Lei ha già finito?",
+          "Have you finished yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1019.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -124,9 +167,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Un cane ha corso.",
-          "A dog ran.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Vado ora a iscrivermi a un corso di tedesco.",
+          "I'm going to sign up for a German class right now.",
+          "Sentence from Tatoeba by xicotenga (CC-BY 2.0 FR)"
         ],
         [
           "Tom è corso ad aiutare Mary.",
@@ -134,6 +177,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+<<<<<<< HEAD:out/eng/ita/1098.json
     },
     {
       "content": "di",
@@ -169,6 +213,8 @@
         "Germanic"
       ],
       "usageExamples": []
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1019.json
     }
   ]
 }

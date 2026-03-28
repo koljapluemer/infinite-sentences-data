@@ -1,28 +1,29 @@
 {
-  "sentence": "Lui ama parlare con la gente.",
+  "sentence": "Loro ci aiutano.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Aghanim (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He loves talking to people."
+    "They help us."
   ],
   "parts": [
     {
-      "content": "Lui",
+      "content": "Loro",
       "translations": [
-        "Him",
-        "He",
-        "That guy",
-        "This man"
+        "parrots",
+        "them",
+        "they",
+        "you all"
       ],
       "usageExamples": [
         [
-          "Lui sembra un delinquente.",
-          "He looks like a gangster.",
+          "Loro l'hanno fatta davvero.",
+          "They really did it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/620.json
           "Lui studiò economia all'università.",
           "He studied economics at college.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,34 +31,54 @@
         [
           "Lui accese la radio.",
           "He turned on the radio.",
+=======
+          "Loro stanno parlando di lei?",
+          "Are they talking about you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Loro sono fratello e sorella.",
+          "They're brother and sister.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/541.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ama",
+      "content": "ci",
       "translations": [
-        "love",
-        "to love",
-        "to care for",
-        "to cherish"
+        "us",
+        "to us",
+        "for us",
+        "at us"
       ],
       "usageExamples": [
         [
-          "Ziri ama i gatti siamesi.",
-          "Ziri loves Siamese cats.",
+          "Lei ci catturerà.",
+          "She will catch us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Con chi ci andrà?",
+          "Who are you going with?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "parlare",
+      "content": "aiutano",
       "translations": [
-        "to speak",
-        "to talk",
-        "to converse",
-        "to communicate"
+        "they help",
+        "they assist",
+        "they aid",
+        "they support"
       ],
+<<<<<<< HEAD:out/eng/ita/620.json
       "usageExamples": [
         [
           "Voglio parlare con te da sola.",
@@ -148,6 +169,9 @@
           "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/541.json
     }
   ]
 }

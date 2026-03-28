@@ -1,10 +1,11 @@
 {
-  "sentence": "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
+  "sentence": "Il pane la sta bruciando.",
   "credits": [
-    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by helloroto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The train is taking off and we haven't bought our tickets!"
+    "The bread is burning you."
   ],
   "parts": [
     {
@@ -15,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/459.json
           "Il cambiamento è spaventoso.",
           "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -23,24 +25,45 @@
           "Il gatto mangia.",
           "The cat eats.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/380.json
         ],
         [
           "Il cane scodinzolava.",
           "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "treno",
+      "content": "pane",
       "translations": [
-        "train",
-        "railway",
-        "locomotive",
-        "train service"
+        "bread",
+        "loaf",
+        "baked good",
+        "roll"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/459.json
           "Siamo arrivati ieri in treno.",
           "We arrived yesterday afternoon by train.",
           "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
@@ -53,6 +76,20 @@
         [
           "Non so se lui verrà in treno o in auto.",
           "I don't know whether he'll come by train or by car.",
+=======
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/380.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -67,8 +104,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/459.json
           "Cosa la sta causando?",
           "What's causing it?",
+=======
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/380.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -77,15 +119,21 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/459.json
           "Li sta confondendo.",
           "You're confusing them.",
+=======
+          "Cosa la sta causando?",
+          "What's causing it?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/380.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "partendo",
+      "content": "bruciando",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/459.json
         "departing",
         "leaving",
         "setting off",
@@ -260,6 +308,12 @@
         "passes",
         "vouchers",
         "entries"
+=======
+        "burning",
+        "on fire",
+        "scorching",
+        "blazing"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/380.json
       ],
       "usageExamples": []
     }

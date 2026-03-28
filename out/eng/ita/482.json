@@ -1,11 +1,11 @@
 {
-  "sentence": "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
+  "sentence": "Io ho preparato dello spezzatino.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I plan to go to Kumamoto tomorrow to see Mr. Aoi."
+    "I've made stew."
   ],
   "parts": [
     {
@@ -17,14 +17,20 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/482.json
           "Io sono solo curiosa.",
           "I'm just curious.",
+=======
+          "Io sono una patata.",
+          "I am a potato.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/403.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Io l'ho comprata.",
           "I bought it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/482.json
         ],
         [
           "Io sto diventando piccolo!",
@@ -193,42 +199,99 @@
           "Lasci andare il ragazzo.",
           "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/403.json
         ],
         [
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/482.json
         ],
         [
           "Avete il nostro rispetto.",
           "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/403.json
         ]
       ]
     },
     {
-      "content": "signor",
+      "content": "ho",
       "translations": [
-        "mister",
-        "sir",
-        "gentleman",
-        "lord"
+        "I have",
+        "I've got",
+        "I possess",
+        "I own"
       ],
       "usageExamples": [
         [
-          "Il signor Jones crede nel duro lavoro e nei profitti.",
-          "Mr Jones believes in hard work and profits.",
+          "Io l'ho comprata.",
+          "I bought it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ho voglia di uscire.",
+          "I feel like going out.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Aoi",
+      "content": "preparato",
       "translations": [
-        "Blue",
-        "Azure",
-        "Indigo",
-        "Teal"
+        "prepared",
+        "ready",
+        "set up",
+        "arranged"
+      ],
+      "usageExamples": [
+        [
+          "Mary ha preparato la colazione.",
+          "Mary made breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "by the"
+      ],
+      "usageExamples": [
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "spezzatino",
+      "translations": [
+        "stew",
+        "braised meat",
+        "meat stew",
+        "chunked meat dish"
       ],
       "usageExamples": []
     }

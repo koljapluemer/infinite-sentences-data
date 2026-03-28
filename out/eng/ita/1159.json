@@ -1,11 +1,11 @@
 {
-  "sentence": "È peggio di quanto pensa.",
+  "sentence": "È intelligente quanto sua sorella.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's worse than you think."
+    "He's as smart as his sister."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1159.json
           "È un nuovo libro.",
           "It's a new book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,6 +26,15 @@
         [
           "È scoraggiata, vero?",
           "She's discouraged, isn't she?",
+=======
+          "È scoraggiata, vero?",
+          "She's discouraged, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È mio nemico.",
+          "He is my enemy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1080.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,25 +45,16 @@
       ]
     },
     {
-      "content": "peggio",
+      "content": "intelligente",
       "translations": [
-        "worse",
-        "badly",
-        "more poorly",
-        "less good"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "intelligent",
+        "smart",
+        "clever",
+        "bright"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1159.json
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
@@ -67,6 +68,11 @@
           "Cos'hai contro di lui?",
           "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "L'astronauta ha trovato un organismo intelligente.",
+          "The astronaut found an intelligent organism.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1080.json
         ]
       ]
     },
@@ -80,6 +86,11 @@
       ],
       "usageExamples": [
         [
+          "È peggio di quanto pensa.",
+          "It's worse than you think.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Lei è più bella di quanto immaginassi.",
           "You're more beautiful than I imagined.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -88,23 +99,55 @@
           "Ha offerto più di quanto ci si potesse aspettare.",
           "He offered more than could be expected.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ],
         [
-          "È intelligente quanto sua sorella.",
-          "He's as smart as his sister.",
+          "A Mary manca la sua scarpa destra.",
+          "Mary is missing her right shoe.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary deve mancare la sua famiglia.",
+          "Mary must miss her family.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pensa",
+      "content": "sorella",
       "translations": [
-        "think",
-        "consider",
-        "ponder",
-        "reflect"
+        "sister",
+        "female sibling",
+        "sororal figure",
+        "sisterly relation"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Loro sono fratello e sorella.",
+          "They're brother and sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Riuscite a distinguere Jane dalla sua sorella gemella?",
+          "Can you tell Jane from her twin sister?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

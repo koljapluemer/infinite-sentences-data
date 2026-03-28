@@ -1,16 +1,17 @@
 {
-  "sentence": "Spesso un gesto vale più di mille parole.",
+  "sentence": "Sono stati assassinati.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "One gesture is often worth more than a thousand words."
+    "They were murdered."
   ],
   "parts": [
     {
-      "content": "Spesso",
+      "content": "Sono",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/959.json
         "often",
         "frequently",
         "many times",
@@ -56,18 +57,46 @@
         "sign",
         "motion",
         "signal"
+=======
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/880.json
       ],
       "usageExamples": []
     },
     {
-      "content": "vale",
+      "content": "stati",
       "translations": [
-        "be well",
-        "farewell",
-        "goodbye",
-        "take care"
+        "were",
+        "have been",
+        "stood",
+        "remained"
+      ],
+      "usageExamples": [
+        [
+          "2.200 dollari sono stati stanziati per le spese.",
+          "2200 dollars have been allocated for expenses.",
+          "Sentence from Tatoeba by bruno_b (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci siete già stati.",
+          "You have already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "assassinati",
+      "translations": [
+        "assassinated",
+        "murdered",
+        "killed",
+        "executed"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/959.json
     },
     {
       "content": "più",
@@ -151,6 +180,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/880.json
     }
   ]
 }

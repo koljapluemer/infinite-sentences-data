@@ -1,23 +1,24 @@
 {
-  "sentence": "Non bevete il caffè?",
+  "sentence": "Noi terremo una festa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by araneo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you not drink coffee?"
+    "We'll have a party."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Noi",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
+        "We",
+        "Us",
+        "Ours",
+        "Our group"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/702.json
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,30 +31,45 @@
         [
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
+=======
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/623.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bevete",
+      "content": "terremo",
       "translations": [
-        "drink",
-        "you drink",
-        "drink up",
-        "have a drink"
+        "I tremble",
+        "I shake",
+        "I quake",
+        "I shudder"
       ],
       "usageExamples": []
     },
     {
-      "content": "il",
+      "content": "una",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/702.json
           "Mi piace il reggae.",
           "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,25 +82,40 @@
         [
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una maledizione.",
+          "It's a curse.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/623.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "caffè",
+      "content": "festa",
       "translations": [
-        "coffee",
-        "café",
-        "espresso",
-        "java"
+        "party",
+        "celebration",
+        "feast",
+        "festival"
       ],
       "usageExamples": [
         [
-          "Bevo solo caffè decaffeinato.",
-          "I only drink decaffeinated coffee.",
+          "Mi sono divertita davvero alla festa.",
+          "I really enjoyed myself at the party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/702.json
           "Che ne dite di un po' di caffè?",
           "How about some coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -93,6 +124,16 @@
           "Vieni in Albania, dove trovi sempre del caffè ottimo.",
           "Come to Albania, where we always make good coffee.",
           "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+=======
+          "SI tenne una festa d'addio in onore del sig. Smith.",
+          "A farewell party was held in honor of Mr Smith.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla è piaciuta la festa.",
+          "Layla liked the party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/623.json
         ]
       ]
     }

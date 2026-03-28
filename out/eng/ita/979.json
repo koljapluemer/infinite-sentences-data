@@ -1,28 +1,44 @@
 {
-  "sentence": "Ti è piaciuto Tom?",
+  "sentence": "Suggerirei di inserire una virgola.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you like Tom?"
+    "I'd suggest inserting a comma."
   ],
   "parts": [
     {
-      "content": "Ti",
+      "content": "Suggerirei",
       "translations": [
-        "You",
-        "To you",
-        "For you",
-        "Yourself"
+        "I would suggest",
+        "I would recommend",
+        "I suggest",
+        "I recommend"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Ti darò questa biro.",
-          "I'll give you this pen.",
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/979.json
           "Ti compro un regalo.",
           "I buy you a present.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,20 +46,35 @@
         [
           "Ti ho visto sbadigliare.",
           "I saw you yawning.",
+=======
+          "Mi importa di lei.",
+          "I care about her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/900.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "inserire",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "insert",
+        "add",
+        "include",
+        "put in"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/979.json
           "Tom è ovviamente arrabbiato.",
           "Tom is obviously angry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -57,17 +88,33 @@
           "Tom si è nascosto.",
           "Tom hid.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+=======
+          "Noi terremo una festa.",
+          "We'll have a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorreste una ricevuta?",
+          "Would you like a receipt?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/900.json
         ]
       ]
     },
     {
-      "content": "piaciuto",
+      "content": "virgola",
       "translations": [
-        "liked",
-        "pleased",
-        "enjoyed",
-        "appreciated"
+        "comma",
+        "virgule",
+        "punctuation mark",
+        "separator"
       ],
+<<<<<<< HEAD:out/eng/ita/979.json
       "usageExamples": [
         [
           "A Benedito è piaciuto il suo viaggio in India.",
@@ -109,6 +156,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/900.json
     }
   ]
 }

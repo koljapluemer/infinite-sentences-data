@@ -1,23 +1,24 @@
 {
-  "sentence": "Lui abita al piano sopra al mio.",
+  "sentence": "Lo mostreremo a lei.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He lives on the floor above mine."
+    "We'll show her."
   ],
   "parts": [
     {
-      "content": "Lui",
+      "content": "Lo",
       "translations": [
+        "It",
         "Him",
-        "He",
-        "That guy",
-        "This man"
+        "Them",
+        "That"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/618.json
           "Lui sembra un delinquente.",
           "He looks like a gangster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,18 +26,28 @@
         [
           "Lui accese la radio.",
           "He turned on the radio.",
+=======
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui studiò economia all'università.",
-          "He studied economics at college.",
+          "Lo hanno aiutato.",
+          "They helped him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/539.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo decorò.",
+          "She decorated it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "abita",
+      "content": "mostreremo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/618.json
         "lives",
         "resides",
         "dwells",
@@ -103,19 +114,25 @@
         "on top of",
         "over",
         "upstairs"
+=======
+        "we will show",
+        "we will demonstrate",
+        "we will display",
+        "we will present"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/539.json
       ],
       "usageExamples": []
     },
     {
-      "content": "mio",
+      "content": "a",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/618.json
           "È mio nemico.",
           "He is my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -128,6 +145,45 @@
         [
           "È il mio problema con lui.",
           "That's my problem with him.",
+=======
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lei",
+      "translations": [
+        "she",
+        "you (formal)",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Sono fidanzata con lei.",
+          "I'm engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/539.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

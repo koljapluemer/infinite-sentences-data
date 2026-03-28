@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary è un'allenatrice molto brava, vero?",
+  "sentence": "Mary spera di poter vincere.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is a very good coach, isn't she?"
+    "Mary hopes that she can win."
   ],
   "parts": [
     {
@@ -22,6 +22,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/657.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,13 +30,18 @@
         [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
+=======
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/578.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "spera",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/657.json
         "it is",
         "there is",
         "he is",
@@ -91,19 +97,26 @@
         "trainer",
         "instructor",
         "facilitator"
+=======
+        "hope",
+        "expectation",
+        "wish",
+        "trust"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/578.json
       ],
       "usageExamples": []
     },
     {
-      "content": "molto",
+      "content": "di",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/657.json
           "È molto bello rivedervi.",
           "It is very nice to see you again.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -117,17 +130,33 @@
           "Vi manca molto, vero?",
           "You miss her a lot, don't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/578.json
         ]
       ]
     },
     {
-      "content": "brava",
+      "content": "poter",
       "translations": [
-        "brave",
-        "good",
-        "well done",
-        "excellent"
+        "to be able",
+        "can",
+        "to have the ability",
+        "to be capable of"
       ],
+<<<<<<< HEAD:out/eng/ita/657.json
       "usageExamples": [
         [
           ". È molto brava a risolvere enigmi.",
@@ -145,15 +174,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/578.json
     },
     {
-      "content": "vero",
+      "content": "vincere",
       "translations": [
-        "true",
-        "indeed",
-        "in fact",
-        "certainly"
+        "to win",
+        "to conquer",
+        "to defeat",
+        "to overcome"
       ],
+<<<<<<< HEAD:out/eng/ita/657.json
       "usageExamples": [
         [
           "Siete piuttosto timidi, vero?",
@@ -171,6 +204,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/578.json
     }
   ]
 }

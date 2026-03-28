@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary mi disse che non aveva fame.",
+  "sentence": "Mary ha aspettato che Tom la chiamasse.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary told me that she wasn't hungry."
+    "Mary has been waiting for Tom to call her."
   ],
   "parts": [
     {
@@ -17,11 +17,14 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/645.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/566.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,25 +32,33 @@
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
+<<<<<<< HEAD:out/eng/ita/645.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary è una rammollita, vero?",
+          "Mary is a wimp, isn't she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/566.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mi",
+      "content": "ha",
       "translations": [
-        "me",
-        "myself",
-        "to me",
-        "for me"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/645.json
           "Tom mi ha detto che eravate felici.",
           "Tom told me you were happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,18 +66,28 @@
         [
           "Non mi lasciare qui da solo.",
           "Don't leave me here alone.",
+=======
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/566.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "disse",
+      "content": "aspettato",
       "translations": [
-        "said",
-        "told",
-        "stated",
-        "declared"
+        "waited",
+        "expected",
+        "anticipated",
+        "looked forward to"
       ],
+<<<<<<< HEAD:out/eng/ita/645.json
       "usageExamples": [
         [
           "Tom disse che era divertito.",
@@ -84,6 +105,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/566.json
     },
     {
       "content": "che",
@@ -100,6 +124,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/645.json
           "Sembra che sia seria.",
           "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,20 +132,28 @@
         [
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/566.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "Tom",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/645.json
           "Preferirei non farlo.",
           "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -133,43 +166,63 @@
         [
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/566.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aveva",
+      "content": "la",
       "translations": [
-        "had",
-        "was having",
-        "used to have",
-        "possessed"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Non aveva ciò che le serviva.",
-          "She didn't have what she needed.",
+          "Prendi la mia.",
+          "Take mine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/645.json
           "Tom aveva sete e ha chiesto un po' d'acqua.",
           "Tom was thirsty and asked for some water.",
+=======
+          "Lui accese la radio.",
+          "He turned on the radio.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/566.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non aveva nulla a che fare con tutto quello.",
-          "Tom had nothing to do with any of that.",
+          "Cosa la sta causando?",
+          "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fame",
+      "content": "chiamasse",
       "translations": [
-        "hunger",
-        "appetite",
-        "starvation"
+        "he/she/it would call",
+        "he/she/it might call",
+        "he/she/it was calling"
       ],
+<<<<<<< HEAD:out/eng/ita/645.json
       "usageExamples": [
         [
           "Tom mi chiese se avevo fame.",
@@ -187,6 +240,9 @@
           "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/566.json
     }
   ]
 }

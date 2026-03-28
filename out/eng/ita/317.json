@@ -1,33 +1,86 @@
 {
-  "sentence": "Deve essere difficile.",
+  "sentence": "Cosa può dirci riguardo a questo dipinto?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That must be hard."
+    "What can you tell us about this painting?"
   ],
   "parts": [
     {
-      "content": "Deve",
+      "content": "Cosa",
       "translations": [
-        "must",
-        "has to",
-        "needs to",
-        "should"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
+      ],
+      "usageExamples": [
+        [
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "può",
+      "translations": [
+        "can",
+        "may",
+        "is able to",
+        "is allowed to"
+      ],
+      "usageExamples": [
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse Tom lo può fare.",
+          "Perhaps Tom can do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Camminare regolarmente può aiutarmi a mantenere un peso sano e a prevenire l'aumento di peso.",
+          "Regular walking can help me maintain a healthy weight and prevent weight gain.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dirci",
+      "translations": [
+        "to say to us",
+        "to tell us",
+        "to inform us",
+        "to speak to us"
       ],
       "usageExamples": []
     },
     {
-      "content": "essere",
+      "content": "riguardo",
       "translations": [
-        "to be",
-        "to exist",
-        "to occur",
-        "to happen"
+        "regarding",
+        "concerning",
+        "in relation to",
+        "about"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/317.json
           "Mary dice di essere troppo stanca oggi per aiutare.",
           "Mary says she's too tired today to help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,30 +93,84 @@
         [
           "Grazie per essere state con lui.",
           "Thanks for staying with him.",
+=======
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sa come si sente Mary a riguardo.",
+          "Tom knows how Mary feels about that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ho obiezioni a riguardo.",
+          "I don't have any objection to that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/238.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "difficile",
+      "content": "a",
       "translations": [
-        "difficult",
-        "hard",
-        "challenging",
-        "tough"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "È difficile per me dipendere da te.",
-          "It's hard for me to depend on you.",
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È difficile restare calmi quando le scadenze vengono ignorate.",
-          "It's hard to stay calm when deadlines are ignored.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "questo",
+      "translations": [
+        "this",
+        "this one",
+        "this thing",
+        "this item"
+      ],
+      "usageExamples": [
+        [
+          "Inscatola questo.",
+          "Box this up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prenda questo denaro.",
+          "Take this money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Trasporti questo.",
+          "Carry this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dipinto",
+      "translations": [
+        "painted",
+        "painting",
+        "depicted",
+        "illustrated"
+      ],
+      "usageExamples": []
     }
   ]
 }

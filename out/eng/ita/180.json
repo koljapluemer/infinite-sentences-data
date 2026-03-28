@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary piacciono anche le banane.",
+  "sentence": "A Mary non piaceva il suo sandwich.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary also likes bananas."
+    "Mary didn't like her sandwich."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/180.json
           "A Judy piace.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,6 +30,20 @@
         [
           "A quale proposito?",
           "For what purpose?",
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/141.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -47,6 +62,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/180.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,19 +70,26 @@
         [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
+=======
+          "Tom e Mary non erano feriti.",
+          "Tom and Mary weren't injured.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/141.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piacciono",
+      "content": "non",
       "translations": [
-        "they like",
-        "are pleasing to them",
-        "they are liked by them"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/180.json
           "A Henrietta non piacciono i gatti.",
           "Henrietta doesn't like cats.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -79,36 +102,59 @@
         [
           "A Mary piacciono le sue classi.",
           "Mary enjoys her classes.",
+=======
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/141.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "anche",
+      "content": "piaceva",
       "translations": [
-        "also",
-        "too",
-        "as well",
-        "even"
+        "liked",
+        "was pleasing"
       ],
       "usageExamples": [
         [
-          "È anche più economico.",
-          "It's also cheaper.",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva quello che ha visto.",
+          "Mary didn't like what she saw.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "le",
+      "content": "il",
       "translations": [
         "the",
-        "them",
-        "to them",
-        "for them"
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/180.json
           "Non le può licenziare.",
           "You can't fire them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -121,22 +167,46 @@
         [
           "A Mary piacciono le principesse.",
           "Mary likes princesses.",
+=======
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/141.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "banane",
+      "content": "suo",
       "translations": [
-        "bananas",
-        "banana fruits",
-        "banana plants",
-        "banana trees"
+        "his",
+        "her",
+        "its",
+        "their"
       ],
       "usageExamples": [
         [
-          "Voglio comprare una dozzina di banane.",
-          "I want to buy a dozen bananas.",
+          "A Mary non piace il suo nome.",
+          "Mary doesn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Benedito è piaciuto il suo viaggio in India.",
+          "Benedito enjoyed his trip to India.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

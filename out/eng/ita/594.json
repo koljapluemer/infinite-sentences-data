@@ -1,11 +1,11 @@
 {
-  "sentence": "Lei parla solamente in finlandese in classe.",
+  "sentence": "Lei ha frenato.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulliver (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She only speaks Finnish in class."
+    "She braked."
   ],
   "parts": [
     {
@@ -18,13 +18,43 @@
       ],
       "usageExamples": [
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Lei ci catturerà.",
+          "She will catch us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Lei è americano?",
           "Are you American?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/594.json
+          "Lei ha già finito?",
+          "Are you finished yet?",
+=======
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/515.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,24 +65,9 @@
       ]
     },
     {
-      "content": "parla",
+      "content": "frenato",
       "translations": [
-        "speak",
-        "talk",
-        "discuss",
-        "converse"
-      ],
-      "usageExamples": [
-        [
-          "A Malta si parla il maltese.",
-          "In Malta they speak Maltese.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "solamente",
-      "translations": [
+<<<<<<< HEAD:out/eng/ita/594.json
         "only",
         "just",
         "merely",
@@ -117,6 +132,12 @@
         "grade",
         "category",
         "group"
+=======
+        "braked",
+        "stopped",
+        "slowed down",
+        "halted"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/515.json
       ],
       "usageExamples": [
         [

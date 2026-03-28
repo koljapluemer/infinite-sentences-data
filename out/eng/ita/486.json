@@ -1,12 +1,11 @@
 {
-  "sentence": "Io non ho ancora mangiato niente oggi.",
+  "sentence": "Io insegnai a Tom come sopravvivere.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I haven't eaten anything yet today.",
-    "I haven't yet eaten anything today."
+    "I taught Tom how to survive."
   ],
   "parts": [
     {
@@ -18,11 +17,12 @@
       ],
       "usageExamples": [
         [
-          "Io l'ho comprata.",
-          "I bought it.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/486.json
           "Io sto diventando piccolo!",
           "I am getting small!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,20 +30,39 @@
         [
           "Io sono una patata.",
           "I am a potato.",
+=======
+          "Io consegno pizze.",
+          "I deliver pizzas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sto diventando piccolo!",
+          "I am getting small!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/407.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "insegnai",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "I taught",
+        "I instructed",
+        "I educated",
+        "I trained"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/486.json
           "Perché non stai dormendo?",
           "Why aren't you sleeping?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,20 +75,33 @@
         [
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/407.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ho",
+      "content": "Tom",
       "translations": [
-        "I have",
-        "I've got",
-        "I possess",
-        "I own"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/486.json
           "Io l'ho comprata.",
           "I bought it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -82,20 +114,35 @@
         [
           "Mi scuso se ho ferito i suoi sentimenti.",
           "I apologize if I hurt your feelings.",
+=======
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/407.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ancora",
+      "content": "come",
       "translations": [
-        "anchor",
-        "still",
-        "yet",
-        "also"
+        "how",
+        "like",
+        "as",
+        "when"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/486.json
           "Perché nessuno è ancora qui?",
           "Why is no one here yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -109,17 +156,33 @@
           "Sono ancora sposato con Tom.",
           "I'm still married to Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ballò come un robot.",
+          "Tom danced like a robot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volevo che Tom mi dicesse come farlo.",
+          "I wanted Tom to tell me how to do that.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/407.json
         ]
       ]
     },
     {
-      "content": "mangiato",
+      "content": "sopravvivere",
       "translations": [
-        "eaten",
-        "consumed",
-        "devoured",
-        "ingested"
+        "to survive",
+        "survive",
+        "to endure",
+        "to live through"
       ],
+<<<<<<< HEAD:out/eng/ita/486.json
       "usageExamples": [
         [
           "Adesso che abbiamo mangiato, andiamo.",
@@ -178,6 +241,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/407.json
     }
   ]
 }

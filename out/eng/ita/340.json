@@ -1,47 +1,29 @@
 {
-  "sentence": "Dovreste provare a vivere con le vostre capacità.",
+  "sentence": "Dove ha portato il mio lenzuolo?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by fanty (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should try to live within your means."
+    "Where did you take my blanket?"
   ],
   "parts": [
     {
-      "content": "Dovreste",
+      "content": "Dove",
       "translations": [
-        "You should",
-        "You ought to",
-        "You must",
-        "You are supposed to"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "provare",
-      "translations": [
-        "to try",
-        "to test",
-        "to prove",
-        "to attempt"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
+        "Where",
+        "Where is it?",
+        "Where to?",
+        "Where are you?"
       ],
       "usageExamples": [
         [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
+          "Dove li avete oliati?",
+          "Where did you oil them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/340.json
           "Non riusciva a vederla.",
           "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -49,20 +31,24 @@
         [
           "Lo mostreremo a lei.",
           "We'll show her.",
+=======
+          "Dove sei in questo momento?",
+          "Where are you right now?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/261.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vivere",
+      "content": "ha",
       "translations": [
-        "to live",
-        "to exist",
-        "to be alive",
-        "to experience life"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/340.json
           "Tom dice di non voler più vivere così.",
           "Tom says he doesn't want to live like this anymore.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -75,22 +61,41 @@
         [
           "A Mary non dispiaceva vivere da sola.",
           "Mary didn't mind living by herself.",
+=======
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/261.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "con",
+      "content": "portato",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "carried",
+        "brought",
+        "delivered",
+        "transported"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/340.json
           "Era sposato con lei.",
           "He used to be married to her.",
+=======
+          "Ne ho portato fuori uno.",
+          "I brought one out.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/261.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -106,15 +111,16 @@
       ]
     },
     {
-      "content": "le",
+      "content": "il",
       "translations": [
         "the",
-        "them",
-        "to them",
-        "for them"
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/340.json
           "Non le vogliamo là.",
           "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -127,32 +133,56 @@
         [
           "Mary vuole che i suoi genitori le comprino un pony.",
           "Mary wants her parents to buy her a pony.",
+=======
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/261.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vostre",
+      "content": "mio",
       "translations": [
-        "your (plural)",
-        "yours (plural)",
-        "of yours (plural)"
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
       ],
       "usageExamples": [
         [
-          "Tirate fuori i vostri quaderni e le vostre penne.",
-          "Get out your notebooks and pens.",
+          "È mio nemico.",
+          "He is my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha ricevuto il mio regalo?",
+          "Did you get my gift?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "capacità",
+      "content": "lenzuolo",
       "translations": [
-        "capacity",
-        "ability",
-        "capability",
-        "competence"
+        "sheet",
+        "bed sheet",
+        "linen sheet"
       ],
       "usageExamples": []
     }

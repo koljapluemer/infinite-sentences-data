@@ -1,11 +1,11 @@
 {
-  "sentence": "Le è piaciuta la pizza?",
+  "sentence": "Le fece sorridere.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you enjoy the pizza?"
+    "That made them smile."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/583.json
           "Le fece sorridere.",
           "That made them smile.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,6 +26,14 @@
         [
           "Le amiamo.",
           "We love them.",
+=======
+          "Le amiamo.",
+          "We love them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le piacerebbe imparare a suonare il piano?",
+          "Would you like to learn to play the piano?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,13 +44,36 @@
       ]
     },
     {
-      "content": "è",
+      "content": "fece",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "made",
+        "did",
+        "created",
+        "performed"
       ],
+      "usageExamples": [
+        [
+          "Disse che non fece niente di illegale.",
+          "He said he did nothing illegal.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/504.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le dispute dei suoi genitori riecheggiavano nella sua mente, facendolo piangere disperatamente.",
+          "His parents' disputes echoed in his mind, making him cry helplessly.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sorridere",
+      "translations": [
+        "to smile",
+        "smiling",
+        "to grin",
+        "to beam"
+      ],
+<<<<<<< HEAD:out/eng/ita/583.json
       "usageExamples": [
         [
           "Forse è lui.",
@@ -126,6 +158,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/504.json
     }
   ]
 }

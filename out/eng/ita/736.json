@@ -1,10 +1,11 @@
 {
-  "sentence": "Non mi piace la città in cui vive.",
+  "sentence": "Non leggo molto i giornali.",
   "credits": [
-    "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't like the city in which he lives."
+    "I don't read newspapers much."
   ],
   "parts": [
     {
@@ -17,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/736.json
           "Non hai coscienza!",
           "You have no conscience!",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
@@ -30,24 +32,50 @@
           "Non vinse, vero?",
           "He didn't win, did he?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non volevo intromettermi.",
+          "I didn't want to intrude.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non hai coscienza!",
+          "You have no conscience!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/657.json
         ]
       ]
     },
     {
-      "content": "mi",
+      "content": "leggo",
       "translations": [
-        "me",
-        "myself",
-        "to me",
-        "for me"
+        "I read.",
+        "I am reading",
+        "I will read",
+        "I do read"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "molto",
+      "translations": [
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Non vinco molto spesso.",
+          "I don't win very often.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/736.json
           "Tom mi ha detto che eravate felici.",
           "Tom told me you were happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,38 +83,59 @@
         [
           "Non mi piacciono le sue barzellette.",
           "I don't like his jokes.",
+=======
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/657.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piace",
+      "content": "i",
       "translations": [
-        "to like",
-        "to please",
-        "to be pleasing to"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/736.json
           "Mi piace il reggae.",
           "I like reggae.",
+=======
+          "Conosce i cavalli.",
+          "He knows horses.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/657.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Judy piace lui.",
-          "Judy likes him.",
+          "A Dan non sono piaciuti i commenti di Linda.",
+          "Dan didn't like Linda's comments.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/736.json
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
+=======
+          "Questi sono i suoi figli?",
+          "Are these your children?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/657.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "giornali",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/736.json
         "the",
         "that",
         "which",
@@ -184,6 +233,12 @@
         "to live",
         "alive",
         "to be alive"
+=======
+        "newspapers",
+        "journals",
+        "magazines",
+        "periodicals"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/657.json
       ],
       "usageExamples": []
     }

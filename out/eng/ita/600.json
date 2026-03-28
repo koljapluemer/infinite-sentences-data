@@ -1,11 +1,11 @@
 {
-  "sentence": "Lei è piuttosto soddisfatta della sua vita così com'è.",
+  "sentence": "Lei parla solamente in finlandese in classe.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She is quite satisfied with her life as it is."
+    "She only speaks Finnish in class."
   ],
   "parts": [
     {
@@ -18,9 +18,15 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/600.json
           "Lei ha frenato.",
           "She braked.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+=======
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/521.json
         ],
         [
           "Lei è americano?",
@@ -28,22 +34,28 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/600.json
           "Lei ha già cominciato.",
           "She has already begun.",
+=======
+          "Lei ci catturerà.",
+          "You will catch us.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/521.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "parla",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "speak",
+        "talk",
+        "discuss",
+        "converse"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/600.json
           "Questo cane è brutto.",
           "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,49 +68,78 @@
         [
           "Tom è famoso.",
           "Tom's famous.",
+=======
+          "A Malta si parla il maltese.",
+          "In Malta they speak Maltese.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/521.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piuttosto",
+      "content": "solamente",
       "translations": [
-        "rather",
-        "quite",
-        "fairly",
-        "instead"
+        "only",
+        "just",
+        "merely",
+        "simply"
       ],
       "usageExamples": [
         [
-          "È piuttosto avventurosa, vero?",
-          "She's pretty adventurous, isn't she?",
+          "A Mary importa solamente di se stessa.",
+          "Mary only cares about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Siete piuttosto timidi, vero?",
-          "You're quite shy, aren't you?",
+          "A Mary importava solamente di se stessa.",
+          "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È piuttosto comodo.",
-          "It's quite comfortable.",
+          "Mi importa solamente di lui.",
+          "I only care about him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "soddisfatta",
+      "content": "in",
       "translations": [
-        "satisfied",
-        "pleased",
-        "content",
-        "happy"
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "finlandese",
+      "translations": [
+        "Finnish",
+        "from Finland",
+        "Finlander"
       ],
       "usageExamples": []
     },
     {
-      "content": "della",
+      "content": "classe",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/600.json
         "of the",
         "from the",
         "about the",
@@ -202,6 +243,12 @@
         "how's it",
         "what is it like",
         "what's it like"
+=======
+        "class",
+        "grade",
+        "category",
+        "group"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/521.json
       ],
       "usageExamples": []
     }

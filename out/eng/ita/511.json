@@ -1,11 +1,11 @@
 {
-  "sentence": "Io sono sicura che Tom sarà di ritorno.",
+  "sentence": "Io preferirei non discuterne ora.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm sure Tom will be back."
+    "I'd rather not discuss it now."
   ],
   "parts": [
     {
@@ -19,30 +19,39 @@
         [
           "Io consegno pizze.",
           "I deliver pizzas.",
+<<<<<<< HEAD:out/eng/ita/511.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Io sono una patata.",
           "I am a potato.",
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/432.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sono",
+      "content": "preferirei",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
+        "I would prefer",
+        "I would rather",
+        "I would choose",
+        "I would like better"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/511.json
           "Tutte sono felici.",
           "Everybody's happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,29 +64,45 @@
         [
           "Io sono una patata.",
           "I am a potato.",
+=======
+          "Il sushi va bene, però io preferirei del cibo thailandese.",
+          "Sushi is OK, but I'd prefer Thai food.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/432.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sicura",
+      "content": "non",
       "translations": [
-        "safe",
-        "secure",
-        "sure",
-        "reliable"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
-          "Sono sicura che Tom amerà il tuo regalo.",
-          "I'm sure Tom will love your present.",
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "discuterne",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/511.json
         "that",
         "which",
         "who",
@@ -174,8 +199,40 @@
         "comeback",
         "reappearance",
         "reversion"
+=======
+        "to discuss it",
+        "to talk about it",
+        "to debate it",
+        "to deliberate on it"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/432.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "ora",
+      "translations": [
+        "now",
+        "hour",
+        "time",
+        "moment"
+      ],
+      "usageExamples": [
+        [
+          "Mi sto riposando ora.",
+          "I'm resting now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A che ora finisce la scuola?",
+          "What time does school end?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A che ora arrivate al lavoro?",
+          "What time do you arrive at work?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

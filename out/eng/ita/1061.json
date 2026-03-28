@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom voleva dire di no.",
+  "sentence": "Tom sta lavorando, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom wanted to say no."
+    "Tom is working, isn't he?"
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1061.json
           "Intimidisci Tom.",
           "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,20 +29,35 @@
         [
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
+=======
+          "Tom sembra compiaciuto.",
+          "Tom seems pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/982.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "voleva",
+      "content": "sta",
       "translations": [
-        "wanted",
-        "was wanting",
-        "desired",
-        "wished"
+        "is",
+        "stands",
+        "is located",
+        "exists"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1061.json
           "Tom voleva che questa fosse una sorpresa.",
           "Tom wanted this to be a surprise.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -49,41 +65,48 @@
         [
           "Tom voleva sapere perché Mary non era felice.",
           "Tom wanted to know why Mary was not happy.",
+=======
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/982.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
-          "Tom didn't want me to tell you this, but he just lost his job.",
+          "Li sta confondendo.",
+          "You're confusing them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1061.json
+=======
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/982.json
         ]
       ]
     },
     {
-      "content": "dire",
+      "content": "lavorando",
       "translations": [
-        "to say",
-        "to tell",
-        "to speak",
-        "to express"
+        "working",
+        "doing work",
+        "engaged in work",
+        "in the process of working"
       ],
-      "usageExamples": [
-        [
-          "Mary sa che cosa vuole dire.",
-          "Mary knows what she wants to say.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "vero",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1061.json
           "Volete sentire di più?",
           "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -96,21 +119,20 @@
         [
           "Beve latte di mucca.",
           "He drinks cow's milk.",
+=======
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/982.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "no",
-      "translations": [
-        "not",
-        "nope",
-        "negative"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Tutti li ignorarono.",
-          "Everyone ignored them.",
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

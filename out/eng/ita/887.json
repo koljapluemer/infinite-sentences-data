@@ -1,82 +1,128 @@
 {
-  "sentence": "Riconosco il tuo contributo per tenere pulita la cucina.",
+  "sentence": "Questo portatile è molto sottile.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Source_VOA (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by halfdan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I recognize your contribution to keeping the kitchen clean."
+    "This laptop computer is very thin.",
+    "This laptop is very thin."
   ],
   "parts": [
     {
-      "content": "Riconosco",
+      "content": "Questo",
       "translations": [
-        "I recognize",
-        "I acknowledge",
-        "I admit",
-        "I identify"
+        "This",
+        "This one",
+        "This thing",
+        "This item"
+      ],
+      "usageExamples": [
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "portatile",
+      "translations": [
+        "portable",
+        "laptop",
+        "mobile device",
+        "handheld"
       ],
       "usageExamples": []
     },
     {
-      "content": "il",
+      "content": "è",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/887.json
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
+=======
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/808.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "Lei è americano?",
+          "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/887.json
           "Mi piace il reggae.",
           "I like reggae.",
+=======
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/808.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tuo",
+      "content": "molto",
       "translations": [
-        "your",
-        "yours",
-        "of yours"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
-          "Quant'è profondo il tuo amore?",
-          "How deep is your love?",
+          "Amo molto mia madre.",
+          "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Com'è andato il tuo incontro con Tom?",
-          "How did your meeting with Tom go?",
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/887.json
           "Tom sta contando sul tuo aiuto.",
           "Tom is counting on your help.",
+=======
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/808.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "contributo",
+      "content": "sottile",
       "translations": [
-        "contribution",
-        "donation",
-        "input",
-        "support"
+        "thin",
+        "slim",
+        "subtle",
+        "fine"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/887.json
     },
     {
       "content": "per",
@@ -169,6 +215,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/808.json
     }
   ]
 }

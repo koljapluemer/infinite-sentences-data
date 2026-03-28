@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non piace la sua matrigna.",
+  "sentence": "A Mary non piace il suo nome.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary doesn't like her stepmother."
+    "Mary doesn't like her name."
   ],
   "parts": [
     {
@@ -17,11 +17,14 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/163.json
           "A Fadil piaceva sciare.",
           "Fadil liked to ski.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/127.json
           "A Judy piace lui.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,6 +32,14 @@
         [
           "A Ken mancava Tom.",
           "Ken missed Tom.",
+<<<<<<< HEAD:out/eng/ita/163.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/127.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,11 +53,14 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/163.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/127.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,6 +68,14 @@
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
+<<<<<<< HEAD:out/eng/ita/163.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/127.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -64,10 +86,12 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/163.json
           "Perché non la cercate?",
           "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,6 +104,20 @@
         [
           "Preferirei non farlo.",
           "I'd rather not do that.",
+=======
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/127.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -93,8 +131,8 @@
       ],
       "usageExamples": [
         [
-          "A Lucy piace Mary.",
-          "Lucy likes Mary.",
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -103,22 +141,28 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/163.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/127.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "il",
       "translations": [
         "the",
-        "that",
-        "which",
-        "those"
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/163.json
           "Ha perso la partita.",
           "He lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -131,20 +175,35 @@
         [
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
+=======
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/127.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sua",
+      "content": "suo",
       "translations": [
-        "your",
-        "yours",
         "his",
-        "her"
+        "her",
+        "its",
+        "their"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/163.json
           "Dov'è la sua casa?",
           "Where is your house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -157,7 +216,47 @@
         [
           "Lui non riesce ad adattarsi alla sua situazione.",
           "He can't accommodate himself to his circumstances.",
+=======
+          "A Mary non piaceva il suo impiego.",
+          "Mary didn't enjoy her job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/127.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancava suo figlio.",
+          "Mary missed her son.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nome",
+      "translations": [
+        "name",
+        "title",
+        "designation",
+        "label"
+      ],
+      "usageExamples": [
+        [
+          "A Mary non piaceva il suo nome.",
+          "Mary didn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho scordato il suo nome.",
+          "I have forgotten your name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso chiedere il vostro nome?",
+          "May I ask your name?",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
         ]
       ]
     },

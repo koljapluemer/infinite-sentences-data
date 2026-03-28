@@ -1,16 +1,17 @@
 {
-  "sentence": "Voglio sapere cos'è l'amore.",
+  "sentence": "Viviamo in campagna adesso.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I want to know what love is."
+    "We live in the country now."
   ],
   "parts": [
     {
-      "content": "Voglio",
+      "content": "Viviamo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1111.json
         "I want",
         "I would like",
         "I wish",
@@ -72,8 +73,75 @@
         "the love",
         "affection",
         "romance"
+=======
+        "We live.",
+        "Let's live",
+        "We are living",
+        "Live on"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1032.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "campagna",
+      "translations": [
+        "campaign",
+        "countryside",
+        "field",
+        "area"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "adesso",
+      "translations": [
+        "now",
+        "right now",
+        "at this moment",
+        "currently"
+      ],
+      "usageExamples": [
+        [
+          "Sto cucinando adesso.",
+          "I am cooking now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

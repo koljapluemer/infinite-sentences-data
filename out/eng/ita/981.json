@@ -1,21 +1,24 @@
 {
-  "sentence": "Tom acconsentì con riluttanza.",
+  "sentence": "Ti compro un regalo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom reluctantly agreed."
+    "I buy you a present."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Ti",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "You",
+        "To you",
+        "For you",
+        "Yourself"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/981.json
           "Nessuno credeva a Tom.",
           "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,30 +31,44 @@
         [
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
+=======
+          "Ti darò questa biro.",
+          "I'll give you this pen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/902.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "acconsentì",
+      "content": "compro",
       "translations": [
-        "he/she consented",
-        "he/she agreed",
-        "he/she assented",
-        "he/she approved"
+        "I buy",
+        "I am buying",
+        "I purchase",
+        "I am purchasing"
       ],
       "usageExamples": []
     },
     {
-      "content": "con",
+      "content": "un",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/981.json
           "Siate pazienti con noi.",
           "Be patient with us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -65,18 +82,49 @@
           "Parlo frequentemente con lui.",
           "I frequently talk to him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Beviamo un'altra birra.",
+          "Let's drink another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/902.json
         ]
       ]
     },
     {
-      "content": "riluttanza",
+      "content": "regalo",
       "translations": [
-        "reluctance",
-        "hesitation",
-        "unwillingness",
-        "disinclination"
+        "gift",
+        "present",
+        "offering",
+        "donation"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ha ricevuto il mio regalo?",
+          "Did you get my gift?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per ringraziarti, ecco un regalo.",
+          "To thank you, here is a gift.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono sicura che Tom amerà il tuo regalo.",
+          "I'm sure Tom will love your present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

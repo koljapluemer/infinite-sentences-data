@@ -1,22 +1,22 @@
 {
-  "sentence": "In realtà il nero non è un colore. È l'assenza di colore.",
+  "sentence": "Il suo sommario molto approssimativo non rende giustizia al testo originale e alla sua raffinatezza intellettuale.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Objectivesea (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "In reality black is not a color; it is the absence of color."
+    "His very rough summary does not do justice to the original text and its intellectual sophistication."
   ],
   "parts": [
     {
-      "content": "In",
+      "content": "Il",
       "translations": [
-        "Inside",
-        "Within",
-        "Into"
+        "The",
+        "It"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/462.json
           "In realtà non l'ho mai incontrata.",
           "I never actually met her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -62,15 +62,93 @@
           "Non bevete il caffè?",
           "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Il gatto mangia.",
+          "The cat eats.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/383.json
         ]
       ]
     },
     {
-      "content": "nero",
+      "content": "suo",
       "translations": [
-        "black",
-        "dark",
-        "noir"
+        "his",
+        "her",
+        "its",
+        "their"
+      ],
+      "usageExamples": [
+        [
+          "A Mary mancava suo figlio.",
+          "Mary missed her son.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo nome.",
+          "Mary doesn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sommario",
+      "translations": [
+        "summary",
+        "overview",
+        "abstract",
+        "digest"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "molto",
+      "translations": [
+        "very",
+        "much",
+        "a lot",
+        "extremely"
+      ],
+      "usageExamples": [
+        [
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "approssimativo",
+      "translations": [
+        "approximate",
+        "rough",
+        "imprecise",
+        "estimated"
       ],
       "usageExamples": []
     },
@@ -80,10 +158,12 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/462.json
           "Preferirei non farlo.",
           "I'd rather not do it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -91,25 +171,30 @@
         [
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/383.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "rende",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "makes",
+        "renders",
+        "causes",
+        "produces"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/462.json
           "La matematica è divertente.",
           "Math is fun.",
           "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
@@ -122,13 +207,18 @@
         [
           "Forse è lui.",
           "Maybe it's him.",
+=======
+          "Il vostro silenzio mi rende nervoso.",
+          "Your silence makes me nervous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/383.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "giustizia",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/462.json
         "one",
         "a",
         "an"
@@ -200,19 +290,26 @@
         "lack",
         "nonexistence",
         "void"
+=======
+        "justice",
+        "fairness",
+        "judgment",
+        "equity"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/383.json
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "al",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "to the",
+        "at the",
+        "in the",
+        "for the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/462.json
           "Può fare di meglio.",
           "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -220,6 +317,20 @@
         [
           "Volete sentire di più?",
           "Do you want to hear more?",
+=======
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/383.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -228,6 +339,124 @@
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "testo",
+      "translations": [
+        "text",
+        "test",
+        "document",
+        "script"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "originale",
+      "translations": [
+        "original",
+        "genuine",
+        "authentic",
+        "first edition"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "e",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition"
+      ],
+      "usageExamples": [
+        [
+          "Mi piacciono i cani e i gatti.",
+          "I like dogs and cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary e Tom importa la privacy.",
+          "Mary and Tom care about privacy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le scarpe che diedi a Tom e Mary erano troppo piccole per loro.",
+          "The shoes I gave Tom and Mary were too small for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "alla",
+      "translations": [
+        "to",
+        "at",
+        "in the direction of",
+        "towards"
+      ],
+      "usageExamples": [
+        [
+          "È solamente una di quelle fastidiose parole alla moda.",
+          "It's just one of those annoying buzzwords.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sarebbe dovuto venire alla riunione.",
+          "Tom should've come to the meeting.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non crederesti alla roba che le persone buttano via.",
+          "You wouldn't believe the stuff people throw away.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami ha perso sua moglie.",
+          "Sami lost his wife.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi mandi la sua posizione.",
+          "Send me your position.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "raffinatezza",
+      "translations": [
+        "refinement",
+        "sophistication",
+        "elegance",
+        "finesse"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "intellettuale",
+      "translations": [
+        "intellectual",
+        "scholar",
+        "thinker",
+        "academic"
+      ],
+      "usageExamples": []
     }
   ]
 }

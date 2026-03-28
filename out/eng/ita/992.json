@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom dice di non voler più vivere così.",
+  "sentence": "Tom ballò come un robot.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom says he doesn't want to live like this anymore."
+    "Tom danced like a robot."
   ],
   "parts": [
     {
@@ -21,6 +21,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/992.json
           "Nessuno credeva a Tom.",
           "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,13 +29,23 @@
         [
           "Tom era creativo.",
           "Tom was creative.",
+=======
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembra impegnato.",
+          "Tom looks busy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/913.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dice",
+      "content": "ballò",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/992.json
         "to say",
         "to tell",
         "to speak",
@@ -117,24 +128,31 @@
         "to wish",
         "to desire",
         "to will"
+=======
+        "dance",
+        "ball",
+        "dance event",
+        "ballroom dance"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/913.json
       ],
       "usageExamples": []
     },
     {
-      "content": "più",
+      "content": "come",
       "translations": [
-        "more",
-        "plus",
-        "greater",
-        "further"
+        "how",
+        "like",
+        "as",
+        "when"
       ],
       "usageExamples": [
         [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/992.json
           "È anche più economico.",
           "It's also cheaper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -142,44 +160,62 @@
         [
           "Studiate più duramente.",
           "Study harder.",
+=======
+          "Vladimir è forte come una mucca.",
+          "Vladimir is strong as a cow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Come ti sei sentita quando è successo?",
+          "How did you feel when that happened?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/913.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vivere",
+      "content": "un",
       "translations": [
-        "to live",
-        "to exist",
-        "to be alive",
-        "to experience life"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/992.json
           "Dovreste provare a vivere con le vostre capacità.",
           "You should try to live within your means.",
+=======
+          "Sei un testimone.",
+          "You are a witness.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/913.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Odio tornare da lui. Voglio vivere con voi.",
-          "I hate going back to him. I want to live with you.",
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/992.json
           "A Mary non dispiaceva vivere da sola.",
           "Mary didn't mind living by herself.",
+=======
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/913.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "così",
+      "content": "robot",
       "translations": [
-        "so",
-        "like this",
-        "in this way",
-        "thus"
+        "automaton",
+        "mechanical being",
+        "android"
       ],
+<<<<<<< HEAD:out/eng/ita/992.json
       "usageExamples": [
         [
           "Siete così paranoici.",
@@ -197,6 +233,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/913.json
     }
   ]
 }

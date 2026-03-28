@@ -1,36 +1,24 @@
 {
-  "sentence": "Dicono che pensano che non vinceranno.",
+  "sentence": "Di fatto l'uomo si arrabbiò.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They say that they don't think that they'll win.",
-    "They say that they don't think they'll win.",
-    "They say they don't think that they'll win.",
-    "They say they don't think they'll win."
+    "In fact, the man got angry."
   ],
   "parts": [
     {
-      "content": "Dicono",
+      "content": "Di",
       "translations": [
-        "They say",
-        "They tell",
-        "It is said",
-        "People say"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "che",
-      "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/327.json
           "È quello che sono.",
           "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -43,37 +31,46 @@
         [
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
+=======
+          "Di tutti là, parlai meno.",
+          "Out of everyone there, I spoke the least.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Di solito bevo molto latte.",
+          "I usually drink a lot of milk.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/248.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pensano",
+      "content": "fatto",
       "translations": [
-        "they think",
-        "they are thinking",
-        "they consider",
-        "they believe"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "non",
-      "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "fact",
+        "done",
+        "made",
+        "event"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/327.json
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
+=======
+          "L'ha fatto lentamente.",
+          "She did it slowly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non stai dormendo?",
-          "Why aren't you asleep?",
+          "Tom ha fatto la cosa giusta.",
+          "Tom did the right thing.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/248.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -84,12 +81,53 @@
       ]
     },
     {
-      "content": "vinceranno",
+      "content": "l'uomo",
       "translations": [
-        "they will win",
-        "they will conquer",
-        "they will prevail",
-        "they will overcome"
+        "the man",
+        "a man",
+        "man"
+      ],
+      "usageExamples": [
+        [
+          "Qualcuno ha pugnalato l'uomo nella gamba.",
+          "Someone stabbed the man in the leg.",
+          "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "si",
+      "translations": [
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "arrabbiò",
+      "translations": [
+        "he got angry",
+        "he became furious",
+        "he got mad",
+        "he lost his temper"
       ],
       "usageExamples": []
     }

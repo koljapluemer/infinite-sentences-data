@@ -1,11 +1,11 @@
 {
-  "sentence": "Mi piacciono i cani e i gatti.",
+  "sentence": "Mi ha detto che non mangiava carne.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I like dogs and cats."
+    "She told me that she didn't eat meat."
   ],
   "parts": [
     {
@@ -17,13 +17,18 @@
       ],
       "usageExamples": [
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/669.json
           "Mi sono tuffato nell'acqua.",
           "I dived into the water.",
+=======
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/590.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,14 +39,15 @@
       ]
     },
     {
-      "content": "piacciono",
+      "content": "ha",
       "translations": [
-        "they like",
-        "are pleasing to them",
-        "they are liked by them"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/669.json
           "A Mary piacciono sia Tom che John.",
           "Mary likes both Tom and John.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -54,25 +60,40 @@
         [
           "A Dan non piacciono i dittatori.",
           "Dan doesn't like dictators.",
+=======
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/590.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "i",
+      "content": "detto",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Tom ha detto a Mary che sarebbe stato libero domani.",
+          "Tom told Mary that he'd be free tomorrow.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/669.json
           "A Mary mancano i suoi genitori.",
           "Mary misses her parents.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,20 +101,30 @@
         [
           "A Mary piacciono i cavalli.",
           "Mary likes horses.",
+=======
+          "Perché non avete detto questo a loro?",
+          "Why didn't you tell them this?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che non ha fame.",
+          "Mary said that she's not hungry.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/590.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cani",
+      "content": "che",
       "translations": [
-        "dogs",
-        "canines",
-        "pups",
-        "pooches"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/669.json
           "A Eva piacciono i cani, però non i gatti.",
           "Eva likes dogs, but not cats.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,25 +132,39 @@
         [
           "Non accarezzo i vostri cani.",
           "I don't pet your dogs.",
+=======
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/590.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Eva piacciono i cani, ma non i gatti.",
-          "Eva likes dogs, but not cats.",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/669.json
+=======
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/590.json
         ]
       ]
     },
     {
-      "content": "e",
+      "content": "non",
       "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/669.json
           "Gettò i suoi calzini sporchi e maleodoranti sul pavimento.",
           "He threw his dirty, smelly socks on the floor.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -132,18 +177,32 @@
         [
           "Loro sono fratello e sorella.",
           "They're brother and sister.",
+=======
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/590.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gatti",
+      "content": "mangiava",
       "translations": [
-        "cats",
-        "kittens",
-        "felines",
-        "domestic cats"
+        "he/she was eating",
+        "he/she used to eat",
+        "he/she ate"
       ],
+<<<<<<< HEAD:out/eng/ita/669.json
       "usageExamples": [
         [
           "Ziri ama i gatti siamesi.",
@@ -161,6 +220,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+    },
+    {
+      "content": "carne",
+      "translations": [
+        "meat",
+        "flesh",
+        "beef",
+        "protein"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/590.json
     }
   ]
 }

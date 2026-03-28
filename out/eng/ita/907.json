@@ -1,48 +1,48 @@
 {
-  "sentence": "Saranno arrivate a Morioka per mezzogiorno.",
+  "sentence": "Sami ha perso sua moglie.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They will have arrived at Morioka by noon."
+    "Sami lost his wife."
   ],
   "parts": [
     {
-      "content": "Saranno",
+      "content": "Sami",
       "translations": [
-        "They will be",
-        "There will be",
-        "They are going to be",
-        "It will be"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "arrivate",
-      "translations": [
-        "arrive",
-        "you arrive",
-        "you have arrived",
-        "arrived"
+        "Sámi",
+        "Saami",
+        "Sami people"
       ],
       "usageExamples": [
         [
-          "A che ora arrivate al lavoro?",
-          "What time do you arrive at work?",
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami consegnò della pizza.",
+          "Sami delivered pizza.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami rallentò.",
+          "Sami slowed down.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "a",
+      "content": "ha",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/907.json
           "Sei stata a Parigi?",
           "Have you been to Paris?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,35 +55,52 @@
         [
           "Vado a trovare un'amica.",
           "I'm going to visit a friend.",
+=======
+          "Lei ha già finito?",
+          "Have you finished yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/828.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Morioka",
+      "content": "perso",
       "translations": [
-        "City of Morioka",
-        "Morioka City",
-        "Morioka Prefecture"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "per",
-      "translations": [
-        "for",
-        "by",
-        "through"
+        "lost",
+        "missing",
+        "absent",
+        "gone"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/907.json
           "Sono preparata per morire.",
           "I'm prepared to die.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Ha perso qualcosa?",
+          "Did you lose something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/828.json
+        ],
+        [
+          "Ha perso la partita.",
+          "You lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -94,18 +111,53 @@
       ]
     },
     {
-      "content": "mezzogiorno",
+      "content": "sua",
       "translations": [
-        "noon",
-        "midday",
-        "12 PM",
-        "midday time"
+        "your",
+        "yours",
+        "his",
+        "her"
       ],
       "usageExamples": [
         [
-          "La lasciai dormire fino a mezzogiorno.",
-          "I let her sleep until noon.",
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Probabilmente è da sola nella sua stanza.",
+          "She's probably alone in her room.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È intelligente quanto sua sorella.",
+          "He's as smart as his sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "moglie",
+      "translations": [
+        "wife",
+        "spouse",
+        "partner"
+      ],
+      "usageExamples": [
+        [
+          "Tu lasceresti tua moglie per me?",
+          "Would you leave your wife for me?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tua moglie ti sta tradendo.",
+          "Your wife is cheating on you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
+          "Tom received an urgent message to call his wife.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,23 +1,33 @@
 {
-  "sentence": "Ci serviva la pioggia.",
+  "sentence": "Chiamate un'ambulanza!",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by jared1981 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We needed the rain."
+    "Call an ambulance!"
   ],
   "parts": [
     {
-      "content": "Ci",
+      "content": "Chiamate",
       "translations": [
-        "Here",
-        "This",
-        "It",
-        "That"
+        "Calls",
+        "Phone calls",
+        "Incoming calls",
+        "Outgoing calls"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/291.json
           "Ci sono delle isole nel mare.",
           "There are islands in the sea.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,18 +40,33 @@
         [
           "Ci sarò sempre per aiutarti.",
           "I will always be there to help you.",
+=======
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beviamo un'altra birra.",
+          "Let's have another beer.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/212.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "serviva",
+      "content": "ambulanza",
       "translations": [
-        "servant",
-        "female servant",
-        "slave",
-        "handmaiden"
+        "ambulance",
+        "emergency vehicle",
+        "medic transport",
+        "rescue vehicle"
       ],
+<<<<<<< HEAD:out/eng/ita/291.json
       "usageExamples": [
         [
           "Non aveva ciò che le serviva.",
@@ -96,6 +121,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/212.json
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Io non penso che Tom mentirebbe.",
+  "sentence": "Io ne ho pagata una.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't think Tom would lie."
+    "I paid one."
   ],
   "parts": [
     {
@@ -19,30 +19,42 @@
         [
           "Io l'ho comprata.",
           "I bought it.",
+<<<<<<< HEAD:out/eng/ita/491.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono solo curiosa.",
+          "I'm just curious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/412.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Io sono solo curiosa.",
           "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/491.json
         ],
         [
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/412.json
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "ne",
       "translations": [
         "not",
         "no",
-        "none",
-        "never"
+        "neither",
+        "nor"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/491.json
           "Yanni non comprende l'Islam.",
           "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,20 +67,35 @@
         [
           "Preferirei non farlo.",
           "I'd rather not do that.",
+=======
+          "Quanti ne hai?",
+          "How many do you have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei se ne vuole andare domani?",
+          "Do you want to leave tomorrow?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché te ne stai andando?",
+          "Why are you leaving?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/412.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "penso",
+      "content": "ho",
       "translations": [
-        "I think.",
-        "I believe",
-        "I consider",
-        "I reflect"
+        "I have",
+        "I've got",
+        "I possess",
+        "I own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/491.json
           "Io penso che il vento si stia indebolendo.",
           "I think the wind's dropping off.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -76,18 +103,28 @@
         [
           "Io penso che siate egoisti.",
           "I think you're selfish.",
+=======
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io penso che Tom fosse qui.",
-          "I think Tom was here.",
+          "Io l'ho comprata.",
+          "I bought it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/412.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi scuso se ho ferito i suoi sentimenti.",
+          "I apologize if I hurt your feelings.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "pagata",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/491.json
         "that",
         "which",
         "who",
@@ -142,8 +179,40 @@
         "would be lying",
         "might lie",
         "could lie"
+=======
+        "paid",
+        "settled",
+        "cleared",
+        "discharged"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/412.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Vorreste una ricevuta?",
+          "Would you like a receipt?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

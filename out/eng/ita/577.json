@@ -1,16 +1,17 @@
 {
-  "sentence": "Le fece sorridere.",
+  "sentence": "Lasciate finire Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That made them smile."
+    "Let Tom finish."
   ],
   "parts": [
     {
-      "content": "Le",
+      "content": "Lasciate",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/577.json
         "The",
         "It",
         "Them",
@@ -57,8 +58,48 @@
         "smiling",
         "to grin",
         "to beam"
+=======
+        "Leave",
+        "Let go",
+        "Abandon",
+        "Allow"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/498.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "finire",
+      "translations": [
+        "to finish",
+        "to end",
+        "to complete",
+        "to conclude"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

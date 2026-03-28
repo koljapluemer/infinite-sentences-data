@@ -1,11 +1,11 @@
 {
-  "sentence": "Il mio amico è svizzero.",
+  "sentence": "Il dottore gli ha dato un sedativo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by helloroto (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "My friend is Swiss."
+    "The doctor gave him a sedative."
   ],
   "parts": [
     {
@@ -16,6 +16,19 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/446.json
+=======
+          "Il gatto mangia.",
+          "The cat eats.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/367.json
           "Il bambino mi sorrise.",
           "The baby smiled at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -33,15 +46,16 @@
       ]
     },
     {
-      "content": "mio",
+      "content": "dottore",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "doctor",
+        "physician",
+        "medical doctor",
+        "healthcare professional"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/446.json
           "È mio nemico.",
           "He is my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,41 +68,49 @@
         [
           "Ai miei genitori non piace il mio ragazzo.",
           "My parents don't like my boyfriend.",
+=======
+          "A Jim piace il dottore.",
+          "Jim likes the doctor.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/367.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "amico",
+      "content": "gli",
       "translations": [
-        "friend",
-        "buddy",
-        "mate",
-        "companion"
+        "the",
+        "them",
+        "those"
       ],
       "usageExamples": [
         [
-          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
-          "Only my best friend would understand my love for minions.",
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il mio amico va in biblioteca a studiare.",
-          "My friend goes to the library to study.",
+          "Il padre di Tom gli ha insegnato a conoscere le stelle.",
+          "Tom's father taught him about the stars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "'Aspettate qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da voi immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "ha",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/446.json
           "Questo cane è brutto.",
           "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,17 +123,82 @@
         [
           "Tom si è addolcito.",
           "Tom relented.",
+=======
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/367.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "svizzero",
+      "content": "dato",
       "translations": [
-        "Swiss",
-        "from Switzerland",
-        "Swiss person",
-        "Swiss cheese"
+        "given",
+        "data",
+        "fact",
+        "information"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha dato dell'idiota all'arbitro.",
+          "Tom called the referee an idiot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Madre Teresa è stato dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Madre Teresa fu dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Beviamo un'altra birra.",
+          "Let's have another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sedativo",
+      "translations": [
+        "sedative",
+        "tranquilizer",
+        "calming agent",
+        "sleep aid"
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "A Henrietta non piacciono i gatti.",
+  "sentence": "A Heather fanno male i denti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Henrietta doesn't like cats."
+    "Heather has a toothache."
   ],
   "parts": [
     {
@@ -17,45 +17,51 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/67.json
           "A Fadil piaceva scommettere.",
           "Fadil liked to gamble.",
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/45.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A Judy piace.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A John piace l'infermiera.",
-          "John likes the nurse.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Henrietta",
+      "content": "Heather",
       "translations": [
-        "Henrietta",
-        "Henriette"
+        "Heather",
+        "Erica"
       ],
       "usageExamples": []
     },
     {
-      "content": "non",
+      "content": "fanno",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "they do",
+        "they make",
+        "they are doing",
+        "they are making"
       ],
       "usageExamples": [
         [
-          "Perché non ha corso?",
-          "Why didn't you run?",
+          "È quello che fanno le persone intelligenti.",
+          "That's what smart people do.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/67.json
           "Tom non cambia mai.",
           "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -63,19 +69,24 @@
         [
           "Perché non stai dormendo?",
           "Why aren't you sleeping?",
+=======
+          "A Hokkaido fanno cavalli di paglia.",
+          "In Hokkaido, they make horses of straw.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/45.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piacciono",
+      "content": "male",
       "translations": [
-        "they like",
-        "are pleasing to them",
-        "they are liked by them"
+        "man",
+        "masculine",
+        "boy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/67.json
           "A Mary piacciono le arance, vero?",
           "Mary likes oranges, doesn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -88,6 +99,20 @@
         [
           "A Dan non piacciono i dittatori.",
           "Dan doesn't like dictators.",
+=======
+          "Fa male! Smettila!",
+          "That hurts! Stop it!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutto il nostro cibo è andato a male.",
+          "All our food was spoiled.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non gli feci mai del male.",
+          "I never harmed him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/45.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -107,8 +132,13 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/67.json
           "A Mary mancano suo marito e i suoi figli.",
           "Mary misses her husband and children.",
+=======
+          "Si sta lavando i capelli.",
+          "She's washing her hair.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/45.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -119,13 +149,12 @@
       ]
     },
     {
-      "content": "gatti",
+      "content": "denti",
       "translations": [
-        "cats",
-        "kittens",
-        "felines",
-        "domestic cats"
+        "teeth",
+        "tooth"
       ],
+<<<<<<< HEAD:out/eng/ita/67.json
       "usageExamples": [
         [
           "Mi piacciono i cani e i gatti.",
@@ -143,6 +172,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/45.json
     }
   ]
 }

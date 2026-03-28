@@ -1,33 +1,25 @@
 {
-  "sentence": "Probabilmente è da sola nella sua stanza.",
+  "sentence": "Preferirei non farlo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She's probably alone in her room."
+    "I'd rather not do it.",
+    "I'd rather not do that."
   ],
   "parts": [
     {
-      "content": "Probabilmente",
+      "content": "Preferirei",
       "translations": [
-        "Probably.",
-        "Likely",
-        "Most likely",
-        "In all likelihood"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "I would prefer",
+        "I would rather",
+        "I would choose",
+        "I would like to prefer"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/845.json
           "Lei è americano?",
           "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,20 +32,26 @@
         [
           "Ti è piaciuto Tom?",
           "Did you like Tom?",
+=======
+          "Preferirei restare qua a Boston.",
+          "I'd rather stay here in Boston.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/766.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "da",
+      "content": "non",
       "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/845.json
           "Dovresti lasciarmi da sola.",
           "You should leave me alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -61,35 +59,48 @@
         [
           "Imparai l'esperanto da sola.",
           "I learned Esperanto by myself.",
+=======
+          "Perché non ha corso?",
+          "Why didn't you run?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/766.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Scendi da quella scala.",
-          "Get down from that ladder.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/845.json
+=======
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/766.json
         ]
       ]
     },
     {
-      "content": "sola",
+      "content": "farlo",
       "translations": [
-        "alone",
-        "only",
-        "single",
-        "solitary"
+        "to do it",
+        "to make it",
+        "to get it done",
+        "to accomplish it"
       ],
       "usageExamples": [
         [
-          "Dovresti lasciarmi da sola.",
-          "You should leave me alone.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Imparai l'esperanto da sola.",
-          "I learned Esperanto by myself.",
+          "A Mary non è permesso farlo, vero?",
+          "Mary isn't allowed to do that, is she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/845.json
           "A Mary non dispiaceva vivere da sola.",
           "Mary didn't mind living by herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -169,6 +180,10 @@
         [
           "A Dan è stato permesso di entrare nella stanza degli interrogatori.",
           "Dan was allowed into the interrogation room.",
+=======
+          "Mary dice che ha già deciso di farlo.",
+          "Mary says she's already decided to do that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/766.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

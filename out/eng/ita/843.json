@@ -1,39 +1,50 @@
 {
-  "sentence": "Prendi la mia.",
+  "sentence": "Potete vedere quella luce tremolante?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Take mine."
+    "Can you see that flickering light?"
   ],
   "parts": [
     {
-      "content": "Prendi",
+      "content": "Potete",
       "translations": [
-        "Take",
-        "Grab",
-        "Get",
-        "Receive"
+        "You can",
+        "You are able to",
+        "You may.",
+        "You are allowed to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vedere",
+      "translations": [
+        "to see",
+        "to watch",
+        "to look at",
+        "to perceive"
       ],
       "usageExamples": [
         [
-          "Prendi in prestito le biro dai tuoi amici.",
-          "You borrow pens from your friends.",
+          "Lo zio Ted ci portò allo zoo per farci vedere i panda.",
+          "Uncle Ted took us to the zoo in order to show us the pandas.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "quella",
       "translations": [
-        "the",
         "that",
-        "which",
-        "those"
+        "the one",
+        "that one",
+        "the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/843.json
           "Sento la primavera nell'aria.",
           "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -46,17 +57,33 @@
         [
           "Apprezzo la tua onestà.",
           "I appreciate your honesty.",
+=======
+          "Sami sentì quella ragazza.",
+          "Sami heard that girl.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Taxi, segui quella macchina.",
+          "Taxi, follow that car.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/764.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mia",
+      "content": "luce",
       "translations": [
-        "my",
-        "mine",
-        "belonging to me"
+        "light",
+        "brightness",
+        "illumination",
+        "radiance"
       ],
+<<<<<<< HEAD:out/eng/ita/843.json
       "usageExamples": [
         [
           "Amo molto mia madre.",
@@ -74,6 +101,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+    },
+    {
+      "content": "tremolante",
+      "translations": [
+        "trembling",
+        "shaking",
+        "quivering",
+        "vibrating"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/764.json
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "A me piacciono i tulipani.",
+  "sentence": "A Robert piace la musica classica.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by MarekMazurkiewicz (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I like tulips."
+    "Robert likes classical music."
   ],
   "parts": [
     {
@@ -17,13 +17,18 @@
       ],
       "usageExamples": [
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/228.json
           "A Fadil piaceva scommettere.",
           "Fadil liked to gamble.",
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/149.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,8 +39,9 @@
       ]
     },
     {
-      "content": "me",
+      "content": "Robert",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/228.json
         "myself",
         "to me",
         "for me"
@@ -115,8 +121,111 @@
         "tulips",
         "tulip flowers",
         "tulip plants"
+=======
+        "Rob",
+        "Bobby",
+        "Bob"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/149.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "piace",
+      "translations": [
+        "to like",
+        "to please",
+        "to be pleasing to"
+      ],
+      "usageExamples": [
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "musica",
+      "translations": [
+        "music",
+        "musical piece",
+        "tune",
+        "song"
+      ],
+      "usageExamples": [
+        [
+          "Che musica ascoltate?",
+          "What music do you listen to?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non hanno orecchio per la musica.",
+          "They don't have an ear for music.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Betty piace la musica classica.",
+          "Betty likes classical music.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "classica",
+      "translations": [
+        "classical",
+        "classic",
+        "traditional",
+        "standard"
+      ],
+      "usageExamples": [
+        [
+          "A proposito di musica classica, qual è il vostro compositore preferito?",
+          "Talking of classical music, who is your favorite composer?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Betty piace la musica classica.",
+          "Betty likes classical music.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

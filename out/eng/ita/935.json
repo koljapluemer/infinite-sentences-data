@@ -1,21 +1,24 @@
 {
-  "sentence": "Siete così paranoici.",
+  "sentence": "Siamo arrivati ieri in treno.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by sundown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're so paranoid."
+    "We arrived yesterday afternoon by train."
   ],
   "parts": [
     {
-      "content": "Siete",
+      "content": "Siamo",
       "translations": [
-        "Seven",
-        "7"
+        "We are",
+        "We exist",
+        "We stand",
+        "We remain"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/935.json
           "Siete senza speranza.",
           "You're hopeless.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -49,27 +52,106 @@
         [
           "È così sciocco.",
           "That's so silly.",
+=======
+          "Siamo veramente così poveri?",
+          "Are we really that poor?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/856.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Siete così impazienti.",
-          "You're so impatient.",
+          "Siamo eccentrici.",
+          "We're unusual.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo preoccupate per il nonno e la nonna.",
+          "We are worried about grandpa and grandma.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "paranoici",
+      "content": "arrivati",
       "translations": [
-        "paranoids",
-        "paranoid individuals",
-        "people with paranoia",
-        "those suffering from paranoia"
+        "arrived",
+        "have arrived",
+        "gotten here",
+        "reached"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ieri",
+      "translations": [
+        "yesterday",
+        "the day before today",
+        "the previous day"
       ],
       "usageExamples": [
         [
-          "Sospettai sempre che Tom e Mary fossero un po' paranoici.",
-          "I always suspected that Tom and Mary were a little paranoid.",
+          "Era occupato ieri?",
+          "Were you busy yesterday?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono andato all'ospedale ieri.",
+          "I went to the hospital yesterday.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono andata l'altro ieri.",
+          "I went there the day before yesterday.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "treno",
+      "translations": [
+        "train",
+        "railway",
+        "locomotive",
+        "train service"
+      ],
+      "usageExamples": [
+        [
+          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
+          "The train is taking off and we haven't bought our tickets!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Se non ci sbrighiamo, perderemo il nostro treno.",
+          "If we don't hurry, we'll miss our train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se lui verrà in treno o in auto.",
+          "I don't know whether he'll come by train or by car.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

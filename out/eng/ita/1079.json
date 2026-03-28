@@ -1,49 +1,53 @@
 {
-  "sentence": "Tu hai ordinato qualcosa?",
+  "sentence": "Tom è un fan.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you order something?"
+    "Tom is a fan."
   ],
   "parts": [
     {
-      "content": "Tu",
+      "content": "Tom",
       "translations": [
-        "You",
-        "Yourself",
-        "Thou",
-        "Ye"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Tu sei sposata?",
-          "Are you married?",
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tu comprendi quel libro.",
-          "You understand that book.",
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1079.json
           "Tu lasceresti tua moglie per me?",
           "Would you leave your wife for me?",
+=======
+          "Tom è famoso.",
+          "Tom is famous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1000.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hai",
+      "content": "è",
       "translations": [
-        "you have",
-        "you've got",
-        "you possess",
-        "you own"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1079.json
           "Perché li hai attaccati?",
           "Why did you attack them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -57,33 +61,57 @@
           "Quanti anni hai, Tom?",
           "How old are you, Tom?",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+=======
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1000.json
         ]
       ]
     },
     {
-      "content": "ordinato",
+      "content": "un",
       "translations": [
-        "ordered",
-        "neat",
-        "tidy",
-        "arranged"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "Tom ha ordinato una bottiglia di vino.",
-          "Tom ordered a bottle of wine.",
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era un libro nuovo.",
+          "It was a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qualcosa",
+      "content": "fan",
       "translations": [
-        "something",
-        "anything",
-        "a thing",
-        "a little something"
+        "ventilator",
+        "blower",
+        "air circulator"
       ],
+<<<<<<< HEAD:out/eng/ita/1079.json
       "usageExamples": [
         [
           "Layla dimenticò qualcosa.",
@@ -101,6 +129,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1000.json
     }
   ]
 }

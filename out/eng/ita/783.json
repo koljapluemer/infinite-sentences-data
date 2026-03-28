@@ -1,59 +1,121 @@
 {
-  "sentence": "Odio tornare da lui. Voglio vivere con voi.",
+  "sentence": "Non è mai online, neanche durante le sue vacanze.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by tinacalysto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I hate going back to him. I want to live with you."
+    "She is never online, even during her vacation."
   ],
   "parts": [
     {
-      "content": "Odio",
+      "content": "Non",
       "translations": [
-        "Hate",
-        "Loathing",
-        "Aversion",
-        "Dislike"
+        "No.",
+        "Not",
+        "Nope.",
+        "Negative."
       ],
       "usageExamples": [
         [
-          "Odio qui.",
-          "I hate it here.",
+          "Non vinco molto spesso.",
+          "I don't win very often.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Odio prendere i mezzi pubblici.",
-          "I hate taking public transportation.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
         ],
         [
-          "Odio il cibo degli ospedali.",
-          "I hate hospital food.",
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tornare",
+      "content": "è",
       "translations": [
-        "to return",
-        "to come back",
-        "to turn back",
-        "to revert"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è divertito.",
+          "Tom had some fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mai",
+      "translations": [
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
+      ],
+      "usageExamples": [
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "online",
+      "translations": [
+        "on the internet",
+        "connected",
+        "available online"
       ],
       "usageExamples": []
     },
     {
-      "content": "da",
+      "content": "neanche",
       "translations": [
-        "from",
-        "since",
-        "by",
-        "of"
+        "not even",
+        "neither",
+        "not at all",
+        "not a single"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "durante",
+      "translations": [
+        "during",
+        "while",
+        "in the course of",
+        "throughout"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/783.json
           "Scendi da quella scala.",
           "Get down from that ladder.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,19 +128,25 @@
         [
           "Imparai l'esperanto da sola.",
           "I learned Esperanto by myself.",
+=======
+          "Hanno sofferto molto durante gli anni della guerra.",
+          "They suffered a lot during the war years.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/704.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lui",
+      "content": "le",
       "translations": [
-        "he",
-        "him",
-        "his"
+        "the",
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/783.json
           "Cos'hai contro di lui?",
           "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -86,49 +154,63 @@
         [
           "Forse è lui.",
           "Maybe it's him.",
+=======
+          "Non le vogliamo là.",
+          "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Judy piace lui.",
-          "Judy likes him.",
+          "Non le può licenziare.",
+          "You can't fire them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/704.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Cuba serve Internet per le esportazioni.",
+          "Cuba needs the Internet for exports.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Voglio",
+      "content": "sue",
       "translations": [
-        "I want",
-        "I would like",
-        "I wish",
-        "I desire"
+        "to sue",
+        "to file a lawsuit",
+        "to take legal action against"
       ],
       "usageExamples": [
         [
-          "Voglio studiare matematica.",
-          "I want to study math.",
+          "A Mary mancavano le sue amiche.",
+          "Mary missed her friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Voglio sapere cos'è l'amore.",
-          "I want to know what love is.",
+          "Le sue parole mi resero senza parole.",
+          "His words rendered me speechless.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/783.json
           "Voglio ricomprare la mia macchina.",
           "I want to buy my car back.",
+=======
+          "Non mi piacciono le sue barzellette.",
+          "I don't like his jokes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/704.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vivere",
+      "content": "vacanze",
       "translations": [
-        "to live",
-        "to exist",
-        "to be alive",
-        "to experience life"
+        "vacation",
+        "holiday",
+        "break",
+        "time off"
       ],
+<<<<<<< HEAD:out/eng/ita/783.json
       "usageExamples": [
         [
           "A Mary non dispiaceva vivere da sola.",
@@ -198,6 +280,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/704.json
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
+  "sentence": "A Mary non piace lavorare da sola.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary doesn't like it when Tom leaves his dirty clothes on the floor."
+    "Mary doesn't like to work by herself."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/167.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,6 +31,21 @@
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/131.json
         ]
       ]
     },
@@ -55,6 +71,14 @@
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/167.json
+=======
+        ],
+        [
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/131.json
         ]
       ]
     },
@@ -64,10 +88,12 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/167.json
           "Certamente non lo odiava.",
           "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,6 +106,20 @@
         [
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
+=======
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/131.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -106,19 +146,28 @@
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/167.json
+=======
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/131.json
         ]
       ]
     },
     {
-      "content": "quando",
+      "content": "lavorare",
       "translations": [
-        "when",
-        "at what time",
-        "whenever",
-        "as soon as"
+        "to work",
+        "working",
+        "to labor",
+        "to operate"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/167.json
           "L'ho usata quando ero in Cina la scorsa estate.",
           "I used it when I was in China last summer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -126,6 +175,15 @@
         [
           "È difficile restare calmi quando le scadenze vengono ignorate.",
           "It's hard to stay calm when deadlines are ignored.",
+=======
+          "Ha ripreso a lavorare con fisioterapisti.",
+          "He went back to work with physiotherapists.",
+          "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
+          "The orphans were forced to work long hours without pay or food.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/131.json
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ],
         [
@@ -136,13 +194,16 @@
       ]
     },
     {
-      "content": "Tom",
+      "content": "da",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "from",
+        "since",
+        "by",
+        "of"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/167.json
           "Tom non cambia mai.",
           "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -155,11 +216,26 @@
         [
           "Tom sembra impegnato.",
           "Tom looks busy.",
+=======
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/131.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/167.json
       "content": "lascia",
       "translations": [
         "leave",
@@ -171,19 +247,23 @@
     },
     {
       "content": "i",
+=======
+      "content": "sola",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/131.json
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "alone",
+        "only",
+        "single",
+        "solitary"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/167.json
           "Tirate fuori i vostri quaderni e le vostre penne.",
           "Get out your notebooks and pens.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -293,6 +373,18 @@
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
+=======
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non posso farla da sola.",
+          "I can't do it by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/131.json
     }
   ]
 }

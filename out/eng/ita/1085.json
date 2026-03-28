@@ -1,11 +1,11 @@
 {
-  "sentence": "Tu sei stato di grande aiuto per la nostra famiglia.",
+  "sentence": "Tu hai ordinato qualcosa?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You've been a great help to our family."
+    "Did you order something?"
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1085.json
           "Tu hai ordinato qualcosa?",
           "Did you order something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,25 +31,40 @@
         [
           "Tu sei sposata?",
           "Are you married?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sei",
-      "translations": [
-        "six",
-        "you are",
-        "if you",
-        "be"
-      ],
-      "usageExamples": [
-        [
+=======
           "Tu sei sposata?",
           "Are you married?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Tu comprendi quel libro.",
+          "You understand that book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu sei quello che ha chiesto a Tom di aiutare?",
+          "Are you the one who asked Tom to help?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1006.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hai",
+      "translations": [
+        "you have",
+        "you've got",
+        "you possess",
+        "you own"
+      ],
+      "usageExamples": [
+        [
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/1085.json
           "O Romeo Romeo, perché sei tu Romeo?",
           "O Romeo Romeo, why are you Romeo?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,11 +72,37 @@
         [
           "Non sei una spia, vero?",
           "You aren't a spy, are you?",
+=======
+          "Non hai coscienza!",
+          "You have no conscience!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ordinato",
+      "translations": [
+        "ordered",
+        "neat",
+        "tidy",
+        "arranged"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha ordinato una bottiglia di vino.",
+          "Tom ordered a bottle of wine.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1006.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/1085.json
       "content": "stato",
       "translations": [
         "state",
@@ -247,6 +289,29 @@
         [
           "A Mary manca la sua famiglia.",
           "Mary misses her family.",
+=======
+      "content": "qualcosa",
+      "translations": [
+        "something",
+        "anything",
+        "a thing",
+        "a little something"
+      ],
+      "usageExamples": [
+        [
+          "Ha perso qualcosa?",
+          "Did you lose something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Layla dimenticò qualcosa.",
+          "Layla forgot something.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha fatto qualcosa di incredibilmente stupido.",
+          "You did something incredibly stupid.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1006.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [

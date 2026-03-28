@@ -1,26 +1,27 @@
 {
-  "sentence": "Faresti meglio ad andare. Si sta facendo tardi.",
+  "sentence": "Erano proprio qui.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You'd better go. It's getting late."
+    "They were right here."
   ],
   "parts": [
     {
-      "content": "faresti",
+      "content": "Erano",
       "translations": [
-        "you would do",
-        "you would make",
-        "would you do",
-        "would you make"
+        "They were",
+        "There were",
+        "It was",
+        "They used to be"
       ],
       "usageExamples": []
     },
     {
-      "content": "meglio",
+      "content": "proprio",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/358.json
         "better",
         "best",
         "preferably",
@@ -171,8 +172,40 @@
         "tardy",
         "delayed",
         "behind schedule"
+=======
+        "own",
+        "proper",
+        "specific",
+        "personal"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/279.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "qui",
+      "translations": [
+        "who",
+        "that",
+        "which",
+        "whom"
+      ],
+      "usageExamples": [
+        [
+          "Odio qui.",
+          "I hate it here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché sono qui?",
+          "Why am I here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "'Aspetti qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da lei immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

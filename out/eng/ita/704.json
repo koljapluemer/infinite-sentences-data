@@ -1,11 +1,11 @@
 {
-  "sentence": "Non ci sarà così tanta gente lì.",
+  "sentence": "Non abbiamo cantato per Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lazovic (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "There won't be so many people there."
+    "We didn't sing for Tom."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/704.json
           "Non siamo sposati.",
           "We're not married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,25 +31,44 @@
         [
           "Non riusciva a vederla.",
           "He couldn't see her.",
+=======
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non l'ho riconosciuto.",
+          "I didn't recognize it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/625.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ci",
+      "content": "abbiamo",
       "translations": [
-        "us",
-        "to us",
-        "for us",
-        "at us"
+        "we have",
+        "we've got",
+        "we possess"
       ],
       "usageExamples": [
         [
-          "Con chi ci andrà?",
-          "Who are you going with?",
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/704.json
           "Quanto denaro ci dovete?",
           "How much money do you owe us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,13 +76,18 @@
         [
           "Lei ci catturerà.",
           "She will catch us.",
+=======
+          "Adesso che abbiamo mangiato, andiamo.",
+          "Now that we have eaten, let's go.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/625.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sarà",
+      "content": "cantato",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/704.json
         "will be",
         "shall be",
         "is going to be",
@@ -109,47 +134,60 @@
         "such a great amount",
         "so many",
         "such a large quantity"
+=======
+        "sung",
+        "chanted",
+        "performed vocally",
+        "sang"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/625.json
       ],
       "usageExamples": []
     },
     {
-      "content": "gente",
+      "content": "per",
       "translations": [
-        "people",
-        "folk",
-        "community",
-        "society"
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
-          "Lui ama parlare con la gente.",
-          "He loves talking to people.",
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
-          "We cannot stand quiet and watch people starve.",
-          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lì",
+      "content": "Tom",
       "translations": [
-        "there",
-        "over there",
-        "in that place",
-        "at that location"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Perché siete andati lì?",
-          "Why did you go there?",
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io ero lì.",
-          "I was there.",
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

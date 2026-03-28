@@ -1,11 +1,11 @@
 {
-  "sentence": "Perché vi state fermando adesso?",
+  "sentence": "Perché siete andati lì?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mactrey (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lilygilder (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why are you stopping now?"
+    "Why did you go there?"
   ],
   "parts": [
     {
@@ -18,11 +18,17 @@
       ],
       "usageExamples": [
         [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Perché qualcuno vorrebbe baciarvi?",
           "Why would anyone want to kiss you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/829.json
           "Perché non stai dormendo?",
           "Why aren't you sleeping?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,25 +36,28 @@
         [
           "Perché non la cercate?",
           "Why don't you look for her?",
+=======
+          "Perché non ha corso?",
+          "Why didn't you run?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/750.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vi",
+      "content": "siete",
       "translations": [
-        "way",
-        "road",
-        "path",
-        "route"
+        "seven",
+        "7"
       ],
       "usageExamples": [
         [
-          "Nessuno vi sostituirà.",
-          "Nobody will ever replace you.",
+          "Voi siete attraenti.",
+          "You're attractive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/829.json
           "So che Tom vi ha ferite.",
           "I know that Tom hurt you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,13 +65,23 @@
         [
           "Perché vi state comportando in modo così strano?",
           "Why are you acting so strange?",
+=======
+          "Voi siete burbere.",
+          "You're grumpy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi siete alzate?",
+          "Are you up?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/750.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "state",
+      "content": "andati",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/829.json
         "condition",
         "situation",
         "status",
@@ -93,24 +112,31 @@
         "coming to a halt",
         "pausing",
         "halting"
+=======
+        "gone",
+        "went",
+        "have gone",
+        "have been"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/750.json
       ],
       "usageExamples": []
     },
     {
-      "content": "adesso",
+      "content": "lì",
       "translations": [
-        "now",
-        "right now",
-        "at this moment",
-        "currently"
+        "there",
+        "over there",
+        "in that place",
+        "at that location"
       ],
       "usageExamples": [
         [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
+          "Io ero lì.",
+          "I was there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/829.json
           "Viviamo in campagna adesso.",
           "We live in the country now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -118,6 +144,10 @@
         [
           "Sto cucinando adesso.",
           "I am cooking now.",
+=======
+          "Non ci sarà così tanta gente lì.",
+          "There won't be so many people there.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/750.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,49 +1,86 @@
 {
-  "sentence": "Volete sentire di più?",
+  "sentence": "Voi non potete dormire qui.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you want to hear more?"
+    "You can't sleep here."
   ],
   "parts": [
     {
-      "content": "Volete",
+      "content": "Voi",
       "translations": [
-        "You want",
-        "Do you want",
-        "Would you like",
-        "Are you wanting"
+        "You (plural)",
+        "You all",
+        "You guys",
+        "You (formal plural)"
       ],
       "usageExamples": [
         [
-          "Volete veramente votare Tom?",
-          "Do you really want to vote for Tom?",
+          "Voi siete attraenti.",
+          "You're attractive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi siete alzate?",
+          "Are you up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi siete burbere.",
+          "You're grumpy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sentire",
+      "content": "non",
       "translations": [
-        "to feel",
-        "to sense",
-        "to perceive",
-        "to hear"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "potete",
+      "translations": [
+        "you can",
+        "you are able to",
+        "you may"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "dormire",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "to sleep",
+        "sleeping",
+        "to take a nap",
+        "to rest"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1121.json
           "Può fare di meglio.",
           "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,20 +93,30 @@
         [
           "Cos'hai contro di lui?",
           "What do you have against him?",
+=======
+          "La lasciai dormire fino a mezzogiorno.",
+          "I let her sleep until noon.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace dormire da sola.",
+          "Mary doesn't like sleeping alone.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1042.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "più",
+      "content": "qui",
       "translations": [
-        "more",
-        "plus",
-        "greater",
-        "further"
+        "who",
+        "that",
+        "which",
+        "whom"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1121.json
           "È anche più economico.",
           "It's also cheaper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -78,11 +125,21 @@
           "Studiate più duramente.",
           "Study harder.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Erano proprio qui.",
+          "They were right here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha offerto più di quanto ci si potesse aspettare.",
-          "He offered more than could be expected.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+          "Perché sono qui?",
+          "Why am I here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1042.json
+        ],
+        [
+          "Odio qui.",
+          "I hate it here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

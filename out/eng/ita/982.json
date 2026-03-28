@@ -1,21 +1,24 @@
 {
-  "sentence": "Tom amerà abitare qua.",
+  "sentence": "Ti darò questa biro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom will love living here."
+    "I'll give you this pen."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Ti",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "You",
+        "To you",
+        "For you",
+        "Yourself"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/982.json
           "Quanti anni hai, Tom?",
           "How old are you, Tom?",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
@@ -28,57 +31,72 @@
         [
           "Tom sta cenando adesso.",
           "Tom is eating dinner right now.",
+=======
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "amerà",
-      "translations": [
-        "he/she will love",
-        "you will love",
-        "it will love"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Sono sicura che Tom amerà il tuo regalo.",
-          "I'm sure Tom will love your present.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/903.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "abitare",
+      "content": "darò",
       "translations": [
-        "to live",
-        "to reside",
-        "to inhabit",
-        "to dwell"
+        "I will give",
+        "I will provide",
+        "I will offer",
+        "I will hand over"
       ],
       "usageExamples": []
     },
     {
-      "content": "qua",
+      "content": "questa",
       "translations": [
-        "where",
-        "in which",
-        "at which",
-        "by which"
+        "this",
+        "this one",
+        "this thing",
+        "this item"
       ],
       "usageExamples": [
         [
-          "Chi era qua?",
-          "Who was here?",
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Devo aspettarli qua.",
-          "I have to wait here for them.",
+          "Tom voleva che questa fosse una sorpresa.",
+          "Tom wanted this to be a surprise.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Preferirei restare qua a Boston.",
-          "I'd rather stay here in Boston.",
+          "Mio nonno si siede sempre su questa sedia.",
+          "My grandfather always sits in this chair.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "biro",
+      "translations": [
+        "ballpoint pen",
+        "biro pen",
+        "ball pen",
+        "ink pen"
+      ],
+      "usageExamples": [
+        [
+          "Prendi in prestito le biro dai tuoi amici.",
+          "You borrow pens from your friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

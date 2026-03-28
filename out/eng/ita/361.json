@@ -1,16 +1,17 @@
 {
-  "sentence": "Forse fareste meglio a chiamarle.",
+  "sentence": "Essendo rimasto ferito in un incidente, non poteva camminare.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Maybe you'd better call them."
+    "Being injured in an accident, he could not walk."
   ],
   "parts": [
     {
-      "content": "forse",
+      "content": "Essendo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/361.json
         "maybe",
         "perhaps",
         "possibly",
@@ -35,39 +36,81 @@
         "you would do",
         "you would make",
         "you would perform"
+=======
+        "Being",
+        "As being",
+        "Since being",
+        "In being"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/282.json
       ],
       "usageExamples": []
     },
     {
-      "content": "meglio",
+      "content": "rimasto",
       "translations": [
-        "better",
-        "best",
-        "preferably",
-        "more suitable"
+        "remained",
+        "stayed",
+        "left",
+        "stayed behind"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ferito",
+      "translations": [
+        "wounded",
+        "injured",
+        "hurt",
+        "damaged"
       ],
       "usageExamples": [
         [
-          "Può fare di meglio.",
-          "You can do better.",
+          "Mi scuso se ho ferito i suoi sentimenti.",
+          "I apologize if I hurt your feelings.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Faresti meglio ad andare. Si sta facendo tardi.",
-          "You'd better go. It's getting late.",
+          "Jimmy è stato ferito in un incidente stradale.",
+          "Jimmy was hurt in a traffic accident.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "a",
+      "content": "un",
       "translations": [
-        "an",
         "one",
-        "each"
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/361.json
           "Nessuno credeva a Tom.",
           "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,19 +123,97 @@
         [
           "Devo andare a trovarli.",
           "I have to go find them.",
+=======
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui sembra un delinquente.",
+          "He looks like a gangster.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/282.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chiamarle",
+      "content": "incidente",
       "translations": [
-        "to call them",
-        "to call her",
-        "to call him",
-        "to call it"
+        "incident",
+        "accident",
+        "event",
+        "occurrence"
+      ],
+      "usageExamples": [
+        [
+          "Tom decise di rinunciare ad andare in skateboard dopo il suo incidente.",
+          "Tom decided to give up skateboarding after his accident.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Jimmy è stato ferito in un incidente stradale.",
+          "Jimmy was hurt in a traffic accident.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "poteva",
+      "translations": [
+        "could",
+        "was able to",
+        "might have been able to",
+        "was possible to"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "camminare",
+      "translations": [
+        "to walk",
+        "walking",
+        "to stroll",
+        "to hike"
+      ],
+      "usageExamples": [
+        [
+          "Guardai John e Mary camminare mano nella mano.",
+          "I watched John and Mary walking hand in hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

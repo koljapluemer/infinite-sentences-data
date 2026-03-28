@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD:out/eng/fra/12.json
   "sentence": "Tout le monde me déteste.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
@@ -39,11 +40,33 @@
         [
           "C’est ainsi que même une seule lettre peut complètement changer le sens.",
           "That's how even a single letter can completely change the meaning.",
+=======
+  "sentence": "La chaise en plastique coûte quatre pounds.",
+  "credits": [
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deniko (CC-BY 2.0 FR)"
+  ],
+  "translations": [
+    "The plastic chair costs four pounds."
+  ],
+  "parts": [
+    {
+      "content": "La",
+      "translations": [
+        "The",
+        "It"
+      ],
+      "usageExamples": [
+        [
+          "La chirurgie laser peut corriger certains problèmes de la vision.",
+          "Laser surgery can fix some kinds of vision problems.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/12.json
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/fra/12.json
       "content": "monde",
       "translations": [
         "world",
@@ -55,23 +78,84 @@
         [
           "Aujourd'hui, Noël est fêté dans de nombreuses régions du monde.",
           "Today, Christmas is celebrated in many parts of the world.",
+=======
+      "content": "chaise",
+      "translations": [
+        "chair",
+        "seat"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "in",
+        "at",
+        "on"
+      ],
+      "usageExamples": [
+        [
+          "Je crois en elle.",
+          "I have faith in her.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ne lui en dis rien.",
+          "Don't tell her about it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quel musée aimerais-tu visiter en premier ?",
+          "Which museum would you like to visit first?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/12.json
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/fra/12.json
       "content": "me",
       "translations": [
         "me",
         "myself"
+=======
+      "content": "plastique",
+      "translations": [
+        "plastic",
+        "plastic material"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/12.json
       ],
       "usageExamples": []
     },
     {
+<<<<<<< HEAD:out/eng/fra/12.json
       "content": "déteste",
       "translations": [
         "hate",
         "detest"
+=======
+      "content": "coûte",
+      "translations": [
+        "costs",
+        "is costing",
+        "costs you"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "quatre",
+      "translations": [
+        "four",
+        "4"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "pounds",
+      "translations": [
+        "pounds",
+        "lbs"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/fra/12.json
       ],
       "usageExamples": []
     }

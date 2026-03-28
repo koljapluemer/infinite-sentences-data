@@ -1,23 +1,33 @@
 {
-  "sentence": "La detesta assolutamente.",
+  "sentence": "L'occhio di Dio tiene d'occhio quelli piccoli.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He absolutely detests her."
+    "The eye of God watches over the little ones."
   ],
   "parts": [
     {
-      "content": "La",
+      "content": "L'occhio",
       "translations": [
-        "The",
-        "It",
-        "Her",
-        "Them"
+        "The eye",
+        "An eye",
+        "Eye"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/547.json
           "La dovete avvertire.",
           "You've got to warn her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,6 +35,20 @@
         [
           "La risposta è complicata.",
           "The answer is complicated.",
+=======
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/468.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,22 +59,63 @@
       ]
     },
     {
-      "content": "detesta",
+      "content": "Dio",
       "translations": [
-        "detest",
-        "loathe",
-        "abhor",
-        "despise"
+        "God",
+        "Deity",
+        "Divine being",
+        "Supreme being"
+      ],
+      "usageExamples": [
+        [
+          "A Dio piacendo, lo farò domani.",
+          "God willing, I will do it tomorrow.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "95 anni! Dio salvi la regina!",
+          "95 years old! God Save the Queen!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tiene",
+      "translations": [
+        "has",
+        "holds",
+        "possesses",
+        "contains"
       ],
       "usageExamples": []
     },
     {
-      "content": "assolutamente",
+      "content": "d'occhio",
       "translations": [
-        "absolutely",
-        "definitely",
-        "utterly",
-        "completely"
+        "of the eye",
+        "in sight",
+        "at a glance",
+        "visible"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "quelli",
+      "translations": [
+        "those",
+        "the ones",
+        "those ones",
+        "them"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "piccoli",
+      "translations": [
+        "small",
+        "little",
+        "tiny",
+        "petite"
       ],
       "usageExamples": []
     }

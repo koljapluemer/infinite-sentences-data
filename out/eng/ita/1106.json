@@ -1,23 +1,26 @@
 {
-  "sentence": "Vladimir è forte come una mucca.",
+<<<<<<< HEAD:out/eng/ita/1106.json
+  "sentence": "Vedemmo un lupo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Agestur (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Vladimir is strong as a cow."
+    "We saw a wolf."
   ],
   "parts": [
     {
-      "content": "Vladimir",
+      "content": "Vedemmo",
       "translations": [
-        "Vladimir (name)",
-        "Vladimir (given name)",
-        "Vladimir (personal name)"
+        "We saw",
+        "We have seen",
+        "We looked at",
+        "We observed"
       ],
       "usageExamples": []
     },
     {
+<<<<<<<< HEAD:out/eng/ita/1106.json
       "content": "è",
       "translations": [
         "it is",
@@ -39,11 +42,47 @@
         [
           "Tom si è divertito.",
           "Tom had fun.",
+=======
+  "sentence": "È una maledizione.",
+  "credits": [
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+  ],
+  "translations": [
+    "It is a curse.",
+    "It's a curse."
+  ],
+  "parts": [
+    {
+      "content": "È",
+      "translations": [
+        "It is",
+        "He is",
+        "She is",
+        "There is"
+      ],
+      "usageExamples": [
+        [
+          "È mio nemico.",
+          "He's my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È piuttosto comodo.",
+          "It's quite comfortable.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1106.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/1106.json
       "content": "forte",
       "translations": [
         "strong",
@@ -87,14 +126,17 @@
     },
     {
       "content": "una",
+========
+      "content": "un",
+>>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1027.json
       "translations": [
         "one",
         "a",
-        "an",
-        "a single"
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<<< HEAD:out/eng/ita/1106.json
           "Io sono una patata.",
           "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,23 +149,65 @@
         [
           "Datele una mano, OK?",
           "Give her a hand, will you?",
+========
+          "Tom è un fan.",
+          "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un portiere.",
+          "He's a goal keeper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono un tipo solitario.",
+          "I'm a loner.",
+>>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1027.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Vorrei una camera.",
+          "I would like a room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono una buona persona.",
+          "I'm a good person.",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1106.json
         ]
       ]
     },
     {
-      "content": "mucca",
+<<<<<<< HEAD:out/eng/ita/1106.json
+      "content": "lupo",
       "translations": [
-        "cow",
-        "female bovine"
+        "wolf",
+        "werewolf",
+        "lone wolf"
+=======
+      "content": "maledizione",
+      "translations": [
+        "curse",
+        "damnation",
+        "hex",
+        "spell"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1106.json
       ],
-      "usageExamples": [
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

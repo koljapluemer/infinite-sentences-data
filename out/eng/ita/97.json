@@ -1,11 +1,11 @@
 {
-  "sentence": "A Layla piacque la festa.",
+  "sentence": "A Layla non piace essere ignorata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Layla liked the party."
+    "Layla doesn't like to be ignored."
   ],
   "parts": [
     {
@@ -17,11 +17,17 @@
       ],
       "usageExamples": [
         [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/97.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,6 +36,11 @@
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/71.json
         ]
       ]
     },
@@ -47,18 +58,51 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/97.json
           "Sami sa dove abita Layla.",
           "Sami knows where Layla lives.",
+=======
+          "A Layla piacque la festa.",
+          "Layla liked the party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami si prese cura del pappagallo di Layla.",
-          "Sami took care of Layla's parrot.",
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/71.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+<<<<<<< HEAD:out/eng/ita/97.json
       "content": "piacque",
       "translations": [
         "pleased",
@@ -80,14 +124,17 @@
     },
     {
       "content": "la",
+=======
+      "content": "piace",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/71.json
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/97.json
           "Hai guardato la partita?",
           "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -95,30 +142,43 @@
         [
           "Sento la primavera nell'aria.",
           "I feel spring in the air.",
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/71.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/97.json
+=======
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/71.json
         ]
       ]
     },
     {
-      "content": "festa",
+      "content": "essere",
       "translations": [
-        "party",
-        "celebration",
-        "feast",
-        "festival"
+        "to be",
+        "to exist",
+        "to occur",
+        "to happen"
       ],
       "usageExamples": [
         [
-          "Noi terremo una festa.",
-          "We'll have a party.",
+          "Deve essere difficile.",
+          "That must be hard.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/97.json
           "L'ho conosciuto a una festa.",
           "I met him at a party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -126,6 +186,15 @@
         [
           "A Mary piace fare festa.",
           "Mary likes to party.",
+=======
+          "La pâte brisée, per essere buona, deve essere friabile e leggera.",
+          "To be good, pâte brisée should be light and flaky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu devi essere onesta con noi.",
+          "You need to be honest with us.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/71.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

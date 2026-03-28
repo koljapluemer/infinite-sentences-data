@@ -1,51 +1,66 @@
 {
-  "sentence": "Ho avuto la fortuna di seguire il mio percorso senza rimpianti.",
+  "sentence": "Hanno perso la guerra sul fronte orientale.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've been lucky to follow my own path without regrets."
+    "They lost the war on the eastern front."
   ],
   "parts": [
     {
-      "content": "Ho",
+      "content": "Hanno",
       "translations": [
-        "I have",
-        "I possess",
-        "I hold",
-        "I own"
+        "They have",
+        "They possess",
+        "They own"
       ],
       "usageExamples": [
         [
-          "Ho iniziato dal fondo.",
-          "I started at the bottom.",
+          "Hanno cominciato ad innervosirsi.",
+          "They started to get nervous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/407.json
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
+=======
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/328.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
+          "Hanno delle famiglie da sfamare.",
+          "They have families to feed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "avuto",
+      "content": "perso",
       "translations": [
-        "had",
-        "received",
-        "got",
-        "obtained"
+        "lost",
+        "missing",
+        "absent",
+        "gone"
       ],
       "usageExamples": [
         [
-          "Voi avete mai avuto un animale domestico?",
-          "Have you ever had a pet?",
+          "Ha perso qualcosa?",
+          "Have you lost something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "He lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -59,6 +74,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/407.json
           "Apri la cassaforte.",
           "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -71,30 +87,35 @@
         [
           "Sento la primavera nell'aria.",
           "I feel spring in the air.",
+=======
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/328.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fortuna",
+      "content": "guerra",
       "translations": [
-        "fortune",
-        "luck",
-        "fate",
-        "destiny"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "war",
+        "conflict",
+        "battle",
+        "combat"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/407.json
           "Beve latte di mucca.",
           "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -108,12 +129,70 @@
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "L'unica risposta era la guerra.",
+          "The only answer was war.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Bush non piace la guerra.",
+          "Bush doesn't like war.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno sofferto molto durante gli anni della guerra.",
+          "They suffered a lot during the war years.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "seguire",
+      "content": "sul",
       "translations": [
+        "on",
+        "upon",
+        "over",
+        "above"
+      ],
+      "usageExamples": [
+        [
+          "Lascia il mais sul tavolo.",
+          "Leave the corn on the table.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta contando sul tuo aiuto.",
+          "Tom is counting on your help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
+          "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fronte",
+      "translations": [
+        "forehead",
+        "front",
+        "face",
+        "frontline"
+      ],
+      "usageExamples": [
+        [
+          "Alcune scuole devono far fronte a tagli al bilancio.",
+          "Some schools face budget cuts.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/328.json
+        ]
+      ]
+    },
+    {
+      "content": "orientale",
+      "translations": [
+<<<<<<< HEAD:out/eng/ita/407.json
         "to follow",
         "to pursue",
         "to track",
@@ -222,6 +301,12 @@
         "remorse",
         "sorrow",
         "lament"
+=======
+        "eastern",
+        "oriental",
+        "from the East",
+        "eastern-style"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/328.json
       ],
       "usageExamples": []
     }

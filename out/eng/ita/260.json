@@ -1,41 +1,43 @@
 {
-  "sentence": "Avrebbe dovuto chiedere a lui prima.",
+  "sentence": "Avete il nostro rispetto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should've asked him first."
+    "You have our respect."
   ],
   "parts": [
     {
-      "content": "avrebbe",
+      "content": "Avete",
       "translations": [
-        "would have",
-        "would possess",
-        "would hold"
+        "You have",
+        "Do you have?",
+        "You all have",
+        "Have you?"
       ],
       "usageExamples": [
         [
-          "Tom avrebbe dovuto chiudere tutte le sue finestre.",
-          "Tom should've closed all his windows.",
+          "Avete mai provato?",
+          "Did you ever try?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
-          "A son would represent continuity in a rapidly changing world.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Avete annotato il numero di telefono?",
+          "Did you write down the telephone number?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ha detto che mi avrebbe aiutata a farlo.",
-          "She said she'd help me do that.",
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dovuto",
+      "content": "il",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/260.json
         "due",
         "owed",
         "required",
@@ -114,11 +116,16 @@
       "content": "lui",
       "translations": [
         "he",
+=======
+        "the",
+        "it",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/181.json
         "him",
-        "his"
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/260.json
           "Cos'hai contro di lui?",
           "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -126,25 +133,35 @@
         [
           "Parlo frequentemente con lui.",
           "I frequently talk to him.",
+=======
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Forse è lui.",
-          "Maybe it's him.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/181.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "prima",
+      "content": "nostro",
       "translations": [
-        "first",
-        "primary",
-        "initial",
-        "foremost"
+        "our",
+        "ours",
+        "of ours",
+        "belonging to us"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/260.json
           "Ho visto Tom prima.",
           "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -157,7 +174,37 @@
         [
           "Quanti anni aveva nella prima foto?",
           "How old was she in the first photo?",
+=======
+          "250 copie sono disponibili dal nostro negozio ufficiale.",
+          "250 copies are available from our official shop.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si unisca al nostro gruppo di lettura.",
+          "Join our book club.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Giusto, cominciamo il nostro lavoro.",
+          "Right, let's start our work.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/181.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "rispetto",
+      "translations": [
+        "respect",
+        "regard",
+        "consideration",
+        "esteem"
+      ],
+      "usageExamples": [
+        [
+          "Mi sento unico rispetto agli altri.",
+          "I feel unique compared to others.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     }

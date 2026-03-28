@@ -1,58 +1,117 @@
 {
-  "sentence": "Lo avreste dovuto aiutare con il suo lavoro.",
+  "sentence": "Lei è piuttosto soddisfatta della sua vita così com'è.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should have helped him with his work."
+    "She is quite satisfied with her life as it is."
   ],
   "parts": [
     {
-      "content": "Lo",
+      "content": "Lei",
       "translations": [
-        "It",
-        "Him",
-        "Them",
-        "That"
+        "You (formal)",
+        "She",
+        "Mrs.",
+        "Ma'am"
       ],
       "usageExamples": [
         [
-          "Lo mostreremo a lei.",
-          "We'll show her.",
+          "Lei ci catturerà.",
+          "She will catch us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lo incontro per colazione.",
-          "I'm meeting him for breakfast.",
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/606.json
           "Lo decorò.",
           "He decorated it.",
+=======
+          "Lei è americano?",
+          "Are you American?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/527.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "avreste",
+      "content": "è",
       "translations": [
-        "you would have",
-        "you would possess",
-        "you would hold"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piuttosto",
+      "translations": [
+        "rather",
+        "quite",
+        "fairly",
+        "instead"
+      ],
+      "usageExamples": [
+        [
+          "È piuttosto avventurosa, vero?",
+          "She's pretty adventurous, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È piuttosto comodo.",
+          "It's quite comfortable.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "soddisfatta",
+      "translations": [
+        "satisfied",
+        "pleased",
+        "content",
+        "happy"
       ],
       "usageExamples": []
     },
     {
-      "content": "dovuto",
+      "content": "della",
       "translations": [
-        "due",
-        "owed",
-        "required",
-        "necessary"
+        "of the",
+        "from the",
+        "about the",
+        "concerning the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/606.json
           "Tom avrebbe dovuto chiudere tutte le sue finestre.",
           "Tom should've closed all his windows.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -60,16 +119,29 @@
         [
           "Tom sarebbe dovuto venire alla riunione.",
           "Tom should've come to the meeting.",
+=======
+          "Sami consegnò della pizza.",
+          "Sami delivered pizza.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/527.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avrebbe dovuto chiedere a lui prima.",
-          "You should've asked him first.",
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/606.json
+=======
+        ],
+        [
+          "Più della metà delle persone condannate dai tribunali è innocente.",
+          "More than half of the people convicted by the courts are innocent.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/527.json
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/606.json
       "content": "aiutare",
       "translations": [
         "to help",
@@ -149,14 +221,18 @@
     },
     {
       "content": "suo",
+=======
+      "content": "sua",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/527.json
       "translations": [
+        "your",
+        "yours",
         "his",
-        "her",
-        "its",
-        "their"
+        "her"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/606.json
           "A Mary piace davvero il suo lavoro.",
           "Mary really enjoys her job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -169,27 +245,72 @@
         [
           "A Mary mancano suo marito e i suoi figli.",
           "Mary misses her husband and children.",
+=======
+          "Dov'è la sua casa?",
+          "Where's his home?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa della sua salute.",
+          "Mary cares about her health.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi mandi la sua posizione.",
+          "Send me your position.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/527.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lavoro",
+      "content": "vita",
       "translations": [
-        "work",
-        "job",
-        "labor",
-        "employment"
+        "life",
+        "lifetime",
+        "existence",
+        "way of life"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/606.json
           "A Mary piace davvero il suo lavoro.",
           "Mary really enjoys her job.",
+=======
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché questo è il mio lavoro?",
-          "Why is this my job?",
+          "La vita è una lunga, lunga strada.",
+          "Life is a long, long road.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "così",
+      "translations": [
+        "so",
+        "like this",
+        "in this way",
+        "thus"
+      ],
+      "usageExamples": [
+        [
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/527.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo veramente così poveri?",
+          "Are we really that poor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così paranoici.",
+          "You're so paranoid.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -198,6 +319,16 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "com'è",
+      "translations": [
+        "how is it",
+        "how's it",
+        "what is it like",
+        "what's it like"
+      ],
+      "usageExamples": []
     }
   ]
 }

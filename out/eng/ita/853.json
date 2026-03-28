@@ -1,25 +1,50 @@
 {
-  "sentence": "Quando depongono le uova i salmoni?",
+  "sentence": "Può fare di meglio.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lepotdeterre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "When do salmon spawn?"
+    "You can do better."
   ],
   "parts": [
     {
-      "content": "Quando",
+      "content": "Può",
       "translations": [
-        "When",
-        "At what time",
-        "At which point",
-        "During which period"
+        "can",
+        "may",
+        "is able to",
+        "is allowed to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "fare",
+      "translations": [
+        "to do",
+        "to make",
+        "to act",
+        "to perform"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/853.json
           "Quando è stata l'ultima volta che avete indossato degli occhiali da sole?",
           "When was the last time you wore sunglasses?",
+=======
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo devo fare prima di potere andare a casa oggi.",
+          "I have to do that before I can go home today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse Tom lo può fare.",
+          "Perhaps Tom can do that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/774.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -30,35 +55,26 @@
       ]
     },
     {
-      "content": "depongono",
+      "content": "di",
       "translations": [
-        "they lay down",
-        "they deposit",
-        "they put down",
-        "they place down"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "le",
-      "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Non le vogliamo là.",
-          "We don't want them there.",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non le può licenziare.",
-          "You can't fire them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/853.json
           "Tom avrebbe dovuto chiudere tutte le sue finestre.",
           "Tom should've closed all his windows.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -97,18 +113,34 @@
         [
           "Noi studiamo tutti i giorni inglese.",
           "We study English every day.",
+=======
+          "Mi importa di lei.",
+          "I care about her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/774.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "salmoni",
+      "content": "meglio",
       "translations": [
-        "salmon",
-        "salmon fish",
-        "salmon meat"
+        "better",
+        "best",
+        "preferably",
+        "more suitable"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Forse fareste meglio a chiamarle.",
+          "Maybe you'd better call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Faresti meglio ad andare. Si sta facendo tardi.",
+          "You'd better go. It's getting late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

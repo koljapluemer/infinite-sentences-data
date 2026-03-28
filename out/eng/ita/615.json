@@ -1,28 +1,133 @@
 {
-  "sentence": "Loro l'hanno fatta davvero.",
+  "sentence": "Lo dovrebbe chiedere a loro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They really did it."
+    "You should ask them."
   ],
   "parts": [
     {
-      "content": "Loro",
+      "content": "Lo",
       "translations": [
-        "parrots",
-        "them",
-        "they",
-        "you all"
+        "It",
+        "Him",
+        "Them",
+        "That"
       ],
       "usageExamples": [
         [
-          "Loro ci aiutano.",
-          "They help us.",
+          "Lo hanno aiutato.",
+          "They helped him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo decorò.",
+          "She decorated it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dovrebbe",
+      "translations": [
+        "should",
+        "ought to",
+        "must",
+        "is supposed to"
+      ],
+      "usageExamples": [
+        [
+          "Perché a Tom dovrebbe importare?",
+          "Why should Tom care?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non so chi dovrebbe guidarmi.",
+          "I don't know who should guide me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse lo dovrebbe chiedere a lei.",
+          "Maybe you should ask her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "chiedere",
+      "translations": [
+        "to ask",
+        "to request",
+        "to inquire",
+        "to demand"
+      ],
+      "usageExamples": [
+        [
+          "Forse lo dovrebbe chiedere a lei.",
+          "Maybe you should ask her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avrebbe dovuto chiedere a lui prima.",
+          "You should've asked him first.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso chiedere il vostro nome?",
+          "May I ask your name?",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "loro",
+      "translations": [
+        "their",
+        "theirs",
+        "them",
+        "those",
+        "They"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/615.json
           "Loro sono fratello e sorella.",
           "They're brother and sister.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,6 +186,15 @@
         [
           "A Mary piace davvero nuotare, vero?",
           "Mary really likes swimming, doesn't she?",
+=======
+          "Non vi dimenticate di loro.",
+          "Don't forget them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiedilo a loro e basta.",
+          "Just ask them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/536.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

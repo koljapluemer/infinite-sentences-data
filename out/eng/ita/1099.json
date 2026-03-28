@@ -1,16 +1,17 @@
 {
-  "sentence": "Vede spesso il fondo del bicchiere.",
+  "sentence": "Un crimine è stato commesso.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sharris123 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He often sees the bottom of the glass."
+    "A crime has been committed."
   ],
   "parts": [
     {
-      "content": "vede",
+      "content": "Un",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1099.json
         "see",
         "look",
         "watch",
@@ -73,35 +74,57 @@
           "Lasci andare il ragazzo.",
           "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+        "One",
+        "A",
+        "An"
+      ],
+      "usageExamples": [
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un gruppo di gangster ha rubato del denaro.",
+          "A group of gangsters stole money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Un linguaggio non è mai abbastanza.",
+          "One language is never enough.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1020.json
         ]
       ]
     },
     {
-      "content": "fondo",
+      "content": "crimine",
       "translations": [
-        "background",
-        "fund",
-        "bottom",
-        "base"
+        "crime",
+        "offense",
+        "felony",
+        "wrongdoing"
       ],
       "usageExamples": [
         [
-          "Ho iniziato dal fondo.",
-          "I started at the bottom.",
+          "Ha commesso un crimine dopo l'altro.",
+          "He committed one crime after another.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "del",
+      "content": "è",
       "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1099.json
           "Yanni comprò del cibo.",
           "Yanni bought food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -115,18 +138,65 @@
           "SI tenne una festa d'addio in onore del sig. Smith.",
           "A farewell party was held in honor of Mr Smith.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1020.json
         ]
       ]
     },
     {
-      "content": "bicchiere",
+      "content": "stato",
       "translations": [
-        "glass",
-        "cup",
-        "drinking glass",
-        "tumbler"
+        "state",
+        "status",
+        "condition",
+        "situation"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato scaricato.",
+          "He was dumped.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono stato un istruttore di sci per tre anni.",
+          "I've been a ski instructor for three years.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "commesso",
+      "translations": [
+        "clerk",
+        "salesperson",
+        "shop assistant",
+        "store attendant"
+      ],
+      "usageExamples": [
+        [
+          "Ha commesso un crimine dopo l'altro.",
+          "He committed one crime after another.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Io non ho preso nulla per te.",
+  "sentence": "Io insegno il berbero.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I didn't get anything for you."
+    "I teach Berber."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/487.json
           "Io appoggiavo Tom.",
           "I used to support Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,6 +25,15 @@
         [
           "Io insegno il berbero.",
           "I teach Berber.",
+=======
+          "Io sono solo curiosa.",
+          "I'm just curious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io l'ho comprata.",
+          "I bought it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/408.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,15 +44,26 @@
       ]
     },
     {
-      "content": "non",
+      "content": "insegno",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "I teach.",
+        "I instruct",
+        "I show",
+        "I demonstrate"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/487.json
           "Preferirei non farlo.",
           "I'd rather not do it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,23 +71,33 @@
         [
           "Certamente non lo odiava.",
           "She certainly did not hate him.",
+=======
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Yanni non comprende l'Islam.",
-          "Yanni doesn't understand Islam.",
+          "Non conosco il sistema.",
+          "I don't know the system.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/408.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ho",
+      "content": "berbero",
       "translations": [
-        "I have",
-        "I've got",
-        "I possess",
-        "I own"
+        "Berber",
+        "Berber language",
+        "Berber people",
+        "Berber culture"
       ],
+<<<<<<< HEAD:out/eng/ita/487.json
       "usageExamples": [
         [
           "Io l'ho comprata.",
@@ -182,6 +213,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/408.json
     }
   ]
 }

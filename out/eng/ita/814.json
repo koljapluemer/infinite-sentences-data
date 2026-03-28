@@ -1,11 +1,11 @@
 {
-  "sentence": "Perché non lo scorda e basta?",
+  "sentence": "Perché li hai attaccati?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why don't you just forget it?"
+    "Why did you attack them?"
   ],
   "parts": [
     {
@@ -23,6 +23,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/814.json
           "Perché li hai attaccati?",
           "Why did you attack them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -57,43 +58,86 @@
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/735.json
         ]
       ]
     },
     {
-      "content": "lo",
+      "content": "li",
       "translations": [
         "the",
         "it",
         "him",
-        "that"
+        "them"
       ],
       "usageExamples": [
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "Dove li avete oliati?",
+          "Where did you oil them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
+          "Tutti li ignorarono.",
+          "Everyone ignored them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/814.json
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
+=======
+          "Mary li ha ingannati tutti.",
+          "Mary fooled them all.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/735.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scorda",
+      "content": "hai",
       "translations": [
-        "forget",
-        "to forget",
-        "forgetting"
+        "you have",
+        "you've got",
+        "you possess",
+        "you own"
+      ],
+      "usageExamples": [
+        [
+          "Non hai coscienza!",
+          "You have no conscience!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "attaccati",
+      "translations": [
+        "stick to it",
+        "attach yourself",
+        "cling to",
+        "hold on"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/814.json
     },
     {
       "content": "e",
@@ -136,6 +180,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/735.json
     }
   ]
 }

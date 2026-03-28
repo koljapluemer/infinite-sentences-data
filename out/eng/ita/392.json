@@ -1,11 +1,11 @@
 {
-  "sentence": "Ha ritrovato per caso la macchina fotografica che aveva perso.",
+  "sentence": "Ha mai visto uno di questi?",
   "credits": [
-    "Sentence from Tatoeba by leonardo (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He found his lost camera by chance."
+    "Have you ever seen one of these?"
   ],
   "parts": [
     {
@@ -17,11 +17,20 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/392.json
+=======
+          "Ha perso qualcosa?",
+          "Have you lost something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/313.json
           "Ha perso la partita.",
           "He lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/392.json
           "Ha perso qualcosa?",
           "Have you lost something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,19 +38,128 @@
         [
           "Ha fatto qualcosa di incredibilmente stupido.",
           "You did something incredibly stupid.",
+=======
+          "Ha a malapena toccato la sua cena.",
+          "He barely touched his dinner.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/313.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ritrovato",
+      "content": "mai",
       "translations": [
-        "found",
-        "discovered",
-        "retrieved",
-        "recovered"
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "visto",
+      "translations": [
+        "visa",
+        "sight",
+        "view",
+        "sightseeing"
+      ],
+      "usageExamples": [
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva quello che ha visto.",
+          "Mary didn't like what she saw.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "uno",
+      "translations": [
+        "one",
+        "a single",
+        "one unit",
+        "one item"
+      ],
+      "usageExamples": [
+        [
+          "Ne ho portato fuori uno.",
+          "I brought one out.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La figlia di uno zio è una cugina.",
+          "The daughter of an uncle is a cousin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Shloyme vuole essere uno scrittore.",
+          "Shloyme wants to be a writer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "questi",
+      "translations": [
+        "these",
+        "this one",
+        "these ones",
+        "this"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/392.json
     },
     {
       "content": "per",
@@ -233,6 +351,8 @@
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/313.json
     }
   ]
 }

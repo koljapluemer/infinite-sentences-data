@@ -1,11 +1,11 @@
 {
-  "sentence": "Io preferirei non discuterne ora.",
+  "sentence": "Io odio i pesci rossi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd rather not discuss it now."
+    "I hate goldfish."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/505.json
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,18 +25,31 @@
         [
           "Io l'ho sentito.",
           "I heard it.",
+=======
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/426.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono una patata.",
-          "I am a potato.",
+          "Io consegno pizze.",
+          "I deliver pizzas.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/505.json
+=======
+        ],
+        [
+          "Io sto diventando piccolo!",
+          "I am getting small!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/426.json
         ]
       ]
     },
     {
-      "content": "preferirei",
+      "content": "odio",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/505.json
         "I would prefer",
         "I would rather",
         "I would choose",
@@ -82,24 +96,31 @@
         "to talk about it",
         "to debate it",
         "to deliberate on it"
+=======
+        "hatred",
+        "hate",
+        "aversion",
+        "loathing"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/426.json
       ],
       "usageExamples": []
     },
     {
-      "content": "ora",
+      "content": "i",
       "translations": [
-        "now",
-        "hour",
-        "time",
-        "moment"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/505.json
           "Vado ora a iscrivermi a un corso di tedesco.",
           "I'm going to sign up for a German class right now.",
           "Sentence from Tatoeba by xicotenga (CC-BY 2.0 FR)"
@@ -107,9 +128,35 @@
         [
           "Perché non sta capitando ora?",
           "Why isn't that happening now?",
+=======
+          "Io amo i miei genitori.",
+          "I love my parents.",
+          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi studiamo tutti i giorni inglese.",
+          "We study English every day.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/426.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "pesci",
+      "translations": [
+        "fish",
+        "fishes",
+        "seafood"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "rossi",
+      "translations": [
+        "red",
+        "reddish"
+      ],
+      "usageExamples": []
     }
   ]
 }

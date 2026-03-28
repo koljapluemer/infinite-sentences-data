@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom ha comprato un anello per Mary.",
+  "sentence": "Tom e Mary stanno decorando la loro stanza.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom bought Mary a ring."
+    "Tom and Mary are decorating their room."
   ],
   "parts": [
     {
@@ -21,6 +21,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1008.json
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,24 +29,35 @@
         [
           "Tom sta gemendo.",
           "Tom is whining.",
+=======
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/929.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "e",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "and",
+        "also",
+        "as well as",
+        "in addition"
       ],
       "usageExamples": [
         [
-          "Tom ha molti amici?",
-          "Does Tom have lots of friends?",
+          "Mi piacciono i cani e i gatti.",
+          "I like dogs and cats.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1008.json
           "Lei ha già cominciato.",
           "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -124,6 +136,15 @@
         [
           "Sono preparata per morire.",
           "I'm prepared to die.",
+=======
+          "Siamo preoccupate per il nonno e la nonna.",
+          "We are worried about grandpa and grandma.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Natalia e Veronica si guardavano a vicenda con complicità.",
+          "Natalia and Veronica looked at each other in complicity.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/929.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -152,6 +173,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1008.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -159,6 +181,124 @@
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano i suoi figli.",
+          "Mary missed her kids.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stanno",
+      "translations": [
+        "they are",
+        "they're",
+        "they stand",
+        "they stay"
+      ],
+      "usageExamples": [
+        [
+          "Loro stanno parlando di lei?",
+          "Are they talking about you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le mie gambe stanno migliorando giorno dopo giorno.",
+          "My legs are getting better day by day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "decorando",
+      "translations": [
+        "decorating",
+        "ornamenting",
+        "embellishing",
+        "adorning"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "loro",
+      "translations": [
+        "their",
+        "theirs",
+        "them",
+        "those",
+        "They"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vi dimenticate di loro.",
+          "Don't forget them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le scarpe che diedi a Tom e Mary erano troppo piccole per loro.",
+          "The shoes I gave Tom and Mary were too small for them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stanza",
+      "translations": [
+        "verse",
+        "section",
+        "paragraph"
+      ],
+      "usageExamples": [
+        [
+          "A Dan è stato permesso di entrare nella stanza degli interrogatori.",
+          "Dan was allowed into the interrogation room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non giocare in quella stanza.",
+          "Don't play in that room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Probabilmente è da sola nella sua stanza.",
+          "She's probably alone in her room.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/929.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

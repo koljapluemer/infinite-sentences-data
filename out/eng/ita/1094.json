@@ -1,26 +1,29 @@
 {
-  "sentence": "Un figlio avrebbe rappresentato la continuità in un mondo in rapido cambiamento.",
+  "sentence": "Tutti erano in ansia.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "A son would represent continuity in a rapidly changing world."
+    "Everyone was apprehensive."
   ],
   "parts": [
     {
-      "content": "Un",
+      "content": "Tutti",
       "translations": [
-        "One",
-        "A",
-        "An"
+        "Everyone",
+        "All",
+        "Everybody",
+        "All people"
       ],
       "usageExamples": [
         [
-          "Un cane ha corso.",
-          "A dog ran.",
+          "Tutti li ignorarono.",
+          "Everyone ignored them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1094.json
           "Un linguaggio non è mai abbastanza.",
           "One language is never enough.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,22 +31,40 @@
         [
           "Un gruppo di gangster ha rubato del denaro.",
           "A group of gangsters stole money.",
+=======
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1015.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "figlio",
+      "content": "erano",
       "translations": [
-        "son",
-        "child",
-        "offspring",
-        "descendant"
+        "they were",
+        "they used to be",
+        "they had been"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1094.json
           "A Mary mancava suo figlio.",
           "Mary missed her son.",
+=======
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom e Mary non erano feriti.",
+          "Tom and Mary weren't injured.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Boston erano tutti congregazionalisti.",
+          "In Boston, they were all congregationalists.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1015.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -54,6 +75,7 @@
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/1094.json
       "content": "avrebbe",
       "translations": [
         "would have",
@@ -125,6 +147,8 @@
       "usageExamples": []
     },
     {
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1015.json
       "content": "in",
       "translations": [
         "inside",
@@ -138,8 +162,13 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È stata in piedi?",
-          "Did you stand up?",
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -150,8 +179,9 @@
       ]
     },
     {
-      "content": "un",
+      "content": "ansia",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1094.json
         "one",
         "a",
         "an"
@@ -207,24 +237,14 @@
         "quick",
         "swift",
         "speedy"
+=======
+        "anxiety",
+        "nervousness",
+        "apprehension",
+        "unease"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1015.json
       ],
       "usageExamples": []
-    },
-    {
-      "content": "cambiamento",
-      "translations": [
-        "change",
-        "transformation",
-        "modification",
-        "shift"
-      ],
-      "usageExamples": [
-        [
-          "Il cambiamento è spaventoso.",
-          "Change is scary.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

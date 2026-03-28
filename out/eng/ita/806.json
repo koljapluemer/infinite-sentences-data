@@ -1,23 +1,24 @@
 {
-  "sentence": "Perché Tom è sempre così occupato?",
+  "sentence": "Per favore, dammi un altro po' di tè.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why is Tom always so busy?"
+    "Please give me a little more tea."
   ],
   "parts": [
     {
-      "content": "Perché",
+      "content": "Per",
       "translations": [
-        "Why",
-        "For what reason",
-        "What for",
-        "Why is that"
+        "for",
+        "by",
+        "through",
+        "per"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/806.json
           "Perché sono qui?",
           "Why are they here?",
           "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
@@ -30,18 +31,35 @@
         [
           "Perché non stai dormendo?",
           "Why aren't you sleeping?",
+=======
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per ringraziarti, ecco un regalo.",
+          "To thank you, here is a gift.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/727.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "favore",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "favor",
+        "support",
+        "kindness",
+        "assistance"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/806.json
           "Tom è un esperto.",
           "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,20 +72,44 @@
         [
           "Tom si è divertito.",
           "Tom had some fun.",
+=======
+          "Vorrei un po' di vino bianco, per favore.",
+          "I'd like some white wine, please.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, digli di partire.",
+          "Please tell him to leave.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, faccia un bagno al cane.",
+          "Please give the dog a bath.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/727.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "dammi",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "give me",
+        "hand me",
+        "pass me",
+        "bring me"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/806.json
           "Mangia finché è caldo.",
           "Eat while it's warm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -75,6 +117,20 @@
         [
           "Il tempo è finito.",
           "Time is up.",
+=======
+          "Sono un tipo solitario.",
+          "I'm a loner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/727.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -85,20 +141,21 @@
       ]
     },
     {
-      "content": "sempre",
+      "content": "altro",
       "translations": [
-        "always",
-        "forever",
-        "at all times",
-        "constantly"
+        "other",
+        "another",
+        "else",
+        "additional"
       ],
       "usageExamples": [
         [
-          "Io sono sempre stato un repubblicano.",
-          "I've always been a Republican.",
+          "Che altro vorresti?",
+          "What more would you want?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/806.json
           "L'autobus non arriva sempre in orario.",
           "The bus doesn't always come on time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,19 +164,30 @@
           "Vieni in Albania, dove trovi sempre del caffè ottimo.",
           "Come to Albania, where we always make good coffee.",
           "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+=======
+          "Che altro stai considerando?",
+          "What else are you considering?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che altro volete che compri?",
+          "What else do you want me to buy?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/727.json
         ]
       ]
     },
     {
-      "content": "così",
+      "content": "po'",
       "translations": [
-        "so",
-        "like this",
-        "in this way",
-        "thus"
+        "a little",
+        "somewhat",
+        "a bit",
+        "rather"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/806.json
           "È così sciocco.",
           "That's so silly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -132,25 +200,59 @@
         [
           "Siamo veramente così poveri?",
           "Are we really that poor?",
+=======
+          "'Aspetta qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da te immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A volte, un po' di orgoglio è quello che ci serve.",
+          "Sometimes, a little bit of pride is what we need.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che ne dite di un po' di caffè?",
+          "How about some coffee?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/727.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "occupato",
+      "content": "di",
       "translations": [
-        "busy",
-        "occupied",
-        "engaged",
-        "taken"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Era occupato ieri?",
-          "Were you busy yesterday?",
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "tè",
+      "translations": [
+        "tea",
+        "herbal tea",
+        "tea beverage",
+        "infusion"
+      ],
+      "usageExamples": []
     }
   ]
 }

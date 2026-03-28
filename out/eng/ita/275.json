@@ -1,25 +1,34 @@
 {
-  "sentence": "Che cosa c'è per cena?",
+  "sentence": "Cercherò di addormentarmi con la speranza di sognarti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by SHamp (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Mario8286 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's for dinner?",
-    "What's for supper?"
+    "I'll try to fall asleep with the hope of dreaming of you."
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "Cercherò",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "I will look for",
+        "I will seek",
+        "I will search for",
+        "I will try to find"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/275.json
           "Che altro stai considerando?",
           "What else are you considering?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -33,21 +42,61 @@
           "Che altro vorresti?",
           "What more would you want?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/196.json
         ]
       ]
     },
     {
-      "content": "cosa",
+      "content": "addormentarmi",
       "translations": [
-        "thing",
-        "item",
-        "object",
-        "matter"
+        "to fall asleep",
+        "to doze off",
+        "to nod off",
+        "to drift off"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/275.json
           "Sai cosa vuole Tom?",
           "Do you know what Tom wants?",
+=======
+          "Sono fidanzata con lei.",
+          "I am engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/196.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -63,33 +112,56 @@
       ]
     },
     {
-      "content": "c'è",
+      "content": "la",
       "translations": [
-        "there is",
-        "there are",
-        "is there",
-        "there exists"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "A Berlino c'è già stata.",
-          "You've already been to Berlin.",
+          "Ha perso la partita.",
+          "She lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Berlino c'è già stato.",
-          "You have already been to Berlin.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dov'è la sua casa?",
+          "Where's his home?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "speranza",
+      "translations": [
+        "hope",
+        "expectation",
+        "aspiration",
+        "promise"
+      ],
+      "usageExamples": [
+        [
+          "Siete senza speranza.",
+          "You're hopeless.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "per",
+      "content": "sognarti",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "to dream of you",
+        "dreaming of you",
+        "to have dreams about you",
+        "to envision you in dreams"
       ],
+<<<<<<< HEAD:out/eng/ita/275.json
       "usageExamples": [
         [
           "Sono preparata per morire.",
@@ -132,6 +204,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/196.json
     }
   ]
 }

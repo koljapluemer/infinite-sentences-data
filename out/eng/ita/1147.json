@@ -1,11 +1,11 @@
 {
-  "sentence": "È descritto come un moralista.",
+  "sentence": "È anche più economico.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He is described as a moralist."
+    "It's also cheaper."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1147.json
           "È stata in piedi?",
           "Did you stand up?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,30 +31,35 @@
         [
           "È scoraggiata, vero?",
           "She's discouraged, isn't she?",
+=======
+          "È un portiere.",
+          "He's a goal keeper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È piuttosto comodo.",
+          "It's quite comfortable.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1068.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "descritto",
+      "content": "anche",
       "translations": [
-        "described",
-        "depicted",
-        "outlined",
-        "portrayed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "come",
-      "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
+        "also",
+        "too",
+        "as well",
+        "even"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1147.json
           "Sa come raggiungerla?",
           "Do you know how to reach her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -67,18 +73,25 @@
           "Volevo che Tom mi dicesse come farlo.",
           "I wanted Tom to tell me how to do that.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+=======
+          "A Mary piacciono anche le banane.",
+          "Mary also likes bananas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1068.json
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "più",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "more",
+        "plus",
+        "greater",
+        "further"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1147.json
           "Sono un tipo solitario.",
           "I'm a loner.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -92,18 +105,39 @@
           "Tom è un esperto.",
           "Tom is a pro.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Studiate più duramente.",
+          "Study harder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha offerto più di quanto ci si potesse aspettare.",
+          "He offered more than could be expected.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1068.json
         ]
       ]
     },
     {
-      "content": "moralista",
+      "content": "economico",
       "translations": [
-        "moralist",
-        "ethical person",
-        "moralistic individual",
-        "person with strong morals"
+        "economic",
+        "affordable",
+        "cost-effective",
+        "budget-friendly"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Mary ha detto che voleva comprare qualcosa di più economico.",
+          "Mary said she wanted to buy something cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

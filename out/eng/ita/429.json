@@ -1,22 +1,24 @@
 {
-  "sentence": "I problemi di solito non vanno via da soli.",
+  "sentence": "Ho una domanda da porle.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Problems don't usually go away by themselves."
+    "I have a question to pose you."
   ],
   "parts": [
     {
-      "content": "I",
+      "content": "Ho",
       "translations": [
-        "me",
-        "myself",
-        "the one who is speaking"
+        "I have",
+        "I possess",
+        "I hold",
+        "I own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/429.json
           "I gatti non hanno le pulci.",
           "The cats have fleas.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -71,36 +73,61 @@
         [
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
+=======
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho letto un fumetto.",
+          "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/350.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "solito",
+      "content": "una",
       "translations": [
-        "usual",
-        "customary",
-        "habitual",
-        "regular"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
-          "Di solito bevo molto latte.",
-          "I usually drink a lot of milk.",
+          "Vorreste una ricevuta?",
+          "Would you like a receipt?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorrei una camera.",
+          "I would like a room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "domanda",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "question",
+        "inquiry",
+        "request",
+        "application"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/429.json
           "Preferirei non farlo.",
           "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -139,6 +166,10 @@
         [
           "Non crederesti alla roba che le persone buttano via.",
           "You wouldn't believe the stuff people throw away.",
+=======
+          "Questa è una buona domanda.",
+          "This is a good question.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/350.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -153,6 +184,11 @@
       ],
       "usageExamples": [
         [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Scendi da quella scala.",
           "Get down from that ladder.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -161,34 +197,26 @@
           "Dovresti lasciarmi da sola.",
           "You should leave me alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/429.json
         ],
         [
           "Imparai l'esperanto da sola.",
           "I learned Esperanto by myself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/350.json
         ]
       ]
     },
     {
-      "content": "soli",
+      "content": "porle",
       "translations": [
-        "alone",
-        "only",
-        "sole",
-        "single"
+        "to speak",
+        "to talk",
+        "to say",
+        "to converse"
       ],
-      "usageExamples": [
-        [
-          "Siete soli.",
-          "You are alone.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom e Mary sono soli?",
-          "Are Tom and Mary lonely?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

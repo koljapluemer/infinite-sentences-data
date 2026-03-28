@@ -1,16 +1,17 @@
 {
-  "sentence": "Avete provato l'hot pot a Taiwan?",
+  "sentence": "Apri la cassaforte.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lumi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Have you tried the hot pot in Taiwan?"
+    "Open the safe."
   ],
   "parts": [
     {
-      "content": "Avete",
+      "content": "Apri",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/256.json
         "You have",
         "Do you have?",
         "You all have",
@@ -62,18 +63,25 @@
         "Chinese stew",
         "simmering pot",
         "communal cooking pot"
+=======
+        "Open",
+        "Access",
+        "Reveal"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/177.json
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "la",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/256.json
           "Devo andare a trovarli.",
           "I have to go find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -87,15 +95,31 @@
           "Volate fino a Londra.",
           "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "He lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/177.json
         ]
       ]
     },
     {
-      "content": "Taiwan",
+      "content": "cassaforte",
       "translations": [
-        "Republic of China",
-        "Taiwan Province",
-        "Taiwan Island"
+        "safe",
+        "vault",
+        "lockbox",
+        "strongbox"
       ],
       "usageExamples": []
     }

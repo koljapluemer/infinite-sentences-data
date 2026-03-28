@@ -1,28 +1,29 @@
 {
-  "sentence": "Ci scuserai per un momento?",
+  "sentence": "Chi potrebbe incolparci?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Will you excuse us for a moment?"
+    "Who could blame us?"
   ],
   "parts": [
     {
-      "content": "Ci",
+      "content": "Chi",
       "translations": [
-        "Here",
-        "This",
-        "It",
-        "That"
+        "Who",
+        "Whom",
+        "Who is it",
+        "Who is that"
       ],
       "usageExamples": [
         [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/290.json
           "Ci sono andata l'altro ieri.",
           "I went there the day before yesterday.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,19 +31,50 @@
         [
           "Ci sarò sempre per aiutarti.",
           "I will always be there to help you.",
+=======
+          "Chi era qua?",
+          "Who was here?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/211.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scuserai",
+      "content": "potrebbe",
       "translations": [
-        "I will excuse",
-        "I will apologize",
-        "I will forgive",
-        "I will pardon"
+        "could",
+        "might",
+        "may",
+        "can"
+      ],
+      "usageExamples": [
+        [
+          "La potrebbe ferire.",
+          "He might hurt her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mark potrebbe piacere Jessica.",
+          "Mark might like Jessica.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pensa che Tom potrebbe avere ragione?",
+          "Do you think Tom might be correct?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "incolparci",
+      "translations": [
+        "to blame us",
+        "to accuse us",
+        "to hold us responsible",
+        "to charge us"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/290.json
     },
     {
       "content": "per",
@@ -119,6 +151,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/211.json
     }
   ]
 }

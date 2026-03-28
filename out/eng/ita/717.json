@@ -1,11 +1,11 @@
 {
-  "sentence": "Non giocherelli con il vetro.",
+  "sentence": "Non doveva aiutarla.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Don't play around with the glass."
+    "He didn't have to help her."
   ],
   "parts": [
     {
@@ -19,6 +19,7 @@
       "usageExamples": [
         [
           "Non siamo sposati.",
+<<<<<<< HEAD:out/eng/ita/717.json
           "We're not married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
@@ -82,9 +83,34 @@
         [
           "Non conosco il sistema.",
           "I don't know the system.",
+=======
+          "We aren't married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/638.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "doveva",
+      "translations": [
+        "had to",
+        "was supposed to",
+        "was required to",
+        "needed to"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/717.json
           "Non bevete il caffè?",
           "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -92,19 +118,29 @@
         [
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/638.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vetro",
+      "content": "aiutarla",
       "translations": [
-        "glass",
-        "pane",
-        "window glass",
-        "vitreous material"
+        "help her",
+        "assist her",
+        "support her",
+        "aid her"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Mary non ha nessuno ad aiutarla.",
+          "Mary doesn't have anybody to help her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

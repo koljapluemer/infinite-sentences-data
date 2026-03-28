@@ -1,11 +1,12 @@
 {
-  "sentence": "Tom è una brava persona.",
+  "sentence": "Tom è famoso.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is a good person."
+    "Tom is famous.",
+    "Tom's famous."
   ],
   "parts": [
     {
@@ -16,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1074.json
           "Lasciate finire Tom.",
           "Let Tom finish.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,6 +31,21 @@
           "Io so com'era Tom.",
           "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/995.json
         ]
       ]
     },
@@ -42,30 +59,44 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1074.json
           "Tom si è addolcito.",
           "Tom relented.",
+=======
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/995.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Questo è un occhio.",
           "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/1074.json
         ],
         [
           "Tom si è divertito.",
           "Tom had some fun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/995.json
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "famoso",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "famous",
+        "well-known",
+        "renowned",
+        "celebrated"
       ],
+<<<<<<< HEAD:out/eng/ita/1074.json
       "usageExamples": [
         [
           "Noi terremo una festa.",
@@ -130,6 +161,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/995.json
     }
   ]
 }

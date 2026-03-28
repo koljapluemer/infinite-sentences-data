@@ -1,11 +1,11 @@
 {
-  "sentence": "A proposito di musica classica, qual è il vostro compositore preferito?",
+  "sentence": "A che ora arrivate al lavoro?",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Talking of classical music, who is your favorite composer?"
+    "What time do you arrive at work?"
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/230.json
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,6 +25,15 @@
         [
           "A quale proposito?",
           "For what purpose?",
+=======
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/151.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,6 +44,7 @@
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/230.json
       "content": "proposito",
       "translations": [
         "purpose",
@@ -124,24 +135,18 @@
     },
     {
       "content": "qual",
+=======
+      "content": "che",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/151.json
       "translations": [
+        "that",
         "which",
-        "what kind of",
-        "what",
-        "such as"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/230.json
           "Questo cane è brutto.",
           "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -180,57 +185,119 @@
         [
           "Avete il nostro rispetto.",
           "You have our respect.",
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/151.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vostro",
+      "content": "ora",
       "translations": [
-        "your",
-        "yours",
-        "your own"
+        "now",
+        "hour",
+        "time",
+        "moment"
       ],
       "usageExamples": [
         [
-          "Perché odiate così tanto il vostro paese?",
-          "Why do you hate your country so much?",
+          "Mi sto riposando ora.",
+          "I'm resting now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il vostro silenzio mi rende nervoso.",
-          "Your silence makes me nervous.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Vado ora a iscrivermi a un corso di tedesco.",
+          "I'm going to sign up for a German class right now.",
+          "Sentence from Tatoeba by xicotenga (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/230.json
           "Avete visitato la città dove è nato vostro padre?",
           "Have you visited the town where your father was born?",
+=======
+          "Io preferirei non discuterne ora.",
+          "I'd rather not discuss it now.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/151.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "compositore",
+      "content": "arrivate",
       "translations": [
-        "composer",
-        "arranger",
-        "creator",
-        "producer"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "preferito",
-      "translations": [
-        "favorite",
-        "preferred",
-        "most liked",
-        "chosen"
+        "arrive",
+        "you arrive",
+        "you have arrived",
+        "arrived"
       ],
       "usageExamples": [
         [
-          "A Londra ho preferito il cibo indiano.",
-          "In London I preferred Indian food.",
+          "Saranno arrivate a Morioka per mezzogiorno.",
+          "They will have arrived at Morioka by noon.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the",
+        "for the"
+      ],
+      "usageExamples": [
+        [
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Andammo al supermercato asiatico.",
+          "We went to the Asian supermarket.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lavoro",
+      "translations": [
+        "work",
+        "job",
+        "labor",
+        "employment"
+      ],
+      "usageExamples": [
+        [
+          "Giusto, cominciamo il nostro lavoro.",
+          "Right, let's start our work.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo lavoro.",
+          "Mary doesn't like her job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

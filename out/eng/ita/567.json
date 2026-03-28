@@ -1,11 +1,11 @@
 {
-  "sentence": "La tua religione non mi interessa.",
+  "sentence": "La risposta è complicata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Rawrren (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Your religion does not interest me."
+    "The answer is complicated."
   ],
   "parts": [
     {
@@ -18,6 +18,14 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/567.json
+=======
+          "La mangeremo.",
+          "We'll eat it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/488.json
           "La potrebbe ferire.",
           "He might hurt her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -26,17 +34,71 @@
           "La ruppe.",
           "He broke it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/567.json
+=======
+        ]
+      ]
+    },
+    {
+      "content": "risposta",
+      "translations": [
+        "response",
+        "answer",
+        "reply",
+        "reaction"
+      ],
+      "usageExamples": [
+        [
+          "Scriva una risposta.",
+          "Write an answer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La dovete avvertire.",
-          "You've got to warn her.",
+          "L'unica risposta era la guerra.",
+          "The only answer was war.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non è facile la risposta?",
+          "Isn't the answer easy?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tua",
+      "content": "è",
       "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/488.json
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/567.json
+=======
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/488.json
+        ]
+      ]
+    },
+    {
+      "content": "complicata",
+      "translations": [
+<<<<<<< HEAD:out/eng/ita/567.json
         "your",
         "yours",
         "of you",
@@ -137,6 +199,14 @@
           "Sentence from Tatoeba by matsuteo (CC-BY 2.0 FR)"
         ]
       ]
+=======
+        "complicated",
+        "complex",
+        "intricate",
+        "difficult"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/488.json
     }
   ]
 }

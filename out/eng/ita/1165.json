@@ -1,11 +1,11 @@
 {
-  "sentence": "È restato sveglio.",
+  "sentence": "È peggio di quanto pensa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He stayed awake."
+    "It's worse than you think."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1165.json
           "È piuttosto comodo.",
           "It's quite comfortable.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -31,26 +32,93 @@
           "È un portiere.",
           "He's a goal keeper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È uscito dalla cucina.",
+          "He got out of the kitchen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1086.json
         ]
       ]
     },
     {
-      "content": "restato",
+      "content": "peggio",
       "translations": [
-        "restated",
-        "reiterated",
-        "reaffirmed",
-        "rephrased"
+        "worse",
+        "badly",
+        "more poorly",
+        "less good"
       ],
       "usageExamples": []
     },
     {
-      "content": "sveglio",
+      "content": "di",
       "translations": [
-        "awake",
-        "alert",
-        "smart",
-        "clever"
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "quanto",
+      "translations": [
+        "how much",
+        "how many",
+        "as much as",
+        "to what extent"
+      ],
+      "usageExamples": [
+        [
+          "Lei è più bella di quanto immaginassi.",
+          "You're more beautiful than I imagined.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È intelligente quanto sua sorella.",
+          "He's as smart as his sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha offerto più di quanto ci si potesse aspettare.",
+          "He offered more than could be expected.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pensa",
+      "translations": [
+        "think",
+        "consider",
+        "ponder",
+        "reflect"
       ],
       "usageExamples": []
     }

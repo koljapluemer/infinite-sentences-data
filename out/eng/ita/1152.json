@@ -1,11 +1,11 @@
 {
-  "sentence": "È il principio che è sbagliato?",
+  "sentence": "È così sciocco.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Mario8286 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Is the spirit of it wrong?"
+    "That's so silly."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1152.json
           "È stato una delusione.",
           "It was a disappointment.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -31,26 +32,51 @@
           "È un ghostwriter.",
           "He's a ghostwriter.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+=======
+          "È piuttosto comodo.",
+          "It's quite comfortable.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È uscito dalla cucina.",
+          "He got out of the kitchen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È anche più economico.",
+          "It's also cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1073.json
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "così",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "so",
+        "like this",
+        "in this way",
+        "thus"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1152.json
           "Avete il nostro rispetto.",
           "You have our respect.",
+=======
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non conosco il sistema.",
-          "I don't know the system.",
+          "Siamo veramente così poveri?",
+          "Are we really that poor?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1073.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così impazienti.",
+          "You're so impatient.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,8 +87,9 @@
       ]
     },
     {
-      "content": "principio",
+      "content": "sciocco",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1152.json
         "beginning",
         "principle",
         "start",
@@ -129,6 +156,12 @@
         "incorrect",
         "mistaken",
         "erroneous"
+=======
+        "fool",
+        "silly",
+        "stupid",
+        "idiot"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1073.json
       ],
       "usageExamples": []
     }

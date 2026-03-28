@@ -1,22 +1,24 @@
 {
-  "sentence": "Mary dice che ha già deciso di farlo.",
+  "sentence": "Lui studiò economia all'università.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary says she's already decided to do that."
+    "He studied economics at college."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Lui",
       "translations": [
-        "Maria",
-        "Miriam",
-        "Marie"
+        "Him",
+        "He",
+        "That guy",
+        "This man"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/634.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,13 +31,28 @@
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
+=======
+          "Lui sembra un delinquente.",
+          "He looks like a gangster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui ama parlare con la gente.",
+          "He loves talking to people.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/555.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dice",
+      "content": "studiò",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/634.json
         "to say",
         "to tell",
         "to speak",
@@ -143,17 +160,23 @@
         "resolved",
         "determined",
         "settled"
+=======
+        "he/she studied",
+        "he/she has studied",
+        "he/she was studying"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/555.json
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "economia",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "economy",
+        "economics",
+        "financial system",
+        "economic affairs"
       ],
+<<<<<<< HEAD:out/eng/ita/634.json
       "usageExamples": [
         [
           "Cos'hai contro di lui?",
@@ -171,15 +194,18 @@
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/555.json
     },
     {
-      "content": "farlo",
+      "content": "all'università",
       "translations": [
-        "to do it",
-        "to make it",
-        "to get it done",
-        "to accomplish it"
+        "to the university",
+        "at the university",
+        "in university"
       ],
+<<<<<<< HEAD:out/eng/ita/634.json
       "usageExamples": [
         [
           "Sapeva che doveva farlo.",
@@ -197,6 +223,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/555.json
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Io non infransi la legge.",
+  "sentence": "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I didn't break the law."
+    "I plan to go to Kumamoto tomorrow to see Mr. Aoi."
   ],
   "parts": [
     {
@@ -17,8 +17,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/488.json
           "Io parlo bosniaco.",
           "I speak Bosnian.",
+=======
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/409.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -27,24 +32,55 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io l'ho sentito.",
-          "I heard it.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "intendo",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "I intend",
+        "I plan",
+        "I aim",
+        "I mean"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/488.json
           "Tom non cambia mai.",
           "Tom never changes.",
+=======
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "andare",
+      "translations": [
+        "to go",
+        "to walk",
+        "to move",
+        "to travel"
+      ],
+      "usageExamples": [
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/409.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -60,56 +96,171 @@
       ]
     },
     {
-      "content": "infransi",
+      "content": "a",
       "translations": [
-        "to infringe",
-        "to violate",
-        "to breach",
-        "to contravene"
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Kumamoto",
+      "translations": [
+        "Kumamoto Prefecture",
+        "Kumamoto City",
+        "Kumamoto Region"
       ],
       "usageExamples": []
     },
     {
-      "content": "la",
+      "content": "domani",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "tomorrow",
+        "next day",
+        "the following day"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/488.json
           "Prendi la mia.",
           "Take mine.",
+=======
+          "Tom ha detto a Mary che sarebbe stato libero domani.",
+          "Tom told Mary that he'd be free tomorrow.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/409.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Apri la cassaforte.",
-          "Open the safe.",
+          "Andrò in biblioteca con te domani.",
+          "I'll go to the library with you tomorrow.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/488.json
           "Frequentiamo la scuola statale.",
           "We attend state school.",
+=======
+          "A Dio piacendo, lo farò domani.",
+          "God willing, I will do it tomorrow.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/409.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "legge",
+      "content": "trovare",
       "translations": [
-        "law",
-        "rule",
-        "statute",
-        "legislation"
+        "to find",
+        "to discover",
+        "to locate",
+        "to come across"
       ],
       "usageExamples": [
         [
-          "La nuova legge è stata una riforma importante.",
-          "The new law was a major reform.",
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "signor",
+      "translations": [
+        "mister",
+        "sir",
+        "gentleman",
+        "lord"
+      ],
+      "usageExamples": [
+        [
+          "Il signor Jones crede nel duro lavoro e nei profitti.",
+          "Mr Jones believes in hard work and profits.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Aoi",
+      "translations": [
+        "Blue",
+        "Azure",
+        "Indigo",
+        "Teal"
+      ],
+      "usageExamples": []
     }
   ]
 }

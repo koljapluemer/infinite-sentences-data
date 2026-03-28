@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho provato a seguire le sue instruzioni.",
+  "sentence": "Ho iniziato dal fondo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sharptoothed (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I tried to follow your instructions."
+    "I started at the bottom."
   ],
   "parts": [
     {
@@ -18,8 +18,8 @@
       ],
       "usageExamples": [
         [
-          "Ho iniziato dal fondo.",
-          "I started at the bottom.",
+          "Ho abbastanza amici.",
+          "I have enough friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,35 +35,53 @@
       ]
     },
     {
-      "content": "provato",
+      "content": "iniziato",
       "translations": [
-        "tried",
-        "tested",
-        "proven",
-        "experienced"
+        "started",
+        "begun",
+        "initiated",
+        "commenced"
       ],
       "usageExamples": [
         [
-          "Avete mai provato?",
-          "Did you ever try?",
+          "A 14 anni, ha iniziato a piantare fragole.",
+          "When he was 14, he started to plant strawberries.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dal",
+      "translations": [
+        "from",
+        "since",
+        "by",
+        "of"
+      ],
+      "usageExamples": [
+        [
+          "Non hai paura di essere infettata dal virus?",
+          "Aren't you afraid of getting infected by the virus?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete provato l'hot pot a Taiwan?",
-          "Have you tried the hot pot in Taiwan?",
+          "250 copie sono disponibili dal nostro negozio ufficiale.",
+          "250 copies are available from our official shop.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "a",
+      "content": "fondo",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "background",
+        "fund",
+        "bottom",
+        "base"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/417.json
           "Lo mostreremo a lei.",
           "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -156,6 +174,13 @@
         "manual"
       ],
       "usageExamples": []
+=======
+          "Vede spesso il fondo del bicchiere.",
+          "He often sees the bottom of the glass.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/338.json
     }
   ]
 }

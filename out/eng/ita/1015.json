@@ -1,12 +1,11 @@
 {
-  "sentence": "Tom ha molti amici?",
+  "sentence": "Tom ha dato dell'idiota all'arbitro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Does Tom have a lot of friends?",
-    "Does Tom have lots of friends?"
+    "Tom called the referee an idiot."
   ],
   "parts": [
     {
@@ -17,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1015.json
           "Tom sembra compiaciuto.",
           "Tom seems pleased.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,6 +29,20 @@
         [
           "Tom è un fan.",
           "Tom is a fan.",
+=======
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/936.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,6 +56,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1015.json
           "Lei ha frenato.",
           "She braked.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
@@ -70,35 +85,75 @@
         [
           "Lui ha molti libri per giovani.",
           "He has a lot of books for the young.",
+=======
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già finito?",
+          "Have you finished yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/936.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "amici",
+      "content": "dato",
       "translations": [
-        "friends",
-        "buddies",
-        "companions",
-        "mates"
+        "given",
+        "data",
+        "fact",
+        "information"
       ],
       "usageExamples": [
         [
-          "Ho abbastanza amici.",
-          "I have enough friends.",
+          "A Madre Teresa è stato dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli amici entrano nelle nostre vite volontariamente.",
-          "Friends come into our lives voluntarily.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Il dottore gli ha dato un sedativo.",
+          "The doctor gave him a sedative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1015.json
           "Stavano parlando insieme come vecchi amici.",
           "They were talking together like old pals.",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+=======
+          "A Madre Teresa fu dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/936.json
         ]
       ]
+    },
+    {
+      "content": "dell'idiota",
+      "translations": [
+        "of the idiot",
+        "of the fool",
+        "of the moron",
+        "of the simpleton"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "all'arbitro",
+      "translations": [
+        "to the referee",
+        "at the referee",
+        "for the referee",
+        "towards the referee"
+      ],
+      "usageExamples": []
     }
   ]
 }

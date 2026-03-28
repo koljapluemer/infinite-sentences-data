@@ -1,11 +1,11 @@
 {
-  "sentence": "Io sto per andare in vacanza.",
+  "sentence": "Io sono stato un istruttore di sci per tre anni.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Goatstein (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm about to go on vacation."
+    "I've been a ski instructor for three years."
   ],
   "parts": [
     {
@@ -22,32 +22,38 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io consegno pizze.",
-          "I deliver pizzas.",
+          "Io sono una patata.",
+          "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/522.json
           "Io ero lì.",
           "I was there.",
+=======
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/443.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sto",
+      "content": "sono",
       "translations": [
-        "I stand",
-        "I am standing",
-        "I stay",
-        "I am staying"
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
-          "Scusami, sto cercando Tom.",
-          "Excuse me, I'm looking for Tom.",
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/522.json
           "Mi sto riposando ora.",
           "I'm resting now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,9 +61,115 @@
         [
           "Io sto diventando piccolo!",
           "I am getting small!",
+=======
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si sono sposati.",
+          "They got married.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/443.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "stato",
+      "translations": [
+        "state",
+        "status",
+        "condition",
+        "situation"
+      ],
+      "usageExamples": [
+        [
+          "È stato scaricato.",
+          "He was dumped.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Dan è stato permesso di entrare nella stanza degli interrogatori.",
+          "Dan was allowed into the interrogation room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Sono un tipo solitario.",
+          "I'm a loner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beviamo un'altra birra.",
+          "Let's drink another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "istruttore",
+      "translations": [
+        "instructor",
+        "trainer",
+        "teacher",
+        "coach"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sci",
+      "translations": [
+        "to know",
+        "to be aware of",
+        "to understand",
+        "to recognize"
+      ],
+      "usageExamples": []
     },
     {
       "content": "per",
@@ -68,11 +180,20 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/522.json
+=======
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/443.json
           "Lo incontro per colazione.",
           "I'm meeting him for breakfast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/522.json
           "Vuole andare per prima?",
           "Do you want to go first?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,27 +201,40 @@
         [
           "Sono preparata per morire.",
           "I'm prepared to die.",
+=======
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/443.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "andare",
+      "content": "tre",
       "translations": [
-        "to go",
-        "to walk",
-        "to move",
-        "to travel"
+        "three",
+        "3",
+        "thrice"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/522.json
           "Devo andare a trovarli.",
           "I must go and find them.",
+=======
+          "Abbiamo scritto tre libri.",
+          "We wrote three books.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
+          "Questo ristorante ha tre stelle Michelin.",
+          "This restaurant has three Michelin stars.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/443.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lessi la storia tre volte.",
+          "I read the story three times.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -111,39 +245,41 @@
       ]
     },
     {
-      "content": "in",
+      "content": "anni",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "years",
+        "ages",
+        "annums",
+        "time periods"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/522.json
           "Tutti erano in ansia.",
           "Everyone was apprehensive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/443.json
         ],
         [
-          "È stata in piedi?",
-          "Did you stand up?",
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/522.json
           "Viviamo in campagna adesso.",
           "We live in the country now.",
+=======
+          "Gli alberi pietrificati di Yellowstone sono il risultato di flussi di detriti vulcanici verificatisi circa cinquanta milioni di anni fa.",
+          "Petrified trees in Yellowstone are the result of volcanic debris flows that occurred about 50 million years ago.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/443.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "vacanza",
-      "translations": [
-        "holiday",
-        "vacation",
-        "break",
-        "time off"
-      ],
-      "usageExamples": []
     }
   ]
 }

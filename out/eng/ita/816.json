@@ -1,11 +1,11 @@
 {
-  "sentence": "Perché non sta capitando ora?",
+  "sentence": "Perché non avete detto questo a loro?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why isn't that happening now?"
+    "Why didn't you tell them this?"
   ],
   "parts": [
     {
@@ -23,6 +23,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/816.json
           "Perché non ha corso?",
           "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,6 +31,15 @@
         [
           "Perché non la cercate?",
           "Why don't you look for her?",
+=======
+          "Perché qualcuno vorrebbe baciarvi?",
+          "Why would anyone want to kiss you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/737.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -40,10 +50,12 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/816.json
           "Perché non ha corso?",
           "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -51,6 +63,20 @@
         [
           "Perché non stai dormendo?",
           "Why aren't you asleep?",
+=======
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/737.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,20 +87,20 @@
       ]
     },
     {
-      "content": "sta",
+      "content": "avete",
       "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
+        "you have",
+        "you've got",
+        "are you having"
       ],
       "usageExamples": [
         [
-          "Tom sta cenando adesso.",
-          "Tom is having dinner right now.",
+          "Cosa avete consigliato?",
+          "What did you recommend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/816.json
           "Qualcuno sta osservando Tom.",
           "Someone is watching Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -82,35 +108,35 @@
         [
           "Tom sta lavorando, vero?",
           "Tom is working, isn't he?",
+=======
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/737.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "capitando",
+      "content": "detto",
       "translations": [
-        "by capturing",
-        "through seizing",
-        "in taking",
-        "by taking hold"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ora",
-      "translations": [
-        "now",
-        "hour",
-        "time",
-        "moment"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
       ],
       "usageExamples": [
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "Ha detto che mi avrebbe aiutata a farlo.",
+          "She said she'd help me do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/816.json
           "A che ora finisce la scuola?",
           "What time does school end?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -118,6 +144,93 @@
         [
           "Noi non possiamo farlo ora.",
           "We can't do it now.",
+=======
+          "Tom ha detto a Mary che sarebbe stato libero domani.",
+          "Tom told Mary that he'd be free tomorrow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho detto così con l'intenzione di compiacerlo.",
+          "I said so with a view to pleasing him.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "questo",
+      "translations": [
+        "this",
+        "this one",
+        "this thing",
+        "this item"
+      ],
+      "usageExamples": [
+        [
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Inscatola questo.",
+          "Box this up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Trasporti questo.",
+          "Carry this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "loro",
+      "translations": [
+        "their",
+        "theirs",
+        "them",
+        "those",
+        "They"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiedilo a loro e basta.",
+          "Just ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firenze.",
+          "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/737.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

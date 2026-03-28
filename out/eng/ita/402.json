@@ -1,55 +1,51 @@
 {
-  "sentence": "Hanno sofferto molto durante gli anni della guerra.",
+  "sentence": "Hai guardato la partita?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They suffered a lot during the war years."
+    "Did you watch the game?"
   ],
   "parts": [
     {
-      "content": "Hanno",
+      "content": "Hai",
       "translations": [
-        "They have",
-        "They possess",
-        "They own"
+        "Yes.",
+        "Yeah",
+        "Yep.",
+        "Affirmative"
       ],
       "usageExamples": [
         [
-          "Hanno cominciato ad innervosirsi.",
-          "They started to get nervous.",
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai visto Tom quella notte?",
+          "Did you see Tom that night?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hanno detto che Mary era felice.",
-          "They said Mary was happy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hanno delle famiglie da sfamare.",
-          "They have families to feed.",
+          "Hai già visto il campus?",
+          "Have you seen the campus yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sofferto",
+      "content": "guardato",
       "translations": [
-        "suffered",
-        "endured",
-        "experienced hardship",
-        "went through pain"
+        "watched",
+        "looked at",
+        "observed",
+        "seen"
       ],
-      "usageExamples": [
-        [
-          "È buono che il cavallo non abbia sofferto.",
-          "It's good that the horse didn't suffer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
+<<<<<<< HEAD:out/eng/ita/402.json
       "content": "molto",
       "translations": [
         "very",
@@ -93,18 +89,23 @@
     },
     {
       "content": "gli",
+=======
+      "content": "la",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/323.json
       "translations": [
         "the",
-        "them",
+        "that",
+        "which",
         "those"
       ],
       "usageExamples": [
         [
-          "Lei chiuse gli occhi.",
-          "She closed her eyes.",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/402.json
           "A Mary piacciono gli sport, vero?",
           "Mary likes sports, doesn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -112,20 +113,30 @@
         [
           "'Aspetti qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da lei immediatamente.'",
           "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+=======
+          "Apprezzo la tua onestà.",
+          "I appreciate your honesty.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "He lost the game.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/323.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "anni",
+      "content": "partita",
       "translations": [
-        "years",
-        "ages",
-        "annums",
-        "time periods"
+        "match",
+        "game",
+        "part",
+        "session"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/402.json
           "Quanti anni hai, Tom?",
           "How old are you, Tom?",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
@@ -190,6 +201,10 @@
         [
           "L'unica risposta era la guerra.",
           "The only answer was war.",
+=======
+          "Ha perso la partita.",
+          "He lost the game.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/323.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

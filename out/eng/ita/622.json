@@ -1,54 +1,55 @@
 {
-  "sentence": "Lui era assente a causa della tempesta.",
+  "sentence": "Loro sono fratello e sorella.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He was absent because of the storm."
+    "They're brother and sister."
   ],
   "parts": [
     {
-      "content": "Lui",
+      "content": "Loro",
       "translations": [
-        "Him",
-        "He",
-        "That guy",
-        "This man"
+        "parrots",
+        "them",
+        "they",
+        "you all"
       ],
       "usageExamples": [
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "Loro l'hanno fatta davvero.",
+          "They really did it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui sembra un delinquente.",
-          "He looks like a gangster.",
+          "Loro ci aiutano.",
+          "They help us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui studiò economia all'università.",
-          "He studied economics at college.",
+          "Loro stanno parlando di lei?",
+          "Are they talking about you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "era",
+      "content": "sono",
       "translations": [
-        "was",
-        "used to be",
-        "used to",
-        "was in the process of"
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/622.json
           "Chi era qua?",
           "Who was here?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,45 +57,35 @@
         [
           "Tom era creativo.",
           "Tom was creative.",
+=======
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutte sono felici.",
+          "Everybody's happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/543.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "assente",
+      "content": "fratello",
       "translations": [
-        "absent",
-        "not present",
-        "away",
-        "missing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "a causa di",
-      "translations": [
-        "because of",
-        "due to",
-        "on account of",
-        "as a result of"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "della",
-      "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "concerning the"
+        "brother",
+        "sibling",
+        "bro",
+        "male sibling"
       ],
       "usageExamples": [
         [
-          "Sami consegnò della pizza.",
-          "Sami delivered pizza.",
+          "Ho un fratello più grande.",
+          "I have an older brother.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/622.json
           "Ziri ha alzato il volume della musica.",
           "Ziri increased the music volume.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -102,19 +93,60 @@
         [
           "A Mary importa della sua salute.",
           "Mary cares about her health.",
+=======
+          "A Leonid piaceva il fratello di Anna.",
+          "Leonid liked Anna's brother.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/543.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tempesta",
+      "content": "e",
       "translations": [
-        "storm",
-        "tempest",
-        "bad weather",
-        "violent weather"
+        "and",
+        "also",
+        "as well as",
+        "in addition"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Probabilmente non sono occupata come Tom e Mary.",
+          "I'm probably not as busy as Tom and Mary are.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa stavano indossando Tom e Mary?",
+          "What were Tom and Mary wearing?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "'Aspettate qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da voi immediatamente.'",
+          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sorella",
+      "translations": [
+        "sister",
+        "female sibling",
+        "sororal figure",
+        "sisterly relation"
+      ],
+      "usageExamples": [
+        [
+          "Riuscite a distinguere Jane dalla sua sorella gemella?",
+          "Can you tell Jane from her twin sister?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È intelligente quanto sua sorella.",
+          "He's as smart as his sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

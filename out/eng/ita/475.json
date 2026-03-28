@@ -1,11 +1,11 @@
 {
-  "sentence": "Io ho le mani grandi.",
+  "sentence": "Io consegno pizze.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lindoula (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have big hands."
+    "I deliver pizzas."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/475.json
           "Io parlo bosniaco.",
           "I speak Bosnian.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -43,25 +44,33 @@
       ],
       "usageExamples": [
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/396.json
           "Io l'ho comprata.",
           "I bought it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/475.json
           "Io ho qualche idea per te.",
           "I have a few ideas for you.",
+=======
+          "Io parlo bosniaco.",
+          "I speak Bosnian.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/396.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "le",
+      "content": "consegno",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/475.json
         "the",
         "them",
         "to them",
@@ -92,24 +101,24 @@
         "paws",
         "claws",
         "fingers"
+=======
+        "delivery",
+        "hand over",
+        "submission",
+        "consignment"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/396.json
       ],
       "usageExamples": []
     },
     {
-      "content": "grandi",
+      "content": "pizze",
       "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
+        "pizzas",
+        "pies",
+        "flatbreads",
+        "savory tarts"
       ],
-      "usageExamples": [
-        [
-          "I contadini più stupidi hanno le patate più grandi.",
-          "The dumbest farmers have the biggest potatoes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

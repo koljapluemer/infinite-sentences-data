@@ -1,54 +1,38 @@
 {
-  "sentence": "Sta mangiando del gelato.",
+  "sentence": "Sono un tipo solitario.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She's eating ice cream."
+    "I'm a loner."
   ],
   "parts": [
     {
-      "content": "Sta",
+      "content": "Sono",
       "translations": [
-        "is",
-        "stands",
-        "stays",
-        "remains"
-      ],
-      "usageExamples": [
-        [
-          "Sta guidando.",
-          "He's driving.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mangiando",
-      "translations": [
-        "eating",
-        "while eating",
-        "during eating",
-        "in the act of eating"
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
       ],
       "usageExamples": []
     },
     {
-      "content": "del",
+      "content": "un",
       "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "Yanni comprò del cibo.",
-          "Yanni bought food.",
+          "Questo è un occhio.",
+          "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/961.json
           "Lei è del tutto diversa da sua madre.",
           "She is not anything like her mother.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,16 +40,42 @@
         [
           "Un gruppo di gangster ha rubato del denaro.",
           "A group of gangsters stole money.",
+=======
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/882.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gelato",
+      "content": "tipo",
       "translations": [
-        "ice cream",
-        "Italian ice cream",
-        "frozen dessert"
+        "type",
+        "kind",
+        "sort",
+        "category"
+      ],
+      "usageExamples": [
+        [
+          "Che tipo di cibo non le piace?",
+          "What kind of food don't you like?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "solitario",
+      "translations": [
+        "solitary",
+        "lonely",
+        "single",
+        "isolated"
       ],
       "usageExamples": []
     }

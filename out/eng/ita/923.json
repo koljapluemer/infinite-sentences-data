@@ -1,28 +1,29 @@
 {
-  "sentence": "Si contraddicono molto.",
+  "sentence": "Sei un testimone.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They contradict themselves a lot."
+    "You are a witness."
   ],
   "parts": [
     {
-      "content": "Si",
+      "content": "Sei",
       "translations": [
-        "If",
-        "Whether",
-        "In case",
-        "Provided that"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
       ],
       "usageExamples": [
         [
-          "Si sono sposati.",
-          "They got married.",
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/923.json
           "Si unisca al nostro gruppo di lettura.",
           "Join our book club.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,19 +31,54 @@
         [
           "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
           "He moved to Madrid to take the reins of his father's business.",
+=======
+          "Sei motivato.",
+          "You're motivated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei sospesa?",
+          "Are you suspended?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/844.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "contraddicono",
+      "content": "un",
       "translations": [
-        "they contradict",
-        "they oppose",
-        "they counter",
-        "they clash"
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "testimone",
+      "translations": [
+        "witness",
+        "testifier",
+        "evidence",
+        "attester"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/923.json
     },
     {
       "content": "molto",
@@ -69,6 +105,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/844.json
     }
   ]
 }

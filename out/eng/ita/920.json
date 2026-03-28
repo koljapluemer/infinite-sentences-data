@@ -1,35 +1,39 @@
 {
-  "sentence": "Sentii la notizia su di lei.",
+  "sentence": "Sei pieno di rabbia.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I heard the news about her."
+    "You're full of anger."
   ],
   "parts": [
     {
-      "content": "Sentii",
+      "content": "Sei",
       "translations": [
-        "I felt",
-        "I sensed",
-        "I perceived",
-        "I experienced"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/920.json
           "Prendi la mia.",
           "Take mine.",
+=======
+          "Sei sospesa?",
+          "Are you suspended?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei un testimone.",
+          "You are a witness.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/841.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -45,30 +49,14 @@
       ]
     },
     {
-      "content": "notizia",
+      "content": "pieno",
       "translations": [
-        "news",
-        "information",
-        "report",
-        "announcement"
+        "full",
+        "filled",
+        "packed",
+        "complete"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "su",
-      "translations": [
-        "on",
-        "upon",
-        "over",
-        "above"
-      ],
-      "usageExamples": [
-        [
-          "Mio nonno si siede sempre su questa sedia.",
-          "My grandfather always sits in this chair.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ]
-      ]
     },
     {
       "content": "di",
@@ -80,11 +68,14 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/920.json
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ],
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/841.json
           "Mi importa di lei.",
           "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -93,15 +84,26 @@
           "Cos'hai contro di lui?",
           "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/920.json
+=======
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/841.json
         ]
       ]
     },
     {
-      "content": "lei",
+      "content": "rabbia",
       "translations": [
-        "she",
-        "you (formal)"
+        "anger",
+        "rage",
+        "fury",
+        "wrath"
       ],
+<<<<<<< HEAD:out/eng/ita/920.json
       "usageExamples": [
         [
           "Era sposato con lei.",
@@ -119,6 +121,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/841.json
     }
   ]
 }

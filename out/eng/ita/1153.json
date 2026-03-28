@@ -1,11 +1,11 @@
 {
-  "sentence": "È intelligente quanto sua sorella.",
+  "sentence": "È descritto come un moralista.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He's as smart as his sister."
+    "He is described as a moralist."
   ],
   "parts": [
     {
@@ -18,13 +18,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1153.json
           "È molto bello rivedervi.",
           "It is very nice to see you again.",
+=======
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È scoraggiata, vero?",
-          "She's discouraged, isn't she?",
+          "È così sciocco.",
+          "That's so silly.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1074.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È andata bene oggi?",
+          "Did it go well today?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,38 +45,42 @@
       ]
     },
     {
-      "content": "intelligente",
+      "content": "descritto",
       "translations": [
-        "intelligent",
-        "smart",
-        "clever",
-        "bright"
+        "described",
+        "depicted",
+        "outlined",
+        "portrayed"
       ],
-      "usageExamples": [
-        [
-          "L'astronauta ha trovato un organismo intelligente.",
-          "The astronaut found an intelligent organism.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "quanto",
+      "content": "come",
       "translations": [
-        "how much",
-        "how many",
-        "as much as",
-        "to what extent"
+        "how",
+        "like",
+        "as",
+        "when"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1153.json
           "Lei è più bella di quanto immaginassi.",
           "You're more beautiful than I imagined.",
+=======
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1074.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È peggio di quanto pensa.",
-          "It's worse than you think.",
+          "Tom ballò come un robot.",
+          "Tom danced like a robot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non è alto come te.",
+          "Tom isn't tall like you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -77,15 +91,15 @@
       ]
     },
     {
-      "content": "sua",
+      "content": "un",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1153.json
           "Dov'è la sua casa?",
           "Where is his house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -98,18 +112,33 @@
         [
           "Lui non riesce ad adattarsi alla sua situazione.",
           "He can't accommodate himself to his circumstances.",
+=======
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1074.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sorella",
+      "content": "moralista",
       "translations": [
-        "sister",
-        "female sibling",
-        "sororal figure",
-        "sisterly relation"
+        "moralist",
+        "ethical person",
+        "moralistic individual",
+        "person with strong morals"
       ],
+<<<<<<< HEAD:out/eng/ita/1153.json
       "usageExamples": [
         [
           "Riuscite a distinguere Jane dalla sua sorella gemella?",
@@ -122,6 +151,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1074.json
     }
   ]
 }

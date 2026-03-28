@@ -1,11 +1,11 @@
 {
-  "sentence": "A Jack interessa la pittura.",
+  "sentence": "A Hokkaido fanno cavalli di paglia.",
   "credits": [
-    "Sentence from Tatoeba by matsuteo (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Jack is interested in painting."
+    "In Hokkaido, they make horses of straw."
   ],
   "parts": [
     {
@@ -17,9 +17,15 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/71.json
           "A quale proposito?",
           "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/48.json
         ],
         [
           "A Lucy piace Mary.",
@@ -27,54 +33,73 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/71.json
           "A John piace l'infermiera.",
           "John likes the nurse.",
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/48.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Jack",
+      "content": "Hokkaido",
       "translations": [
-        "jack",
-        "car jack",
-        "lifting device",
-        "mechanical jack"
+        "Hokkaido",
+        "Hokkaido Island"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "fanno",
+      "translations": [
+        "they do",
+        "they make",
+        "they are doing",
+        "they are making"
       ],
       "usageExamples": [
         [
-          "Jack ha un gatto e un pappagallo a casa.",
-          "Jack keeps a cat and a parrot at home.",
+          "A Heather fanno male i denti.",
+          "Heather has a toothache.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che fanno le persone intelligenti.",
+          "That's what smart people do.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "interessa",
+      "content": "cavalli",
       "translations": [
-        "it matters",
-        "it concerns",
-        "it interests",
-        "it is relevant"
+        "horses",
+        "stallions",
+        "cavalry",
+        "equines"
       ],
       "usageExamples": [
         [
-          "La tua religione non mi interessa.",
-          "Your religion does not interest me.",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "di",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/71.json
           "Apri la cassaforte.",
           "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -87,6 +112,20 @@
         [
           "Lei è la dottoressa?",
           "Are you the doctor?",
+=======
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/48.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

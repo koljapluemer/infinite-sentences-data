@@ -1,32 +1,85 @@
 {
-  "sentence": "Jimmy è stato ferito in un incidente stradale.",
+  "sentence": "Io sto diventando piccolo!",
   "credits": [
-    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Jimmy was hurt in a traffic accident."
+    "I am getting small!"
   ],
   "parts": [
     {
-      "content": "Jimmy",
+      "content": "Io",
       "translations": [
-        "Jim",
-        "James",
-        "Jimmie"
+        "I",
+        "me",
+        "myself"
+      ],
+      "usageExamples": [
+        [
+          "Io l'ho sentito.",
+          "I heard it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sto",
+      "translations": [
+        "I stand",
+        "I am standing",
+        "I stay",
+        "I am staying"
+      ],
+      "usageExamples": [
+        [
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi sto riposando ora.",
+          "I'm resting now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sto per andare in vacanza.",
+          "I'm about to go on vacation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "diventando",
+      "translations": [
+        "becoming",
+        "turning into",
+        "growing into",
+        "evolving into"
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "piccolo",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "small",
+        "little",
+        "tiny",
+        "petite"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/526.json
           "Il cambiamento è spaventoso.",
           "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -170,6 +223,13 @@
         "route"
       ],
       "usageExamples": []
+=======
+          "Il mio giardino è piccolo.",
+          "My garden is small.",
+          "Sentence from Tatoeba by VPZ (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/447.json
     }
   ]
 }

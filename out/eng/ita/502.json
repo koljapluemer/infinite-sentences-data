@@ -1,11 +1,10 @@
 {
-  "sentence": "Io penso che Tom fosse qui.",
+  "sentence": "Io non sono mai stato in quella parte del paese.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I think Tom was here."
+    "I have never been to that part of the country."
   ],
   "parts": [
     {
@@ -17,8 +16,50 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/502.json
           "Io l'ho comprata.",
           "I bought it.",
+=======
+          "Io parlo bosniaco.",
+          "I speak Bosnian.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/423.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,41 +75,47 @@
       ]
     },
     {
-      "content": "penso",
+      "content": "sono",
       "translations": [
-        "I think.",
-        "I believe",
-        "I consider",
-        "I reflect"
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
-          "Io penso che il vento si stia indebolendo.",
-          "I think the wind's dropping off.",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/502.json
           "Io non penso che Tom mentirebbe.",
           "I don't think Tom would lie.",
+=======
+          "Tutte sono felici.",
+          "Everybody's happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/423.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io penso che siate egoisti.",
-          "I think you're selfish.",
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "mai",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/502.json
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -96,6 +143,11 @@
           "Tom si è nascosto.",
           "Tom hid.",
           "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+=======
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/423.json
         ],
         [
           "Tom non cambia mai.",
@@ -103,27 +155,33 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/502.json
           "Intimidisci Tom.",
           "You intimidate Tom.",
+=======
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/423.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "fosse",
+      "content": "stato",
       "translations": [
-        "pit",
-        "ditch",
-        "trench",
-        "hole"
+        "state",
+        "status",
+        "condition",
+        "situation"
       ],
       "usageExamples": [
         [
-          "Tom voleva che questa fosse una sorpresa.",
-          "Tom wanted this to be a surprise.",
+          "È stato scaricato.",
+          "He was dumped.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/502.json
           "Non pensavo che Tom fosse così egoista.",
           "I didn't think Tom was so selfish.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -131,27 +189,134 @@
         [
           "A Jane piaceva far credere che lei fosse un insegnante.",
           "Jane liked to make believe she was a teacher.",
+=======
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino c'è già stato.",
+          "You have already been to Berlin.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/423.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qui",
+      "content": "in",
       "translations": [
-        "who",
-        "that",
-        "which",
-        "whom"
+        "inside",
+        "within",
+        "into"
       ],
       "usageExamples": [
         [
-          "Erano proprio qui.",
-          "They were right here.",
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "quella",
+      "translations": [
+        "that",
+        "the one",
+        "that one",
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Sami sentì quella ragazza.",
+          "Sami heard that girl.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/502.json
           "Odio qui.",
           "I hate it here.",
+=======
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Taxi, segui quella macchina.",
+          "Taxi, follow that car.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "parte",
+      "translations": [
+        "part",
+        "section",
+        "component",
+        "piece"
+      ],
+      "usageExamples": [
+        [
+          "Salutate i vostri genitori da parte mia.",
+          "Say hello to your parents from me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È mio cugino da parte di padre.",
+          "He is my cousin on the father's side.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "by the"
+      ],
+      "usageExamples": [
+        [
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
+          "Come to Albania, where we always make good coffee.",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "paese",
+      "translations": [
+        "country",
+        "village",
+        "town",
+        "nation"
+      ],
+      "usageExamples": [
+        [
+          "Perché odiate così tanto il vostro paese?",
+          "Why do you hate your country so much?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/423.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [

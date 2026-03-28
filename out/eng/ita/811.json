@@ -1,23 +1,24 @@
 {
-  "sentence": "Perché non ha corso?",
+  "sentence": "Per ringraziarti, ecco un regalo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sharris123 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why didn't you run?"
+    "To thank you, here is a gift."
   ],
   "parts": [
     {
-      "content": "Perché",
+      "content": "Per",
       "translations": [
-        "Why",
-        "For what reason",
-        "What for",
-        "Why is that"
+        "for",
+        "by",
+        "through",
+        "per"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/811.json
           "Perché siete andati lì?",
           "Why did you go there?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,20 +31,54 @@
         [
           "Perché non la cercate?",
           "Why don't you look for her?",
+=======
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, digli di partire.",
+          "Please tell him to leave.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, dammi un altro po' di tè.",
+          "Please give me a little more tea.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/732.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "ringraziarti",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "to thank you",
+        "thank you",
+        "to express gratitude to you",
+        "to show appreciation to you"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ecco",
+      "translations": [
+        "here",
+        "this is",
+        "look",
+        "behold"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/811.json
           "Tom non cambia mai.",
           "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -56,19 +91,35 @@
         [
           "Yanni non comprende l'Islam.",
           "Yanni doesn't understand Islam.",
+=======
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un portiere.",
+          "He's a goal keeper.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/732.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "regalo",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "gift",
+        "present",
+        "offering",
+        "donation"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/811.json
           "Lei ha già finito?",
           "Are you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -76,12 +127,17 @@
         [
           "Lei ha già cominciato.",
           "She has already begun.",
+=======
+          "Ti compro un regalo.",
+          "I buy you a present.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/732.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Sono sicura che Tom amerà il tuo regalo.",
+          "I'm sure Tom will love your present.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/811.json
         ]
       ]
     },
@@ -110,6 +166,15 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+        ],
+        [
+          "Ha ricevuto il mio regalo?",
+          "Did you get my gift?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/732.json
     }
   ]
 }

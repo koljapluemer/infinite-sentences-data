@@ -1,28 +1,29 @@
 {
-  "sentence": "Lei chiuse gli occhi.",
+  "sentence": "Le prestò la sua bicicletta.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She closed her eyes."
+    "He lent his bicycle to her."
   ],
   "parts": [
     {
-      "content": "Lei",
+      "content": "Le",
       "translations": [
-        "You (formal)",
-        "She",
-        "Mrs.",
-        "Ma'am"
+        "The",
+        "It",
+        "Them",
+        "Those"
       ],
       "usageExamples": [
         [
-          "Lei è americano?",
-          "Are you American?",
+          "Le amiamo.",
+          "We love them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/586.json
           "Lei ci catturerà.",
           "She will catch us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,29 +31,39 @@
         [
           "Lei è la dottoressa?",
           "Are you the doctor?",
+=======
+          "Le fece sorridere.",
+          "That made them smile.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le sue parole mi resero senza parole.",
+          "His words rendered me speechless.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/507.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chiuse",
+      "content": "prestò",
       "translations": [
-        "closed",
-        "shut",
-        "locked",
-        "sealed"
+        "he/she lent",
+        "he/she loaned",
+        "he/she provided"
       ],
       "usageExamples": []
     },
     {
-      "content": "gli",
+      "content": "la",
       "translations": [
         "the",
-        "them",
+        "that",
+        "which",
         "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/586.json
           "Non gli feci mai del male.",
           "I never harmed him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -65,25 +76,58 @@
         [
           "Hanno sofferto molto durante gli anni della guerra.",
           "They suffered a lot during the war years.",
+=======
+          "Lui accese la radio.",
+          "He turned on the radio.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/507.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "occhi",
+      "content": "sua",
       "translations": [
-        "eyes",
-        "sight",
-        "vision",
-        "gaze"
+        "your",
+        "yours",
+        "his",
+        "her"
       ],
       "usageExamples": [
         [
-          "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
-          "My eyes were full of tears and I could barely see him.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Dov'è la sua casa?",
+          "Where's his home?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Probabilmente è da sola nella sua stanza.",
+          "She's probably alone in her room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "bicicletta",
+      "translations": [
+        "bicycle",
+        "bike",
+        "cycle"
+      ],
+      "usageExamples": []
     }
   ]
 }

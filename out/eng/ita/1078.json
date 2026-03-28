@@ -1,28 +1,27 @@
 {
-  "sentence": "Tu hai dei vestiti per bambini?",
+  "sentence": "Tom è un esperto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you have children's clothes?"
+    "Tom is a pro."
   ],
   "parts": [
     {
-      "content": "Tu",
+      "content": "Tom",
       "translations": [
-        "You",
-        "Yourself",
-        "Thou",
-        "Ye"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Tu sei sposata?",
-          "Are you married?",
+          "Tom sta gemendo.",
+          "Tom is groaning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1078.json
           "Tu comprendi quel libro.",
           "You understand that book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,20 +29,30 @@
         [
           "Tu hai ordinato qualcosa?",
           "Did you order something?",
+=======
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/999.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hai",
+      "content": "è",
       "translations": [
-        "you have",
-        "you've got",
-        "you possess",
-        "you own"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1078.json
           "Quanti ne hai?",
           "How many do you have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -82,29 +91,53 @@
         [
           "Ziri mangiò dei datteri.",
           "Ziri ate dates.",
+=======
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had a good time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è americano?",
+          "Are you American?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/999.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vestiti",
+      "content": "un",
       "translations": [
-        "clothes",
-        "clothing",
-        "garments",
-        "apparel"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
-          "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beviamo un'altra birra.",
+          "Let's have another beer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "per",
+      "content": "esperto",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1078.json
         "for",
         "by",
         "through"
@@ -134,6 +167,12 @@
         "kids",
         "youngsters",
         "youths"
+=======
+        "expert",
+        "specialist",
+        "authority",
+        "professional"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/999.json
       ],
       "usageExamples": []
     }

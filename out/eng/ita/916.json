@@ -1,16 +1,17 @@
 {
-  "sentence": "Sei stata a Parigi?",
+  "sentence": "Scriva una risposta.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Have you been to Paris?"
+    "Write an answer."
   ],
   "parts": [
     {
-      "content": "Sei",
+      "content": "Scriva",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/916.json
         "You are",
         "You exist",
         "You live",
@@ -92,8 +93,66 @@
         "the City of Light",
         "the French capital",
         "Paris, France"
+=======
+        "Write.",
+        "Scribe",
+        "Record",
+        "Document"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/837.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Noi terremo una festa.",
+          "We'll have a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "risposta",
+      "translations": [
+        "response",
+        "answer",
+        "reply",
+        "reaction"
+      ],
+      "usageExamples": [
+        [
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non è facile la risposta?",
+          "Isn't the answer easy?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Confronti la Sua risposta con la sua.",
+          "Check your answer with his.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

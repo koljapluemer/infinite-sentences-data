@@ -1,32 +1,31 @@
 {
-  "sentence": "Penso a lei ogni giorno.",
+  "sentence": "Parlo frequentemente con lui.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I think about her every day.",
-    "I think about you every day."
+    "I frequently talk to him."
   ],
   "parts": [
     {
-      "content": "Penso",
+      "content": "Parlo",
       "translations": [
-        "I think.",
-        "I believe",
-        "I consider",
-        "I reflect"
+        "I speak",
+        "I am speaking.",
+        "I talk"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "frequentemente",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "frequently",
+        "often",
+        "regularly",
+        "repeatedly"
       ],
+<<<<<<< HEAD:out/eng/ita/792.json
       "usageExamples": [
         [
           "Non riusciva a vederla.",
@@ -44,15 +43,21 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/713.json
     },
     {
-      "content": "lei",
+      "content": "con",
       "translations": [
-        "she",
-        "you (formal)"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/792.json
           "Lo mostreremo a lei.",
           "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -60,6 +65,15 @@
         [
           "Era sposato con lei.",
           "He used to be married to her.",
+=======
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/713.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -70,20 +84,20 @@
       ]
     },
     {
-      "content": "ogni",
+      "content": "lui",
       "translations": [
-        "each",
-        "every",
-        "all",
-        "any"
+        "he",
+        "him",
+        "his"
       ],
       "usageExamples": [
         [
-          "Ridete ogni giorno?",
-          "Do you laugh every day?",
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/792.json
           "Tom e Mary studiano il francese ogni sera per trenta minuti.",
           "Tom and Mary study French every evening for thirty minutes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -116,6 +130,15 @@
         [
           "100 euro per tutto il giorno.",
           "100 euros for the whole day.",
+=======
+          "Forse è lui.",
+          "Maybe it's him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/713.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

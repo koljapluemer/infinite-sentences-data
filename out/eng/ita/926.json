@@ -1,17 +1,17 @@
 {
-  "sentence": "Si sta lavando i capelli.",
+  "sentence": "Sentii la notizia su di lei.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He's washing his hair.",
-    "She's washing her hair."
+    "I heard the news about her."
   ],
   "parts": [
     {
-      "content": "Si",
+      "content": "Sentii",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/926.json
         "If",
         "Whether",
         "In case",
@@ -68,24 +68,31 @@
         "cleaning",
         "laundering",
         "doing laundry"
+=======
+        "I felt",
+        "I sensed",
+        "I perceived",
+        "I experienced"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/847.json
       ],
       "usageExamples": []
     },
     {
-      "content": "i",
+      "content": "la",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/926.json
           "A Layla piacevano i suoi capelli naturali.",
           "Layla loved her natural hair.",
           "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
@@ -93,28 +100,93 @@
         [
           "A Maria piacciono i fiori.",
           "Maria likes flowers.",
+=======
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "He lost the game.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/847.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "capelli",
+      "content": "notizia",
       "translations": [
-        "hair",
-        "locks",
-        "tresses",
-        "mane"
+        "news",
+        "information",
+        "report",
+        "announcement"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "su",
+      "translations": [
+        "on",
+        "upon",
+        "over",
+        "above"
       ],
       "usageExamples": [
         [
-          "A Layla piacevano i suoi capelli naturali.",
-          "Layla loved her natural hair.",
-          "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
+          "Mio nonno si siede sempre su questa sedia.",
+          "My grandfather always sits in this chair.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non mi sono lavato i capelli.",
-          "I haven't washed my hair.",
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lei",
+      "translations": [
+        "she",
+        "you (formal)",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono fidanzata con lei.",
+          "I'm engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

@@ -1,65 +1,76 @@
 {
-  "sentence": "Con chi ci andrà?",
+  "sentence": "Ci sono andata l'altro ieri.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Who are you going with?"
+    "I went there the day before yesterday."
   ],
   "parts": [
     {
-      "content": "Con",
+      "content": "Ci",
       "translations": [
-        "With",
-        "Against",
-        "In favor of",
-        "In support of"
+        "Here",
+        "This",
+        "It",
+        "That"
       ],
       "usageExamples": [
         [
-          "Con chi stava parlando Tom?",
-          "Who was Tom talking to?",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono delle isole nel mare.",
+          "There are islands in the sea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sarò sempre per aiutarti.",
+          "I will always be there to help you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chi",
+      "content": "sono",
       "translations": [
-        "who",
-        "whom",
-        "which",
-        "that"
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
-          "Sai chi intendo.",
-          "You know who I mean.",
-          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
-        ],
-        [
-          "A chi non piace quello?",
-          "Who doesn't like that?",
+          "Io sono una patata.",
+          "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Con chi stava parlando Tom?",
-          "Who was Tom talking to?",
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutte sono felici.",
+          "All are happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ci",
+      "content": "andata",
       "translations": [
-        "us",
-        "to us",
-        "for us",
-        "at us"
+        "outbound",
+        "departure",
+        "going",
+        "one-way trip"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/298.json
           "Lei ci catturerà.",
           "She will catch us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -67,6 +78,10 @@
         [
           "Quanto denaro ci dovete?",
           "How much money do you owe us?",
+=======
+          "È andata bene oggi?",
+          "Did it go well today?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/219.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -77,14 +92,45 @@
       ]
     },
     {
-      "content": "andrà",
+      "content": "l'altro",
       "translations": [
-        "will go",
-        "is going to go",
-        "will be going",
-        "is about to go"
+        "the other",
+        "the other one",
+        "the alternative",
+        "the different one"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ha commesso un crimine dopo l'altro.",
+          "He committed one crime after another.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ieri",
+      "translations": [
+        "yesterday",
+        "the day before today",
+        "the previous day"
+      ],
+      "usageExamples": [
+        [
+          "Sono andato all'ospedale ieri.",
+          "I went to the hospital yesterday.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era occupato ieri?",
+          "Were you busy yesterday?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo arrivati ieri in treno.",
+          "We arrived yesterday afternoon by train.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

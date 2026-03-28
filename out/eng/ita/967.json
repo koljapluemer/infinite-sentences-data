@@ -1,48 +1,50 @@
 {
-  "sentence": "Stavo pensando di arruolarmi nell'esercito.",
+  "sentence": "Sta mangiando del gelato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I was thinking about joining the army."
+    "She's eating ice cream."
   ],
   "parts": [
     {
-      "content": "Stavo",
+      "content": "Sta",
       "translations": [
-        "I was",
-        "I used to be",
-        "I was being"
+        "is",
+        "stands",
+        "stays",
+        "remains"
       ],
       "usageExamples": [
         [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
+          "Sta guidando.",
+          "He's driving.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pensando",
+      "content": "mangiando",
       "translations": [
-        "thinking",
-        "considering",
-        "pondering",
-        "reflecting"
+        "eating",
+        "while eating",
+        "during eating",
+        "in the act of eating"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "del",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "of the",
+        "from the",
+        "about the",
+        "by the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/967.json
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
@@ -56,12 +58,28 @@
           "Può fare di meglio.",
           "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La città russa Togliatti è stata nominata in onore del comunista italiano Palmiro Togliatti.",
+          "The Russian city Togliatti was named in honor of the Italian communist Palmiro Togliatti.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/888.json
         ]
       ]
     },
     {
-      "content": "arruolarmi",
+      "content": "gelato",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/967.json
         "to enlist myself",
         "to recruit myself",
         "to sign up",
@@ -97,6 +115,11 @@
         "military",
         "troops",
         "forces"
+=======
+        "ice cream",
+        "Italian ice cream",
+        "frozen dessert"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/888.json
       ],
       "usageExamples": []
     }

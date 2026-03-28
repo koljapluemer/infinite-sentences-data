@@ -1,10 +1,11 @@
 {
-  "sentence": "Io non sono mai stato in quella parte del paese.",
+  "sentence": "Io non mi sono mai sentito così vivo.",
   "credits": [
-    "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have never been to that part of the country."
+    "I've never felt so alive."
   ],
   "parts": [
     {
@@ -16,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/496.json
           "Io parlo bosniaco.",
           "I speak Bosnian.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,6 +30,20 @@
         [
           "Io sono solo curiosa.",
           "I'm just curious.",
+=======
+          "Io sto diventando piccolo!",
+          "I am getting small!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/417.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -38,15 +54,41 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
           "Perché non la cercate?",
           "Why don't you look for her?",
+<<<<<<< HEAD:out/eng/ita/496.json
+=======
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/417.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "me",
+        "myself",
+        "to me",
+        "for me"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/496.json
           "Perché non ha corso?",
           "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,6 +96,20 @@
         [
           "Yanni non comprende l'Islam.",
           "Yanni doesn't understand Islam.",
+=======
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non era più malata.",
+          "Mary told me she wasn't sick anymore.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il vostro silenzio mi rende nervoso.",
+          "Your silence makes me nervous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/417.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -68,8 +124,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/496.json
           "Tutte sono felici.",
           "Everybody's happy.",
+=======
+          "Io sono una patata.",
+          "I am a potato.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/417.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -78,9 +139,15 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/496.json
           "Mi sono tuffato nell'acqua.",
           "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/417.json
         ]
       ]
     },
@@ -94,6 +161,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/496.json
           "Non sia mai gelosa.",
           "Never be jealous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,19 +175,35 @@
           "Tom non cambia mai.",
           "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/417.json
         ]
       ]
     },
     {
-      "content": "stato",
+      "content": "sentito",
       "translations": [
-        "state",
-        "status",
-        "condition",
-        "situation"
+        "felt",
+        "heard",
+        "sensed",
+        "experienced"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/496.json
           "È stato una delusione.",
           "It was a disappointment.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -132,19 +216,25 @@
         [
           "Non sono ancora stato a Boston.",
           "I haven't been to Boston yet.",
+=======
+          "Io l'ho sentito.",
+          "I heard it.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/417.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "in",
+      "content": "così",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "so",
+        "like this",
+        "in this way",
+        "thus"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/496.json
           "Dica questo in ungherese!",
           "Say this in Hungarian!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -152,23 +242,33 @@
         [
           "Era in ritardo.",
           "He was late.",
+=======
+          "Siete così paranoici.",
+          "You're so paranoid.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Chi lavora in quell'ufficio?",
-          "Who works in that office?",
+          "Siete così impazienti.",
+          "You're so impatient.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/417.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "quella",
+      "content": "vivo",
       "translations": [
-        "that",
-        "the one",
-        "that one",
-        "the"
+        "I live",
+        "I am alive",
+        "I am living",
+        "I exist."
       ],
+<<<<<<< HEAD:out/eng/ita/496.json
       "usageExamples": [
         [
           "Cos'è quella cosa là?",
@@ -249,6 +349,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/417.json
     }
   ]
 }

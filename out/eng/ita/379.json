@@ -1,22 +1,23 @@
 {
-  "sentence": "Ha a malapena toccato la sua cena.",
+  "sentence": "Gli amici entrano nelle nostre vite volontariamente.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He barely touched his dinner."
+    "Friends come into our lives voluntarily."
   ],
   "parts": [
     {
-      "content": "Ha",
+      "content": "Gli",
       "translations": [
-        "He has",
-        "There is",
-        "It has"
+        "the",
+        "them",
+        "those",
+        "the ones"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/379.json
           "Ha perso la partita.",
           "She lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -70,30 +71,71 @@
         [
           "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
           "My eyes were full of tears and I could barely see him.",
+=======
+          "Gli uomini amano vantarsi.",
+          "Men love to brag.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli importava.",
+          "He cared.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
+          "The orphans were forced to work long hours without pay or food.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/300.json
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "toccato",
+      "content": "amici",
       "translations": [
-        "touched",
-        "played (as in music)",
-        "struck",
-        "affected"
+        "friends",
+        "buddies",
+        "companions",
+        "mates"
+      ],
+      "usageExamples": [
+        [
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace scambiare francobolli con i suoi amici.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "entrano",
+      "translations": [
+        "they enter",
+        "they go in",
+        "they come in",
+        "they get in"
       ],
       "usageExamples": []
     },
     {
-      "content": "la",
+      "content": "nelle",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "in the",
+        "at the",
+        "to the",
+        "on the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/379.json
           "Lui accese la radio.",
           "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -106,20 +148,24 @@
         [
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
+=======
+          "Io ho il sangue blu nelle vene.",
+          "I have blue blood in my veins.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/300.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sua",
+      "content": "nostre",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "our",
+        "ours",
+        "of ours"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/379.json
           "Dov'è la sua casa?",
           "Where's his home?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -132,17 +178,23 @@
         [
           "Lei è piuttosto soddisfatta della sua vita così com'è.",
           "She is quite satisfied with her life as it is.",
+=======
+          "Noi sentiamo con le nostre orecchie.",
+          "We hear with our ears.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/300.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cena",
+      "content": "vite",
       "translations": [
-        "dinner",
-        "supper",
-        "meal"
+        "screw",
+        "bolt",
+        "fastener",
+        "threaded rod"
       ],
+<<<<<<< HEAD:out/eng/ita/379.json
       "usageExamples": [
         [
           "Studio inglese dopo cena.",
@@ -160,6 +212,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+    },
+    {
+      "content": "volontariamente",
+      "translations": [
+        "voluntarily",
+        "willingly",
+        "of one's own accord",
+        "by choice"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/300.json
     }
   ]
 }

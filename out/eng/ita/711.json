@@ -1,11 +1,11 @@
 {
-  "sentence": "Non doveva aiutarla.",
+  "sentence": "Non conosco il sistema.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He didn't have to help her."
+    "I don't know the system."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/711.json
           "Non volevo intromettermi.",
           "I didn't want to intrude.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -31,40 +32,69 @@
           "Non sapeva cosa fare.",
           "She didn't know what to do.",
           "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+=======
+          "Non siamo sposati.",
+          "We aren't married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/632.json
         ]
       ]
     },
     {
-      "content": "doveva",
+      "content": "conosco",
       "translations": [
-        "had to",
-        "was supposed to",
-        "was required to",
-        "needed to"
+        "I know.",
+        "I am familiar with",
+        "I recognize",
+        "I meet"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aiutarla",
+      "content": "sistema",
       "translations": [
-        "help her",
-        "assist her",
-        "support her",
-        "aid her"
+        "system",
+        "setup",
+        "framework",
+        "scheme"
       ],
-      "usageExamples": [
-        [
-          "Mary non ha nessuno ad aiutarla.",
-          "Mary doesn't have anybody to help her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

@@ -1,45 +1,69 @@
 {
-  "sentence": "Sami ha perso sua moglie.",
+  "sentence": "Sa come raggiungerla?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sami lost his wife."
+    "Do you know how to reach her?"
   ],
   "parts": [
     {
-      "content": "Sami",
+      "content": "Sa",
       "translations": [
-        "Sámi",
-        "Saami",
-        "Sami people"
+        "If",
+        "Whether",
+        "In case",
+        "As long as"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "come",
+      "translations": [
+        "how",
+        "like",
+        "as",
+        "when"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/901.json
           "Sami lavorava al ristorante.",
           "Sami used to work at the restaurant.",
+=======
+          "Tom ballò come un robot.",
+          "Tom danced like a robot.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/822.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami rallentò.",
-          "Sami slowed down.",
+          "È descritto come un moralista.",
+          "He is described as a moralist.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/901.json
           "Sami consegnò della pizza.",
           "Sami delivered pizza.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Stavano parlando insieme come vecchi amici.",
+          "They were talking together like old pals.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/822.json
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "raggiungerla",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "to reach her",
+        "to get to her",
+        "to contact her",
+        "to meet her"
       ],
+<<<<<<< HEAD:out/eng/ita/901.json
       "usageExamples": [
         [
           "Non ha un fidanzato?",
@@ -134,6 +158,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/822.json
     }
   ]
 }

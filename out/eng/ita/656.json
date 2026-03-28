@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary è un membro di una gang, vero?",
+  "sentence": "Mary si è bruciata la mano.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary is a gang member, isn't she?"
+    "Mary burned her hand."
   ],
   "parts": [
     {
@@ -30,6 +30,40 @@
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/656.json
+=======
+        ],
+        [
+          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+          "Mary said she'd like to borrow a few books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/577.json
+        ]
+      ]
+    },
+    {
+      "content": "si",
+      "translations": [
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -43,6 +77,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/656.json
           "Il tempo è finito.",
           "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,30 +115,45 @@
         [
           "Beviamo un'altra birra.",
           "Let's drink another beer.",
+=======
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/577.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "membro",
+      "content": "bruciata",
       "translations": [
-        "member",
-        "part",
-        "component",
-        "participant"
+        "burnt",
+        "scorched",
+        "charred",
+        "singed"
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "la",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/656.json
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
@@ -116,20 +166,35 @@
         [
           "Volete sentire di più?",
           "Do you want to hear more?",
+=======
+          "Apri la cassaforte.",
+          "Open the safe.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/577.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "mano",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "hand",
+        "palm",
+        "manual",
+        "handle"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/656.json
           "È stato una delusione.",
           "It was a disappointment.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -178,6 +243,20 @@
         [
           "Siete piuttosto timidi, vero?",
           "You're quite shy, aren't you?",
+=======
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io vorrei stringere la mano a Tom.",
+          "I'd like to shake Tom's hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha bisogno di una mano.",
+          "Tom needs a hand.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/577.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

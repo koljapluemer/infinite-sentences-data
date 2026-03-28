@@ -1,16 +1,17 @@
 {
-  "sentence": "Ho detto così con l'intenzione di compiacerlo.",
+  "sentence": "Hey, grazie per l'aiuto.",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Auride (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I said so with a view to pleasing him."
+    "Hey, thanks for the help."
   ],
   "parts": [
     {
-      "content": "Ho",
+      "content": "Hey",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/410.json
         "I have",
         "I possess",
         "I hold",
@@ -119,19 +120,34 @@
         "the purpose",
         "the aim",
         "the plan"
+=======
+        "Hello.",
+        "Hi.",
+        "Greetings"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/331.json
       ],
       "usageExamples": []
     },
     {
-      "content": "di",
+      "content": "grazie",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "thank you",
+        "thanks",
+        "thank you very much",
+        "much appreciated"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/410.json
           "\">\" significa maggiore di.",
           "\">\" means greater than.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
@@ -145,16 +161,31 @@
           "L'abbiamo perso di vista.",
           "We lost sight of him.",
           "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+=======
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/331.json
         ]
       ]
     },
     {
-      "content": "compiacerlo",
+      "content": "l'aiuto",
       "translations": [
-        "to please him",
-        "to satisfy him",
-        "to make him happy",
-        "to gratify him"
+        "the help",
+        "the assistance",
+        "the support",
+        "the aid"
       ],
       "usageExamples": []
     }

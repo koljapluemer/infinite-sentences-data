@@ -1,33 +1,24 @@
 {
-  "sentence": "Smettetela di essere dei codardi.",
+  "sentence": "Siamo veramente così poveri?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Stop being cowards."
+    "Are we really that poor?"
   ],
   "parts": [
     {
-      "content": "smettetela",
+      "content": "Siamo",
       "translations": [
-        "stop it",
-        "cut it out",
-        "knock it off",
-        "stop doing that"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "We are",
+        "We exist",
+        "We stand",
+        "We remain"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/938.json
           "Beve latte di mucca.",
           "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -35,30 +26,40 @@
         [
           "Mi importa di lei.",
           "I care about her.",
+=======
+          "Siamo eccentrici.",
+          "We're unusual.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Siamo preoccupate per il nonno e la nonna.",
+          "We are worried about grandpa and grandma.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/859.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo arrivati ieri in treno.",
+          "We arrived yesterday afternoon by train.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "essere",
+      "content": "veramente",
       "translations": [
-        "to be",
-        "to exist",
-        "to occur",
-        "to happen"
+        "truly",
+        "really",
+        "actually",
+        "indeed"
       ],
       "usageExamples": [
         [
-          "Deve essere difficile.",
-          "That must be hard.",
+          "Dille cos'è successo veramente.",
+          "Tell her what really happened.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/938.json
           "Shloyme vuole essere uno scrittore.",
           "Shloyme wants to be a writer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,20 +67,25 @@
         [
           "Non hai paura di essere infettata dal virus?",
           "Aren't you afraid of getting infected by the virus?",
+=======
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/859.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dei",
+      "content": "così",
       "translations": [
-        "gods",
-        "deities",
-        "divine beings",
-        "spirits"
+        "so",
+        "like this",
+        "in this way",
+        "thus"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/938.json
           "Non mandarmi dei messaggi.",
           "Don't send me messages.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -87,22 +93,34 @@
         [
           "Ziri mangiò dei datteri.",
           "Ziri ate dates.",
+=======
+          "Siete così impazienti.",
+          "You're so impatient.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/859.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi servono dei francobolli.",
-          "I need stamps.",
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/938.json
+=======
+        ],
+        [
+          "Siete così paranoici.",
+          "You're so paranoid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/859.json
         ]
       ]
     },
     {
-      "content": "codardi",
+      "content": "poveri",
       "translations": [
-        "cowards",
-        "timid people",
-        "fearful individuals",
-        "chickens"
+        "poor",
+        "the poor",
+        "impoverished",
+        "needy"
       ],
       "usageExamples": []
     }

@@ -1,11 +1,12 @@
 {
-  "sentence": "Tom e Mary stanno decorando la loro stanza.",
+  "sentence": "Tom disse che era brava.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom and Mary are decorating their room."
+    "Tom said that you were good.",
+    "Tom said you were good."
   ],
   "parts": [
     {
@@ -16,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1002.json
           "Tom ha molti amici?",
           "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,20 +30,35 @@
         [
           "Tom acconsentì con riluttanza.",
           "Tom reluctantly agreed.",
+=======
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/923.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "e",
+      "content": "disse",
       "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "said",
+        "told",
+        "stated",
+        "declared"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1002.json
           "Da un anno io e lui ci scambiamo sguardi.",
           "He and I have been exchanging looks for the past year.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -187,6 +204,98 @@
         [
           "Probabilmente è da sola nella sua stanza.",
           "She's probably alone in her room.",
+=======
+          "Tom disse che non era ricco.",
+          "Tom said that he wasn't rich.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom disse che aveva nostalgia di casa.",
+          "Tom said that he was homesick.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "era",
+      "translations": [
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
+      ],
+      "usageExamples": [
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "brava",
+      "translations": [
+        "brave",
+        "good",
+        "well done",
+        "excellent"
+      ],
+      "usageExamples": [
+        [
+          "Tom è una brava persona.",
+          "Tom is a good person.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          ". È molto brava a risolvere enigmi.",
+          "She's very good at solving puzzles.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary è un'allenatrice molto brava, vero?",
+          "Mary is a very good coach, isn't she?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/923.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

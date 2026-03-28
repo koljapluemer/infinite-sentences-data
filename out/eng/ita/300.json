@@ -1,33 +1,34 @@
 {
-  "sentence": "Confronti la Sua risposta con la sua.",
+  "sentence": "Ciò che si fa è più importante di ciò che si dice.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Check your answer with his."
+    "What you do is more important than what you say."
   ],
   "parts": [
     {
-      "content": "Confronti",
+      "content": "Ciò",
       "translations": [
-        "Comparisons",
-        "Confrontations",
-        "Encounters",
-        "Comparative analyses"
+        "This",
+        "That",
+        "It",
+        "Such"
       ],
       "usageExamples": []
     },
     {
-      "content": "la",
+      "content": "che",
       "translations": [
-        "the",
         "that",
         "which",
-        "those"
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/300.json
           "Dov'è la sua casa?",
           "Where is your house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -40,35 +41,113 @@
         [
           "Apprezzo la tua onestà.",
           "I appreciate your honesty.",
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/221.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Sua",
+      "content": "si",
       "translations": [
-        "yours",
-        "your",
-        "belonging to you"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
       ],
       "usageExamples": [
         [
-          "Sua madre sarebbe fiera di lei.",
-          "Your mother would be proud of you.",
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fa",
+      "translations": [
+        "do",
+        "make",
+        "perform",
+        "act"
+      ],
+      "usageExamples": [
+        [
+          "Gli alberi pietrificati di Yellowstone sono il risultato di flussi di detriti vulcanici verificatisi circa cinquanta milioni di anni fa.",
+          "Petrified trees in Yellowstone are the result of volcanic debris flows that occurred about 50 million years ago.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A volte Mary lo fa e a volte non lo fa.",
+          "Sometimes Mary does that and sometimes she doesn't.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom fa un bagno almeno tre volte a settimana.",
+          "Tom takes a bath at least three times a week.",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "risposta",
+      "content": "più",
       "translations": [
-        "response",
-        "answer",
-        "reply",
-        "reaction"
+        "more",
+        "plus",
+        "greater",
+        "further"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/300.json
           "Scriva una risposta.",
           "Write an answer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -76,25 +155,35 @@
         [
           "La risposta è complicata.",
           "The answer is complicated.",
+=======
+          "Volete sentire di più?",
+          "Do you want to hear more?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non è facile la risposta?",
-          "Isn't the answer easy?",
+          "È anche più economico.",
+          "It's also cheaper.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/221.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Studiate più duramente.",
+          "Study harder.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "con",
+      "content": "importante",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "important",
+        "significant",
+        "crucial",
+        "essential"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/300.json
           "Era sposato con lei.",
           "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,20 +196,30 @@
         [
           "Parlo frequentemente con lui.",
           "I frequently talk to him.",
+=======
+          "L'avversario più importante del Giappone era la Cina.",
+          "Japan's most important opponent was China.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La nuova legge è stata una riforma importante.",
+          "The new law was a major reform.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/221.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sua",
+      "content": "di",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/300.json
           "Dov'è la sua casa?",
           "Where is your house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -133,6 +232,72 @@
         [
           "A Mary piacciono tutti nella sua classe.",
           "Mary likes everybody in her class.",
+=======
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ciò",
+      "translations": [
+        "this",
+        "that",
+        "it",
+        "the thing"
+      ],
+      "usageExamples": [
+        [
+          "A Mary non piaceva ciò che ha visto.",
+          "Mary didn't like what she saw.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva ciò che vide.",
+          "Mary didn't like what she saw.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non aveva ciò che le serviva.",
+          "She didn't have what she needed.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dice",
+      "translations": [
+        "to say",
+        "to tell",
+        "to speak",
+        "to declare"
+      ],
+      "usageExamples": [
+        [
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary dice che ha già deciso di farlo.",
+          "Mary says she's already decided to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom dice di non aver nuotato.",
+          "Tom says he didn't swim.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/221.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

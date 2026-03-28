@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary deve mancare la sua famiglia.",
+  "sentence": "A Marika è piaciuto il suo viaggio in Giappone?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary must miss her family."
+    "Did Marika like her trip to Japan?"
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/122.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,24 +25,34 @@
         [
           "A Ken mancava Tom.",
           "Ken missed Tom.",
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/92.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "A quale proposito?",
           "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Mary",
+      "content": "Marika",
       "translations": [
+        "Marika",
         "Maria",
-        "Miriam",
-        "Marie"
+        "Mary"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/122.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,20 +65,25 @@
         [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
+=======
+          "A Marika piacevano i fumetti giapponesi?",
+          "Did Marika like Japanese comic books?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/92.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "deve",
+      "content": "è",
       "translations": [
-        "must",
-        "has to",
-        "should",
-        "needs to"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/122.json
           "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
           "When riding a bus or a train, you need to pay the fare.",
           "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
@@ -75,11 +91,26 @@
         [
           "La pâte brisée, per essere buona, deve essere friabile e leggera.",
           "To be good, pâte brisée should be light and flaky.",
+=======
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il tempo è finito.",
+          "Time is up.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/92.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/122.json
       "content": "mancare",
       "translations": [
         "to lack",
@@ -91,14 +122,44 @@
     },
     {
       "content": "la",
+=======
+      "content": "piaciuto",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "liked",
+        "pleased",
+        "enjoyed",
+        "appreciated"
       ],
       "usageExamples": [
         [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Marie non è piaciuto quel gioco.",
+          "Marie didn't like that game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Tom sarebbe piaciuto quello che avete fatto.",
+          "Tom would've liked what you did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/92.json
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/122.json
           "Dov'è la sua casa?",
           "Where is his house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -111,20 +172,35 @@
         [
           "Dovette pulire la cucina.",
           "He had to clean the kitchen.",
+=======
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/92.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sua",
+      "content": "suo",
       "translations": [
-        "your",
-        "yours",
         "his",
-        "her"
+        "her",
+        "its",
+        "their"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/122.json
           "Dov'è la sua casa?",
           "Where's his home?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -137,33 +213,83 @@
         [
           "A Layla piaceva la sua vita al Cairo.",
           "Layla was enjoying her life in Cairo.",
+=======
+          "Tom è molto impegnato con il suo lavoro.",
+          "Tom is very busy with his work.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firenze.",
+          "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/92.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "famiglia",
+      "content": "in",
       "translations": [
-        "family",
-        "household",
-        "kin",
-        "clan"
+        "inside",
+        "within",
+        "into"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/122.json
           "Tu sei stato di grande aiuto per la nostra famiglia.",
           "You've been a great help to our family.",
+=======
+          "Era in ritardo.",
+          "He was late.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/92.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary manca la sua famiglia.",
-          "Mary misses her family.",
+          "Tutti erano in ansia.",
+          "Everyone was apprehensive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/122.json
           "A Mary manca molto la sua famiglia.",
           "Mary misses her family a lot.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+=======
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Giappone",
+      "translations": [
+        "Japan",
+        "The Land of the Rising Sun",
+        "Nippon",
+        "Japanese Archipelago"
+      ],
+      "usageExamples": [
+        [
+          "L'avversario più importante del Giappone era la Cina.",
+          "Japan's most important opponent was China.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È la stagione delle piogge in Giappone in questo momento.",
+          "It's the rainy season in Japan right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La cosa migliore del Giappone sono i suoi videogiochi.",
+          "The best thing about Japan is its video games.",
+          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/92.json
         ]
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Ho intenzione questo pomeriggio di studiare inglese.",
+  "sentence": "Ho ammesso la sconfitta.",
   "credits": [
-    "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm going to study English this afternoon."
+    "I admitted defeat."
   ],
   "parts": [
     {
@@ -18,32 +18,38 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/412.json
           "Ho abbastanza amici.",
           "I have enough friends.",
+=======
+          "Ho iniziato dal fondo.",
+          "I started at the bottom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/333.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho iniziato dal fondo.",
-          "I started at the bottom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "intenzione",
+      "content": "ammesso",
       "translations": [
-        "intention",
-        "purpose",
-        "aim",
-        "design"
+        "admitted",
+        "allowed",
+        "accepted",
+        "permitted"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/412.json
           "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
           "I understand that you and Tom are planning to get married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -57,19 +63,25 @@
           "Avevano intenzione di incrementare il budget militare.",
           "They intended to increase the military budget.",
           "Sentence from Tatoeba by remod (CC-BY 2.0 FR)"
+=======
+          "Mary ha ammesso che era colpevole.",
+          "Mary admitted that she was guilty.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/333.json
         ]
       ]
     },
     {
-      "content": "questo",
+      "content": "la",
       "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/412.json
           "Trasporti questo.",
           "Carry this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -77,23 +89,34 @@
         [
           "Dica questo in ungherese!",
           "Say this in Hungarian!",
+=======
+          "Cosa la sta causando?",
+          "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Inscatola questo.",
-          "Box this up.",
+          "Prendi la mia.",
+          "Take mine.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/333.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pomeriggio",
+      "content": "sconfitta",
       "translations": [
-        "afternoon",
-        "late day",
-        "post-noon"
+        "defeat",
+        "loss",
+        "setback",
+        "failure"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/412.json
     },
     {
       "content": "di",
@@ -172,6 +195,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/333.json
     }
   ]
 }

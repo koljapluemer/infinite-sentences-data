@@ -1,21 +1,21 @@
 {
-  "sentence": "Voglio studiare matematica.",
+  "sentence": "Vladimir è forte come una mucca.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I want to study math."
+    "Vladimir is strong as a cow."
   ],
   "parts": [
     {
-      "content": "Voglio",
+      "content": "Vladimir",
       "translations": [
-        "I want",
-        "I would like",
-        "I wish",
-        "I desire"
+        "Vladimir (name)",
+        "Vladimir (given name)",
+        "Vladimir (personal name)"
       ],
+<<<<<<< HEAD:out/eng/ita/1112.json
       "usageExamples": [
         [
           "Voglio sapere cos'è l'amore.",
@@ -33,22 +33,26 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1033.json
     },
     {
-      "content": "studiare",
+      "content": "è",
       "translations": [
-        "to study",
-        "to learn",
-        "to examine",
-        "to review"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Devo studiare stasera.",
-          "I have to study tonight.",
+          "Il tempo è finito.",
+          "Time is up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1112.json
           "Andò in Italia a studiare la musica.",
           "He went to Italy to study music.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -69,10 +73,98 @@
         "calculations"
       ],
       "usageExamples": [
+=======
+          "Il libro è arrivato.",
+          "The book came.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1033.json
         [
           "La matematica è divertente.",
           "Math is fun.",
           "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "forte",
+      "translations": [
+        "strong",
+        "powerful",
+        "forceful",
+        "intense"
+      ],
+      "usageExamples": [
+        [
+          "Non mi sento abbastanza forte per dirglielo.",
+          "I don’t feel strong enough to tell him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "come",
+      "translations": [
+        "how",
+        "like",
+        "as",
+        "when"
+      ],
+      "usageExamples": [
+        [
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ballò come un robot.",
+          "Tom danced like a robot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavano parlando insieme come vecchi amici.",
+          "They were talking together like old pals.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una maledizione.",
+          "It's a curse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono una buona persona.",
+          "I'm a good person.",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mucca",
+      "translations": [
+        "cow",
+        "female bovine"
+      ],
+      "usageExamples": [
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

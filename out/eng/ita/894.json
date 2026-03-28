@@ -1,43 +1,34 @@
 {
-  "sentence": "SI tenne una festa d'addio in onore del sig. Smith.",
+  "sentence": "Ridete ogni giorno?",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "A farewell party was held in honor of Mr Smith."
+    "Do you laugh every day?"
   ],
   "parts": [
     {
-      "content": "SI",
+      "content": "Ridete",
       "translations": [
-        "YES",
-        "AFFIRMATIVE",
-        "INDEED",
-        "SURE"
+        "You laugh",
+        "Laugh",
+        "You are laughing",
+        "Laughing"
       ],
       "usageExamples": []
     },
     {
-      "content": "tenne",
+      "content": "ogni",
       "translations": [
-        "tense",
-        "tight",
-        "stretched",
-        "tense up"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "each",
+        "every",
+        "all",
+        "any"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/894.json
           "Datele una mano, OK?",
           "Give her a hand, will you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,25 +41,39 @@
         [
           "È stato una delusione.",
           "It was a disappointment.",
+=======
+          "Penso a lei ogni giorno.",
+          "I think about you every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mia madre è impegnatissima ogni giorno.",
+          "My mother is busy as a bee every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mondo cambia ogni giorno.",
+          "The world changes every day.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/815.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "festa",
+      "content": "giorno",
       "translations": [
-        "party",
-        "celebration",
-        "feast",
-        "festival"
+        "day",
+        "date",
+        "24-hour period"
       ],
       "usageExamples": [
         [
-          "Noi terremo una festa.",
-          "We'll have a party.",
+          "100 euro per tutto il giorno.",
+          "100 euros for the whole day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/894.json
           "L'ho conosciuto a una festa.",
           "I met him at a party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -174,6 +179,18 @@
         "Craftsman"
       ],
       "usageExamples": []
+=======
+          "Le mie gambe stanno migliorando giorno dopo giorno.",
+          "My legs are getting better day by day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mondo cambia ogni giorno.",
+          "The world changes every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/815.json
     }
   ]
 }

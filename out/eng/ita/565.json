@@ -1,11 +1,11 @@
 {
-  "sentence": "La sua pressione sanguigna è alta?",
+  "sentence": "La potrebbe ferire.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Is your blood pressure high?"
+    "He might hurt her."
   ],
   "parts": [
     {
@@ -18,8 +18,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/565.json
           "La mangeremo.",
           "We'll eat it.",
+=======
+          "La detesta assolutamente.",
+          "He absolutely detests her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/486.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,15 +40,16 @@
       ]
     },
     {
-      "content": "sua",
+      "content": "potrebbe",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "could",
+        "might",
+        "may",
+        "can"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/565.json
           "Dov'è la sua casa?",
           "Where's his home?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -51,6 +57,20 @@
         [
           "A Mary manca sua figlia.",
           "Mary misses her daughter.",
+=======
+          "Chi potrebbe incolparci?",
+          "Who could blame us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pensa che Tom potrebbe avere ragione?",
+          "Do you think Tom might be correct?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mark potrebbe piacere Jessica.",
+          "Mark might like Jessica.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/486.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,14 +81,15 @@
       ]
     },
     {
-      "content": "pressione",
+      "content": "ferire",
       "translations": [
-        "pressure",
-        "stress",
-        "tension",
-        "force per unit area"
+        "to strike",
+        "to hit",
+        "to wound",
+        "to injure"
       ],
       "usageExamples": []
+<<<<<<< HEAD:out/eng/ita/565.json
     },
     {
       "content": "sanguigna",
@@ -121,6 +142,8 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/486.json
     }
   ]
 }

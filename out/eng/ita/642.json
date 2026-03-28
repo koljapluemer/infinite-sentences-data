@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+  "sentence": "Mary disse che era offesa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary said she'd like to borrow a few books."
+    "Mary said that she was offended."
   ],
   "parts": [
     {
@@ -27,13 +27,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/642.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "Tom ha comprato del cibo a Mary.",
+          "Tom bought some food for Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/563.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/642.json
       "content": "ha",
       "translations": [
         "has",
@@ -60,14 +66,18 @@
     },
     {
       "content": "detto",
+=======
+      "content": "disse",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/563.json
       "translations": [
         "said",
-        "so-called",
-        "aforementioned",
-        "referred to as"
+        "told",
+        "stated",
+        "declared"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/642.json
           "Tom mi ha detto che eravate felici.",
           "Tom told me you were happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,6 +90,20 @@
         [
           "Mary ha detto che non ha fame.",
           "Mary said that she's not hungry.",
+=======
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non era più malata.",
+          "Mary told me she wasn't sick anymore.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom disse che era divertito.",
+          "Tom said that he was amused.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/563.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -94,6 +118,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/642.json
           "Disse che lo amava.",
           "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,6 +126,10 @@
         [
           "È quello che sono.",
           "It's what I am.",
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/563.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -111,22 +140,32 @@
       ]
     },
     {
-      "content": "vorrebbe",
+      "content": "era",
       "translations": [
-        "would like",
-        "wants",
-        "would want",
-        "is hoping for"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/642.json
           "Perché qualcuno vorrebbe baciarvi?",
           "Why would anyone want to kiss you?",
+=======
+          "Chi era qua?",
+          "Who was here?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cosa vorrebbe bere?",
-          "What would you like to drink?",
+          "Tom era creativo.",
+          "Tom was creative.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/563.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -137,13 +176,14 @@
       ]
     },
     {
-      "content": "prendere",
+      "content": "offesa",
       "translations": [
-        "to take",
-        "to grab",
-        "to catch",
-        "to seize"
+        "offense",
+        "insult",
+        "injury",
+        "slight"
       ],
+<<<<<<< HEAD:out/eng/ita/642.json
       "usageExamples": [
         [
           "Tom corse per prendere l'ultimo treno.",
@@ -254,6 +294,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/563.json
     }
   ]
 }

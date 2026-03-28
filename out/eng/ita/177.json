@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non piaceva sua madre.",
+  "sentence": "A Mary non piaceva il suo impiego.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary didn't like her mother."
+    "Mary didn't enjoy her job."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/177.json
           "A Fadil piaceva scommettere.",
           "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,6 +30,20 @@
         [
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/138.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,18 +57,23 @@
       ],
       "usageExamples": [
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/177.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha detto a Mary che sarebbe stato libero domani.",
+          "Tom told Mary that he'd be free tomorrow.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/138.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -64,20 +84,46 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/177.json
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
+=======
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/138.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Perché non stai dormendo?",
           "Why aren't you asleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaceva",
+      "translations": [
+        "liked",
+        "was pleasing"
+      ],
+      "usageExamples": [
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/177.json
           "Perché non ha corso?",
           "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -93,11 +139,14 @@
       ],
       "usageExamples": [
         [
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/138.json
           "A Fadil piaceva scommettere.",
           "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/177.json
           "A Fadil piaceva sciare.",
           "Fadil liked to ski.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
@@ -105,20 +154,51 @@
         [
           "A Jane piaceva far credere che fosse un insegnante.",
           "Jane liked to make believe she was a teacher.",
+=======
+          "A Mary non piaceva quello che ha visto.",
+          "Mary didn't like what she saw.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/138.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sua",
+      "content": "il",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suo",
+      "translations": [
+        "his",
+        "her",
+        "its",
+        "their"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/177.json
           "Dov'è la sua casa?",
           "Where is your house?",
           "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
@@ -131,25 +211,40 @@
         [
           "Probabilmente è da sola nella sua stanza.",
           "She's probably alone in her room.",
+=======
+          "A Mary non piace il suo lavoro.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Marika è piaciuto il suo viaggio in Giappone?",
+          "Did Marika like her trip to Japan?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha lasciato un po' di cibo nel suo piatto.",
+          "He left some food on his plate.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/138.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "madre",
+      "content": "impiego",
       "translations": [
-        "mother",
-        "mom",
-        "mum",
-        "mama"
+        "employment",
+        "use",
+        "application",
+        "job"
       ],
       "usageExamples": [
         [
-          "Amo molto mia madre.",
-          "I love my mother very much.",
+          "Lui colse l'occasione di ottenere un impiego.",
+          "He grabbed the chance to get a job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/177.json
           "Mia madre vuole che io studi in Svizzera.",
           "My mother wants me to study in Switzerland.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -157,6 +252,15 @@
         [
           "A Mary mancano sua madre e suo padre.",
           "Mary misses her mother and father.",
+=======
+          "A Mary non piace il suo impiego.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo nuovo impiego.",
+          "Mary doesn't like her new job.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/138.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,22 +1,24 @@
 {
-  "sentence": "Ha detto che mi avrebbe aiutata a farlo.",
+  "sentence": "Gli uomini amano vantarsi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She said she'd help me do that."
+    "Men love to brag."
   ],
   "parts": [
     {
-      "content": "Ha",
+      "content": "Gli",
       "translations": [
-        "He has",
-        "There is",
-        "It has"
+        "the",
+        "them",
+        "those",
+        "the ones"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/382.json
           "Ha perso la partita.",
           "He lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -133,26 +135,43 @@
           "Tom avrebbe dovuto chiudere tutte le sue finestre.",
           "Tom should've closed all his windows.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Gli importava.",
+          "He cared.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli alberi saranno presto vuoti.",
+          "The trees will soon be bare.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli amici entrano nelle nostre vite volontariamente.",
+          "Friends come into our lives voluntarily.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/303.json
         ]
       ]
     },
     {
-      "content": "aiutata",
+      "content": "uomini",
       "translations": [
-        "helped",
-        "assisted",
-        "aided",
-        "supported"
+        "men",
+        "people",
+        "humans",
+        "mankind"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "amano",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "by hand",
+        "manually",
+        "handmade",
+        "handcrafted"
       ],
+<<<<<<< HEAD:out/eng/ita/382.json
       "usageExamples": [
         [
           "Devo andare a trovarli.",
@@ -170,15 +189,19 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/303.json
     },
     {
-      "content": "farlo",
+      "content": "vantarsi",
       "translations": [
-        "to do it",
-        "to make it",
-        "to get it done",
-        "to accomplish it"
+        "to boast",
+        "to brag",
+        "to show off",
+        "to take pride in"
       ],
+<<<<<<< HEAD:out/eng/ita/382.json
       "usageExamples": [
         [
           "Preferirei non farlo.",
@@ -196,6 +219,9 @@
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/303.json
     }
   ]
 }

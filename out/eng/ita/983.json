@@ -1,21 +1,24 @@
 {
-  "sentence": "Tom aveva sete e ha chiesto un po' d'acqua.",
+  "sentence": "Ti ho detto delle cose così orribili. Mi dispiace.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom was thirsty and asked for some water."
+    "I said such horrible things to you. I'm sorry."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Ti",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "You",
+        "To you",
+        "For you",
+        "Yourself"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/983.json
           "Stavo per aiutare Tom.",
           "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,22 +31,51 @@
         [
           "Intimidisci Tom.",
           "You intimidate Tom.",
+=======
+          "Ti darò questa biro.",
+          "I'll give you this pen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/904.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aveva",
+      "content": "ho",
       "translations": [
-        "had",
-        "was having",
-        "used to have",
-        "possessed"
+        "I have",
+        "I've got",
+        "I possess",
+        "I own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/983.json
           "Non aveva ciò che le serviva.",
           "She didn't have what she needed.",
+=======
+          "Io l'ho comprata.",
+          "I bought it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io non ho ancora mangiato niente oggi.",
+          "I haven't yet eaten anything today.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/904.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -59,24 +91,124 @@
       ]
     },
     {
-      "content": "sete",
+      "content": "detto",
       "translations": [
-        "thirst",
-        "seven",
-        "silk",
-        "set"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
+      ],
+      "usageExamples": [
+        [
+          "Mary ha detto che non ha fame.",
+          "Mary said she isn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi ha detto che è scettico.",
+          "He told me he's skeptical.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha detto a Mary che sarebbe stato libero domani.",
+          "Tom told Mary that he'd be free tomorrow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "delle",
+      "translations": [
+        "of the",
+        "some",
+        "of them",
+        "from the"
+      ],
+      "usageExamples": [
+        [
+          "Siamo tutte delle codarde.",
+          "We're all cowards.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Più della metà delle persone condannate dai tribunali è innocente.",
+          "More than half of the people convicted by the courts are innocent.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono delle isole nel mare.",
+          "There are islands in the sea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cose",
+      "translations": [
+        "things",
+        "items",
+        "stuff",
+        "objects"
+      ],
+      "usageExamples": [
+        [
+          "Non vediamo le cose così come sono, le vediamo così come siamo.",
+          "We don't see things as they are, we see them as we are.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho un sacco di cose da fare.",
+          "I have loads of things to do.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "così",
+      "translations": [
+        "so",
+        "like this",
+        "in this way",
+        "thus"
+      ],
+      "usageExamples": [
+        [
+          "Siamo veramente così poveri?",
+          "Are we really that poor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così impazienti.",
+          "You're so impatient.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così paranoici.",
+          "You're so paranoid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "orribili",
+      "translations": [
+        "horrible",
+        "terrible",
+        "awful",
+        "dreadful"
       ],
       "usageExamples": []
     },
     {
-      "content": "ha",
+      "content": "Mi",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "Me",
+        "I",
+        "Myself"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/983.json
           "Un cane ha corso.",
           "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -89,18 +221,33 @@
         [
           "Non ha un fidanzato?",
           "Don't you have a boyfriend?",
+=======
+          "Mi servono dei francobolli.",
+          "I need stamps.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi importa di lei.",
+          "I care about her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/904.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chiesto",
+      "content": "dispiace",
       "translations": [
-        "asked",
-        "requested",
-        "inquired",
-        "demanded"
+        "to be sorry",
+        "to regret",
+        "to mind",
+        "to be displeased"
       ],
+<<<<<<< HEAD:out/eng/ita/983.json
       "usageExamples": [
         [
           "Tu sei quello che ha chiesto a Tom di aiutare?",
@@ -175,6 +322,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/904.json
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Il mese scorso è andato in Italia.",
+  "sentence": "Il cibo giapponese le mancherà negli Stati Uniti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Last month, he went to Italy."
+    "You will miss Japanese food in the United States."
   ],
   "parts": [
     {
@@ -26,6 +26,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/444.json
           "Il gatto mangia.",
           "The cat eats.",
           "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
@@ -89,45 +90,77 @@
         [
           "Tom è famoso.",
           "Tom's famous.",
+=======
+          "Il tempo è finito.",
+          "Time is up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il libro è arrivato.",
+          "The book came.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/365.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "andato",
+      "content": "cibo",
       "translations": [
-        "gone",
-        "went",
-        "having gone",
-        "departed"
+        "food",
+        "meal",
+        "nourishment",
+        "provisions"
       ],
       "usageExamples": [
         [
-          "Sono andato all'ospedale ieri.",
-          "I went to the hospital yesterday.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sono andato a trovarlo.",
-          "I went to see him.",
+          "Yanni comprò del cibo.",
+          "Yanni bought food.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/444.json
           "Com'è andato il tuo incontro con Tom?",
           "How did your meeting with Tom go?",
+=======
+          "Tom ha comprato del cibo a Mary.",
+          "Tom bought Mary some food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli orfani erano costretti a lavorare per lunghe ore senza retribuzione né cibo.",
+          "The orphans were forced to work long hours without pay or food.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "giapponese",
+      "translations": [
+        "Japanese",
+        "of Japan",
+        "Japanese language",
+        "Japanese person"
+      ],
+      "usageExamples": [
+        [
+          "Non sa che sono giapponese.",
+          "She doesn't know that I'm Japanese.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/365.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "in",
+      "content": "le",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "the",
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/444.json
           "Domani andiamo in montagna.",
           "Tomorrow we'll go to the mountains.",
           "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
@@ -140,18 +173,33 @@
         [
           "Viviamo in campagna adesso.",
           "We live in the country now.",
+=======
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le vogliamo là.",
+          "We don't want them there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che tipo di cibo non le piace?",
+          "What kind of food don't you like?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/365.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Italia",
+      "content": "mancherà",
       "translations": [
-        "Italy",
-        "Italian Republic",
-        "Italy (country)",
-        "Italy (nation)"
+        "will be missing",
+        "will lack",
+        "will be absent",
+        "will not be there"
       ],
+<<<<<<< HEAD:out/eng/ita/444.json
       "usageExamples": [
         [
           "Andò in Italia a studiare la musica.",
@@ -164,6 +212,39 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+    },
+    {
+      "content": "negli",
+      "translations": [
+        "in the",
+        "at the",
+        "among the",
+        "within the"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Stati",
+      "translations": [
+        "States",
+        "Conditions",
+        "Statuses",
+        "Situations"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Uniti",
+      "translations": [
+        "United",
+        "Together",
+        "Joined",
+        "Combined"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/365.json
     }
   ]
 }

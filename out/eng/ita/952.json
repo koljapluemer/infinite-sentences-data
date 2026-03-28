@@ -1,10 +1,11 @@
 {
-  "sentence": "Sono stanco di ascoltare incessantemente i problemi degli altri.",
+  "sentence": "Sono ancora sposato con Tom.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm tired of listening incessantly to other people's problems."
+    "I'm still married to Tom."
   ],
   "parts": [
     {
@@ -18,31 +19,21 @@
       "usageExamples": []
     },
     {
-      "content": "stanco",
+      "content": "ancora",
       "translations": [
-        "tired",
-        "weary",
-        "fatigued",
-        "exhausted"
+        "anchor",
+        "still",
+        "yet",
+        "also"
       ],
       "usageExamples": [
         [
-          "Tom non è molto stanco.",
-          "Tom isn't very tired.",
+          "Io non ho ancora mangiato niente oggi.",
+          "I haven't yet eaten anything today.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
-      ],
-      "usageExamples": [
+        ],
         [
+<<<<<<< HEAD:out/eng/ita/952.json
           "Beve latte di mucca.",
           "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,45 +46,61 @@
         [
           "Mi importa di lei.",
           "I care about her.",
+=======
+          "È ancora in fase di test.",
+          "It's still being tested.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sposato",
+      "translations": [
+        "married",
+        "spouse",
+        "wedded",
+        "in a marital relationship"
+      ],
+      "usageExamples": [
+        [
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non è sposato con Tom?",
+          "Aren't you married to Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sappiamo nemmeno con chi si è sposato Tom.",
+          "We don't even know who Tom got married to.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/873.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ascoltare",
+      "content": "con",
       "translations": [
-        "to listen",
-        "to hear",
-        "to pay attention to",
-        "to heed"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "incessantemente",
-      "translations": [
-        "incessantly",
-        "unceasingly",
-        "continuously",
-        "perpetually"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/952.json
           "Non mi piacciono le carte di credito. Preferisco i contanti.",
           "I don't like credit cards. I prefer cash.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -101,41 +108,33 @@
         [
           "A Heather fanno male i denti.",
           "Heather has a toothache.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "problemi",
-      "translations": [
-        "problems",
-        "issues",
-        "challenges",
-        "difficulties"
-      ],
-      "usageExamples": [
-        [
-          "I problemi di solito non vanno via da soli.",
-          "Problems don't usually go away by themselves.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "degli",
-      "translations": [
-        "some",
-        "of the",
-        "of",
-        "from the"
-      ],
-      "usageExamples": [
-        [
-          "Tom non si fida degli estranei.",
-          "Tom doesn't trust strangers.",
+=======
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Restiamo con Tom.",
+          "Let's stay with Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/873.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/952.json
           "A Dan è stato permesso di entrare nella stanza degli interrogatori.",
           "Dan was allowed into the interrogation room.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -159,6 +158,15 @@
         [
           "Tom è diverso dagli altri ragazzi.",
           "Tom is different from other boys.",
+=======
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/873.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [

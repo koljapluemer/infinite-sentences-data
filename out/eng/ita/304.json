@@ -1,37 +1,40 @@
 {
-  "sentence": "Cookie ha 15 anni.",
+  "sentence": "Con chi ci andrà?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Miktsoanit (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Cookie is 15."
+    "Who are you going with?"
   ],
   "parts": [
     {
-      "content": "Cookie",
+      "content": "Con",
       "translations": [
-        "Biscuit",
-        "Sweet biscuit",
-        "Baked treat"
+        "With",
+        "Against",
+        "In favor of",
+        "In support of"
       ],
       "usageExamples": [
         [
-          "A Cookie non piacciono i baci.",
-          "Cookie doesn't like kisses.",
+          "Con chi stava parlando Tom?",
+          "Who was Tom talking to?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "chi",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "who",
+        "whom",
+        "which",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/304.json
           "Lei ha già finito?",
           "Are you done yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -44,39 +47,59 @@
         [
           "Quanti figli ha Tom?",
           "How many kids does Tom have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "15",
-      "translations": [
-        "Item: 15",
-        "Number: 15",
-        "Fifteenth item",
-        "Fifteen"
-      ],
-      "usageExamples": [
+=======
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ],
         [
-          "3 moltiplicato per 5 fa 15.",
-          "3 multiplied by 5 is 15.",
+          "Io non so chi dovrebbe guidarmi.",
+          "I don't know who should guide me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "3 per 5 fa 15.",
-          "3 multiplied by 5 is 15.",
+          "Non sappiamo nemmeno con chi si è sposato Tom.",
+          "We don't even know who Tom got married to.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/225.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "anni",
+      "content": "ci",
       "translations": [
-        "years",
-        "ages",
-        "annums",
-        "time periods"
+        "us",
+        "to us",
+        "for us",
+        "at us"
       ],
+      "usageExamples": [
+        [
+          "Loro ci aiutano.",
+          "They help us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ci catturerà.",
+          "She will catch us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "andrà",
+      "translations": [
+        "will go",
+        "is going to go",
+        "will be going",
+        "is about to go"
+      ],
+<<<<<<< HEAD:out/eng/ita/304.json
       "usageExamples": [
         [
           "Quanti anni hai, Tom?",
@@ -94,6 +117,9 @@
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/225.json
     }
   ]
 }

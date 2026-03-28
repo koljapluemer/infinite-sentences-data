@@ -1,52 +1,54 @@
 {
-  "sentence": "Possono avere qualsiasi cosa vogliono.",
+  "sentence": "Però non funzionerà!",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ariarin (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They can have anything they want."
+    "But that won't work!"
   ],
   "parts": [
     {
-      "content": "Possono",
+      "content": "Però",
       "translations": [
-        "They can",
-        "You can",
-        "One can",
-        "People can"
+        "However",
+        "But",
+        "Yet",
+        "On the other hand"
       ],
       "usageExamples": []
     },
     {
-      "content": "avere",
+      "content": "non",
       "translations": [
-        "to have",
-        "to possess",
-        "to own",
-        "to hold"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
-          "Posso avere una birra?",
-          "Can I have a beer?",
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary nega di avere pianto.",
-          "Mary denies she cried.",
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Pensa che Tom potrebbe avere ragione?",
-          "Do you think Tom might be correct?",
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qualsiasi",
+      "content": "funzionerà",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/836.json
         "any",
         "whatever",
         "whichever",
@@ -87,6 +89,12 @@
         "want",
         "they wish",
         "they desire"
+=======
+        "it will work",
+        "it will function",
+        "it will operate",
+        "it will run"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/757.json
       ],
       "usageExamples": []
     }

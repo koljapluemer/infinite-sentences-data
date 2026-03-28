@@ -1,11 +1,11 @@
 {
-  "sentence": "La matematica è divertente.",
+  "sentence": "La città russa Togliatti è stata nominata in onore del comunista italiano Palmiro Togliatti.",
   "credits": [
-    "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Math is fun."
+    "The Russian city Togliatti was named in honor of the Italian communist Palmiro Togliatti."
   ],
   "parts": [
     {
@@ -28,27 +28,66 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/551.json
           "La ruppe.",
           "He broke it.",
+=======
+          "La risposta è complicata.",
+          "The answer is complicated.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/472.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "matematica",
+      "content": "città",
       "translations": [
-        "mathematics",
-        "math",
-        "arithmetic",
-        "calculations"
+        "city",
+        "town",
+        "urban area",
+        "metropolis"
       ],
       "usageExamples": [
         [
-          "Voglio studiare matematica.",
-          "I want to study math.",
+          "Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firenze.",
+          "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La nostra scuola è nel mezzo della città.",
+          "Our school is in the middle of the city.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi piace la città in cui vive.",
+          "I don't like the city in which he lives.",
+          "Sentence from Tatoeba by fekundulo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "russa",
+      "translations": [
+        "Russian",
+        "red-haired",
+        "red"
+      ],
+      "usageExamples": [
+        [
+          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
+          "\"Where's your girlfriend from?\" \"She's Russian.\"",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "Togliatti",
+      "translations": [
+        "Togliatti city",
+        "Togliatti town",
+        "Togliatti municipality"
+      ],
+      "usageExamples": []
     },
     {
       "content": "è",
@@ -60,6 +99,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/551.json
           "Il libro è arrivato.",
           "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -72,25 +112,154 @@
         [
           "Questo è un test?",
           "Is this a test?",
+=======
+          "La matematica è divertente.",
+          "Math is fun.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom is famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse è lui.",
+          "Maybe it's him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/472.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "divertente",
+      "content": "stata",
       "translations": [
-        "funny",
-        "entertaining",
-        "amusing",
-        "enjoyable"
+        "was",
+        "has been",
+        "was located",
+        "was situated"
       ],
       "usageExamples": [
         [
-          "Questa pagina non è mai stata divertente.",
-          "This page was never funny.",
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci sei già stata.",
+          "You've already been to Berlin.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "nominata",
+      "translations": [
+        "named",
+        "appointed",
+        "designated",
+        "referred to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "onore",
+      "translations": [
+        "honor",
+        "esteem",
+        "self-respect",
+        "dignity"
+      ],
+      "usageExamples": [
+        [
+          "SI tenne una festa d'addio in onore del sig. Smith.",
+          "A farewell party was held in honor of Mr Smith.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "by the"
+      ],
+      "usageExamples": [
+        [
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ho preparato dello spezzatino.",
+          "I've made stew.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "comunista",
+      "translations": [
+        "communist",
+        "a member of a communist party",
+        "supporter of communism",
+        "advocate for communist ideology"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "italiano",
+      "translations": [
+        "Italian",
+        "Italian language",
+        "Italiano"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Palmiro",
+      "translations": [
+        "Palm tree",
+        "Palm-like",
+        "Palm-related"
+      ],
+      "usageExamples": []
     }
   ]
 }

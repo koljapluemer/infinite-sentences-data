@@ -1,53 +1,49 @@
 {
-  "sentence": "Abbiamo scritto tre libri.",
+  "sentence": "A quale proposito?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by PvtMarc (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We wrote three books."
+    "For what purpose?"
   ],
   "parts": [
     {
-      "content": "Abbiamo",
+      "content": "A",
       "translations": [
-        "We have",
-        "Let's have",
-        "We got",
-        "We possess"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Abbiamo sbadigliato.",
-          "We yawned.",
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Abbiamo cominciato a parlare dell'Islam.",
-          "We started talking about Islam.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "scritto",
+      "content": "quale",
       "translations": [
-        "written",
-        "script",
-        "wrote",
-        "writing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tre",
-      "translations": [
-        "three",
-        "3",
-        "thrice"
+        "which",
+        "what kind of",
+        "what",
+        "such as"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/237.json
           "Mamma ha diviso la torta in tre.",
           "Mum divided the cake into three.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -61,22 +57,27 @@
           "Tom fa un bagno almeno tre volte a settimana.",
           "Tom takes a bath at least three times a week.",
           "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+=======
+          "Tom non sapeva quale fosse il cognome di Mary.",
+          "Tom didn't know what Mary's last name was.",
+          "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/158.json
         ]
       ]
     },
     {
-      "content": "libri",
+      "content": "proposito",
       "translations": [
-        "books",
-        "volumes",
-        "tomes",
-        "texts"
+        "purpose",
+        "intention",
+        "aim",
+        "objective"
       ],
       "usageExamples": [
         [
-          "Lui ha molti libri per giovani.",
-          "He has a lot of books for the young.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "A proposito di musica classica, qual è il vostro compositore preferito?",
+          "Talking of classical music, who is your favorite composer?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
     }

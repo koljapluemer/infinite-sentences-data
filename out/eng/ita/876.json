@@ -1,20 +1,21 @@
 {
-  "sentence": "Questi sono i suoi figli?",
+  "sentence": "Quelli sono i cani di Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are these your children?"
+    "Are those Tom dogs?",
+    "Are those Tom's dogs?"
   ],
   "parts": [
     {
-      "content": "Questi",
+      "content": "Quelli",
       "translations": [
-        "These",
-        "These ones",
-        "These items",
-        "These things"
+        "those",
+        "the ones",
+        "the people",
+        "the things"
       ],
       "usageExamples": []
     },
@@ -28,6 +29,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/876.json
           "Io sono una patata.",
           "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -35,11 +37,20 @@
         [
           "Si sono sposati.",
           "They got married.",
+=======
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono solo curiosa.",
-          "I'm just curious.",
+          "Tutte sono felici.",
+          "Everybody's happy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/797.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono una patata.",
+          "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -59,8 +70,13 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/876.json
           "A Mary piacciono tutti i suoi insegnanti.",
           "Mary likes all of her teachers.",
+=======
+          "Leggo un giornale tutti i giorni per tenermi aggiornata.",
+          "I read a newspaper every day so that I may keep up with the time.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/797.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -71,14 +87,16 @@
       ]
     },
     {
-      "content": "suoi",
+      "content": "cani",
       "translations": [
-        "his",
-        "her",
-        "its"
+        "dogs",
+        "canines",
+        "pups",
+        "pooches"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/876.json
           "Mary vuole che i suoi genitori le comprino un pony.",
           "Mary wants her parents to buy her a pony.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -91,25 +109,45 @@
         [
           "A Mary piacciono tutti i suoi insegnanti.",
           "Mary likes all of her teachers.",
+=======
+          "A Eva piacciono i cani, ma non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non accarezzo i vostri cani.",
+          "I don't pet your dogs.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, però non i gatti.",
+          "Eva likes dogs, but not cats.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/797.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "figli",
+      "content": "di",
       "translations": [
-        "children",
-        "sons",
-        "offspring",
-        "kids"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/876.json
           "A Mary mancano suo marito e i suoi figli.",
           "Mary misses her husband and children.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -117,6 +155,34 @@
         [
           "A Mary mancavano i suoi figli.",
           "Mary missed her kids.",
+=======
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom vende funghi psichedelici.",
+          "Tom sells psychedelic mushrooms.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/797.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

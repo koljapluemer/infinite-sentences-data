@@ -1,11 +1,11 @@
 {
-  "sentence": "A Heather fanno male i denti.",
+  "sentence": "A Fadil piaceva scommettere.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Heather has a toothache."
+    "Fadil liked to gamble."
   ],
   "parts": [
     {
@@ -17,13 +17,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/65.json
           "A Judy piace lui.",
           "Judy likes him.",
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A quale proposito?",
-          "For what purpose?",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/43.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,23 +44,14 @@
       ]
     },
     {
-      "content": "Heather",
+      "content": "Fadil",
       "translations": [
-        "Heather",
-        "Erica"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "fanno",
-      "translations": [
-        "they do",
-        "they make",
-        "they are doing",
-        "they are making"
+        "Fadil",
+        "Fadil (name)"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/65.json
           "È quello che fanno le persone intelligenti.",
           "That's what smart people do.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -58,34 +59,48 @@
         [
           "A Hokkaido fanno cavalli di paglia.",
           "In Hokkaido, they make horses of straw.",
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piace la salsiccia.",
+          "Fadil likes sausage.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva la scuola.",
+          "Fadil enjoyed school.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/43.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "male",
+      "content": "piaceva",
       "translations": [
-        "man",
-        "masculine",
-        "boy"
+        "liked",
+        "was pleasing"
       ],
       "usageExamples": [
         [
-          "Fa male! Smettila!",
-          "That hurts! Stop it!",
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva quello che ha visto.",
+          "Mary didn't like what she saw.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non gli feci mai del male.",
-          "I never harmed him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tutto il nostro cibo è andato a male.",
-          "All our food was spoiled.",
+          "A Leonid piaceva il fratello di Anna.",
+          "Leonid liked Anna's brother.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+<<<<<<< HEAD:out/eng/ita/65.json
     },
     {
       "content": "i",
@@ -120,6 +135,8 @@
         "tooth"
       ],
       "usageExamples": []
+=======
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/43.json
     }
   ]
 }

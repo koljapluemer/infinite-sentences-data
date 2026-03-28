@@ -1,11 +1,11 @@
 {
-  "sentence": "Mary ha preparato la colazione.",
+  "sentence": "Mary era circondata dalle sue amiche.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary made breakfast."
+    "Mary was surrounded by her friends."
   ],
   "parts": [
     {
@@ -27,28 +27,44 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/643.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "Tom ha comprato un anello per Mary.",
+          "Tom bought Mary a ring.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/564.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ha",
+      "content": "era",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/643.json
           "Lei ha già finito?",
           "Are you finished yet?",
+=======
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cookie ha 15 anni.",
-          "Cookie is 15.",
+          "Tom era creativo.",
+          "Tom was creative.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/564.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -59,31 +75,61 @@
       ]
     },
     {
-      "content": "preparato",
+      "content": "circondata",
       "translations": [
-        "prepared",
-        "ready",
-        "set up",
-        "arranged"
+        "surrounded",
+        "encircled",
+        "enclosed",
+        "ringed"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dalle",
+      "translations": [
+        "from",
+        "by",
+        "of",
+        "since"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sue",
+      "translations": [
+        "to sue",
+        "to file a lawsuit",
+        "to take legal action against"
       ],
       "usageExamples": [
         [
-          "Io ho preparato dello spezzatino.",
-          "I've made stew.",
+          "Le sue parole mi resero senza parole.",
+          "His words rendered me speechless.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi piacciono le sue barzellette.",
+          "I don't like his jokes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano le sue amiche.",
+          "Mary missed her friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "amiche",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "friends",
+        "girlfriends",
+        "female friends",
+        "buddies"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/643.json
           "Lui accese la radio.",
           "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -111,6 +157,15 @@
         [
           "Lo incontro per colazione.",
           "I'm meeting him for breakfast.",
+=======
+          "A John piace scambiare francobolli con le sue amiche.",
+          "John likes to trade stamps with his friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano le sue amiche.",
+          "Mary missed her friends.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/564.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

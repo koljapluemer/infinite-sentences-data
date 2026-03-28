@@ -1,43 +1,35 @@
 {
-  "sentence": "Qualcuno ha rubato la mia borsa.",
+  "sentence": "Probabilmente non sono occupata come Tom e Mary.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Ergulis (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Somebody has stolen my bag."
+    "I'm probably not as busy as Tom and Mary are."
   ],
   "parts": [
     {
-      "content": "Qualcuno",
+      "content": "Probabilmente",
       "translations": [
-        "Someone",
-        "Somebody",
-        "Anyone",
-        "A person"
+        "Probably.",
+        "Likely",
+        "Most likely",
+        "In all likelihood"
       ],
-      "usageExamples": [
-        [
-          "Qualcuno sta osservando Tom.",
-          "Someone is watching Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Qualcuno ha pugnalato l'uomo nella gamba.",
-          "Someone stabbed the man in the leg.",
-          "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "ha",
+      "content": "non",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/850.json
           "Tom ha molti amici?",
           "Does Tom have lots of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,20 +42,35 @@
         [
           "Perché non ha corso?",
           "Why didn't you run?",
+=======
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/771.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "rubato",
+      "content": "sono",
       "translations": [
-        "stolen time",
-        "robbed time",
-        "flexible tempo",
-        "expressive timing"
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/850.json
           "Il corridore ha rubato la terza base.",
           "The runner stole third base.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -71,20 +78,51 @@
         [
           "Un gruppo di gangster ha rubato del denaro.",
           "A group of gangsters stole money.",
+=======
+          "Si sono sposati.",
+          "They got married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutte sono felici.",
+          "Everyone is happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "occupata",
+      "translations": [
+        "busy",
+        "occupied",
+        "engaged",
+        "taken"
+      ],
+      "usageExamples": [
+        [
+          "Il mio problema è che sono troppo occupata.",
+          "My problem is I'm too busy.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/771.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "la",
+      "content": "come",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "how",
+        "like",
+        "as",
+        "when"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/850.json
           "Dovette pulire la cucina.",
           "He had to clean the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -123,21 +161,95 @@
           "La mia ragazza è molto gelosa.",
           "My girlfriend is very jealous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sa come si sente Mary a riguardo.",
+          "Tom knows how Mary feels about that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vediamo le cose così come sono, le vediamo così come siamo.",
+          "We don't see things as they are, we see them as we are.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/771.json
         ]
       ]
     },
     {
-      "content": "borsa",
+      "content": "Tom",
       "translations": [
-        "bag",
-        "purse",
-        "handbag",
-        "sack"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Tom ha trovato una pistola nella borsa di Mary.",
-          "Tom found a gun in Mary's purse.",
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete veramente votare Tom?",
+          "Do you really want to vote for Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "e",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition"
+      ],
+      "usageExamples": [
+        [
+          "Mi piacciono i cani e i gatti.",
+          "I like dogs and cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
+          "My eyes were full of tears and I could barely see him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non lo scorda e basta?",
+          "Why don't you just forget it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che voleva comprare qualcosa di più economico.",
+          "Mary said she wanted to buy something cheaper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,53 +1,86 @@
 {
-  "sentence": "Volate fino a Londra.",
+  "sentence": "Voi conoscete qualcuno che possa aiutare?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Fly to London."
+    "Do you know someone who can help?"
   ],
   "parts": [
     {
-      "content": "Volate",
+      "content": "Voi",
       "translations": [
-        "Fly",
-        "Soar",
-        "Glide",
-        "Wing"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "fino",
-      "translations": [
-        "until",
-        "up to",
-        "as far as",
-        "to the extent of"
+        "You (plural)",
+        "You all",
+        "You guys",
+        "You (formal plural)"
       ],
       "usageExamples": [
         [
-          "La lasciai dormire fino a mezzogiorno.",
-          "I let her sleep until noon.",
+          "Voi siete alzate?",
+          "Are you up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi siete burbere.",
+          "You're grumpy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi siete attraenti.",
+          "You're attractive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "a",
+      "content": "conoscete",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "you know",
+        "do you know",
+        "are you familiar with",
+        "do you all know"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "qualcuno",
+      "translations": [
+        "someone",
+        "somebody",
+        "anyone",
+        "anybody"
       ],
       "usageExamples": [
         [
-          "Non riusciva a vederla.",
-          "He couldn't see her.",
+          "Perché qualcuno vorrebbe baciarvi?",
+          "Why would anyone want to kiss you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Tom vuole che qualcuno lo aiuti.",
+          "Tom wants somebody to help him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/1120.json
           "Nessuno credeva a Tom.",
           "Nobody believed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,27 +88,51 @@
         [
           "Devo andare a trovarli.",
           "I must go and find them.",
+=======
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1041.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Londra",
+      "content": "possa",
       "translations": [
-        "London",
-        "the city of London",
-        "Londinium",
-        "capital of England"
+        "can",
+        "may",
+        "be able to",
+        "might"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "aiutare",
+      "translations": [
+        "to help",
+        "to assist",
+        "to aid",
+        "to support"
       ],
       "usageExamples": [
         [
-          "A Londra preferii il cibo indiano.",
-          "In London I preferred Indian food.",
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Londra ho preferito il cibo indiano.",
-          "In London I preferred Indian food.",
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li vada ad aiutare.",
+          "Go help them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

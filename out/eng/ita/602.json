@@ -1,21 +1,54 @@
 {
-  "sentence": "Lessi la storia tre volte.",
+  "sentence": "Lei suona la chitarra portoghese.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by adiante19 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I read the story three times."
+    "She plays the Portuguese guitar."
   ],
   "parts": [
     {
-      "content": "Lessi",
+      "content": "Lei",
       "translations": [
-        "I read.",
-        "I have read.",
-        "I was reading."
+        "You (formal)",
+        "She",
+        "Mrs.",
+        "Ma'am"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ci catturerà.",
+          "You will catch us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già finito?",
+          "Are you finished yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suona",
+      "translations": [
+        "plays",
+        "sounds",
+        "rings",
+        "is played"
+      ],
+      "usageExamples": [
+        [
+          "Non mi sveglierò neppure se suona la sveglia.",
+          "I won't wake up even if the alarm rings.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "la",
@@ -32,6 +65,7 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/602.json
           "Lui accese la radio.",
           "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,26 +74,36 @@
           "Sento la primavera nell'aria.",
           "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/523.json
         ]
       ]
     },
     {
-      "content": "storia",
+      "content": "chitarra",
       "translations": [
-        "history",
-        "story",
-        "tale",
-        "narrative"
+        "guitar",
+        "stringed instrument",
+        "musical guitar"
       ],
       "usageExamples": []
     },
     {
-      "content": "tre",
+      "content": "portoghese",
       "translations": [
-        "three",
-        "3",
-        "thrice"
+        "Portuguese",
+        "from Portugal",
+        "relating to Portugal"
       ],
+<<<<<<< HEAD:out/eng/ita/602.json
       "usageExamples": [
         [
           "Abbiamo scritto tre libri.",
@@ -103,6 +147,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/523.json
     }
   ]
 }

@@ -1,25 +1,105 @@
 {
-  "sentence": "\"Passami il sale, per piacere.\" \"Ecco qua.\"",
+  "sentence": "Odio prendere i mezzi pubblici.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by corvard (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "\"Pass me the salt, please.\" \"Here you are.\""
+    "I hate taking public transportation."
   ],
   "parts": [
     {
-      "content": "Passami",
+      "content": "Odio",
       "translations": [
-        "Pass me",
-        "Hand me",
-        "Give me"
+        "Hate",
+        "Loathing",
+        "Aversion",
+        "Dislike"
+      ],
+      "usageExamples": [
+        [
+          "Odio qui.",
+          "I hate it here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Odio tornare da lui. Voglio vivere con voi.",
+          "I hate going back to him. I want to live with you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Odio il cibo degli ospedali.",
+          "I hate hospital food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "prendere",
+      "translations": [
+        "to take",
+        "to grab",
+        "to catch",
+        "to seize"
+      ],
+      "usageExamples": [
+        [
+          "Tom corse per prendere l'ultimo treno.",
+          "Tom ran to catch the last train.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla piacevano i suoi capelli naturali.",
+          "Layla loved her natural hair.",
+          "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il treno sta partendo e non abbiamo ancora comprato i nostri biglietti!",
+          "The train is taking off and we haven't bought our tickets!",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mezzi",
+      "translations": [
+        "means",
+        "resources",
+        "vehicles",
+        "tools"
       ],
       "usageExamples": []
     },
     {
-      "content": "il",
+      "content": "pubblici",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/788.json
         "the",
         "it",
         "him",
@@ -139,6 +219,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+        "public",
+        "publicly",
+        "of the public",
+        "common"
+      ],
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/709.json
     }
   ]
 }

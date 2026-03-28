@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary mancano i suoi genitori.",
+  "sentence": "A Mary manca molto la sua famiglia.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary misses her parents."
+    "Mary misses her family a lot."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/140.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,6 +30,20 @@
         [
           "A Judy piace lui.",
           "Judy likes him.",
+=======
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/108.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -42,11 +57,46 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/140.json
+=======
           "A Mary manca Boston.",
           "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa stavano indossando Tom e Mary?",
+          "What were Tom and Mary wearing?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "manca",
+      "translations": [
+        "missing",
+        "lacking",
+        "absent",
+        "deficient"
+      ],
+      "usageExamples": [
+        [
+          "Vi manca molto, vero?",
+          "You miss her a lot, don't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/108.json
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+<<<<<<< HEAD:out/eng/ita/140.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -75,25 +125,30 @@
         [
           "A Mary mancano suo marito e i suoi figli.",
           "Mary misses her husband and children.",
+=======
+          "Mi manca così tanto il mio moroso!",
+          "I miss my boyfriend so much!",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/108.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "i",
+      "content": "molto",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/140.json
           "Quelli sono i cani di Tom?",
           "Are those Tom's dogs?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,19 +156,56 @@
         [
           "A me piacciono i tulipani.",
           "I like tulips.",
+=======
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/108.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suoi",
+      "content": "la",
       "translations": [
-        "his",
-        "her",
-        "its"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+          "Ha perso la partita.",
+          "He lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/140.json
           "I suoi figli sono nel giardino.",
           "Her sons are in the garden.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -126,20 +218,35 @@
         [
           "A John piace scambiare francobolli con i suoi amici.",
           "John likes to trade stamps with his friends.",
+=======
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla piaceva la sua vita al Cairo.",
+          "Layla was enjoying her life in Cairo.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le prestò la sua bicicletta.",
+          "He lent his bicycle to her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/108.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "genitori",
+      "content": "famiglia",
       "translations": [
-        "parents",
-        "guardians",
-        "caregivers",
-        "progenitors"
+        "family",
+        "household",
+        "kin",
+        "clan"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/140.json
           "Salutate i vostri genitori da parte mia.",
           "Say hello to your parents from me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -152,6 +259,20 @@
         [
           "I miei genitori abitano in una casa grande.",
           "My parents live in a big house.",
+=======
+          "Tu sei stato di grande aiuto per la nostra famiglia.",
+          "You've been a great help to our family.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca la sua famiglia.",
+          "Mary misses her family.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary deve mancare la sua famiglia.",
+          "Mary must miss her family.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/108.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,16 +1,17 @@
 {
-  "sentence": "Per piacere, aspetta finché non arriva.",
+  "sentence": "Penso che Tom ti chiederà di sposarlo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ariarin (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please wait until he arrives."
+    "I think Tom will ask you to marry him."
   ],
   "parts": [
     {
-      "content": "Per",
+      "content": "Penso",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/803.json
         "for",
         "by",
         "through",
@@ -67,35 +68,50 @@
         "hold on",
         "wait a moment",
         "hang on"
+=======
+        "I think.",
+        "I believe",
+        "I consider",
+        "I reflect"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/724.json
       ],
       "usageExamples": []
     },
     {
-      "content": "finché",
+      "content": "che",
       "translations": [
-        "as long as",
-        "until",
-        "provided that",
-        "so long as"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Mangia finché è caldo.",
-          "Eat while it's warm.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "Tom",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/803.json
           "Preferirei non farlo.",
           "I'd rather not do it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -108,22 +124,97 @@
         [
           "Perché non la cercate?",
           "Why don't you look for her?",
+=======
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/724.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "arriva",
+      "content": "ti",
       "translations": [
-        "arrives",
-        "comes",
-        "gets here",
-        "shows up"
+        "you",
+        "yourself",
+        "to you",
+        "for you"
       ],
       "usageExamples": [
         [
-          "L'autobus non arriva sempre in orario.",
-          "The bus doesn't always come on time.",
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa ti fa andare il cuore a tutta velocità?",
+          "What makes your heart race?",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ti rilassi un po'?",
+          "Why don't you relax a bit?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "chiederà",
+      "translations": [
+        "will ask",
+        "will request",
+        "will inquire",
+        "will demand"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sposarlo",
+      "translations": [
+        "to marry him",
+        "to marry her",
+        "to marry them"
+      ],
+      "usageExamples": [
+        [
+          "Dovresti sposarlo.",
+          "You should marry him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,11 +1,11 @@
 {
-  "sentence": "A Karl mancava bere il latte.",
+  "sentence": "A José piace la musica latina.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Karl missed drinking milk."
+    "José likes latin music."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/86.json
           "A quale proposito?",
           "For what purpose?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,18 +31,34 @@
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A quale proposito?",
+          "For what purpose?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/61.json
         ]
       ]
     },
     {
-      "content": "Karl",
+      "content": "José",
       "translations": [
-        "Karl",
-        "Carl"
+        "Joseph",
+        "Joe"
       ],
       "usageExamples": []
     },
     {
+<<<<<<< HEAD:out/eng/ita/86.json
       "content": "mancava",
       "translations": [
         "was missing",
@@ -69,61 +86,79 @@
     },
     {
       "content": "bere",
+=======
+      "content": "piace",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/61.json
       "translations": [
-        "to drink",
-        "drinking",
-        "have a drink",
-        "consume liquid"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
       "usageExamples": [
         [
-          "Cosa vorrebbe bere?",
-          "What would you like to drink?",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "il",
+      "content": "la",
       "translations": [
         "the",
-        "it",
-        "him",
-        "that"
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/86.json
           "Non conosco il sistema.",
           "I don't know the system.",
+=======
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/61.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegno il berbero.",
-          "I teach Berber.",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "latte",
+      "content": "musica",
       "translations": [
-        "milk",
-        "dairy milk",
-        "cow's milk",
-        "liquid milk"
+        "music",
+        "musical piece",
+        "tune",
+        "song"
       ],
       "usageExamples": [
         [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
+          "Che musica ascoltate?",
+          "What music do you listen to?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/86.json
           "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
           "Would you mind if I drank the rest of the milk?",
           "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
@@ -131,6 +166,15 @@
         [
           "A Mary non piace il latte nel suo caffè.",
           "Mary doesn't like milk in her coffee.",
+=======
+          "A Robert piace la musica classica.",
+          "Robert likes classical music.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken piace molto la musica.",
+          "Ken likes music very much.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/61.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,32 +1,83 @@
 {
-  "sentence": "Quelli sono i cani di Tom?",
+  "sentence": "Quanto spesso mangi pesce?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by pauldhunt (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are those Tom dogs?",
-    "Are those Tom's dogs?"
+    "How often do you eat fish?"
   ],
   "parts": [
     {
-      "content": "Quelli",
+      "content": "Quanto",
       "translations": [
-        "those",
-        "the ones",
-        "the people",
-        "the things"
+        "How much",
+        "How many",
+        "To what extent",
+        "As much as"
+      ],
+      "usageExamples": [
+        [
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto è freddo il Canada?",
+          "How cold is Canada?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto tempo ci è voluto per tradurre questo libro?",
+          "How long did it take us to translate this book?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "spesso",
+      "translations": [
+        "often",
+        "frequently",
+        "usually",
+        "repeatedly"
+      ],
+      "usageExamples": [
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto spesso ti viene a trovare Tom?",
+          "How often does Tom visit you?",
+          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vede spesso il fondo del bicchiere.",
+          "He often sees the bottom of the glass.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mangi",
+      "translations": [
+        "eat",
+        "to eat",
+        "eating"
       ],
       "usageExamples": []
     },
     {
-      "content": "sono",
+      "content": "pesce",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
+        "fish",
+        "seafood",
+        "fishing catch",
+        "aquatic animal"
       ],
+<<<<<<< HEAD:out/eng/ita/870.json
       "usageExamples": [
         [
           "Tutte sono felici.",
@@ -146,6 +197,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/791.json
     }
   ]
 }

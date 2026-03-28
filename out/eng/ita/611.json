@@ -1,28 +1,30 @@
 {
-  "sentence": "Lo incontro per colazione.",
+  "sentence": "Li vada ad aiutare.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm meeting him for breakfast."
+    "Go and help them.",
+    "Go help them."
   ],
   "parts": [
     {
-      "content": "Lo",
+      "content": "Li",
       "translations": [
+        "The",
         "It",
         "Him",
-        "Them",
-        "That"
+        "Her"
       ],
       "usageExamples": [
         [
-          "Lo mostreremo a lei.",
-          "We'll show her.",
+          "Li sta confondendo.",
+          "You're confusing them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/611.json
           "Lo decorò.",
           "He decorated it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,40 +32,82 @@
         [
           "Lo hanno aiutato.",
           "They helped him.",
+=======
+          "Li vuoi?",
+          "Do you want them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/532.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "incontro",
+      "content": "vada",
       "translations": [
-        "meeting",
-        "encounter",
-        "gathering",
-        "appointment"
+        "go",
+        "come",
+        "look",
+        "see"
       ],
       "usageExamples": [
         [
-          "Com'è andato il tuo incontro con Tom?",
-          "How did your meeting with Tom go?",
+          "Non vogliamo che se ne vada.",
+          "We don't want him to leave.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "per",
+      "content": "ad",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "to",
+        "at",
+        "toward",
+        "for"
       ],
       "usageExamples": [
+        [
+          "Hanno cominciato ad innervosirsi.",
+          "They started to get nervous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "State provando ad escludermi?",
+          "Are you trying to exclude me?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui non riesce ad adattarsi alla sua situazione.",
+          "He can't accommodate himself to his circumstances.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aiutare",
+      "translations": [
+        "to help",
+        "to assist",
+        "to aid",
+        "to support"
+      ],
+      "usageExamples": [
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Stavo per aiutare Tom.",
           "I was going to help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/611.json
           "Sono preparata per morire.",
           "I'm prepared to die.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -86,6 +130,10 @@
         [
           "Mary ha preparato la colazione.",
           "Mary made breakfast.",
+=======
+          "Mi devi aiutare a salvarle.",
+          "You must help me save them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/532.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

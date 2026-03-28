@@ -1,11 +1,12 @@
 {
-  "sentence": "Mary si è bruciata la mano.",
+  "sentence": "Mary li ha ingannati tutti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary burned her hand."
+    "Mary fooled them all.",
+    "Mary tricked them all."
   ],
   "parts": [
     {
@@ -27,48 +28,58 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/650.json
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
+=======
+          "A Mary importava soltanto di se stessa.",
+          "Mary only cared about herself.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/571.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "si",
+      "content": "li",
       "translations": [
-        "if",
-        "whether",
-        "in case",
-        "provided that"
+        "the",
+        "it",
+        "him",
+        "them"
       ],
       "usageExamples": [
         [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Tutti li ignorarono.",
+          "Everyone ignored them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/650.json
           "Tom si è divertito.",
           "Tom enjoyed himself.",
+=======
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/571.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "ha",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/650.json
           "Questo cane è brutto.",
           "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -81,30 +92,45 @@
         [
           "Mangia finché è caldo.",
           "Eat while it's warm.",
+=======
+          "L'ha salvata.",
+          "He rescued her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già finito?",
+          "Are you through yet?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/571.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bruciata",
+      "content": "ingannati",
       "translations": [
-        "burnt",
-        "scorched",
-        "charred",
-        "singed"
+        "deceived",
+        "fooled",
+        "tricked",
+        "misled"
       ],
       "usageExamples": []
     },
     {
-      "content": "la",
+      "content": "tutti",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "everyone",
+        "all",
+        "everybody",
+        "all of them"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/650.json
           "Apprezzo la tua onestà.",
           "I appreciate your honesty.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -144,6 +170,21 @@
           "Tom ha bisogno di una mano.",
           "Tom needs a hand.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Leggo un giornale tutti i giorni per tenermi aggiornata.",
+          "I read a newspaper every day so that I may keep up with the time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei un'ispirazione per tutti noi.",
+          "You're an inspiration to us all.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/571.json
         ]
       ]
     }

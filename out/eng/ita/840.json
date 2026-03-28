@@ -1,39 +1,65 @@
 {
-  "sentence": "Preferirei restare qua a Boston.",
+  "sentence": "Posso chiedere il vostro nome?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by sysko (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd rather stay here in Boston."
+    "May I ask your name?"
   ],
   "parts": [
     {
-      "content": "Preferirei",
+      "content": "Posso",
       "translations": [
-        "I would prefer",
-        "I would rather",
-        "I would choose",
-        "I would like to prefer"
+        "I can.",
+        "I am able to",
+        "I may",
+        "I might"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "chiedere",
+      "translations": [
+        "to ask",
+        "to request",
+        "to inquire",
+        "to demand"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/840.json
           "Preferirei non farlo.",
           "I'd rather not do that.",
+=======
+          "Lo dovrebbe chiedere a loro.",
+          "You should ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avrebbe dovuto chiedere a lui prima.",
+          "You should've asked him first.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse lo dovrebbe chiedere a lei.",
+          "Maybe you should ask her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/761.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "restare",
+      "content": "il",
       "translations": [
-        "to remain",
-        "to stay",
-        "to be left",
-        "to rest"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/840.json
           "È difficile restare calmi quando le scadenze vengono ignorate.",
           "It's hard to stay calm when deadlines are ignored.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
@@ -62,24 +88,34 @@
         [
           "Chi era qua?",
           "Who was here?",
+=======
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
+          "Non conosco il sistema.",
+          "I don't know the system.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/761.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "a",
+      "content": "vostro",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "your",
+        "yours",
+        "your own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/840.json
           "Devo andare a trovarli.",
           "I must go and find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -92,31 +128,51 @@
         [
           "Vado a trovare un'amica.",
           "I'm going to visit a friend.",
+=======
+          "Penso che Tom abbia il vostro ombrello.",
+          "I think Tom has your umbrella.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A proposito di musica classica, qual è il vostro compositore preferito?",
+          "Talking of classical music, who is your favorite composer?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il vostro silenzio mi rende nervoso.",
+          "Your silence makes me nervous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/761.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Boston",
+      "content": "nome",
       "translations": [
-        "City of Boston",
-        "Boston, Massachusetts",
-        "The Hub"
+        "name",
+        "title",
+        "designation",
+        "label"
       ],
       "usageExamples": [
         [
-          "A Mary manca Boston.",
-          "Mary misses Boston.",
+          "A Mary non piaceva il suo nome.",
+          "Mary didn't like her name.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/840.json
           "A Boston erano tutti congregazionalisti.",
           "In Boston, they were all congregationalists.",
+=======
+          "A Mary non piace il suo nome.",
+          "Mary doesn't like her name.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/761.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha passato la sua infanzia a Boston.",
-          "Tom spent his childhood in Boston.",
+          "Ho scordato il suo nome.",
+          "I have forgotten your name.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

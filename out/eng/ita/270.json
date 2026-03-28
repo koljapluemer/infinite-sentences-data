@@ -1,33 +1,32 @@
 {
-  "sentence": "Certamente non lo odiava.",
+  "sentence": "Beviamo un'altra birra.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Jane_Austen (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She certainly did not hate him."
+    "Let's drink another beer.",
+    "Let's have another beer."
   ],
   "parts": [
     {
-      "content": "Certamente",
+      "content": "Beviamo",
       "translations": [
-        "Certainly.",
-        "Surely",
-        "Definitely",
-        "Of course."
+        "We drink",
+        "We are drinking"
       ],
       "usageExamples": []
     },
     {
-      "content": "non",
+      "content": "un",
       "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/270.json
           "Tom non cambia mai.",
           "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,20 +39,45 @@
         [
           "Preferirei non farlo.",
           "I'd rather not do that.",
+=======
+          "Chiamate un'ambulanza!",
+          "Call an ambulance!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/191.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lo",
+      "content": "altra",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "other",
+        "another",
+        "further",
+        "additional"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "birra",
+      "translations": [
+        "beer",
+        "brew",
+        "lager",
+        "ale"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/270.json
           "Disse che lo amava.",
           "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -66,19 +90,18 @@
         [
           "Tom non lo vorrebbe.",
           "Tom wouldn't want this.",
+=======
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La birra è bevuta fredda.",
+          "Beer is drunk cold.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/191.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "odiava",
-      "translations": [
-        "hated",
-        "disliked",
-        "detested",
-        "loathed"
-      ],
-      "usageExamples": []
     }
   ]
 }

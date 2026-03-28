@@ -1,11 +1,11 @@
 {
-  "sentence": "Lei ha un aspetto migliore.",
+  "sentence": "Lei chiuse gli occhi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're looking better."
+    "She closed her eyes."
   ],
   "parts": [
     {
@@ -18,8 +18,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/592.json
           "Lei ha già finito?",
           "Are you done yet?",
+=======
+          "Lei è americano?",
+          "Are you American?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ci catturerà.",
+          "You will catch us.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/513.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,8 +50,9 @@
       ]
     },
     {
-      "content": "ha",
+      "content": "chiuse",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/592.json
         "has",
         "he has",
         "there is"
@@ -91,27 +107,53 @@
         "aspect",
         "look",
         "feature"
+=======
+        "closed",
+        "shut",
+        "locked",
+        "sealed"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/513.json
       ],
       "usageExamples": []
     },
     {
-      "content": "migliore",
+      "content": "gli",
       "translations": [
-        "better",
-        "best",
-        "improved",
-        "superior"
+        "the",
+        "them",
+        "those"
       ],
       "usageExamples": [
         [
-          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
-          "Only my best friend would understand my love for minions.",
+          "A Mary piacciono gli sport, vero?",
+          "Mary likes sports, doesn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La cosa migliore del Giappone sono i suoi videogiochi.",
-          "The best thing about Japan is its video games.",
-          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
+          "Dice che non gli dispiacerà.",
+          "He says he won't mind.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piacciono gli scacchi.",
+          "John likes chess.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "occhi",
+      "translations": [
+        "eyes",
+        "sight",
+        "vision",
+        "gaze"
+      ],
+      "usageExamples": [
+        [
+          "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
+          "My eyes were full of tears and I could barely see him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     }

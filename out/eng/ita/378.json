@@ -1,37 +1,80 @@
 {
-  "sentence": "Guardai John e Mary camminare mano nella mano.",
+  "sentence": "Gli alberi saranno presto vuoti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I watched John and Mary walking hand in hand."
+    "The trees will soon be bare."
   ],
   "parts": [
     {
-      "content": "Guardai",
+      "content": "Gli",
       "translations": [
-        "I looked.",
-        "I watched",
-        "I observed",
-        "I guarded"
+        "the",
+        "them",
+        "those",
+        "the ones"
+      ],
+      "usageExamples": [
+        [
+          "Gli importava.",
+          "He cared.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli uomini amano vantarsi.",
+          "Men love to brag.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli ippopotami sono degli animali innocui?",
+          "Are hippopotamuses harmless animals?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "alberi",
+      "translations": [
+        "trees",
+        "wood",
+        "timber",
+        "forest"
+      ],
+      "usageExamples": [
+        [
+          "Gli alberi pietrificati di Yellowstone sono il risultato di flussi di detriti vulcanici verificatisi circa cinquanta milioni di anni fa.",
+          "Petrified trees in Yellowstone are the result of volcanic debris flows that occurred about 50 million years ago.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "saranno",
+      "translations": [
+        "they will be",
+        "there will be",
+        "will be"
       ],
       "usageExamples": []
     },
     {
-      "content": "John",
+      "content": "presto",
       "translations": [
-        "John Doe",
-        "Johnny",
-        "J."
+        "quick",
+        "fast",
+        "soon",
+        "immediately"
       ],
       "usageExamples": [
         [
-          "A John piace l'infermiera.",
-          "John likes the nurse.",
+          "Farà presto buio.",
+          "It's going to get dark soon.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/378.json
           "A John piace scambiare francobolli con le sue amiche.",
           "John likes to trade stamps with his friends.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -40,17 +83,23 @@
           "A Bill e John piace ritrovarsi una volta al mese per parlare.",
           "Bill and John like to get together once a month to talk.",
           "Sentence from Tatoeba by Heracleum (CC-BY 2.0 FR)"
+=======
+          "Pranzammo presto.",
+          "We ate lunch early.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/299.json
         ]
       ]
     },
     {
-      "content": "e",
+      "content": "vuoti",
       "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "empty",
+        "void",
+        "hollow",
+        "vacant"
       ],
+<<<<<<< HEAD:out/eng/ita/378.json
       "usageExamples": [
         [
           "So che Tom e Mary devono andare a Boston.",
@@ -161,6 +210,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/299.json
     }
   ]
 }

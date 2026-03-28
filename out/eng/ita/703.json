@@ -1,25 +1,24 @@
 {
-  "sentence": "Non capisco perché non tutte le ragazze sono lesbiche.",
+  "sentence": "Noi ti amiamo entrambi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by papabear (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't get why girls aren't all lesbians.",
-    "I don't get why not all girls are lesbians."
+    "We both love you."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Noi",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
+        "We",
+        "Us",
+        "Ours",
+        "Our group"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/703.json
           "Non scordatela.",
           "Don't forget it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -32,36 +31,61 @@
         [
           "Non doveva aiutarla.",
           "He didn't have to help her.",
+=======
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi terremo una festa.",
+          "We'll have a party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/624.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "capisco",
+      "content": "ti",
       "translations": [
-        "I understand.",
-        "I get it",
-        "I comprehend",
-        "I see."
+        "you",
+        "yourself",
+        "to you",
+        "for you"
       ],
       "usageExamples": [
         [
-          "Io capisco che tu e Tom abbiate intenzione di sposarvi.",
-          "I understand that you and Tom are planning to get married.",
+          "Perché ti serve un coltello?",
+          "Why do you need a knife?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Penso che Tom ti chiederà di sposarlo.",
+          "I think Tom will ask you to marry him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tua moglie ti sta tradendo.",
+          "Your wife is cheating on you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "perché",
+      "content": "amiamo",
       "translations": [
-        "why",
-        "because",
-        "for what reason",
-        "for what purpose"
+        "we love",
+        "let's love",
+        "we are loving",
+        "we do love"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/703.json
           "Tom non è potuto venire perché è ammalato.",
           "Tom couldn't come because he's sick.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -74,13 +98,18 @@
         [
           "Tom voleva sapere perché Mary non era felice.",
           "Tom wanted to know why Mary was not happy.",
+=======
+          "Le amiamo.",
+          "We love them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/624.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "non",
+      "content": "entrambi",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/703.json
         "not",
         "no",
         "none",
@@ -205,6 +234,12 @@
         "female homosexuals",
         "women who love women",
         "same-sex attracted women"
+=======
+        "both",
+        "both of them",
+        "the two",
+        "both parties"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/624.json
       ],
       "usageExamples": []
     }

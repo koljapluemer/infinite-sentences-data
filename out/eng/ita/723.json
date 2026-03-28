@@ -1,11 +1,11 @@
 {
-  "sentence": "Non ho dormito molto di recente.",
+  "sentence": "Non giocherelli con il vetro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I haven't had much sleep lately."
+    "Don't play around with the glass."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/723.json
           "Non hai coscienza!",
           "You have no conscience!",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
@@ -30,13 +31,28 @@
         [
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
+=======
+          "Non vuole fermarla.",
+          "He doesn't want to stop her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non doveva aiutarla.",
+          "He didn't have to help her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/644.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ho",
+      "content": "giocherelli",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/723.json
         "I have",
         "I've got",
         "I possess",
@@ -67,24 +83,31 @@
         "I am sleeping",
         "I do sleep",
         "I take a nap"
+=======
+        "little games",
+        "playful activities",
+        "small toys",
+        "fun games"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/644.json
       ],
       "usageExamples": []
     },
     {
-      "content": "molto",
+      "content": "con",
       "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
-          "Vi manca molto, vero?",
-          "You miss her a lot, don't you?",
+          "Era sposato con lei.",
+          "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/723.json
           "Amo molto mia madre.",
           "I love my mother very much.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -92,20 +115,30 @@
         [
           "È molto bello rivedervi.",
           "It is very nice to see you again.",
+=======
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/644.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "il",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/723.json
           "Beve latte di mucca.",
           "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -118,17 +151,31 @@
         [
           "Volete sentire di più?",
           "Do you want to hear more?",
+=======
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/644.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "recente",
+      "content": "vetro",
       "translations": [
-        "recent",
-        "new",
-        "latest",
-        "fresh"
+        "glass",
+        "pane",
+        "window glass",
+        "vitreous material"
       ],
       "usageExamples": []
     }

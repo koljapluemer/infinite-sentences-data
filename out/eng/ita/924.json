@@ -1,27 +1,24 @@
 {
-  "sentence": "Si ruppe entrambe le braccia.",
+  "sentence": "Sei un'ispirazione per tutti noi.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He broke both his arms.",
-    "He broke both of his arms.",
-    "She broke both her arms.",
-    "She broke both of her arms."
+    "You're an inspiration to us all."
   ],
   "parts": [
     {
-      "content": "Si",
+      "content": "Sei",
       "translations": [
-        "If",
-        "Whether",
-        "In case",
-        "Provided that"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/924.json
           "Si contraddicono molto.",
           "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -34,45 +31,58 @@
         [
           "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
           "He moved to Madrid to take the reins of his father's business.",
+=======
+          "Sei speciale per me.",
+          "You're special to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei un testimone.",
+          "You are a witness.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ruppe",
+      "content": "un'",
       "translations": [
-        "rupee",
-        "currency",
-        "money"
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "La ruppe.",
-          "He broke it.",
+          "Tom ha un'auto molto costosa.",
+          "Tom has a very expensive car.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/845.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "entrambe",
+      "content": "ispirazione",
       "translations": [
-        "both",
-        "both of them",
-        "the two",
-        "each of them"
+        "inspiration",
+        "motivation",
+        "stimulus",
+        "encouragement"
       ],
       "usageExamples": []
     },
     {
-      "content": "le",
+      "content": "per",
       "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/924.json
           "Non le vogliamo là.",
           "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -85,19 +95,74 @@
         [
           "A Mary piacciono le commedie romantiche.",
           "Mary likes romantic comedies.",
+=======
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/845.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "braccia",
+      "content": "tutti",
       "translations": [
-        "arms",
-        "branches",
-        "limbs",
-        "arms (body part)"
+        "everyone",
+        "all",
+        "everybody",
+        "all of them"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Non tutti erano compiaciuti.",
+          "Not everyone was pleased.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi studiamo tutti i giorni inglese.",
+          "We study English every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Boston erano tutti congregazionalisti.",
+          "In Boston, they were all congregationalists.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "noi",
+      "translations": [
+        "we",
+        "us",
+        "ourselves"
+      ],
+      "usageExamples": [
+        [
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu devi essere onesta con noi.",
+          "You need to be honest with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

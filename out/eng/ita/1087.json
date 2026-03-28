@@ -1,37 +1,24 @@
 {
-  "sentence": "Tutte sono felici.",
+  "sentence": "Tu non sei un barbiere, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "All are happy.",
-    "Everybody's happy.",
-    "Everyone is happy."
+    "You're not a barber, are you?"
   ],
   "parts": [
     {
-      "content": "Tutte",
+      "content": "Tu",
       "translations": [
-        "All",
-        "Everyone",
-        "Everything",
-        "All of them"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sono",
-      "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
+        "You",
+        "Yourself",
+        "Thou",
+        "Ye"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1087.json
           "Perché sono qui?",
           "Why are they here?",
           "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
@@ -45,21 +32,133 @@
           "Io sono solo curiosa.",
           "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu sei sposata?",
+          "Are you married?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu comprendi quel libro.",
+          "You understand that book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/1008.json
         ]
       ]
     },
     {
-      "content": "felici",
+      "content": "non",
       "translations": [
-        "happy",
-        "joyful",
-        "fortunate",
-        "blissful"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
-          "Tom mi ha detto che eravate felici.",
-          "Tom told me you were happy.",
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sei",
+      "translations": [
+        "six",
+        "you are",
+        "if you",
+        "be"
+      ],
+      "usageExamples": [
+        [
+          "Tu sei sposata?",
+          "Are you married?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci sei già stato.",
+          "You've already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che sei ancora arrabbiata con me.",
+          "I know you're still mad at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono un tipo solitario.",
+          "I'm a loner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "barbiere",
+      "translations": [
+        "barber",
+        "hairdresser",
+        "shaver"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È scoraggiata, vero?",
+          "She's discouraged, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

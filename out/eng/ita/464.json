@@ -1,37 +1,27 @@
 {
-  "sentence": "Iniziai a uscire con lui.",
+  "sentence": "Il tempo è finito.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I started dating him."
+    "Time is up."
   ],
   "parts": [
     {
-      "content": "Iniziai",
+      "content": "Il",
       "translations": [
-        "I started.",
-        "I began",
-        "I initiated",
-        "I commenced"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
+        "The",
+        "It"
       ],
       "usageExamples": [
         [
-          "Cosa capiterà a loro?",
-          "What's going to happen to them?",
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/464.json
           "Non riusciva a vederla.",
           "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -39,41 +29,81 @@
         [
           "Vado a trovare un'amica.",
           "I'm going to visit a friend.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "uscire",
-      "translations": [
-        "to go out",
-        "to exit",
-        "to leave",
-        "to come out"
-      ],
-      "usageExamples": [
-        [
-          "Io ho voglia di uscire.",
-          "I feel like going out.",
+=======
+          "Il cane scodinzolava.",
+          "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary non è permesso uscire da sola.",
-          "Mary isn't allowed to go out by herself.",
+          "Il gatto mangia.",
+          "The cat eats.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tempo",
+      "translations": [
+        "time",
+        "weather",
+        "period"
+      ],
+      "usageExamples": [
+        [
+          "Era una corsa contro il tempo.",
+          "It was a race against time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Solo il tempo dirà cosa il mondo ha in serbo per noi.",
+          "Only time will tell what the world has in store for us.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto tempo ci è voluto per tradurre questo libro?",
+          "How long did it take us to translate this book?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/385.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "con",
+      "content": "è",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "finito",
+      "translations": [
+        "finished",
+        "done",
+        "completed",
+        "over"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/464.json
           "Siate pazienti con noi.",
           "Be patient with us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -112,6 +142,16 @@
           "Cos'hai contro di lui?",
           "What do you have against him?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Lei ha già finito?",
+          "Have you already finished?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/385.json
         ]
       ]
     }

@@ -1,54 +1,66 @@
 {
-  "sentence": "Beh, eccoci qui alla fine!",
+  "sentence": "Avete mai provato?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Well, here we are at last!"
+    "Did you ever try?"
   ],
   "parts": [
     {
-      "content": "Beh",
+      "content": "Avete",
       "translations": [
-        "Well",
-        "So"
+        "You have",
+        "Do you have?",
+        "You all have",
+        "Have you?"
       ],
       "usageExamples": [
         [
-          "Beh, sicuramente lo richiederò.",
-          "Well, I'll surely ask again.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete annotato il numero di telefono?",
+          "Did you write down the telephone number?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "eccoci",
+      "content": "mai",
       "translations": [
-        "here we are",
-        "here we go",
-        "here we are now",
-        "let's get started"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "qui",
-      "translations": [
-        "who",
-        "that",
-        "which",
-        "whom"
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/261.json
           "Odio qui.",
           "I hate it here.",
+=======
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/182.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Erano proprio qui.",
-          "They were right here.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -59,15 +71,16 @@
       ]
     },
     {
-      "content": "alla",
+      "content": "provato",
       "translations": [
-        "to",
-        "at",
-        "in the direction of",
-        "towards"
+        "tried",
+        "tested",
+        "proven",
+        "experienced"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/261.json
           "Mi sono divertita davvero alla festa.",
           "I really enjoyed myself at the party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -100,6 +113,15 @@
         [
           "A Chicago tende a nevicare verso la fine di novembre.",
           "Snow is apt to fall in Chicago in late November.",
+=======
+          "Avete provato l'hot pot a Taiwan?",
+          "Have you tried the hot pot in Taiwan?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho provato a seguire le sue instruzioni.",
+          "I tried to follow your instructions.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/182.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

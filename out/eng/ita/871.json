@@ -1,23 +1,24 @@
 {
-  "sentence": "Questa mattina Tatoeba non sta funzionando molto bene.",
+  "sentence": "Quanto spesso ti viene a trovare Tom?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Mateon1 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This morning, Tatoeba isn't working very well."
+    "How often does Tom visit you?"
   ],
   "parts": [
     {
-      "content": "Questa",
+      "content": "Quanto",
       "translations": [
-        "This",
-        "This one",
-        "This thing",
-        "This item"
+        "How much",
+        "How many",
+        "To what extent",
+        "As much as"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/871.json
           "Questa pagina non è mai stata divertente.",
           "This page was never funny.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -26,24 +27,35 @@
           "Questa è casa sua adesso.",
           "This is your house now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questa è una buona domanda.",
-          "This is a good question.",
+          "Quanto spesso mangi pesce?",
+          "How often do you eat fish?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/792.json
+        ],
+        [
+          "Quanto è freddo il Canada?",
+          "How cold is Canada?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mattina",
+      "content": "spesso",
       "translations": [
-        "morning",
-        "morn",
-        "AM",
-        "daybreak"
+        "often",
+        "frequently",
+        "usually",
+        "repeatedly"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/871.json
           "Ho passato tutta la mattina a pulire la mia camera.",
           "I've spent the entire morning cleaning my room.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -51,30 +63,35 @@
         [
           "Ho bevuto del caffè questa mattina.",
           "I drank coffee this morning.",
+=======
+          "Non vinco molto spesso.",
+          "I don't win very often.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto spesso mangi pesce?",
+          "How often do you eat fish?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vede spesso il fondo del bicchiere.",
+          "He often sees the bottom of the glass.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/792.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tatoeba",
+      "content": "ti",
       "translations": [
-        "For example",
-        "Such as",
-        "Like this",
-        "For instance"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "non",
-      "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
+        "you",
+        "yourself",
+        "to you",
+        "for you"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/871.json
           "Certamente non lo odiava.",
           "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -88,19 +105,35 @@
           "Preferirei non farlo.",
           "I'd rather not do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ti rilassi un po'?",
+          "Why don't you to relax a bit?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tua moglie ti sta tradendo.",
+          "Your wife is cheating on you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/792.json
         ]
       ]
     },
     {
-      "content": "sta",
+      "content": "viene",
       "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
+        "comes",
+        "arrives",
+        "is coming",
+        "is happening"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/871.json
           "Qualcuno sta osservando Tom.",
           "Someone is watching Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -113,30 +146,29 @@
         [
           "Tom sta cenando adesso.",
           "Tom is eating dinner right now.",
+=======
+          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
+          "\"Where's your girlfriend from?\" \"She's Russian.\"",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Arrostisca il bhakri mentre la pentola viene riscaldata.",
+          "Roast the bhakri while the pan is heated.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/792.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "funzionando",
+      "content": "a",
       "translations": [
-        "functioning",
-        "operating",
-        "working",
-        "in operation"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "molto",
-      "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/871.json
           "Si contraddicono molto.",
           "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -149,25 +181,40 @@
         [
           "Non vinco molto spesso.",
           "I don't win very often.",
+=======
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/792.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bene",
+      "content": "trovare",
       "translations": [
-        "well",
-        "good",
-        "fine",
-        "okay"
+        "to find",
+        "to discover",
+        "to locate",
+        "to come across"
       ],
       "usageExamples": [
         [
-          "È andata bene oggi?",
-          "Did it go well today?",
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/871.json
           "Nessuno qua balla bene come te.",
           "Nobody here dances as well as you.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
@@ -175,6 +222,34 @@
         [
           "Sai giocare bene a pallacanestro?",
           "Can you play basketball well?",
+=======
+          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
+          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/792.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom mi chiese se avevo fame.",
+  "sentence": "Tom ha ordinato una bottiglia di vino.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by adamtrousers (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom asked me whether I was hungry."
+    "Tom ordered a bottle of wine."
   ],
   "parts": [
     {
@@ -16,11 +16,37 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1022.json
           "Sai cosa vuole Tom?",
           "Do you know what Tom wants?",
+=======
+          "Tom sembra impegnato.",
+          "Tom seems busy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/943.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/1022.json
           "Dovresti aiutare Tom.",
           "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,20 +54,35 @@
         [
           "A Ken mancava Tom.",
           "Ken missed Tom.",
+=======
+          "Lei ha già finito?",
+          "Have you finished yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'ha salvata.",
+          "He rescued her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/943.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mi",
+      "content": "ordinato",
       "translations": [
-        "me",
-        "myself",
-        "to me",
-        "for me"
+        "ordered",
+        "neat",
+        "tidy",
+        "arranged"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1022.json
           "Il bambino mi sorrise.",
           "The baby smiled at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,41 +95,30 @@
         [
           "Mary mi disse che non aveva fame.",
           "Mary told me that she wasn't hungry.",
+=======
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/943.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chiese",
+      "content": "una",
       "translations": [
-        "churches",
-        "chapels",
-        "places of worship",
-        "temples"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
-          "Tom chiese a Mary se lei si fidava di John.",
-          "Tom asked Mary if she trusted John.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "se",
-      "translations": [
-        "himself",
-        "herself",
-        "itself",
-        "themselves"
-      ],
-      "usageExamples": [
-        [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
+          "Noi terremo una festa.",
+          "We'll have a party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1022.json
           "Non so se i padrini di mio figlio siano ancora vivi.",
           "I don't know if my son's godparents are still alive.",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
@@ -111,6 +141,15 @@
         [
           "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
           "My eyes were full of tears and I could barely see him.",
+=======
+          "Vorrei una camera.",
+          "I would like a room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/943.json
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ],
         [
@@ -121,14 +160,26 @@
       ]
     },
     {
-      "content": "fame",
+      "content": "bottiglia",
       "translations": [
-        "hunger",
-        "appetite",
-        "starvation"
+        "bottle",
+        "flask",
+        "container",
+        "vessel"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1022.json
           "Mary ha detto che non ha fame.",
           "Mary said she's not hungry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -142,6 +193,36 @@
           "Mary mi disse che non aveva fame.",
           "Mary told me that she wasn't hungry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Può fare di meglio.",
+          "You can do better.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vino",
+      "translations": [
+        "wine",
+        "grape beverage",
+        "fermented grape drink"
+      ],
+      "usageExamples": [
+        [
+          "Vorrei un po' di vino bianco, per favore.",
+          "I'd like some white wine, please.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/943.json
         ]
       ]
     }

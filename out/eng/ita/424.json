@@ -1,11 +1,14 @@
 {
-  "sentence": "Ho visto Tom prima.",
+  "sentence": "Ho scordato il suo nome.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sharris123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by speedwell (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I saw Tom earlier."
+    "I forgot your name.",
+    "I have forgotten your name.",
+    "I've forgotten her name."
   ],
   "parts": [
     {
@@ -18,13 +21,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/424.json
           "Ho ammesso la sconfitta.",
           "I admitted defeat.",
+=======
+          "Ho iniziato dal fondo.",
+          "I started at the bottom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho letto un fumetto.",
-          "I read a comic book.",
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/345.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,39 +48,57 @@
       ]
     },
     {
-      "content": "visto",
+      "content": "scordato",
       "translations": [
-        "visa",
-        "sight",
-        "view",
-        "sightseeing"
+        "out of tune",
+        "off-key",
+        "out of harmony",
+        "discordant"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai visto Tom quella notte?",
-          "Did you see Tom that night?",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/424.json
           "A Mary non piaceva quello che ha visto.",
           "Mary didn't like what she saw.",
+=======
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/345.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "suo",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "his",
+        "her",
+        "its",
+        "their"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/424.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -80,25 +111,40 @@
         [
           "Tom è un esperto.",
           "Tom is a pro.",
+=======
+          "Ha lasciato un po' di cibo nel suo piatto.",
+          "She left some food on her plate.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Benedito piacque il suo viaggio in India.",
+          "Benedito enjoyed his trip to India.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo impiego.",
+          "Mary didn't enjoy her job.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/345.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "prima",
+      "content": "nome",
       "translations": [
-        "first",
-        "primary",
-        "initial",
-        "foremost"
+        "name",
+        "title",
+        "designation",
+        "label"
       ],
       "usageExamples": [
         [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
+          "A Mary non piaceva il suo nome.",
+          "Mary didn't like her name.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/424.json
           "Avrebbe dovuto chiedere a lui prima.",
           "You should've asked him first.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -107,6 +153,16 @@
           "Quanti anni aveva nella prima foto?",
           "How old was she in the first photo?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "A Mary non piace il suo nome.",
+          "Mary doesn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso chiedere il vostro nome?",
+          "May I ask your name?",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/345.json
         ]
       ]
     }

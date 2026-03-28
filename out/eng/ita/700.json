@@ -1,23 +1,24 @@
 {
-  "sentence": "Non aveva ciò che le serviva.",
+  "sentence": "Noi siamo in Finlandia.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by _undertoad (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She didn't have what she needed."
+    "We are in Finland."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Noi",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
+        "We",
+        "Us",
+        "Ours",
+        "Our group"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/700.json
           "Non lasciate guidare Tom.",
           "Don't let Tom drive.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -30,18 +31,83 @@
         [
           "Non vengono.",
           "They're not coming.",
+=======
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi terremo una festa.",
+          "We'll have a party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aveva",
+      "content": "siamo",
       "translations": [
-        "had",
-        "was having",
-        "used to have",
-        "possessed"
+        "we are",
+        "let's be",
+        "we're",
+        "we exist"
       ],
+      "usageExamples": [
+        [
+          "Siamo tutte delle codarde.",
+          "We're all cowards.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non siamo sposati.",
+          "We're not married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vediamo le cose così come sono, le vediamo così come siamo.",
+          "We don't see things as they are, we see them as we are.",
+          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era in ritardo.",
+          "He was late.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/621.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Finlandia",
+      "translations": [
+        "Finland",
+        "Finnish land",
+        "Land of Finland"
+      ],
+<<<<<<< HEAD:out/eng/ita/700.json
       "usageExamples": [
         [
           "Quanti anni aveva nella prima foto?",
@@ -158,6 +224,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/621.json
     }
   ]
 }

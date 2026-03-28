@@ -1,11 +1,11 @@
 {
-  "sentence": "A Ken piace davvero Tom.",
+  "sentence": "A Karl mancava bere il latte.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ken does like Tom."
+    "Karl missed drinking milk."
   ],
   "parts": [
     {
@@ -17,8 +17,18 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/89.json
           "A Mary manca Boston.",
           "Mary misses Boston.",
+=======
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/64.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,14 +44,24 @@
       ]
     },
     {
-      "content": "Ken",
+      "content": "Karl",
       "translations": [
-        "Ken",
-        "Yes.",
-        "Okay."
+        "Karl",
+        "Carl"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bere",
+      "translations": [
+        "to drink",
+        "drinking",
+        "have a drink",
+        "consume liquid"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/89.json
           "A Ken mancava Tom.",
           "Ken missed Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -54,19 +74,25 @@
         [
           "A Ken piace andare in campeggio.",
           "Ken likes camping.",
+=======
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/64.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piace",
+      "content": "il",
       "translations": [
-        "to like",
-        "to please",
-        "to be pleasing to"
+        "the",
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/89.json
           "A Mary piace cucinare.",
           "Mary likes to cook.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -74,6 +100,15 @@
         [
           "A John piace l'infermiera.",
           "John likes the nurse.",
+=======
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/64.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -84,20 +119,21 @@
       ]
     },
     {
-      "content": "davvero",
+      "content": "latte",
       "translations": [
-        "really",
-        "truly",
-        "actually",
-        "indeed"
+        "milk",
+        "dairy milk",
+        "cow's milk",
+        "liquid milk"
       ],
       "usageExamples": [
         [
-          "Loro l'hanno fatta davvero.",
-          "They really did it.",
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/89.json
           "Mi sono divertita davvero alla festa.",
           "I really enjoyed myself at the party.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -129,6 +165,15 @@
         [
           "Tom sta lavorando, vero?",
           "Tom is working, isn't he?",
+=======
+          "Di solito bevo molto latte.",
+          "I usually drink a lot of milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il latte nel suo caffè.",
+          "Mary doesn't like milk in her coffee.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/64.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

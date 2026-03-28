@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom provò a catturare il coniglio.",
+  "sentence": "Tom non si fida degli estranei.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom tried to catch the rabbit."
+    "Tom doesn't trust strangers."
   ],
   "parts": [
     {
@@ -16,6 +16,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1040.json
           "Tom sta gemendo.",
           "Tom is groaning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -28,31 +29,114 @@
         [
           "Tom è ovviamente arrabbiato.",
           "Tom is obviously angry.",
+=======
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "provò",
+      "content": "non",
       "translations": [
-        "he/she tried",
-        "he/she tested",
-        "he/she attempted",
-        "he/she proved"
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/961.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "si",
+      "translations": [
+        "if",
+        "whether",
+        "in case",
+        "provided that"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fida",
+      "translations": [
+        "faithful",
+        "loyal",
+        "trustworthy",
+        "reliable"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "degli",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "some",
+        "of the",
+        "of",
+        "from the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1040.json
           "Volate fino a Londra.",
           "Fly to London.",
+=======
+          "Gli ippopotami sono degli animali innocui?",
+          "Are hippopotamuses harmless animals?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Odio il cibo degli ospedali.",
+          "I hate hospital food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/961.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -68,8 +152,9 @@
       ]
     },
     {
-      "content": "catturare",
+      "content": "estranei",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/1040.json
         "to capture",
         "to seize",
         "to catch",
@@ -109,6 +194,12 @@
         "rabbit",
         "bunny",
         "hare"
+=======
+        "strangers",
+        "outsiders",
+        "foreigners",
+        "aliens"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/961.json
       ],
       "usageExamples": []
     }

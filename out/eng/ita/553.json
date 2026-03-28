@@ -1,11 +1,11 @@
 {
-  "sentence": "La nostra insegnante ci ha divisi in due gruppi.",
+  "sentence": "La detesta assolutamente.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Our teacher separated us into two groups."
+    "He absolutely detests her."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/553.json
           "La matematica è divertente.",
           "Math is fun.",
           "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
@@ -30,13 +31,28 @@
         [
           "La dovete avvertire.",
           "You've got to warn her.",
+=======
+          "La dovete avvertire.",
+          "You've got to warn her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La mangeremo.",
+          "We'll eat it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La potrebbe ferire.",
+          "He might hurt her.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/474.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nostra",
+      "content": "detesta",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/553.json
         "our",
         "ours",
         "belonging to us"
@@ -138,12 +154,19 @@
         "split",
         "separated",
         "partitioned"
+=======
+        "detest",
+        "loathe",
+        "abhor",
+        "despise"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/474.json
       ],
       "usageExamples": []
     },
     {
-      "content": "in",
+      "content": "assolutamente",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/553.json
         "inside",
         "within",
         "into"
@@ -199,6 +222,12 @@
         "teams",
         "clusters",
         "sets"
+=======
+        "absolutely",
+        "definitely",
+        "utterly",
+        "completely"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/474.json
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Io ho qualche idea per te.",
+  "sentence": "Io ero lì.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have a few ideas for you."
+    "I was there."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/478.json
           "Io sono solo curiosa.",
           "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,20 +30,35 @@
         [
           "Io parlo bosniaco.",
           "I speak Bosnian.",
+=======
+          "Io insegno il berbero.",
+          "I teach Berber.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io parlo bosniaco.",
+          "I speak Bosnian.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io appoggiavo Tom.",
+          "I used to support Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/399.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ho",
+      "content": "ero",
       "translations": [
-        "I have",
-        "I've got",
-        "I possess",
-        "I own"
+        "I was",
+        "I used to be",
+        "I used to",
+        "I was being"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/478.json
           "Ti ho visto sbadigliare.",
           "I saw you yawning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,25 +71,30 @@
         [
           "Io non ho preso nulla per te.",
           "I didn't get anything for you.",
+=======
+          "L'ho usata quando ero in Cina la scorsa estate.",
+          "I used it when I was in China last summer.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/399.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qualche",
+      "content": "lì",
       "translations": [
-        "some",
-        "a few",
-        "several",
-        "a couple of"
+        "there",
+        "over there",
+        "in that place",
+        "at that location"
       ],
       "usageExamples": [
         [
-          "Accendiamo qualche candela.",
-          "Let's light some candles.",
+          "Perché siete andati lì?",
+          "Why did you go there?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/478.json
           "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
           "Mary said she'd like to borrow a few books.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -142,6 +163,11 @@
           "Nessuno qua balla bene come te.",
           "Nobody here dances as well as you.",
           "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+=======
+          "Non ci sarà così tanta gente lì.",
+          "There won't be so many people there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/399.json
         ]
       ]
     }

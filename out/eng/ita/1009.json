@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom ha dato dell'idiota all'arbitro.",
+  "sentence": "Tom e Mary studiano il francese ogni sera per trenta minuti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom called the referee an idiot."
+    "Tom and Mary study French every evening for thirty minutes."
   ],
   "parts": [
     {
@@ -16,8 +16,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1009.json
           "Tom sta lavorando, vero?",
           "Tom is working, isn't he?",
+=======
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/930.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -33,14 +48,16 @@
       ]
     },
     {
-      "content": "ha",
+      "content": "e",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "and",
+        "also",
+        "as well as",
+        "in addition"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1009.json
           "L'ha salvata.",
           "He rescued her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -48,6 +65,20 @@
         [
           "Quanti figli ha Tom?",
           "How many kids does Tom have?",
+=======
+          "Da un anno io e lui ci scambiamo sguardi.",
+          "He and I have been exchanging looks for the past year.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Loro sono fratello e sorella.",
+          "They're brother and sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La pâte brisée, per essere buona, deve essere friabile e leggera.",
+          "To be good, pâte brisée should be light and flaky.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/930.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -58,48 +89,176 @@
       ]
     },
     {
-      "content": "dato",
+      "content": "Mary",
       "translations": [
-        "given",
-        "data",
-        "fact",
-        "information"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/1009.json
           "A Madre Teresa è stato dato il Premio Nobel.",
           "Mother Teresa was given the Nobel prize.",
+=======
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/930.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il dottore gli ha dato un sedativo.",
-          "The doctor gave him a sedative.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/1009.json
           "A Madre Teresa fu dato il Premio Nobel.",
           "Mother Teresa was given the Nobel prize.",
+=======
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/930.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dell'idiota",
+      "content": "studiano",
       "translations": [
-        "of the idiot",
-        "of the fool",
-        "of the moron",
-        "of the simpleton"
+        "they study",
+        "you (plural) study",
+        "studying",
+        "are studying"
       ],
       "usageExamples": []
     },
     {
-      "content": "all'arbitro",
+      "content": "il",
       "translations": [
-        "to the referee",
-        "at the referee",
-        "for the referee",
-        "towards the referee"
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "francese",
+      "translations": [
+        "French",
+        "French language",
+        "French person",
+        "French cuisine"
+      ],
+      "usageExamples": [
+        [
+          "Tom tradusse il contratto in francese.",
+          "Tom translated the contract into French.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ogni",
+      "translations": [
+        "each",
+        "every",
+        "all",
+        "any"
+      ],
+      "usageExamples": [
+        [
+          "Ridete ogni giorno?",
+          "Do you laugh every day?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mondo cambia ogni giorno.",
+          "The world changes every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mia madre è impegnatissima ogni giorno.",
+          "My mother is busy as a bee every day.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sera",
+      "translations": [
+        "evening",
+        "night",
+        "late",
+        "dusk"
+      ],
+      "usageExamples": [
+        [
+          "Io guardo la TV quasi ogni sera.",
+          "I watch TV almost every night.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trenta",
+      "translations": [
+        "thirty",
+        "30",
+        "three tens",
+        "three decades"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "minuti",
+      "translations": [
+        "minutes",
+        "small",
+        "tiny",
+        "minute"
       ],
       "usageExamples": []
     }

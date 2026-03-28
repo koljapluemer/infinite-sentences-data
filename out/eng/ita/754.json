@@ -1,11 +1,11 @@
 {
-  "sentence": "Non si preoccupi per Tom.",
+  "sentence": "Non sapevo fossi un tale coglione.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Don't worry about Tom."
+    "I didn't know you were such a wanker."
   ],
   "parts": [
     {
@@ -18,6 +18,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/754.json
           "Non scordi di chiamarli.",
           "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -25,6 +26,15 @@
         [
           "Non vuole fermarla.",
           "He doesn't want to stop her.",
+=======
+          "Non parlate così impudentemente.",
+          "Don't talk so impudently.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/675.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,8 +45,9 @@
       ]
     },
     {
-      "content": "si",
+      "content": "sapevo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/754.json
         "if",
         "whether",
         "in case",
@@ -67,18 +78,26 @@
         "concern",
         "preoccupy",
         "trouble"
+=======
+        "I knew",
+        "I was aware",
+        "I understood.",
+        "I had knowledge"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/675.json
       ],
       "usageExamples": []
     },
     {
-      "content": "per",
+      "content": "fossi",
       "translations": [
-        "for",
-        "by",
-        "through"
+        "ditch",
+        "trench",
+        "moat",
+        "excavation"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/754.json
           "Sono preparata per morire.",
           "I'm prepared to die.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -91,18 +110,24 @@
         [
           "Hey, grazie per l'aiuto.",
           "Hey, thanks for the help.",
+=======
+          "Non farei niente per Tom se fossi in voi.",
+          "I wouldn't do anything for Tom if I were you.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/675.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "un",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/754.json
           "Io appoggiavo Tom.",
           "I used to support Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -115,9 +140,43 @@
         [
           "Tom sembra compiaciuto.",
           "Tom looks pleased.",
+=======
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui sembra un delinquente.",
+          "He looks like a gangster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Era un libro nuovo.",
+          "It was a new book.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/675.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "tale",
+      "translations": [
+        "such",
+        "like that",
+        "that kind of",
+        "that one"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "coglione",
+      "translations": [
+        "idiot",
+        "fool",
+        "jerk",
+        "dumbass"
+      ],
+      "usageExamples": []
     }
   ]
 }

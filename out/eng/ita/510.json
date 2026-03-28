@@ -1,11 +1,11 @@
 {
-  "sentence": "Io sono sempre stato un repubblicano.",
+  "sentence": "Io penso che siate egoisti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've always been a Republican."
+    "I think you're selfish."
   ],
   "parts": [
     {
@@ -19,6 +19,7 @@
         [
           "Io l'ho comprata.",
           "I bought it.",
+<<<<<<< HEAD:out/eng/ita/510.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -29,18 +30,83 @@
         [
           "Io consegno pizze.",
           "I deliver pizzas.",
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ero lì.",
+          "I was there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono solo curiosa.",
+          "I'm just curious.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/431.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sono",
+      "content": "penso",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
+        "I think.",
+        "I believe",
+        "I consider",
+        "I reflect"
       ],
+      "usageExamples": [
+        [
+          "Io non penso che lui stia fingendo.",
+          "I don't think he's faking.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io penso che il vento si stia indebolendo.",
+          "I think the wind's dropping off.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io penso che Tom fosse qui.",
+          "I think Tom was here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "siate",
+      "translations": [
+        "be",
+        "be you",
+        "you are",
+        "let you be"
+      ],
+<<<<<<< HEAD:out/eng/ita/510.json
       "usageExamples": [
         [
           "Perché sono qui?",
@@ -58,10 +124,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/431.json
     },
     {
-      "content": "sempre",
+      "content": "egoisti",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/510.json
         "always",
         "forever",
         "at all times",
@@ -142,6 +212,12 @@
         "republican",
         "of or relating to a republic",
         "supporting a republican form of government"
+=======
+        "selfish",
+        "egoistic",
+        "self-centered",
+        "narcissistic"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/431.json
       ],
       "usageExamples": []
     }

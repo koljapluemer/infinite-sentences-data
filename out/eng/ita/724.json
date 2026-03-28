@@ -1,11 +1,11 @@
 {
-  "sentence": "Non ho niente di cui vantarmi.",
+  "sentence": "Non gli feci mai del male.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have nothing to boast about."
+    "I never harmed him."
   ],
   "parts": [
     {
@@ -18,13 +18,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/724.json
           "Non tollererò il fallimento.",
           "I will not tolerate failure.",
+=======
+          "Non mandarmi dei messaggi.",
+          "Don't send me messages.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/645.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non le vogliamo là.",
-          "We don't want them there.",
+          "Non vengono.",
+          "They're not coming.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non l'ho riconosciuto.",
+          "I didn't recognize it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,34 +45,39 @@
       ]
     },
     {
-      "content": "ho",
+      "content": "gli",
       "translations": [
-        "I have",
-        "I've got",
-        "I possess",
-        "I own"
+        "the",
+        "them",
+        "those"
       ],
       "usageExamples": [
         [
-          "Io l'ho comprata.",
-          "I bought it.",
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
+          "A Bob piace osservare gli insetti.",
+          "Bob enjoys insect watching.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/724.json
           "Io ho preso un taxi perché stava piovendo.",
           "I took a taxi because it was raining.",
+=======
+          "Il dottore gli ha dato un sedativo.",
+          "The doctor gave him a sedative.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/645.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "niente",
+      "content": "feci",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/724.json
         "nothing",
         "none",
         "not anything",
@@ -134,8 +149,91 @@
         "to boast",
         "to brag",
         "to take pride in"
+=======
+        "I did",
+        "I made",
+        "I have done",
+        "I have made"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/645.json
       ],
       "usageExamples": []
+    },
+    {
+      "content": "mai",
+      "translations": [
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
+      ],
+      "usageExamples": [
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of the",
+        "from the",
+        "about the",
+        "by the"
+      ],
+      "usageExamples": [
+        [
+          "Sta mangiando del gelato.",
+          "She's eating ice cream.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni comprò del cibo.",
+          "Yanni bought some food.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il Museo del Prado è chiuso perché oggi è lunedì.",
+          "The Prado Museum is closed because today is Monday.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "male",
+      "translations": [
+        "man",
+        "masculine",
+        "boy"
+      ],
+      "usageExamples": [
+        [
+          "Fa male! Smettila!",
+          "That hurts! Stop it!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Heather fanno male i denti.",
+          "Heather has a toothache.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tutto il nostro cibo è andato a male.",
+          "All our food was spoiled.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

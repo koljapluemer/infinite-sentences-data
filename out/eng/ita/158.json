@@ -1,11 +1,11 @@
 {
-  "sentence": "A Mary non piace il suo impiego.",
+  "sentence": "A Mary non piace il latte nel suo caffè.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary doesn't like her job."
+    "Mary doesn't like milk in her coffee."
   ],
   "parts": [
     {
@@ -17,11 +17,20 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/158.json
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/122.json
           "A Larry piace l'aragosta.",
           "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/158.json
           "A Fadil piaceva sciare.",
           "Fadil liked to ski.",
           "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
@@ -29,6 +38,10 @@
         [
           "A Mary manca Boston.",
           "Mary misses Boston.",
+=======
+          "A Ken mancava Tom.",
+          "Ken missed Tom.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/122.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -55,6 +68,14 @@
           "A Lucy piace Mary.",
           "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+<<<<<<< HEAD:out/eng/ita/158.json
+=======
+        ],
+        [
+          "A Mary importava solamente di se stessa.",
+          "Mary only cared about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/122.json
         ]
       ]
     },
@@ -64,12 +85,28 @@
         "not",
         "no",
         "none",
-        "never"
+        "never",
+        "don't"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/158.json
           "Però non funzionerà!",
           "But that won't work!",
+=======
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/122.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -93,6 +130,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/158.json
           "A Judy piace.",
           "Judy likes him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -105,6 +143,20 @@
         [
           "A Mary piace cucinare.",
           "Mary likes to cook.",
+=======
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/122.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -119,8 +171,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/158.json
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "Mi piace il reggae.",
+          "I like reggae.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/122.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -131,6 +188,61 @@
         [
           "Io insegno il berbero.",
           "I teach Berber.",
+<<<<<<< HEAD:out/eng/ita/158.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "latte",
+      "translations": [
+        "milk",
+        "dairy milk",
+        "cow's milk",
+        "liquid milk"
+      ],
+      "usageExamples": [
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Di solito bevo molto latte.",
+          "I usually drink a lot of milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
+          "Would you mind if I drank the rest of the milk?",
+          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nel",
+      "translations": [
+        "in the",
+        "inside the",
+        "within the",
+        "at the"
+      ],
+      "usageExamples": [
+        [
+          "Riuscite a leggermi nel pensiero?",
+          "Can you read my mind?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci sono delle isole nel mare.",
+          "There are islands in the sea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'Angola è diventata indipendente nel 1975.",
+          "Angola became independent in 1975.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/122.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -145,8 +257,18 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/158.json
           "A Mary non piace il suo nuovo impiego.",
           "Mary doesn't like her new job.",
+=======
+          "A Mary non piace il suo impiego.",
+          "Mary doesn't like her job.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancava suo figlio.",
+          "Mary missed her son.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/122.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -162,15 +284,16 @@
       ]
     },
     {
-      "content": "impiego",
+      "content": "caffè",
       "translations": [
-        "employment",
-        "use",
-        "application",
-        "job"
+        "coffee",
+        "café",
+        "espresso",
+        "java"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/158.json
           "A Mary non piace il suo nuovo impiego.",
           "Mary doesn't like her new job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -184,6 +307,21 @@
           "Lui colse l'occasione di ottenere un impiego.",
           "He grabbed the chance to get a job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Bevo solo caffè decaffeinato.",
+          "I only drink decaffeinated coffee.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
+          "Come to Albania, where we always make good coffee.",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/122.json
         ]
       ]
     }

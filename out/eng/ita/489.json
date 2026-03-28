@@ -1,11 +1,11 @@
 {
-  "sentence": "Io non la lascerò andare.",
+  "sentence": "Io l'ho comprata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I won't let you go."
+    "I bought it."
   ],
   "parts": [
     {
@@ -17,8 +17,23 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/489.json
           "Io sono solo curiosa.",
           "I'm just curious.",
+=======
+          "Io ero lì.",
+          "I was there.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io consegno pizze.",
+          "I deliver pizzas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/410.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,6 +49,7 @@
       ]
     },
     {
+<<<<<<< HEAD:out/eng/ita/489.json
       "content": "non",
       "translations": [
         "not",
@@ -92,34 +108,62 @@
         "I will let go",
         "I will allow",
         "I will abandon"
+=======
+      "content": "l'",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "her"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/410.json
       ],
       "usageExamples": []
     },
     {
-      "content": "andare",
+      "content": "ho",
       "translations": [
-        "to go",
-        "to walk",
-        "to move",
-        "to travel"
+        "I have",
+        "I've got",
+        "I possess",
+        "I own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/489.json
           "Devo andare a trovarli.",
           "I must go and find them.",
+=======
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/410.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
+          "Ti ho detto delle cose così orribili. Mi dispiace.",
+          "I said such horrible things to you. I'm sorry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/489.json
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "Io ho preparato dello spezzatino.",
+          "I've made stew.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/410.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "comprata",
+      "translations": [
+        "bought",
+        "purchased",
+        "acquired",
+        "procured"
+      ],
+      "usageExamples": []
     }
   ]
 }

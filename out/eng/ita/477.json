@@ -1,11 +1,11 @@
 {
-  "sentence": "Io ho preso un taxi perché stava piovendo.",
+  "sentence": "Io e Tom non siamo così.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I took a taxi because it was raining."
+    "Tom and I aren't like that."
   ],
   "parts": [
     {
@@ -17,6 +17,7 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/477.json
           "Io consegno pizze.",
           "I deliver pizzas.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -24,25 +25,30 @@
         [
           "Io insegno il berbero.",
           "I teach Berber.",
+=======
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/398.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sto diventando piccolo!",
-          "I am getting small!",
+          "Io sono una patata.",
+          "I am a potato.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ho",
+      "content": "e",
       "translations": [
-        "I have",
-        "I've got",
-        "I possess",
-        "I own"
+        "and",
+        "also",
+        "as well as",
+        "in addition"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/477.json
           "Ti ho visto sbadigliare.",
           "I saw you yawning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,40 +61,60 @@
         [
           "Ti ho detto delle cose così orribili. Mi dispiace.",
           "I said such horrible things to you. I'm sorry.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "preso",
-      "translations": [
-        "caught",
-        "arrested",
-        "taken",
-        "seized"
-      ],
-      "usageExamples": [
-        [
-          "Ho preso un taxi per andare alla stazione dei treni.",
-          "I took a taxi to the train station.",
+=======
+          "Perché non lo scorda e basta?",
+          "Why don't you just forget it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io non ho preso nulla per te.",
-          "I didn't get anything for you.",
+          "Il suo sommario molto approssimativo non rende giustizia al testo originale e alla sua raffinatezza intellettuale.",
+          "His very rough summary does not do justice to the original text and its intellectual sophistication.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom e Mary non erano feriti.",
+          "Tom and Mary weren't injured.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/398.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "Tom",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+          "Tom è famoso.",
+          "Tom is famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never",
+        "don't"
+      ],
+      "usageExamples": [
+        [
+<<<<<<< HEAD:out/eng/ita/477.json
           "Non ha un fidanzato?",
           "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -101,35 +127,61 @@
         [
           "Ti compro un regalo.",
           "I buy you a present.",
+=======
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/398.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "taxi",
+      "content": "siamo",
       "translations": [
-        "cab",
-        "taxicab",
-        "ride-hailing service"
+        "we are",
+        "let's be",
+        "we're",
+        "we exist"
       ],
       "usageExamples": [
         [
-          "Ho preso un taxi per andare alla stazione dei treni.",
-          "I took a taxi to the train station.",
+          "Siamo tutte delle codarde.",
+          "We're all cowards.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non siamo sposati.",
+          "We aren't married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "perché",
+      "content": "così",
       "translations": [
-        "why",
-        "because",
-        "for what reason",
-        "for what purpose"
+        "so",
+        "like this",
+        "in this way",
+        "thus"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/477.json
           "Tom non è potuto venire perché è ammalato.",
           "Tom couldn't come because he's sick.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -176,6 +228,23 @@
         "falling rain"
       ],
       "usageExamples": []
+=======
+          "Siete così paranoici.",
+          "You're so paranoid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siamo veramente così poveri?",
+          "Are we really that poor?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete così impazienti.",
+          "You're so impatient.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/398.json
     }
   ]
 }

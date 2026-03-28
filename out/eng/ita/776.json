@@ -1,11 +1,11 @@
 {
-  "sentence": "Non è facile la risposta?",
+  "sentence": "Non vinse, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Isn't the answer easy?"
+    "He didn't win, did he?"
   ],
   "parts": [
     {
@@ -18,8 +18,13 @@
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/776.json
           "Non dormite mai?",
           "Don't you ever sleep?",
+=======
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/697.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -28,20 +33,27 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/776.json
           "Non hai coscienza!",
           "You have no conscience!",
           "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+=======
+          "Non vengono.",
+          "They're not coming.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/697.json
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "vinse",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "he/she won",
+        "it won",
+        "he/she has won",
+        "it has won"
       ],
+<<<<<<< HEAD:out/eng/ita/776.json
       "usageExamples": [
         [
           "Il tempo è finito.",
@@ -59,17 +71,21 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/697.json
     },
     {
-      "content": "facile",
+      "content": "vero",
       "translations": [
-        "easy",
-        "simple",
-        "straightforward",
-        "effortless"
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/776.json
           "Era facile risolvere quel problema.",
           "It was easy to solve that problem.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -134,6 +150,20 @@
         [
           "L'unica risposta era la guerra.",
           "The only answer was war.",
+=======
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siete piuttosto timidi, vero?",
+          "You're quite shy, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/697.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

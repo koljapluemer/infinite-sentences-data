@@ -1,21 +1,22 @@
 {
-  "sentence": "Cosa avete detto al capo?",
+  "sentence": "Conosci quell'hotel?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What did you say to the boss?"
+    "Do you know that hotel?"
   ],
   "parts": [
     {
-      "content": "Cosa",
+      "content": "Conosci",
       "translations": [
-        "Thing",
-        "Item",
-        "Object",
-        "Stuff"
+        "Do you know?",
+        "Are you familiar with?",
+        "Have you heard of?",
+        "Do you recognize?"
       ],
+<<<<<<< HEAD:out/eng/ita/308.json
       "usageExamples": [
         [
           "Cosa la sta causando?",
@@ -33,14 +34,18 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/229.json
     },
     {
-      "content": "avete",
+      "content": "quell'",
       "translations": [
-        "you have",
-        "you've got",
-        "are you having"
+        "that one",
+        "that",
+        "the one"
       ],
+<<<<<<< HEAD:out/eng/ita/308.json
       "usageExamples": [
         [
           "Li avete rapiti?",
@@ -58,10 +63,14 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/229.json
     },
     {
-      "content": "detto",
+      "content": "hotel",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/308.json
         "said",
         "so-called",
         "aforementioned",
@@ -118,6 +127,11 @@
         "chief",
         "leader",
         "boss"
+=======
+        "inn",
+        "lodging",
+        "accommodation"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/229.json
       ],
       "usageExamples": []
     }

@@ -1,22 +1,24 @@
 {
-  "sentence": "I contadini più stupidi hanno le patate più grandi.",
+  "sentence": "Ho sognato di baciare Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The dumbest farmers have the biggest potatoes."
+    "I dreamed about kissing Tom."
   ],
   "parts": [
     {
-      "content": "I",
+      "content": "Ho",
       "translations": [
-        "me",
-        "myself",
-        "the one who is speaking"
+        "I have",
+        "I possess",
+        "I hold",
+        "I own"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/425.json
           "I suoi figli sono nel giardino.",
           "Her sons are in the garden.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -29,30 +31,45 @@
         [
           "I gatti non hanno le pulci.",
           "The cats have fleas.",
+=======
+          "Ho abbastanza amici.",
+          "I have enough friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/346.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "contadini",
+      "content": "sognato",
       "translations": [
-        "farmers",
-        "peasants",
-        "rural workers",
-        "agricultural laborers"
+        "dreamed",
+        "dreamt",
+        "imagined",
+        "envisioned"
       ],
       "usageExamples": []
     },
     {
-      "content": "più",
+      "content": "di",
       "translations": [
-        "more",
-        "plus",
-        "greater",
-        "further"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/425.json
           "È anche più economico.",
           "It's also cheaper.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -65,33 +82,48 @@
         [
           "Volete sentire di più?",
           "Do you want to hear more?",
+=======
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/346.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stupidi",
+      "content": "baciare",
       "translations": [
-        "stupid",
-        "foolish",
-        "silly",
-        "dumb"
+        "to kiss",
+        "kissing",
+        "to peck",
+        "to smooch"
       ],
       "usageExamples": []
     },
     {
-      "content": "hanno",
+      "content": "Tom",
       "translations": [
-        "they have",
-        "you (plural) have"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
-          "Lo hanno aiutato.",
-          "They helped him.",
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/425.json
           "Le due famiglie hanno legami familiari stretti.",
           "The two families have very close ties.",
           "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
@@ -152,6 +184,16 @@
           "Io ho le mani grandi.",
           "I have big hands.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+=======
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/346.json
         ]
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Lui ha molti libri per giovani.",
+  "sentence": "Lui abita al piano sopra al mio.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He has a lot of books for the young."
+    "He lives on the floor above mine."
   ],
   "parts": [
     {
@@ -20,6 +20,14 @@
         [
           "Lui accese la radio.",
           "He turned on the radio.",
+<<<<<<< HEAD:out/eng/ita/624.json
+=======
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui studiò economia all'università.",
+          "He studied economics at college.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/545.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,14 +43,16 @@
       ]
     },
     {
-      "content": "ha",
+      "content": "abita",
       "translations": [
-        "has",
-        "he has",
-        "there is"
+        "lives",
+        "resides",
+        "dwells",
+        "inhabits"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/624.json
           "Lei ha già cominciato.",
           "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -55,20 +65,25 @@
         [
           "Tom ha molti amici?",
           "Does Tom have a lot of friends?",
+=======
+          "Sami sa dove abita Layla.",
+          "Sami knows where Layla lives.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/545.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "molti",
+      "content": "al",
       "translations": [
-        "many",
-        "a lot",
-        "numerous",
-        "several"
+        "to the",
+        "at the",
+        "in the",
+        "for the"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/624.json
           "Tom ha molti amici?",
           "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -102,11 +117,20 @@
         [
           "Sono preparata per morire.",
           "I'm prepared to die.",
+=======
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
+          "Andammo al supermercato asiatico.",
+          "We went to the Asian supermarket.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/545.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -117,14 +141,60 @@
       ]
     },
     {
-      "content": "giovani",
+      "content": "piano",
       "translations": [
-        "young people",
-        "youth",
-        "youngsters",
-        "teenagers"
+        "flat",
+        "level",
+        "smooth"
+      ],
+      "usageExamples": [
+        [
+          "Le piacerebbe imparare a suonare il piano?",
+          "Would you like to learn to play the piano?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lincoln piaceva questo piano.",
+          "Lincoln liked this plan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sopra",
+      "translations": [
+        "above",
+        "on top of",
+        "over",
+        "upstairs"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "mio",
+      "translations": [
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
+      ],
+      "usageExamples": [
+        [
+          "È mio nemico.",
+          "He is my enemy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il mio problema è che sono troppo occupata.",
+          "My problem is I'm too busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso riavere il mio coltello?",
+          "Can I have my knife back?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

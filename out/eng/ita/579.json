@@ -1,11 +1,11 @@
 {
-  "sentence": "Le piacerebbe imparare a suonare il piano?",
+  "sentence": "Le cattive notizie arrivano rapidamente.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Would you like to learn to play the piano?"
+    "Ill news comes apace."
   ],
   "parts": [
     {
@@ -23,8 +23,13 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
+<<<<<<< HEAD:out/eng/ita/579.json
           "Le fece sorridere.",
           "That made them smile.",
+=======
+          "Le è piaciuta la pizza?",
+          "Did you enjoy the pizza?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/500.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -35,38 +40,24 @@
       ]
     },
     {
-      "content": "piacerebbe",
+      "content": "cattive",
       "translations": [
-        "would like",
-        "would be pleasing",
-        "would enjoy",
-        "would be nice"
-      ],
-      "usageExamples": [
-        [
-          "Mi piacerebbe cenare con lei.",
-          "I'd like to have dinner with you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "imparare",
-      "translations": [
-        "to learn",
-        "to acquire knowledge",
-        "to master",
-        "to study"
+        "bad",
+        "evil",
+        "wicked",
+        "poor"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "notizie",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "news",
+        "information",
+        "reports",
+        "updates"
       ],
+<<<<<<< HEAD:out/eng/ita/579.json
       "usageExamples": [
         [
           "Cosa capiterà a loro?",
@@ -84,31 +75,29 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/500.json
     },
     {
-      "content": "suonare",
+      "content": "arrivano",
       "translations": [
-        "to play (an instrument)",
-        "to sound",
-        "to ring",
-        "to perform (music)"
+        "they arrive",
+        "they come",
+        "they get here",
+        "they show up"
       ],
-      "usageExamples": [
-        [
-          "A Jim piace suonare la batteria.",
-          "Jim likes to play the drum.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "il",
+      "content": "rapidamente",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "quickly",
+        "rapidly",
+        "swiftly",
+        "promptly"
       ],
+<<<<<<< HEAD:out/eng/ita/579.json
       "usageExamples": [
         [
           "Non tollererò il fallimento.",
@@ -146,6 +135,9 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+=======
+      "usageExamples": []
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/500.json
     }
   ]
 }

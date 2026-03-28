@@ -1,16 +1,17 @@
 {
-  "sentence": "Riuscite a distinguere Jane dalla sua sorella gemella?",
+  "sentence": "Restiamo con Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Can you tell Jane from her twin sister?"
+    "Let's stay with Tom."
   ],
   "parts": [
     {
-      "content": "riuscite",
+      "content": "Restiamo",
       "translations": [
+<<<<<<< HEAD:out/eng/ita/892.json
         "you succeed",
         "you manage",
         "you are able",
@@ -56,18 +57,26 @@
         "to differentiate",
         "to discern",
         "to identify"
+=======
+        "Let's stay",
+        "We stay",
+        "We remain",
+        "Let's remain"
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/813.json
       ],
       "usageExamples": []
     },
     {
-      "content": "Jane",
+      "content": "con",
       "translations": [
-        "Jane Doe",
-        "Ms. Jane",
-        "Lady Jane"
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/892.json
           "A Jane piaceva far credere che lei fosse un insegnante.",
           "Jane liked to make believe she was a teacher.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -75,20 +84,33 @@
         [
           "A Jane piaceva far credere che fosse un insegnante.",
           "Jane liked to make believe she was a teacher.",
+=======
+          "Era sposato con lei.",
+          "He used to be married to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/813.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dalla",
+      "content": "Tom",
       "translations": [
-        "from the",
-        "by the",
-        "of the",
-        "at the"
+        "Thomas",
+        "Tommy"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/892.json
           "È uscito dalla cucina.",
           "He got out of the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -133,24 +155,23 @@
         [
           "È intelligente quanto sua sorella.",
           "He's as smart as his sister.",
+=======
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Loro sono fratello e sorella.",
-          "They're brother and sister.",
+          "Tom era creativo.",
+          "Tom was creative.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/813.json
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "gemella",
-      "translations": [
-        "twin",
-        "pair",
-        "double",
-        "gemini"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,43 +1,24 @@
 {
-  "sentence": "Posso riavere il mio coltello?",
+  "sentence": "Perché vi state fermando adesso?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by mactrey (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Can I have my knife back?"
+    "Why are you stopping now?"
   ],
   "parts": [
     {
-      "content": "Posso",
+      "content": "Perché",
       "translations": [
-        "I can.",
-        "I am able to",
-        "I may",
-        "I might"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "riavere",
-      "translations": [
-        "to see again",
-        "to regain",
-        "to have back",
-        "to recover"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "Why",
+        "For what reason",
+        "What for",
+        "Why is that"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/835.json
           "Io insegno il berbero.",
           "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -50,20 +31,35 @@
         [
           "Lasci andare il ragazzo.",
           "Let the boy go.",
+=======
+          "Perché qualcuno vorrebbe baciarvi?",
+          "Why would anyone want to kiss you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché siete andati lì?",
+          "Why did you go there?",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/756.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "vi",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "way",
+        "road",
+        "path",
+        "route"
       ],
       "usageExamples": [
         [
+<<<<<<< HEAD:out/eng/ita/835.json
           "È mio nemico.",
           "He's my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
@@ -76,22 +72,82 @@
         [
           "Il mio problema è che sono troppo occupata.",
           "My problem is I'm too busy.",
+=======
+          "Nessuno vi sostituirà.",
+          "Nobody will ever replace you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che Tom vi ha ferite.",
+          "I know that Tom hurt you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non voleva che vi dicessi questo, però ha appena perso il suo lavoro.",
+          "Tom didn't want me to tell you this, but he just lost his job.",
+>>>>>>> bf3b66c2ec7d24907fd4cbbb587fa168b38b38f8:eng/ita/756.json
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "coltello",
+      "content": "state",
       "translations": [
-        "knife",
-        "blade",
-        "cutter",
-        "scalpel"
+        "condition",
+        "situation",
+        "status",
+        "government"
       ],
       "usageExamples": [
         [
-          "Perché ti serve un coltello?",
-          "Why do you need a knife?",
+          "A Berlino ci siete già state.",
+          "You've already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Grazie per essere state con lui.",
+          "Thanks for staying with him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché vi state comportando in modo così strano?",
+          "Why are you acting so strange?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fermandosi",
+      "translations": [
+        "stopping",
+        "coming to a halt",
+        "pausing",
+        "halting"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "adesso",
+      "translations": [
+        "now",
+        "right now",
+        "at this moment",
+        "currently"
+      ],
+      "usageExamples": [
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sto cucinando adesso.",
+          "I am cooking now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

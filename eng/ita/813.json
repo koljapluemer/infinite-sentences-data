@@ -1,72 +1,156 @@
 {
-  "sentence": "Restiamo con Tom.",
+  "sentence": "Riuscite a distinguere Jane dalla sua sorella gemella?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's stay with Tom."
+    "Can you tell Jane from her twin sister?"
   ],
   "parts": [
     {
-      "content": "Restiamo",
+      "content": "riuscite",
       "translations": [
-        "Let's stay",
-        "We stay",
-        "We remain",
-        "Let's remain"
+        "you succeed",
+        "you manage",
+        "you are able",
+        "you get it done"
+      ],
+      "usageExamples": [
+        [
+          "Riuscite a leggermi nel pensiero?",
+          "Can you read my mind?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "distinguere",
+      "translations": [
+        "to distinguish",
+        "to differentiate",
+        "to discern",
+        "to identify"
       ],
       "usageExamples": []
     },
     {
-      "content": "con",
+      "content": "Jane",
       "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "Jane Doe",
+        "Ms. Jane",
+        "Lady Jane"
       ],
       "usageExamples": [
         [
-          "Siate pazienti con noi.",
-          "Be patient with us.",
+          "A Jane piaceva far credere che fosse un insegnante.",
+          "Jane liked to make believe she was a teacher.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era sposato con lei.",
-          "He used to be married to her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
+          "A Jane piaceva far credere che lei fosse un insegnante.",
+          "Jane liked to make believe she was a teacher.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "dalla",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "from the",
+        "by the",
+        "of the",
+        "at the"
       ],
       "usageExamples": [
         [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sembrava esitante.",
-          "Tom looked hesitant.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
+          "È uscito dalla cucina.",
+          "He got out of the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "sua",
+      "translations": [
+        "your",
+        "yours",
+        "his",
+        "her"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is your house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il suo sommario molto approssimativo non rende giustizia al testo originale e alla sua raffinatezza intellettuale.",
+          "His very rough summary does not do justice to the original text and its intellectual sophistication.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca la sua scarpa destra.",
+          "Mary is missing her right shoe.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sorella",
+      "translations": [
+        "sister",
+        "female sibling",
+        "sororal figure",
+        "sisterly relation"
+      ],
+      "usageExamples": [
+        [
+          "È intelligente quanto sua sorella.",
+          "He's as smart as his sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Loro sono fratello e sorella.",
+          "They're brother and sister.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gemella",
+      "translations": [
+        "twin",
+        "pair",
+        "double",
+        "gemini"
+      ],
+      "usageExamples": []
     }
   ]
 }

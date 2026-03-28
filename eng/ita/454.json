@@ -1,39 +1,130 @@
 {
-  "sentence": "Klava invidiava Lyusya.",
+  "sentence": "L'autobus non arriva sempre in orario.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Klava envied Lyusya."
+    "The bus doesn't always come on time."
   ],
   "parts": [
     {
-      "content": "Klava",
+      "content": "L'autobus",
       "translations": [
-        "Keyboard",
-        "Piano keyboard",
-        "Musical keyboard"
+        "The bus",
+        "A bus",
+        "The coach"
       ],
       "usageExamples": []
     },
     {
-      "content": "invidiava",
+      "content": "non",
       "translations": [
-        "I was envious",
-        "I envied",
-        "I felt jealousy"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "Lyusya",
+      "content": "arriva",
       "translations": [
-        "Lusia",
-        "Lusya",
-        "Lusya (diminutive of Lyudmila)"
+        "arrives",
+        "comes",
+        "gets here",
+        "shows up"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sempre",
+      "translations": [
+        "always",
+        "forever",
+        "at all times",
+        "constantly"
+      ],
+      "usageExamples": [
+        [
+          "È sempre in orario, vero?",
+          "He's always on time, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sospettai sempre che Tom e Mary fossero un po' paranoici.",
+          "I always suspected that Tom and Mary were a little paranoid.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dice sempre la stessa cosa.",
+          "She always says the same thing.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "orario",
+      "translations": [
+        "schedule",
+        "timetable",
+        "itinerary",
+        "agenda"
+      ],
+      "usageExamples": [
+        [
+          "È sempre in orario, vero?",
+          "She's always on time, isn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

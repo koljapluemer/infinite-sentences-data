@@ -1,11 +1,11 @@
 {
-  "sentence": "Lei chiuse gli occhi.",
+  "sentence": "Lei ha un aspetto migliore.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She closed her eyes."
+    "You're looking better."
   ],
   "parts": [
     {
@@ -18,70 +18,100 @@
       ],
       "usageExamples": [
         [
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Lei ha già cominciato.",
           "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei ha già finito?",
-          "Are you finished yet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Lei è americano?",
+          "Are you American?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "chiuse",
+      "content": "ha",
       "translations": [
-        "closed",
-        "shut",
-        "locked",
-        "sealed"
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aspetto",
+      "translations": [
+        "appearance",
+        "aspect",
+        "look",
+        "feature"
       ],
       "usageExamples": []
     },
     {
-      "content": "gli",
+      "content": "migliore",
       "translations": [
-        "the",
-        "them",
-        "those"
+        "better",
+        "best",
+        "improved",
+        "superior"
       ],
       "usageExamples": [
         [
-          "A John piacciono gli scacchi.",
-          "John likes chess.",
+          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
+          "Only my best friend would understand my love for minions.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Bob piace osservare gli insetti.",
-          "Bob enjoys insect watching.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary piacciono gli sport, vero?",
-          "Mary likes sports, doesn't she?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "occhi",
-      "translations": [
-        "eyes",
-        "sight",
-        "vision",
-        "gaze"
-      ],
-      "usageExamples": [
-        [
-          "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
-          "My eyes were full of tears and I could barely see him.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "La cosa migliore del Giappone sono i suoi videogiochi.",
+          "The best thing about Japan is its video games.",
+          "Sentence from Tatoeba by Valdast (CC-BY 2.0 FR)"
         ]
       ]
     }

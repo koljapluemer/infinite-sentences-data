@@ -1,11 +1,11 @@
 {
-  "sentence": "Lei ha frenato.",
+  "sentence": "Lei parla solamente in finlandese in classe.",
   "credits": [
-    "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Gulliver (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She braked."
+    "She only speaks Finnish in class."
   ],
   "parts": [
     {
@@ -23,49 +23,100 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei ha già finito?",
-          "Are you done yet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ],
-        [
-          "Lei chiuse gli occhi.",
-          "She closed her eyes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ha",
-      "translations": [
-        "has",
-        "he has",
-        "there is"
-      ],
-      "usageExamples": [
         [
           "Lei ha già cominciato.",
           "She has already begun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "parla",
+      "translations": [
+        "speak",
+        "talk",
+        "discuss",
+        "converse"
+      ],
+      "usageExamples": [
         [
-          "Un cane ha corso.",
-          "A dog ran.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "A Malta si parla il maltese.",
+          "In Malta they speak Maltese.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "frenato",
+      "content": "solamente",
       "translations": [
-        "braked",
-        "stopped",
-        "slowed down",
-        "halted"
+        "only",
+        "just",
+        "merely",
+        "simply"
+      ],
+      "usageExamples": [
+        [
+          "Mi importa solamente di lui.",
+          "I only care about him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È solamente una di quelle fastidiose parole alla moda.",
+          "It's just one of those annoying buzzwords.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importava solamente di se stessa.",
+          "Mary only cared about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "finlandese",
+      "translations": [
+        "Finnish",
+        "from Finland",
+        "Finlander"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "classe",
+      "translations": [
+        "class",
+        "grade",
+        "category",
+        "group"
       ],
       "usageExamples": []
     }

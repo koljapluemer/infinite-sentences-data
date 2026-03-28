@@ -1,56 +1,129 @@
 {
-  "sentence": "Vedemmo un lupo.",
+  "sentence": "Vladimir è forte come una mucca.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Agestur (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We saw a wolf."
+    "Vladimir is strong as a cow."
   ],
   "parts": [
     {
-      "content": "Vedemmo",
+      "content": "Vladimir",
       "translations": [
-        "We saw",
-        "We have seen",
-        "We looked at",
-        "We observed"
+        "Vladimir (name)",
+        "Vladimir (given name)",
+        "Vladimir (personal name)"
       ],
       "usageExamples": []
     },
     {
-      "content": "un",
+      "content": "è",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "Lui sembra un delinquente.",
-          "He looks like a gangster.",
+          "Forse è lui.",
+          "Maybe it's him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei un testimone.",
-          "You are a witness.",
+          "La risposta è complicata.",
+          "The answer is complicated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Noi abbiamo un ristorante.",
-          "We have a restaurant.",
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lupo",
+      "content": "forte",
       "translations": [
-        "wolf",
-        "werewolf",
-        "lone wolf"
+        "strong",
+        "powerful",
+        "forceful",
+        "intense"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Non mi sento abbastanza forte per dirglielo.",
+          "I don’t feel strong enough to tell him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "come",
+      "translations": [
+        "how",
+        "like",
+        "as",
+        "when"
+      ],
+      "usageExamples": [
+        [
+          "Sa come raggiungerla?",
+          "Do you know how to reach her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io insegnai a Tom come sopravvivere.",
+          "I taught Tom how to survive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non è alto come te.",
+          "Tom isn't tall like you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "È una maledizione.",
+          "It is a curse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vorrei una camera.",
+          "I would like a room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scriva una risposta.",
+          "Write an answer.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mucca",
+      "translations": [
+        "cow",
+        "female bovine"
+      ],
+      "usageExamples": [
+        [
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

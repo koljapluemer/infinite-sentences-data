@@ -1,11 +1,11 @@
 {
-  "sentence": "Io non infransi la legge.",
+  "sentence": "Io non so chi dovrebbe guidarmi.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by papabear (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I didn't break the law."
+    "I don't know who should guide me."
   ],
   "parts": [
     {
@@ -22,13 +22,13 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono una patata.",
-          "I am a potato.",
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io l'ho sentito.",
-          "I heard it.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -39,78 +39,112 @@
         "not",
         "no",
         "none",
-        "never",
-        "don't"
+        "never"
       ],
       "usageExamples": [
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Perché non ha corso?",
           "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Però non funzionerà!",
-          "But that won't work!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "infransi",
+      "content": "so",
       "translations": [
-        "to infringe",
-        "to violate",
-        "to breach",
-        "to contravene"
+        "thus",
+        "therefore",
+        "in that way"
+      ],
+      "usageExamples": [
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se lui verrà in treno o in auto.",
+          "I don't know whether he'll come by train or by car.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so cosa farò con Tom.",
+          "I don't know what I'm going to do with Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "chi",
+      "translations": [
+        "who",
+        "whom",
+        "which",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Con chi ci andrà?",
+          "Who are you going with?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sappiamo nemmeno con chi si è sposato Tom.",
+          "We don't even know who Tom got married to.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dovrebbe",
+      "translations": [
+        "should",
+        "ought to",
+        "must",
+        "is supposed to"
+      ],
+      "usageExamples": [
+        [
+          "Forse lo dovrebbe chiedere a lei.",
+          "Maybe you should ask her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché a Tom dovrebbe importare?",
+          "Why should Tom care?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo dovrebbe chiedere a loro.",
+          "You should ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "guidarmi",
+      "translations": [
+        "to guide me",
+        "to lead me",
+        "to direct me",
+        "to steer me"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "legge",
-      "translations": [
-        "law",
-        "rule",
-        "statute",
-        "legislation"
-      ],
-      "usageExamples": [
-        [
-          "La nuova legge è stata una riforma importante.",
-          "The new law was a major reform.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

@@ -1,48 +1,58 @@
 {
-  "sentence": "Ich bin verwirrt.",
+  "sentence": "Dein Auto ist schnell.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Benim kafam karıştı."
+    "Senin araban hızlıdır."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Auto",
       "translations": [
-        "Ben"
+        "araba",
+        "araban",
+        "araç"
       ],
       "usageExamples": [
         [
-          "Ich kenne deinen Vater.",
-          "Ben senin babanı tanıyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich war zu Hause.",
-          "Evdeydim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich hasse meine Nachbarn.",
-          "Komşularımdan nefret ediyorum.",
+          "Das Auto der Studentin ist alt.",
+          "Öğrencinin arabası eskidir.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "verwirrt",
+      "content": "ist",
       "translations": [
-        "karıştı"
+        "dır",
+        "olmak"
       ],
       "usageExamples": [
         [
-          "Ich war einmal so verwirrt.",
-          "Bir zamanlar kafam çok karışıktı.",
+          "Wo ist deine Mama?",
+          "Annen nerede?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Das ist kostenlos erhältlich.",
+          "Bu ücretsiz ulaşılabilir.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wie ist das Wetter?",
+          "Hava nasıl?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "schnell",
+      "translations": [
+        "hızlıdır"
+      ],
+      "usageExamples": []
     }
   ]
 }

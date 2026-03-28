@@ -1,95 +1,109 @@
 {
-  "sentence": "Yanni comprò del cibo.",
+  "sentence": "Ziri non rapinò una banca.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Yanni bought food.",
-    "Yanni bought some food."
+    "Ziri didn't rob a bank."
   ],
   "parts": [
     {
-      "content": "Yanni",
+      "content": "Ziri",
       "translations": [
-        "Yanni (a name)",
-        "Yanni (musician)",
-        "Yanni (Greek composer)"
+        "Ziri (a name)",
+        "Ziri (a term)",
+        "Ziri (a concept)"
       ],
       "usageExamples": [
+        [
+          "Ziri mangiò dei datteri.",
+          "Ziri ate dates.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri e Rima erano nudi.",
+          "Ziri and Rima were naked.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri non utilizza mai quella parola.",
+          "Ziri never uses that word.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Yanni non comprende l'Islam.",
           "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo non ha sorpreso Yanni.",
-          "This didn't surprise Yanni.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "comprò",
+      "content": "rapinò",
       "translations": [
-        "he bought",
-        "she bought",
-        "it was bought",
-        "they bought"
+        "he/she robbed",
+        "he/she mugged",
+        "he/she held up",
+        "he/she stole from"
       ],
       "usageExamples": []
     },
     {
-      "content": "del",
+      "content": "una",
       "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
-          "Sta mangiando del gelato.",
-          "She's eating ice cream.",
+          "Vorrei una camera.",
+          "I would like a room.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho bevuto del caffè questa mattina.",
-          "I drank coffee this morning.",
+          "Datele una mano, OK?",
+          "Give her a hand, will you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom ha comprato del cibo a Mary.",
-          "Tom bought some food for Mary.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cibo",
+      "content": "banca",
       "translations": [
-        "food",
-        "meal",
-        "nourishment",
-        "provisions"
+        "bank",
+        "bench",
+        "table",
+        "counter"
       ],
-      "usageExamples": [
-        [
-          "Ha lasciato un po' di cibo nel suo piatto.",
-          "She left some food on her plate.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Odio il cibo degli ospedali.",
-          "I hate hospital food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Che tipo di cibo non le piace?",
-          "What kind of food don't you like?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

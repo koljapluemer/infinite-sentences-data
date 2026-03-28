@@ -1,102 +1,71 @@
 {
-  "sentence": "Questo è un test?",
+  "sentence": "Rispondete al dannato telefono!",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Is this a test?"
+    "Answer the damn phone!"
   ],
   "parts": [
     {
-      "content": "Questo",
+      "content": "Rispondete",
       "translations": [
-        "This",
-        "This one",
-        "This thing",
-        "This item"
+        "Respond.",
+        "Answer",
+        "Reply"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the",
+        "for the"
       ],
       "usageExamples": [
         [
-          "Questo è un occhio.",
-          "This is an eye.",
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo portatile è molto sottile.",
-          "This laptop computer is very thin.",
+          "Andammo al supermercato asiatico.",
+          "We went to the Asian supermarket.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "dannato",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "damned",
+        "cursed",
+        "accursed",
+        "doomed"
       ],
-      "usageExamples": [
-        [
-          "Questo cane è brutto.",
-          "This dog is ugly.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è addolcito.",
-          "Tom relented.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è americano?",
-          "Are you American?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "un",
+      "content": "telefono",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "telephone",
+        "phone",
+        "cell phone",
+        "mobile phone"
       ],
       "usageExamples": [
         [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
+          "Avete annotato il numero di telefono?",
+          "Did you write down the telephone number?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ho letto un fumetto.",
-          "I read a comic book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti compro un regalo.",
-          "I buy you a present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "test",
-      "translations": [
-        "exam",
-        "assessment",
-        "evaluation"
-      ],
-      "usageExamples": [
-        [
-          "È ancora in fase di test.",
-          "It's still being tested.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
         ]
       ]
     }

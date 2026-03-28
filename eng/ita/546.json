@@ -1,11 +1,11 @@
 {
-  "sentence": "Lui accese la radio.",
+  "sentence": "Lui non conosce la verità.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He turned on the radio."
+    "He doesn't know the truth."
   ],
   "parts": [
     {
@@ -18,29 +18,55 @@
       ],
       "usageExamples": [
         [
-          "Lui studiò economia all'università.",
-          "He studied economics at college.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Lui sembra un delinquente.",
           "He looks like a gangster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui non riesce ad adattarsi alla sua situazione.",
-          "He can't accommodate himself to his circumstances.",
+          "Lui studiò economia all'università.",
+          "He studied economics at college.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lui accese la radio.",
+          "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "accese",
+      "content": "non",
       "translations": [
-        "ignite",
-        "light up",
-        "turn on",
-        "activate"
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "conosce",
+      "translations": [
+        "knows",
+        "is familiar with",
+        "recognizes",
+        "understands"
       ],
       "usageExamples": []
     },
@@ -54,30 +80,37 @@
       ],
       "usageExamples": [
         [
-          "Hai guardato la partita?",
-          "Did you watch the game?",
+          "Dovette pulire la cucina.",
+          "He had to clean the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dov'è la sua casa?",
-          "Where's his home?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ],
         [
           "Sento la primavera nell'aria.",
           "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "radio",
+      "content": "verità",
       "translations": [
-        "wireless receiver",
-        "broadcast device",
-        "audio receiver"
+        "truth",
+        "veracity",
+        "fact",
+        "reality"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ora lui mi dice la verità.",
+          "Now he tells me the truth.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

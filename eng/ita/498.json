@@ -1,56 +1,64 @@
 {
-  "sentence": "Lasciate finire Tom.",
+  "sentence": "Le fece sorridere.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let Tom finish."
+    "That made them smile."
   ],
   "parts": [
     {
-      "content": "Lasciate",
+      "content": "Le",
       "translations": [
-        "Leave",
-        "Let go",
-        "Abandon",
-        "Allow"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "finire",
-      "translations": [
-        "to finish",
-        "to end",
-        "to complete",
-        "to conclude"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
+        "The",
+        "It",
+        "Them",
+        "Those"
       ],
       "usageExamples": [
         [
-          "Tom era creativo.",
-          "Tom was creative.",
+          "Le amiamo.",
+          "We love them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
+          "Le è piaciuta la pizza?",
+          "Did you enjoy the pizza?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Le due famiglie hanno legami familiari stretti.",
+          "The two families have very close ties.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fece",
+      "translations": [
+        "made",
+        "did",
+        "created",
+        "performed"
+      ],
+      "usageExamples": [
+        [
+          "Disse che non fece niente di illegale.",
+          "He said he did nothing illegal.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "sorridere",
+      "translations": [
+        "to smile",
+        "smiling",
+        "to grin",
+        "to beam"
+      ],
+      "usageExamples": []
     }
   ]
 }

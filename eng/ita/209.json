@@ -1,30 +1,45 @@
 {
-  "sentence": "Chi era qua?",
+  "sentence": "Chiese se era invitata.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Who was here?"
+    "She asked if she was invited."
   ],
   "parts": [
     {
-      "content": "Chi",
+      "content": "Chiese",
       "translations": [
-        "Who",
-        "Whom",
-        "Who is it",
-        "Who is that"
+        "Churches",
+        "Places of worship",
+        "Chapels",
+        "Religious buildings"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "se",
+      "translations": [
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
       "usageExamples": [
         [
-          "Chi potrebbe incolparci?",
-          "Who could blame us?",
+          "A Mary importava soltanto di se stessa.",
+          "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Chi lavora in quell'ufficio?",
-          "Who works in that office?",
+          "Tom chiese a Mary se lei si fidava di John.",
+          "Tom asked Mary if she trusted John.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importava solamente di se stessa.",
+          "Mary only cared about herself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -44,42 +59,26 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
+          "Chi era qua?",
+          "Who was here?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary era circondata dalle sue amiche.",
-          "Mary was surrounded by her friends.",
+          "Tom disse che non era ricco.",
+          "Tom said that he wasn't rich.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "qua",
+      "content": "invitata",
       "translations": [
-        "where",
-        "in which",
-        "at which",
-        "by which"
+        "invited",
+        "invitation",
+        "guest",
+        "invited person"
       ],
-      "usageExamples": [
-        [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Devo aspettarli qua.",
-          "I have to wait here for them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Preferirei restare qua a Boston.",
-          "I'd rather stay here in Boston.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

@@ -1,79 +1,92 @@
 {
-  "sentence": "Bevo solo caffè decaffeinato.",
+  "sentence": "Che altro stai considerando?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I only drink decaffeinated coffee."
+    "What else are you considering?"
   ],
   "parts": [
     {
-      "content": "Bevo",
+      "content": "Che",
       "translations": [
-        "I am drinking",
-        "I consume"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "solo",
-      "translations": [
-        "alone",
-        "only",
-        "just",
-        "single"
+        "What",
+        "Which",
+        "That",
+        "Who"
       ],
       "usageExamples": [
         [
-          "Io sono solo curiosa.",
-          "I'm just curious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom venne qui da solo.",
-          "Tom came here alone.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sospetto che Tom non faccia i compiti da solo.",
-          "I suspect that Tom doesn't do his homework by himself.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "caffè",
-      "translations": [
-        "coffee",
-        "café",
-        "espresso",
-        "java"
-      ],
-      "usageExamples": [
-        [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
-          "Come to Albania, where we always make good coffee.",
+          "Che fallito!",
+          "What a loser!",
           "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
         ],
         [
-          "Che ne dite di un po' di caffè?",
-          "How about some coffee?",
+          "Che cosa direste?",
+          "What would you say?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che canzone strana...",
+          "What a weird song...",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "decaffeinato",
+      "content": "altro",
       "translations": [
-        "decaffeinated",
-        "caffeine-free",
-        "decaf"
+        "other",
+        "another",
+        "else",
+        "additional"
+      ],
+      "usageExamples": [
+        [
+          "Che altro vorresti?",
+          "What more would you want?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, dammi un altro po' di tè.",
+          "Please give me a little more tea.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che altro volete che compri?",
+          "What else do you want me to buy?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stai",
+      "translations": [
+        "you stay",
+        "you are staying",
+        "you remain"
+      ],
+      "usageExamples": [
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché te ne stai andando?",
+          "Why are you leaving?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "considerando",
+      "translations": [
+        "considering",
+        "taking into account",
+        "in light of",
+        "regarding"
       ],
       "usageExamples": []
     }

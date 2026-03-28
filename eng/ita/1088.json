@@ -1,11 +1,12 @@
 {
-  "sentence": "È piuttosto comodo.",
+  "sentence": "È sempre in orario, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's quite comfortable."
+    "He's always on time, isn't he?",
+    "She's always on time, isn't she?"
   ],
   "parts": [
     {
@@ -18,57 +19,114 @@
       ],
       "usageExamples": [
         [
-          "È andata bene oggi?",
-          "Did it go well today?",
+          "È piuttosto comodo.",
+          "It's quite comfortable.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È un ghostwriter.",
-          "He's a ghostwriter.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "È organizzando, vero?",
-          "She's organized, isn't she?",
+          "È stato una delusione.",
+          "It was a disappointment.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "piuttosto",
-      "translations": [
-        "rather",
-        "quite",
-        "fairly",
-        "instead"
-      ],
-      "usageExamples": [
+        ],
         [
           "È piuttosto avventurosa, vero?",
           "She's pretty adventurous, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "sempre",
+      "translations": [
+        "always",
+        "forever",
+        "at all times",
+        "constantly"
+      ],
+      "usageExamples": [
         [
-          "Siete piuttosto timidi, vero?",
-          "You're quite shy, aren't you?",
+          "Ci sarò sempre per aiutarti.",
+          "I will always be there to help you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Abita in una villa piuttosto grande.",
-          "She lives in quite a big mansion.",
+          "Io sono sempre stato un repubblicano.",
+          "I've always been a Republican.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sospettai sempre che Tom e Mary fossero un po' paranoici.",
+          "I always suspected that Tom and Mary were a little paranoid.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "comodo",
+      "content": "in",
       "translations": [
-        "comfortable",
-        "convenient",
-        "easy",
-        "handy"
+        "inside",
+        "within",
+        "into"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Noi siamo in Finlandia.",
+          "We are in Finland.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "orario",
+      "translations": [
+        "schedule",
+        "timetable",
+        "itinerary",
+        "agenda"
+      ],
+      "usageExamples": [
+        [
+          "L'autobus non arriva sempre in orario.",
+          "The bus doesn't always come on time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinse, vero?",
+          "He didn't win, did he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

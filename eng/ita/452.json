@@ -1,28 +1,20 @@
 {
-  "sentence": "Jack ha un gatto e un pappagallo a casa.",
+  "sentence": "L'astronauta ha trovato un organismo intelligente.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Jack keeps a cat and a parrot at home."
+    "The astronaut found an intelligent organism."
   ],
   "parts": [
     {
-      "content": "Jack",
+      "content": "L'astronauta",
       "translations": [
-        "jack",
-        "car jack",
-        "lifting device",
-        "mechanical jack"
+        "The astronaut",
+        "An astronaut",
+        "Astronaut"
       ],
-      "usageExamples": [
-        [
-          "A Jack interessa la pittura.",
-          "Jack is interested in painting.",
-          "Sentence from Tatoeba by matsuteo (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "ha",
@@ -38,13 +30,29 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei ha frenato.",
-          "She braked.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non ha corso?",
-          "Why didn't you run?",
+          "Lei ha già finito?",
+          "Have you already finished?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trovato",
+      "translations": [
+        "found",
+        "discovered",
+        "located",
+        "identified"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha trovato una pistola nella borsa di Mary.",
+          "Tom found a gun in Mary's purse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -58,125 +66,44 @@
       ],
       "usageExamples": [
         [
-          "Beviamo un'altra birra.",
-          "Let's have another beer.",
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È un portiere.",
-          "He's a goal keeper.",
+          "Ti compro un regalo.",
+          "I buy you a present.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo è un test?",
-          "Is this a test?",
+          "Ho letto un fumetto.",
+          "I read a comic book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gatto",
+      "content": "organismo",
       "translations": [
-        "cat",
-        "kitten"
+        "organism",
+        "body",
+        "entity",
+        "organization"
       ],
-      "usageExamples": [
-        [
-          "Il gatto mangia.",
-          "The cat eats.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "e",
+      "content": "intelligente",
       "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
+        "intelligent",
+        "smart",
+        "clever",
+        "bright"
       ],
       "usageExamples": [
         [
-          "A Mary mancano suo marito e i suoi figli.",
-          "Mary misses her husband and children.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Loro sono fratello e sorella.",
-          "They're brother and sister.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tirate fuori i vostri quaderni e le vostre penne.",
-          "Get out your notebooks and pens.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "pappagallo",
-      "translations": [
-        "parrot",
-        "macaw",
-        "bird",
-        "avian pet"
-      ],
-      "usageExamples": [
-        [
-          "Sami si prese cura del pappagallo di Layla.",
-          "Sami took care of Layla's parrot.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
-      ],
-      "usageExamples": [
-        [
-          "Non riusciva a vederla.",
-          "He couldn't see her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Volate fino a Londra.",
-          "Fly to London.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "casa",
-      "translations": [
-        "house",
-        "home",
-        "dwelling",
-        "residence"
-      ],
-      "usageExamples": [
-        [
-          "Dov'è la sua casa?",
-          "Where is his house?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "La casa è stata venduta per un milione di dollari.",
-          "The house was sold for one million dollars.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo devo fare prima di potere andare a casa oggi.",
-          "I have to do that before I can go home today.",
+          "È intelligente quanto sua sorella.",
+          "He's as smart as his sister.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

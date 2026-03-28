@@ -1,62 +1,66 @@
 {
-  "sentence": "Dieses Lied erinnert mich an jemanden.",
+  "sentence": "Das ist kostenlos erhältlich.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Bu şarkı bana birini hatırlatıyor."
+    "Bu ücretsiz ulaşılabilir."
   ],
   "parts": [
     {
-      "content": "Dieses",
+      "content": "Das",
       "translations": [
         "Bu",
+        "Bunu",
         "Bunun"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Lied",
-      "translations": [
-        "şarkı"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "erinnert",
-      "translations": [
-        "hatırlatıyor"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "mich",
-      "translations": [
-        "beni"
       ],
       "usageExamples": [
         [
-          "Ich wollte mich erinnern.",
-          "Ben hatırlamak istiyordum.",
+          "Das fängt ja gut an!",
+          "İyi bir başlangıç oldu!",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich ärgere mich über Verspätungen.",
-          "Gecikmelere sinir oluyorum.",
+          "Das Auto der Studentin ist alt.",
+          "Öğrencinin arabası eskidir.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich interessiere mich sehr für Fußball.",
-          "Futbola çok ilgim var.",
+          "Das entspricht dem gesunden Menschenverstand.",
+          "Bu sağduyu.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "jemanden",
+      "content": "ist",
       "translations": [
-        "birini"
+        "dır",
+        "olmak"
+      ],
+      "usageExamples": [
+        [
+          "Wer ist das denn?",
+          "Bu da kim?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wie ist das Wetter?",
+          "Hava nasıl?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dein Auto ist schnell.",
+          "Senin araban hızlıdır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "kostenlos",
+      "translations": [
+        "ücretsiz"
       ],
       "usageExamples": []
     }

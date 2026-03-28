@@ -1,24 +1,61 @@
 {
-  "sentence": "Sami sa dove abita Layla.",
+  "sentence": "Scendi da quella scala.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sami knows where Layla lives."
+    "Get down from that ladder."
   ],
   "parts": [
     {
-      "content": "Sami",
+      "content": "Scendi",
       "translations": [
-        "Sámi",
-        "Saami",
-        "Sami people"
+        "Get down",
+        "Descend",
+        "Come down.",
+        "Lower yourself"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "da",
+      "translations": [
+        "from",
+        "since",
+        "by",
+        "of"
       ],
       "usageExamples": [
         [
-          "Sami consegnò della pizza.",
-          "Sami delivered pizza.",
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non posso farla da sola.",
+          "I can't do it by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "quella",
+      "translations": [
+        "that",
+        "the one",
+        "that one",
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Taxi, segui quella macchina.",
+          "Taxi, follow that car.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -27,104 +64,21 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sami lavorava al ristorante.",
-          "Sami used to work at the restaurant.",
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sa",
+      "content": "scala",
       "translations": [
-        "if",
-        "whether",
-        "that",
-        "as"
+        "ladder",
+        "scale",
+        "staircase",
+        "stair"
       ],
-      "usageExamples": [
-        [
-          "Tom non sa nulla a riguardo della situazione.",
-          "Tom doesn't know anything about the situation.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sa come si sente Mary a riguardo.",
-          "Tom knows how Mary feels about that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non sa che sono giapponese.",
-          "He doesn't know that I'm Japanese.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dove",
-      "translations": [
-        "where",
-        "wherever",
-        "whither",
-        "to what place"
-      ],
-      "usageExamples": [
-        [
-          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
-          "Come to Albania, where we always make good coffee.",
-          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
-        ],
-        [
-          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
-          "\"Where's your girlfriend from?\" \"She's Russian.\"",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Avete visitato la città dove è nato vostro padre?",
-          "Have you visited the town where your father was born?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "abita",
-      "translations": [
-        "lives",
-        "resides",
-        "dwells",
-        "inhabits"
-      ],
-      "usageExamples": [
-        [
-          "Lui abita al piano sopra al mio.",
-          "He lives on the floor above mine.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Layla",
-      "translations": [
-        "Night",
-        "Dark beauty",
-        "Nighttime"
-      ],
-      "usageExamples": [
-        [
-          "Layla dimenticò qualcosa.",
-          "Layla forgot something.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Layla piacque la festa.",
-          "Layla liked the party.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Layla piaceva giocare a Monopoly.",
-          "Layla liked to play Monopoly.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

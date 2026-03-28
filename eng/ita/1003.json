@@ -1,11 +1,11 @@
 {
-  "sentence": "Tu comprendi quel libro.",
+  "sentence": "Tu realizzi quanti casini hai causato?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You understand that book."
+    "Do you realize how much trouble you've caused?"
   ],
   "parts": [
     {
@@ -18,78 +18,92 @@
       ],
       "usageExamples": [
         [
-          "Tu sei sposata?",
-          "Are you married?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
           "Tu hai ordinato qualcosa?",
           "Did you order something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tu lasceresti tua moglie per me?",
-          "Would you leave your wife for me?",
+          "Tu comprendi quel libro.",
+          "You understand that book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu sei sposata?",
+          "Are you married?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "comprendi",
+      "content": "realizzi",
       "translations": [
-        "I understood.",
-        "I comprehend",
-        "I get it",
-        "I realize"
+        "you realize",
+        "you achieve",
+        "you accomplish",
+        "you make happen"
       ],
       "usageExamples": []
     },
     {
-      "content": "quel",
+      "content": "quanti",
       "translations": [
-        "that",
-        "the one",
-        "which",
-        "those"
+        "how many",
+        "how much",
+        "what quantity"
       ],
       "usageExamples": [
         [
-          "A Marie non è piaciuto quel gioco.",
-          "Marie didn't like that game.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era facile risolvere quel problema.",
-          "It was easy to solve that problem.",
+          "Quanti giorni ci sono a ottobre?",
+          "How many days are in October?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "libro",
+      "content": "casini",
       "translations": [
-        "book",
-        "volume",
-        "tome",
-        "publication"
+        "mess",
+        "chaos",
+        "disorder",
+        "mayhem"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hai",
+      "translations": [
+        "you have",
+        "you've got",
+        "you possess",
+        "you own"
       ],
       "usageExamples": [
         [
-          "È un nuovo libro.",
-          "It's a new book.",
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il libro è arrivato.",
-          "The book came.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
-          "Era un libro nuovo.",
-          "It was a new book.",
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "causato",
+      "translations": [
+        "caused",
+        "resulted",
+        "brought about",
+        "led to"
+      ],
+      "usageExamples": []
     }
   ]
 }

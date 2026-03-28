@@ -1,82 +1,73 @@
 {
-  "sentence": "Scusami, sto cercando Tom.",
+  "sentence": "Sei un testimone.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by RudeGuyGames (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Excuse me, I'm looking for Tom."
+    "You are a witness."
   ],
   "parts": [
     {
-      "content": "Scusami",
+      "content": "Sei",
       "translations": [
-        "Excuse me.",
-        "Sorry.",
-        "Pardon me",
-        "My apologies"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "sto",
-      "translations": [
-        "I stand",
-        "I am standing",
-        "I stay",
-        "I am staying"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
       ],
       "usageExamples": [
         [
-          "Io sto diventando piccolo!",
-          "I am getting small!",
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "Sei motivato.",
+          "You're motivated.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi sto facendo ricrescere la barba.",
-          "I'm growing a beard again.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cercando",
+      "content": "un",
       "translations": [
-        "searching",
-        "looking for",
-        "seeking",
-        "hunting"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io appoggiavo Tom.",
-          "I used to support Tom.",
+          "È un nuovo libro.",
+          "It's a new book.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta gemendo.",
-          "Tom is groaning.",
+          "Questo è un test?",
+          "Is this a test?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "testimone",
+      "translations": [
+        "witness",
+        "testifier",
+        "evidence",
+        "attester"
+      ],
+      "usageExamples": []
     }
   ]
 }

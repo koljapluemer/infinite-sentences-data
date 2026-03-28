@@ -1,81 +1,150 @@
 {
-  "sentence": "Ooh! Mousse di cioccolata. Gnam.",
+  "sentence": "Pensavo che avesse già parlato con Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by halfb1t (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ooh! Chocolate mousse. Yummy."
+    "I thought you'd already talked to Tom."
   ],
   "parts": [
     {
-      "content": "Ooh",
+      "content": "Pensavo",
       "translations": [
-        "Oh.",
-        "Wow",
-        "Ah"
+        "I was thinking.",
+        "I thought",
+        "I used to think",
+        "I was considering"
       ],
       "usageExamples": []
     },
     {
-      "content": "Mousse",
+      "content": "che",
       "translations": [
-        "Foam dessert",
-        "Whipped dessert",
-        "Light and airy dessert"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Può fare di meglio.",
-          "You can do better.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cioccolata",
+      "content": "avesse",
       "translations": [
-        "chocolate",
-        "hot chocolate",
-        "cocoa"
+        "to have",
+        "to possess",
+        "to own",
+        "to hold"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "già",
+      "translations": [
+        "already",
+        "now",
+        "yet",
+        "at this point"
       ],
       "usageExamples": [
         [
-          "A Linda piace la cioccolata.",
-          "Linda loves chocolate.",
-          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+          "Lei ha già finito?",
+          "Have you already finished?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino ci sei già stata.",
+          "You've already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Gnam",
+      "content": "parlato",
       "translations": [
-        "Yum",
-        "Delicious.",
-        "Tasty",
-        "Yummy"
+        "spoken",
+        "talked",
+        "verbal",
+        "oral"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Lei ha parlato con Tom, vero?",
+          "You talked to Tom, didn't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
+      ],
+      "usageExamples": [
+        [
+          "Siate pazienti con noi.",
+          "Be patient with us.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono fidanzata con lei.",
+          "I'm engaged to her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

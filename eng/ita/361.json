@@ -1,11 +1,11 @@
 {
-  "sentence": "Il bambino mi sorrise.",
+  "sentence": "Il dottore gli ha dato un sedativo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The baby smiled at me."
+    "The doctor gave him a sedative."
   ],
   "parts": [
     {
@@ -16,14 +16,14 @@
       ],
       "usageExamples": [
         [
-          "Il gatto mangia.",
-          "The cat eats.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ],
-        [
           "Il cane scodinzolava.",
           "The dog wagged its tail.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il gatto mangia.",
+          "The cat eats.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ],
         [
           "Il cambiamento è spaventoso.",
@@ -33,64 +33,129 @@
       ]
     },
     {
-      "content": "bambino",
+      "content": "dottore",
       "translations": [
-        "child",
-        "baby",
-        "kid",
-        "infant"
+        "doctor",
+        "physician",
+        "medical doctor",
+        "healthcare professional"
       ],
       "usageExamples": [
         [
-          "'Aspetti qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da lei immediatamente.'",
-          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "A Jim piace il dottore.",
+          "Jim likes the doctor.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gli",
+      "translations": [
+        "the",
+        "them",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Lei chiuse gli occhi.",
+          "She closed her eyes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Bob piace osservare gli insetti.",
+          "Bob enjoys insect watching.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "'Aspetta qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da te immediatamente.'",
           "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "'Aspettate qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da voi immediatamente.'",
-          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mi",
+      "content": "ha",
       "translations": [
-        "me",
-        "myself",
-        "to me",
-        "for me"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
-          "My mother advises me against sitting at my computer all day long.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "OK, mi ricorderò di voi.",
-          "OK, I'll remind you.",
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non mi sento abbastanza forte per dirglielo.",
-          "I don’t feel strong enough to tell him.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno ha capito nulla.",
+          "No one understood anything.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sorrise",
+      "content": "dato",
       "translations": [
-        "smiled",
-        "grinned",
-        "beamed",
-        "laughed"
+        "given",
+        "data",
+        "fact",
+        "information"
+      ],
+      "usageExamples": [
+        [
+          "A Madre Teresa è stato dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha dato dell'idiota all'arbitro.",
+          "Tom called the referee an idiot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Madre Teresa fu dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Ho letto un fumetto.",
+          "I read a comic book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un portiere.",
+          "He's a goal keeper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sedativo",
+      "translations": [
+        "sedative",
+        "tranquilizer",
+        "calming agent",
+        "sleep aid"
       ],
       "usageExamples": []
     }

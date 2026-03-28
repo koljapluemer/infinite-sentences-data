@@ -1,72 +1,55 @@
 {
-  "sentence": "Che musica ascoltate?",
+  "sentence": "Chiamate un'ambulanza!",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by DiePain (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by jared1981 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What music do you listen to?"
+    "Call an ambulance!"
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "Chiamate",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "Calls",
+        "Phone calls",
+        "Incoming calls",
+        "Outgoing calls"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "Beviamo un'altra birra.",
+          "Let's drink another beer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che canzone strana...",
-          "What a weird song...",
+          "Sono un tipo solitario.",
+          "I'm a loner.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che fallito!",
-          "What a loser!",
-          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+          "È un ghostwriter.",
+          "He's a ghostwriter.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "musica",
+      "content": "ambulanza",
       "translations": [
-        "music",
-        "musical piece",
-        "tune",
-        "song"
-      ],
-      "usageExamples": [
-        [
-          "Il mio hobby è la musica.",
-          "My hobby is music.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Ken piace molto la musica.",
-          "Ken likes music very much.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ziri ha alzato il volume della musica.",
-          "Ziri increased the music volume.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ascoltate",
-      "translations": [
-        "listen",
-        "hear",
-        "pay attention",
-        "take heed"
+        "ambulance",
+        "emergency vehicle",
+        "medic transport",
+        "rescue vehicle"
       ],
       "usageExamples": []
     }

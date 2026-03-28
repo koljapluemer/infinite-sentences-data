@@ -1,98 +1,105 @@
 {
-  "sentence": "Dicono che pensano che non vinceranno.",
+  "sentence": "Dov'è la sua casa?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ver (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by FeuDRenais (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They say that they don't think that they'll win.",
-    "They say that they don't think they'll win.",
-    "They say they don't think that they'll win.",
-    "They say they don't think they'll win."
+    "Where is her house?",
+    "Where is his house?",
+    "Where is your house?",
+    "Where's his home?"
   ],
   "parts": [
     {
-      "content": "Dicono",
+      "content": "Dov'è",
       "translations": [
-        "They say",
-        "They tell",
-        "It is said",
-        "People say"
+        "Where is it?",
+        "Where's that?",
+        "Where is he/she/it?",
+        "Where can I find it?"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "la",
       "translations": [
+        "the",
         "that",
         "which",
-        "who",
-        "what"
+        "those"
       ],
       "usageExamples": [
         [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
+          "Lui accese la radio.",
+          "He turned on the radio.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Cosa la sta causando?",
+          "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Lei è la dottoressa?",
+          "Are you the doctor?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pensano",
+      "content": "sua",
       "translations": [
-        "they think",
-        "they are thinking",
-        "they consider",
-        "they believe"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "non",
-      "translations": [
-        "not",
-        "no",
-        "none",
-        "never",
-        "don't"
+        "your",
+        "yours",
+        "his",
+        "her"
       ],
       "usageExamples": [
         [
-          "Perché non stai dormendo?",
-          "Why aren't you asleep?",
+          "Tom dimenticò la sua chiave.",
+          "Tom forgot his key.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
+          "Lei è piuttosto soddisfatta della sua vita così com'è.",
+          "She is quite satisfied with her life as it is.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Yanni non comprende l'Islam.",
-          "Yanni doesn't understand Islam.",
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vinceranno",
+      "content": "casa",
       "translations": [
-        "they will win",
-        "they will conquer",
-        "they will prevail",
-        "they will overcome"
+        "house",
+        "home",
+        "dwelling",
+        "residence"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "I miei genitori abitano in una casa grande.",
+          "My parents live in a big house.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La casa è stata venduta per un milione di dollari.",
+          "The house was sold for one million dollars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Jack ha un gatto e un pappagallo a casa.",
+          "Jack keeps a cat and a parrot at home.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

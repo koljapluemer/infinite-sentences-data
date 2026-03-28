@@ -1,38 +1,123 @@
 {
-  "sentence": "Conosci quell'hotel?",
+  "sentence": "Cosa avete detto al capo?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you know that hotel?"
+    "What did you say to the boss?"
   ],
   "parts": [
     {
-      "content": "Conosci",
+      "content": "Cosa",
       "translations": [
-        "Do you know?",
-        "Are you familiar with?",
-        "Have you heard of?",
-        "Do you recognize?"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "quell'",
+      "content": "avete",
       "translations": [
-        "that one",
-        "that",
-        "the one"
+        "you have",
+        "you've got",
+        "are you having"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "hotel",
+      "content": "detto",
       "translations": [
-        "inn",
-        "lodging",
-        "accommodation"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
+      ],
+      "usageExamples": [
+        [
+          "Mary ha detto che voleva comprare qualcosa di più economico.",
+          "Mary said she wanted to buy something cheaper.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non avete detto questo a loro?",
+          "Why didn't you tell them this?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti ho detto delle cose così orribili. Mi dispiace.",
+          "I said such horrible things to you. I'm sorry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the",
+        "for the"
+      ],
+      "usageExamples": [
+        [
+          "Andammo al supermercato asiatico.",
+          "We went to the Asian supermarket.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "capo",
+      "translations": [
+        "head",
+        "chief",
+        "leader",
+        "boss"
       ],
       "usageExamples": []
     }

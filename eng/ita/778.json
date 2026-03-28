@@ -1,67 +1,81 @@
 {
-  "sentence": "Qualcuno sta osservando Tom.",
+  "sentence": "Quante persone ha ucciso Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Someone is watching Tom."
+    "How many people did Tom kill?"
   ],
   "parts": [
     {
-      "content": "Qualcuno",
+      "content": "Quante",
       "translations": [
-        "Someone",
-        "Somebody",
-        "Anyone",
-        "A person"
+        "How many",
+        "How much",
+        "How many of them",
+        "How many pieces"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "persone",
+      "translations": [
+        "people",
+        "persons",
+        "individuals",
+        "human beings"
       ],
       "usageExamples": [
         [
-          "Qualcuno ha pugnalato l'uomo nella gamba.",
-          "Someone stabbed the man in the leg.",
-          "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+          "1,3 miliardi di persone in tutto il mondo non hanno accesso all'elettricità.",
+          "1.3 billion people around the world lack access to electricity.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Qualcuno ha rubato la mia borsa.",
-          "Somebody has stolen my bag.",
+          "È quello che fanno le persone intelligenti.",
+          "That's what smart people do.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La polizia arrestò tredici persone.",
+          "Police arrested 13 people.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sta",
+      "content": "ha",
       "translations": [
-        "is",
-        "stands",
-        "is located",
-        "exists"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Tom sta cenando adesso.",
-          "Tom is having dinner right now.",
+          "Lei ha già finito?",
+          "Have you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cosa la sta causando?",
-          "What's causing it?",
+          "Tom ha molti amici?",
+          "Does Tom have a lot of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta gemendo.",
-          "Tom is groaning.",
+          "Un cane ha corso.",
+          "A dog ran.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "osservando",
+      "content": "ucciso",
       "translations": [
-        "observing",
-        "watching",
-        "noticing",
-        "monitoring"
+        "killed",
+        "murdered",
+        "slain",
+        "assassinated"
       ],
       "usageExamples": []
     },
@@ -73,18 +87,18 @@
       ],
       "usageExamples": [
         [
-          "Volete veramente votare Tom?",
-          "Do you really want to vote for Tom?",
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta gemendo.",
-          "Tom is whining.",
+          "Dovremmo avvertire Tom.",
+          "We should warn Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

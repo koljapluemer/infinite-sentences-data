@@ -1,94 +1,161 @@
 {
-  "sentence": "Cos'hai contro di lui?",
+  "sentence": "Cosa può dirci riguardo a questo dipinto?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What do you have against him?"
+    "What can you tell us about this painting?"
   ],
   "parts": [
     {
-      "content": "Cos'hai",
+      "content": "Cosa",
       "translations": [
-        "What do you have?",
-        "What do you got?",
-        "What do you possess?",
-        "What is it that you have?"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "può",
+      "translations": [
+        "can",
+        "may",
+        "is able to",
+        "is allowed to"
+      ],
+      "usageExamples": [
+        [
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse Tom lo può fare.",
+          "Perhaps Tom can do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Camminare regolarmente può aiutarmi a mantenere un peso sano e a prevenire l'aumento di peso.",
+          "Regular walking can help me maintain a healthy weight and prevent weight gain.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dirci",
+      "translations": [
+        "to say to us",
+        "to tell us",
+        "to inform us",
+        "to speak to us"
       ],
       "usageExamples": []
     },
     {
-      "content": "contro",
+      "content": "riguardo",
       "translations": [
-        "against",
-        "opposed to",
-        "in contrast to",
-        "counter"
+        "regarding",
+        "concerning",
+        "in relation to",
+        "about"
       ],
       "usageExamples": [
         [
-          "Ha gridato contro il suo computer.",
-          "He yelled at his computer.",
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era una corsa contro il tempo.",
-          "It was a race against time.",
+          "Tom sa come si sente Mary a riguardo.",
+          "Tom knows how Mary feels about that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ho obiezioni a riguardo.",
+          "I don't have any objection to that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "a",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Mi importa di lei.",
-          "I care about her.",
+          "Devo andare a trovarli.",
+          "I must go and find them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Può fare di meglio.",
-          "You can do better.",
+          "Cosa capiterà a loro?",
+          "What's going to happen to them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lui",
+      "content": "questo",
       "translations": [
-        "he",
-        "him",
-        "his"
+        "this",
+        "this one",
+        "this thing",
+        "this item"
       ],
       "usageExamples": [
         [
-          "Parlo frequentemente con lui.",
-          "I frequently talk to him.",
+          "Trasporti questo.",
+          "Carry this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Forse è lui.",
-          "Maybe it's him.",
+          "Inscatola questo.",
+          "Box this up.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Judy piace lui.",
-          "Judy likes him.",
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "dipinto",
+      "translations": [
+        "painted",
+        "painting",
+        "depicted",
+        "illustrated"
+      ],
+      "usageExamples": []
     }
   ]
 }

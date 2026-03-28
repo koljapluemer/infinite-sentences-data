@@ -1,161 +1,69 @@
 {
-  "sentence": "Cosa può dirci riguardo a questo dipinto?",
+  "sentence": "Deve essere difficile.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What can you tell us about this painting?"
+    "That must be hard."
   ],
   "parts": [
     {
-      "content": "Cosa",
+      "content": "Deve",
       "translations": [
-        "Thing",
-        "Item",
-        "Object",
-        "Stuff"
+        "must",
+        "has to",
+        "needs to",
+        "should"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "essere",
+      "translations": [
+        "to be",
+        "to exist",
+        "to occur",
+        "to happen"
       ],
       "usageExamples": [
         [
-          "Cosa avete consigliato?",
-          "What did you recommend?",
+          "La pâte brisée, per essere buona, deve essere friabile e leggera.",
+          "To be good, pâte brisée should be light and flaky.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cosa la sta causando?",
-          "What's causing it?",
+          "Non hai paura di essere infettata dal virus?",
+          "Aren't you afraid of getting infected by the virus?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cosa capiterà a loro?",
-          "What'll happen to them?",
+          "Grazie per essere state con lui.",
+          "Thanks for staying with him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "può",
+      "content": "difficile",
       "translations": [
-        "can",
-        "may",
-        "is able to",
-        "is allowed to"
+        "difficult",
+        "hard",
+        "challenging",
+        "tough"
       ],
       "usageExamples": [
         [
-          "Non le può licenziare.",
-          "You can't fire them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Forse Tom lo può fare.",
-          "Perhaps Tom can do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Camminare regolarmente può aiutarmi a mantenere un peso sano e a prevenire l'aumento di peso.",
-          "Regular walking can help me maintain a healthy weight and prevent weight gain.",
+          "È difficile restare calmi quando le scadenze vengono ignorate.",
+          "It's hard to stay calm when deadlines are ignored.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dirci",
-      "translations": [
-        "to say to us",
-        "to tell us",
-        "to inform us",
-        "to speak to us"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "riguardo",
-      "translations": [
-        "regarding",
-        "concerning",
-        "in relation to",
-        "about"
-      ],
-      "usageExamples": [
-        [
-          "Tom sa come si sente Mary a riguardo.",
-          "Tom knows how Mary feels about that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non ho obiezioni a riguardo.",
-          "I don't have any objection to that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non sa nulla a riguardo della situazione.",
-          "Tom doesn't know anything about the situation.",
+          "È difficile per me dipendere da te.",
+          "It's hard for me to depend on you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "a",
-      "translations": [
-        "an",
-        "one",
-        "each"
-      ],
-      "usageExamples": [
-        [
-          "Non riusciva a vederla.",
-          "He couldn't see her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei stata a Parigi?",
-          "Have you been to Paris?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cosa capiterà a loro?",
-          "What's going to happen to them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "questo",
-      "translations": [
-        "this",
-        "this one",
-        "this thing",
-        "this item"
-      ],
-      "usageExamples": [
-        [
-          "Prenda questo denaro.",
-          "Take this money.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dica questo in ungherese!",
-          "Say this in Hungarian!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Trasporti questo.",
-          "Carry this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dipinto",
-      "translations": [
-        "painted",
-        "painting",
-        "depicted",
-        "illustrated"
-      ],
-      "usageExamples": []
     }
   ]
 }

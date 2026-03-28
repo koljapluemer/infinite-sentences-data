@@ -1,87 +1,154 @@
 {
-  "sentence": "Quanti anni hai, Tom?",
+  "sentence": "Quanto spesso ti viene a trovare Tom?",
   "credits": [
-    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How old are you, Tom?"
+    "How often does Tom visit you?"
   ],
   "parts": [
     {
-      "content": "Quanti",
+      "content": "Quanto",
       "translations": [
-        "How much?",
-        "How many?",
-        "What is the price?",
-        "What is the cost?"
+        "How much",
+        "How many",
+        "To what extent",
+        "As much as"
       ],
       "usageExamples": [
         [
-          "Quanti ne hai?",
-          "How many do you have?",
+          "Quanto spesso mangi pesce?",
+          "How often do you eat fish?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanto denaro ci dovete?",
+          "How much money do you owe us?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti anni aveva nella prima foto?",
-          "How old was she in the first photo?",
+          "Quanto è freddo il Canada?",
+          "How cold is Canada?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "anni",
+      "content": "spesso",
       "translations": [
-        "years",
-        "ages",
-        "annums",
-        "time periods"
+        "often",
+        "frequently",
+        "usually",
+        "repeatedly"
       ],
       "usageExamples": [
         [
-          "Cookie ha 15 anni.",
-          "Cookie is 15.",
+          "Quanto spesso mangi pesce?",
+          "How often do you eat fish?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vinco molto spesso.",
+          "I don't win very often.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni aveva nella prima foto?",
-          "How old was she in the first photo?",
+          "La saggezza spesso cresce con le esperienze che accumuli.",
+          "Wisdom often grows with the experiences you accumulate.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ti",
+      "translations": [
+        "you",
+        "yourself",
+        "to you",
+        "for you"
+      ],
+      "usageExamples": [
+        [
+          "Noi ti amiamo entrambi.",
+          "We both love you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hanno sofferto molto durante gli anni della guerra.",
-          "They suffered a lot during the war years.",
+          "Perché non ti rilassi un po'?",
+          "Why don't you relax a bit?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa ti fa andare il cuore a tutta velocità?",
+          "What makes your heart race?",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "viene",
+      "translations": [
+        "comes",
+        "arrives",
+        "is coming",
+        "is happening"
+      ],
+      "usageExamples": [
+        [
+          "Arrostisca il bhakri mentre la pentola viene riscaldata.",
+          "Roast the bhakri while the pan is heated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
+          "\"Where's your girlfriend from?\" \"She's Russian.\"",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hai",
+      "content": "a",
       "translations": [
-        "you have",
-        "you've got",
-        "you possess",
-        "you own"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Non hai coscienza!",
-          "You have no conscience!",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti ne hai?",
-          "How many do you have?",
+          "Lo mostreremo a lei.",
+          "We'll show her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché li hai attaccati?",
-          "Why did you attack them?",
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "trovare",
+      "translations": [
+        "to find",
+        "to discover",
+        "to locate",
+        "to come across"
+      ],
+      "usageExamples": [
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
+          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -94,19 +161,19 @@
       ],
       "usageExamples": [
         [
-          "Dovremmo avvertire Tom.",
-          "We should warn Tom.",
+          "Lasciate finire Tom.",
+          "Let Tom finish.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+          "Tom sembra impegnato.",
+          "Tom looks busy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     }

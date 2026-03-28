@@ -1,20 +1,20 @@
 {
-  "sentence": "Pensavo che avesse già parlato con Tom.",
+  "sentence": "Penso che Tom sia troppo giovane.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I thought you'd already talked to Tom."
+    "I think Tom is too young."
   ],
   "parts": [
     {
-      "content": "Pensavo",
+      "content": "Penso",
       "translations": [
-        "I was thinking.",
-        "I thought",
-        "I used to think",
-        "I was considering"
+        "I think.",
+        "I believe",
+        "I consider",
+        "I reflect"
       ],
       "usageExamples": []
     },
@@ -28,96 +28,18 @@
       ],
       "usageExamples": [
         [
-          "È quello che sono.",
-          "It's what I am.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Sapeva che doveva farlo.",
           "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "avesse",
-      "translations": [
-        "to have",
-        "to possess",
-        "to own",
-        "to hold"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "già",
-      "translations": [
-        "already",
-        "now",
-        "yet",
-        "at this point"
-      ],
-      "usageExamples": [
-        [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei ha già finito?",
-          "Are you done yet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Berlino ci siete già state.",
-          "You have already been to Berlin.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "parlato",
-      "translations": [
-        "spoken",
-        "talked",
-        "verbal",
-        "oral"
-      ],
-      "usageExamples": [
-        [
-          "Lei ha parlato con Tom, vero?",
-          "You talked to Tom, didn't you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
-      ],
-      "usageExamples": [
-        [
-          "Tom acconsentì con riluttanza.",
-          "Tom reluctantly agreed.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Siate pazienti con noi.",
-          "Be patient with us.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era sposato con lei.",
-          "He used to be married to her.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -130,21 +52,83 @@
       ],
       "usageExamples": [
         [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
+          "Tom sembra compiaciuto.",
+          "Tom looks smug.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "sia",
+      "translations": [
+        "herself",
+        "hers",
+        "she herself",
+        "her own"
+      ],
+      "usageExamples": [
+        [
+          "Non sia mai gelosa.",
+          "Never be jealous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi pensate che Tom sia innocente?",
+          "Do you think Tom is innocent?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "troppo",
+      "translations": [
+        "too much",
+        "excessively",
+        "overly",
+        "very"
+      ],
+      "usageExamples": [
+        [
+          "Potrebbe funzionare, però è troppo rischioso.",
+          "That might work, but it's too risky.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non fidarti troppo di Tom.",
+          "Don't trust Tom too much.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary dice di essere troppo stanca oggi per aiutare.",
+          "Mary says she's too tired today to help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "giovane",
+      "translations": [
+        "young person",
+        "youth",
+        "young man/woman",
+        "teenager"
+      ],
+      "usageExamples": []
     }
   ]
 }

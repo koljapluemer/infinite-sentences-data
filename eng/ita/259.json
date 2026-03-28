@@ -1,72 +1,115 @@
 {
-  "sentence": "Domani andiamo in montagna.",
+  "sentence": "Dovrebbe chiamare a casa adesso.",
   "credits": [
-    "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by gcaplan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tomorrow we'll go to the mountains."
+    "You should call home now."
   ],
   "parts": [
     {
-      "content": "Domani",
+      "content": "Dovrebbe",
       "translations": [
-        "Tomorrow",
-        "Next day",
-        "The following day"
+        "should",
+        "ought to",
+        "is supposed to",
+        "is to"
       ],
       "usageExamples": []
     },
     {
-      "content": "andiamo",
+      "content": "chiamare",
       "translations": [
-        "let's go",
-        "we go",
-        "come on",
-        "let's move"
+        "to call",
+        "to name",
+        "to invoke",
+        "to summon"
       ],
       "usageExamples": [
         [
-          "Adesso che abbiamo mangiato, andiamo.",
-          "Now that we have eaten, let's go.",
+          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
+          "Tom received an urgent message to call his wife.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "in",
+      "content": "casa",
       "translations": [
-        "inside",
-        "within",
-        "into"
+        "house",
+        "home",
+        "dwelling",
+        "residence"
       ],
       "usageExamples": [
         [
-          "Era in ritardo.",
-          "He was late.",
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom disse che aveva nostalgia di casa.",
+          "Tom said that he was homesick.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tutti erano in ansia.",
-          "Everyone was apprehensive.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Chi lavora in quell'ufficio?",
-          "Who works in that office?",
+          "I miei genitori abitano in una casa grande.",
+          "My parents live in a big house.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "montagna",
+      "content": "adesso",
       "translations": [
-        "mountain",
-        "mount",
-        "peak",
-        "hill"
+        "now",
+        "right now",
+        "at this moment",
+        "currently"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sto cucinando adesso.",
+          "I am cooking now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

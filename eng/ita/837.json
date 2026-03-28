@@ -1,74 +1,99 @@
 {
-  "sentence": "Scriva una risposta.",
+  "sentence": "Sei stata a Parigi?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Write an answer."
+    "Have you been to Paris?"
   ],
   "parts": [
     {
-      "content": "Scriva",
+      "content": "Sei",
       "translations": [
-        "Write.",
-        "Scribe",
-        "Record",
-        "Document"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
+      ],
+      "usageExamples": [
+        [
+          "Sei motivato.",
+          "You're motivated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stata",
+      "translations": [
+        "was",
+        "has been",
+        "was located",
+        "was situated"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La città russa Togliatti è stata nominata in onore del comunista italiano Palmiro Togliatti.",
+          "The Russian city Togliatti was named in honor of the Italian communist Palmiro Togliatti.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questa pagina non è mai stata divertente.",
+          "This page was never funny.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Devo andare a trovarli.",
+          "I have to go find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Parigi",
+      "translations": [
+        "Paris",
+        "the City of Light",
+        "the French capital",
+        "Paris, France"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
-      ],
-      "usageExamples": [
-        [
-          "Datele una mano, OK?",
-          "Give her a hand, will you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi terremo una festa.",
-          "We'll have a party.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È una maledizione.",
-          "It is a curse.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "risposta",
-      "translations": [
-        "response",
-        "answer",
-        "reply",
-        "reaction"
-      ],
-      "usageExamples": [
-        [
-          "La risposta è complicata.",
-          "The answer is complicated.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Confronti la Sua risposta con la sua.",
-          "Check your answer with his.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non è facile la risposta?",
-          "Isn't the answer easy?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

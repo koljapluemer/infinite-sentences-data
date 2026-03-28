@@ -1,29 +1,34 @@
 {
-  "sentence": "Yanni non comprende l'Islam.",
+  "sentence": "Ziri non utilizza mai quella parola.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Yanni doesn't understand Islam."
+    "Ziri never uses that word."
   ],
   "parts": [
     {
-      "content": "Yanni",
+      "content": "Ziri",
       "translations": [
-        "Yanni (a name)",
-        "Yanni (musician)",
-        "Yanni (Greek composer)"
+        "Ziri (a name)",
+        "Ziri (a term)",
+        "Ziri (a concept)"
       ],
       "usageExamples": [
         [
-          "Yanni comprò del cibo.",
-          "Yanni bought food.",
+          "Ziri mangiò dei datteri.",
+          "Ziri ate dates.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo non ha sorpreso Yanni.",
-          "This didn't surprise Yanni.",
+          "Ziri ama i gatti siamesi.",
+          "Ziri loves Siamese cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri non rapinò una banca.",
+          "Ziri didn't rob a bank.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -34,46 +39,103 @@
         "not",
         "no",
         "none",
-        "never",
-        "don't"
+        "never"
       ],
       "usageExamples": [
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "utilizza",
+      "translations": [
+        "use",
+        "utilize",
+        "employ",
+        "make use of"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mai",
+      "translations": [
+        "never",
+        "not ever",
+        "at no time",
+        "not at all"
+      ],
+      "usageExamples": [
+        [
+          "Non dormite mai?",
+          "Don't you ever sleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
         [
           "Tom non cambia mai.",
           "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Certamente non lo odiava.",
-          "She certainly did not hate him.",
+          "Avete mai provato?",
+          "Did you ever try?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "comprende",
+      "content": "quella",
       "translations": [
-        "understands",
-        "comprises",
-        "includes",
-        "consists of"
+        "that",
+        "the one",
+        "that one",
+        "the"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sami sentì quella ragazza.",
+          "Sami heard that girl.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "l'Islam",
+      "content": "parola",
       "translations": [
-        "Islam",
-        "the Islamic faith",
-        "the religion of Islam",
-        "Islamic belief system"
+        "word",
+        "term",
+        "speech",
+        "utterance"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io non posso dirle come si pronuncia la parola.",
+          "I can't tell you how to pronounce the word.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

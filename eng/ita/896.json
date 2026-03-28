@@ -1,55 +1,96 @@
 {
-  "sentence": "Sto cucinando adesso.",
+  "sentence": "Ti compro un regalo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I am cooking now."
+    "I buy you a present."
   ],
   "parts": [
     {
-      "content": "Sto",
+      "content": "Ti",
       "translations": [
-        "I am.",
-        "I stand",
-        "I stay",
-        "I exist."
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "cucinando",
-      "translations": [
-        "cooking",
-        "preparing food",
-        "making a meal",
-        "culinary preparation"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "adesso",
-      "translations": [
-        "now",
-        "right now",
-        "at this moment",
-        "currently"
+        "You",
+        "To you",
+        "For you",
+        "Yourself"
       ],
       "usageExamples": [
         [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
+          "Ti darò questa biro.",
+          "I'll give you this pen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sta cenando adesso.",
-          "Tom is having dinner right now.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "compro",
+      "translations": [
+        "I buy",
+        "I am buying",
+        "I purchase",
+        "I am purchasing"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Vedemmo un lupo.",
+          "We saw a wolf.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vado a trovare un'amica.",
+          "I'm going to visit a friend.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È un nuovo libro.",
+          "It's a new book.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "regalo",
+      "translations": [
+        "gift",
+        "present",
+        "offering",
+        "donation"
+      ],
+      "usageExamples": [
+        [
+          "Ha ricevuto il mio regalo?",
+          "Did you get my gift?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per ringraziarti, ecco un regalo.",
+          "To thank you, here is a gift.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono sicura che Tom amerà il tuo regalo.",
+          "I'm sure Tom will love your present.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

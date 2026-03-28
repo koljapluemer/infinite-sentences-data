@@ -1,11 +1,11 @@
 {
-  "sentence": "Ich ärgere mich über Verspätungen.",
+  "sentence": "Ich möchte diese Passage für dich zusammenfassen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Gecikmelere sinir oluyorum."
+    "Bu pasajı senin için özetlemek istiyorum."
   ],
   "parts": [
     {
@@ -15,6 +15,11 @@
       ],
       "usageExamples": [
         [
+          "Ich schwimme sehr gern.",
+          "Yüzmeyi seviyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "Ich verstehe ungefähr.",
           "Aşağı yukarı anlıyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
@@ -23,50 +28,77 @@
           "Ich bin verwirrt.",
           "Benim kafam karıştı.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich war zu Hause.",
-          "Evdeydim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mich",
+      "content": "möchte",
       "translations": [
-        "beni"
+        "istiyor"
       ],
       "usageExamples": [
         [
-          "Ich wollte mich erinnern.",
-          "Ben hatırlamak istiyordum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wann hast du Zeit für mich?",
-          "Benim için ne zaman vaktin olur?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dieses Lied erinnert mich an jemanden.",
-          "Bu şarkı bana birini hatırlatıyor.",
+          "Ich möchte mir die Zähne putzen.",
+          "Dişlerimi fırçalamak isterim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "über",
+      "content": "diese",
       "translations": [
-        "ziyade",
-        "hakkında",
-        "üzerinde"
+        "bunları"
       ],
       "usageExamples": []
     },
     {
-      "content": "Verspätungen",
+      "content": "Passage",
       "translations": [
-        "Gecikmelere"
+        "pasajı"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "für",
+      "translations": [
+        "için",
+        "para"
+      ],
+      "usageExamples": [
+        [
+          "Ich interessiere mich sehr für Fußball.",
+          "Futbola çok ilgim var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Maria interessiert sich für Politik.",
+          "Mary politika ile ilgilenir.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
+          "Mali desteği, bu projemiz için vazgeçilmezdir.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dich",
+      "translations": [
+        "Seni"
+      ],
+      "usageExamples": [
+        [
+          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
+          "Seni başlangıçta planlanandan daha çok seviyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "zusammenfassen",
+      "translations": [
+        "özetlemek"
       ],
       "usageExamples": []
     }

@@ -1,125 +1,134 @@
 {
-  "sentence": "Questi sono i suoi figli?",
+  "sentence": "Questo ristorante ha tre stelle Michelin.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Are these your children?"
+    "This restaurant has three Michelin stars."
   ],
   "parts": [
     {
-      "content": "Questi",
+      "content": "Questo",
       "translations": [
-        "These",
-        "These ones",
-        "These items",
-        "These things"
+        "This",
+        "This one",
+        "This thing",
+        "This item"
+      ],
+      "usageExamples": [
+        [
+          "Questo cane è brutto.",
+          "This dog is ugly.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un occhio.",
+          "This is an eye.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ristorante",
+      "translations": [
+        "restaurant",
+        "diner",
+        "eatery",
+        "bistro"
+      ],
+      "usageExamples": [
+        [
+          "Noi abbiamo un ristorante.",
+          "We have a restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "he has",
+        "there is"
+      ],
+      "usageExamples": [
+        [
+          "Un cane ha corso.",
+          "A dog ran.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "L'ha salvata.",
+          "He rescued her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tre",
+      "translations": [
+        "three",
+        "3",
+        "thrice"
+      ],
+      "usageExamples": [
+        [
+          "Abbiamo scritto tre libri.",
+          "We wrote three books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lessi la storia tre volte.",
+          "I read the story three times.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mamma ha diviso la torta in tre.",
+          "Mum divided the cake into three.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stelle",
+      "translations": [
+        "stars",
+        "constellations",
+        "celestial bodies",
+        "heavenly bodies"
+      ],
+      "usageExamples": [
+        [
+          "Il padre di Tom gli ha insegnato a conoscere le stelle.",
+          "Tom's father taught him about the stars.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Michelin",
+      "translations": [
+        "Michelin tires",
+        "Michelin brand",
+        "Michelin company"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "sono",
-      "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are"
-      ],
-      "usageExamples": [
-        [
-          "Si sono sposati.",
-          "They got married.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io sono una patata.",
-          "I am a potato.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tutte sono felici.",
-          "Everyone is happy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
-      ],
-      "usageExamples": [
-        [
-          "Conosce i cavalli.",
-          "He knows horses.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A John piace scambiare francobolli con i suoi amici.",
-          "John likes to trade stamps with his friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Marika piacevano i fumetti giapponesi?",
-          "Did Marika like Japanese comic books?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "suoi",
-      "translations": [
-        "his",
-        "her",
-        "its"
-      ],
-      "usageExamples": [
-        [
-          "A Mary mancavano i suoi amici.",
-          "Mary missed her friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary mancano suo marito e i suoi figli.",
-          "Mary misses her husband and children.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "I suoi figli sono nel giardino.",
-          "Her sons are in the garden.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "figli",
-      "translations": [
-        "children",
-        "sons",
-        "offspring",
-        "kids"
-      ],
-      "usageExamples": [
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary mancano suo marito e i suoi figli.",
-          "Mary misses her husband and children.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "I suoi figli sono nel giardino.",
-          "Her sons are in the garden.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

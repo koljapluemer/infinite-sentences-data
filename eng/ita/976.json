@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom si è lamentato del rumore eccessivo.",
+  "sentence": "Tom sta lavorando, vero?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom complained about the excessive noise."
+    "Tom is working, isn't he?"
   ],
   "parts": [
     {
@@ -16,8 +16,70 @@
       ],
       "usageExamples": [
         [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sta",
+      "translations": [
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is whining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li sta confondendo.",
+          "You're confusing them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lavorando",
+      "translations": [
+        "working",
+        "doing work",
+        "engaged in work",
+        "in the process of working"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vero",
+      "translations": [
+        "true",
+        "indeed",
+        "in fact",
+        "certainly"
+      ],
+      "usageExamples": [
+        [
+          "È scoraggiata, vero?",
+          "She's discouraged, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -26,119 +88,11 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "È organizzando, vero?",
+          "She's organized, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "si",
-      "translations": [
-        "if",
-        "whether",
-        "in case",
-        "provided that"
-      ],
-      "usageExamples": [
-        [
-          "Tom si è addolcito.",
-          "Tom relented.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è divertito.",
-          "Tom had a good time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
-      ],
-      "usageExamples": [
-        [
-          "Tom è un esperto.",
-          "Tom is a pro.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom è un fan.",
-          "Tom is a fan.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "lamentato",
-      "translations": [
-        "lamented",
-        "mourned",
-        "grieved over",
-        "expressed sorrow for"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "del",
-      "translations": [
-        "of the",
-        "from the",
-        "about the",
-        "by the"
-      ],
-      "usageExamples": [
-        [
-          "Sta mangiando del gelato.",
-          "She's eating ice cream.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Yanni comprò del cibo.",
-          "Yanni bought some food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
-          "Would you mind if I drank the rest of the milk?",
-          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "rumore",
-      "translations": [
-        "noise",
-        "sound",
-        "rumor",
-        "commotion"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "eccessivo",
-      "translations": [
-        "excessive",
-        "overly",
-        "too much",
-        "exorbitant"
-      ],
-      "usageExamples": []
     }
   ]
 }

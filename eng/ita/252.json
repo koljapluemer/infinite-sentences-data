@@ -1,24 +1,33 @@
 {
-  "sentence": "Dice che non gli dispiacerà.",
+  "sentence": "Disse che non si sentiva al sicuro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He says he won't mind."
+    "He said he didn't feel safe.",
+    "She said she didn't feel safe.",
+    "She said she felt safe.",
+    "She said that she didn't feel safe."
   ],
   "parts": [
     {
-      "content": "Dice",
+      "content": "Disse",
       "translations": [
-        "Die",
-        "Gaming die",
-        "Playing die"
+        "to say",
+        "to tell",
+        "to speak",
+        "to discuss"
       ],
       "usageExamples": [
         [
-          "Dice sempre la stessa cosa.",
-          "You always say the same thing.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che non fece niente di illegale.",
+          "He said he did nothing illegal.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -55,18 +64,17 @@
         "not",
         "no",
         "none",
-        "never",
-        "don't"
+        "never"
       ],
       "usageExamples": [
         [
-          "Perché non stai dormendo?",
-          "Why aren't you sleeping?",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non cambia mai.",
-          "Tom never changes.",
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -77,39 +85,87 @@
       ]
     },
     {
-      "content": "gli",
+      "content": "si",
       "translations": [
-        "the",
-        "them",
-        "those"
+        "if",
+        "whether",
+        "in case",
+        "provided that"
       ],
       "usageExamples": [
         [
-          "Lei chiuse gli occhi.",
-          "She closed her eyes.",
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hanno sofferto molto durante gli anni della guerra.",
-          "They suffered a lot during the war years.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io so cosa gli è successo.",
-          "I know what happened to him.",
+          "Tom si è divertito.",
+          "Tom had some fun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dispiacerà",
+      "content": "sentiva",
       "translations": [
-        "it will upset",
-        "it will displease",
-        "it will annoy",
-        "it will make unhappy"
+        "I felt",
+        "I was feeling",
+        "I used to feel",
+        "I would feel"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the",
+        "for the"
+      ],
+      "usageExamples": [
+        [
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sicuro",
+      "translations": [
+        "safe",
+        "secure",
+        "sure",
+        "reliable"
+      ],
+      "usageExamples": [
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io sono sicuro che Tom ti aiuterà.",
+          "I'm sure Tom will help you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

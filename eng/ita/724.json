@@ -1,146 +1,129 @@
 {
-  "sentence": "Penso che Tom ti chiederà di sposarlo.",
+  "sentence": "Per piacere, aspetta finché non arriva.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ariarin (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I think Tom will ask you to marry him."
+    "Please wait until he arrives."
   ],
   "parts": [
     {
-      "content": "Penso",
+      "content": "Per",
       "translations": [
-        "I think.",
-        "I believe",
-        "I consider",
-        "I reflect"
+        "for",
+        "by",
+        "through",
+        "per"
+      ],
+      "usageExamples": [
+        [
+          "Per ringraziarti, ecco un regalo.",
+          "To thank you, here is a gift.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per favore, digli di partire.",
+          "Please tell him to leave.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per piacere, copi questa pagina.",
+          "Please copy this page.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piacere",
+      "translations": [
+        "to please",
+        "to like",
+        "pleasure",
+        "enjoyment"
+      ],
+      "usageExamples": [
+        [
+          "Mi fa piacere che tu sia d'accordo.",
+          "I'm glad you agree.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mark potrebbe piacere Jessica.",
+          "Mark might like Jessica.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\"Passami il sale, per piacere.\" \"Ecco qua.\"",
+          "\"Pass me the salt, please.\" \"Here you are.\"",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aspetta",
+      "translations": [
+        "wait",
+        "hold on",
+        "wait a moment",
+        "hang on"
       ],
       "usageExamples": []
     },
     {
-      "content": "che",
+      "content": "finché",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "as long as",
+        "until",
+        "provided that",
+        "so long as"
       ],
       "usageExamples": [
         [
-          "Disse che lo amava.",
-          "She said that she loved him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È quello che sono.",
-          "It's what I am.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Mangia finché è caldo.",
+          "Eat while it's warm.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "non",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Tom sembra compiaciuto.",
-          "Tom seems pleased.",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non cambia mai.",
-          "Tom never changes.",
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è addolcito.",
-          "Tom relented.",
+          "Perché non la cercate?",
+          "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ti",
+      "content": "arriva",
       "translations": [
-        "you",
-        "yourself",
-        "to you",
-        "for you"
+        "arrives",
+        "comes",
+        "gets here",
+        "shows up"
       ],
       "usageExamples": [
         [
-          "Noi ti amiamo entrambi.",
-          "We both love you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cosa ti fa andare il cuore a tutta velocità?",
-          "What makes your heart race?",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanto spesso ti viene a trovare Tom?",
-          "How often does Tom visit you?",
-          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "chiederà",
-      "translations": [
-        "will ask",
-        "will request",
-        "will inquire",
-        "will demand"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
-      ],
-      "usageExamples": [
-        [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sei pieno di rabbia.",
-          "You're full of anger.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Può fare di meglio.",
-          "You can do better.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sposarlo",
-      "translations": [
-        "to marry him",
-        "to marry her",
-        "to marry them"
-      ],
-      "usageExamples": [
-        [
-          "Dovresti sposarlo.",
-          "You should marry him.",
+          "L'autobus non arriva sempre in orario.",
+          "The bus doesn't always come on time.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

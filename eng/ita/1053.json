@@ -1,100 +1,130 @@
 {
-  "sentence": "Vorrei cambiare il mio biglietto.",
+  "sentence": "Vuole una sola notte di intimità.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by tanay (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'd like to change my ticket."
+    "He wants a single night of intimacy."
   ],
   "parts": [
     {
-      "content": "Vorrei",
+      "content": "Vuole",
       "translations": [
-        "I would like",
-        "I want",
-        "I would love to",
-        "I wish to"
+        "He/She wants",
+        "You want",
+        "It wants"
+      ],
+      "usageExamples": [
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
+      ],
+      "usageExamples": [
+        [
+          "Era una visione orrenda.",
+          "It was a horrible vision.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "È una maledizione.",
+          "It is a curse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sola",
+      "translations": [
+        "alone",
+        "only",
+        "single",
+        "solitary"
+      ],
+      "usageExamples": [
+        [
+          "Dovresti lasciarmi da sola.",
+          "You should leave me alone.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Imparai l'esperanto da sola.",
+          "I learned Esperanto by myself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace lavorare da sola.",
+          "Mary doesn't like to work by herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "notte",
+      "translations": [
+        "night",
+        "evening",
+        "darkness",
+        "nighttime"
+      ],
+      "usageExamples": [
+        [
+          "Hai visto Tom quella notte?",
+          "Did you see Tom that night?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
+      "translations": [
+        "of",
+        "from",
+        "about",
+        "by"
+      ],
+      "usageExamples": [
+        [
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cos'hai contro di lui?",
+          "What do you have against him?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "\">\" significa maggiore di.",
+          "\">\" means greater than.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "intimità",
+      "translations": [
+        "intimacy",
+        "closeness",
+        "familiarity",
+        "affection"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "cambiare",
-      "translations": [
-        "to change",
-        "to exchange",
-        "to switch",
-        "to alter"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Non tollererò il fallimento.",
-          "I will not tolerate failure.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non conosco il sistema.",
-          "I don't know the system.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mio",
-      "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
-      ],
-      "usageExamples": [
-        [
-          "È mio nemico.",
-          "He is my enemy.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È mio cugino da parte di padre.",
-          "He is my cousin on the father's side.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Posso riavere il mio coltello?",
-          "Can I have my knife back?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "biglietto",
-      "translations": [
-        "ticket",
-        "note",
-        "bill",
-        "card"
-      ],
-      "usageExamples": [
-        [
-          "Quando si viaggia in bus o in treno, si deve pagare il biglietto.",
-          "When riding a bus or a train, you need to pay the fare.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

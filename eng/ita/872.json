@@ -1,51 +1,25 @@
 {
-  "sentence": "Sono al sicuro adesso?",
+  "sentence": "Sono sicura che Tom amerà il tuo regalo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Am I safe now?"
+    "I'm sure Tom will love your present."
   ],
   "parts": [
     {
       "content": "Sono",
       "translations": [
         "I am.",
-        "I exist.",
-        "I am here.",
-        "I am present"
+        "We are",
+        "They are.",
+        "You are"
       ],
       "usageExamples": []
     },
     {
-      "content": "al",
-      "translations": [
-        "to the",
-        "at the",
-        "in the",
-        "for the"
-      ],
-      "usageExamples": [
-        [
-          "Rispondete al dannato telefono!",
-          "Answer the damn phone!",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sami lavorava al ristorante.",
-          "Sami used to work at the restaurant.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Andammo al supermercato asiatico.",
-          "We went to the Asian supermarket.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sicuro",
+      "content": "sicura",
       "translations": [
         "safe",
         "secure",
@@ -54,39 +28,150 @@
       ],
       "usageExamples": [
         [
-          "Io sono sicuro che Tom ti aiuterà.",
-          "I'm sure Tom will help you.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Disse che non si sentiva al sicuro.",
-          "She said she felt safe.",
+          "Io sono sicura che Tom sarà di ritorno.",
+          "I'm sure Tom will be back.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "adesso",
+      "content": "che",
       "translations": [
-        "now",
-        "right now",
-        "at this moment",
-        "currently"
+        "that",
+        "which",
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Tom sta cenando adesso.",
-          "Tom is having dinner right now.",
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Viviamo in campagna adesso.",
-          "We live in the country now.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sto cucinando adesso.",
-          "I am cooking now.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "amerà",
+      "translations": [
+        "he/she will love",
+        "you will love",
+        "it will love"
+      ],
+      "usageExamples": [
+        [
+          "Tom amerà abitare qua.",
+          "Tom will love living here.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
+      "translations": [
+        "the",
+        "it",
+        "him",
+        "that"
+      ],
+      "usageExamples": [
+        [
+          "Non conosco il sistema.",
+          "I don't know the system.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avete il nostro rispetto.",
+          "You have our respect.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tuo",
+      "translations": [
+        "your",
+        "yours",
+        "of yours"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta contando sul tuo aiuto.",
+          "Tom is counting on your help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Com'è andato il tuo incontro con Tom?",
+          "How did your meeting with Tom go?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quant'è profondo il tuo amore?",
+          "How deep is your love?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "regalo",
+      "translations": [
+        "gift",
+        "present",
+        "offering",
+        "donation"
+      ],
+      "usageExamples": [
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha ricevuto il mio regalo?",
+          "Did you get my gift?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Per ringraziarti, ecco un regalo.",
+          "To thank you, here is a gift.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

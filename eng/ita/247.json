@@ -1,67 +1,134 @@
 {
-  "sentence": "Devo studiare stasera.",
+  "sentence": "Dice sempre la stessa cosa.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by kamilfatsa (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have to study tonight."
+    "He always says the same thing.",
+    "She always says the same thing.",
+    "You always say the same thing."
   ],
   "parts": [
     {
-      "content": "Devo",
+      "content": "Dice",
       "translations": [
-        "I must.",
-        "I have to.",
-        "I need to",
-        "I ought to"
+        "Die",
+        "Gaming die",
+        "Playing die"
       ],
       "usageExamples": [
         [
-          "Devo aspettarli qua.",
-          "I have to wait here for them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Devo andare a trovarli.",
-          "I have to go find them.",
+          "Dice che non gli dispiacerà.",
+          "He says he won't mind.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "studiare",
+      "content": "sempre",
       "translations": [
-        "to study",
-        "to learn",
-        "to examine",
-        "to review"
+        "always",
+        "forever",
+        "at all times",
+        "constantly"
       ],
       "usageExamples": [
         [
-          "Voglio studiare matematica.",
-          "I want to study math.",
+          "È sempre in orario, vero?",
+          "She's always on time, isn't she?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il mio amico va in biblioteca a studiare.",
-          "My friend goes to the library to study.",
+          "Io sono sempre stato un repubblicano.",
+          "I've always been a Republican.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho intenzione questo pomeriggio di studiare inglese.",
-          "I'm going to study English this afternoon.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+          "Perché siete sempre così gelose?",
+          "Why are you always so jealous?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "stasera",
+      "content": "la",
       "translations": [
-        "tonight",
-        "this evening"
+        "the",
+        "that",
+        "which",
+        "those"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is his house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stessa",
+      "translations": [
+        "same",
+        "itself",
+        "the same",
+        "identical"
+      ],
+      "usageExamples": [
+        [
+          "A Mary importa solamente di se stessa.",
+          "Mary only cares about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa solo di se stessa.",
+          "Mary only cares about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importava solamente di se stessa.",
+          "Mary only cared about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cosa",
+      "translations": [
+        "thing",
+        "item",
+        "object",
+        "matter"
+      ],
+      "usageExamples": [
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa direste?",
+          "What would you say?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non sapeva cosa fare.",
+          "She didn't know what to do.",
+          "Sentence from Tatoeba by antilope (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

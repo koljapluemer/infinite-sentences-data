@@ -1,11 +1,11 @@
 {
-  "sentence": "Perché li hai attaccati?",
+  "sentence": "Perché non lo scorda e basta?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why did you attack them?"
+    "Why don't you just forget it?"
   ],
   "parts": [
     {
@@ -18,83 +18,124 @@
       ],
       "usageExamples": [
         [
-          "Perché non stai dormendo?",
-          "Why aren't you sleeping?",
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché sono qui?",
-          "Why are they here?",
-          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
         ],
         [
           "Perché non la cercate?",
           "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché siete andati lì?",
+          "Why did you go there?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "li",
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lo",
       "translations": [
         "the",
         "it",
         "him",
-        "them"
+        "that"
       ],
       "usageExamples": [
         [
-          "Dove li avete oliati?",
-          "Where did you oil them?",
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tutti li ignorarono.",
-          "Everyone ignored them.",
+          "Certamente non lo odiava.",
+          "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mary li ha ingannati tutti.",
-          "Mary tricked them all.",
+          "Beh, sicuramente lo richiederò.",
+          "Well, I'll surely ask again.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hai",
+      "content": "scorda",
       "translations": [
-        "you have",
-        "you've got",
-        "you possess",
-        "you own"
-      ],
-      "usageExamples": [
-        [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti ne hai?",
-          "How many do you have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu hai ordinato qualcosa?",
-          "Did you order something?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "attaccati",
-      "translations": [
-        "stick to it",
-        "attach yourself",
-        "cling to",
-        "hold on"
+        "forget",
+        "to forget",
+        "forgetting"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "e",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition"
+      ],
+      "usageExamples": [
+        [
+          "Natalia e Veronica si guardavano a vicenda con complicità.",
+          "Natalia and Veronica looked at each other in complicity.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Da un anno io e lui ci scambiamo sguardi.",
+          "He and I have been exchanging looks for the past year.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il signor Jones crede nel duro lavoro e nei profitti.",
+          "Mr Jones believes in hard work and profits.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "basta",
+      "translations": [
+        "enough",
+        "just",
+        "only",
+        "stop"
+      ],
+      "usageExamples": [
+        [
+          "Chiedilo a loro e basta.",
+          "Just ask them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

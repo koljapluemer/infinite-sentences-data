@@ -1,20 +1,47 @@
 {
-  "sentence": "Consigliai a Tom di farlo.",
+  "sentence": "Cosa capiterà a loro?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I advised Tom to do that."
+    "What'll happen to them?",
+    "What's going to happen to them?"
   ],
   "parts": [
     {
-      "content": "Consigliai",
+      "content": "Cosa",
       "translations": [
-        "I advised",
-        "I recommended",
-        "I suggested",
-        "I counseled"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
+      ],
+      "usageExamples": [
+        [
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "capiterà",
+      "translations": [
+        "it will happen",
+        "it will occur",
+        "it will take place",
+        "it will come to pass"
       ],
       "usageExamples": []
     },
@@ -27,95 +54,45 @@
       ],
       "usageExamples": [
         [
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
           "Volate fino a Londra.",
           "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Devo andare a trovarli.",
-          "I have to go find them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom",
+      "content": "loro",
       "translations": [
-        "Thomas",
-        "Tommy"
+        "their",
+        "theirs",
+        "them",
+        "those"
       ],
       "usageExamples": [
         [
-          "Tom era creativo.",
-          "Tom was creative.",
+          "Io sono stato invitato al loro matrimonio.",
+          "I was invited to their wedding.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom si è nascosto.",
-          "Tom hid.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom si è divertito.",
-          "Tom had some fun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "di",
-      "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
-      ],
-      "usageExamples": [
-        [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
+          "Non vi dimenticate di loro.",
+          "Don't forget them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cos'hai contro di lui?",
-          "What do you have against him?",
+          "Chiedilo a loro e basta.",
+          "Just ask them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Volete sentire di più?",
-          "Do you want to hear more?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "farlo",
-      "translations": [
-        "to do it",
-        "to make it",
-        "to get it done",
-        "to accomplish it"
-      ],
-      "usageExamples": [
-        [
-          "Preferirei non farlo.",
-          "I'd rather not do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sapeva che doveva farlo.",
-          "She knew she had to do that.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Volevo che Tom mi dicesse come farlo.",
-          "I wanted Tom to tell me how to do that.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
         ]
       ]
     }

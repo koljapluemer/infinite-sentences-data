@@ -1,11 +1,11 @@
 {
-  "sentence": "Io parlo bosniaco.",
+  "sentence": "Io so com'era Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I speak Bosnian."
+    "I know how Tom used to be."
   ],
   "parts": [
     {
@@ -17,13 +17,13 @@
       ],
       "usageExamples": [
         [
-          "Io appoggiavo Tom.",
-          "I used to support Tom.",
+          "Io ero lì.",
+          "I was there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono solo curiosa.",
-          "I'm just curious.",
+          "Io insegno il berbero.",
+          "I teach Berber.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,23 +34,63 @@
       ]
     },
     {
-      "content": "parlo",
+      "content": "so",
       "translations": [
-        "I speak",
-        "I talk",
-        "I am speaking.",
-        "I am talking."
+        "thus",
+        "therefore",
+        "in that way"
+      ],
+      "usageExamples": [
+        [
+          "Non so cosa farò con Tom.",
+          "I don't know what I'm going to do with Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io so cosa gli è successo.",
+          "I know what happened to him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "com'era",
+      "translations": [
+        "how it was",
+        "what it was like",
+        "how it used to be",
+        "the way it was"
       ],
       "usageExamples": []
     },
     {
-      "content": "bosniaco",
+      "content": "Tom",
       "translations": [
-        "Bosnian",
-        "Bosniak",
-        "Bosnian person"
+        "Thomas",
+        "Tommy"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Intimidisci Tom.",
+          "You intimidate Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sembrava esitante.",
+          "Tom seemed hesitant.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,55 +1,101 @@
 {
-  "sentence": "Apri la cassaforte.",
+  "sentence": "Avete provato l'hot pot a Taiwan?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Lumi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Open the safe."
+    "Have you tried the hot pot in Taiwan?"
   ],
   "parts": [
     {
-      "content": "Apri",
+      "content": "Avete",
       "translations": [
-        "Open",
-        "Access",
-        "Reveal"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
+        "You have",
+        "Do you have?",
+        "You all have",
+        "Have you?"
       ],
       "usageExamples": [
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "Avete mai provato?",
+          "Did you ever try?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dov'è la sua casa?",
-          "Where is your house?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+          "Avete visitato la città dove è nato vostro padre?",
+          "Have you visited the town where your father was born?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cassaforte",
+      "content": "provato",
       "translations": [
-        "safe",
-        "vault",
-        "lockbox",
-        "strongbox"
+        "tried",
+        "tested",
+        "proven",
+        "experienced"
+      ],
+      "usageExamples": [
+        [
+          "Avete mai provato?",
+          "Did you ever try?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho provato a seguire le sue instruzioni.",
+          "I tried to follow your instructions.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "l'hot pot",
+      "translations": [
+        "hot pot",
+        "Chinese stew",
+        "simmering pot",
+        "communal cooking pot"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nessuno credeva a Tom.",
+          "Nobody believed Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo mostreremo a lei.",
+          "We'll show her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Taiwan",
+      "translations": [
+        "Republic of China",
+        "Taiwan Province",
+        "Taiwan Island"
       ],
       "usageExamples": []
     }

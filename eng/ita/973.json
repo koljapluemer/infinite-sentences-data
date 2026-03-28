@@ -1,12 +1,12 @@
 {
-  "sentence": "Tom sembrava esitante.",
+  "sentence": "Tom sta cenando adesso.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CT (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom looked hesitant.",
-    "Tom seemed hesitant."
+    "Tom is eating dinner right now.",
+    "Tom is having dinner right now."
   ],
   "parts": [
     {
@@ -17,47 +17,83 @@
       ],
       "usageExamples": [
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
+          "Tom è famoso.",
+          "Tom is famous.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sembrava",
+      "content": "sta",
       "translations": [
-        "it seemed",
-        "it appeared",
-        "it looked like",
-        "it was as if"
+        "is",
+        "stands",
+        "is located",
+        "exists"
       ],
       "usageExamples": [
         [
-          "Tom ha detto che sembrava nervoso.",
-          "Tom said I looked nervous.",
+          "Qualcuno sta osservando Tom.",
+          "Someone is watching Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li sta confondendo.",
+          "You're confusing them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "esitante",
+      "content": "cenando",
       "translations": [
-        "hesitant",
-        "reluctant",
-        "undecided",
-        "wavering"
+        "dining",
+        "having dinner",
+        "eating dinner",
+        "during dinner"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "adesso",
+      "translations": [
+        "now",
+        "right now",
+        "at this moment",
+        "currently"
+      ],
+      "usageExamples": [
+        [
+          "Sono al sicuro adesso?",
+          "Am I safe now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sto cucinando adesso.",
+          "I am cooking now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

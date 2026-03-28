@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom era creativo.",
+  "sentence": "Tom ha detto a Mary che sarebbe stato libero domani.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom was creative."
+    "Tom told Mary that he'd be free tomorrow."
   ],
   "parts": [
     {
@@ -16,57 +16,235 @@
       ],
       "usageExamples": [
         [
-          "Tom sembra compiaciuto.",
-          "Tom looks pleased.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Quanti anni hai, Tom?",
+          "How old are you, Tom?",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "era",
+      "content": "ha",
       "translations": [
-        "was",
-        "used to be",
-        "used to",
-        "was in the process of"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Chi era qua?",
-          "Who was here?",
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
+          "Lei ha già finito?",
+          "Have you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary fu detto che era troppo bassa.",
-          "Mary was told she was too short.",
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "creativo",
+      "content": "detto",
       "translations": [
-        "creative",
-        "innovative",
-        "imaginative",
-        "original"
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
+      ],
+      "usageExamples": [
+        [
+          "Mary ha detto che vorrebbe prendere in prestito qualche libro.",
+          "Mary said she'd like to borrow a few books.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mi ha detto che eravate felici.",
+          "Tom told me you were happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "an",
+        "one",
+        "each"
+      ],
+      "usageExamples": [
+        [
+          "Volate fino a Londra.",
+          "Fly to London.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancavano i suoi amici.",
+          "Mary missed her friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said that she loved him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sarebbe",
+      "translations": [
+        "it would be",
+        "it would",
+        "it is supposed to be",
+        "it should be"
+      ],
+      "usageExamples": [
+        [
+          "Tom sarebbe dovuto venire alla riunione.",
+          "Tom should've come to the meeting.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Tom sarebbe piaciuto quello che avete fatto.",
+          "Tom would've liked what you did.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sua madre sarebbe fiera di lei.",
+          "Your mother would be proud of you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "stato",
+      "translations": [
+        "state",
+        "status",
+        "condition",
+        "situation"
+      ],
+      "usageExamples": [
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato scaricato.",
+          "He was dumped.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Berlino c'è già stato.",
+          "You've already been to Berlin.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "libero",
+      "translations": [
+        "free",
+        "to free",
+        "to liberate",
+        "liberated"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "domani",
+      "translations": [
+        "tomorrow",
+        "next day",
+        "the following day"
+      ],
+      "usageExamples": [
+        [
+          "Io intendo andare a Kumamoto domani per trovare il signor Aoi.",
+          "I plan to go to Kumamoto tomorrow to see Mr. Aoi.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Dio piacendo, lo farò domani.",
+          "God willing, I will do it tomorrow.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Andrò in biblioteca con te domani.",
+          "I'll go to the library with you tomorrow.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

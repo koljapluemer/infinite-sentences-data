@@ -1,53 +1,102 @@
 {
-  "sentence": "Stai facendo progressi.",
+  "sentence": "Stavo per aiutare Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're making progress."
+    "I was going to help Tom."
   ],
   "parts": [
     {
-      "content": "Stai",
+      "content": "Stavo",
       "translations": [
-        "You are",
-        "Stay.",
-        "Be",
-        "Remain"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "facendo",
-      "translations": [
-        "doing",
-        "making",
-        "performing",
-        "executing"
+        "I was",
+        "I used to be",
+        "I was being"
       ],
       "usageExamples": [
         [
-          "Mi sto facendo ricrescere la barba.",
-          "I'm growing a beard again.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Faresti meglio ad andare. Si sta facendo tardi.",
-          "You'd better go. It's getting late.",
+          "Stavo pensando di arruolarmi nell'esercito.",
+          "I was thinking about joining the army.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "progressi",
+      "content": "per",
       "translations": [
-        "progress",
-        "advancements",
-        "developments",
-        "improvements"
+        "for",
+        "by",
+        "through"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sei speciale per me.",
+          "You're special to me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aiutare",
+      "translations": [
+        "to help",
+        "to assist",
+        "to aid",
+        "to support"
+      ],
+      "usageExamples": [
+        [
+          "Li vada ad aiutare.",
+          "Go help them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voi conoscete qualcuno che possa aiutare?",
+          "Do you know someone who can help?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

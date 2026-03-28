@@ -1,35 +1,76 @@
 {
-  "sentence": "Era un libro nuovo.",
+  "sentence": "Essendo rimasto ferito in un incidente, non poteva camminare.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ilayde (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It was a new book."
+    "Being injured in an accident, he could not walk."
   ],
   "parts": [
     {
-      "content": "Era",
+      "content": "Essendo",
       "translations": [
-        "Period",
-        "Age",
-        "Epoch"
+        "Being",
+        "As being",
+        "Since being",
+        "In being"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "rimasto",
+      "translations": [
+        "remained",
+        "stayed",
+        "left",
+        "stayed behind"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ferito",
+      "translations": [
+        "wounded",
+        "injured",
+        "hurt",
+        "damaged"
       ],
       "usageExamples": [
         [
-          "Era occupato ieri?",
-          "Were you busy yesterday?",
+          "Mi scuso se ho ferito i suoi sentimenti.",
+          "I apologize if I hurt your feelings.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era in ritardo.",
-          "He was late.",
+          "Jimmy è stato ferito in un incidente stradale.",
+          "Jimmy was hurt in a traffic accident.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "in",
+      "translations": [
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "È stata in piedi?",
+          "Did you stand up?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era eccellente.",
-          "You were excellent.",
+          "Chi lavora in quell'ufficio?",
+          "Who works in that office?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Domani andiamo in montagna.",
+          "Tomorrow we'll go to the mountains.",
+          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -43,69 +84,90 @@
       "usageExamples": [
         [
           "Beviamo un'altra birra.",
-          "Let's drink another beer.",
+          "Let's have another beer.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
+          "Sei un testimone.",
+          "You are a witness.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È un portiere.",
-          "He's a goal keeper.",
+          "Chiamate un'ambulanza!",
+          "Call an ambulance!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "libro",
+      "content": "incidente",
       "translations": [
-        "book",
-        "volume",
-        "tome",
-        "publication"
+        "incident",
+        "accident",
+        "event",
+        "occurrence"
       ],
       "usageExamples": [
         [
-          "È un nuovo libro.",
-          "It's a new book.",
+          "Tom decise di rinunciare ad andare in skateboard dopo il suo incidente.",
+          "Tom decided to give up skateboarding after his accident.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tu comprendi quel libro.",
-          "You understand that book.",
+          "Jimmy è stato ferito in un incidente stradale.",
+          "Jimmy was hurt in a traffic accident.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il libro è arrivato.",
-          "The book came.",
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nuovo",
+      "content": "poteva",
       "translations": [
-        "new",
-        "novel",
-        "fresh",
-        "recent"
+        "could",
+        "was able to",
+        "might have been able to",
+        "was possible to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "camminare",
+      "translations": [
+        "to walk",
+        "walking",
+        "to stroll",
+        "to hike"
       ],
       "usageExamples": [
         [
-          "È un nuovo libro.",
-          "It's a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piace il suo nuovo impiego.",
-          "Mary doesn't like her new job.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piace il suo nuovo lavoro.",
-          "Mary doesn't like her new job.",
+          "Guardai John e Mary camminare mano nella mano.",
+          "I watched John and Mary walking hand in hand.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

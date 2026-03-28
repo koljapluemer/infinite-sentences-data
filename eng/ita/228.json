@@ -1,64 +1,73 @@
 {
-  "sentence": "Conosce i cavalli.",
+  "sentence": "Cosa avete consigliato?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He knows horses."
+    "What did you recommend?"
   ],
   "parts": [
     {
-      "content": "Conosce",
+      "content": "Cosa",
       "translations": [
-        "He/She knows",
-        "You know",
-        "It is known",
-        "They know"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
+      ],
+      "usageExamples": [
+        [
+          "Cosa capiterà a loro?",
+          "What'll happen to them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "avete",
+      "translations": [
+        "you have",
+        "you've got",
+        "are you having"
+      ],
+      "usageExamples": [
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete detto al capo?",
+          "What did you say to the boss?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "consigliato",
+      "translations": [
+        "recommended",
+        "advised",
+        "suggested",
+        "endorsed"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
-      ],
-      "usageExamples": [
-        [
-          "Questo articolo ridicolizza i vegetariani.",
-          "This article makes fun of vegetarians.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Si sta lavando i capelli.",
-          "He's washing his hair.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cavalli",
-      "translations": [
-        "horses",
-        "stallions",
-        "cavalry",
-        "equines"
-      ],
-      "usageExamples": [
-        [
-          "A Hokkaido fanno cavalli di paglia.",
-          "In Hokkaido, they make horses of straw.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

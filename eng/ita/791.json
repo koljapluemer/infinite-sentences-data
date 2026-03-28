@@ -1,83 +1,151 @@
 {
-  "sentence": "Quanto spesso mangi pesce?",
+  "sentence": "Quelli sono i cani di Tom?",
   "credits": [
-    "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by pauldhunt (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How often do you eat fish?"
+    "Are those Tom dogs?",
+    "Are those Tom's dogs?"
   ],
   "parts": [
     {
-      "content": "Quanto",
+      "content": "Quelli",
       "translations": [
-        "How much",
-        "How many",
-        "To what extent",
-        "As much as"
+        "those",
+        "the ones",
+        "the people",
+        "the things"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sono",
+      "translations": [
+        "I am.",
+        "you are",
+        "they are",
+        "we are"
       ],
       "usageExamples": [
         [
-          "Quanto denaro ci dovete?",
-          "How much money do you owe us?",
+          "Tutte sono felici.",
+          "Everyone is happy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanto tempo ci è voluto per tradurre questo libro?",
-          "How long did it take us to translate this book?",
+          "Si sono sposati.",
+          "They got married.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanto è freddo il Canada?",
-          "How cold is Canada?",
+          "Io sono solo curiosa.",
+          "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "spesso",
+      "content": "i",
       "translations": [
-        "often",
-        "frequently",
-        "usually",
-        "repeatedly"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La saggezza spesso cresce con le esperienze che accumuli.",
-          "Wisdom often grows with the experiences you accumulate.",
+          "Solo il mio migliore amico capirebbe il mio amore per i servitori.",
+          "Only my best friend would understand my love for minions.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi piacciono le carte di credito. Preferisco i contanti.",
+          "I don't like credit cards. I prefer cash.",
           "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanto spesso ti viene a trovare Tom?",
-          "How often does Tom visit you?",
-          "Sentence from Tatoeba by mugnozzo (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mangi",
+      "content": "cani",
       "translations": [
-        "eat",
-        "to eat",
-        "eating"
+        "dogs",
+        "canines",
+        "pups",
+        "pooches"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Non accarezzo i vostri cani.",
+          "I don't pet your dogs.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, però non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, ma non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "pesce",
+      "content": "di",
       "translations": [
-        "fish",
-        "seafood",
-        "fishing catch",
-        "aquatic animal"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "L'abbiamo perso di vista.",
+          "We lost sight of him.",
+          "Sentence from Tatoeba by martin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Volete sentire di più?",
+          "Do you want to hear more?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Stavo per aiutare Tom.",
+          "I was going to help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

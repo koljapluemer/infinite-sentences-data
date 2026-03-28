@@ -1,117 +1,181 @@
 {
-  "sentence": "Es hieß, Tom würde vielleicht irgendwann diese Woche abreisen.",
+  "sentence": "Diese Arbeit mache ich ohne Bezahlung, einfach aus Lust an der Freude.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I hear Tom might leave sometime this week."
+    "I do this work for free, simply for the pleasure of doing it."
   ],
   "parts": [
     {
-      "content": "Es",
-      "translations": [
-        "It is",
-        "There is",
-        "He/She is"
-      ],
-      "usageExamples": [
-        [
-          "Es warten sehr viele Leute in der Schlange.",
-          "A lot of people are waiting in line.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "hieß",
-      "translations": [
-        "was called",
-        "was named"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Tom",
-        "Tommy"
-      ],
-      "usageExamples": [
-        [
-          "Hat Tom wirklich Maria geschlagen?",
-          "Did Tom really hit Mary?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Geht es Tom und Maria heute besser?",
-          "Are Tom and Mary any better today?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom hat nicht wirklich die Wahl.",
-          "Tom doesn't really have much choice.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "würde",
-      "translations": [
-        "would",
-        "might",
-        "should"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "vielleicht",
-      "translations": [
-        "maybe",
-        "perhaps",
-        "possibly",
-        "might be"
-      ],
-      "usageExamples": [
-        [
-          "Du mußt vielleicht noch ein bißchen in Australien bleiben.",
-          "You may have to stay in Australia a little longer.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "irgendwann",
-      "translations": [
-        "sometime",
-        "eventually",
-        "at some point"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "diese",
+      "content": "Diese",
       "translations": [
         "this",
         "these"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Diese beiden Probleme scheinen nichts miteinander zu tun zu haben.",
+          "These two problems appear unrelated.",
+          "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "Woche",
+      "content": "Arbeit",
       "translations": [
-        "week",
-        "seven days"
+        "work",
+        "job",
+        "labor",
+        "employment"
+      ],
+      "usageExamples": [
+        [
+          "Du wirst nicht in der Lage sein, mit dieser Arbeit fertig zu werden.",
+          "You won't be able to handle this job.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Die sieben Zwerge kamen, fröhlich singend und pfeifend, von der Arbeit im Bergwerk nach Hause, wo Schneewittchen bereits auf sie wartete. Es war in der Tat ein glückliches Leben, das sie alle zusammen führten.",
+          "I am whistling in my house.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mache",
+      "translations": [
+        "do",
+        "make",
+        "perform",
+        "execute"
+      ],
+      "usageExamples": [
+        [
+          "„Was machen wir denn, wenn die Müllabfuhr diese Woche nicht kommt?“ – „Darüber mache ich mir überhaupt keine Sorgen.“",
+          "Don't even worry about it.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ohne",
+      "translations": [
+        "without",
+        "lacking",
+        "absent",
+        "free of"
       ],
       "usageExamples": []
     },
     {
-      "content": "abreisen",
+      "content": "Bezahlung",
       "translations": [
-        "to depart",
-        "to leave",
-        "to set off",
-        "to take off"
+        "payment",
+        "remuneration",
+        "compensation",
+        "settlement"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "einfach",
+      "translations": [
+        "simple",
+        "easy",
+        "plain",
+        "just"
+      ],
+      "usageExamples": [
+        [
+          "Warum haben Sie Tom nicht einfach gesagt, daß er gehen soll?",
+          "Why didn't you just tell Tom to leave?",
+          "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aus",
+      "translations": [
+        "out",
+        "from",
+        "off",
+        "away"
+      ],
+      "usageExamples": [
+        [
+          "Wir haben vergessen, dass du Freunde aus dieser Stadt hast.",
+          "We forgot you have friends from that city.",
+          "Sentence from Tatoeba by mervert1 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom weinte immer, wenn seine Schwester ihm sein Spielzeug wegnahm, und aus ebendiesem Grunde tat sie das sehr gern.",
+          "Tom would cry if that happened.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Lust",
+      "translations": [
+        "desire",
+        "pleasure",
+        "craving",
+        "longing"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "an",
+      "translations": [
+        "to",
+        "at",
+        "on"
+      ],
+      "usageExamples": [
+        [
+          "Sie haben meinen Glauben an die Menschheit wiederhergestellt.",
+          "You have restored my faith in humanity.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Der Arzt hat gesagt, du sollst nicht an deinen Wunden kratzen!",
+          "The doctor said you shouldn't scratch your wounds.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "der",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Da aber Johannes im Gefängnis die Werke Christi hörte, sandte er seiner Jünger zwei und ließ ihm sagen: Bist du, der da kommen soll, oder sollen wir eines anderen warten?",
+          "Whoever has ears to hear, let him hear.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Was auch der Grund gewesen sein mag, sie haben nicht geheiratet.",
+          "For whatever reason, they didn't marry.",
+          "Sentence from Tatoeba by Esperantostern (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du wirst nicht in der Lage sein, mit dieser Arbeit fertig zu werden.",
+          "You won't be able to handle this job.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Freude",
+      "translations": [
+        "joy",
+        "pleasure",
+        "delight",
+        "happiness"
       ],
       "usageExamples": []
     }

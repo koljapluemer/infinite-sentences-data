@@ -1,11 +1,11 @@
 {
-  "sentence": "Ich will dir helfen.",
+  "sentence": "Ich wollte mich erinnern.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Size yardım etmek istiyorum."
+    "Ben hatırlamak istiyordum."
   ],
   "parts": [
     {
@@ -15,13 +15,13 @@
       ],
       "usageExamples": [
         [
-          "Ich bin verwirrt.",
-          "Benim kafam karıştı.",
+          "Ich suche meine Frau.",
+          "Karımı arıyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich bin in Teheran.",
-          "Tahran'dayım.",
+          "Ich bin verwirrt.",
+          "Benim kafam karıştı.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -32,32 +32,34 @@
       ]
     },
     {
-      "content": "will",
+      "content": "mich",
       "translations": [
-        "istiyor"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dir",
-      "translations": [
-        "Sana",
-        "Seni",
-        "dir",
-        "sana"
+        "beni"
       ],
       "usageExamples": [
         [
-          "Ich erlaube dir zu gehen.",
-          "Sana gitmen için izin veriyorum.",
+          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde.",
+          "Artık kimseye aşık olamayacağımı biliyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
-          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich fühle mich schlecht, wenn ich gute Noten schreibe.",
+          "İyi notlar aldığımda kendimi kötü hissediyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich interessiere mich sehr für Fußball.",
+          "Futbola çok ilgim var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "erinnern",
+      "translations": [
+        "hatırlamak"
+      ],
+      "usageExamples": []
     }
   ]
 }

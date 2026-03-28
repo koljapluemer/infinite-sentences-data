@@ -1,41 +1,48 @@
 {
-  "sentence": "Sprechen Sie Türkisch?",
+  "sentence": "Tom analysierte die Ergebnisse.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Türkçe konuşur musunuz?"
+    "Tom sonuçları analiz etti."
   ],
   "parts": [
     {
-      "content": "Sie",
+      "content": "Tom",
       "translations": [
-        "Sen",
-        "Sizlerin"
+        "Tom"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "die",
+      "translations": [
+        "bu",
+        "o"
       ],
       "usageExamples": [
         [
-          "Sie wollte das Geheimnis verraten.",
-          "O bu sırrı açık etmek istiyor.",
+          "Obwohl sie die Hausaufgaben noch nicht fertig hat, sieht sie fern.",
+          "Ödevlerini bitirmediği halde televizyon seyrediyor.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Sie hat eine Katze und zwei Hunde.",
-          "Onun bir kedisi ve iki köpeği var.",
+          "Ich habe die Zugfahrkarten vergessen.",
+          "Tren biletlerini unuttum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Sie tanzt mit einem anderen Mann.",
-          "O başka bir adamla dans ediyor.",
+          "Ich aß die grünen Äpfel.",
+          "Yeşil elmaları yedim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Türkisch",
+      "content": "Ergebnisse",
       "translations": [
-        "Türkçe"
+        "sonuçları"
       ],
       "usageExamples": []
     }

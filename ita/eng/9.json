@@ -1,58 +1,118 @@
 {
-  "sentence": "Tom may have done this.",
+  "sentence": "Mary said she'd never want to do that alone.",
   "credits": [
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom può avere fatto questo."
+    "Mary disse che non avrebbe mai voluto farlo da sola.",
+    "Mary ha detto che non avrebbe mai voluto farlo da sola."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Mary",
       "translations": [
-        "Tom",
-        "Tommy"
+        "Maria",
+        "Marie",
+        "Marika"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "said",
+      "translations": [
+        "detto",
+        "disse"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "she'd",
+      "translations": [
+        "lei avrebbe",
+        "lei sarebbe"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "never",
+      "translations": [
+        "mai",
+        "non"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "want",
+      "translations": [
+        "volere",
+        "desiderare"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "to",
+      "translations": [
+        "ad",
+        "alla",
+        "allo",
+        "per",
+        "da"
       ],
       "usageExamples": [
         [
-          "Tom was indecisive.",
-          "Tom era indeciso.",
+          "Everyone is welcome to come.",
+          "Sono tutti i benvenuti a venire.",
+          "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+        ],
+        [
+          "I have been to Rome.",
+          "Io sono stato a Roma.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "do",
+      "translations": [
+        "fare",
+        "eseguire",
+        "compiere",
+        "realizzare"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "that",
+      "translations": [
+        "che",
+        "chi",
+        "ciò",
+        "il",
+        "la",
+        "lo",
+        "quel",
+        "quell'",
+        "quella",
+        "quello",
+        "qui",
+        "sa"
+      ],
+      "usageExamples": [
+        [
+          "Tom told everybody that he was interested.",
+          "Tom ha detto a tutti che era interessato.",
           "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "may",
+      "content": "alone",
       "translations": [
-        "può"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "have",
-      "translations": [
-        "avere",
-        "possedere"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "done",
-      "translations": [
-        "fatto",
-        "completato",
-        "eseguito"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "this",
-      "translations": [
-        "questo",
-        "questa",
-        "questi",
-        "queste"
+        "Solo",
+        "sola",
+        "soli",
+        "solo"
       ],
       "usageExamples": []
     }

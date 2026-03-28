@@ -1,62 +1,112 @@
 {
-  "sentence": "Ich habe das Handtuch vergessen.",
+  "sentence": "Dieses neue Medikament kann bei deiner Gesundung helfen.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ddnktr (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I forgot my towel."
+    "This new medicine may aid your recovery."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "dieses",
       "translations": [
-        "I"
+        "this",
+        "these"
       ],
       "usageExamples": [
         [
-          "Ich bin Ihnen nie persönlich begegnet.",
-          "I've never met you in person.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Meine Eltern werden dieses Wochenende nicht zuhause sein.",
+          "My parents won't be at home this weekend.",
+          "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst dieses Wort nicht in meinem Land sagen.",
+          "You can't say that word in my country!",
+          "Sentence from Tatoeba by bonny37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wir können froh sein, wenn wir dieses Jahr auf einem mittleren Tabellenplatz landen.",
+          "We'll be lucky to finish mid-table this year.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "habe",
+      "content": "neue",
       "translations": [
-        "have",
-        "to have"
+        "new",
+        "novel",
+        "fresh",
+        "recent"
       ],
       "usageExamples": []
     },
     {
-      "content": "das",
+      "content": "Medikament",
       "translations": [
-        "of the",
-        "from the",
-        "the"
+        "medication",
+        "medicine",
+        "drug"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bei",
+      "translations": [
+        "at",
+        "by",
+        "with",
+        "near"
       ],
       "usageExamples": [
         [
-          "Das ist das beste Restaurant, das ich kenne.",
-          "This is the best restaurant that I know of.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Du kannst nicht vorsichtig genug bei der Wahl deiner Freunde sein.",
+          "You cannot be too careful in choosing friends.",
+          "Sentence from Tatoeba by Zaghawa (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Handtuch",
+      "content": "deiner",
       "translations": [
-        "towel",
-        "hand towel"
+        "yours",
+        "your"
+      ],
+      "usageExamples": [
+        [
+          "Warum hast du mich von deiner Freundesliste runtergeschmissen?",
+          "Why did you unfriend me?",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Willst du wirklich Tom in deiner Mannschaft haben?",
+          "Do you really want Tom on your team?",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Willst du wirklich Maria in deiner Mannschaft haben?",
+          "Do you really want Mary in your team?",
+          "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Gesundung",
+      "translations": [
+        "healing",
+        "recovery",
+        "convalescence"
       ],
       "usageExamples": []
     },
     {
-      "content": "vergessen",
+      "content": "helfen",
       "translations": [
-        "to forget",
-        "forgotten"
+        "to help",
+        "to assist",
+        "to aid",
+        "to support"
       ],
       "usageExamples": []
     }

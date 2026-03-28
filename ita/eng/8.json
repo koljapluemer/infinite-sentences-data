@@ -1,40 +1,75 @@
 {
-  "sentence": "They call her Lena.",
+  "sentence": "I'm not a hipster.",
   "credits": [
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "La chiamano Lena."
+    "Non sono un hipster.",
+    "Non sono una hipster."
   ],
   "parts": [
     {
-      "content": "They",
+      "content": "I",
       "translations": [
-        "loro",
-        "essi"
+        "Io",
+        "Mi",
+        "io"
+      ],
+      "usageExamples": [
+        [
+          "Tell him I'm coming back.",
+          "Ditegli che sto tornando.",
+          "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+        ],
+        [
+          "I have been to Rome.",
+          "Sono stato a Roma.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
+        ],
+        [
+          "I already told you no.",
+          "Le ho già detto di no.",
+          "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "am",
+      "translations": [
+        "sono",
+        "sto"
+      ],
+      "usageExamples": [
+        [
+          "Tell him I'm coming back.",
+          "Ditegli che sto tornando.",
+          "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "not",
+      "translations": [
+        "non",
+        "no"
       ],
       "usageExamples": []
     },
     {
-      "content": "call",
+      "content": "a",
       "translations": [
-        "chiamata"
+        "una",
+        "un"
       ],
       "usageExamples": []
     },
     {
-      "content": "her",
+      "content": "hipster",
       "translations": [
-        "lei",
-        "sua"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Lena",
-      "translations": [
-        "Lena"
+        "hipster",
+        "alternativo",
+        "modaiolo"
       ],
       "usageExamples": []
     }

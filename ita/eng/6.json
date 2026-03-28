@@ -1,12 +1,13 @@
 {
-  "sentence": "I'm not a hipster.",
+  "sentence": "I already told you no.",
   "credits": [
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Non sono un hipster.",
-    "Non sono una hipster."
+    "Le ho già detto di no.",
+    "Ti ho già detto di no.",
+    "Vi ho già detto di no."
   ],
   "parts": [
     {
@@ -18,48 +19,67 @@
       ],
       "usageExamples": [
         [
+          "I'm not a hipster.",
+          "Non sono una hipster.",
+          "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+        ],
+        [
           "Tell him I'm coming back.",
-          "Ditegli che sto tornando.",
+          "Gli dica che sto tornando.",
           "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+        ],
+        [
+          "I have been to Rome.",
+          "Sono stato a Roma.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "am",
+      "content": "already",
       "translations": [
-        "sono",
-        "sto"
+        "già",
+        "ormai"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "told",
+      "translations": [
+        "disse"
       ],
       "usageExamples": [
         [
-          "Tell him I'm coming back.",
-          "Ditegli che sto tornando.",
-          "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+          "Tom told everybody that he was interested.",
+          "Tom disse a tutti che era interessato.",
+          "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "not",
+      "content": "you",
       "translations": [
-        "non",
-        "no"
+        "tu",
+        "lei"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Do you live here?",
+          "Vivete qui?",
+          "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+        ],
+        [
+          "What are you dreaming with your mouth open?",
+          "Cosa sogni con la bocca aperta?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "a",
+      "content": "no",
       "translations": [
-        "una",
-        "un"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "hipster",
-      "translations": [
-        "hipster",
-        "alternativo",
-        "modaiolo"
+        "ne",
+        "non"
       ],
       "usageExamples": []
     }

@@ -1,11 +1,11 @@
 {
-  "sentence": "เธอเกือบจะถูกรถชน",
+  "sentence": "เธอขวางทางฉันอยู่",
   "credits": [
-    "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Spanger (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She was almost hit by a car."
+    "You are in my way."
   ],
   "parts": [
     {
@@ -16,98 +16,103 @@
       ],
       "usageExamples": [
         [
+          "เธอชอบแจ๊สและฉันก็เช่นกัน",
+          "She likes jazz, and so do I.",
+          "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+        ],
+        [
           "ฉันรู้ว่าเธออยู่ที่ไหน",
           "I know where she is.",
           "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
         ],
         [
-          "เธอขวางทางฉันอยู่",
-          "You are in my way.",
-          "Sentence from Tatoeba by Spanger (CC-BY 2.0 FR)"
-        ],
-        [
-          "เธอชอบแจ๊สและฉันก็เช่นกัน",
-          "She likes jazz, and so do I.",
+          "เธออยู่ในโรงพยาบาลมาแล้วหนึ่งเดือน",
+          "She's been in the hospital for a month.",
           "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
         ]
       ],
       "transcription": "thoe"
     },
     {
-      "content": "เกือบ",
+      "content": "ขวาง",
       "translations": [
-        "almost",
-        "nearly",
-        "close to",
-        "just about"
+        "block",
+        "obstruct",
+        "interfere",
+        "hinder"
       ],
       "usageExamples": [],
-      "transcription": "kueap"
+      "transcription": "khwang"
     },
     {
-      "content": "จะ",
+      "content": "ทาง",
       "translations": [
-        "will",
-        "going to",
-        "shall"
+        "way",
+        "path",
+        "route",
+        "method"
       ],
       "usageExamples": [
         [
-          "ฉันคิดว่าเขาจะไม่กลับมา",
-          "I think he will never come back.",
+          "คุณกำลังไปในทางที่ผิด",
+          "You're going the wrong way.",
+          "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+        ]
+      ],
+      "transcription": "thang"
+    },
+    {
+      "content": "ฉัน",
+      "translations": [
+        "I",
+        "me"
+      ],
+      "usageExamples": [
+        [
+          "ฉันได้ยินว่าคุณกำลังคิดที่จะลาออก",
+          "I heard you were thinking of resigning.",
+          "Sentence from Tatoeba by Somsak (CC-BY 2.0 FR)"
+        ],
+        [
+          "ฉันไม่รู้ว่าเขาจะมาเมื่อไหร่",
+          "I don't know when he's coming.",
           "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
         ],
+        [
+          "มีใครสามารถบอกฉันได้มั้ยว่าแป้นพิมพ์อยู่ที่ไหน?",
+          "Can someone tell me where the keyboard is?",
+          "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+        ]
+      ],
+      "transcription": "chan"
+    },
+    {
+      "content": "อยู่",
+      "translations": [
+        "to be",
+        "to stay",
+        "to live",
+        "to exist"
+      ],
+      "usageExamples": [
         [
           "ฉันจะอยู่ที่นี่สักพัก",
           "I'll stay here for a bit.",
           "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
         ],
         [
-          "ถ้าคุณไม่ประพฤติตามซานต้าก็จะไม่มา",
-          "If you don't behave, Santa won't come.",
+          "สามีเก่าของฉันไม่อาศัยอยู่ในเมืองนี้อีกต่อไป",
+          "My ex-husband no longer lives in this city.",
           "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
-        ]
-      ],
-      "transcription": "cha"
-    },
-    {
-      "content": "ถูก",
-      "translations": [
-        "correct",
-        "right",
-        "cheap",
-        "to be hit"
-      ],
-      "usageExamples": [
+        ],
         [
-          "มนุษย์ทุกคนเกิดมาอิสระและเท่าเทียมกันในเกียรติและสิทธิ์ พวกเขาถูกมอบด้วยเหตุผลและมโนธรรมและควรปฏิบัติต่อกันและกันด้วยจิตวิญญาณแห่งพี่น้อ",
-          "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.",
-          "Sentence from Tatoeba by kanacan (CC-BY 2.0 FR)"
+          "เราทุกคนอยู่ในหอพักเดียวกัน",
+          "We all live in the same dormitory.",
+          "Sentence from Tatoeba by Somsak (CC-BY 2.0 FR)"
         ]
       ],
-      "transcription": "thuk"
-    },
-    {
-      "content": "รถ",
-      "translations": [
-        "car",
-        "vehicle",
-        "automobile"
-      ],
-      "usageExamples": [],
-      "transcription": "rot"
-    },
-    {
-      "content": "ชน",
-      "translations": [
-        "hit",
-        "collide",
-        "bump",
-        "crash"
-      ],
-      "usageExamples": [],
-      "transcription": "chon"
+      "transcription": "yu"
     }
   ],
-  "transcription": "thoekueapchathukrathachon"
+  "transcription": "thoekhwangthangchanyu"
 }

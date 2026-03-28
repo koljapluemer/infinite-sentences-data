@@ -1,76 +1,306 @@
 {
-  "sentence": "Schreibt es in eurer Sprache!",
+  "sentence": "Du kannst ihr sagen, dass sie sich keine Sorgen zu machen braucht.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Write it in your language!"
+    "You can tell her not to worry."
   ],
   "parts": [
     {
-      "content": "Schreibt",
+      "content": "Du",
       "translations": [
-        "writes",
-        "is writing",
-        "write"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "es",
-      "translations": [
-        "it",
-        "there",
-        "this"
+        "you",
+        "thou"
       ],
       "usageExamples": [
         [
-          "Geht es Tom und Maria heute besser?",
-          "Are Tom and Mary any better today?",
+          "Du kannst Tom sagen, dass er sich keine Sorgen zu machen braucht.",
+          "You can tell Tom not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst nicht vorsichtig genug bei der Wahl deiner Freunde sein.",
+          "You cannot be too careful in choosing friends.",
+          "Sentence from Tatoeba by Zaghawa (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst ihm sagen, dass sie sich keine Sorgen zu machen braucht.",
+          "You can tell him not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "kannst",
+      "translations": [
+        "can",
+        "are able to",
+        "may",
+        "might"
+      ],
+      "usageExamples": [
+        [
+          "Du kannst ihm sagen, dass sie sich keine Sorgen zu machen braucht.",
+          "You can tell him not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst Tom sagen, dass er sich keine Sorgen zu machen braucht.",
+          "You can tell Tom not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst dieses Wort nicht in meinem Land sagen.",
+          "You can't say that word in my country!",
+          "Sentence from Tatoeba by bonny37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ihr",
+      "translations": [
+        "you (plural)",
+        "you (informal plural)",
+        "your (plural)"
+      ],
+      "usageExamples": [
+        [
+          "Kaufe nicht mehr, als ihr braucht!",
+          "Don't buy more than you need.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "in",
+      "content": "sagen",
       "translations": [
-        "in"
+        "to say",
+        "to tell",
+        "to state",
+        "to express",
+        "Tell"
       ],
       "usageExamples": [
         [
-          "Bist du in Boston aufgewachsen?",
-          "Did you grow up in Boston?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Du kannst dieses Wort nicht in meinem Land sagen.",
+          "You can't say that word in my country!",
+          "Sentence from Tatoeba by bonny37 (CC-BY 2.0 FR)"
         ],
         [
-          "Es warten sehr viele Leute in der Schlange.",
-          "A lot of people are waiting in line.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Da aber Johannes im Gefängnis die Werke Christi hörte, sandte er seiner Jünger zwei und ließ ihm sagen: Bist du, der da kommen soll, oder sollen wir eines anderen warten?",
+          "Whoever has ears to hear, let him hear.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
         ],
         [
-          "Du mußt vielleicht noch ein bißchen in Australien bleiben.",
-          "You may have to stay in Australia a little longer.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Ich habe nicht gesagt, dass du nicht deine Meinung sagen kannst.",
+          "I didn't say that I wanted your opinion.",
+          "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "eurer",
+      "content": "dass",
       "translations": [
-        "your",
-        "yours"
+        "that",
+        "so that",
+        "in order that"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Du kannst ihm sagen, dass sie sich keine Sorgen zu machen braucht.",
+          "You can tell him not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich kann nicht glauben, dass ich in diesem Jahr meinen Abschluss machen werde.",
+          "I can't believe I'm graduating this year.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es weiß ja keiner, dass du hier bist. Sorge dich also nicht!",
+          "Nobody knows that you're here, so don't worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "Sprache",
+      "content": "sie",
       "translations": [
-        "language",
-        "speech",
-        "tongue"
+        "they",
+        "she",
+        "They"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Wir haben nicht damit gerechnet, dass sie sich ein neues Auto kaufen würden.",
+          "We didn't anticipate their buying a new car.",
+          "Sentence from Tatoeba by jxan (CC-BY 2.0 FR)"
+        ],
+        [
+          "Was auch der Grund gewesen sein mag, sie haben nicht geheiratet.",
+          "For whatever reason, they didn't marry.",
+          "Sentence from Tatoeba by Esperantostern (CC-BY 2.0 FR)"
+        ],
+        [
+          "Von Schimpansen sind Fälle bekannt, wo sie ihre Halter übel zugerichtet haben.",
+          "Chimpanzees have been known to maul their owners.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sich",
+      "translations": [
+        "oneself",
+        "to oneself",
+        "himself",
+        "herself"
+      ],
+      "usageExamples": [
+        [
+          "Opa hat sich heute zum Nachtisch Grießbrei gewünscht.",
+          "Grandad asked for semolina for dessert today.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst Tom sagen, dass er sich keine Sorgen zu machen braucht.",
+          "You can tell Tom not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Setzen Sie sich mit meinem Assistenten in Verbindung, wenn Sie Fragen haben.",
+          "Contact my assistant if you have any questions.",
+          "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "keine",
+      "translations": [
+        "none",
+        "no",
+        "not any",
+        "nothing"
+      ],
+      "usageExamples": [
+        [
+          "1 ist keine Primzahl.",
+          "One is not a prime number.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "„Was machen wir denn, wenn die Müllabfuhr diese Woche nicht kommt?“ – „Darüber mache ich mir überhaupt keine Sorgen.“",
+          "Don't even worry about it.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst Tom sagen, dass er sich keine Sorgen zu machen braucht.",
+          "You can tell Tom not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Sorgen",
+      "translations": [
+        "worries",
+        "concerns",
+        "anxieties",
+        "troubles"
+      ],
+      "usageExamples": [
+        [
+          "Du kannst ihm sagen, dass sie sich keine Sorgen zu machen braucht.",
+          "You can tell him not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "„Was machen wir denn, wenn die Müllabfuhr diese Woche nicht kommt?“ – „Darüber mache ich mir überhaupt keine Sorgen.“",
+          "Don't even worry about it.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst Tom sagen, dass er sich keine Sorgen zu machen braucht.",
+          "You can tell Tom not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "zu",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Ich hatte immer Schwierigkeiten damit, mir meinen Lebensunterhalt zu verdienen.",
+          "I always had trouble earning a living.",
+          "Sentence from Tatoeba by Melang (CC-BY 2.0 FR)"
+        ],
+        [
+          "Was du nicht willst, dass man dir tu, das füg auch keinem andern zu.",
+          "Do as you would be done by.",
+          "Sentence from Tatoeba by cburgmer (CC-BY 2.0 FR)"
+        ],
+        [
+          "Menschen mit einem geringen Selbstwertgefühl können nicht damit umgehen, niedergemacht zu werden.",
+          "People with low self-esteem can't handle being dissed.",
+          "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "machen",
+      "translations": [
+        "to make",
+        "to do",
+        "Do"
+      ],
+      "usageExamples": [
+        [
+          "Du kannst ihm sagen, dass sie sich keine Sorgen zu machen braucht.",
+          "You can tell him not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bitte machen Sie den schmutzigen Fußboden sauber.",
+          "Please clean the dirty floor.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst Tom sagen, dass er sich keine Sorgen zu machen braucht.",
+          "You can tell Tom not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "braucht",
+      "translations": [
+        "needs",
+        "requires",
+        "needs to",
+        "has to"
+      ],
+      "usageExamples": [
+        [
+          "Du kannst ihm sagen, dass sie sich keine Sorgen zu machen braucht.",
+          "You can tell him not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Kaufe nicht mehr, als ihr braucht!",
+          "Don't buy more than you need.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst Tom sagen, dass er sich keine Sorgen zu machen braucht.",
+          "You can tell Tom not to worry.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

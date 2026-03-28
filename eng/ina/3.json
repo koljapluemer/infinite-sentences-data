@@ -1,34 +1,69 @@
 {
-  "sentence": "Tu deberea dormir.",
+  "sentence": "Isto es perque tu es un puera.",
   "credits": [
     "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should sleep."
+    "That's because you're a girl."
   ],
   "parts": [
     {
-      "content": "Tu",
+      "content": "Isto",
       "translations": [
-        "You",
-        "Your"
+        "This",
+        "It"
       ],
       "usageExamples": []
     },
     {
-      "content": "deberea",
+      "content": "es",
       "translations": [
-        "should",
-        "ought to"
+        "is",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Mi nomine es Jack.",
+          "My name is Jack.",
+          "Sentence from Tatoeba by Scriptor (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu es in melior forma que io.",
+          "You're in better shape than I am.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "perque",
+      "translations": [
+        "because",
+        "for that reason"
       ],
       "usageExamples": []
     },
     {
-      "content": "dormir",
+      "content": "tu",
       "translations": [
-        "to sleep",
-        "sleep"
+        "you",
+        "your"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "un",
+      "translations": [
+        "a",
+        "one"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "puera",
+      "translations": [
+        "boy",
+        "child"
       ],
       "usageExamples": []
     }

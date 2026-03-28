@@ -1,44 +1,56 @@
 {
-  "sentence": "וואו איז דער באדצימער?",
+  "sentence": "וואָס האָט איר געקויפֿט?",
   "credits": [
-    "Sentence from Tatoeba by negativeclock (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by brauliobezerra (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Where is the bathroom?"
+    "What did you buy?"
   ],
   "parts": [
     {
-      "content": "וואו",
+      "content": "וואָס",
       "translations": [
-        "where",
-        "where at",
-        "where to"
+        "what",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "אַ גוטן טאָג! װאָס מאַכסטו?",
+          "Hi! How are you?",
+          "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "האָט",
+      "translations": [
+        "has",
+        "have",
+        "there is",
+        "there are"
       ],
       "usageExamples": []
     },
     {
-      "content": "איז",
+      "content": "איר",
       "translations": [
-        "is",
-        "to be"
+        "you",
+        "your"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "צי זענט איר אַ יאַפּאַנערקע?",
+          "Are you Japanese?",
+          "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "דער",
+      "content": "געקויפֿט",
       "translations": [
-        "the",
-        "that"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "באדצימער",
-      "translations": [
-        "bathroom",
-        "restroom",
-        "washroom"
+        "bought",
+        "purchased"
       ],
       "usageExamples": []
     }

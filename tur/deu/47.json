@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom bleibt in Boston.",
+  "sentence": "Tom hat Mary heute gesehen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom Boston'da kalıyor."
+    "Bugün Tom, Mary'yi gördü."
   ],
   "parts": [
     {
@@ -16,44 +16,56 @@
       "usageExamples": []
     },
     {
-      "content": "bleibt",
+      "content": "hat",
       "translations": [
-        "kaldı",
-        "kalıyor"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "dans",
-        "en",
-        "içerisinde"
+        "var",
+        "sahip",
+        "bulunmak"
       ],
       "usageExamples": [
         [
-          "Ich bin in Teheran.",
-          "Tahran'dayım.",
+          "Tom hat viel Zeit.",
+          "Tom'un çok zamanı var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Wie geht es in der Schule?",
-          "Okul nasıl gidiyor?",
+          "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt.",
+          "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Boston",
+      "content": "Mary",
       "translations": [
-        "Boston"
+        "Mary'yi"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "gesehen",
+      "translations": [
+        "görüldü",
+        "görmek",
+        "göründü"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe Tom seit gestern nicht gesehen.",
+          "Dünden beri Tom'u görmedim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe sie gestern gesehen.",
+          "Dün onu gördüm.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

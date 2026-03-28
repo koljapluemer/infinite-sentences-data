@@ -1,68 +1,74 @@
 {
-  "sentence": "Ich bin Ihnen nie persönlich begegnet.",
+  "sentence": "Dieses Buch handelt von China.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by adjusting (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've never met you in person."
+    "This book is about China."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Dieses",
       "translations": [
-        "I"
+        "this",
+        "these"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Buch",
+      "translations": [
+        "book",
+        "volume"
       ],
       "usageExamples": [
         [
-          "Ich habe das Handtuch vergessen.",
-          "I forgot my towel.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Ich glaube, dass deiner Schwester dieses Buch gefallen wird.",
+          "I think your sister will like this book.",
+          "Sentence from Tatoeba by eric2 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bin",
+      "content": "handelt",
       "translations": [
-        "I am.",
-        "I exist.",
-        "I am here."
+        "acts",
+        "deals",
+        "trades",
+        "operates"
       ],
       "usageExamples": []
     },
     {
-      "content": "Ihnen",
+      "content": "von",
       "translations": [
-        "you (formal)",
-        "to you (formal)",
-        "your (formal)"
+        "of",
+        "from"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Wir haben von diesen Voraussetzungen abgesehen, damit Sie Ihren Abschluss machen können.",
+          "We waived those requirements so you can graduate.",
+          "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Die sieben Zwerge kamen, fröhlich singend und pfeifend, von der Arbeit im Bergwerk nach Hause, wo Schneewittchen bereits auf sie wartete. Es war in der Tat ein glückliches Leben, das sie alle zusammen führten.",
+          "I am whistling in my house.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ist von den Freunden deines Bruders noch irgendeiner zu haben?",
+          "Are any of your brother's friends single?",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "nie",
+      "content": "China",
       "translations": [
-        "never",
-        "not ever"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "persönlich",
-      "translations": [
-        "personal",
-        "in person",
-        "personally"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "begegnet",
-      "translations": [
-        "encountered",
-        "met",
-        "came across",
-        "faced"
+        "China",
+        "People's Republic of China"
       ],
       "usageExamples": []
     }

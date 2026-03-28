@@ -1,11 +1,11 @@
 {
-  "sentence": "Hast du Maria umgebracht?",
+  "sentence": "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary'yi öldürdün mü?"
+    "Sen, hatalarını kabul etmen gerektiğini söyledin mi?"
   ],
   "parts": [
     {
@@ -17,8 +17,8 @@
       ],
       "usageExamples": [
         [
-          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
-          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -31,45 +31,109 @@
       ],
       "usageExamples": [
         [
-          "Wen liebst du?",
-          "Kimi seviyorsun?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "Magst du Sport?",
           "Spor sever misin?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich werde nicht fragen, warum du das willst.",
-          "Bunu neden istediğini sormayacağım.",
+          "Wen liebst du?",
+          "Kimi seviyorsun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Maria",
+      "content": "gesagt",
       "translations": [
-        "Mary'yi",
-        "Mary"
+        "söyledi",
+        "denildi"
       ],
       "usageExamples": [
         [
-          "Maria nimmt Ballettunterricht.",
-          "Mary bale dersleri alıyor.",
+          "Ich habe nicht verstanden, was er gesagt hat.",
+          "Onun ne dediğini anlayamadım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Maria dirigierte das Orchester mit einem Taktstock.",
-          "Mary bir baton kullanarak orkestrayı yönetti.",
+          "Tom hat gesagt, dass er in Australien ist.",
+          "Tom, Avustralya'da olduğunu söyledi.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Maria interessiert sich für Politik.",
-          "Mary politika ile ilgilenir.",
+          "Tom hat mir genau das Gegenteil gesagt.",
+          "Tom bana tam tersini söylemişti.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "dass",
+      "translations": [
+        "ki",
+        "şu ki"
+      ],
+      "usageExamples": [
+        [
+          "Sie behaupten also, dass ich lüge.",
+          "Yani yalan söylediğimi iddia ediyorsunuz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich kann euch garantieren, dass ich alles erledigen werde.",
+          "Size hepsini halledeceğimin garantisini verebilirim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich dachte, dass wir es tun konnten.",
+          "Bunu yapabileceğimizi düşündüm.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "deine",
+      "translations": [
+        "nin",
+        "senin",
+        "Senin"
+      ],
+      "usageExamples": [
+        [
+          "Wo ist deine Mama?",
+          "Annen nerede?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Fehler",
+      "translations": [
+        "hata",
+        "yanlış",
+        "kusur",
+        "defo"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "akzeptieren",
+      "translations": [
+        "kabul"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sollst",
+      "translations": [
+        "gerekmek",
+        "zorundasın"
+      ],
+      "usageExamples": []
     }
   ]
 }

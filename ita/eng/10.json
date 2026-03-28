@@ -1,47 +1,86 @@
 {
-  "sentence": "Tom was indecisive.",
+  "sentence": "Tell him I'm coming back.",
   "credits": [
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom era indeciso."
+    "Digli che sto tornando.",
+    "Ditegli che sto tornando.",
+    "Gli dica che sto tornando."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Tell",
       "translations": [
-        "Tom",
-        "Tommy"
+        "dire",
+        "raccontare",
+        "informare",
+        "avvisare"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "him",
+      "translations": [
+        "lui",
+        "lo"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "I",
+      "translations": [
+        "Io",
+        "Mi",
+        "io"
       ],
       "usageExamples": [
         [
-          "Tom may have done this.",
-          "Tom può avere fatto questo.",
-          "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+          "I'm not a hipster.",
+          "Non sono una hipster.",
+          "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+        ],
+        [
+          "I already told you no.",
+          "Vi ho già detto di no.",
+          "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
+        ],
+        [
+          "I have been to Rome.",
+          "Io sono stato a Roma.",
+          "Sentence from Tatoeba by saeb (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "was",
+      "content": "am",
       "translations": [
-        "era",
-        "è stato",
-        "fu"
+        "sono",
+        "sto"
       ],
       "usageExamples": [
         [
-          "His expression was neutral, leaving me puzzled.",
-          "La sua espressione era neutra, lasciandomi perplesso.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "I'm not a hipster.",
+          "Non sono un hipster.",
+          "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "indecisive",
+      "content": "coming",
       "translations": [
-        "indeciso",
-        "indecisa"
+        "venendo",
+        "arrivando"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "back",
+      "translations": [
+        "indietro",
+        "retro",
+        "schiena"
       ],
       "usageExamples": []
     }

@@ -1,44 +1,38 @@
 {
-  "sentence": "Wenn Tom kommt, gehe ich.",
+  "sentence": "Wie geht es in der Schule?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom gelince, gidiyorum."
+    "Okul nasıl gidiyor?"
   ],
   "parts": [
     {
-      "content": "Wenn",
+      "content": "geht",
       "translations": [
-        "Eğer"
-      ],
-      "usageExamples": [
-        [
-          "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben.",
-          "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
-          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Tom"
+        "gidiyor"
       ],
       "usageExamples": []
     },
     {
-      "content": "kommt",
+      "content": "es",
       "translations": [
-        "geliyor"
+        "onu",
+        "Onu",
+        "ona"
       ],
       "usageExamples": [
+        [
+          "So ist es.",
+          "Aynen",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Von wem hast du es erfahren?",
+          "Kimden öğrendin?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
         [
           "Ich hab auch nicht gewollt, dass es so kommt.",
           "Ben de böyle olsun istemezdim.",
@@ -47,13 +41,34 @@
       ]
     },
     {
-      "content": "ich",
+      "content": "in",
       "translations": [
-        "mi",
-        "mu",
-        "sı",
-        "ı",
-        "ben"
+        "dans",
+        "en",
+        "içerisinde"
+      ],
+      "usageExamples": [
+        [
+          "Ich bin in Teheran.",
+          "Tahran'dayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bleibt in Boston.",
+          "Tom Boston'da kalıyor.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Die Waldfläche war in drei Sektoren unterteilt.",
+          "Orman alanı üç sektöre ayrıldı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "der",
+      "translations": [
+        "ders"
       ],
       "usageExamples": [
         [
@@ -62,16 +77,23 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Wer sagt, dass ich Angst vor Tom hätte?",
-          "Tom'dan korktuğumu kim söylüyor?",
+          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
+          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Im Winter komme ich ab und zu hierher.",
-          "Kışın arada sırada buraya geliyorum.",
+          "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben.",
+          "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "Schule",
+      "translations": [
+        "Okul"
+      ],
+      "usageExamples": []
     }
   ]
 }

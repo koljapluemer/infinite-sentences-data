@@ -1,11 +1,11 @@
 {
-  "sentence": "Io vos odia.",
+  "sentence": "Io vos ama.",
   "credits": [
-    "Sentence from Tatoeba by rul (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by RaspaKrusto (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by awael58 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I hate you."
+    "I love you."
   ],
   "parts": [
     {
@@ -14,7 +14,13 @@
         "I",
         "me"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io vos odia.",
+          "I hate you.",
+          "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "vos",
@@ -22,13 +28,19 @@
         "you",
         "you all"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io vos odia.",
+          "I hate you.",
+          "Sentence from Tatoeba by rul (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "odia",
+      "content": "ama",
       "translations": [
-        "hate",
-        "detest"
+        "love",
+        "to love"
       ],
       "usageExamples": []
     }

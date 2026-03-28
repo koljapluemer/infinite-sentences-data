@@ -1,42 +1,59 @@
 {
-  "sentence": "Dit is een paard.",
+  "sentence": "Ben je zeker?",
   "credits": [
-    "Sentence from Tatoeba by Arraroak (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by megamanenm (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by brauliobezerra (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This is a horse."
+    "Are you sure?"
   ],
   "parts": [
     {
-      "content": "Dit",
+      "content": "Ben",
       "translations": [
-        "This",
-        "It"
+        "I am.",
+        "I am being",
+        "I exist."
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ben je blij?",
+          "Are you happy?",
+          "Sentence from Tatoeba by Vulgaris (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "is",
+      "content": "je",
       "translations": [
-        "is",
-        "equals",
-        "to be"
+        "you",
+        "yourself"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Hou je van me?",
+          "Do you love me?",
+          "Sentence from Tatoeba by Citrine (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ben je blij?",
+          "Are you happy?",
+          "Sentence from Tatoeba by Vulgaris (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hou je van je moeder?",
+          "Do you love your mother?",
+          "Sentence from Tatoeba by Balamax (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "een",
+      "content": "zeker",
       "translations": [
-        "one",
-        "a"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "paard",
-      "translations": [
-        "horse",
-        "mare"
+        "certainly",
+        "surely",
+        "definitely",
+        "for sure"
       ],
       "usageExamples": []
     }

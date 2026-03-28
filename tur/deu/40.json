@@ -1,55 +1,132 @@
 {
-  "sentence": "Nur nicht aufgeben!",
+  "sentence": "Sie hat eine Katze und zwei Hunde.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sakın pes etme!"
+    "Onun bir kedisi ve iki köpeği var."
   ],
   "parts": [
     {
-      "content": "nicht",
+      "content": "Sie",
       "translations": [
-        "değil",
-        "ne",
-        "yok"
+        "Sen",
+        "Sizlerin"
       ],
       "usageExamples": [
         [
-          "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
-          "Bugünün işini yarına bırakma.",
+          "Sprechen Sie Türkisch?",
+          "Türkçe konuşur musunuz?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich habe nicht verstanden, was er gesagt hat.",
-          "Onun ne dediğini anlayamadım.",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Bana sorunu çözmeme izin veriniz.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Meine Mutter spricht nicht sehr gut Englisch.",
-          "Annem İngilizceyi pek iyi konuşmaz.",
+          "Wollen Sie, dass ich Tom rufe?",
+          "Tom'u çağırmamı ister misiniz?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "aufgeben",
+      "content": "hat",
       "translations": [
-        "halletmek"
+        "var",
+        "sahip",
+        "bulunmak"
       ],
       "usageExamples": [
         [
-          "Warum jetzt aufgeben?",
-          "Neden şimdi vazgeçiyorsun?",
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
-          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Tom hat viel Zeit.",
+          "Tom'un çok zamanı var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom hat gesagt, dass er in Australien ist.",
+          "Tom, Avustralya'da olduğunu söyledi.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "eine",
+      "translations": [
+        "bir",
+        "bir tane"
+      ],
+      "usageExamples": [
+        [
+          "Du hast eine Alternative.",
+          "Bir alternatifin var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe mir eine gute Kamera gekauft.",
+          "İyi bir kamera aldım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Katze",
+      "translations": [
+        "kedisi"
+      ],
+      "usageExamples": [
+        [
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "und",
+      "translations": [
+        "eş",
+        "ile",
+        "ve",
+        "e",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Ich glaube, treffender und besser kann man es kaum darstellen.",
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nimm eine kalte Dusche und trinke dann einen heißen Tee!",
+          "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Er predigt Wasser und trinkt selbst Wein.",
+          "Ele verir talkını, kendi yutar salkımı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "zwei",
+      "translations": [
+        "iki"
+      ],
+      "usageExamples": []
     }
   ]
 }

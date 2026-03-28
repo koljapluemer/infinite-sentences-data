@@ -1,15 +1,22 @@
 {
-  "sentence": "Имам два братучеда.",
+  "sentence": "Јас имам две мачки.",
   "credits": [
-    "Sentence from Tatoeba by Lepotdeterre (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Dorenda (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by fjrjdk (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I have two cousins."
+    "I have two cats."
   ],
   "parts": [
     {
-      "content": "Имам",
+      "content": "Јас",
+      "translations": [
+        "I",
+        "Me"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "имам",
       "translations": [
         "I have",
         "I possess"
@@ -17,7 +24,7 @@
       "usageExamples": []
     },
     {
-      "content": "два",
+      "content": "две",
       "translations": [
         "two",
         "a couple"
@@ -25,10 +32,10 @@
       "usageExamples": []
     },
     {
-      "content": "братучеда",
+      "content": "мачки",
       "translations": [
-        "cousin",
-        "male cousin"
+        "cats",
+        "kittens"
       ],
       "usageExamples": []
     }

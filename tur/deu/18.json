@@ -1,11 +1,11 @@
 {
-  "sentence": "Ich gehe nicht dorthin zurück.",
+  "sentence": "Ich habe Tom seit gestern nicht gesehen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by barbaros505 (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Oraya geri dönmeyeceğim."
+    "Dünden beri Tom'u görmedim."
   ],
   "parts": [
     {
@@ -15,18 +15,63 @@
       ],
       "usageExamples": [
         [
-          "Ich kenne deinen Vater.",
-          "Ben senin babanı tanıyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich wollte mich erinnern.",
-          "Ben hatırlamak istiyordum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "Ich bin verwirrt.",
           "Benim kafam karıştı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich schwimme sehr gern.",
+          "Yüzmeyi seviyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "habe",
+      "translations": [
+        "sahip olmak",
+        "var olmak"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe die Zugfahrkarten vergessen.",
+          "Tren biletlerini unuttum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sizinle sonucu paylaşma niyetinde değilim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe mir eine gute Kamera gekauft.",
+          "İyi bir kamera aldım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Tom"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gestern",
+      "translations": [
+        "Dün",
+        "Dünden"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe sie gestern gesehen.",
+          "Dün onu gördüm.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -45,30 +90,36 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich hab auch nicht gewollt, dass es so kommt.",
-          "Ben de böyle olsun istemezdim.",
+          "Ich gehe nicht dorthin zurück.",
+          "Oraya geri dönmeyeceğim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich habe die Geschichte nicht gelesen.",
-          "Hikayeyi okumadım.",
+          "Obwohl sie die Hausaufgaben noch nicht fertig hat, sieht sie fern.",
+          "Ödevlerini bitirmediği halde televizyon seyrediyor.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dorthin",
+      "content": "gesehen",
       "translations": [
-        "oraya"
+        "görüldü",
+        "görmek",
+        "göründü"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "zurück",
-      "translations": [
-        "geri"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ich habe sie gestern gesehen.",
+          "Dün onu gördüm.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom hat Mary heute gesehen.",
+          "Bugün Tom, Mary'yi gördü.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

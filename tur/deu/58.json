@@ -1,97 +1,68 @@
 {
-  "sentence": "Wie geht es in der Schule?",
+  "sentence": "Wie ist das Wetter?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Okul nasıl gidiyor?"
+    "Hava nasıl?"
   ],
   "parts": [
     {
-      "content": "geht",
+      "content": "ist",
       "translations": [
-        "gidiyor"
+        "dır",
+        "olmak"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Die Polizei ist hier.",
+          "Polis burada.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wer ist das denn?",
+          "Bu da kim?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dein Auto ist schnell.",
+          "Senin araban hızlıdır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "es",
+      "content": "das",
       "translations": [
+        "bu",
+        "bunu",
         "onu",
         "Onu",
-        "ona"
-      ],
-      "usageExamples": [
-        [
-          "So ist es.",
-          "Aynen",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich hab auch nicht gewollt, dass es so kommt.",
-          "Ben de böyle olsun istemezdim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Im Dorf gibt es fünf Rinder.",
-          "Köyde beş inek var.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "in",
-      "translations": [
-        "dans",
-        "en",
-        "içerisinde"
-      ],
-      "usageExamples": [
-        [
-          "Ich bin in Teheran.",
-          "Tahran'dayım.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom bleibt in Boston.",
-          "Tom Boston'da kalıyor.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "der",
-      "translations": [
         "ders"
       ],
       "usageExamples": [
         [
-          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
-          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
+          "Wer ist das denn?",
+          "Bu da kim?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben.",
-          "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
+          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
+          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Weißt du, dass ich nichts von einem Menschen halte, der seinen Namen verbirgt?",
-          "Adını saklayan adamı ciddiye almayacağımı bilmiyor musun?",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Bana sorunu çözmeme izin veriniz.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Schule",
+      "content": "Wetter",
       "translations": [
-        "Okul"
+        "Hava"
       ],
       "usageExamples": []
     }

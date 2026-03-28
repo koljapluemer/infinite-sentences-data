@@ -1,11 +1,11 @@
 {
-  "sentence": "Ich wollte mich erinnern.",
+  "sentence": "Ich würde mir das zweimal überlegen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ben hatırlamak istiyordum."
+    "Ben olsam iki kere düşünürdüm."
   ],
   "parts": [
     {
@@ -15,51 +15,109 @@
       ],
       "usageExamples": [
         [
-          "Ich suche meine Frau.",
-          "Karımı arıyorum.",
+          "Ich kenne deinen Vater.",
+          "Ben senin babanı tanıyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich will dir helfen.",
-          "Size yardım etmek istiyorum.",
+          "Ich wollte mich erinnern.",
+          "Ben hatırlamak istiyordum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich schwimme sehr gern.",
-          "Yüzmeyi seviyorum.",
+          "Ich bin in Teheran.",
+          "Tahran'dayım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mich",
+      "content": "würde",
       "translations": [
-        "beni"
+        "olurdu",
+        "yapardı",
+        "ederdi"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mir",
+      "translations": [
+        "bana",
+        "beni",
+        "mi",
+        "mu",
+        "sı",
+        "ben"
       ],
       "usageExamples": [
         [
-          "Ich ärgere mich über Verspätungen.",
-          "Gecikmelere sinir oluyorum.",
+          "Sucht Tom nach mir?",
+          "Tom beni arıyor mu?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dieses Lied erinnert mich an jemanden.",
-          "Bu şarkı bana birini hatırlatıyor.",
+          "Tom hat mir genau das Gegenteil gesagt.",
+          "Tom bana tam tersini söylemişti.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich fühle mich schlecht, wenn ich gute Noten schreibe.",
-          "İyi notlar aldığımda kendimi kötü hissediyorum.",
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Bana sorunu çözmeme izin veriniz.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "erinnern",
+      "content": "das",
       "translations": [
-        "hatırlamak"
+        "bu",
+        "bunu",
+        "onu",
+        "Onu",
+        "ders"
+      ],
+      "usageExamples": [
+        [
+          "Wie ist das Wetter?",
+          "Hava nasıl?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wer ist das denn?",
+          "Bu da kim?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Erlauben Sie mir, das Problem zu lösen.",
+          "Bana sorunu çözmeme izin veriniz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "zweimal",
+      "translations": [
+        "iki kez",
+        "iki defa"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "überlegen",
+      "translations": [
+        "üstün olmak",
+        "düşünmek",
+        "hesaba katmak",
+        "tartışmak"
+      ],
+      "usageExamples": [
+        [
+          "Warum überlegen Sie so lange?",
+          "Neden bu kadar uzun düşünüyorsun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

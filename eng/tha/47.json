@@ -1,34 +1,20 @@
 {
-  "sentence": "เมื่อคืนฉันนอนหลับดีมาก",
+  "sentence": "เธอชอบแจ๊สและฉันก็เช่นกัน",
   "credits": [
     "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I slept very well last night."
+    "She likes jazz, and so do I."
   ],
   "parts": [
     {
-      "content": "เมื่อคืน",
+      "content": "เธอ",
       "translations": [
-        "last night",
-        "yesterday evening"
-      ],
-      "usageExamples": [],
-      "transcription": "mueakhuen"
-    },
-    {
-      "content": "ฉัน",
-      "translations": [
-        "I",
-        "me"
+        "you",
+        "she"
       ],
       "usageExamples": [
-        [
-          "ฉันค่อนข้างอยากอยู่บ้านมากกว่าที่จะออกไป",
-          "I would rather stay home than go out.",
-          "Sentence from Tatoeba by ojiisan (CC-BY 2.0 FR)"
-        ],
         [
           "ฉันภูมิใจในตัวเธอ",
           "I'm proud of you.",
@@ -38,48 +24,112 @@
           "เธอขวางทางฉันอยู่",
           "You are in my way.",
           "Sentence from Tatoeba by Spanger (CC-BY 2.0 FR)"
+        ],
+        [
+          "เธอเกือบจะถูกรถชน",
+          "She was almost hit by a car.",
+          "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+        ]
+      ],
+      "transcription": "thoe"
+    },
+    {
+      "content": "ชอบ",
+      "translations": [
+        "like",
+        "enjoy"
+      ],
+      "usageExamples": [
+        [
+          "หมาของฉันชอบคุณ",
+          "My dog likes you.",
+          "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+        ]
+      ],
+      "transcription": "chop"
+    },
+    {
+      "content": "แจ๊ส",
+      "translations": [
+        "jazz",
+        "jazz music"
+      ],
+      "usageExamples": [],
+      "transcription": "chaet"
+    },
+    {
+      "content": "และ",
+      "translations": [
+        "and",
+        "as well as",
+        "also"
+      ],
+      "usageExamples": [
+        [
+          "มนุษย์ทุกคนเกิดมาอิสระและเท่าเทียมกันในเกียรติและสิทธิ์ พวกเขาถูกมอบด้วยเหตุผลและมโนธรรมและควรปฏิบัติต่อกันและกันด้วยจิตวิญญาณแห่งพี่น้อ",
+          "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.",
+          "Sentence from Tatoeba by kanacan (CC-BY 2.0 FR)"
+        ],
+        [
+          "ทอมและแมรีชวนฉันมาที่บ้านพวกเขา",
+          "Tom and Mary invited me to their house.",
+          "Sentence from Tatoeba by thas (CC-BY 2.0 FR)"
+        ]
+      ],
+      "transcription": "lae"
+    },
+    {
+      "content": "ฉัน",
+      "translations": [
+        "I",
+        "me"
+      ],
+      "usageExamples": [
+        [
+          "ฉันภูมิใจในตัวเธอ",
+          "I'm proud of you.",
+          "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+        ],
+        [
+          "มีใครสามารถบอกฉันได้มั้ยว่าแป้นพิมพ์อยู่ที่ไหน?",
+          "Can someone tell me where the keyboard is?",
+          "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
+        ],
+        [
+          "ฉันเห็นดอกไม้หายากอยู่ในแจกัน",
+          "I see a rare flower in the vase.",
+          "Sentence from Tatoeba by Spanger (CC-BY 2.0 FR)"
         ]
       ],
       "transcription": "chan"
     },
     {
-      "content": "นอนหลับ",
+      "content": "ก็",
       "translations": [
-        "sleep",
-        "to sleep",
-        "sleeping"
-      ],
-      "usageExamples": [],
-      "transcription": "nonlap"
-    },
-    {
-      "content": "ดี",
-      "translations": [
-        "good",
+        "so",
+        "then",
         "well",
-        "fine",
-        "okay"
-      ],
-      "usageExamples": [],
-      "transcription": "di"
-    },
-    {
-      "content": "มาก",
-      "translations": [
-        "much",
-        "a lot",
-        "many",
-        "very"
+        "thus"
       ],
       "usageExamples": [
         [
-          "เมื่อวานนี้มันหนาวมากจนฉันอยู่บ้าน",
-          "It was so cold yesterday I stayed home.",
+          "ถ้าคุณไม่ประพฤติตามซานต้าก็จะไม่มา",
+          "If you don't behave, Santa won't come.",
           "Sentence from Tatoeba by pastelite (CC-BY 2.0 FR)"
         ]
       ],
-      "transcription": "mak"
+      "transcription": "k็"
+    },
+    {
+      "content": "เช่นกัน",
+      "translations": [
+        "likewise",
+        "also",
+        "as well"
+      ],
+      "usageExamples": [],
+      "transcription": "chenkan"
     }
   ],
-  "transcription": "mueakhuenchannonlapdimak"
+  "transcription": "thoechopchaetlaechank็chenkan"
 }

@@ -1,20 +1,26 @@
 {
-  "sentence": "mi na me lo tadni",
+  "sentence": "ko na ba'o morji tu'a lo pikta",
   "credits": [
-    "Sentence from Tatoeba by gleki (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by FB (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Dorenda (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm not a student."
+    "Don't forget the ticket."
   ],
   "parts": [
     {
-      "content": "mi",
+      "content": "ko",
       "translations": [
-        "I",
-        "me"
+        "you (plural)",
+        "you (imperative)"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "ko fonjorne lo pulji tcana",
+          "Call the police!",
+          "Sentence from Tatoeba by Wuzzy (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "na",
@@ -24,18 +30,40 @@
       ],
       "usageExamples": [
         [
-          "ko na ba'o morji tu'a lo pikta",
-          "Don't forget the ticket.",
-          "Sentence from Tatoeba by FB (CC-BY 2.0 FR)"
+          "mi na me lo tadni",
+          "I'm not a student.",
+          "Sentence from Tatoeba by gleki (CC-BY 2.0 FR)"
+        ],
+        [
+          "mi na djuno lo du'u do te smuni makau",
+          "I don't know what you mean.",
+          "Sentence from Tatoeba by gleki (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "me",
+      "content": "ba'o",
       "translations": [
-        "me",
-        "myself",
-        "mine"
+        "after",
+        "later",
+        "subsequently"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "morji",
+      "translations": [
+        "to remember",
+        "to recall"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "tu'a",
+      "translations": [
+        "about",
+        "regarding",
+        "concerning"
       ],
       "usageExamples": []
     },
@@ -48,18 +76,29 @@
       ],
       "usageExamples": [
         [
-          "ko na ba'o morji tu'a lo pikta",
-          "Don't forget the ticket.",
-          "Sentence from Tatoeba by FB (CC-BY 2.0 FR)"
+          "ko fonjorne lo pulji tcana",
+          "Call the police!",
+          "Sentence from Tatoeba by Wuzzy (CC-BY 2.0 FR)"
+        ],
+        [
+          "mi na me lo tadni",
+          "I'm not a student.",
+          "Sentence from Tatoeba by gleki (CC-BY 2.0 FR)"
+        ],
+        [
+          "mi na djuno lo du'u do te smuni makau",
+          "I don't know what you mean.",
+          "Sentence from Tatoeba by gleki (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tadni",
+      "content": "pikta",
       "translations": [
-        "to be a leader",
-        "to lead",
-        "to guide"
+        "picture",
+        "image",
+        "photo",
+        "drawing"
       ],
       "usageExamples": []
     }

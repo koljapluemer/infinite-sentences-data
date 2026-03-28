@@ -1,67 +1,40 @@
 {
-  "sentence": "As-tu un crayon ?",
+  "sentence": "Anne aime beaucoup la musique.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you have a pencil?"
+    "Ann likes music very much."
   ],
   "parts": [
     {
-      "content": "As",
+      "content": "Anne",
       "translations": [
-        "As",
-        "Like",
-        "In the capacity of",
-        "In the role of"
+        "Anne",
+        "Anna"
       ],
-      "usageExamples": [
-        [
-          "As-tu quelques conseils pour moi ?",
-          "Do you have any advice for me?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "tu",
+      "content": "aime",
       "translations": [
-        "you",
-        "thou"
+        "love",
+        "like"
       ],
-      "usageExamples": [
-        [
-          "Où as-tu regardé ?",
-          "Where did you look?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Que faisais-tu là-bas ?",
-          "What were you doing down there?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Auquel de ces deux garçons vas-tu donner le livre ?",
-          "Which of these two boys are you going to give the book to?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "un",
+      "content": "beaucoup",
       "translations": [
-        "a"
+        "a lot",
+        "many",
+        "much"
       ],
       "usageExamples": [
         [
-          "C'est un danseur algérien.",
-          "He's an Algerian dancer.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Le travail à temps partiel de ma femme ramène un peu d'argent supplémentaire.",
-          "My wife's part-time job brings in a little extra money.",
+          "J'ai beaucoup d'élastiques.",
+          "I have a lot of elastic bands.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -72,12 +45,28 @@
       ]
     },
     {
-      "content": "crayon",
+      "content": "la",
       "translations": [
-        "pencil",
-        "crayon"
+        "the",
+        "it"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ce n'est pas la manière avec laquelle nous faisons les choses, ici.",
+          "That is not how we do things here.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom regarde toujours la télévision.",
+          "Tom is always watching TV.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quelles sont les limites de la connaissance humaine ?",
+          "What are the limits of human knowledge?",
+          "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,24 +1,49 @@
 {
-  "sentence": "C'est un danseur algérien.",
+  "sentence": "As-tu un crayon ?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He's an Algerian dancer."
+    "Do you have a pencil?"
   ],
   "parts": [
     {
-      "content": "C'est",
+      "content": "As",
       "translations": [
-        "It is",
-        "This is",
-        "That is"
+        "As",
+        "Like",
+        "In the capacity of",
+        "In the role of"
       ],
       "usageExamples": [
         [
-          "C'est là que vous faites erreur.",
-          "That's where you're wrong.",
+          "As-tu quelques conseils pour moi ?",
+          "Do you have any advice for me?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tu",
+      "translations": [
+        "you",
+        "thou"
+      ],
+      "usageExamples": [
+        [
+          "Où as-tu regardé ?",
+          "Where did you look?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Que faisais-tu là-bas ?",
+          "What were you doing down there?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je pensais que tu ne lui dirais pas que nous n'avions pas fait nos devoirs.",
+          "I thought you wouldn't tell her that we hadn't done our homework.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -30,13 +55,13 @@
       ],
       "usageExamples": [
         [
-          "As-tu un crayon ?",
-          "Do you have a pencil?",
+          "C'est un danseur algérien.",
+          "He's an Algerian dancer.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "J'ai pensé que Tom avait fait un bon travail.",
-          "I thought that Tom did a nice job.",
+          "Je suis un gars on ne peut plus normal qui a beaucoup de violons d'Ingres, peut-être trop.",
+          "I'm a completely normal guy who has many hobbies, maybe too many.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -47,18 +72,10 @@
       ]
     },
     {
-      "content": "danseur",
+      "content": "crayon",
       "translations": [
-        "dancer",
-        "male dancer"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "algérien",
-      "translations": [
-        "Algerian",
-        "from Algeria"
+        "pencil",
+        "crayon"
       ],
       "usageExamples": []
     }

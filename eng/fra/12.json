@@ -1,53 +1,233 @@
 {
-  "sentence": "Où as-tu regardé ?",
+  "sentence": "Ce sont des questions auxquelles je ne peux pas répondre.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Where did you look?"
+    "These are questions that I can't answer."
   ],
   "parts": [
     {
-      "content": "Où",
+      "content": "Ce",
       "translations": [
-        "Where",
-        "Where is",
-        "Where to"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "as",
-      "translations": [
-        "as",
-        "like",
-        "in the role of",
-        "in the capacity of"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tu",
-      "translations": [
-        "you",
-        "thou"
+        "This",
+        "It"
       ],
       "usageExamples": [
         [
-          "As-tu un crayon ?",
-          "Do you have a pencil?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Ce n'est pas la manière avec laquelle nous faisons les choses, ici.",
+          "That is not how we do things here.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ],
         [
-          "Que faisais-tu là-bas ?",
-          "What were you doing down there?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Ce n'est pas une chose à laquelle je m'attendais.",
+          "That wasn't something I expected.",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sont",
+      "translations": [
+        "are",
+        "are being",
+        "are located"
+      ],
+      "usageExamples": [
+        [
+          "Les traductions automatiques ne sont pas toujours exactes.",
+          "Machine translations are not always precise.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
         ],
         [
-          "As-tu quelques conseils pour moi ?",
-          "Do you have any advice for me?",
+          "Je ne sais pas quelles sont ses véritables intentions.",
+          "I don't know what his real intentions are.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ],
+        [
+          "Amitié des grands, soleil d'hiver et serments d'une femme, sont trois choses qui n'ont pas de durée.",
+          "A woman's mind and winter's wind change oft.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "des",
+      "translations": [
+        "of the",
+        "some",
+        "from the"
+      ],
+      "usageExamples": [
+        [
+          "Toutes les études cliniques ne sont pas fondées sur des hypothèses.",
+          "Not all clinical studies are hypothesis-driven.",
+          "Sentence from Tatoeba by marioo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom est un homme intelligent, dont les connaissances ont été acquises à la fois grâce à des études universitaires et par sa propre expérience.",
+          "Tom is both book smart and street smart.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Les tortues sont des reptiles.",
+          "Turtles are reptiles.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "questions",
+      "translations": [
+        "questions",
+        "inquiries",
+        "queries",
+        "issues"
+      ],
+      "usageExamples": [
+        [
+          "« À combien de questions avez-vous répondu correctement ? » « À pas une seule. »",
+          "\"How many questions did you get right?\" \"Zilch.\"",
+          "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "auxquelles",
+      "translations": [
+        "to which",
+        "to whom"
+      ],
+      "usageExamples": [
+        [
+          "J'ai de nombreuses amies auxquelles je peux parler.",
+          "I have many friends I can talk to.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je me rends compte des contraintes de temps auxquelles vous êtes soumis.",
+          "I appreciate the time constraints you're under.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "je",
+      "translations": [
+        "I",
+        "me"
+      ],
+      "usageExamples": [
+        [
+          "C'est une question à laquelle je ne peux pas répondre.",
+          "That's one question I can't answer.",
+          "Sentence from Tatoeba by Scorpionvenin14 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dites à tout le monde que je suis désolé, s'il vous plaît.",
+          "Please tell everyone I'm sorry.",
+          "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ferai tout ce que je peux pour encourager Tom à ne pas quitter l'école.",
+          "I'll do whatever I can to encourage Tom to stay in school.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ne",
+      "translations": [
+        "not",
+        "no"
+      ],
+      "usageExamples": [
+        [
+          "Je ne savais pas que vous deux étiez meilleurs amis à présent.",
+          "I didn't know you two were besties now.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne sais pas vraiment pourquoi ils m'ont demandé ça.",
+          "I'm not sure why they asked me that.",
+          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nous ne devons pas ignorer la souffrance des populations soumises à une mauvaise gestion.",
+          "We must not ignore populations suffering under misgovernment.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "peux",
+      "translations": [
+        "can",
+        "able to"
+      ],
+      "usageExamples": [
+        [
+          "Je ne peux pas vous laisser aller là-dedans toutes seules.",
+          "I can't let you go in there alone.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne peux pas aller à l'école aujourd'hui. Je suis malade.",
+          "I can't go to school today. I'm sick.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ],
+        [
+          "Elle est une personne, sans laquelle je ne peux pas vivre.",
+          "She is one person I can't live without.",
+          "Sentence from Tatoeba by giiraffen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pas",
+      "translations": [
+        "not"
+      ],
+      "usageExamples": [
+        [
+          "Je ne sais pas. Veuillez demander à quelqu'un d'autre.",
+          "I don't know. Please ask someone else.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu ne devrais pas raconter des mensonges sur les gens à la cantonade.",
+          "You shouldn't go around telling lies about people.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne pensais pas que vous seriez tellement en retard.",
+          "I didn't think you'd be so late.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "répondre",
+      "translations": [
+        "to respond",
+        "to answer"
+      ],
+      "usageExamples": [
+        [
+          "Tu me poses une question à laquelle je ne peux pas répondre.",
+          "You're asking me a question I can't answer.",
+          "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vous me posez une question à laquelle je ne peux pas répondre.",
+          "You're asking me a question I can't answer.",
+          "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne suis pas sûr de la manière avec laquelle répondre à ça.",
+          "I'm not sure how to answer this.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ]
       ]
     }

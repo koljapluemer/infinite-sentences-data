@@ -1,39 +1,129 @@
 {
-  "sentence": "Quelle cuisson voudrais-tu pour ton bifteck ?",
+  "sentence": "Cela fait-il longtemps que tu travailles là-bas ?",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by User66640 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How would you like your steak?"
+    "Have you been working there for long?"
   ],
   "parts": [
     {
-      "content": "Quelle",
+      "content": "cela",
       "translations": [
-        "What",
-        "Which",
-        "Source",
-        "Where"
+        "that",
+        "it"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Je n'arrive pas à croire que vous ayez fait cela toutes seules.",
+          "I can't believe you did that by yourself.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tout le monde sait que Tom ne peut pas faire cela.",
+          "Everyone knows Tom can't do that.",
+          "Sentence from Tatoeba by zarisi (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cela fait-il longtemps que vous travaillez là-bas ?",
+          "Have you been working there for long?",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "cuisson",
+      "content": "fait",
       "translations": [
-        "cooking",
-        "baking",
-        "roasting"
+        "fact",
+        "made",
+        "done"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Je suis vraiment désolé de t'avoir fait attendre.",
+          "I am so sorry to have kept you waiting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "J'ai pensé que Tom avait fait un bon travail.",
+          "I thought that Tom did a nice job.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom fait souvent les mêmes erreurs.",
+          "Tom often makes the same mistakes.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "voudrais",
+      "content": "il",
       "translations": [
-        "would like",
-        "would want"
+        "he",
+        "it"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Je ne sais pas trop à quelle heure il va venir.",
+          "I'm not sure when he'll come.",
+          "Sentence from Tatoeba by superbolo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je n'aime pas la maison dans laquelle il demeure.",
+          "I don't like the house he lives in.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Une occasion comme celle-ci, il faut que je la saisisse.",
+          "It's too good an opportunity to miss.",
+          "Sentence from Tatoeba by Rovo (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "longtemps",
+      "translations": [
+        "a long time",
+        "for a long time"
+      ],
+      "usageExamples": [
+        [
+          "Je n'ai pas entendu parler de lui depuis longtemps.",
+          "I have not heard from him for a long time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cela fait-il longtemps que vous travaillez là-bas ?",
+          "Have you been working there for long?",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "que",
+      "translations": [
+        "that",
+        "which",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Je ne savais pas que Tom était le petit-fils de Mary.",
+          "I didn't know that Tom was Mary's grandson.",
+          "Sentence from Tatoeba by Rockaround (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dites à tout le monde que je suis désolé, s'il vous plaît.",
+          "Please tell everyone I'm sorry.",
+          "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tout le monde sait que Tom ne peut pas faire cela.",
+          "Everyone knows Tom can't do that.",
+          "Sentence from Tatoeba by zarisi (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "tu",
@@ -43,8 +133,8 @@
       ],
       "usageExamples": [
         [
-          "As-tu un crayon ?",
-          "Do you have a pencil?",
+          "Où as-tu regardé ?",
+          "Where did you look?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -53,48 +143,38 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Où as-tu regardé ?",
-          "Where did you look?",
+          "As-tu un crayon ?",
+          "Do you have a pencil?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pour",
+      "content": "travailles",
       "translations": [
-        "for",
-        "to",
-        "in favor of",
-        "on behalf of"
+        "work",
+        "working"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "là-bas",
+      "translations": [
+        "over there",
+        "there"
       ],
       "usageExamples": [
         [
-          "As-tu quelques conseils pour moi ?",
-          "Do you have any advice for me?",
+          "Que faisais-tu là-bas ?",
+          "What were you doing down there?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Je ferai tout ce que je peux pour encourager Tom à ne pas quitter l'école.",
-          "I'll do whatever I can to encourage Tom to stay in school.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Cela fait-il longtemps que vous travaillez là-bas ?",
+          "Have you been working there for long?",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "ton",
-      "translations": [
-        "your",
-        "yours"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bifteck",
-      "translations": [
-        "steak",
-        "beefsteak"
-      ],
-      "usageExamples": []
     }
   ]
 }

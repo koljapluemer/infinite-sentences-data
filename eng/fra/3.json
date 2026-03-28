@@ -1,90 +1,120 @@
 {
-  "sentence": "Aucune de leurs promesses n'ont été tenues.",
+  "sentence": "As-tu quelques conseils pour moi ?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "None of their promises have been kept."
+    "Do you have any advice for me?"
   ],
   "parts": [
     {
-      "content": "Aucune",
+      "content": "As",
       "translations": [
-        "None",
-        "No one",
-        "Nothing",
-        "Not any"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "de",
-      "translations": [
-        "of",
-        "from",
-        "about"
+        "As",
+        "Like",
+        "In the capacity of",
+        "In the role of"
       ],
       "usageExamples": [
         [
-          "N'as-tu rien appris de tes erreurs ?",
-          "Have you learned nothing from your mistakes?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Aujourd'hui, Noël est fêté dans de nombreuses régions du monde.",
-          "Today, Christmas is celebrated in many parts of the world.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Auquel de ces deux garçons vas-tu donner le livre ?",
-          "Which of these two boys are you going to give the book to?",
+          "As-tu un crayon ?",
+          "Do you have a pencil?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "leurs",
+      "content": "tu",
       "translations": [
-        "their",
-        "theirs"
+        "you",
+        "thou"
+      ],
+      "usageExamples": [
+        [
+          "Que faisais-tu là-bas ?",
+          "What were you doing down there?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "As-tu un crayon ?",
+          "Do you have a pencil?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Où as-tu regardé ?",
+          "Where did you look?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "quelques",
+      "translations": [
+        "some",
+        "a few",
+        "several"
+      ],
+      "usageExamples": [
+        [
+          "En quelques jours, les forces allemandes se sont déployées dans toute la Pologne.",
+          "Within days, German forces fanned out across Poland.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "conseils",
+      "translations": [
+        "advice",
+        "tips",
+        "counsel"
       ],
       "usageExamples": []
     },
     {
-      "content": "promesses",
+      "content": "pour",
       "translations": [
-        "promises",
-        "pledges",
-        "commitments"
+        "for",
+        "to",
+        "in favor of",
+        "on behalf of"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Les sacs en plastique sont mauvais pour l'environnement.",
+          "Plastic bags are bad for the environment.",
+          "Sentence from Tatoeba by Petrus (CC-BY 2.0 FR)"
+        ],
+        [
+          "«Et pour Monsieur ?» «Allez ! Une fois n'est pas coutume : Une blanquette de veau !»",
+          "\"And for you sir?\" \"A veal stew!\"",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ferai tout ce que je peux pour encourager Tom à ne pas quitter l'école.",
+          "I'll do whatever I can to encourage Tom to stay in school.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "n'ont",
+      "content": "moi",
       "translations": [
-        "do not have",
-        "haven't"
+        "me"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "été",
-      "translations": [
-        "summer",
-        "been"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tenues",
-      "translations": [
-        "outfits",
-        "clothing",
-        "attire",
-        "gear"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Je ne veux pas que vous parliez de moi toutes les deux.",
+          "I don't want you two talking about me.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne veux pas que vous soyez en train de parler de moi toutes les deux.",
+          "I don't want you two talking about me.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

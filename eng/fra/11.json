@@ -1,31 +1,66 @@
 {
-  "sentence": "Ne lui en dis rien.",
+  "sentence": "Ce n'est pas une chose à laquelle je m'attendais.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Don't tell her about it."
+    "That wasn't something I expected."
   ],
   "parts": [
     {
-      "content": "Ne",
+      "content": "Ce",
       "translations": [
-        "No.",
-        "Not"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "lui",
-      "translations": [
-        "him"
+        "This",
+        "It"
       ],
       "usageExamples": [
         [
-          "Je n'ai pas entendu parler de lui depuis longtemps.",
-          "I have not heard from him for a long time.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Ce n'est pas la manière avec laquelle nous faisons les choses, ici.",
+          "That is not how we do things here.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ce sont des questions auxquelles je ne peux pas répondre.",
+          "These are questions that I can't answer.",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "n'est",
+      "translations": [
+        "is not",
+        "isn't"
+      ],
+      "usageExamples": [
+        [
+          "«Et pour Monsieur ?» «Allez ! Une fois n'est pas coutume : Une blanquette de veau !»",
+          "\"And for you sir?\" \"A veal stew!\"",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ce n'est pas la manière avec laquelle nous faisons les choses, ici.",
+          "That is not how we do things here.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pas",
+      "translations": [
+        "not"
+      ],
+      "usageExamples": [
+        [
+          "Elle est une personne, sans laquelle je ne peux pas vivre.",
+          "She is one person I can't live without.",
+          "Sentence from Tatoeba by giiraffen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je n'aime pas la maison dans laquelle il demeure.",
+          "I don't like the house he lives in.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ],
         [
           "Je pensais que tu ne lui dirais pas que nous n'avions pas fait nos devoirs.",
@@ -35,36 +70,116 @@
       ]
     },
     {
-      "content": "en",
+      "content": "une",
       "translations": [
-        "in",
-        "at",
-        "on"
+        "a"
       ],
       "usageExamples": [
         [
-          "Je crois en elle.",
-          "I have faith in her.",
+          "Il portait une casquette.",
+          "He was wearing a cap.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Quel musée aimerais-tu visiter en premier ?",
-          "Which museum would you like to visit first?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Vous me posez une question à laquelle je ne peux pas répondre.",
+          "You're asking me a question I can't answer.",
+          "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
         ],
         [
-          "La chaise en plastique coûte quatre pounds.",
-          "The plastic chair costs four pounds.",
+          "Pourquoi est-ce que les produits de beauté ont-ils une date d'expiration ?",
+          "Why do cosmetics have an expiration date?",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "chose",
+      "translations": [
+        "thing",
+        "item",
+        "object",
+        "matter"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "à",
+      "translations": [
+        "to",
+        "at",
+        "in"
+      ],
+      "usageExamples": [
+        [
+          "Les tomates ne sont pas à proprement parler des légumes, mais plutôt des fruits.",
+          "Strictly speaking, tomatoes aren't vegetables, but rather fruits.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ],
+        [
+          "S'il vous plaît, dites à tout le monde que je suis désolé.",
+          "Please tell everyone I'm sorry.",
+          "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dis à Tom que je n'y serai pas.",
+          "Tell Tom that I won't be there.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dis",
+      "content": "laquelle",
       "translations": [
-        "of",
-        "from",
-        "about"
+        "which one",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "Les choses n'ont pas pris la tournure à laquelle Tom s'attendait.",
+          "Things didn't turn out the way Tom expected.",
+          "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Elle est une personne, sans laquelle je ne peux pas vivre.",
+          "She is one person I can't live without.",
+          "Sentence from Tatoeba by giiraffen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu me poses une question à laquelle je ne peux pas répondre.",
+          "You're asking me a question I can't answer.",
+          "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "je",
+      "translations": [
+        "I",
+        "me"
+      ],
+      "usageExamples": [
+        [
+          "Pourquoi est-ce que je ne parviens pas à les aimer tous les deux ?",
+          "Why can't I love them both?",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vous êtes l'une des personnes les plus gentilles que je connaisse.",
+          "You're one of the nicest people I know.",
+          "Sentence from Tatoeba by Borbie (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je pense que nous savons toutes les deux pourquoi je suis ici.",
+          "I think we both know why I'm here.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "m'attendais",
+      "translations": [
+        "I was expecting",
+        "I expected"
       ],
       "usageExamples": []
     }

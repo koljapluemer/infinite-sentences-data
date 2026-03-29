@@ -1,66 +1,81 @@
 {
-  "sentence": "Llegaste a tiempo.",
+  "sentence": "Esa es la realidad.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You arrived on time."
+    "That's the reality."
   ],
   "parts": [
     {
-      "content": "Llegaste",
+      "content": "Esa",
       "translations": [
-        "You arrived",
-        "You have arrived",
-        "You came"
+        "that",
+        "that one"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "es",
       "translations": [
-        "to"
+        "is",
+        "it is",
+        "to be"
       ],
       "usageExamples": [
         [
-          "Escriba a su congresista.",
-          "Write your congressman.",
+          "Tomás es xenofóbico.",
+          "Tom is xenophobic.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
+          "En realidad es tu culpa.",
+          "It is in fact your fault.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ayer monté a caballo por primera vez.",
-          "I rode a horse for the first time yesterday.",
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tiempo",
+      "content": "la",
       "translations": [
-        "time",
-        "weather"
+        "the"
       ],
       "usageExamples": [
         [
-          "Ayer tuvimos buen tiempo.",
-          "We had nice weather yesterday.",
+          "La comida está lista.",
+          "The food is ready.",
+          ""
+        ],
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "No tengo tiempo.",
-          "I don't have time.",
+          "La casa es grande.",
+          "The house is large.",
           ""
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "realidad",
+      "translations": [
+        "reality",
+        "truth",
+        "fact"
+      ],
+      "usageExamples": [
         [
-          "El tiempo vuela.",
-          "Time goes by quickly.",
-          ""
+          "En realidad es tu culpa.",
+          "It is in fact your fault.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     }

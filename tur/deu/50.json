@@ -1,73 +1,173 @@
 {
-  "sentence": "Tom hat keinen australischen Akzent.",
+  "sentence": "Ich habe jetzt Zeit, um zu schreiben. Und du?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom'un Avustralyalı aksanı yok."
+    "Şimdi yazabilirim zamanım var. Ya senin?"
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Ich",
       "translations": [
-        "Tom"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "hat",
-      "translations": [
-        "var",
-        "sahip",
-        "bulunmak"
+        "Ben"
       ],
       "usageExamples": [
         [
-          "Tom hat eine Katze.",
-          "Tom'un bir kedisi var.",
+          "Ich bin verwirrt.",
+          "Benim kafam karıştı.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
+        [
+          "Ich bin in Teheran.",
+          "Tahran'dayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich will dir helfen.",
+          "Size yardım etmek istiyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "habe",
+      "translations": [
+        "sahip olmak",
+        "var olmak"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe sie gestern gesehen.",
+          "Dün onu gördüm.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe die Geschichte nicht gelesen.",
+          "Hikayeyi okumadım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe die Zugfahrkarten vergessen.",
+          "Tren biletlerini unuttum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "jetzt",
+      "translations": [
+        "artık",
+        "Artık",
+        "şimdi"
+      ],
+      "usageExamples": [
+        [
+          "Warum jetzt aufgeben?",
+          "Neden şimdi vazgeçiyorsun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Zeit",
+      "translations": [
+        "zaman",
+        "zamanı",
+        "zamandan"
+      ],
+      "usageExamples": [
         [
           "Tom hat viel Zeit.",
           "Tom'un çok zamanı var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Obwohl sie die Hausaufgaben noch nicht fertig hat, sieht sie fern.",
-          "Ödevlerini bitirmediği halde televizyon seyrediyor.",
+          "Tom, wir haben dafür keine Zeit!",
+          "Tom, buna vaktimiz yok!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "keinen",
+      "content": "um",
       "translations": [
-        "hiç",
-        "yok"
+        "etrafında"
       ],
       "usageExamples": [
         [
-          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
-          "İzin olmadan pazar tezgahı kurulamaz mı?",
+          "Das Problem dreht sich um folgende Frage:",
+          "Problem şu soru etrafında dönüyor:",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "australischen",
+      "content": "zu",
       "translations": [
-        "Avustralya'ya ait",
-        "Avustralyalı"
+        "para"
+      ],
+      "usageExamples": [
+        [
+          "Ich war zu Hause.",
+          "Evdeydim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich stehe zu deiner Verfügung.",
+          "Emrindeyim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wir sind zu Fuß gegangen.",
+          "Yaya gittik.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "schreiben",
+      "translations": [
+        "yazmak"
       ],
       "usageExamples": []
     },
     {
-      "content": "Akzent",
+      "content": "Und",
       "translations": [
-        "aksanı"
+        "Ve"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "du",
+      "translations": [
+        "Sen",
+        "Kimi"
+      ],
+      "usageExamples": [
+        [
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wen liebst du?",
+          "Kimi seviyorsun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Magst du Sport?",
+          "Spor sever misin?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

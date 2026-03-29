@@ -1,12 +1,11 @@
 {
-  "sentence": "Tom sembra impegnato.",
+  "sentence": "Tom ha dato dell'idiota all'arbitro.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom looks busy.",
-    "Tom seems busy."
+    "Tom called the referee an idiot."
   ],
   "parts": [
     {
@@ -18,63 +17,92 @@
       ],
       "usageExamples": [
         [
-          "Tom ha molti amici?",
-          "Does Tom have a lot of friends?",
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembra compiaciuto.",
-          "Tom looks smug.",
+          "Ho visto Tom prima.",
+          "I saw Tom earlier.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembrava esitante.",
-          "Tom looked hesitant.",
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sembra",
+      "content": "ha",
       "translations": [
-        "it seems",
-        "it appears",
-        "it looks like",
-        "seems to be"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra rancoroso.",
-          "You seem bitter.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lui sembra un delinquente.",
-          "He looks like a gangster.",
+          "Lei ha già finito?",
+          "Are you done yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "impegnato",
+      "content": "dato",
       "translations": [
-        "busy",
-        "engaged",
-        "committed",
-        "occupied"
+        "given",
+        "data",
+        "fact",
+        "information"
       ],
       "usageExamples": [
         [
-          "Tom è molto impegnato con il suo lavoro.",
-          "Tom is very busy with his work.",
+          "A Madre Teresa è stato dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il dottore gli ha dato un sedativo.",
+          "The doctor gave him a sedative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Madre Teresa fu dato il Premio Nobel.",
+          "Mother Teresa was given the Nobel prize.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "dell'idiota",
+      "translations": [
+        "of the idiot",
+        "of the fool",
+        "of the moron",
+        "of the simpleton"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "all'arbitro",
+      "translations": [
+        "to the referee",
+        "at the referee",
+        "for the referee",
+        "towards the referee"
+      ],
+      "usageExamples": []
     }
   ]
 }

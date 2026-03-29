@@ -1,89 +1,72 @@
 {
-  "sentence": "Sana gitmen için izin veriyorum.",
+  "sentence": "Onun ne dediğini anlayamadım.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich erlaube dir zu gehen."
+    "Ich habe nicht verstanden, was er gesagt hat."
   ],
   "parts": [
     {
-      "content": "Sana",
+      "content": "Onun",
       "translations": [
-        "dir"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gitmen",
-      "translations": [
-        "gehen",
-        "weggehen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "için",
-      "translations": [
-        "für",
-        "um zu"
+        "seine",
+        "ihr",
+        "Seine"
       ],
       "usageExamples": [
+        [
+          "Onun bunu başarması inanılmaz.",
+          "Es ist unwahrscheinlich, dass es ihm gelungen ist.",
+          "Sentence from Tatoeba by odien16 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ne",
+      "translations": [
+        "nicht",
+        "kein"
+      ],
+      "usageExamples": [
+        [
+          "Hepsi ne ediyor?",
+          "Was macht das alles zusammen?",
+          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+        ],
         [
           "Öğle yemeği için ne istersin?",
           "Was möchtest du zu essen?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen.",
-          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
-        ],
-        [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "izin",
-      "translations": [
-        "Genehmigung",
-        "Erlaubnis"
-      ],
-      "usageExamples": [
-        [
-          "Kapıyı kapatmama izin veriniz.",
-          "Erlauben Sie mir, die Tür zu schließen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "İzin olmadan pazar tezgahı kurulamaz mı?",
-          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
+          "Benim için ne zaman vaktin olur?",
+          "Wann hast du Zeit für mich?",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "veriyorum",
+      "content": "dediğini",
       "translations": [
-        "ich gebe",
-        "ich biete an"
+        "was gesagt",
+        "was du gesagt hast"
       ],
-      "usageExamples": [
-        [
-          "Ne yazık ki, her zaman çok fazla veriyorum.",
-          "Ich gebe leider immer zu viel.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "anlayamadım",
+      "translations": [
+        "Ich habe es nicht verstanden",
+        "Ich konnte es nicht verstehen"
+      ],
+      "usageExamples": []
     }
   ]
 }

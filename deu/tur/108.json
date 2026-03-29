@@ -1,71 +1,131 @@
 {
-  "sentence": "Tom mutsuz, değil mi?",
+  "sentence": "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom ist unglücklich, nicht wahr?"
+    "Nimm eine kalte Dusche und trinke dann einen heißen Tee!"
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "soğuk",
       "translations": [
-        "Tom"
+        "kalt",
+        "kühl",
+        "kalte"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "eins",
+        "ein",
+        "eine",
+        "einem",
+        "einer",
+        "eines"
       ],
       "usageExamples": [
         [
-          "Bugün Tom, Mary'yi gördü.",
-          "Tom hat Mary heute gesehen.",
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Tom nehirde yüzüyor.",
-          "Tom schwimmt im Fluss.",
-          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Hangi dilleri konuşabiliyorsun, Tom?",
-          "Welche Sprachen sprichst du, Tom?",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+          "İyi bir kamera aldım.",
+          "Ich habe mir eine gute Kamera gekauft.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mutsuz",
+      "content": "duş",
       "translations": [
-        "unglücklich",
-        "traurig",
-        "missmutig"
+        "Dusche",
+        "Duschbad"
       ],
       "usageExamples": []
     },
     {
-      "content": "değil",
+      "content": "yap",
       "translations": [
-        "nicht",
-        "kein"
+        "machen",
+        "tun",
+        "Mach"
       ],
       "usageExamples": []
     },
     {
-      "content": "mi",
+      "content": "ve",
       "translations": [
-        "ich",
-        "mir"
+        "und",
+        "oder"
       ],
       "usageExamples": [
         [
-          "Kartla ödeme yapılabilir mi?",
-          "Kann man mit Karte bezahlen?",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Gemiler rüzgar ve yağmurdan etkilenirler.",
+          "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
         ],
         [
-          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
-          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
-          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
+          "Ich glaube, treffender und besser kann man es kaum darstellen.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "sonra",
+      "translations": [
+        "nachher",
+        "danach",
+        "nach"
+      ],
+      "usageExamples": [
+        [
+          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sıcak",
+      "translations": [
+        "heiß",
+        "warm",
+        "heiße",
+        "heißer"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "çay",
+      "translations": [
+        "Tee",
+        "Schwarztee"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "iç",
+      "translations": [
+        "innen",
+        "drinnen"
+      ],
+      "usageExamples": []
     }
   ]
 }

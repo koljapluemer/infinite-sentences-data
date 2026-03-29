@@ -1,64 +1,56 @@
 {
-  "sentence": "Kapıyı kapatmama izin veriniz.",
+  "sentence": "Hepsi ne ediyor?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Erlauben Sie mir, die Tür zu schließen."
+    "Was macht das alles zusammen?"
   ],
   "parts": [
     {
-      "content": "kapıyı",
+      "content": "Hepsi",
       "translations": [
-        "die Tür",
-        "zum Tür"
+        "alle",
+        "alles"
       ],
       "usageExamples": []
     },
     {
-      "content": "kapatmama",
+      "content": "ne",
       "translations": [
-        "nicht schließen",
-        "nicht zumachen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "izin",
-      "translations": [
-        "Genehmigung",
-        "Erlaubnis"
+        "nicht",
+        "kein"
       ],
       "usageExamples": [
         [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Onun ne dediğini anlayamadım.",
+          "Ich habe nicht verstanden, was er gesagt hat.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "İzin olmadan pazar tezgahı kurulamaz mı?",
-          "Darf man ohne Genehmigung keinen Marktstand aufbauen?",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Öğle yemeği için ne istersin?",
+          "Was möchtest du zu essen?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen.",
+          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
+          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "veriniz",
+      "content": "ediyor",
       "translations": [
-        "bitte",
-        "geben Sie mir"
+        "macht",
+        "tut"
       ],
       "usageExamples": [
         [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "O başka bir adamla dans ediyor.",
+          "Sie tanzt mit einem anderen Mann.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     }

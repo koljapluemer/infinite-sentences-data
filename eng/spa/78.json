@@ -1,128 +1,52 @@
 {
-  "sentence": "Tom se está lavando la cara.",
+  "sentence": "Nadie piensa eso.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is washing his face."
+    "No one thinks that."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Nadie",
       "translations": [
-        "Tom",
-        "Thomas"
+        "nobody",
+        "no one",
+        "anyone",
+        "naught"
       ],
       "usageExamples": [
         [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
+          "Nadie lo diría.",
+          "No one would say it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "piensa",
+      "translations": [
+        "think",
+        "consider",
+        "believe",
+        "reflect"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "eso",
+      "translations": [
+        "that",
+        "it"
+      ],
+      "usageExamples": [
         [
           "No puedo creer que Tom me haría eso.",
           "I can't believe Tom would do that to me.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se pegó un tiro en la cabeza.",
-          "Tom shot himself in the head.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "se",
-      "translations": [
-        "himself",
-        "herself",
-        "itself",
-        "oneself",
-        "themselves"
-      ],
-      "usageExamples": [
-        [
-          "Se você quiser, vamos.",
-          "If you wish, we can go.",
-          ""
-        ],
-        [
-          "Que se levante el acusado.",
-          "Will the defendant please rise?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Se chover, ficamos em casa.",
-          "If it rains, we will remain at home.",
-          ""
-        ]
-      ]
-    },
-    {
-      "content": "está",
-      "translations": [
-        "is",
-        "are"
-      ],
-      "usageExamples": [
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sigue siendo un misterio dónde está oculto el tesoro.",
-          "Where the treasure is hidden is still a mystery.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "lavando",
-      "translations": [
-        "washing",
-        "cleaning"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
-      ],
-      "usageExamples": [
-        [
-          "La comida está lista.",
-          "The food is ready.",
-          ""
-        ],
-        [
-          "Esa es la realidad.",
-          "That's the reality.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cara",
-      "translations": [
-        "face",
-        "dear",
-        "expensive",
-        "front"
-      ],
-      "usageExamples": []
     }
   ]
 }

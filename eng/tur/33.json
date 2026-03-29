@@ -1,44 +1,59 @@
 {
-  "sentence": "Lütfen güncel tutun.",
+  "sentence": "Gerçekten onu ummuyordum.",
   "credits": [
-    "Sentence from Tatoeba by SSibelty (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please keep us updated."
+    "I didn't actually anticipate that."
   ],
   "parts": [
     {
-      "content": "Lütfen",
+      "content": "gerçekten",
       "translations": [
-        "Please.",
-        "Kindly."
+        "really",
+        "truly",
+        "actually",
+        "genuinely"
       ],
       "usageExamples": [
         [
-          "Lütfen rahatınıza bakın.",
-          "Please make yourselves comfortable.",
+          "O benim için gerçekten eğlenceliydi.",
+          "That was really fun for me.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "onu",
+      "translations": [
+        "that",
+        "it",
+        "him/her",
+        "him"
+      ],
+      "usageExamples": [
+        [
+          "Onu hemen yapman gerekmiyor.",
+          "You don't have to do it right away.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Onu yazmamalıydık.",
+          "We shouldn't have written that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bana aslında onu yapmak istemediğini söyledi.",
+          "Tom told me he didn't actually want to do that.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "güncel",
+      "content": "ummuyordum",
       "translations": [
-        "current",
-        "up-to-date",
-        "latest",
-        "modern"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "tutun",
-      "translations": [
-        "hold",
-        "grasp",
-        "clutch",
-        "grab"
+        "I was waiting."
       ],
       "usageExamples": []
     }

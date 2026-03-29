@@ -1,36 +1,48 @@
 {
-  "sentence": "Si me compras un helado, te doy un beso.",
+  "sentence": "Me gusta tu acento.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by LittleBoy (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Luornu (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "If you buy me an ice cream, I'll give you a kiss."
+    "I like your accent."
   ],
   "parts": [
     {
-      "content": "Si",
+      "content": "Me",
       "translations": [
-        "Yes.",
-        "If"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "me",
-      "translations": [
-        "me"
+        "Me",
+        "I"
       ],
       "usageExamples": [
         [
-          "Ella me pidió ayuda.",
-          "She asked me for help.",
+          "Me gustaría tomar algo.",
+          "I'd like something to drink.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "No sé para qué me he levantado tan temprano.",
-          "I don't know why I got up so early.",
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me siento muy enfermo.",
+          "I feel very sick.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gusta",
+      "translations": [
+        "like",
+        "pleases"
+      ],
+      "usageExamples": [
+        [
+          "A ella le gusta bailar salsa.",
+          "She likes to dance salsa.",
+          ""
         ],
         [
           "Me gusta mucho el chocolate.",
@@ -40,69 +52,34 @@
       ]
     },
     {
-      "content": "compras",
+      "content": "tu",
       "translations": [
-        "shopping",
-        "purchases"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "un",
-      "translations": [
-        "a",
-        "one",
-        "an"
+        "you",
+        "your"
       ],
       "usageExamples": [
         [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
+          "Ten tu pistola a mano.",
+          "Keep your gun handy.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Quiero un café.",
-          "I would like a coffee.",
-          ""
+          "En realidad es tu culpa.",
+          "It is in fact your fault.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tenemos un horario apretado.",
-          "We have a tight schedule.",
+          "Necesito tu pasaporte y tres fotos.",
+          "I need your passport and three pictures.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "helado",
+      "content": "acento",
       "translations": [
-        "ice cream",
-        "frozen dessert"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "te",
-      "translations": [
-        "you",
-        "to you",
-        "yourself"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "doy",
-      "translations": [
-        "I give",
-        "I provide",
-        "I offer"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "beso",
-      "translations": [
-        "kiss",
-        "peck"
+        "accent",
+        "stress"
       ],
       "usageExamples": []
     }

@@ -1,67 +1,160 @@
 {
-  "sentence": "Ich bin verwirrt.",
+  "sentence": "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Benim kafam karıştı."
+    "Gemiler rüzgar ve yağmurdan etkilenirler."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Die",
       "translations": [
-        "Ben"
+        "Bunlar"
       ],
       "usageExamples": [
         [
-          "Ich suche meine Frau.",
-          "Karımı arıyorum.",
+          "Die Polizei ist hier.",
+          "Polis burada.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich will dir helfen.",
-          "Size yardım etmek istiyorum.",
+          "Die Waldfläche war in drei Sektoren unterteilt.",
+          "Orman alanı üç sektöre ayrıldı.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich kenne deinen Vater.",
-          "Ben senin babanı tanıyorum.",
+          "Die letzten Bücher wurden vor einer Woche verkauft.",
+          "Son kitaplar bir hafta önce satıldı.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bin",
+      "content": "Schiffe",
       "translations": [
-        "varım",
-        "bulunuyorum"
+        "Gemiler"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "wurden",
+      "translations": [
+        "elde edildi"
       ],
       "usageExamples": [
+        [
+          "Die letzten Bücher wurden vor einer Woche verkauft.",
+          "Son kitaplar bir hafta önce satıldı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vom",
+      "translations": [
+        "(den)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Wind",
+      "translations": [
+        "rüzgar"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "und",
+      "translations": [
+        "eş",
+        "ile",
+        "ve",
+        "e",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sie hat eine Katze und zwei Hunde.",
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dem",
+      "translations": [
+        "belirtilen"
+      ],
+      "usageExamples": [
+        [
+          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
+          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Das entspricht dem gesunden Menschenverstand.",
+          "Bu sağduyu.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Regen",
+      "translations": [
+        "Yağmur"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "in",
+      "translations": [
+        "dans",
+        "en",
+        "içerisinde"
+      ],
+      "usageExamples": [
+        [
+          "Tom bleibt in Boston.",
+          "Tom Boston'da kalıyor.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
         [
           "Ich bin in Teheran.",
           "Tahran'dayım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben.",
-          "Benim kalmamın mantıklı olduğundan emin değilim.",
+          "Die Waldfläche war in drei Sektoren unterteilt.",
+          "Orman alanı üç sektöre ayrıldı.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "verwirrt",
+      "content": "Mitleidenschaft",
       "translations": [
-        "karıştı"
+        "Hasar Verme"
       ],
-      "usageExamples": [
-        [
-          "Ich war einmal so verwirrt.",
-          "Bir zamanlar kafam çok karışıktı.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "gezogen",
+      "translations": [
+        "seyahat"
+      ],
+      "usageExamples": []
     }
   ]
 }

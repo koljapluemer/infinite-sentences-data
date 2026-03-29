@@ -1,84 +1,101 @@
 {
-  "sentence": "Ich erlaube dir zu gehen.",
+  "sentence": "Die letzten Bücher wurden vor einer Woche verkauft.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sana gitmen için izin veriyorum."
+    "Son kitaplar bir hafta önce satıldı."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Die",
       "translations": [
-        "Ben"
+        "Bunlar"
       ],
       "usageExamples": [
         [
-          "Ich suche meine Frau.",
-          "Karımı arıyorum.",
+          "Die Polizei ist hier.",
+          "Polis burada.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich hasse meine Nachbarn.",
-          "Komşularımdan nefret ediyorum.",
+          "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen.",
+          "Gemiler rüzgar ve yağmurdan etkilenirler.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich muss tanken.",
-          "Benzin almak zorundayım.",
+          "Die Waldfläche war in drei Sektoren unterteilt.",
+          "Orman alanı üç sektöre ayrıldı.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dir",
+      "content": "letzten",
       "translations": [
-        "Sana",
-        "Seni",
-        "dir",
-        "sana"
+        "sonraki"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Bücher",
+      "translations": [
+        "Kitaplar",
+        "kitaplar"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "wurden",
+      "translations": [
+        "elde edildi"
       ],
       "usageExamples": [
         [
-          "Ich will dir helfen.",
-          "Size yardım etmek istiyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
-          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen.",
+          "Gemiler rüzgar ve yağmurdan etkilenirler.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "zu",
+      "content": "vor",
       "translations": [
-        "para"
+        "önce"
       ],
       "usageExamples": [
         [
-          "Ich war zu Hause.",
-          "Evdeydim.",
+          "Es ist Viertel vor neun.",
+          "Dokuza çeyrek var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Was möchtest du zu essen?",
-          "Öğle yemeği için ne istersin?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Erlauben Sie mir, das Problem zu lösen.",
-          "Bana sorunu çözmeme izin veriniz.",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Tom'dan korktuğumu kim söylüyor?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gehen",
+      "content": "einer",
       "translations": [
-        "gitmen"
+        "bir"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Woche",
+      "translations": [
+        "hafta"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "verkauft",
+      "translations": [
+        "satılmıştır",
+        "satıldı"
       ],
       "usageExamples": []
     }

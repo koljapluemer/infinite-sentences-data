@@ -1,58 +1,37 @@
 {
-  "sentence": "Hepsi ne ediyor?",
+  "sentence": "Gecikmelere sinir oluyorum.",
   "credits": [
-    "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Was macht das alles zusammen?"
+    "Ich ärgere mich über Verspätungen."
   ],
   "parts": [
     {
-      "content": "Hepsi",
+      "content": "Gecikmelere",
       "translations": [
-        "alle",
-        "alles"
+        "Verspätungen",
+        "Verspätung"
       ],
       "usageExamples": []
     },
     {
-      "content": "ne",
+      "content": "sinir",
       "translations": [
-        "nicht",
-        "kein"
+        "Nerv",
+        "Wut",
+        "Ärger"
       ],
-      "usageExamples": [
-        [
-          "Onun ne dediğini anlayamadım.",
-          "Ich habe nicht verstanden, was er gesagt hat.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
-          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Benim için ne zaman vaktin olur?",
-          "Wann hast du Zeit für mich?",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "ediyor",
+      "content": "oluyorum",
       "translations": [
-        "macht",
-        "tut"
+        "ich mache",
+        "ich tue"
       ],
-      "usageExamples": [
-        [
-          "O başka bir adamla dans ediyor.",
-          "Sie tanzt mit einem anderen Mann.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

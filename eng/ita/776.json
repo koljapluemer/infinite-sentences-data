@@ -1,106 +1,126 @@
 {
-  "sentence": "Quali sono i tuoi piani?",
+  "sentence": "Perché non sta capitando ora?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What are your plans?",
-    "What're your plans?"
+    "Why isn't that happening now?"
   ],
   "parts": [
     {
-      "content": "Quali",
+      "content": "Perché",
       "translations": [
-        "Which",
-        "What kind of",
-        "What type of",
-        "What sort of"
+        "Why",
+        "For what reason",
+        "What for",
+        "Why is that"
+      ],
+      "usageExamples": [
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Preferirei non farlo.",
+          "I'd rather not do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sta",
+      "translations": [
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta lavorando, vero?",
+          "Tom is working, isn't he?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is eating dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "capitando",
+      "translations": [
+        "by capturing",
+        "through seizing",
+        "in taking",
+        "by taking hold"
       ],
       "usageExamples": []
     },
     {
-      "content": "sono",
+      "content": "ora",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are",
-        "am"
+        "now",
+        "hour",
+        "time",
+        "moment"
       ],
       "usageExamples": [
         [
-          "Perché sono qui?",
-          "Why are they here?",
-          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
-        ],
-        [
-          "Si sono sposati.",
-          "They got married.",
+          "Mi sto riposando ora.",
+          "I'm resting now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono una patata.",
-          "I am a potato.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "i",
-      "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
-      ],
-      "usageExamples": [
-        [
-          "Conosce i cavalli.",
-          "He knows horses.",
+          "A che ora finisce la scuola?",
+          "What time does school end?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Henrietta non piacciono i gatti.",
-          "Henrietta doesn't like cats.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono stanco di ascoltare incessantemente i problemi degli altri.",
-          "I'm tired of listening incessantly to other people's problems.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tuoi",
-      "translations": [
-        "your",
-        "yours",
-        "of yours"
-      ],
-      "usageExamples": [
-        [
-          "Hai finito i tuoi compiti?",
-          "Are you done with your homework?",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Prendi in prestito le biro dai tuoi amici.",
-          "You borrow pens from your friends.",
+          "A che ora arrivate al lavoro?",
+          "What time do you arrive at work?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "piani",
-      "translations": [
-        "plans",
-        "floors",
-        "levels",
-        "schedules"
-      ],
-      "usageExamples": []
     }
   ]
 }

@@ -1,94 +1,127 @@
 {
-  "sentence": "Mary benim kız arkadaşım değil.",
+  "sentence": "Güneş altında herhangi bir şey hakkında konuşabilirsiniz.",
   "credits": [
-    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Mary isn't my girlfriend."
+    "You can talk about anything under the sun."
   ],
   "parts": [
     {
-      "content": "Mary",
+      "content": "Güneş",
       "translations": [
-        "Mary",
-        "Maria"
-      ],
-      "usageExamples": [
-        [
-          "Tom Mary'ye bekleyeceğini söyledi.",
-          "Tom told Mary he'd wait.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom, Mary'ye üç yüz dolar verdi.",
-          "Tom gave Mary three hundred dollars.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
-          "Tom said he didn't know who Mary was getting married to.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "benim",
-      "translations": [
-        "my",
-        "mine"
-      ],
-      "usageExamples": [
-        [
-          "O benim bir kuzenimle evli.",
-          "She's married to a cousin of mine.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "O benim için gerçekten eğlenceliydi.",
-          "That was really fun for me.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Her şey benim için yeniydi.",
-          "Everything was new to me.",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "arkadaşım",
-      "translations": [
-        "my friend",
-        "friend"
+        "Sun",
+        "The Sun"
       ],
       "usageExamples": []
     },
     {
-      "content": "değil",
+      "content": "altında",
       "translations": [
-        "not",
-        "isn't",
-        "doesn't",
-        "is not"
+        "under",
+        "beneath",
+        "below"
       ],
       "usageExamples": [
         [
-          "Tom en iyi değil.",
-          "Tom isn't the best.",
+          "Gaz denizin altında bulundu.",
+          "Gas has been found below the sea.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
+        [
+          "Öğretmenler odası ve spor salonu onarım altında.",
+          "The teachers' room and the gym are under renovation.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "herhangi",
+      "translations": [
+        "any"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un Mary'nin kız kardeşlerinin herhangi biri ile tanıştığını sanmıyorum.",
+          "I don't think Tom has met either of Mary's sisters.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "one",
+        "a",
+        "an"
+      ],
+      "usageExamples": [
         [
           "O bir üstat değil.",
           "He is not a virtuoso.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Biz oraya gidebilsek muhteşem olurdu, değil mi?",
-          "It would be splendid if we could go there, wouldn't it?",
+          "İyi bir iş istiyorum.",
+          "I want a good job.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sen gerçek bir zavallısın.",
+          "You're a real loser.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "şey",
+      "translations": [
+        "thing",
+        "stuff",
+        "object",
+        "item"
+      ],
+      "usageExamples": [
+        [
+          "Başka bir şey düşünmek zorundayız.",
+          "We have to think of something else.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Her şey benim için yeniydi.",
+          "Everything was new to me.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom bir şey arıyor gibi görünüyor.",
+          "Tom seems to be looking for something.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hakkında",
+      "translations": [
+        "about",
+        "regarding",
+        "concerning",
+        "on the subject of"
+      ],
+      "usageExamples": [
+        [
+          "O, onunla çocuklarının eğitimi hakkında tartıştı.",
+          "She argued with him about their children's education.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "konuşabilirsiniz",
+      "translations": [
+        "You can speak to me."
+      ],
+      "usageExamples": []
     }
   ]
 }

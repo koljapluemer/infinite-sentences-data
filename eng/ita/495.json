@@ -1,57 +1,58 @@
 {
-  "sentence": "Lasciate finire Tom.",
+  "sentence": "L'ha fatto lentamente.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let Tom finish."
+    "She did it slowly."
   ],
   "parts": [
     {
-      "content": "Lasciate",
+      "content": "L'ha",
       "translations": [
-        "Leave",
-        "Let go",
-        "Abandon",
-        "Allow"
+        "He has it.",
+        "She has it",
+        "It has",
+        "You have it"
       ],
       "usageExamples": []
     },
     {
-      "content": "finire",
+      "content": "fatto",
       "translations": [
-        "to finish",
-        "to end",
-        "to complete",
-        "to conclude"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy",
-        "Tom"
+        "fact",
+        "done",
+        "made",
+        "event"
       ],
       "usageExamples": [
         [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
+          "Forse ho fatto un errore.",
+          "Perhaps I made a mistake.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom sembra compiaciuto.",
-          "Tom seems pleased.",
+          "A Tom sarebbe piaciuto quello che avete fatto.",
+          "Tom would've liked what you did.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sai cosa vuole Tom?",
-          "Do you know what Tom wants?",
+          "Non si vuole prendere la responsabilità per ciò che ha fatto.",
+          "He doesn't want to take responsibility for what he did.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "lentamente",
+      "translations": [
+        "slowly",
+        "gently",
+        "gradually",
+        "leisurely"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,35 +1,61 @@
 {
-  "sentence": "Quanti ne hai?",
+  "sentence": "Perché te ne stai andando?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How many do you have?"
+    "Why are you leaving?"
   ],
   "parts": [
     {
-      "content": "Quanti",
+      "content": "Perché",
       "translations": [
-        "How much?",
-        "How many?",
-        "What is the price?",
-        "What is the cost?"
+        "Why",
+        "For what reason",
+        "What for",
+        "Why is that"
       ],
       "usageExamples": [
         [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
+          "Perché sono qui?",
+          "Why am I here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+          "Perché siete andati lì?",
+          "Why did you go there?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "te",
+      "translations": [
+        "you",
+        "yourself",
+        "to you",
+        "for you"
+      ],
+      "usageExamples": [
+        [
+          "È difficile per me dipendere da te.",
+          "It's hard for me to depend on you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni aveva nella prima foto?",
-          "How old was she in the first photo?",
+          "Io ho qualche idea per te.",
+          "I have a few ideas for you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A te piace il tuo appartamento nuovo?",
+          "Do you like your new apartment?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -44,13 +70,13 @@
       ],
       "usageExamples": [
         [
-          "Io ne ho pagata una.",
-          "I paid one.",
+          "Quanti ne hai?",
+          "How many do you have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Perché te ne stai andando?",
-          "Why are you leaving?",
+          "Io ne ho pagata una.",
+          "I paid one.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,30 +87,34 @@
       ]
     },
     {
-      "content": "hai",
+      "content": "stai",
       "translations": [
-        "you have",
-        "you've got",
-        "you possess",
-        "you own"
+        "you stay",
+        "you are staying",
+        "you remain"
       ],
       "usageExamples": [
         [
-          "Perché li hai attaccati?",
-          "Why did you attack them?",
+          "Che altro stai considerando?",
+          "What else are you considering?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non hai coscienza!",
-          "You have no conscience!",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "andando",
+      "translations": [
+        "walking",
+        "going",
+        "moving",
+        "traveling"
+      ],
+      "usageExamples": []
     }
   ]
 }

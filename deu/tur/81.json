@@ -1,11 +1,11 @@
 {
-  "sentence": "O, benim bir arkadaşım için.",
+  "sentence": "O başka bir adamla dans ediyor.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es ist für einen Freund von mir."
+    "Sie tanzt mit einem anderen Mann."
   ],
   "parts": [
     {
@@ -21,42 +21,52 @@
           "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "O başka bir adamla dans ediyor.",
-          "Sie tanzt mit einem anderen Mann.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
         ],
         [
-          "O zamandan beri onu kimse görmedi.",
-          "Niemand hat ihn mehr gesehen seitdem.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "O nasıl? Yaşlı mı, genç mi?",
+          "Wie ist er? Alt, oder jung?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "benim",
+      "content": "başka",
       "translations": [
-        "mein",
-        "meine"
+        "anderer",
+        "andere",
+        "andres"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "bir",
       "translations": [
         "eins",
         "ein",
-        "eine"
+        "eine",
+        "einem",
+        "einer",
+        "eines"
       ],
       "usageExamples": [
-        [
-          "Ciddi bir konuşmaya başladık.",
-          "Wir begannen eine ernsthafte Unterhaltung.",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
-        ],
         [
           "Tom'un bir kedisi var.",
           "Tom hat eine Katze.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ciddi bir konuşmaya başladık.",
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
         ],
         [
           "İyi bir kamera aldım.",
@@ -66,36 +76,33 @@
       ]
     },
     {
-      "content": "arkadaşım",
+      "content": "adamla",
       "translations": [
-        "mein Freund",
-        "meine Freundin",
-        "mein Kumpel",
-        "meine Kumpeline"
+        "Mensch",
+        "Typ",
+        "Kerl"
       ],
       "usageExamples": []
     },
     {
-      "content": "için",
+      "content": "dans",
       "translations": [
-        "für",
-        "um zu"
+        "in",
+        "drin"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ediyor",
+      "translations": [
+        "macht",
+        "tut"
       ],
       "usageExamples": [
         [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen.",
-          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mali desteği, bu projemiz için vazgeçilmezdir.",
-          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
-          "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sana gitmen için izin veriyorum.",
-          "Ich erlaube dir zu gehen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Hepsi ne ediyor?",
+          "Was macht das alles zusammen?",
+          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
         ]
       ]
     }

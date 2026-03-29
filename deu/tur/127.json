@@ -1,84 +1,104 @@
 {
-  "sentence": "Öğle yemeği için ne istersin?",
+  "sentence": "Tom, Avustralya'da olduğunu söyledi.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Was möchtest du zu essen?"
+    "Tom hat gesagt, dass er in Australien ist."
   ],
   "parts": [
     {
-      "content": "Öğle",
+      "content": "Tom",
       "translations": [
-        "Mittag",
-        "zu Mittag"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yemeği",
-      "translations": [
-        "das Essen",
-        "die Mahlzeit"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "için",
-      "translations": [
-        "für",
-        "um zu"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Bu pasajı senin için özetlemek istiyorum.",
-          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Tom nehirde yüzüyor.",
+          "Tom schwimmt im Fluss.",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom beni arıyor mu?",
+          "Sucht Tom nach mir?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Avustralya",
+      "translations": [
+        "Australien",
+        "Australien (Land)"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "da",
+      "translations": [
+        "da",
+        "dort",
+        "da drüben",
+        "an"
+      ],
+      "usageExamples": [
+        [
+          "Bu da kim?",
+          "Wer ist das denn?",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ateşsiz duman da çıkabilir.",
+          "Rauch kann auch ohne Feuer entstehen.",
+          "Sentence from Tatoeba by hrkucuk (CC-BY 2.0 FR)"
+        ],
+        [
+          "Amerikadaki tüketim durgunluğu etrafı da etkiledi.",
+          "Die Stagnation des Konsums in Amerika zog auch die Umgebung in Mitleidenschaft.",
           "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mali desteği, bu projemiz için vazgeçilmezdir.",
-          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
-          "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
-        ],
-        [
-          "O, benim bir arkadaşım için.",
-          "Es ist für einen Freund von mir.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ne",
+      "content": "olduğunu",
       "translations": [
-        "nicht",
-        "kein"
+        "es ist",
+        "war",
+        "ist geworden"
       ],
       "usageExamples": [
         [
-          "Hepsi ne ediyor?",
-          "Was macht das alles zusammen?",
-          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
-        ],
-        [
-          "Onun ne dediğini anlayamadım.",
-          "Ich habe nicht verstanden, was er gesagt hat.",
+          "Biraz yorgun olduğunu söyledi.",
+          "Er sagte, er sei ein bisschen müde.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
-          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
+          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
+          "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "istersin",
+      "content": "söyledi",
       "translations": [
-        "du bist",
-        "du bist es"
+        "sagte",
+        "hat gesagt",
+        "gesagt"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Biraz yorgun olduğunu söyledi.",
+          "Er sagte, er sei ein bisschen müde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,66 +1,118 @@
 {
-  "sentence": "¡Yo vi un ratón!",
+  "sentence": "No hay nadie en la entrada.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I saw a mouse!"
+    "There's no one at the entrance."
   ],
   "parts": [
     {
-      "content": "Yo",
+      "content": "No",
       "translations": [
-        "I",
-        "Me"
+        "No.",
+        "Not",
+        "Nope."
       ],
       "usageExamples": [
         [
-          "Yo también lo creo.",
-          "I also think so.",
+          "No tengo tiempo.",
+          "I'm out of time.",
+          ""
+        ],
+        [
+          "No quiero ir.",
+          "I don't want to go.",
+          ""
+        ],
+        [
+          "No puedo creer que Tom me haría eso.",
+          "I can't believe Tom would do that to me.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vi",
+      "content": "hay",
       "translations": [
-        "I go",
-        "I live",
-        "I am going."
+        "there is",
+        "there are",
+        "there exists"
+      ],
+      "usageExamples": [
+        [
+          "No hay nada más qué decir.",
+          "There's nothing more to be said.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nadie",
+      "translations": [
+        "no one"
       ],
       "usageExamples": []
     },
     {
-      "content": "un",
+      "content": "en",
       "translations": [
-        "a",
-        "one",
-        "an"
+        "to"
       ],
       "usageExamples": [
         [
-          "Quiero un café.",
-          "I'd like a coffee.",
+          "Confío en él.",
+          "I trust him.",
           ""
         ],
         [
-          "Necesito un libro.",
-          "I require a book.",
+          "Estoy en casa.",
+          "I am in the house.",
           ""
         ],
         [
-          "Tenemos un horario apretado.",
-          "We have a tight schedule.",
+          "Los periodistas le acribillaron a preguntas en la rueda de prensa.",
+          "Journalists bombarded him with questions at the press conference.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ratón",
+      "content": "la",
       "translations": [
-        "mouse",
-        "rat"
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "La casa es grande.",
+          "The house is big.",
+          ""
+        ],
+        [
+          "La comida está lista.",
+          "The food is ready.",
+          ""
+        ],
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "entrada",
+      "translations": [
+        "entry",
+        "entrance",
+        "input",
+        "admission"
       ],
       "usageExamples": []
     }

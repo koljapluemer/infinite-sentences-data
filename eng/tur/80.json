@@ -1,79 +1,89 @@
 {
-  "sentence": "Tom kötü bir golfçü.",
+  "sentence": "Seni neyin daha iyi hissettireceğini biliyorum.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is a bad golfer."
+    "I know what'll make you feel better."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "seni",
       "translations": [
-        "Tom",
-        "Tommy"
+        "you"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "neyin",
+      "translations": [
+        "of what"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "daha",
+      "translations": [
+        "more",
+        "further",
+        "again",
+        "else"
       ],
       "usageExamples": [
         [
-          "Tom annemin erkek kardeşi.",
-          "Tom is my mother's brother.",
+          "Tom, bunu yapmada Mary'den çok daha iyidir.",
+          "Tom is a lot better at doing that than Mary.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Seni öldüremedim, Tom.",
-          "I couldn't kill you, Tom.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
+        ]
+      ]
+    },
+    {
+      "content": "iyi",
+      "translations": [
+        "good",
+        "well",
+        "nice",
+        "fine"
+      ],
+      "usageExamples": [
         [
           "Tom en iyi değil.",
           "Tom isn't the best.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bazı iyi fikirleri olabilir.",
+          "Tom may have some good ideas.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O iyi bir çocuk olmalı.",
+          "He must be a good boy.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "kötü",
+      "content": "hissettireceğini",
       "translations": [
-        "bad",
-        "evil",
-        "poor",
-        "awful"
+        "make you feel"
       ],
       "usageExamples": []
     },
     {
-      "content": "bir",
+      "content": "biliyorum",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "I know.",
+        "I am aware"
       ],
       "usageExamples": [
         [
-          "Sadece bir battaniyem var.",
-          "I only have one blanket.",
+          "Bunun ne anlama geldiğini biliyorum.",
+          "I know what this means.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "İyi bir iş istiyorum.",
-          "I want a good job.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "O bir üstat değil.",
-          "He is not a virtuoso.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "golfçü",
-      "translations": [
-        "golfer",
-        "golf player"
-      ],
-      "usageExamples": []
     }
   ]
 }

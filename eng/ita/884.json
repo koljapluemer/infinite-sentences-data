@@ -1,100 +1,103 @@
 {
-  "sentence": "Sposarsi è una questione seria.",
+  "sentence": "Si ruppe entrambe le braccia.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Getting married is a serious matter."
+    "He broke both his arms.",
+    "He broke both of his arms.",
+    "She broke both her arms.",
+    "She broke both of her arms."
   ],
   "parts": [
     {
-      "content": "Sposarsi",
+      "content": "Si",
       "translations": [
-        "to get married",
-        "to marry",
-        "to tie the knot",
-        "to wed"
+        "If",
+        "Whether",
+        "In case",
+        "Provided that"
+      ],
+      "usageExamples": [
+        [
+          "Si sono sposati.",
+          "They got married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si sta lavando i capelli.",
+          "She's washing her hair.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ruppe",
+      "translations": [
+        "rupee",
+        "currency",
+        "money"
+      ],
+      "usageExamples": [
+        [
+          "La ruppe.",
+          "He broke it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "entrambe",
+      "translations": [
+        "both",
+        "both of them",
+        "the two",
+        "each of them"
       ],
       "usageExamples": []
     },
     {
-      "content": "è",
+      "content": "le",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "the",
+        "them",
+        "to them",
+        "for them"
       ],
       "usageExamples": [
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Non le può licenziare.",
+          "You can't fire them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il libro è arrivato.",
-          "The book came.",
+          "Non le vogliamo là.",
+          "We don't want them there.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Forse è lui.",
-          "Maybe it's him.",
+          "Io sto guardando le Olimpiadi.",
+          "I'm watching the Olympics.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "braccia",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
-      ],
-      "usageExamples": [
-        [
-          "Io sono una patata.",
-          "I am a potato.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vorrei una camera.",
-          "I would like a room.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È una giornata nuvolosa.",
-          "It's a cloudy day.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "questione",
-      "translations": [
-        "question",
-        "issue",
-        "matter",
-        "concern"
+        "arms",
+        "branches",
+        "limbs",
+        "arms (body part)"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "seria",
-      "translations": [
-        "series",
-        "set",
-        "sequence",
-        "collection"
-      ],
-      "usageExamples": [
-        [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

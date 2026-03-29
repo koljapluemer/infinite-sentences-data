@@ -1,81 +1,165 @@
 {
-  "sentence": "Bevo solo caffè decaffeinato.",
+  "sentence": "A noi è piaciuta la cena.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I only drink decaffeinated coffee."
+    "We enjoyed the dinner."
   ],
   "parts": [
     {
-      "content": "Bevo",
+      "content": "A",
       "translations": [
-        "I am drinking",
-        "I consume"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "solo",
-      "translations": [
-        "alone",
-        "only",
-        "just",
-        "single"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Io sono solo curiosa.",
-          "I'm just curious.",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sospetto che Tom non faccia i compiti da solo.",
-          "I suspect that Tom doesn't do his homework by himself.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary importa solo di se stessa.",
-          "Mary only cares about herself.",
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "caffè",
+      "content": "noi",
       "translations": [
-        "coffee",
-        "café",
-        "espresso",
-        "java"
+        "we",
+        "us",
+        "ourselves"
       ],
       "usageExamples": [
         [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "Tutti noi parliamo inglese.",
+          "We all speak English.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che ne dite di un po' di caffè?",
-          "How about some coffee?",
+          "Siate pazienti con noi.",
+          "Be patient with us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho bevuto del caffè questa mattina.",
-          "I drank coffee this morning.",
+          "Venite a pranzare con noi.",
+          "Come to lunch with us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "decaffeinato",
+      "content": "è",
       "translations": [
-        "decaffeinated",
-        "caffeine-free",
-        "decaf"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had some fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaciuta",
+      "translations": [
+        "liked",
+        "pleased",
+        "enjoyed",
+        "found appealing"
+      ],
+      "usageExamples": [
+        [
+          "A Carlos è piaciuta la presentazione di Rima.",
+          "Carlos enjoyed Rima’s presentation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le è piaciuta la pizza?",
+          "Did you enjoy the pizza?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla è piaciuta la festa.",
+          "Layla liked the party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "You lost the game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cena",
+      "translations": [
+        "dinner",
+        "supper",
+        "meal"
+      ],
+      "usageExamples": [
+        [
+          "Studio inglese dopo cena.",
+          "I study English after dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha a malapena toccato la sua cena.",
+          "He barely touched his dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Che cosa c'è per cena?",
+          "What's for dinner?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

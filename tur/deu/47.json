@@ -1,13 +1,60 @@
 {
-  "sentence": "Tom hat Mary heute gesehen.",
+  "sentence": "Ich habe Tom seit gestern nicht gesehen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Bugün Tom, Mary'yi gördü."
+    "Dünden beri Tom'u görmedim."
   ],
   "parts": [
+    {
+      "content": "Ich",
+      "translations": [
+        "Ben"
+      ],
+      "usageExamples": [
+        [
+          "Ich bin verwirrt.",
+          "Benim kafam karıştı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich war zu Hause.",
+          "Evdeydim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "habe",
+      "translations": [
+        "sahip olmak",
+        "var olmak"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sizinle sonucu paylaşma niyetinde değilim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe jetzt Zeit, um zu schreiben. Und du?",
+          "Şimdi yazabilirim zamanım var. Ya senin?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe die Geschichte nicht gelesen.",
+          "Hikayeyi okumadım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
     {
       "content": "Tom",
       "translations": [
@@ -16,36 +63,50 @@
       "usageExamples": []
     },
     {
-      "content": "hat",
+      "content": "seit",
       "translations": [
-        "var",
-        "sahip",
-        "bulunmak"
+        "başından"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "gestern",
+      "translations": [
+        "Dün",
+        "Dünden"
       ],
       "usageExamples": [
         [
-          "Tom hat viel Zeit.",
-          "Tom'un çok zamanı var.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom hat eine Katze.",
-          "Tom'un bir kedisi var.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt.",
-          "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
+          "Ich habe sie gestern gesehen.",
+          "Dün onu gördüm.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Mary",
+      "content": "nicht",
       "translations": [
-        "Mary'yi"
+        "değil",
+        "ne",
+        "yok"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich werde nicht fragen, warum du das willst.",
+          "Bunu neden istediğini sormayacağım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "gesehen",
@@ -56,13 +117,13 @@
       ],
       "usageExamples": [
         [
-          "Ich habe Tom seit gestern nicht gesehen.",
-          "Dünden beri Tom'u görmedim.",
+          "Ich habe sie gestern gesehen.",
+          "Dün onu gördüm.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich habe sie gestern gesehen.",
-          "Dün onu gördüm.",
+          "Tom hat Mary heute gesehen.",
+          "Bugün Tom, Mary'yi gördü.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,21 +1,37 @@
 {
-  "sentence": "Vladimir è forte come una mucca.",
+  "sentence": "Tom è ovviamente arrabbiato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Vladimir is strong as a cow."
+    "Tom is obviously angry."
   ],
   "parts": [
     {
-      "content": "Vladimir",
+      "content": "Tom",
       "translations": [
-        "Vladimir (name)",
-        "Vladimir (given name)",
-        "Vladimir (personal name)"
+        "Thomas",
+        "Tommy",
+        "Tom"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Io so com'era Tom.",
+          "I know how Tom used to be.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è addolcito.",
+          "Tom relented.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non lasciate guidare Tom.",
+          "Don't let Tom drive.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "è",
@@ -27,13 +43,13 @@
       ],
       "usageExamples": [
         [
-          "Mangia finché è caldo.",
-          "Eat while it's warm.",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -44,86 +60,24 @@
       ]
     },
     {
-      "content": "forte",
+      "content": "ovviamente",
       "translations": [
-        "strong",
-        "powerful",
-        "forceful",
-        "intense"
+        "obviously",
+        "of course",
+        "evidently",
+        "clearly"
       ],
-      "usageExamples": [
-        [
-          "Non mi sento abbastanza forte per dirglielo.",
-          "I don’t feel strong enough to tell him.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "come",
+      "content": "arrabbiato",
       "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
+        "angry",
+        "mad",
+        "irritated",
+        "furious"
       ],
-      "usageExamples": [
-        [
-          "Sa come raggiungerla?",
-          "Do you know how to reach her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Come si fa a sentirlo?",
-          "How can you hear him?",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non vediamo le cose così come sono, le vediamo così come siamo.",
-          "We don't see things as they are, we see them as we are.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "una",
-      "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
-      ],
-      "usageExamples": [
-        [
-          "Datele una mano, OK?",
-          "Give her a hand, will you?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Noi terremo una festa.",
-          "We'll have a party.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono una buona persona.",
-          "I'm a good person.",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mucca",
-      "translations": [
-        "cow",
-        "female bovine"
-      ],
-      "usageExamples": [
-        [
-          "Beve latte di mucca.",
-          "He drinks cow's milk.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "sentence": "Ben senin babanı tanıyorum.",
+  "sentence": "Ben hatırlamak istiyordum.",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich kenne deinen Vater."
+    "Ich wollte mich erinnern."
   ],
   "parts": [
     {
@@ -16,9 +16,9 @@
       ],
       "usageExamples": [
         [
-          "Ben hatırlamak istiyordum.",
-          "Ich wollte mich erinnern.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Ben senin babanı tanıyorum.",
+          "Ich kenne deinen Vater.",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
         ],
         [
           "Ben de böyle olsun istemezdim.",
@@ -33,37 +33,18 @@
       ]
     },
     {
-      "content": "senin",
+      "content": "hatırlamak",
       "translations": [
-        "dein",
-        "deine"
-      ],
-      "usageExamples": [
-        [
-          "Bu pasajı senin için özetlemek istiyorum.",
-          "Ich möchte diese Passage für dich zusammenfassen.",
-          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
-        ],
-        [
-          "Şimdi yazabilirim zamanım var. Ya senin?",
-          "Ich habe jetzt Zeit, um zu schreiben. Und du?",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "baban",
-      "translations": [
-        "Vater",
-        "Papa"
+        "erinnern",
+        "sich erinnern"
       ],
       "usageExamples": []
     },
     {
-      "content": "tanıyorum",
+      "content": "istiyordum",
       "translations": [
-        "ich kenne",
-        "ich weiß"
+        "ich wollte",
+        "ich habe gewollt"
       ],
       "usageExamples": []
     }

@@ -1,115 +1,40 @@
 {
-  "sentence": "Dovrebbe chiamare a casa adesso.",
+  "sentence": "Conosci quell'hotel?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You should call home now."
+    "Do you know that hotel?"
   ],
   "parts": [
     {
-      "content": "Dovrebbe",
+      "content": "Conosci",
       "translations": [
-        "should",
-        "ought to",
-        "is supposed to",
-        "is to"
+        "Do you know?",
+        "Are you familiar with?",
+        "Have you heard of?",
+        "Do you recognize?"
       ],
       "usageExamples": []
     },
     {
-      "content": "chiamare",
+      "content": "quell'",
       "translations": [
-        "to call",
-        "to name",
-        "to invoke",
-        "to summon"
+        "that one",
+        "that",
+        "the one"
       ],
-      "usageExamples": [
-        [
-          "Tom ricevette un messaggio urgente che diceva di chiamare sua moglie.",
-          "Tom received an urgent message to call his wife.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "hotel",
       "translations": [
-        "an",
-        "one",
-        "each"
+        "inn",
+        "lodging",
+        "accommodation"
       ],
-      "usageExamples": [
-        [
-          "Cosa capiterà a loro?",
-          "What's going to happen to them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Devo andare a trovarli.",
-          "I have to go find them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "casa",
-      "translations": [
-        "house",
-        "home",
-        "dwelling",
-        "residence"
-      ],
-      "usageExamples": [
-        [
-          "Dov'è la sua casa?",
-          "Where's his home?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lo devo fare prima di potere andare a casa oggi.",
-          "I have to do that before I can go home today.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questa è casa sua adesso.",
-          "This is your house now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "adesso",
-      "translations": [
-        "now",
-        "right now",
-        "at this moment",
-        "currently"
-      ],
-      "usageExamples": [
-        [
-          "Sto cucinando adesso.",
-          "I am cooking now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta cenando adesso.",
-          "Tom is eating dinner right now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

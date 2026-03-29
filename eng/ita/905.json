@@ -1,83 +1,95 @@
 {
-  "sentence": "Tom acconsentì con riluttanza.",
+  "sentence": "Sono al sicuro adesso?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom reluctantly agreed."
+    "Am I safe now?"
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Sono",
       "translations": [
-        "Thomas",
-        "Tommy",
-        "Tom"
+        "I am.",
+        "I exist.",
+        "I am here.",
+        "I am present"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the",
+        "for the"
       ],
       "usageExamples": [
         [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
+          "Sami lavorava al ristorante.",
+          "Sami used to work at the restaurant.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Dovremmo avvertire Tom.",
-          "We should warn Tom.",
+          "Andammo al supermercato asiatico.",
+          "We went to the Asian supermarket.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom vende funghi psichedelici.",
-          "Tom sells psychedelic mushrooms.",
+          "Rispondete al dannato telefono!",
+          "Answer the damn phone!",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "acconsentì",
+      "content": "sicuro",
       "translations": [
-        "he/she consented",
-        "he/she agreed",
-        "he/she assented",
-        "he/she approved"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "con",
-      "translations": [
-        "with",
-        "together with",
-        "in the company of",
-        "along with"
+        "safe",
+        "secure",
+        "sure",
+        "reliable"
       ],
       "usageExamples": [
         [
-          "È con Tom, vero?",
-          "You're with Tom, aren't you?",
+          "Disse che non si sentiva al sicuro.",
+          "He said he didn't feel safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Restiamo con Tom.",
-          "Let's stay with Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Parlo frequentemente con lui.",
-          "I frequently talk to him.",
+          "Io sono sicuro che Tom ti aiuterà.",
+          "I'm sure Tom will help you.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "riluttanza",
+      "content": "adesso",
       "translations": [
-        "reluctance",
-        "hesitation",
-        "unwillingness",
-        "disinclination"
+        "now",
+        "right now",
+        "at this moment",
+        "currently"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Viviamo in campagna adesso.",
+          "We live in the country now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sto cucinando adesso.",
+          "I am cooking now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,122 +1,103 @@
 {
-  "sentence": "Birçok insan, bunun bir yalan olduğunu söylüyor.",
+  "sentence": "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
   "credits": [
-    "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es gibt viele Leute, die sagen, das sei eine Lüge."
+    "Ich muss für eine Spanienreise Spanisch lernen."
   ],
   "parts": [
     {
-      "content": "birçok",
+      "content": "Bir",
       "translations": [
-        "viele",
-        "zahlreiche"
+        "Ein",
+        "Eine"
+      ],
+      "usageExamples": [
+        [
+          "Bir alternatifin var.",
+          "Du hast eine Alternative.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bir dil yeterince iyi öğrenilemez.",
+          "Man kann keine Sprache genug beherrschen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bir zamanlar kafam çok karışıktı.",
+          "Ich war einmal so verwirrt.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "İspanya",
+      "translations": [
+        "Spanien",
+        "Spanische"
       ],
       "usageExamples": []
     },
     {
-      "content": "insan",
+      "content": "gezisi",
       "translations": [
-        "Mensch",
-        "Person"
-      ],
-      "usageExamples": [
-        [
-          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
-          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
-          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "bunun",
-      "translations": [
-        "dieses",
-        "das hier"
+        "Reise",
+        "Ausflug"
       ],
       "usageExamples": []
     },
     {
-      "content": "bir",
+      "content": "için",
       "translations": [
-        "eins",
-        "ein",
-        "eine"
+        "für",
+        "um zu",
+        "zum",
+        "zur"
       ],
       "usageExamples": [
         [
-          "İyi bir kamera aldım.",
-          "Ich habe mir eine gute Kamera gekauft.",
+          "Bu pasajı senin için özetlemek istiyorum.",
+          "Ich möchte diese Passage für dich zusammenfassen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ],
+        [
+          "Öğle yemeği için ne istersin?",
+          "Was möchtest du zu essen?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!",
+          "Belki sizin için hâlâ umut vardır.",
+          "Vielleicht gibt es ja noch Hoffnung für Sie.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "yalan",
+      "content": "İspanyolca",
       "translations": [
-        "Lüge",
-        "Falschheit"
+        "Spanisch",
+        "Spanische Sprache"
       ],
-      "usageExamples": [
-        [
-          "Yani yalan söylediğimi iddia ediyorsunuz.",
-          "Sie behaupten also, dass ich lüge.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "olduğunu",
+      "content": "öğrenmem",
       "translations": [
-        "es ist",
-        "war",
-        "ist geworden"
+        "lernen",
+        "erlernen"
       ],
-      "usageExamples": [
-        [
-          "Biraz yorgun olduğunu söyledi.",
-          "Er sagte, er sei ein bisschen müde.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "söylüyor",
+      "content": "gerek",
       "translations": [
-        "sagt",
-        "er sagt",
-        "sie sagt",
-        "man sagt"
+        "notwendig",
+        "erforderlich",
+        "gebraucht"
       ],
-      "usageExamples": [
-        [
-          "Tom'dan korktuğumu kim söylüyor?",
-          "Wer sagt, dass ich Angst vor Tom hätte?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

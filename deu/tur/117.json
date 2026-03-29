@@ -1,70 +1,104 @@
 {
-  "sentence": "Tom'un çok zamanı var.",
+  "sentence": "Tom onun hakkında Mary ile konuşmak istedi.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat viel Zeit."
+    "Tom wollte mit Maria darüber sprechen."
   ],
   "parts": [
     {
-      "content": "çok",
+      "content": "Tom",
       "translations": [
-        "sehr",
-        "viel"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Çok fazla Fransızca konuşamam.",
-          "Ich spreche nicht viel Französisch.",
-          "Sentence from Tatoeba by oxyii (CC-BY 2.0 FR)"
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Futbola çok ilgim var.",
-          "Ich interessiere mich sehr für Fußball.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "Az laf, çok iş!",
-          "Weniger quatschen, mehr handeln!",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+          "Tom'u çağırmamı ister misiniz?",
+          "Wollen Sie, dass ich Tom rufe?",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "zamanı",
+      "content": "onun",
       "translations": [
-        "Zeit",
-        "Zeitraum"
+        "seinen",
+        "seiner"
       ],
       "usageExamples": []
     },
     {
-      "content": "var",
+      "content": "hakkında",
       "translations": [
-        "var",
-        "es gibt",
-        "sind",
-        "hat"
+        "über",
+        "hinsichtlich",
+        "bezüglich"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam"
       ],
       "usageExamples": [
         [
-          "Bir alternatifin var.",
-          "Du hast eine Alternative.",
+          "Mary bale dersleri alıyor.",
+          "Maria nimmt Ballettunterricht.",
+          "Sentence from Tatoeba by tulin (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary politika ile ilgilenir.",
+          "Maria interessiert sich für Politik.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Dokuza çeyrek var.",
-          "Es ist Viertel vor neun.",
-          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze.",
+          "Mary'yi öldürdün mü?",
+          "Hast du Maria umgebracht?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "ile",
+      "translations": [
+        "mit",
+        "und"
+      ],
+      "usageExamples": [
+        [
+          "Mary politika ile ilgilenir.",
+          "Maria interessiert sich für Politik.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "konuşmak",
+      "translations": [
+        "sprechen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "istedi",
+      "translations": [
+        "gewünscht"
+      ],
+      "usageExamples": []
     }
   ]
 }

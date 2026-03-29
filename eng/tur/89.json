@@ -1,40 +1,89 @@
 {
-  "sentence": "Tren zamanında ayrıldı.",
+  "sentence": "Tom Mary'ye bekleyeceğini söyledi.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The train left on time."
+    "Tom told Mary he'd wait."
   ],
   "parts": [
     {
-      "content": "tren",
+      "content": "Tom",
       "translations": [
-        "train",
-        "trolley"
+        "Tom",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom annemin erkek kardeşi.",
+          "Tom is my mother's brother.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Seni öldüremedim, Tom.",
+          "I couldn't kill you, Tom.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Mary",
+      "translations": [
+        "Mary",
+        "Maria"
+      ],
+      "usageExamples": [
+        [
+          "Tom, Mary'nin kim olduğunu merak etti.",
+          "Tom wondered who Mary was.",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
+          "Tom said he didn't know who Mary was getting married to.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom Mary ile konuşmayı bırakamadı.",
+          "Tom couldn't stop talking to Mary.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bekleyeceğini",
+      "translations": [
+        "you will wait",
+        "you are going to wait"
       ],
       "usageExamples": []
     },
     {
-      "content": "zamanında",
+      "content": "söyledi",
       "translations": [
-        "in time",
-        "on time",
-        "in due time",
-        "at the right time"
+        "he/she said",
+        "they said",
+        "said",
+        "told"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "ayrıldı",
-      "translations": [
-        "left",
-        "departed",
-        "split",
-        "separated"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom bana aslında onu yapmak istemediğini söyledi.",
+          "Tom told me he didn't actually want to do that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom, Mary'nin kiminle evlendiğini bilmediğini söyledi.",
+          "Tom said he didn't know who Mary was getting married to.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

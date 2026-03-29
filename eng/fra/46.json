@@ -1,13 +1,73 @@
 {
-  "sentence": "Je la suis sur Twitter.",
+  "sentence": "J'ai vraiment faim. Je n'ai pas mangé de toute la semaine.",
   "credits": [
-    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Rafik (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I follow her on Twitter."
+    "I'm really hungry. I haven't eaten all week."
   ],
   "parts": [
+    {
+      "content": "J'ai",
+      "translations": [
+        "I have",
+        "I've"
+      ],
+      "usageExamples": [
+        [
+          "J'ai beaucoup d'élastiques.",
+          "I have a lot of elastic bands.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "J'ai très soif.",
+          "I'm really thirsty.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "J'ai de nombreuses amies auxquelles je peux parler.",
+          "I have many friends I can talk to.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vraiment",
+      "translations": [
+        "really",
+        "truly",
+        "actually",
+        "genuinely"
+      ],
+      "usageExamples": [
+        [
+          "Je n'ai jamais vraiment étudié le C++ au-delà de « Bonjour tout le monde ! »",
+          "I never really studied C++ beyond \"Hello, world!\"",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne sais pas vraiment pourquoi elles m'ont demandé ça.",
+          "I'm not sure why they asked me that.",
+          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne sais pas vraiment pourquoi ils m'ont demandé ça.",
+          "I'm not sure why they asked me that.",
+          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "faim",
+      "translations": [
+        "hunger",
+        "starvation",
+        "appetite",
+        "craving"
+      ],
+      "usageExamples": []
+    },
     {
       "content": "Je",
       "translations": [
@@ -33,6 +93,112 @@
       ]
     },
     {
+      "content": "n'ai",
+      "translations": [
+        "I don't have",
+        "I haven't"
+      ],
+      "usageExamples": [
+        [
+          "Je n'ai pas entendu parler de lui depuis longtemps.",
+          "I have not heard from him for a long time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je n'ai jamais vraiment étudié le C++ au-delà de « Bonjour tout le monde ! »",
+          "I never really studied C++ beyond \"Hello, world!\"",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je n'ai pas besoin de votre argent. J'ai besoin de votre temps.",
+          "I don't need your money. I just need your time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pas",
+      "translations": [
+        "not"
+      ],
+      "usageExamples": [
+        [
+          "Ça ne plaît pas du tout à Tom.",
+          "Tom doesn't like that at all.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ne sait pas conduire une voiture à vitesses manuelles.",
+          "Tom doesn't know how to drive a manual.",
+          "Sentence from Tatoeba by Lulantis (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne savais pas que vous étiez de la même famille.",
+          "I didn't know that you were related.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mangé",
+      "translations": [
+        "eaten",
+        "ate"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "of",
+        "from",
+        "about"
+      ],
+      "usageExamples": [
+        [
+          "Elles ne sont pas très différentes de qui que ce soit d'autre.",
+          "They are not very different from anybody else.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne savais pas que vous étiez de la même famille.",
+          "I didn't know that you were related.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne savais pas que Tom était le petit-fils de Mary.",
+          "I didn't know that Tom was Mary's grandson.",
+          "Sentence from Tatoeba by Rockaround (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "toute",
+      "translations": [
+        "all",
+        "whole",
+        "entire",
+        "every"
+      ],
+      "usageExamples": [
+        [
+          "Je suis resté toute la journée à la maison parce que je ne me sentais pas bien.",
+          "Feeling unwell, I stayed at home all day.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "En quelques jours, les forces allemandes se sont déployées dans toute la Pologne.",
+          "Within days, German forces fanned out across Poland.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne peux pas vous laisser aller là-dedans toute seule.",
+          "I can't let you go in there alone.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
       "content": "la",
       "translations": [
         "the",
@@ -40,78 +206,45 @@
       ],
       "usageExamples": [
         [
-          "Quelles sont les limites de la connaissance humaine ?",
-          "What are the limits of human knowledge?",
-          "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
-        ],
-        [
-          "J'ai vraiment faim. Je n'ai pas mangé de toute la semaine.",
-          "I'm really hungry. I haven't eaten all week.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je suis sur la route.",
-          "I'm on the road.",
+          "Je peux m'y rendre la semaine prochaine.",
+          "I can go next week.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom regarde toujours la télévision.",
+          "Tom is always watching TV.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne suis pas sûr de la manière avec laquelle répondre à ça.",
+          "I'm not sure how to answer this.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suis",
+      "content": "semaine",
       "translations": [
-        "am"
+        "week",
+        "weekly"
       ],
       "usageExamples": [
         [
-          "Je pense qu'elles ne savent pas que je suis une menteuse.",
-          "I think they don't know I'm a liar.",
-          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je pense que nous savons toutes les deux pourquoi je suis ici.",
-          "I think we both know why I'm here.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ne suis pas certain que nous puissions obtenir des billets ce soir.",
-          "I'm not certain we can get tickets tonight.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sur",
-      "translations": [
-        "on",
-        "about",
-        "over",
-        "upon"
-      ],
-      "usageExamples": [
-        [
-          "Tu ne devrais pas raconter des mensonges sur les gens à la cantonade.",
-          "You shouldn't go around telling lies about people.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Toutes les études cliniques ne sont pas fondées sur des hypothèses.",
-          "Not all clinical studies are hypothesis-driven.",
-          "Sentence from Tatoeba by marioo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je suis sur la route.",
-          "I'm on the road.",
+          "Je peux m'y rendre la semaine prochaine.",
+          "I can go next week.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il n'y a pas les chaussures que j'ai achetées la semaine dernière.",
+          "These aren't the shoes I bought last week.",
+          "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Faites-nous savoir si vous êtes disponible la semaine prochaine.",
+          "Let us know if you're available next week.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "Twitter",
-      "translations": [
-        "Twitter",
-        "Tweeting platform"
-      ],
-      "usageExamples": []
     }
   ]
 }

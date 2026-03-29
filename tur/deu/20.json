@@ -1,117 +1,91 @@
 {
-  "sentence": "Ich habe sie gestern gesehen.",
+  "sentence": "Er predigt Wasser und trinkt selbst Wein.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Dün onu gördüm."
+    "Ele verir talkını, kendi yutar salkımı."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Er",
       "translations": [
-        "Ben"
+        "Ele"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "predigt",
+      "translations": [
+        "vaaz",
+        "nasihat"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Wasser",
+      "translations": [
+        "su",
+        "sıvı"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "und",
+      "translations": [
+        "eş",
+        "ile",
+        "ve",
+        "e",
+        "an"
       ],
       "usageExamples": [
         [
-          "Ich suche meine Frau.",
-          "Karımı arıyorum.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Onun bir kedisi ve iki köpeği var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich kenne deinen Vater.",
-          "Ben senin babanı tanıyorum.",
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?",
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich muss tanken.",
-          "Benzin almak zorundayım.",
+          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
+          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "habe",
+      "content": "trinkt",
       "translations": [
-        "sahip olmak",
-        "var olmak"
+        "içiyor",
+        "içmekte"
       ],
-      "usageExamples": [
-        [
-          "Ich habe mir eine gute Kamera gekauft.",
-          "İyi bir kamera aldım.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich habe die Geschichte nicht gelesen.",
-          "Hikayeyi okumadım.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich habe nicht verstanden, was er gesagt hat.",
-          "Onun ne dediğini anlayamadım.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "sie",
+      "content": "selbst",
       "translations": [
-        "ona",
-        "Onları"
+        "kendi"
       ],
       "usageExamples": [
         [
           "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
           "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Obwohl sie die Hausaufgaben noch nicht fertig hat, sieht sie fern.",
-          "Ödevlerini bitirmediği halde televizyon seyrediyor.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben.",
-          "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gestern",
+      "content": "Wein",
       "translations": [
-        "Dün",
-        "Dünden"
+        "şarap",
+        "şarap içkisi"
       ],
-      "usageExamples": [
-        [
-          "Ich habe Tom seit gestern nicht gesehen.",
-          "Dünden beri Tom'u görmedim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "gesehen",
-      "translations": [
-        "görüldü",
-        "görmek",
-        "göründü"
-      ],
-      "usageExamples": [
-        [
-          "Tom hat Mary heute gesehen.",
-          "Bugün Tom, Mary'yi gördü.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich habe Tom seit gestern nicht gesehen.",
-          "Dünden beri Tom'u görmedim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

@@ -1,38 +1,52 @@
 {
-  "sentence": "Conosci quell'hotel?",
+  "sentence": "C'era sangue dappertutto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you know that hotel?"
+    "Blood was everywhere.",
+    "There was blood everywhere."
   ],
   "parts": [
     {
-      "content": "Conosci",
+      "content": "C'era",
       "translations": [
-        "Do you know?",
-        "Are you familiar with?",
-        "Have you heard of?",
-        "Do you recognize?"
+        "There was",
+        "There used to be",
+        "There existed"
       ],
       "usageExamples": []
     },
     {
-      "content": "quell'",
+      "content": "sangue",
       "translations": [
-        "that one",
-        "that",
-        "the one"
+        "blood",
+        "sanguine",
+        "gore",
+        "hemoglobin"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Stava tossendo sangue.",
+          "You were coughing up blood.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io ho il sangue blu nelle vene.",
+          "I have blue blood in my veins.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "hotel",
+      "content": "dappertutto",
       "translations": [
-        "inn",
-        "lodging",
-        "accommodation"
+        "everywhere",
+        "all over",
+        "throughout",
+        "in all places"
       ],
       "usageExamples": []
     }

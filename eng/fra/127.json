@@ -1,57 +1,150 @@
 {
-  "sentence": "Un hypocondriaque imagine des maladies là où elles n'existent pas.",
+  "sentence": "Pourquoi est-ce que les produits de beauté ont-ils une date d'expiration ?",
   "credits": [
-    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by darinmex (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by AlanF_US (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "A hypochondriac imagines maladies where none exist."
+    "Why do cosmetics have an expiration date?"
   ],
   "parts": [
     {
-      "content": "Un",
+      "content": "Pourquoi",
       "translations": [
-        "One",
-        "A"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "hypocondriaque",
-      "translations": [
-        "hypochondriac",
-        "health anxiety",
-        "hypochondria"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "imagine",
-      "translations": [
-        "imagine",
-        "envision",
-        "picture",
-        "visualize"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "des",
-      "translations": [
-        "of the",
-        "some",
-        "from the"
+        "Why",
+        "What for",
+        "For what reason"
       ],
       "usageExamples": [
         [
-          "Les tomates ne sont pas à proprement parler des légumes, mais plutôt des fruits.",
-          "Strictly speaking, tomatoes aren't vegetables, but rather fruits.",
+          "Pourquoi est-ce que je ne parviens pas à les aimer tous les deux ?",
+          "Why can't I love them both?",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pourquoi est-ce que je ne parviens pas à les aimer toutes les deux ?",
+          "Why can't I love them both?",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "est-ce que",
+      "translations": [
+        "is it that",
+        "does",
+        "is",
+        "are"
+      ],
+      "usageExamples": [
+        [
+          "Pourquoi est-ce que je ne parviens pas à les aimer toutes les deux ?",
+          "Why can't I love them both?",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Pourquoi est-ce que je ne parviens pas à les aimer tous les deux ?",
+          "Why can't I love them both?",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "les",
+      "translations": [
+        "the",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Combien de fois lui ai-je dit de ne pas fréquenter les mauvaises personnes !",
+          "I keep telling them to avoid dubious company!",
+          "Sentence from Tatoeba by anzart (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je pense que les planches à roulettes sont habituellement moins chères que les patins en ligne.",
+          "I think skateboards are usually cheaper than rollerblades.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "En quelques jours, les forces allemandes se sont déployées dans toute la Pologne.",
+          "Within days, German forces fanned out across Poland.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "produits",
+      "translations": [
+        "products",
+        "goods",
+        "items"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "of",
+        "from",
+        "about"
+      ],
+      "usageExamples": [
+        [
+          "Les requins ont une mauvaise réputation à cause de leur nature assoiffée de sang.",
+          "Sharks are infamous for their bloodthirsty natures.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Les personnes qui travaillent dans les aéroports doivent être capables de passer d'une langue à l'autre très rapidement.",
+          "Please don't distract me.",
           "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
         ],
         [
-          "Ils ont remplacé les employés de cette usine avec des bras mécaniques.",
-          "They replaced that factory's employees with mechanical arms.",
-          "Sentence from Tatoeba by Scott (CC-BY 2.0 FR)"
+          "N'as-tu rien appris de tes erreurs ?",
+          "Have you learned nothing from your mistakes?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "beauté",
+      "translations": [
+        "beauty",
+        "loveliness",
+        "attractiveness"
+      ],
+      "usageExamples": [
+        [
+          "Sa beauté était indescriptible.",
+          "Her beauty was beyond description.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ont-ils",
+      "translations": [
+        "do they",
+        "are they"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "une",
+      "translations": [
+        "a"
+      ],
+      "usageExamples": [
+        [
+          "Il portait une casquette.",
+          "He was wearing a cap.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "C’est ainsi que même une seule lettre peut complètement changer le sens.",
+          "That's how even a single letter can completely change the meaning.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
           "Nous ne devons pas ignorer la souffrance des populations soumises à une mauvaise gestion.",
@@ -61,93 +154,22 @@
       ]
     },
     {
-      "content": "maladies",
+      "content": "date",
       "translations": [
-        "diseases",
-        "illnesses",
-        "sicknesses"
+        "date",
+        "appointment",
+        "deadline",
+        "calendar date"
       ],
       "usageExamples": []
     },
     {
-      "content": "là",
+      "content": "d'expiration",
       "translations": [
-        "here"
-      ],
-      "usageExamples": [
-        [
-          "C'est là que vous faites erreur.",
-          "That's where you're wrong.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "où",
-      "translations": [
-        "where",
-        "in which",
-        "at which"
-      ],
-      "usageExamples": [
-        [
-          "Je ne sais pas où sont mes lunettes de soleil.",
-          "I don't know where my sunglasses are.",
-          "Sentence from Tatoeba by tras (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "elles",
-      "translations": [
-        "they",
-        "them"
-      ],
-      "usageExamples": [
-        [
-          "Ces filles ne sont pas en train de parler mais elles sont en train de chanter.",
-          "These girls are not speaking but singing.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ne sais pas vraiment pourquoi elles m'ont demandé ça.",
-          "I'm not sure why they asked me that.",
-          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "n'existent",
-      "translations": [
-        "do not exist",
-        "do not exist anymore",
-        "are nonexistent",
-        "are not present"
+        "expiration",
+        "expiry"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "pas",
-      "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "Je n'ai pas besoin de votre argent. J'ai besoin de votre temps.",
-          "I don't need your money. I just need your time.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Nous voulons des traductions qui semblent naturelles dans la langue d'origine, pas des traductions mot-à-mot.",
-          "We want natural-sounding translations, not word-for-word direct translations.",
-          "Sentence from Tatoeba by qdii (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dis à Tom que je n'y serai pas.",
-          "Tell Tom that I won't be there.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

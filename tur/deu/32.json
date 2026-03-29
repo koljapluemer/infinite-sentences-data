@@ -1,31 +1,24 @@
 {
-  "sentence": "Immer wenn du lachst, stirbt irgendwo ein Problem.",
+  "sentence": "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Her gülüşünde bir yerlerde bir problem ölür."
+    "Sen, hatalarını kabul etmen gerektiğini söyledin mi?"
   ],
   "parts": [
     {
-      "content": "Immer",
+      "content": "Hast",
       "translations": [
-        "her zaman",
-        "daima"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "wenn",
-      "translations": [
-        "eğer",
-        "ne zaman"
+        "sahip olmak",
+        "var olmak",
+        "bulunmak"
       ],
       "usageExamples": [
         [
-          "Ich fühle mich schlecht, wenn ich gute Noten schreibe.",
-          "İyi notlar aldığımda kendimi kötü hissediyorum.",
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
@@ -43,82 +36,104 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Hast du Maria umgebracht?",
-          "Mary'yi öldürdün mü?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "Wen liebst du?",
           "Kimi seviyorsun?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hast du Maria umgebracht?",
+          "Mary'yi öldürdün mü?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lachst",
+      "content": "gesagt",
       "translations": [
-        "gülüyorsun",
-        "gülmekte"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "stirbt",
-      "translations": [
-        "ölür"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "irgendwo",
-      "translations": [
-        "bir yerde",
-        "herhangi bir yerde"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ein",
-      "translations": [
-        "bir"
+        "söyledi",
+        "denildi"
       ],
       "usageExamples": [
         [
-          "Sollen wir ein Nickerchen machen oder so?",
-          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Tom hat gesagt, dass er in Australien ist.",
+          "Tom, Avustralya'da olduğunu söyledi.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
-          "Seni başlangıçta planlanandan daha çok seviyorum.",
+          "Tom hat mir genau das Gegenteil gesagt.",
+          "Tom bana tam tersini söylemişti.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Sie ist ein bisschen verrückt.",
-          "O biraz çatlak.",
+          "Ich habe nicht verstanden, was er gesagt hat.",
+          "Onun ne dediğini anlayamadım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Problem",
+      "content": "dass",
       "translations": [
-        "problem",
-        "sorunu",
-        "sorunla"
+        "ki",
+        "şu ki"
       ],
       "usageExamples": [
         [
-          "Das Problem dreht sich um folgende Frage:",
-          "Problem şu soru etrafında dönüyor:",
+          "Ich kann euch garantieren, dass ich alles erledigen werde.",
+          "Size hepsini halledeceğimin garantisini verebilirim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Erlauben Sie mir, das Problem zu lösen.",
-          "Bana sorunu çözmeme izin veriniz.",
+          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde.",
+          "Artık kimseye aşık olamayacağımı biliyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom hat gesagt, dass er in Australien ist.",
+          "Tom, Avustralya'da olduğunu söyledi.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "deine",
+      "translations": [
+        "nin",
+        "senin",
+        "Senin"
+      ],
+      "usageExamples": [
+        [
+          "Wo ist deine Mama?",
+          "Annen nerede?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Fehler",
+      "translations": [
+        "hata",
+        "yanlış",
+        "kusur",
+        "defo"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "akzeptieren",
+      "translations": [
+        "kabul"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sollst",
+      "translations": [
+        "gerekmek",
+        "zorundasın"
+      ],
+      "usageExamples": []
     }
   ]
 }

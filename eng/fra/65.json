@@ -1,11 +1,11 @@
 {
-  "sentence": "Je ne sais pas vraiment pourquoi ils m'ont demandé ça.",
+  "sentence": "Je ne sais pas quelles seront les conséquences.",
   "credits": [
-    "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by mailohilohi (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by KotobaNiko (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm not sure why they asked me that."
+    "I don't know what the consequences will be."
   ],
   "parts": [
     {
@@ -40,19 +40,19 @@
       ],
       "usageExamples": [
         [
-          "Je ne sais pas. Veuillez demander à quelqu'un d'autre.",
-          "I don't know. Please ask someone else.",
-          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+          "Je ne sais pas trop à quelle heure il va venir.",
+          "I'm not sure when he'll come.",
+          "Sentence from Tatoeba by superbolo (CC-BY 2.0 FR)"
         ],
         [
-          "Pour ma part, je ne pense pas que ce soit correct et c'est ce qui me dérange personnellement.",
-          "I find that both incorrect and personally bothering.",
-          "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ça ne plaît pas du tout à Tom.",
-          "Tom doesn't like that at all.",
+          "Cela ne faisait pas partie du plan.",
+          "That wasn't part of the plan.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Les deux choses ne sont pas nécessairement mutuellement exclusives.",
+          "The two things aren't necessarily mutually exclusive.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -64,14 +64,14 @@
       ],
       "usageExamples": [
         [
-          "Je ne sais pas quelles seront les conséquences.",
-          "I don't know what the consequences will be.",
-          "Sentence from Tatoeba by KotobaNiko (CC-BY 2.0 FR)"
+          "Je ne sais pas trop à quelle heure il va venir.",
+          "I'm not sure when he'll come.",
+          "Sentence from Tatoeba by superbolo (CC-BY 2.0 FR)"
         ],
         [
-          "Je ne sais pas. Veuillez demander à quelqu'un d'autre.",
-          "I don't know. Please ask someone else.",
-          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+          "Je ne sais pas vraiment pourquoi elles m'ont demandé ça.",
+          "I'm not sure why they asked me that.",
+          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
         ],
         [
           "Je ne sais pas où sont mes lunettes de soleil.",
@@ -87,147 +87,82 @@
       ],
       "usageExamples": [
         [
-          "Je ne sais pas quelles seront les conséquences.",
-          "I don't know what the consequences will be.",
-          "Sentence from Tatoeba by KotobaNiko (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je suis resté toute la journée à la maison parce que je ne me sentais pas bien.",
-          "Feeling unwell, I stayed at home all day.",
+          "Elles ne sont pas très différentes de qui que ce soit d'autre.",
+          "They are not very different from anybody else.",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ],
         [
-          "Je ne pensais pas que vous seriez tellement en retard.",
-          "I didn't think you'd be so late.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "vraiment",
-      "translations": [
-        "really",
-        "truly",
-        "actually",
-        "genuinely"
-      ],
-      "usageExamples": [
-        [
-          "Je suis vraiment désolé de t'avoir fait attendre.",
-          "I am so sorry to have kept you waiting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je n'ai jamais vraiment étudié le C++ au-delà de « Bonjour tout le monde ! »",
-          "I never really studied C++ beyond \"Hello, world!\"",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ne sais pas vraiment pourquoi elles m'ont demandé ça.",
-          "I'm not sure why they asked me that.",
-          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "pourquoi",
-      "translations": [
-        "why",
-        "what for"
-      ],
-      "usageExamples": [
-        [
-          "Je ne sais pas vraiment pourquoi elles m'ont demandé ça.",
+          "Je ne sais pas vraiment pourquoi ils m'ont demandé ça.",
           "I'm not sure why they asked me that.",
           "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
         ],
         [
-          "J'ignore pourquoi vous êtes tous tellement contrariés.",
-          "I don't know why you're all so upset.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Tom ne sait pas conduire une voiture à vitesses manuelles.",
+          "Tom doesn't know how to drive a manual.",
+          "Sentence from Tatoeba by Lulantis (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "quelles",
+      "translations": [
+        "which",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Je ne sais pas quelles sont ses véritables intentions.",
+          "I don't know what his real intentions are.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne sais pas quelles étaient ses réelles intentions.",
+          "I don't know what his real intentions were.",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "seront",
+      "translations": [
+        "will be",
+        "are going to be"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "les",
+      "translations": [
+        "the",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Qu'est-ce que les Italiens mangent habituellement à déjeuner ?",
+          "What do Italians usually eat for lunch?",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ],
         [
           "Je pense que nous savons toutes les deux pourquoi je suis ici.",
           "I think we both know why I'm here.",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ils",
-      "translations": [
-        "they",
-        "them"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Ils s'incrustent toujours à des événements auxquels ils ne sont pas invités.",
-          "They always gatecrash events they're not invited to.",
+          "Les personnes qui travaillent dans les aéroports doivent être capables de passer d'une langue à l'autre très rapidement.",
+          "Please don't distract me.",
           "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
-        ],
-        [
-          "Combien de chansons Tom et Mary ont-ils chanté ensemble ?",
-          "How many songs did Tom and Mary sing together?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Depuis qu'ils se sont rejeté la faute, ils ne se parlent plus.",
-          "After blaming each other, they stopped talking.",
-          "Sentence from Tatoeba by Aghanim (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "m'ont",
+      "content": "conséquences",
       "translations": [
-        "me",
-        "to me"
+        "consequences",
+        "outcomes",
+        "results",
+        "effects"
       ],
-      "usageExamples": [
-        [
-          "Je ne sais pas vraiment pourquoi elles m'ont demandé ça.",
-          "I'm not sure why they asked me that.",
-          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "demandé",
-      "translations": [
-        "requested",
-        "asked for"
-      ],
-      "usageExamples": [
-        [
-          "Je ne sais pas vraiment pourquoi elles m'ont demandé ça.",
-          "I'm not sure why they asked me that.",
-          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ça",
-      "translations": [
-        "that",
-        "it"
-      ],
-      "usageExamples": [
-        [
-          "Je ne suis pas sûr de la manière avec laquelle répondre à ça.",
-          "I'm not sure how to answer this.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ne sais pas vraiment pourquoi elles m'ont demandé ça.",
-          "I'm not sure why they asked me that.",
-          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
-        ],
-        [
-          "J'ai pensé que ça serait chouette que nous passions un peu de temps ensemble.",
-          "I thought that I knew them.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

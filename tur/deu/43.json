@@ -1,62 +1,148 @@
 {
-  "sentence": "So ist es.",
+  "sentence": "Ich fühle mich schlecht, wenn ich gute Noten schreibe.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Aynen öyle.",
-    "Aynen"
+    "İyi notlar aldığımda kendimi kötü hissediyorum."
   ],
   "parts": [
     {
-      "content": "ist",
+      "content": "Ich",
       "translations": [
-        "dır",
-        "olmak"
+        "Ben"
       ],
       "usageExamples": [
         [
-          "Die Polizei ist hier.",
-          "Polis burada.",
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Wie ist das Wetter?",
-          "Hava nasıl?",
+          "Ich wollte mich erinnern.",
+          "Ben hatırlamak istiyordum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Wo ist deine Mama?",
-          "Annen nerede?",
+          "Ich verstehe ungefähr.",
+          "Aşağı yukarı anlıyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "es",
+      "content": "fühle",
       "translations": [
-        "onu",
-        "Onu",
-        "ona"
+        "duyuyorum"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "mich",
+      "translations": [
+        "beni"
       ],
       "usageExamples": [
         [
-          "Ich hatte es völlig vergessen.",
-          "Tamamen unutmuşum.",
+          "Ich wollte mich erinnern.",
+          "Ben hatırlamak istiyordum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben.",
-          "Benim kalmamın mantıklı olduğundan emin değilim.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Futbola çok ilgim var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich hasse es, früh aufzustehen.",
-          "Erken kalkmaktan nefret ediyorum/ederim.",
+          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde.",
+          "Artık kimseye aşık olamayacağımı biliyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "schlecht",
+      "translations": [
+        "az",
+        "yaramaz",
+        "kötü",
+        "kötüsü"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "wenn",
+      "translations": [
+        "eğer",
+        "ne zaman"
+      ],
+      "usageExamples": [
+        [
+          "Immer wenn du lachst, stirbt irgendwo ein Problem.",
+          "Her gülüşünde bir yerlerde bir problem ölür.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ich",
+      "translations": [
+        "mi",
+        "mu",
+        "sı",
+        "ı",
+        "ben"
+      ],
+      "usageExamples": [
+        [
+          "Weißt du, dass ich nichts von einem Menschen halte, der seinen Namen verbirgt?",
+          "Adını saklayan adamı ciddiye almayacağımı bilmiyor musun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wollen Sie, dass ich Tom rufe?",
+          "Tom'u çağırmamı ister misiniz?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich kann euch garantieren, dass ich alles erledigen werde.",
+          "Size hepsini halledeceğimin garantisini verebilirim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gute",
+      "translations": [
+        "iyi"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe mir eine gute Kamera gekauft.",
+          "İyi bir kamera aldım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Noten",
+      "translations": [
+        "Notlar"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "schreibe",
+      "translations": [
+        "yaz"
+      ],
+      "usageExamples": []
     }
   ]
 }

@@ -1,92 +1,136 @@
 {
-  "sentence": "Perché sono qui?",
+  "sentence": "Pensa che Tom potrebbe avere ragione?",
   "credits": [
-    "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Why am I here?",
-    "Why are they here?"
+    "Do you think Tom might be correct?"
   ],
   "parts": [
     {
-      "content": "Perché",
+      "content": "Pensa",
       "translations": [
-        "Why",
-        "For what reason",
-        "What for",
-        "Why is that"
+        "Think.",
+        "Consider",
+        "Reflect",
+        "Ponder"
       ],
-      "usageExamples": [
-        [
-          "Perché li hai attaccati?",
-          "Why did you attack them?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non ha corso?",
-          "Why didn't you run?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "sono",
+      "content": "che",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are",
-        "am"
-      ],
-      "usageExamples": [
-        [
-          "Io sono solo curiosa.",
-          "I'm just curious.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Si sono sposati.",
-          "They got married.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi sono tuffato nell'acqua.",
-          "I dived into the water.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "qui",
-      "translations": [
-        "who",
         "that",
         "which",
-        "whom"
+        "who",
+        "what"
       ],
       "usageExamples": [
         [
-          "Erano proprio qui.",
-          "They were right here.",
+          "Sapeva che doveva farlo.",
+          "She knew she had to do that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Odio qui.",
-          "I hate it here.",
+          "Disse che lo amava.",
+          "She said that she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "'Aspetta qui con gli asini per un po'. Io e il bambino andremo a pregare e torneremo da te immediatamente.'",
-          "'You wait here with the donkeys for a while. I and the child will go to pray and we will come again immediately to you.'",
+          "È quello che sono.",
+          "It's what I am.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy",
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom sta gemendo.",
+          "Tom is whining.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è nascosto.",
+          "Tom hid.",
+          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "potrebbe",
+      "translations": [
+        "could",
+        "might",
+        "may",
+        "can"
+      ],
+      "usageExamples": [
+        [
+          "La potrebbe ferire.",
+          "He might hurt her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi potrebbe incolparci?",
+          "Who could blame us?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mark potrebbe piacere Jessica.",
+          "Mark might like Jessica.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "avere",
+      "translations": [
+        "to have",
+        "to possess",
+        "to own",
+        "to hold",
+        "have"
+      ],
+      "usageExamples": [
+        [
+          "Posso avere una birra?",
+          "Can I have a beer?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary nega di avere pianto.",
+          "Mary denies she cried.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Possono avere qualsiasi cosa vogliono.",
+          "They can have anything they want.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ragione",
+      "translations": [
+        "reason",
+        "cause",
+        "justification",
+        "argument"
+      ],
+      "usageExamples": []
     }
   ]
 }

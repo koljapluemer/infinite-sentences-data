@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom, ekim ayında Avustralya'ya gidecek.",
+  "sentence": "Tom Mary'nin bunu yapacağını düşünüyor.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom is going to go to Australia in October."
+    "Tom thinks Mary will be doing that."
   ],
   "parts": [
     {
@@ -16,53 +16,69 @@
       ],
       "usageExamples": [
         [
-          "Tom sigara içmeyi bırakmalı.",
-          "Tom ought to stop smoking.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
           "Seni öldüremedim, Tom.",
           "I couldn't kill you, Tom.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Tom annemin erkek kardeşi.",
-          "Tom is my mother's brother.",
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sigara içmeyi bırakmalı.",
+          "Tom ought to stop smoking.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ekim",
+      "content": "Mary'nin",
       "translations": [
-        "October",
-        "the month of October"
+        "Mary's",
+        "of Mary"
+      ],
+      "usageExamples": [
+        [
+          "Tom'un Mary'nin kız kardeşlerinin herhangi biri ile tanıştığını sanmıyorum.",
+          "I don't think Tom has met either of Mary's sisters.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bunu",
+      "translations": [
+        "this",
+        "it"
+      ],
+      "usageExamples": [
+        [
+          "Tom, bunu yapmada Mary'den çok daha iyidir.",
+          "Tom is a lot better at doing that than Mary.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bunu yapmak zorunda kalacak üç adamdan biriyim.",
+          "I'm one of the three guys who'll have to do that.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "yapacağını",
+      "translations": [
+        "what you will do",
+        "what you are going to do",
+        "what you intend to do"
       ],
       "usageExamples": []
     },
     {
-      "content": "ayında",
+      "content": "düşünüyor",
       "translations": [
-        "in the month",
-        "of the month"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Avustralya'ya",
-      "translations": [
-        "to Australia",
-        "in Australia"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "gidecek",
-      "translations": [
-        "going to go",
-        "will go",
-        "to go",
-        "going"
+        "thinking",
+        "is thinking"
       ],
       "usageExamples": []
     }

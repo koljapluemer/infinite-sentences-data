@@ -1,161 +1,64 @@
 {
-  "sentence": "Il dottore gli ha dato un sedativo.",
+  "sentence": "Hey, grazie per l'aiuto.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The doctor gave him a sedative."
+    "Hey, thanks for the help."
   ],
   "parts": [
     {
-      "content": "Il",
+      "content": "Hey",
       "translations": [
-        "The",
-        "It"
+        "Hello.",
+        "Hi.",
+        "Greetings"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "grazie",
+      "translations": [
+        "thank you",
+        "thanks",
+        "thank you very much",
+        "much appreciated"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
-          "Il libro è arrivato.",
-          "The book came.",
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il cane scodinzolava.",
-          "The dog wagged its tail.",
+          "Sei speciale per me.",
+          "You're special to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il bambino mi sorrise.",
-          "The baby smiled at me.",
+          "Vuole andare per prima?",
+          "Do you want to go first?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dottore",
+      "content": "l'aiuto",
       "translations": [
-        "doctor",
-        "physician",
-        "medical doctor",
-        "healthcare professional"
-      ],
-      "usageExamples": [
-        [
-          "A Jim piace il dottore.",
-          "Jim likes the doctor.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "gli",
-      "translations": [
-        "the",
-        "them",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Lei chiuse gli occhi.",
-          "She closed her eyes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non gli feci mai del male.",
-          "I never harmed him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dice che non gli dispiacerà.",
-          "He says he won't mind.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ha",
-      "translations": [
-        "has",
-        "he has",
-        "there is"
-      ],
-      "usageExamples": [
-        [
-          "Lei ha già finito?",
-          "Are you done yet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha frenato.",
-          "She braked.",
-          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "dato",
-      "translations": [
-        "given",
-        "data",
-        "fact",
-        "information"
-      ],
-      "usageExamples": [
-        [
-          "A Madre Teresa è stato dato il Premio Nobel.",
-          "Mother Teresa was given the Nobel prize.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ha dato dell'idiota all'arbitro.",
-          "Tom called the referee an idiot.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Madre Teresa fu dato il Premio Nobel.",
-          "Mother Teresa was given the Nobel prize.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
-      ],
-      "usageExamples": [
-        [
-          "Era un libro nuovo.",
-          "It was a new book.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Beviamo un'altra birra.",
-          "Let's have another beer.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non ha un fidanzato?",
-          "Don't you have a boyfriend?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sedativo",
-      "translations": [
-        "sedative",
-        "tranquilizer",
-        "calming agent",
-        "sleep aid"
+        "the help",
+        "the assistance",
+        "the support",
+        "the aid"
       ],
       "usageExamples": []
     }

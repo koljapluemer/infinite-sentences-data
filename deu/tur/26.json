@@ -1,11 +1,11 @@
 {
-  "sentence": "Bir zamanlar kafam çok karışıktı.",
+  "sentence": "Bir alternatifin var.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich war einmal so verwirrt."
+    "Du hast eine Alternative."
   ],
   "parts": [
     {
@@ -16,14 +16,14 @@
       ],
       "usageExamples": [
         [
-          "Bir alternatifin var.",
-          "Du hast eine Alternative.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
           "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
           "Ich muss für eine Spanienreise Spanisch lernen.",
           "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bir zamanlar kafam çok karışıktı.",
+          "Ich war einmal so verwirrt.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
           "Bir dil yeterince iyi öğrenilemez.",
@@ -33,75 +33,40 @@
       ]
     },
     {
-      "content": "zaman",
+      "content": "alternatifin",
       "translations": [
-        "Zeit",
-        "Epoche",
-        "Ära"
+        "Alternativ",
+        "Alternative"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "var",
+      "translations": [
+        "var",
+        "es gibt",
+        "sind",
+        "hat",
+        "gibt",
+        "waren"
       ],
       "usageExamples": [
         [
-          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
-          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "Benim için ne zaman vaktin olur?",
-          "Wann hast du Zeit für mich?",
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Ne yazık ki, her zaman çok fazla veriyorum.",
-          "Ich gebe leider immer zu viel.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "kafam",
-      "translations": [
-        "Kopf",
-        "Mein Kopf"
-      ],
-      "usageExamples": [
-        [
-          "Benim kafam karıştı.",
-          "Ich bin verwirrt.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "çok",
-      "translations": [
-        "sehr",
-        "viel"
-      ],
-      "usageExamples": [
+          "Köyde beş inek var.",
+          "Im Dorf gibt es fünf Rinder.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ],
         [
           "Tom'un çok zamanı var.",
           "Tom hat viel Zeit.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Çok fazla Fransızca konuşamam.",
-          "Ich spreche nicht viel Französisch.",
-          "Sentence from Tatoeba by oxyii (CC-BY 2.0 FR)"
-        ],
-        [
-          "Esperanto öğrenmek çok ilginçtir.",
-          "Esperanto zu lernen ist sehr interessant.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "karışıktı",
-      "translations": [
-        "es war kompliziert",
-        "es war verwirrend"
-      ],
-      "usageExamples": []
     }
   ]
 }

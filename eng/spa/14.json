@@ -1,88 +1,74 @@
 {
-  "sentence": "Dime algo que no sepa.",
+  "sentence": "Debes hacer felices a tus padres.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tell me something that I don't know."
+    "You must make your parents happy."
   ],
   "parts": [
     {
-      "content": "Dime",
+      "content": "Debes",
       "translations": [
-        "Tell me",
-        "Say to me",
-        "Speak to me"
+        "You must",
+        "You should",
+        "You have to"
       ],
       "usageExamples": []
     },
     {
-      "content": "algo",
+      "content": "hacer",
       "translations": [
-        "something"
+        "to do",
+        "to make"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "felices",
+      "translations": [
+        "happy",
+        "joyful",
+        "glad",
+        "content"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "to"
       ],
       "usageExamples": [
         [
-          "Me gustaría tomar algo.",
-          "I'd like something to drink.",
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Escriba a su congresista.",
+          "Write your congressman.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "que",
+      "content": "tus",
       "translations": [
-        "that",
-        "which"
+        "yours"
       ],
-      "usageExamples": [
-        [
-          "Dijo que tenía mucho dinero.",
-          "He said that he had a lot of money.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "A veces nuestras plegarias no son respondidas de la manera en la que querríamos.",
-          "Sometimes our prayers aren't answered the way we want them to be.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Agradecería que me respondiera tan pronto como le sea posible.",
-          "I would appreciate a reply as soon as possible.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "no",
+      "content": "padres",
       "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Este gato no persigue ratones.",
-          "This cat doesn't chase mice.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sepa",
-      "translations": [
-        "know",
-        "understand",
-        "be aware"
+        "parents"
       ],
       "usageExamples": []
     }

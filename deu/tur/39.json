@@ -1,48 +1,86 @@
 {
-  "sentence": "Bugünün işini yarına bırakma.",
+  "sentence": "Bu şehrin nüfusu her yıl azalıyor.",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Was du heute kannst besorgen, das verschiebe nicht auf morgen."
+    "Die Bevölkerung dieser Stadt wird jedes Jahr kleiner."
   ],
   "parts": [
     {
-      "content": "Bugünün",
+      "content": "Bu",
       "translations": [
-        "Heute",
-        "Von heute"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "işini",
-      "translations": [
-        "seine Arbeit",
-        "seinen Job"
+        "Das",
+        "Dieses",
+        "Das hier",
+        "Der",
+        "Dies",
+        "Diesen",
+        "Dieser",
+        "Es"
       ],
       "usageExamples": [
         [
-          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
-          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Bu da kim?",
+          "Wer ist das denn?",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu ücretsiz ulaşılabilir.",
+          "Das ist kostenlos erhältlich.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu kurallara aykırıdır.",
+          "Es ist gegen die Regeln.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "yarına",
+      "content": "şehrin",
       "translations": [
-        "für morgen",
-        "bis morgen"
+        "der Stadt",
+        "der Stadtteil"
       ],
       "usageExamples": []
     },
     {
-      "content": "bırakma",
+      "content": "nüfusu",
       "translations": [
-        "lass es nicht los",
-        "gib nicht auf"
+        "Bevölkerung",
+        "Einwohnerzahl"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "her",
+      "translations": [
+        "hier",
+        "da"
+      ],
+      "usageExamples": [
+        [
+          "Ne yazık ki, her zaman çok fazla veriyorum.",
+          "Ich gebe leider immer zu viel.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "yıl",
+      "translations": [
+        "Jahr",
+        "Jahre"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "azalıyor",
+      "translations": [
+        "nimmt ab",
+        "verringert sich"
       ],
       "usageExamples": []
     }

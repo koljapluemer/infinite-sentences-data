@@ -1,46 +1,59 @@
 {
-  "sentence": "Ich habe die Geschichte nicht gelesen.",
+  "sentence": "Du hast eine Alternative.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Hikayeyi okumadım."
+    "Bir alternatifin var."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Du",
       "translations": [
-        "Ben"
+        "Sen"
       ],
       "usageExamples": [
         [
-          "Ich wollte mich erinnern.",
-          "Ben hatırlamak istiyordum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich verstehe ungefähr.",
-          "Aşağı yukarı anlıyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich bin verwirrt.",
-          "Benim kafam karıştı.",
+          "Du bist noch immer mein Sohn.",
+          "Sen hala oğlumsun.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "habe",
+      "content": "hast",
       "translations": [
-        "sahip olmak",
-        "var olmak"
+        "hasta"
       ],
       "usageExamples": [
         [
-          "Ich habe die Zugfahrkarten vergessen.",
-          "Tren biletlerini unuttum.",
+          "Wie viel Abfertigung hast du bekommen?",
+          "Kaç işlem yaptın?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Von wem hast du es erfahren?",
+          "Kimden öğrendin?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wann hast du Zeit für mich?",
+          "Benim için ne zaman vaktin olur?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "eine",
+      "translations": [
+        "bir",
+        "bir tane"
+      ],
+      "usageExamples": [
+        [
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -49,67 +62,18 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich habe Tom seit gestern nicht gesehen.",
-          "Dünden beri Tom'u görmedim.",
+          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
+          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "die",
+      "content": "Alternative",
       "translations": [
-        "bu",
-        "o"
-      ],
-      "usageExamples": [
-        [
-          "Tom analysierte die Ergebnisse.",
-          "Tom sonuçları analiz etti.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
-          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Es ist gegen die Regeln.",
-          "Bu kurallara aykırıdır.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Geschichte",
-      "translations": [
-        "hikaye"
+        "alternatifin"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "nicht",
-      "translations": [
-        "değil",
-        "ne",
-        "yok"
-      ],
-      "usageExamples": [
-        [
-          "Nur nicht aufgeben!",
-          "Sakın pes etme!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
-          "Sizinle sonucu paylaşma niyetinde değilim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich hab auch nicht gewollt, dass es so kommt.",
-          "Ben de böyle olsun istemezdim.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

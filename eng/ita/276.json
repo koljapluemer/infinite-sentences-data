@@ -1,58 +1,84 @@
 {
-  "sentence": "Erano proprio qui.",
+  "sentence": "Datele una mano, OK?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "They were right here."
+    "Give her a hand, will you?"
   ],
   "parts": [
     {
-      "content": "Erano",
+      "content": "Datele",
       "translations": [
-        "They were",
-        "There were",
-        "It was",
-        "They used to be"
+        "The dates",
+        "The data",
+        "The details",
+        "The facts"
       ],
       "usageExamples": []
     },
     {
-      "content": "proprio",
+      "content": "una",
       "translations": [
-        "own",
-        "proper",
-        "specific",
-        "personal"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "qui",
-      "translations": [
-        "who",
-        "that",
-        "which",
-        "whom"
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
-          "Perché sono qui?",
-          "Why are they here?",
-          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
+          "Sono una buona persona.",
+          "I'm a good person.",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
         ],
         [
-          "Odio qui.",
-          "I hate it here.",
+          "È una maledizione.",
+          "It is a curse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom venne qui da solo.",
-          "Tom came here alone.",
+          "È una giornata nuvolosa.",
+          "It's a cloudy day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "mano",
+      "translations": [
+        "hand",
+        "palm",
+        "manual",
+        "handle"
+      ],
+      "usageExamples": [
+        [
+          "Mary si è bruciata la mano.",
+          "Mary burned her hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Guardai John e Mary camminare mano nella mano.",
+          "I watched John and Mary walking hand in hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Io vorrei stringere la mano a Tom.",
+          "I'd like to shake Tom's hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "OK",
+      "translations": [
+        "Okay.",
+        "All right.",
+        "Fine",
+        "Good."
+      ],
+      "usageExamples": []
     }
   ]
 }

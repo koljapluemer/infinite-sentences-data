@@ -1,13 +1,49 @@
 {
-  "sentence": "Nur nicht aufgeben!",
+  "sentence": "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sakın pes etme!"
+    "Sizlerin işini bırakmanız gerektiğini düşünmüyorum."
   ],
   "parts": [
+    {
+      "content": "Ich",
+      "translations": [
+        "Ben"
+      ],
+      "usageExamples": [
+        [
+          "Ich bin verwirrt.",
+          "Benim kafam karıştı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich hasse meine Nachbarn.",
+          "Komşularımdan nefret ediyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich verstehe ungefähr.",
+          "Aşağı yukarı anlıyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "denke",
+      "translations": [
+        "düşünüyorum"
+      ],
+      "usageExamples": [
+        [
+          "Ich denke, es ist unglaublich.",
+          "Bence bu inanılmaz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
     {
       "content": "nicht",
       "translations": [
@@ -17,8 +53,32 @@
       ],
       "usageExamples": [
         [
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
+          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "Obwohl sie die Hausaufgaben noch nicht fertig hat, sieht sie fern.",
           "Ödevlerini bitirmediği halde televizyon seyrediyor.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dass",
+      "translations": [
+        "ki",
+        "şu ki"
+      ],
+      "usageExamples": [
+        [
+          "Wollen Sie, dass ich Tom rufe?",
+          "Tom'u çağırmamı ister misiniz?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -27,11 +87,39 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht.",
-          "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "ihr",
+      "translations": [
+        "Onun"
+      ],
+      "usageExamples": [
+        [
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "euren",
+      "translations": [
+        "sizin"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Job",
+      "translations": [
+        "işe",
+        "iş"
+      ],
+      "usageExamples": []
     },
     {
       "content": "aufgeben",
@@ -45,11 +133,18 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
-          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "solltet",
+      "translations": [
+        "yapmalı"
+      ],
+      "usageExamples": []
     }
   ]
 }

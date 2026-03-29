@@ -1,53 +1,122 @@
 {
-  "sentence": "Stai facendo progressi.",
+  "sentence": "Si sta lavando i capelli.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You're making progress."
+    "He's washing his hair.",
+    "She's washing her hair."
   ],
   "parts": [
     {
-      "content": "Stai",
+      "content": "Si",
       "translations": [
-        "You are",
-        "Stay.",
-        "Be",
-        "Remain"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "facendo",
-      "translations": [
-        "doing",
-        "making",
-        "performing",
-        "executing"
+        "If",
+        "Whether",
+        "In case",
+        "Provided that"
       ],
       "usageExamples": [
         [
-          "Mi sto facendo ricrescere la barba.",
-          "I'm growing a beard again.",
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Faresti meglio ad andare. Si sta facendo tardi.",
-          "You'd better go. It's getting late.",
+          "Si sono sposati.",
+          "They got married.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Si trasferì a Madrid per prendere le redini degli affari di suo padre.",
+          "He moved to Madrid to take the reins of his father's business.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "progressi",
+      "content": "sta",
       "translations": [
-        "progress",
-        "advancements",
-        "developments",
-        "improvements"
+        "is",
+        "stands",
+        "is located",
+        "exists"
+      ],
+      "usageExamples": [
+        [
+          "Li sta confondendo.",
+          "You're confusing them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta cenando adesso.",
+          "Tom is having dinner right now.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "lavando",
+      "translations": [
+        "washing",
+        "cleaning",
+        "laundering",
+        "doing laundry"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tirate fuori i vostri quaderni e le vostre penne.",
+          "Get out your notebooks and pens.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, però non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "capelli",
+      "translations": [
+        "hair",
+        "locks",
+        "tresses",
+        "mane"
+      ],
+      "usageExamples": [
+        [
+          "Non mi sono lavato i capelli.",
+          "I haven't washed my hair.",
+          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla piacevano i suoi capelli naturali.",
+          "Layla loved her natural hair.",
+          "Sentence from Tatoeba by jacopofar (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

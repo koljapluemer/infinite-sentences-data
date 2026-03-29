@@ -1,42 +1,87 @@
 {
-  "sentence": "Ich möchte diese Passage für dich zusammenfassen.",
+  "sentence": "Es gibt viele Leute, die sagen, das sei eine Lüge.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Bu pasajı senin için özetlemek istiyorum."
+    "Birçok insan, bunun bir yalan olduğunu söylüyor."
   ],
   "parts": [
     {
-      "content": "Ich",
+      "content": "Es",
       "translations": [
-        "Ben"
+        "Bu"
       ],
       "usageExamples": [
         [
-          "Ich wollte mich erinnern.",
-          "Ben hatırlamak istiyordum.",
+          "Es ist für einen Freund von mir.",
+          "O, benim bir arkadaşım için.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich bin verwirrt.",
-          "Benim kafam karıştı.",
+          "Es ist unwahrscheinlich, dass es ihm gelungen ist.",
+          "Onun bunu başarması inanılmaz.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich will dir helfen.",
-          "Size yardım etmek istiyorum.",
+          "Es ist gegen die Regeln.",
+          "Bu kurallara aykırıdır.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "möchte",
+      "content": "gibt",
       "translations": [
-        "istiyor"
+        "var"
       ],
       "usageExamples": [
+        [
+          "Im Dorf gibt es fünf Rinder.",
+          "Köyde beş inek var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "viele",
+      "translations": [
+        "birçok"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Leute",
+      "translations": [
+        "insanlar",
+        "İnsanlar"
+      ],
+      "usageExamples": [
+        [
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "die",
+      "translations": [
+        "bu",
+        "o"
+      ],
+      "usageExamples": [
+        [
+          "Tom analysierte die Ergebnisse.",
+          "Tom sonuçları analiz etti.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
+          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
         [
           "Ich möchte mir die Zähne putzen.",
           "Dişlerimi fırçalamak isterim.",
@@ -45,60 +90,81 @@
       ]
     },
     {
-      "content": "diese",
+      "content": "sagen",
       "translations": [
-        "bunları"
+        "denir",
+        "söyleyip"
       ],
       "usageExamples": []
     },
     {
-      "content": "Passage",
+      "content": "das",
       "translations": [
-        "pasajı"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "für",
-      "translations": [
-        "için",
-        "para"
+        "bu",
+        "bunu",
+        "onu",
+        "Onu",
+        "ders"
       ],
       "usageExamples": [
         [
-          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
-          "Mali desteği, bu projemiz için vazgeçilmezdir.",
+          "Wie ist das Wetter?",
+          "Hava nasıl?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich interessiere mich sehr für Fußball.",
-          "Futbola çok ilgim var.",
+          "Wer ist das denn?",
+          "Bu da kim?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Wann hast du Zeit für mich?",
-          "Benim için ne zaman vaktin olur?",
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sizinle sonucu paylaşma niyetinde değilim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dich",
+      "content": "sei",
       "translations": [
-        "Seni"
+        "ol"
       ],
       "usageExamples": [
         [
-          "Ich liebe dich ein bisschen mehr als ursprünglich geplant.",
-          "Seni başlangıçta planlanandan daha çok seviyorum.",
+          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
+          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "zusammenfassen",
+      "content": "eine",
       "translations": [
-        "özetlemek"
+        "bir",
+        "bir tane"
+      ],
+      "usageExamples": [
+        [
+          "Du hast eine Alternative.",
+          "Bir alternatifin var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom hat eine Katze.",
+          "Tom'un bir kedisi var.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wir begannen eine ernsthafte Unterhaltung.",
+          "Ciddi bir konuşmaya başladık.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Lüge",
+      "translations": [
+        "yalan"
       ],
       "usageExamples": []
     }

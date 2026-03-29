@@ -1,41 +1,85 @@
 {
-  "sentence": "Sprechen Sie Türkisch?",
+  "sentence": "Ich gehe nicht dorthin zurück.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by barbaros505 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Türkçe konuşur musunuz?"
+    "Oraya geri dönmeyeceğim."
   ],
   "parts": [
     {
-      "content": "Sie",
+      "content": "Ich",
       "translations": [
-        "Sen",
-        "Sizlerin"
+        "Ben"
       ],
       "usageExamples": [
         [
-          "Erlauben Sie mir, das Problem zu lösen.",
-          "Bana sorunu çözmeme izin veriniz.",
+          "Ich suche meine Frau.",
+          "Karımı arıyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Sie tanzt mit einem anderen Mann.",
-          "O başka bir adamla dans ediyor.",
+          "Ich verstehe ungefähr.",
+          "Aşağı yukarı anlıyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Sie behaupten also, dass ich lüge.",
-          "Yani yalan söylediğimi iddia ediyorsunuz.",
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Türkisch",
+      "content": "gehe",
       "translations": [
-        "Türkçe"
+        "gidin"
+      ],
+      "usageExamples": [
+        [
+          "Wenn Tom kommt, gehe ich.",
+          "Tom gelince, gidiyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nicht",
+      "translations": [
+        "değil",
+        "ne",
+        "yok"
+      ],
+      "usageExamples": [
+        [
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Obwohl sie die Hausaufgaben noch nicht fertig hat, sieht sie fern.",
+          "Ödevlerini bitirmediği halde televizyon seyrediyor.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
+          "Bugünün işini yarına bırakma.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dorthin",
+      "translations": [
+        "oraya"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "zurück",
+      "translations": [
+        "geri"
       ],
       "usageExamples": []
     }

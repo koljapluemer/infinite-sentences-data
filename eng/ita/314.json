@@ -1,87 +1,106 @@
 {
-  "sentence": "Ha ricevuto il mio regalo?",
+  "sentence": "Esprimi costantemente disaccordo con i miei suggerimenti.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Did you get my gift?"
+    "You consistently express disagreement with my suggestions."
   ],
   "parts": [
     {
-      "content": "Ha",
+      "content": "Esprimi",
       "translations": [
-        "He has",
-        "There is",
-        "It has"
-      ],
-      "usageExamples": [
-        [
-          "Ha perso la partita.",
-          "You lost the game.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha perso qualcosa?",
-          "Did you lose something?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha acconsentito ad andare a Boston con lei.",
-          "He agreed to go to Boston with her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ricevuto",
-      "translations": [
-        "received",
-        "got",
-        "obtained",
-        "acquired"
+        "Express",
+        "Articulate",
+        "Convey",
+        "State"
       ],
       "usageExamples": []
     },
     {
-      "content": "il",
+      "content": "costantemente",
       "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "constantly",
+        "continuously",
+        "steadily",
+        "perpetually"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "disaccordo",
+      "translations": [
+        "disagreement",
+        "dissonance",
+        "conflict",
+        "discord"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "con",
+      "translations": [
+        "with",
+        "together with",
+        "in the company of",
+        "along with"
       ],
       "usageExamples": [
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
+          "Tom acconsentì con riluttanza.",
+          "Tom reluctantly agreed.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
+          "Parlo frequentemente con lui.",
+          "I frequently talk to him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non tollererò il fallimento.",
-          "I will not tolerate failure.",
+          "Era sposato con lei.",
+          "He used to be married to her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "mio",
+      "content": "i",
       "translations": [
-        "my",
-        "mine",
-        "of mine",
-        "belonging to me"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "È mio nemico.",
-          "He's my enemy.",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Maria piacciono i fiori.",
+          "Maria likes flowers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo articolo ridicolizza i vegetariani.",
+          "This article makes fun of vegetarians.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "miei",
+      "translations": [
+        "my",
+        "mine",
+        "of mine"
+      ],
+      "usageExamples": [
+        [
+          "Io amo i miei genitori.",
+          "I love my parents.",
+          "Sentence from Tatoeba by rado (CC-BY 2.0 FR)"
         ],
         [
           "Ai miei genitori non piace il mio ragazzo.",
@@ -89,37 +108,21 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il mio giardino è piccolo.",
-          "My garden is small.",
-          "Sentence from Tatoeba by VPZ (CC-BY 2.0 FR)"
+          "I miei genitori abitano in una casa grande.",
+          "My parents live in a big house.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "regalo",
+      "content": "suggerimenti",
       "translations": [
-        "gift",
-        "present",
-        "offering",
-        "donation"
+        "suggestions",
+        "tips",
+        "recommendations",
+        "advice"
       ],
-      "usageExamples": [
-        [
-          "Ti compro un regalo.",
-          "I buy you a present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Per ringraziarti, ecco un regalo.",
-          "To thank you, here is a gift.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sono sicura che Tom amerà il tuo regalo.",
-          "I'm sure Tom will love your present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

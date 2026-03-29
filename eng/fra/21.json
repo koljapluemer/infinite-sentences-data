@@ -1,69 +1,31 @@
 {
-  "sentence": "Dis à Tom que je n'y serai pas.",
+  "sentence": "C’est ainsi que même une seule lettre peut complètement changer le sens.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Miktsoanit (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tell Tom that I won't be there."
+    "That's how even a single letter can completely change the meaning."
   ],
   "parts": [
     {
-      "content": "Dis",
+      "content": "C’est",
       "translations": [
-        "Say",
-        "Tell"
+        "It is",
+        "This is",
+        "That is"
       ],
       "usageExamples": []
     },
     {
-      "content": "à",
+      "content": "ainsi",
       "translations": [
-        "to",
-        "at",
-        "in"
+        "thus",
+        "so",
+        "therefore",
+        "in this way"
       ],
-      "usageExamples": [
-        [
-          "Je ne suis pas sûr de la manière avec laquelle répondre à ça.",
-          "I'm not sure how to answer this.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu me poses une question à laquelle je ne peux pas répondre.",
-          "You're asking me a question I can't answer.",
-          "Sentence from Tatoeba by Lebensfreude (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je n'arrive pas à croire que vous n'ayez jamais entendu parler de nous.",
-          "I can't believe you've never heard of us.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Tom",
-        "Tommy"
-      ],
-      "usageExamples": [
-        [
-          "Tom nettoya ses pieds.",
-          "Tom scrubbed his feet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "J'ai pensé que Tom avait fait un bon travail.",
-          "I thought that Tom did a nice job.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom ne sait pas conduire une voiture à vitesses manuelles.",
-          "Tom doesn't know how to drive a manual.",
-          "Sentence from Tatoeba by Lulantis (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "que",
@@ -74,86 +36,168 @@
       ],
       "usageExamples": [
         [
-          "Je suis resté toute la journée à la maison parce que je ne me sentais pas bien.",
-          "Feeling unwell, I stayed at home all day.",
+          "Les choses comme ça sont souvent plus accidentelles que malveillantes.",
+          "Such things are often accidental rather than malicious.",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne suis pas certain que nous puissions obtenir des billets ce soir.",
+          "I'm not certain we can get tickets tonight.",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ],
         [
-          "J'ai pensé que Tom avait fait un bon travail.",
-          "I thought that Tom did a nice job.",
+          "S'il vous plaît, nettoyez cette pièce avant que tout le monde n'arrive.",
+          "Please clean up this room before everyone arrives.",
+          "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "même",
+      "translations": [
+        "same",
+        "even"
+      ],
+      "usageExamples": [
+        [
+          "Je ne savais pas que vous étiez de la même famille.",
+          "I didn't know that you were related.",
+          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "une",
+      "translations": [
+        "a"
+      ],
+      "usageExamples": [
+        [
+          "Il portait une casquette.",
+          "He was wearing a cap.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Je ne pensais pas que vous seriez tellement en retard.",
-          "I didn't think you'd be so late.",
+          "Les blessures de Tom ne sont pas considérées comme une menace pour sa vie.",
+          "Tom's injuries aren't considered life-threatening.",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je pense qu'elles ne savent pas que je suis une menteuse.",
+          "I think they don't know I'm a liar.",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "seule",
+      "translations": [
+        "alone",
+        "only"
+      ],
+      "usageExamples": [
+        [
+          "« À combien de questions avez-vous répondu correctement ? » « À pas une seule. »",
+          "\"How many questions did you get right?\" \"Zilch.\"",
+          "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne peux pas vous laisser aller là-dedans toute seule.",
+          "I can't let you go in there alone.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vous êtes la seule personne à laquelle je puisse me fier.",
+          "You're the only person I can trust.",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "je",
+      "content": "lettre",
       "translations": [
-        "I",
-        "me"
+        "letter"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "peut",
+      "translations": [
+        "may"
       ],
       "usageExamples": [
         [
-          "Je pense que nous savons toutes les deux pourquoi je suis ici.",
-          "I think we both know why I'm here.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+          "La chirurgie laser peut corriger certains problèmes de la vision.",
+          "Laser surgery can fix some kinds of vision problems.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Je suis resté toute la journée à la maison parce que je ne me sentais pas bien.",
-          "Feeling unwell, I stayed at home all day.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+          "Je suis un gars on ne peut plus normal qui a beaucoup de violons d'Ingres, peut-être trop.",
+          "I'm a completely normal guy who has many hobbies, maybe too many.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dites à tout le monde que je suis désolé, s'il vous plaît.",
+          "Tout le monde sait que Tom ne peut pas faire cela.",
+          "Everyone knows Tom can't do that.",
+          "Sentence from Tatoeba by zarisi (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "complètement",
+      "translations": [
+        "completely",
+        "totally",
+        "entirely",
+        "fully"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "changer",
+      "translations": [
+        "to change",
+        "to switch",
+        "to alter",
+        "to replace"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "le",
+      "translations": [
+        "him"
+      ],
+      "usageExamples": [
+        [
+          "S'il vous plaît, dites à tout le monde que je suis désolé.",
           "Please tell everyone I'm sorry.",
           "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "n'y",
-      "translations": [
-        "there",
-        "to it",
-        "in it",
-        "to that"
-      ],
-      "usageExamples": [
+        ],
         [
-          "Il n'y a pas les chaussures que j'ai achetées la semaine dernière.",
-          "These aren't the shoes I bought last week.",
+          "En tant que première de sa classe, c'est elle qui prononça le discours de remise des diplômes.",
+          "She was the valedictorian of her class.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "S'il vous plaît, nettoyez cette pièce avant que tout le monde n'arrive.",
+          "Please clean up this room before everyone arrives.",
           "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tu ne peux pas travailler avec quelqu'un s'il n'y a pas de respect entre vous.",
-          "It's impossible to collaborate without mutual respect.",
-          "Sentence from Tatoeba by anzart (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "pas",
+      "content": "sens",
       "translations": [
-        "not"
+        "meaning",
+        "sense",
+        "direction",
+        "feeling"
       ],
       "usageExamples": [
         [
-          "Je ne peux pas aller à l'école aujourd'hui. Je suis malade.",
-          "I can't go to school today. I'm sick.",
-          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ne supporte pas les gens qui sont gentils avec tout le monde.",
-          "Me, I hate people who are indiscriminately friendly.",
-          "Sentence from Tatoeba by gillux (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ne pensais pas que vous seriez tellement en retard.",
-          "I didn't think you'd be so late.",
+          "Je me sens très mal à propos de la manière dont les choses se sont passées.",
+          "I feel terrible about the way things happened.",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ]
       ]

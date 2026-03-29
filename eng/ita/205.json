@@ -1,180 +1,96 @@
 {
-  "sentence": "Che tipo di cibo non le piace?",
+  "sentence": "Amo molto mia madre.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What kind of food don't you like?"
+    "I love my mother very much."
   ],
   "parts": [
     {
-      "content": "Che",
+      "content": "Amo",
       "translations": [
-        "What",
-        "Which",
-        "That",
-        "Who"
+        "I love",
+        "I like",
+        "I am fond of",
+        "I adore"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "molto",
+      "translations": [
+        "very",
+        "much",
+        "a lot",
+        "extremely"
       ],
       "usageExamples": [
         [
-          "Che fallito!",
-          "What a loser!",
-          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
-        ],
-        [
-          "Che altro stai considerando?",
-          "What else are you considering?",
+          "Si contraddicono molto.",
+          "They contradict themselves a lot.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Che cosa direste?",
-          "What would you say?",
+          "È molto bello rivedervi.",
+          "It is very nice to see you again.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vi manca molto, vero?",
+          "You miss him a lot, don't you?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tipo",
+      "content": "mia",
       "translations": [
-        "type",
-        "kind",
-        "sort",
-        "category"
+        "my",
+        "mine",
+        "belonging to me"
       ],
       "usageExamples": [
         [
-          "Sono un tipo solitario.",
-          "I'm a loner.",
+          "Prendi la mia.",
+          "Take mine.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Voglio ricomprare la mia macchina.",
+          "I want to buy my car back.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Salutate i vostri genitori da parte mia.",
+          "Say hello to your parents from me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "di",
+      "content": "madre",
       "translations": [
-        "of",
-        "from",
-        "about",
-        "by"
+        "mother",
+        "mom",
+        "mum",
+        "mama"
       ],
       "usageExamples": [
         [
-          "\">\" significa maggiore di.",
-          "\">\" means greater than.",
-          "Sentence from Tatoeba by hitori37 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non scordi di chiamarli.",
-          "Don't forget to call them.",
+          "Lei è del tutto diversa da sua madre.",
+          "She is not anything like her mother.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Può fare di meglio.",
-          "You can do better.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cibo",
-      "translations": [
-        "food",
-        "meal",
-        "nourishment",
-        "provisions"
-      ],
-      "usageExamples": [
-        [
-          "Yanni comprò del cibo.",
-          "Yanni bought food.",
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Londra preferii il cibo indiano.",
-          "In London I preferred Indian food.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il cibo giapponese le mancherà negli Stati Uniti.",
-          "You will miss Japanese food in the United States.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "non",
-      "translations": [
-        "not",
-        "no",
-        "none",
-        "never"
-      ],
-      "usageExamples": [
-        [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Yanni non comprende l'Islam.",
-          "Yanni doesn't understand Islam.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "le",
-      "translations": [
-        "the",
-        "them",
-        "to them",
-        "for them"
-      ],
-      "usageExamples": [
-        [
-          "Non le vogliamo là.",
-          "We don't want them there.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non le può licenziare.",
-          "You can't fire them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quando depongono le uova i salmoni?",
-          "When do salmon spawn?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "piace",
-      "translations": [
-        "to like",
-        "to please",
-        "to be pleasing to"
-      ],
-      "usageExamples": [
-        [
-          "A John piace l'infermiera.",
-          "John likes the nurse.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Judy piace.",
-          "Judy likes him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Larry piace l'aragosta.",
-          "Larry likes lobster.",
+          "Mia madre è impegnatissima ogni giorno.",
+          "My mother is busy as a bee every day.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

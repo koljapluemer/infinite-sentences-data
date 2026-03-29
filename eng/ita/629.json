@@ -1,56 +1,19 @@
 {
-  "sentence": "Non conosco il sistema.",
+  "sentence": "Mi piacciono i cani e i gatti.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't know the system."
+    "I like dogs and cats."
   ],
   "parts": [
     {
-      "content": "Non",
+      "content": "Mi",
       "translations": [
-        "No.",
-        "Not",
-        "Nope.",
-        "Negative."
-      ],
-      "usageExamples": [
-        [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non dormite mai?",
-          "Don't you ever sleep?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non siamo sposati.",
-          "We aren't married.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "conosco",
-      "translations": [
-        "I know.",
-        "I am familiar with",
-        "I recognize",
-        "I meet"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
+        "Me",
+        "I",
+        "Myself"
       ],
       "usageExamples": [
         [
@@ -59,26 +22,145 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "Mi sto riposando ora.",
+          "I'm resting now.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sistema",
+      "content": "piacciono",
       "translations": [
-        "system",
-        "setup",
-        "framework",
-        "scheme"
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Mary piacciono anche le banane.",
+          "Mary also likes bananas.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, ma non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi piacciono le carte di credito. Preferisco i contanti.",
+          "I don't like credit cards. I prefer cash.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace quando Tom lascia i suoi vestiti sporchi sul pavimento.",
+          "Mary doesn't like it when Tom leaves his dirty clothes on the floor.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Leggo un giornale tutti i giorni per tenermi aggiornata.",
+          "I read a newspaper every day so that I may keep up with the time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "cani",
+      "translations": [
+        "dogs",
+        "canines",
+        "pups",
+        "pooches"
+      ],
+      "usageExamples": [
+        [
+          "A Eva piacciono i cani, però non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non accarezzo i vostri cani.",
+          "I don't pet your dogs.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quelli sono i cani di Tom?",
+          "Are those Tom's dogs?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "e",
+      "translations": [
+        "and",
+        "also",
+        "as well as",
+        "in addition"
+      ],
+      "usageExamples": [
+        [
+          "Durante il suo giro in Italia, ha visitato diverse città famose per la loro bellezza scenica, per esempio Napoli e Firenze.",
+          "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary mancano sua madre e suo padre.",
+          "Mary misses her mother and father.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Camminare regolarmente può aiutarmi a mantenere un peso sano e a prevenire l'aumento di peso.",
+          "Regular walking can help me maintain a healthy weight and prevent weight gain.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gatti",
+      "translations": [
+        "cats",
+        "kittens",
+        "felines",
+        "domestic cats"
+      ],
+      "usageExamples": [
+        [
+          "A Henrietta non piacciono i gatti.",
+          "Henrietta doesn't like cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ziri ama i gatti siamesi.",
+          "Ziri loves Siamese cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Eva piacciono i cani, però non i gatti.",
+          "Eva likes dogs, but not cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

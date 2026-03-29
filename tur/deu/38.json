@@ -1,66 +1,17 @@
 {
-  "sentence": "Meine Mutter spricht nicht sehr gut Englisch.",
+  "sentence": "Ich dachte, dass wir es tun konnten.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Annem İngilizceyi pek iyi konuşmaz."
+    "Bunu yapabileceğimizi düşündüm."
   ],
   "parts": [
     {
-      "content": "Mutter",
+      "content": "Ich",
       "translations": [
-        "anne",
-        "mam",
-        "Annen",
-        "Annem"
-      ],
-      "usageExamples": [
-        [
-          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
-          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "spricht",
-      "translations": [
-        "konuşur"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "nicht",
-      "translations": [
-        "değil",
-        "ne",
-        "yok"
-      ],
-      "usageExamples": [
-        [
-          "Nur nicht aufgeben!",
-          "Sakın pes etme!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Unser Wissen wird immer breiter, aber leider nicht tiefer.",
-          "Bilgimiz giderek genişliyor, ama ne yazık ki derinleşmiyor.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich behaupte, dass das nicht stimmt.",
-          "Bunun doğru olmadığını iddia ediyorum.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "sehr",
-      "translations": [
-        "çok",
-        "pek"
+        "Ben"
       ],
       "usageExamples": [
         [
@@ -69,36 +20,109 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Esperanto zu lernen ist sehr interessant.",
-          "Esperanto öğrenmek çok ilginçtir.",
+          "Ich kenne deinen Vater.",
+          "Ben senin babanı tanıyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich interessiere mich sehr für Fußball.",
-          "Futbola çok ilgim var.",
+          "Ich verstehe ungefähr.",
+          "Aşağı yukarı anlıyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "gut",
+      "content": "dachte",
       "translations": [
-        "iyi",
-        "İyi",
-        "yi"
+        "düşündü"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dass",
+      "translations": [
+        "ki",
+        "şu ki"
       ],
       "usageExamples": [
         [
-          "Das fängt ja gut an!",
-          "İyi bir başlangıç oldu!",
+          "Wollen Sie, dass ich Tom rufe?",
+          "Tom'u çağırmamı ister misiniz?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
+          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich hab auch nicht gewollt, dass es so kommt.",
+          "Ben de böyle olsun istemezdim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Englisch",
+      "content": "wir",
       "translations": [
-        "İngilizceyi"
+        "Biz",
+        "biz",
+        "bize"
+      ],
+      "usageExamples": [
+        [
+          "Tom, wir haben dafür keine Zeit!",
+          "Tom, buna vaktimiz yok!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
+          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "es",
+      "translations": [
+        "onu",
+        "Onu",
+        "ona"
+      ],
+      "usageExamples": [
+        [
+          "So ist es.",
+          "Aynen",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich hab auch nicht gewollt, dass es so kommt.",
+          "Ben de böyle olsun istemezdim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Von wem hast du es erfahren?",
+          "Kimden öğrendin?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tun",
+      "translations": [
+        "yapmak"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "konnten",
+      "translations": [
+        "başardılar"
       ],
       "usageExamples": []
     }

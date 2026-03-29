@@ -1,28 +1,31 @@
 {
-  "sentence": "En tant que première de sa classe, c'est elle qui prononça le discours de remise des diplômes.",
+  "sentence": "Elle tient de sa mère.",
   "credits": [
-    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Barbiche0 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She was the valedictorian of her class."
+    "She takes after her mother."
   ],
   "parts": [
     {
-      "content": "En tant que",
+      "content": "Elle",
       "translations": [
-        "As",
-        "In the capacity of",
-        "In the role of",
-        "As a"
+        "She",
+        "Her"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Elle est une personne, sans laquelle je ne peux pas vivre.",
+          "She is one person I can't live without.",
+          "Sentence from Tatoeba by giiraffen (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "première",
+      "content": "tient",
       "translations": [
-        "first",
-        "premiere"
+        "holds"
       ],
       "usageExamples": []
     },
@@ -35,19 +38,19 @@
       ],
       "usageExamples": [
         [
-          "Je suis vraiment désolé de t'avoir fait attendre.",
-          "I am so sorry to have kept you waiting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Elles ne sont pas simplement camarades de chambrée. Elles sont aussi amantes.",
-          "They're not just roommates. They're also lovers.",
+          "Je n'ai jamais vraiment étudié le C++ au-delà de « Bonjour tout le monde ! »",
+          "I never really studied C++ beyond \"Hello, world!\"",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ],
         [
-          "N'as-tu rien appris de tes erreurs ?",
-          "Have you learned nothing from your mistakes?",
+          "Je n'ai pas entendu parler de lui depuis longtemps.",
+          "I have not heard from him for a long time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Il s'entend bien avec toutes les personnes de sa classe.",
+          "He gets along with everyone in his class.",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -58,31 +61,15 @@
       ],
       "usageExamples": [
         [
-          "Il s'entend bien avec toutes les personnes de sa classe.",
-          "He gets along with everyone in his class.",
-          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
-        ],
-        [
-          "Elle tient de sa mère.",
-          "She takes after her mother.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Tom est un homme intelligent, dont les connaissances ont été acquises à la fois grâce à des études universitaires et par sa propre expérience.",
+          "Tom is both book smart and street smart.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ],
         [
           "Les blessures de Tom ne sont pas considérées comme une menace pour sa vie.",
           "Tom's injuries aren't considered life-threatening.",
           "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "classe",
-      "translations": [
-        "class",
-        "grade",
-        "category",
-        "classroom"
-      ],
-      "usageExamples": [
+        ],
         [
           "Il s'entend bien avec toutes les personnes de sa classe.",
           "He gets along with everyone in his class.",
@@ -91,138 +78,9 @@
       ]
     },
     {
-      "content": "c'est",
+      "content": "mère",
       "translations": [
-        "is"
-      ],
-      "usageExamples": [
-        [
-          "Pour ma part, je ne pense pas que ce soit correct et c'est ce qui me dérange personnellement.",
-          "I find that both incorrect and personally bothering.",
-          "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "elle",
-      "translations": [
-        "she",
-        "her"
-      ],
-      "usageExamples": [
-        [
-          "Je crois en elle.",
-          "I have faith in her.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "qui",
-      "translations": [
-        "who",
-        "that",
-        "which"
-      ],
-      "usageExamples": [
-        [
-          "Est-ce que les mecs qui ne boivent pas d'alcool sont toujours des mecs ?",
-          "Are men who don't drink still men?",
-          "Sentence from Tatoeba by felix63 (CC-BY 2.0 FR)"
-        ],
-        [
-          "« À qui sont ces lunettes de soleil ? » « Elles sont à Nabil. »",
-          "\"Whose sunglasses are these?\" \"They are Nabil's.\"",
-          "Sentence from Tatoeba by Micsmithel (CC-BY 2.0 FR)"
-        ],
-        [
-          "Elles ne sont pas très différentes de qui que ce soit d'autre.",
-          "They are not very different from anybody else.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "prononça",
-      "translations": [
-        "pronounced",
-        "spoke",
-        "uttered"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "le",
-      "translations": [
-        "him"
-      ],
-      "usageExamples": [
-        [
-          "Je ne savais pas que Tom était le fils de Mary.",
-          "I didn't know that Tom was Mary's son.",
-          "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dites à tout le monde que je suis désolé, s'il vous plaît.",
-          "Please tell everyone I'm sorry.",
-          "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tout le monde sait que Tom ne peut pas faire cela.",
-          "Everyone knows Tom can't do that.",
-          "Sentence from Tatoeba by zarisi (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "discours",
-      "translations": [
-        "speech",
-        "address",
-        "talk",
-        "discourse"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "remise",
-      "translations": [
-        "discount",
-        "rebate",
-        "deduction"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "des",
-      "translations": [
-        "of the",
-        "some",
-        "from the"
-      ],
-      "usageExamples": [
-        [
-          "Je ne suis pas certain que nous puissions obtenir des billets ce soir.",
-          "I'm not certain we can get tickets tonight.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Un hypocondriaque imagine des maladies là où elles n'existent pas.",
-          "A hypochondriac imagines maladies where none exist.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Toutes les études cliniques ne sont pas fondées sur des hypothèses.",
-          "Not all clinical studies are hypothesis-driven.",
-          "Sentence from Tatoeba by marioo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "diplômes",
-      "translations": [
-        "degrees",
-        "diplomas"
+        "mother"
       ],
       "usageExamples": []
     }

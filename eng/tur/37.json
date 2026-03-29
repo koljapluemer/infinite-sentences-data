@@ -1,46 +1,39 @@
 {
-  "sentence": "\"Ne istiyorsun?\" \"Köpek istiyorum.\"",
+  "sentence": "Hiç İstanbul'a gitmedim.",
   "credits": [
-    "Sentence from Tatoeba by newton55 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by blay_paul (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Airvian (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "\"What do you want?\" \"I want a dog.\""
+    "I never went to Istanbul."
   ],
   "parts": [
     {
-      "content": "Ne",
+      "content": "Hiç",
       "translations": [
-        "What",
-        "Huh",
-        "Excuse me.",
-        "Pardon?"
+        "none",
+        "not at all",
+        "ever",
+        "at all"
       ],
       "usageExamples": []
     },
     {
-      "content": "Köpek",
+      "content": "İstanbul'a",
       "translations": [
-        "Dog",
-        "Pooch",
-        "Canine",
-        "Hound"
+        "to Istanbul",
+        "in Istanbul"
       ],
       "usageExamples": []
     },
     {
-      "content": "istiyorum",
+      "content": "gitmedim",
       "translations": [
-        "I want",
-        "I would like"
+        "I couldn't go.",
+        "I didn't get to go",
+        "I haven't gone"
       ],
-      "usageExamples": [
-        [
-          "İyi bir iş istiyorum.",
-          "I want a good job.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

@@ -1,123 +1,51 @@
 {
-  "sentence": "Hai già visto il campus?",
+  "sentence": "Farà presto buio.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Have you seen the campus yet?"
+    "It's going to get dark soon."
   ],
   "parts": [
     {
-      "content": "Hai",
+      "content": "Farà",
       "translations": [
-        "Yes.",
-        "Yeah",
-        "Yep.",
-        "Affirmative"
+        "He/She will do",
+        "It will do",
+        "He/She will make",
+        "It will make"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "presto",
+      "translations": [
+        "quick",
+        "fast",
+        "soon",
+        "immediately"
       ],
       "usageExamples": [
         [
-          "Hai guardato la partita?",
-          "Did you watch the game?",
+          "Pranzammo presto.",
+          "We ate lunch early.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai visto Tom quella notte?",
-          "Did you see Tom that night?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hai bisogno di una tastiera nuova?",
-          "Do you need a new keyboard?",
+          "Gli alberi saranno presto vuoti.",
+          "The trees will soon be bare.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "già",
+      "content": "buio",
       "translations": [
-        "already",
-        "now",
-        "yet",
-        "at this point"
-      ],
-      "usageExamples": [
-        [
-          "Lei ha già cominciato.",
-          "She has already begun.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei ha già finito?",
-          "Have you already finished?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Berlino c'è già stato.",
-          "You've already been to Berlin.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "visto",
-      "translations": [
-        "visa",
-        "sight",
-        "view",
-        "sightseeing"
-      ],
-      "usageExamples": [
-        [
-          "Ho visto Tom prima.",
-          "I saw Tom earlier.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ti ho visto sbadigliare.",
-          "I saw you yawning.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary non piaceva quello che ha visto.",
-          "Mary didn't like what she saw.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Non conosco il sistema.",
-          "I don't know the system.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi piace il reggae.",
-          "I like reggae.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "campus",
-      "translations": [
-        "field",
-        "grounds",
-        "area"
+        "dark",
+        "darkness",
+        "gloom",
+        "dimness"
       ],
       "usageExamples": []
     }

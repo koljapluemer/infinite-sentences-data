@@ -1,124 +1,85 @@
 {
-  "sentence": "Gli amici entrano nelle nostre vite volontariamente.",
+  "sentence": "Dovette pulire la cucina.",
   "credits": [
-    "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Conjuice (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Friends come into our lives voluntarily."
+    "He had to clean the kitchen."
   ],
   "parts": [
     {
-      "content": "Gli",
+      "content": "Dovette",
+      "translations": [
+        "Should have",
+        "Ought to have",
+        "Had to",
+        "Was supposed to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "pulire",
+      "translations": [
+        "to clean",
+        "to tidy up",
+        "to purify",
+        "to polish"
+      ],
+      "usageExamples": [
+        [
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
       "translations": [
         "the",
-        "them",
-        "those",
-        "the ones"
+        "that",
+        "which",
+        "those"
       ],
       "usageExamples": [
         [
-          "Gli importava.",
-          "He cared.",
+          "Sento la primavera nell'aria.",
+          "I feel spring in the air.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli uomini amano vantarsi.",
-          "Men love to brag.",
+          "Prendi la mia.",
+          "Take mine.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Gli ippopotami sono degli animali innocui?",
-          "Are hippopotamuses harmless animals?",
+          "Apri la cassaforte.",
+          "Open the safe.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "amici",
+      "content": "cucina",
       "translations": [
-        "friends",
-        "buddies",
-        "companions",
-        "mates"
+        "kitchen",
+        "cooking area",
+        "culinary space",
+        "kitchenette"
       ],
       "usageExamples": [
         [
-          "Tom ha molti amici?",
-          "Does Tom have lots of friends?",
+          "È uscito dalla cucina.",
+          "He got out of the kitchen.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ho abbastanza amici.",
-          "I have enough friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Stavano parlando insieme come vecchi amici.",
-          "They were talking together like old pals.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+          "Riconosco il tuo contributo per tenere pulita la cucina.",
+          "I recognize your contribution to keeping the kitchen clean.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "entrano",
-      "translations": [
-        "they enter",
-        "they go in",
-        "they come in",
-        "they get in"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "nelle",
-      "translations": [
-        "in the",
-        "at the",
-        "to the",
-        "on the"
-      ],
-      "usageExamples": [
-        [
-          "Io ho il sangue blu nelle vene.",
-          "I have blue blood in my veins.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "nostre",
-      "translations": [
-        "our",
-        "ours",
-        "of ours"
-      ],
-      "usageExamples": [
-        [
-          "Noi sentiamo con le nostre orecchie.",
-          "We hear with our ears.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "vite",
-      "translations": [
-        "screw",
-        "bolt",
-        "fastener",
-        "threaded rod"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "volontariamente",
-      "translations": [
-        "voluntarily",
-        "willingly",
-        "of one's own accord",
-        "by choice"
-      ],
-      "usageExamples": []
     }
   ]
 }

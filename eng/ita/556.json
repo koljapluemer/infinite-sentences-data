@@ -1,65 +1,96 @@
 {
-  "sentence": "Mandatela per posta aerea.",
+  "sentence": "Lei suona la chitarra portoghese.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by adiante19 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Send it by airmail."
+    "She plays the Portuguese guitar."
   ],
   "parts": [
     {
-      "content": "Mandatela",
+      "content": "Lei",
       "translations": [
-        "Mandate",
-        "Authorization",
-        "Power of attorney",
-        "Delegation"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "per",
-      "translations": [
-        "for",
-        "by",
-        "through"
+        "You (formal)",
+        "She",
+        "Mrs.",
+        "Ma'am"
       ],
       "usageExamples": [
         [
-          "Hey, grazie per l'aiuto.",
-          "Hey, thanks for the help.",
+          "Lei ci catturerà.",
+          "You will catch us.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Stavo per aiutare Tom.",
-          "I was going to help Tom.",
+          "Lei ha già finito?",
+          "Have you finished yet?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sono preparata per morire.",
-          "I'm prepared to die.",
+          "Lei ha frenato.",
+          "She braked.",
+          "Sentence from Tatoeba by Bethanielle (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "suona",
+      "translations": [
+        "plays",
+        "sounds",
+        "rings",
+        "is played"
+      ],
+      "usageExamples": [
+        [
+          "Non mi sveglierò neppure se suona la sveglia.",
+          "I won't wake up even if the alarm rings.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "posta",
+      "content": "la",
       "translations": [
-        "mail",
-        "post",
-        "postal service",
-        "mail delivery"
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai guardato la partita?",
+          "Did you watch the game?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "chitarra",
+      "translations": [
+        "guitar",
+        "stringed instrument",
+        "musical guitar"
       ],
       "usageExamples": []
     },
     {
-      "content": "aerea",
+      "content": "portoghese",
       "translations": [
-        "aerial",
-        "airborne",
-        "atmospheric",
-        "aviation-related"
+        "Portuguese",
+        "from Portugal",
+        "relating to Portugal"
       ],
       "usageExamples": []
     }

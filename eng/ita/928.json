@@ -1,13 +1,79 @@
 {
-  "sentence": "Tom era creativo.",
+  "sentence": "Stavo per aiutare Tom.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom was creative."
+    "I was going to help Tom."
   ],
   "parts": [
+    {
+      "content": "Stavo",
+      "translations": [
+        "I was",
+        "I used to be",
+        "I was being"
+      ],
+      "usageExamples": [
+        [
+          "Stavo pensando di arruolarmi nell'esercito.",
+          "I was thinking about joining the army.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "per",
+      "translations": [
+        "for",
+        "by",
+        "through"
+      ],
+      "usageExamples": [
+        [
+          "Sono preparata per morire.",
+          "I'm prepared to die.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vuole andare per prima?",
+          "Do you want to go first?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "aiutare",
+      "translations": [
+        "to help",
+        "to assist",
+        "to aid",
+        "to support"
+      ],
+      "usageExamples": [
+        [
+          "Dovresti aiutare Tom.",
+          "You should help Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Li vada ad aiutare.",
+          "Go help them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi devi aiutare a salvarle.",
+          "You must help me save them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
     {
       "content": "Tom",
       "translations": [
@@ -22,52 +88,16 @@
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti è piaciuto Tom?",
-          "Did you like Tom?",
+          "Sai cosa vuole Tom?",
+          "Do you know what Tom wants?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Quanti anni hai, Tom?",
-          "How old are you, Tom?",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "era",
-      "translations": [
-        "was",
-        "used to be",
-        "used to",
-        "was in the process of"
-      ],
-      "usageExamples": [
-        [
-          "Chi era qua?",
-          "Who was here?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Chiese se era invitata.",
-          "She asked if she was invited.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mary mi disse che non era più malata.",
-          "Mary told me she wasn't sick anymore.",
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "creativo",
-      "translations": [
-        "creative",
-        "innovative",
-        "imaginative",
-        "original"
-      ],
-      "usageExamples": []
     }
   ]
 }

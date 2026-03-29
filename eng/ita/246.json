@@ -1,15 +1,101 @@
 {
-  "sentence": "Di solito bevo molto latte.",
+  "sentence": "Chiamatemi se avete bisogno di assistenza.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Disconnect (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I usually drink a lot of milk."
+    "Call me if you need assistance."
   ],
   "parts": [
     {
-      "content": "Di",
+      "content": "Chiamatemi",
+      "translations": [
+        "Call me.",
+        "You can call me",
+        "Just call me"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "se",
+      "translations": [
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
+      ],
+      "usageExamples": [
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non vogliamo che se ne vada.",
+          "We don't want him to leave.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non mi sveglierò neppure se suona la sveglia.",
+          "I won't wake up even if the alarm rings.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "avete",
+      "translations": [
+        "you have",
+        "you've got",
+        "are you having"
+      ],
+      "usageExamples": [
+        [
+          "Li avete rapiti?",
+          "Did you kidnap them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa avete consigliato?",
+          "What did you recommend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bisogno",
+      "translations": [
+        "need",
+        "requirement",
+        "necessity",
+        "desire"
+      ],
+      "usageExamples": [
+        [
+          "Tom ha bisogno di una mano.",
+          "Tom needs a hand.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho bisogno di parlarti stanotte.",
+          "I need to talk to you tonight.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hai bisogno di una tastiera nuova?",
+          "Do you need a new keyboard?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "di",
       "translations": [
         "of",
         "from",
@@ -18,93 +104,31 @@
       ],
       "usageExamples": [
         [
-          "Di fatto l'uomo si arrabbiò.",
-          "In fact, the man got angry.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Di tutti là, parlai meno.",
-          "Out of everyone there, I spoke the least.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "solito",
-      "translations": [
-        "usual",
-        "customary",
-        "habitual",
-        "regular"
-      ],
-      "usageExamples": [
-        [
-          "I problemi di solito non vanno via da soli.",
-          "Problems don't usually go away by themselves.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "bevo",
-      "translations": [
-        "I drink.",
-        "I am drinking",
-        "I do drink"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "molto",
-      "translations": [
-        "very",
-        "much",
-        "a lot",
-        "extremely"
-      ],
-      "usageExamples": [
-        [
-          "Si contraddicono molto.",
-          "They contradict themselves a lot.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "È molto bello rivedervi.",
-          "It is very nice to see you again.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non vinco molto spesso.",
-          "I don't win very often.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "latte",
-      "translations": [
-        "milk",
-        "dairy milk",
-        "cow's milk",
-        "liquid milk"
-      ],
-      "usageExamples": [
-        [
           "Beve latte di mucca.",
           "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary non piace il latte nel suo caffè.",
-          "Mary doesn't like milk in her coffee.",
+          "Può fare di meglio.",
+          "You can do better.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Lei farebbe inconvenienza se bevessi io il resto del latte?",
-          "Would you mind if I drank the rest of the milk?",
-          "Sentence from Tatoeba by jackhayes (CC-BY 2.0 FR)"
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "assistenza",
+      "translations": [
+        "assistance",
+        "support",
+        "help",
+        "aid"
+      ],
+      "usageExamples": []
     }
   ]
 }

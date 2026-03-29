@@ -1,125 +1,105 @@
 {
-  "sentence": "El gran crítico y el poeta viajan juntos.",
+  "sentence": "Dijo que tenía mucho dinero.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The great critic and the poet are traveling together."
+    "He said that he had a lot of money."
   ],
   "parts": [
     {
-      "content": "El",
+      "content": "Dijo",
       "translations": [
-        "The",
-        "He"
+        "He said",
+        "She said",
+        "They said",
+        "Said"
+      ],
+      "usageExamples": [
+        [
+          "Dijo que había visto esa foto antes.",
+          "He said that he had seen the picture before.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "que",
+      "translations": [
+        "that",
+        "which"
+      ],
+      "usageExamples": [
+        [
+          "Hay una película que quiero ver por TV mañana en la noche.",
+          "There's a movie I want to watch on TV tomorrow night.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
+          "It's marvelous how quickly the medicine relieved my pain.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
+          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tenía",
+      "translations": [
+        "I had",
+        "he/she/it had",
+        "you had (formal)",
+        "we had"
+      ],
+      "usageExamples": [
+        [
+          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
+          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mucho",
+      "translations": [
+        "a lot",
+        "much",
+        "many",
+        "very"
+      ],
+      "usageExamples": [
+        [
+          "Eso ocurrió hace mucho tiempo.",
+          "It happened a long time ago.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No caí en la cuenta hasta mucho después.",
+          "I didn't realize it until much later.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dinero",
+      "translations": [
+        "money",
+        "cash",
+        "funds",
+        "currency"
       ],
       "usageExamples": [
         [
           "El hambre llevó al muchacho a robar dinero de la caja registradora.",
           "Hunger compelled the boy to steal money from the cash register.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El ruido me está volviendo loco.",
-          "The noise is driving me crazy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El tiempo está muy malo.",
-          "The weather is very bad.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "gran",
-      "translations": [
-        "big",
-        "great",
-        "large",
-        "grand"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "crítico",
-      "translations": [
-        "critical",
-        "critic"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "y",
-      "translations": [
-        "and",
-        "plus"
-      ],
-      "usageExamples": [
-        [
-          "Cantemos y bailemos.",
-          "Let's sing and dance.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Algunos niños trajeron sándwiches de mantequilla de cacahuete, algunos de jamón y otros de queso.",
-          "Some children brought peanut butter sandwiches, some ham, and others cheese.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El té sabe muy amargo y no está bueno.",
-          "The tea is really bitter and doesn't taste good.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "el",
-      "translations": [
-        "the"
-      ],
-      "usageExamples": [
-        [
-          "Me estoy tiñendo el pelo de negro.",
-          "I'm dyeing my hair black.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Este es el color de las frambuesas.",
-          "This is the color of raspberries.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Ann le encanta el chocolate.",
-          "Ann loves chocolate.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "poeta",
-      "translations": [
-        "poet",
-        "poetess"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "viajan",
-      "translations": [
-        "they travel",
-        "you all travel",
-        "are traveling"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "juntos",
-      "translations": [
-        "together"
-      ],
-      "usageExamples": []
     }
   ]
 }

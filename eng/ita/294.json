@@ -1,32 +1,74 @@
 {
-  "sentence": "Giusto, cominciamo il nostro lavoro.",
+  "sentence": "Dove ha portato il mio lenzuolo?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Gulliver (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by fanty (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Right, let's start our work."
+    "Where did you take my blanket?"
   ],
   "parts": [
     {
-      "content": "Giusto",
+      "content": "Dove",
       "translations": [
-        "Right",
-        "Just",
-        "Fair",
-        "Correct."
+        "Where",
+        "Where is it?",
+        "Where to?",
+        "Where are you?"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dove li avete oliati?",
+          "Where did you oil them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dove sei in questo momento?",
+          "Where are you right now?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "cominciamo",
+      "content": "ha",
       "translations": [
-        "let's start",
-        "we begin",
-        "let's commence",
-        "we'll start"
+        "has",
+        "he has",
+        "there is"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Non ha un fidanzato?",
+          "Don't you have a boyfriend?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha molti amici?",
+          "Does Tom have lots of friends?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "portato",
+      "translations": [
+        "carried",
+        "brought",
+        "delivered",
+        "transported"
+      ],
+      "usageExamples": [
+        [
+          "Ne ho portato fuori uno.",
+          "I brought one out.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "il",
@@ -38,13 +80,13 @@
       ],
       "usageExamples": [
         [
-          "Non bevete il caffè?",
-          "Do you not drink coffee?",
+          "Lasci andare il ragazzo.",
+          "Let the boy go.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -55,56 +97,39 @@
       ]
     },
     {
-      "content": "nostro",
+      "content": "mio",
       "translations": [
-        "our",
-        "ours",
-        "of ours",
-        "belonging to us"
+        "my",
+        "mine",
+        "of mine",
+        "belonging to me"
       ],
       "usageExamples": [
         [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
+          "È mio nemico.",
+          "He is my enemy.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "250 copie sono disponibili dal nostro negozio ufficiale.",
-          "250 copies are available from our official shop.",
+          "Perché questo è il mio lavoro?",
+          "Why is this my job?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Si unisca al nostro gruppo di lettura.",
-          "Join our book club.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Non so se i padrini di mio figlio siano ancora vivi.",
+          "I don't know if my son's godparents are still alive.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "lavoro",
+      "content": "lenzuolo",
       "translations": [
-        "work",
-        "job",
-        "labor",
-        "employment"
+        "sheet",
+        "bed sheet",
+        "linen sheet"
       ],
-      "usageExamples": [
-        [
-          "A Mary non piace il suo lavoro.",
-          "Mary doesn't like her job.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A che ora arrivate al lavoro?",
-          "What time do you arrive at work?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il signor Jones crede nel duro lavoro e nei profitti.",
-          "Mr Jones believes in hard work and profits.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

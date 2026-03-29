@@ -1,105 +1,65 @@
 {
-  "sentence": "Sé que Tom es feliz.",
+  "sentence": "Me gustaría tomar algo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by human600 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I know Tom is happy."
+    "I'd like something to drink."
   ],
   "parts": [
     {
-      "content": "Sé",
+      "content": "Me",
       "translations": [
-        "I know.",
-        "Be",
-        "I am.",
-        "Know"
+        "Me",
+        "I"
+      ],
+      "usageExamples": [
+        [
+          "Me siento muy enfermo.",
+          "I feel very sick.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me gusta el café.",
+          "I enjoy coffee.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "gustaría",
+      "translations": [
+        "would like",
+        "would love",
+        "would enjoy"
       ],
       "usageExamples": []
     },
     {
-      "content": "que",
+      "content": "tomar",
       "translations": [
-        "that",
-        "which"
-      ],
-      "usageExamples": [
-        [
-          "Le pedí al mayordomo que nos sirviese un café.",
-          "I asked the butler to serve us some coffee.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Los cisnes son hermosas y elegantes aves, todo lo contrario que los cuervos y buitres.",
-          "Swans are beautiful and elegant birds, quite the opposite from crows and vultures.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dijo que tenía mucho dinero.",
-          "He said that he had a lot of money.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Tom",
-        "Thomas"
-      ],
-      "usageExamples": [
-        [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se está lavando la cara.",
-          "Tom is washing his face.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se pegó un tiro en la cabeza.",
-          "Tom shot himself in the head.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "es",
-      "translations": [
-        "is",
-        "it is",
-        "to be"
-      ],
-      "usageExamples": [
-        [
-          "Tomás es xenofóbico.",
-          "Tom is xenophobic.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Esa es la realidad.",
-          "That's the reality.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El carámbano es una columna de hielo.",
-          "An icicle is a pillar of ice.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "feliz",
-      "translations": [
-        "happy",
-        "joyful",
-        "content",
-        "cheerful"
+        "to take"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "algo",
+      "translations": [
+        "something"
+      ],
+      "usageExamples": [
+        [
+          "Dime algo que no sepa.",
+          "Tell me something that I don't know.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

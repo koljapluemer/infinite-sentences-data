@@ -1,66 +1,75 @@
 {
-  "sentence": "Bence bu inanılmaz.",
+  "sentence": "Ben olsam iki kere düşünürdüm.",
   "credits": [
     "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich denke, es ist unglaublich."
+    "Ich würde mir das zweimal überlegen."
   ],
   "parts": [
     {
-      "content": "bence",
+      "content": "Ben",
       "translations": [
-        "ich denke",
-        "meiner Meinung nach"
+        "Ich",
+        "Mir"
       ],
       "usageExamples": [
         [
-          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
-          "Ich glaube, treffender und besser kann man es kaum darstellen.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+          "Ben senin babanı tanıyorum.",
+          "Ich kenne deinen Vater.",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ben hatırlamak istiyordum.",
+          "Ich wollte mich erinnern.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ben de böyle olsun istemezdim.",
+          "Ich hab auch nicht gewollt, dass es so kommt.",
+          "Sentence from Tatoeba by TR724 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bu",
+      "content": "olsam",
       "translations": [
-        "dies",
-        "das",
-        "den",
-        "die"
+        "wenn ich wäre",
+        "falls ich wäre",
+        "sofern ich wäre"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "iki",
+      "translations": [
+        "zwei",
+        "2"
       ],
       "usageExamples": [
         [
-          "Mali desteği, bu projemiz için vazgeçilmezdir.",
-          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
-          "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
-        ],
-        [
-          "O bu sırrı açık etmek istiyor.",
-          "Sie wollte das Geheimnis verraten.",
-          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
-        ],
-        [
-          "Neden bu kadar uzun düşünüyorsun?",
-          "Warum überlegen Sie so lange?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "inanılmaz",
+      "content": "kere",
       "translations": [
-        "unglaublich",
-        "unfassbar"
+        "drehen",
+        "wenden"
       ],
-      "usageExamples": [
-        [
-          "Onun bunu başarması inanılmaz.",
-          "Es ist unwahrscheinlich, dass es ihm gelungen ist.",
-          "Sentence from Tatoeba by odien16 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
+    },
+    {
+      "content": "düşünürdüm",
+      "translations": [
+        "ich dachte",
+        "ich habe gedacht"
+      ],
+      "usageExamples": []
     }
   ]
 }

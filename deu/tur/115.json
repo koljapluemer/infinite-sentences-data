@@ -1,80 +1,69 @@
 {
-  "sentence": "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+  "sentence": "Tom mutsuz, değil mi?",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Weißt du, wohin Tom und seine Freunde gegangen sind?"
+    "Tom ist unglücklich, nicht wahr?"
   ],
   "parts": [
     {
-      "content": "ve",
+      "content": "Tom",
       "translations": [
-        "und",
-        "oder"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Bence daha isabetli ve daha güzel bir sunum olamaz.",
-          "Ich glaube, treffender und besser kann man es kaum darstellen.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "Onun bir kedisi ve iki köpeği var.",
-          "Sie hat eine Katze und zwei Hunde.",
+          "Tom'dan korktuğumu kim söylüyor?",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Gemiler rüzgar ve yağmurdan etkilenirler.",
-          "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen.",
-          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom, buna vaktimiz yok!",
+          "Tom, wir haben dafür keine Zeit!",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "arkadaşlarının",
+      "content": "mutsuz",
       "translations": [
-        "deine Freunde",
-        "deine Freundinnen"
+        "unglücklich",
+        "traurig",
+        "missmutig"
       ],
       "usageExamples": []
     },
     {
-      "content": "nereye",
+      "content": "değil",
       "translations": [
-        "wohin",
-        "nach wo"
+        "nicht",
+        "kein"
       ],
       "usageExamples": []
     },
     {
-      "content": "gittiğini",
+      "content": "mi",
       "translations": [
-        "du bist gegangen",
-        "du bist weg"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "biliyor",
-      "translations": [
-        "weiß",
-        "kennt"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "musun",
-      "translations": [
-        "bist du?",
-        "hast du?"
+        "ich",
+        "mir"
       ],
       "usageExamples": [
         [
-          "Adını saklayan adamı ciddiye almayacağımı bilmiyor musun?",
-          "Weißt du, dass ich nichts von einem Menschen halte, der seinen Namen verbirgt?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Kartla ödeme yapılabilir mi?",
+          "Kann man mit Karte bezahlen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
+          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
+          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
         ]
       ]
     }

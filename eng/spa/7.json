@@ -1,52 +1,91 @@
 {
-  "sentence": "Ayer hizo calor.",
+  "sentence": "Aquí está mi equipaje.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It was hot yesterday."
+    "Here is my baggage."
   ],
   "parts": [
     {
-      "content": "Ayer",
+      "content": "aquí",
       "translations": [
-        "yesterday",
-        "the day before today"
+        "here",
+        "in this place",
+        "at this location"
       ],
       "usageExamples": [
         [
-          "Ayer tuvimos buen tiempo.",
-          "We had nice weather yesterday.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Aqui é muito bonito.",
+          "This place is very pretty.",
+          ""
         ],
         [
-          "Ayer monté a caballo por primera vez.",
-          "I rode a horse for the first time yesterday.",
+          "Estou aqui agora.",
+          "I am here at the moment.",
+          ""
+        ],
+        [
+          "Aquí me siento muy solo.",
+          "I feel very lonely here.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hizo",
+      "content": "está",
       "translations": [
-        "did",
-        "made"
+        "is",
+        "are"
       ],
       "usageExamples": [
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "La pizza sabe diferente cuando está fría.",
+          "Pizza tastes different when it's cold.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sigue siendo un misterio dónde está oculto el tesoro.",
+          "Where the treasure is hidden is still a mystery.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "me",
+        "my"
+      ],
+      "usageExamples": [
+        [
+          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
+          "It's marvelous how quickly the medicine relieved my pain.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
         [
           "Mi hermano lo hizo en mi nombre.",
           "My brother did it on my behalf.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tengo una revista en mi pieza.",
+          "I have a magazine in my room.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "calor",
+      "content": "equipaje",
       "translations": [
-        "heat",
-        "warmth",
-        "hot"
+        "luggage",
+        "baggage"
       ],
       "usageExamples": []
     }

@@ -1,77 +1,144 @@
 {
-  "sentence": "Bir dil yeterince iyi öğrenilemez.",
+  "sentence": "Bilmediğin bir şey biliyorum ve onu sana söylemeyeceğim.",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Man kann keine Sprache genug beherrschen."
+    "Ich weiß etwas, was du nicht weißt, und das sage ich dir nicht."
   ],
   "parts": [
     {
-      "content": "Bir",
+      "content": "bilmediğin",
       "translations": [
-        "Ein",
-        "Eine"
+        "unbekannt",
+        "nicht gewusst",
+        "nicht bekannt"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bir",
+      "translations": [
+        "eins",
+        "ein",
+        "eine",
+        "einem",
+        "einer",
+        "eines"
       ],
       "usageExamples": [
         [
-          "Bir alternatifin var.",
-          "Du hast eine Alternative.",
+          "İyi bir başlangıç oldu!",
+          "Das fängt ja gut an!",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
-          "Ich muss für eine Spanienreise Spanisch lernen.",
-          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bir zamanlar kafam çok karışıktı.",
-          "Ich war einmal so verwirrt.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "İyi bir kamera aldım.",
+          "Ich habe mir eine gute Kamera gekauft.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dil",
+      "content": "şey",
       "translations": [
-        "Zunge",
-        "Sprache"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yeterince",
-      "translations": [
-        "genug",
-        "ausreichend"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "iyi",
-      "translations": [
-        "gut",
-        "schön"
+        "Ding",
+        "Sache"
       ],
       "usageExamples": [
         [
-          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
-          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "biliyorum",
+      "translations": [
+        "ich weiß",
+        "ich kenne"
+      ],
+      "usageExamples": [
         [
-          "Annem İngilizceyi pek iyi konuşmaz.",
-          "Meine Mutter spricht nicht sehr gut Englisch.",
+          "Artık kimseye aşık olamayacağımı biliyorum.",
+          "Ich weiß, dass ich mich in niemanden mehr verlieben können werde.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "öğrenilemez",
+      "content": "ve",
       "translations": [
-        "unlernbare",
-        "nicht erlernbar"
+        "und",
+        "oder"
+      ],
+      "usageExamples": [
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un ve arkadaşlarının nereye gittiğini biliyor musun?",
+          "Weißt du, wohin Tom und seine Freunde gegangen sind?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gemiler rüzgar ve yağmurdan etkilenirler.",
+          "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "onu",
+      "translations": [
+        "das",
+        "es",
+        "ihn"
+      ],
+      "usageExamples": [
+        [
+          "Babam onu ​​tanıyordu.",
+          "Mein Vater kannte ihn.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dün onu gördüm.",
+          "Ich habe sie gestern gesehen.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O zamandan beri onu kimse görmedi.",
+          "Niemand hat ihn mehr gesehen seitdem.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "sana",
+      "translations": [
+        "dir",
+        "für dich",
+        "Ihnen",
+        "deinem",
+        "deinen",
+        "deiner"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "söylemeyeceğim",
+      "translations": [
+        "Ich werde es nicht sagen",
+        "Ich sage es nicht"
       ],
       "usageExamples": []
     }

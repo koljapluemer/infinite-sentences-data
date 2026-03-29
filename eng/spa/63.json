@@ -1,28 +1,66 @@
 {
-  "sentence": "Pretendo decirle a Tom que no quiero ir.",
+  "sentence": "Lo llamé al llegar a Tokio.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I plan to tell Tom that I don't want to go."
+    "On arriving in Tokyo, I called him up."
   ],
   "parts": [
     {
-      "content": "Pretendo",
+      "content": "Lo",
       "translations": [
-        "I intend",
-        "I plan",
-        "I aim",
-        "I expect"
+        "The",
+        "It"
+      ],
+      "usageExamples": [
+        [
+          "¿Lo pillas?",
+          "Got it?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "llamé",
+      "translations": [
+        "I called.",
+        "I called up"
       ],
       "usageExamples": []
     },
     {
-      "content": "decirle",
+      "content": "al",
       "translations": [
-        "to tell him/her",
-        "to say to him/her"
+        "to the",
+        "at the",
+        "in the"
+      ],
+      "usageExamples": [
+        [
+          "Le pedí al mayordomo que nos sirviese un café.",
+          "I asked the butler to serve us some coffee.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El hambre llevó al muchacho a robar dinero de la caja registradora.",
+          "Hunger compelled the boy to steal money from the cash register.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Repetirás esta oración cinco veces al día.",
+          "You'll repeat this sentence five times a day.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "llegar",
+      "translations": [
+        "to arrive",
+        "to come",
+        "to reach"
       ],
       "usageExamples": []
     },
@@ -33,16 +71,16 @@
       ],
       "usageExamples": [
         [
-          "Escriba a su congresista.",
-          "Write your congressman.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
           "Llegaste a tiempo.",
           "You arrived on time.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
           "Dejemos a Tom.",
           "Let's ditch Tom.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
@@ -50,100 +88,10 @@
       ]
     },
     {
-      "content": "Tom",
+      "content": "Tokio",
       "translations": [
-        "Tom",
-        "Thomas"
-      ],
-      "usageExamples": [
-        [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom dio con una pauta en los datos.",
-          "Tom spotted a pattern in the data.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom se pegó un tiro en la cabeza.",
-          "Tom shot himself in the head.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "que",
-      "translations": [
-        "that",
-        "which"
-      ],
-      "usageExamples": [
-        [
-          "Dijo que tenía mucho dinero.",
-          "He said that he had a lot of money.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dime algo que no sepa.",
-          "Tell me something that I don't know.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "A veces nuestras plegarias no son respondidas de la manera en la que querríamos.",
-          "Sometimes our prayers aren't answered the way we want them to be.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "no",
-      "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ella no pudo entender ni una sola palabra.",
-          "She failed to understand a single word.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "quiero",
-      "translations": [
-        "I want",
-        "I would like"
-      ],
-      "usageExamples": [
-        [
-          "No quiero molestarte.",
-          "I don't want to disturb you.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Hay una película que quiero ver por TV mañana en la noche.",
-          "There's a movie I want to watch on TV tomorrow night.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ir",
-      "translations": [
-        "to go",
-        "to be going"
+        "Tokyo",
+        "City of Tokyo"
       ],
       "usageExamples": []
     }

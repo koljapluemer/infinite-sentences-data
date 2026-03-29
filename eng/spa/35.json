@@ -1,41 +1,110 @@
 {
-  "sentence": "Está nevando hoy.",
+  "sentence": "Ellos ahora están a bordo del barco.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "It's snowing today."
+    "They are now aboard the ship."
   ],
   "parts": [
     {
-      "content": "Está",
+      "content": "Ellos",
       "translations": [
-        "It is",
-        "He/She is",
-        "You are"
+        "They",
+        "Them"
       ],
       "usageExamples": []
     },
     {
-      "content": "hoy",
+      "content": "ahora",
       "translations": [
-        "today",
-        "this day",
-        "on this day"
+        "now",
+        "right now",
+        "at this moment"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "están",
+      "translations": [
+        "they are",
+        "are located",
+        "are present"
       ],
       "usageExamples": [
         [
-          "Hoy tengo clase.",
-          "I have a lesson today.",
+          "Mis amigos están en el cine ahora.",
+          "My friends are currently at the cinema.",
           ""
         ],
         [
-          "Hoy es lunes.",
-          "Today is Monday.",
+          "Los libros están en la mesa.",
+          "The books are on the table.",
           ""
         ]
       ]
+    },
+    {
+      "content": "a",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bordo",
+      "translations": [
+        "edge",
+        "border",
+        "rim",
+        "fringe"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "del",
+      "translations": [
+        "of",
+        "from"
+      ],
+      "usageExamples": [
+        [
+          "Robert ayudó a Sandra a bajar del árbol.",
+          "Robert helped Sandra down the tree.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
+          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "barco",
+      "translations": [
+        "boat",
+        "ship",
+        "vessel"
+      ],
+      "usageExamples": []
     }
   ]
 }

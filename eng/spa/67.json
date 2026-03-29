@@ -1,88 +1,118 @@
 {
-  "sentence": "Robert ayudó a Sandra a bajar del árbol.",
+  "sentence": "Me estoy tiñendo el pelo de negro.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Jesse (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Robert helped Sandra down the tree."
+    "I'm dyeing my hair black."
   ],
   "parts": [
     {
-      "content": "Robert",
+      "content": "Me",
       "translations": [
-        "Robert",
-        "Roberto"
+        "Me",
+        "I"
+      ],
+      "usageExamples": [
+        [
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me siento muy enfermo.",
+          "I feel very sick.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me llamo Juan.",
+          "I am called Juan.",
+          ""
+        ]
+      ]
+    },
+    {
+      "content": "estoy",
+      "translations": [
+        "I am.",
+        "I exist.",
+        "I stand"
+      ],
+      "usageExamples": [
+        [
+          "Mis amigos no saben dónde estoy.",
+          "My friends don't know where I am.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tiñendo",
+      "translations": [
+        "dyeing"
       ],
       "usageExamples": []
     },
     {
-      "content": "ayudó",
+      "content": "el",
       "translations": [
-        "helped",
-        "assisted"
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "Que se levante el acusado.",
+          "Will the defendant please rise?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ese fue el peor trabajo que Yanni ha tenido nunca.",
+          "That was the worst job Yanni had ever had.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Paré el coche en el arcén.",
+          "I pulled the car over to the side of the road.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pelo",
+      "translations": [
+        "hair"
       ],
       "usageExamples": []
     },
     {
-      "content": "a",
+      "content": "de",
       "translations": [
         "to"
       ],
       "usageExamples": [
         [
-          "Escriba a su congresista.",
-          "Write your congressman.",
+          "Vengo de la playa.",
+          "I am coming from the beach.",
+          ""
+        ],
+        [
+          "Con tal de mantenerse en el poder, hacen cualquier cosa.",
+          "They'll do anything to stay in power.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Llegaste a tiempo.",
-          "You arrived on time.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dejemos a Tom.",
-          "Let's ditch Tom.",
+          "La casa de Tom tiene grandes ventanas.",
+          "Tom's house has large windows.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Sandra",
+      "content": "negro",
       "translations": [
-        "Sandra",
-        "Sandy"
+        "black"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "bajar",
-      "translations": [
-        "to lower",
-        "to go down",
-        "to descend",
-        "to reduce"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "del",
-      "translations": [
-        "of",
-        "from"
-      ],
-      "usageExamples": [
-        [
-          "Ellos ahora están a bordo del barco.",
-          "They are now aboard the ship.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Es posible que descubras que tienes una pieza favorita, como Gufeld tenía su alfil g7 en la defensa India del Rey.",
-          "You might find you have a favorite piece, as Gufeld had his g7 bishop in the King's Indian Defence.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

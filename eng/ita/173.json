@@ -1,84 +1,190 @@
 {
-  "sentence": "Apprezzo la tua onestà.",
+  "sentence": "A Mary non piaceva il suo nome.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I appreciate your honesty."
+    "Mary didn't like her name."
   ],
   "parts": [
     {
-      "content": "Apprezzo",
+      "content": "A",
       "translations": [
-        "I appreciate",
-        "I value",
-        "I cherish",
-        "I admire"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked to ski.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace lui.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "la",
+      "content": "Mary",
+      "translations": [
+        "Maria",
+        "Miriam",
+        "Marie"
+      ],
+      "usageExamples": [
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non dispiaceva vivere da sola.",
+          "Mary didn't mind living by herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non la cercate?",
+          "Why don't you look for her?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaceva",
+      "translations": [
+        "it liked"
+      ],
+      "usageExamples": [
+        [
+          "A Fadil piaceva sciare.",
+          "Fadil liked skiing.",
+          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piaceva il suo sandwich.",
+          "Mary didn't like her sandwich.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "il",
       "translations": [
         "the",
-        "that",
-        "which",
-        "those"
+        "it",
+        "him",
+        "that"
       ],
       "usageExamples": [
         [
-          "Prendi la mia.",
-          "Take mine.",
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui accese la radio.",
-          "He turned on the radio.",
+          "Non tollererò il fallimento.",
+          "I will not tolerate failure.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Hai guardato la partita?",
-          "Did you watch the game?",
+          "Avete il nostro rispetto.",
+          "You have our respect.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tua",
+      "content": "suo",
       "translations": [
-        "your",
-        "yours",
-        "of you",
-        "belonging to you"
+        "his",
+        "her",
+        "its",
+        "their",
+        "His"
       ],
       "usageExamples": [
         [
-          "Tu lasceresti tua moglie per me?",
-          "Would you leave your wife for me?",
+          "A Mary non piace il suo nuovo impiego.",
+          "Mary doesn't like her new job.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La tua religione non mi interessa.",
-          "Your religion does not interest me.",
+          "A Mary non piace il latte nel suo caffè.",
+          "Mary doesn't like milk in her coffee.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Qual è la tua canzone preferita dei Rolling Stones?",
-          "What's your favorite song by the Rolling Stones?",
+          "A Mary mancano suo marito e i suoi figli.",
+          "Mary misses her husband and children.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "onestà",
+      "content": "nome",
       "translations": [
-        "honesty",
-        "integrity",
-        "uprightness",
-        "truthfulness"
+        "name",
+        "title",
+        "designation",
+        "label"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ho scordato il suo nome.",
+          "I've forgotten her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Posso chiedere il vostro nome?",
+          "May I ask your name?",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il suo nome.",
+          "Mary doesn't like her name.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

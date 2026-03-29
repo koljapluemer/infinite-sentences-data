@@ -1,17 +1,40 @@
 {
-  "sentence": "Wie geht es in der Schule?",
+  "sentence": "Ich hatte es völlig vergessen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Okul nasıl gidiyor?"
+    "Tamamen unutmuşum."
   ],
   "parts": [
     {
-      "content": "geht",
+      "content": "Ich",
       "translations": [
-        "gidiyor"
+        "Ben"
+      ],
+      "usageExamples": [
+        [
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich hasse meine Nachbarn.",
+          "Komşularımdan nefret ediyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich verstehe ungefähr.",
+          "Aşağı yukarı anlıyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hatte",
+      "translations": [
+        "sah"
       ],
       "usageExamples": []
     },
@@ -25,75 +48,40 @@
       "usageExamples": [
         [
           "So ist es.",
-          "Aynen",
+          "Aynen öyle.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Von wem hast du es erfahren?",
-          "Kimden öğrendin?",
+          "Im Dorf gibt es fünf Rinder.",
+          "Köyde beş inek var.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich hab auch nicht gewollt, dass es so kommt.",
-          "Ben de böyle olsun istemezdim.",
+          "Ich bin nicht sicher, ob es vernünftig ist zu bleiben.",
+          "Benim kalmamın mantıklı olduğundan emin değilim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "in",
+      "content": "völlig",
       "translations": [
-        "dans",
-        "en",
-        "içerisinde"
-      ],
-      "usageExamples": [
-        [
-          "Ich bin in Teheran.",
-          "Tahran'dayım.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom bleibt in Boston.",
-          "Tom Boston'da kalıyor.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Die Waldfläche war in drei Sektoren unterteilt.",
-          "Orman alanı üç sektöre ayrıldı.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "der",
-      "translations": [
-        "ders"
-      ],
-      "usageExamples": [
-        [
-          "Weißt du, dass ich nichts von einem Menschen halte, der seinen Namen verbirgt?",
-          "Adını saklayan adamı ciddiye almayacağımı bilmiyor musun?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
-          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wenn eine Beziehung aus Lügen besteht, wird sie am Ende an der Wahrheit sterben.",
-          "Eğer bir ilişki yalanlardan oluşuyorsa, sonunda gerçeklerden ölecek.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Schule",
-      "translations": [
-        "Okul"
+        "tamamen"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "vergessen",
+      "translations": [
+        "unutmak"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe die Zugfahrkarten vergessen.",
+          "Tren biletlerini unuttum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

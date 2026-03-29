@@ -1,34 +1,25 @@
 {
-  "sentence": "O bu sırrı açık etmek istiyor.",
+  "sentence": "Neden bu kadar uzun düşünüyorsun?",
   "credits": [
-    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Sie wollte das Geheimnis verraten."
+    "Warum überlegen Sie so lange?"
   ],
   "parts": [
     {
-      "content": "O",
+      "content": "Neden",
       "translations": [
-        "O",
-        "Oh"
+        "Warum",
+        "Weshalb",
+        "Wieso"
       ],
       "usageExamples": [
         [
-          "O biraz çatlak.",
-          "Sie ist ein bisschen verrückt.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ],
-        [
-          "O zamandan beri onu kimse görmedi.",
-          "Niemand hat ihn mehr gesehen seitdem.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "O nasıl? Yaşlı mı, genç mi?",
-          "Wie ist er? Alt, oder jung?",
-          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+          "Neden şimdi vazgeçiyorsun?",
+          "Warum jetzt aufgeben?",
+          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -38,7 +29,10 @@
         "dies",
         "das",
         "den",
-        "die"
+        "die",
+        "des",
+        "diesem",
+        "diesen"
       ],
       "usageExamples": [
         [
@@ -47,53 +41,50 @@
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
+          "O bu sırrı açık etmek istiyor.",
+          "Sie wollte das Geheimnis verraten.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+        ],
+        [
           "Mali desteği, bu projemiz için vazgeçilmezdir.",
           "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
           "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
-        ],
-        [
-          "Neden bu kadar uzun düşünüyorsun?",
-          "Warum überlegen Sie so lange?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sırrı",
+      "content": "kadar",
       "translations": [
-        "Geheimnis",
-        "Geheim"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "açık",
-      "translations": [
-        "offen",
-        "klar"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "etmek",
-      "translations": [
-        "machen",
-        "tun",
-        "verrichten"
+        "bis",
+        "so viel wie"
       ],
       "usageExamples": [
         [
-          "Size yardım etmek istiyorum.",
-          "Ich will dir helfen.",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+          "Her anne kızının kendisinden daha iyi bir koca bulacağını umar ve oğlunun asla babası kadar iyi bir eş bulamayacağına inanır.",
+          "Jede Mutter hofft, dass ihre Tochter einen besseren Mann bekommt als sie selbst, und ist überzeugt, dass ihr Sohn niemals eine so gute Frau bekommen wird wie sein Vater.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "istiyor",
+      "content": "uzun",
       "translations": [
-        "will",
-        "möchte"
+        "lang",
+        "langwierig",
+        "lange"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "düşünüyorsun",
+      "translations": [
+        "du denkst",
+        "du überlegst"
       ],
       "usageExamples": []
     }

@@ -1,37 +1,71 @@
 {
-  "sentence": "Gecikmelere sinir oluyorum.",
+  "sentence": "Evde kaç tane yatak var?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich ärgere mich über Verspätungen."
+    "Wie viele Betten gibt es im Haus?"
   ],
   "parts": [
     {
-      "content": "Gecikmelere",
+      "content": "Evde",
       "translations": [
-        "Verspätungen",
-        "Verspätung"
+        "zu Hause",
+        "im Haus"
       ],
       "usageExamples": []
     },
     {
-      "content": "sinir",
+      "content": "kaç",
       "translations": [
-        "Nerv",
-        "Wut",
-        "Ärger"
+        "wie viel",
+        "wie viele"
       ],
       "usageExamples": []
     },
     {
-      "content": "oluyorum",
+      "content": "tane",
       "translations": [
-        "ich mache",
-        "ich tue"
+        "Körper",
+        "Leib"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "yatak",
+      "translations": [
+        "Bett"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "var",
+      "translations": [
+        "var",
+        "es gibt",
+        "sind",
+        "hat",
+        "gibt",
+        "waren"
+      ],
+      "usageExamples": [
+        [
+          "Dokuza çeyrek var.",
+          "Es ist Viertel vor neun.",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

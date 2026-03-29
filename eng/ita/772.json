@@ -1,45 +1,61 @@
 {
-  "sentence": "Qual è la tua canzone preferita dei Rolling Stones?",
+  "sentence": "Perché non la cercate?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "What's your favorite song by the Rolling Stones?"
+    "Why don't you look for her?"
   ],
   "parts": [
     {
-      "content": "Qual",
+      "content": "Perché",
       "translations": [
-        "Which",
-        "What",
-        "What kind of",
-        "What type of"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "è",
-      "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "Why",
+        "For what reason",
+        "What for",
+        "Why is that"
       ],
       "usageExamples": [
         [
-          "Tom si è divertito.",
-          "Tom had a good time.",
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La risposta è complicata.",
-          "The answer is complicated.",
+          "Perché non stai dormendo?",
+          "Why aren't you sleeping?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mangia finché è caldo.",
-          "Eat while it's warm.",
+          "Perché qualcuno vorrebbe baciarvi?",
+          "Why would anyone want to kiss you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
+        [
+          "Tom non lo vorrebbe.",
+          "Tom wouldn't want this.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Però non funzionerà!",
+          "But that won't work!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
@@ -54,116 +70,29 @@
       ],
       "usageExamples": [
         [
-          "Prendi la mia.",
-          "Take mine.",
+          "Ci serviva la pioggia.",
+          "We needed the rain.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha perso la partita.",
+          "You lost the game.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
           "Frequentiamo la scuola statale.",
           "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non la cercate?",
-          "Why don't you look for her?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "tua",
+      "content": "cercate",
       "translations": [
-        "your",
-        "yours",
-        "of you",
-        "belonging to you"
-      ],
-      "usageExamples": [
-        [
-          "Apprezzo la tua onestà.",
-          "I appreciate your honesty.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "\"Da dove viene la tua fidanzata?\" \"È russa.\"",
-          "\"Where's your girlfriend from?\" \"She's Russian.\"",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "La tua religione non mi interessa.",
-          "Your religion does not interest me.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "canzone",
-      "translations": [
-        "song",
-        "tune",
-        "track",
-        "melody"
-      ],
-      "usageExamples": [
-        [
-          "Che canzone strana...",
-          "What a weird song...",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "preferita",
-      "translations": [
-        "favorite",
-        "preferred",
-        "most liked",
-        "chosen"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dei",
-      "translations": [
-        "gods",
-        "deities",
-        "divine beings",
-        "spirits"
-      ],
-      "usageExamples": [
-        [
-          "Mi servono dei francobolli.",
-          "I need stamps.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ziri mangiò dei datteri.",
-          "Ziri ate dates.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non mandarmi dei messaggi.",
-          "Don't send me messages.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Rolling",
-      "translations": [
-        "To roll",
-        "Rolling motion",
-        "Rolling action"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Stones",
-      "translations": [
-        "Rocks",
-        "Pebbles",
-        "Boulders",
-        "Minerals"
+        "search",
+        "look for",
+        "seek",
+        "try to find"
       ],
       "usageExamples": []
     }

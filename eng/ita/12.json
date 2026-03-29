@@ -1,40 +1,20 @@
 {
-  "sentence": "8 – 4 è una sottrazione.",
+  "sentence": "2 è l'unico numero primo pari.",
   "credits": [
-    "Sentence from Tatoeba by rado (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Miktsoanit (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "8 - 4 is subtraction."
+    "2 is the only even prime number."
   ],
   "parts": [
     {
-      "content": "8",
+      "content": "2",
       "translations": [
-        "eight",
-        "8"
+        "two",
+        "2"
       ],
-      "usageExamples": [
-        [
-          "5 più 3 fa 8.",
-          "Add 5 to 3 and you have 8.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "4",
-      "translations": [
-        "four",
-        "4"
-      ],
-      "usageExamples": [
-        [
-          "4 per 4 fa 16",
-          "4 times 4 is 16.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "è",
@@ -46,47 +26,63 @@
       ],
       "usageExamples": [
         [
-          "Tom è famoso.",
-          "Tom's famous.",
+          "Tom è un fan.",
+          "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "Ti è piaciuto Tom?",
+          "Did you like Tom?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è americano?",
-          "Are you American?",
+          "Il cambiamento è spaventoso.",
+          "Change is scary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "una",
+      "content": "l'unico",
       "translations": [
-        "one",
-        "a",
-        "an",
-        "a single"
+        "the only one"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "numero",
+      "translations": [
+        "number",
+        "numeral",
+        "digit",
+        "figure"
       ],
       "usageExamples": [
         [
-          "Scriva una risposta.",
-          "Write an answer.",
+          "Avete annotato il numero di telefono?",
+          "Did you write down the telephone number?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Vorrei una camera.",
-          "I would like a room.",
+          "49 è un numero quadrato.",
+          "49 is a square number.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Era una visione orrenda.",
-          "It was a horrible vision.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "primo",
+      "translations": [
+        "first"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "pari",
+      "translations": [
+        "equal"
+      ],
+      "usageExamples": []
     }
   ]
 }

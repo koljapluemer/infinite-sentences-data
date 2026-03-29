@@ -1,35 +1,45 @@
 {
-  "sentence": "Otobüsle seyahat etmiyorum.",
+  "sentence": "Okul nasıl gidiyor?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich fahre mit keinem Bus."
+    "Wie geht es in der Schule?"
   ],
   "parts": [
     {
-      "content": "Otobüsle",
+      "content": "Okul",
       "translations": [
-        "mit dem Bus",
-        "per Bus"
+        "Schule",
+        "Bildungseinrichtung"
       ],
       "usageExamples": []
     },
     {
-      "content": "seyahat",
+      "content": "nasıl",
       "translations": [
-        "Reise",
-        "Fahrt"
+        "wie",
+        "was für ein"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Hava nasıl?",
+          "Wie ist das Wetter?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O nasıl? Yaşlı mı, genç mi?",
+          "Wie ist er? Alt, oder jung?",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "etmiyorum",
+      "content": "gidiyor",
       "translations": [
-        "ich höre auf",
-        "ich lasse es sein",
-        "ich mache nicht mehr mit"
+        "geht",
+        "fährt"
       ],
       "usageExamples": []
     }

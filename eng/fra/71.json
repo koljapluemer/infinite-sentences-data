@@ -1,11 +1,11 @@
 {
-  "sentence": "Je ne suis pas certain que nous puissions obtenir des billets ce soir.",
+  "sentence": "Je ne sais pas. Veuillez demander à quelqu'un d'autre.",
   "credits": [
-    "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm not certain we can get tickets tonight."
+    "I don't know. Please ask someone else."
   ],
   "parts": [
     {
@@ -16,13 +16,13 @@
       ],
       "usageExamples": [
         [
-          "Je te respecte.",
-          "I respect you.",
+          "Je parle Lakota.",
+          "I speak Lakota.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Je parle Lakota.",
-          "I speak Lakota.",
+          "Je te respecte.",
+          "I respect you.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -40,42 +40,43 @@
       ],
       "usageExamples": [
         [
-          "Les traductions automatiques ne sont pas toujours exactes.",
-          "Machine translations are not always precise.",
-          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ne veux pas que vous soyez en train de parler de moi toutes les deux.",
-          "I don't want you two talking about me.",
+          "Je ne peux pas vous laisser aller là-dedans toutes seules.",
+          "I can't let you go in there alone.",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ],
         [
-          "Je ne sais pas quelles étaient ses réelles intentions.",
-          "I don't know what his real intentions were.",
-          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+          "Je ne sais pas quelles seront les conséquences.",
+          "I don't know what the consequences will be.",
+          "Sentence from Tatoeba by KotobaNiko (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ma femme ne va pas très bien.",
+          "My wife isn't doing very well.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "suis",
+      "content": "sais",
       "translations": [
-        "am"
+        "know",
+        "am aware"
       ],
       "usageExamples": [
         [
-          "Je suis resté toute la journée à la maison parce que je ne me sentais pas bien.",
-          "Feeling unwell, I stayed at home all day.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+          "Je ne sais pas quelles étaient ses réelles intentions.",
+          "I don't know what his real intentions were.",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
         ],
         [
-          "Je la suis sur Twitter.",
-          "I follow her on Twitter.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Je ne sais pas trop à quelle heure il va venir.",
+          "I'm not sure when he'll come.",
+          "Sentence from Tatoeba by superbolo (CC-BY 2.0 FR)"
         ],
         [
-          "Dites à tout le monde que je suis désolé, s'il vous plaît.",
-          "Please tell everyone I'm sorry.",
-          "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
+          "Je ne sais pas vraiment pourquoi elles m'ont demandé ça.",
+          "I'm not sure why they asked me that.",
+          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
         ]
       ]
     },
@@ -86,166 +87,90 @@
       ],
       "usageExamples": [
         [
-          "Elles ne sont pas simplement camarades de chambrée. Elles sont aussi amantes.",
-          "They're not just roommates. They're also lovers.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+          "Je n'avais pas l'intention de vous effrayer.",
+          "I didn't mean to scare you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Je ne suis pas sûr de la manière avec laquelle répondre à ça.",
-          "I'm not sure how to answer this.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+          "Je pense qu'elles ne savent pas que je suis une menteuse.",
+          "I think they don't know I'm a liar.",
+          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
         ],
         [
-          "Les traductions automatiques ne sont pas toujours exactes.",
-          "Machine translations are not always precise.",
+          "Je n'ai pas besoin de votre argent. J'ai besoin de votre temps.",
+          "I don't need your money. I just need your time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Veuillez",
+      "translations": [
+        "please",
+        "kindly"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "demander",
+      "translations": [
+        "to ask",
+        "to request"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "à",
+      "translations": [
+        "to",
+        "at",
+        "in"
+      ],
+      "usageExamples": [
+        [
+          "Je ne peux pas aller à l'école aujourd'hui. Je suis malade.",
+          "I can't go to school today. I'm sick.",
           "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
+        ],
+        [
+          "S'il vous plaît, dites à tout le monde que je suis désolé.",
+          "Please tell everyone I'm sorry.",
+          "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne sais pas trop à quelle heure il va venir.",
+          "I'm not sure when he'll come.",
+          "Sentence from Tatoeba by superbolo (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "certain",
+      "content": "quelqu'un",
       "translations": [
-        "certain",
-        "sure",
-        "definite",
-        "specific"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "que",
-      "translations": [
-        "that",
-        "which",
-        "what"
+        "someone",
+        "somebody"
       ],
       "usageExamples": [
         [
-          "Je pense que les planches à roulettes sont habituellement moins chères que les patins en ligne.",
-          "I think skateboards are usually cheaper than rollerblades.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je suis resté toute la journée à la maison parce que je ne me sentais pas bien.",
-          "Feeling unwell, I stayed at home all day.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dis à Tom que je n'y serai pas.",
-          "Tell Tom that I won't be there.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Tu ne peux pas travailler avec quelqu'un s'il n'y a pas de respect entre vous.",
+          "It's impossible to collaborate without mutual respect.",
+          "Sentence from Tatoeba by anzart (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "nous",
+      "content": "d'autre",
       "translations": [
-        "us"
-      ],
-      "usageExamples": [
-        [
-          "Quel jour sommes-nous aujourd'hui ?",
-          "What's the day today?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je pense que nous savons toutes les deux pourquoi je suis ici.",
-          "I think we both know why I'm here.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Nous devons nous assurer que ceci est vrai.",
-          "We need to make sure that this is true.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "puissions",
-      "translations": [
-        "may",
-        "might",
-        "let's",
-        "we can"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "obtenir",
-      "translations": [
-        "obtain",
-        "get",
-        "acquire",
-        "secure"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "des",
-      "translations": [
-        "of the",
-        "some",
-        "from the"
-      ],
-      "usageExamples": [
-        [
-          "En tant que première de sa classe, c'est elle qui prononça le discours de remise des diplômes.",
-          "She was the valedictorian of her class.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Un hypocondriaque imagine des maladies là où elles n'existent pas.",
-          "A hypochondriac imagines maladies where none exist.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Toutes les études cliniques ne sont pas fondées sur des hypothèses.",
-          "Not all clinical studies are hypothesis-driven.",
-          "Sentence from Tatoeba by marioo (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "billets",
-      "translations": [
-        "tickets",
-        "notes",
-        "bills"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ce",
-      "translations": [
-        "this",
-        "it",
-        "that"
+        "other",
+        "another"
       ],
       "usageExamples": [
         [
           "Elles ne sont pas très différentes de qui que ce soit d'autre.",
           "They are not very different from anybody else.",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je veux discuter avec vous de ce rapport.",
-          "I want to talk to you about this report.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vous allez adorer ce livre.",
-          "You're going to love this book.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "soir",
-      "translations": [
-        "evening",
-        "night"
-      ],
-      "usageExamples": []
     }
   ]
 }

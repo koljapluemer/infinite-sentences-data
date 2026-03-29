@@ -1,78 +1,47 @@
 {
-  "sentence": "Bunun ne anlama geldiğini biliyorum.",
+  "sentence": "Bugün ders çalışmak istemiyorum.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I know what this means."
+    "I don't want to study today."
   ],
   "parts": [
     {
-      "content": "Bunun",
+      "content": "Bugün",
       "translations": [
-        "this",
-        "of this",
-        "this one"
+        "Today",
+        "This day"
       ],
       "usageExamples": []
     },
     {
-      "content": "ne",
+      "content": "ders",
       "translations": [
-        "what",
-        "huh",
-        "right",
-        "no way"
+        "grade",
+        "mark",
+        "score"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "çalışmak",
+      "translations": [
+        "to work"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "istemiyorum",
+      "translations": [
+        "I don't want"
       ],
       "usageExamples": [
         [
-          "O istasyonun adı ne?",
-          "What's the name of that station?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Şu an ne yiyorsun?",
-          "What are you eating right now?",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Peki, ona ne denir?",
-          "Well, what's it called?",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "anlama",
-      "translations": [
-        "understanding",
-        "comprehension",
-        "meaning",
-        "grasp"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "geldiğini",
-      "translations": [
-        "you came",
-        "you have come",
-        "you arrived"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "biliyorum",
-      "translations": [
-        "I know.",
-        "I am aware"
-      ],
-      "usageExamples": [
-        [
-          "Seni neyin daha iyi hissettireceğini biliyorum.",
-          "I know what'll make you feel better.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Sana anlatmak istemiyorum.",
+          "I don't want to tell you.",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
         ]
       ]
     }

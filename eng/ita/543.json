@@ -1,48 +1,90 @@
 {
-  "sentence": "Lui accese la radio.",
+  "sentence": "Le è piaciuta la pizza?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He turned on the radio."
+    "Did you enjoy the pizza?"
   ],
   "parts": [
     {
-      "content": "Lui",
+      "content": "Le",
       "translations": [
-        "Him",
-        "He",
-        "That guy",
-        "This man"
+        "The",
+        "It",
+        "Them",
+        "Those"
       ],
       "usageExamples": [
         [
-          "Lui sembra un delinquente.",
-          "He looks like a gangster.",
+          "Le fece sorridere.",
+          "That made them smile.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui studiò economia all'università.",
-          "He studied economics at college.",
+          "Le amiamo.",
+          "We love them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lui è una vecchia volpe.",
-          "He is a sly old dog.",
+          "Le piacerebbe imparare a suonare il piano?",
+          "Would you like to learn to play the piano?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "accese",
+      "content": "è",
       "translations": [
-        "ignite",
-        "light up",
-        "turn on",
-        "activate"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom si è divertito.",
+          "Tom had fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un esperto.",
+          "Tom is a pro.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è famoso.",
+          "Tom's famous.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaciuta",
+      "translations": [
+        "liked",
+        "pleased",
+        "enjoyed",
+        "found appealing"
+      ],
+      "usageExamples": [
+        [
+          "A noi è piaciuta la cena.",
+          "We enjoyed the dinner.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Layla è piaciuta la festa.",
+          "Layla liked the party.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Carlos è piaciuta la presentazione di Rima.",
+          "Carlos enjoyed Rima’s presentation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
       "content": "la",
@@ -54,30 +96,36 @@
       ],
       "usageExamples": [
         [
-          "Apri la cassaforte.",
-          "Open the safe.",
+          "Hai guardato la partita?",
+          "Did you watch the game?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Cosa la sta causando?",
-          "What's causing it?",
+          "Frequentiamo la scuola statale.",
+          "We attend state school.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "radio",
+      "content": "pizza",
       "translations": [
-        "wireless receiver",
-        "broadcast device",
-        "audio receiver"
+        "pie",
+        "savory tart",
+        "flatbread with toppings"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sami consegnò della pizza.",
+          "Sami delivered pizza.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

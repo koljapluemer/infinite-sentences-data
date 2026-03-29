@@ -1,51 +1,68 @@
 {
-  "sentence": "Por favor, vayan abajo.",
+  "sentence": "Llegaste a tiempo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Please come downstairs."
+    "You arrived on time."
   ],
   "parts": [
     {
-      "content": "Por",
+      "content": "Llegaste",
       "translations": [
-        "for",
-        "by",
-        "through",
-        "per"
+        "You arrived",
+        "You have arrived",
+        "You came"
       ],
       "usageExamples": []
     },
     {
-      "content": "favor",
+      "content": "a",
       "translations": [
-        "favor",
-        "favoritism",
-        "kindness",
-        "support"
+        "to"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Nosotros a menudo comparamos Japón con Inglaterra.",
+          "We often compare Japan with Britain.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "vayan",
+      "content": "tiempo",
       "translations": [
-        "go",
-        "let's go",
-        "they go",
-        "you all go"
+        "time",
+        "weather"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "abajo",
-      "translations": [
-        "down",
-        "below",
-        "under"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ayer tuvimos buen tiempo.",
+          "We had nice weather yesterday.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No tengo tiempo.",
+          "I don't have time.",
+          ""
+        ],
+        [
+          "El tiempo vuela.",
+          "Time flies.",
+          ""
+        ]
+      ]
     }
   ]
 }

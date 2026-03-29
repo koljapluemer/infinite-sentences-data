@@ -1,53 +1,72 @@
 {
-  "sentence": "Ödevlerini bitirmediği halde televizyon seyrediyor.",
+  "sentence": "Tom'un çok zamanı var.",
   "credits": [
-    "Sentence from Tatoeba by Yassan (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Obwohl sie die Hausaufgaben noch nicht fertig hat, sieht sie fern."
+    "Tom hat viel Zeit."
   ],
   "parts": [
     {
-      "content": "Ödevlerini",
+      "content": "çok",
       "translations": [
-        "deine Hausaufgaben",
-        "deine Aufgaben"
+        "sehr",
+        "viel"
+      ],
+      "usageExamples": [
+        [
+          "Çok fazla Fransızca konuşamam.",
+          "Ich spreche nicht viel Französisch.",
+          "Sentence from Tatoeba by oxyii (CC-BY 2.0 FR)"
+        ],
+        [
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Esperanto öğrenmek çok ilginçtir.",
+          "Esperanto zu lernen ist sehr interessant.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "zamanı",
+      "translations": [
+        "Zeit",
+        "Zeitraum"
       ],
       "usageExamples": []
     },
     {
-      "content": "bitirmediği",
+      "content": "var",
       "translations": [
-        "nicht beendet",
-        "nicht abgeschlossen"
+        "var",
+        "es gibt",
+        "sind",
+        "hat",
+        "gibt",
+        "waren"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "hale",
-      "translations": [
-        "gesund",
-        "fit"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "televizyon",
-      "translations": [
-        "Fernseher",
-        "Fernsehgerät"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "seyrediyor",
-      "translations": [
-        "schaut",
-        "sehen"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Dokuza çeyrek var.",
+          "Es ist Viertel vor neun.",
+          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+        ],
+        [
+          "Köyde beş inek var.",
+          "Im Dorf gibt es fünf Rinder.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un bir kedisi var.",
+          "Tom hat eine Katze.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

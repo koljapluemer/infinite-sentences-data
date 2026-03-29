@@ -1,11 +1,11 @@
 {
-  "sentence": "Je n'arrive pas à croire que vous ayez fait cela toutes seules.",
+  "sentence": "Je n'ai jamais vraiment étudié le C++ au-delà de « Bonjour tout le monde ! »",
   "credits": [
     "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by FlamingTofu (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I can't believe you did that by yourself."
+    "I never really studied C++ beyond \"Hello, world!\""
   ],
   "parts": [
     {
@@ -33,234 +33,201 @@
       ]
     },
     {
-      "content": "n'arrive",
+      "content": "n'ai",
       "translations": [
-        "does not arrive",
-        "is not coming",
-        "doesn't happen"
+        "I don't have",
+        "I haven't"
+      ],
+      "usageExamples": [
+        [
+          "Je n'ai pas besoin de votre argent. J'ai besoin de votre temps.",
+          "I don't need your money. I just need your time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je n'ai pas entendu parler de lui depuis longtemps.",
+          "I have not heard from him for a long time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "J'ai vraiment faim. Je n'ai pas mangé de toute la semaine.",
+          "I'm really hungry. I haven't eaten all week.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "jamais",
+      "translations": [
+        "never",
+        "not ever"
       ],
       "usageExamples": [
         [
           "Je n'arrive pas à croire que vous n'ayez jamais entendu parler de nous.",
           "I can't believe you've never heard of us.",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "vraiment",
+      "translations": [
+        "really",
+        "truly",
+        "actually",
+        "genuinely"
+      ],
+      "usageExamples": [
+        [
+          "Je suis vraiment désolé de t'avoir fait attendre.",
+          "I am so sorry to have kept you waiting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "J'ai vraiment faim. Je n'ai pas mangé de toute la semaine.",
+          "I'm really hungry. I haven't eaten all week.",
+          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne sais pas vraiment pourquoi ils m'ont demandé ça.",
+          "I'm not sure why they asked me that.",
+          "Sentence from Tatoeba by Yemana (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "étudié",
+      "translations": [
+        "studied",
+        "learned",
+        "examined",
+        "analyzed"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "le",
+      "translations": [
+        "him"
+      ],
+      "usageExamples": [
+        [
+          "S'il vous plaît, dites à tout le monde que je suis désolé.",
+          "Please tell everyone I'm sorry.",
+          "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
         ],
         [
           "S'il vous plaît, nettoyez cette pièce avant que tout le monde n'arrive.",
           "Please clean up this room before everyone arrives.",
           "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "pas",
-      "translations": [
-        "not"
-      ],
-      "usageExamples": [
-        [
-          "Ils s'incrustent toujours à des événements auxquels ils ne sont pas invités.",
-          "They always gatecrash events they're not invited to.",
-          "Sentence from Tatoeba by lbdx (CC-BY 2.0 FR)"
         ],
         [
-          "Je ne sais pas quelles étaient ses réelles intentions.",
-          "I don't know what his real intentions were.",
-          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je ne peux pas vous laisser aller là-dedans toute seule.",
-          "I can't let you go in there alone.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "à",
-      "translations": [
-        "to",
-        "at",
-        "in"
-      ],
-      "usageExamples": [
-        [
-          "Je ne sais pas trop à quelle heure il va venir.",
-          "I'm not sure when he'll come.",
-          "Sentence from Tatoeba by superbolo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Je pense que les planches à roulettes sont habituellement moins chères que les patins en ligne.",
-          "I think skateboards are usually cheaper than rollerblades.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Qu'est-ce que les Italiens mangent habituellement à déjeuner ?",
-          "What do Italians usually eat for lunch?",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "croire",
-      "translations": [
-        "to believe",
-        "to think",
-        "to trust"
-      ],
-      "usageExamples": [
-        [
-          "Je n'arrive pas à croire que vous n'ayez jamais entendu parler de nous.",
-          "I can't believe you've never heard of us.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "que",
-      "translations": [
-        "that",
-        "which",
-        "what"
-      ],
-      "usageExamples": [
-        [
-          "Il n'y a pas les chaussures que j'ai achetées la semaine dernière.",
-          "These aren't the shoes I bought last week.",
-          "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il peut courir aussi vite que toi.",
-          "He can run as fast as you.",
+          "C’est ainsi que même une seule lettre peut complètement changer le sens.",
+          "That's how even a single letter can completely change the meaning.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "J'ai pensé que ça serait chouette que nous passions un peu de temps ensemble.",
-          "I thought that I knew them.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "vous",
+      "content": "C++",
       "translations": [
-        "you",
-        "you all",
-        "you (formal)"
-      ],
-      "usageExamples": [
-        [
-          "Je ne pensais pas que vous seriez tellement en retard.",
-          "I didn't think you'd be so late.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cela fait-il longtemps que vous travaillez là-bas ?",
-          "Have you been working there for long?",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Faites-nous savoir si vous êtes disponible la semaine prochaine.",
-          "Let us know if you're available next week.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ayez",
-      "translations": [
-        "have",
-        "be sure to",
-        "make sure to"
+        "C plus plus",
+        "C plus plus programming language"
       ],
       "usageExamples": []
     },
     {
-      "content": "fait",
+      "content": "au-delà",
       "translations": [
-        "fact",
-        "made",
-        "done"
+        "beyond",
+        "above",
+        "over"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "de",
+      "translations": [
+        "of",
+        "from",
+        "about"
       ],
       "usageExamples": [
         [
-          "J'ai pensé que Tom avait fait un bon travail.",
-          "I thought that Tom did a nice job.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cela fait-il longtemps que tu travailles là-bas ?",
-          "Have you been working there for long?",
+          "J'ai pensé que ça serait chouette que nous passions un peu de temps ensemble.",
+          "I thought that I knew them.",
           "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
         ],
         [
-          "Je pensais que tu ne lui dirais pas que nous n'avions pas fait nos devoirs.",
-          "I thought you wouldn't tell her that we hadn't done our homework.",
+          "Aujourd'hui, Noël est fêté dans de nombreuses régions du monde.",
+          "Today, Christmas is celebrated in many parts of the world.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je veux discuter avec vous de ce rapport.",
+          "I want to talk to you about this report.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cela",
+      "content": "Bonjour",
       "translations": [
-        "that",
-        "it"
+        "Hello.",
+        "Good morning."
       ],
-      "usageExamples": [
-        [
-          "Cela fait-il longtemps que tu travailles là-bas ?",
-          "Have you been working there for long?",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Cela fait-il longtemps que vous travaillez là-bas ?",
-          "Have you been working there for long?",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tout le monde sait que Tom ne peut pas faire cela.",
-          "Everyone knows Tom can't do that.",
-          "Sentence from Tatoeba by zarisi (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "toutes",
+      "content": "tout",
       "translations": [
+        "everything",
         "all",
         "everyone",
-        "everything"
+        "everybody"
       ],
       "usageExamples": [
         [
-          "Pourquoi est-ce que je ne parviens pas à les aimer toutes les deux ?",
-          "Why can't I love them both?",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+          "S'il vous plaît, nettoyez cette pièce avant que tout le monde n'arrive.",
+          "Please clean up this room before everyone arrives.",
+          "Sentence from Tatoeba by GB3 (CC-BY 2.0 FR)"
         ],
         [
-          "Il s'entend bien avec toutes les personnes de sa classe.",
-          "He gets along with everyone in his class.",
-          "Sentence from Tatoeba by Aiji (CC-BY 2.0 FR)"
+          "Je ferai tout ce que je peux pour encourager Tom à ne pas quitter l'école.",
+          "I'll do whatever I can to encourage Tom to stay in school.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Je ne veux pas que vous soyez en train de parler de moi toutes les deux.",
-          "I don't want you two talking about me.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+          "S'il vous plaît, dites à tout le monde que je suis désolé.",
+          "Please tell everyone I'm sorry.",
+          "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "seules",
+      "content": "monde",
       "translations": [
-        "only",
-        "alone",
-        "just",
-        "solely"
+        "world",
+        "people",
+        "society",
+        "universe"
       ],
       "usageExamples": [
         [
-          "Je ne peux pas vous laisser aller là-dedans toutes seules.",
-          "I can't let you go in there alone.",
-          "Sentence from Tatoeba by sacredceltic (CC-BY 2.0 FR)"
+          "S'il vous plaît, dites à tout le monde que je suis désolé.",
+          "Please tell everyone I'm sorry.",
+          "Sentence from Tatoeba by pititnatole (CC-BY 2.0 FR)"
+        ],
+        [
+          "Je ne supporte pas les gens qui sont gentils avec tout le monde.",
+          "Me, I hate people who are indiscriminately friendly.",
+          "Sentence from Tatoeba by gillux (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tout le monde me déteste.",
+          "Everybody hates me.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     }

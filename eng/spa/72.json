@@ -1,68 +1,92 @@
 {
-  "sentence": "Tenemos un horario apretado.",
+  "sentence": "Me siento muy enfermo.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Spamster (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "We have a tight schedule."
+    "I feel very sick."
   ],
   "parts": [
     {
-      "content": "tenemos",
+      "content": "Me",
       "translations": [
-        "we have",
-        "there are"
+        "Me",
+        "I"
       ],
       "usageExamples": [
         [
-          "Tenemos un invierno largo y frío, pero sabemos disfrutarlo.",
-          "We have a long and cold winter, but we know how to enjoy it.",
+          "Me gustaría tomar algo.",
+          "I'd like something to drink.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me importa una mierda.",
+          "I don't give a damn about it.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Me llamo Juan.",
+          "My name is Juan.",
+          ""
         ]
       ]
     },
     {
-      "content": "un",
+      "content": "siento",
       "translations": [
-        "a",
-        "one",
-        "an"
+        "I feel",
+        "I sense",
+        "I perceive"
       ],
       "usageExamples": [
         [
-          "Quiero un café.",
-          "I want a coffee.",
+          "Siento que es correcto.",
+          "I sense that it's right.",
           ""
         ],
         [
-          "Francois dio un discurso.",
-          "François gave a speech.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Me siento muy feliz.",
+          "I'm feeling quite joyful.",
+          ""
         ],
         [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
+          "Aquí me siento muy solo.",
+          "I feel very lonely here.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "horario",
+      "content": "muy",
       "translations": [
-        "schedule",
-        "timetable",
-        "hours"
+        "very",
+        "really",
+        "quite"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Fue muy decepcionante.",
+          "It was very upsetting.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi padre maneja muy bien.",
+          "My father drives very well.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "El tiempo está muy malo.",
+          "The weather is very bad.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "apretado",
+      "content": "enfermo",
       "translations": [
-        "tight",
-        "squeezed",
-        "pressed",
-        "constricted"
+        "sick",
+        "ill"
       ],
       "usageExamples": []
     }

@@ -1,61 +1,67 @@
 {
-  "sentence": "Öğrencinin arabası eskidir.",
+  "sentence": "Tom, buna vaktimiz yok!",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Das Auto der Studentin ist alt."
+    "Tom, wir haben dafür keine Zeit!"
   ],
   "parts": [
     {
-      "content": "Öğrenci",
+      "content": "Tom",
       "translations": [
-        "Schüler",
-        "Student"
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "Tom gelince, gidiyorum.",
+          "Wenn Tom kommt, gehe ich.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom nehirde yüzüyor.",
+          "Tom schwimmt im Fluss.",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "buna",
+      "translations": [
+        "das hier",
+        "dieses"
       ],
       "usageExamples": []
     },
     {
-      "content": "nin",
+      "content": "vaktimiz",
       "translations": [
-        "dein",
-        "deine"
+        "unsere Zeit",
+        "unser Termin"
       ],
       "usageExamples": []
     },
     {
-      "content": "araba",
+      "content": "yok",
       "translations": [
-        "Auto",
-        "Wagen"
+        "nicht",
+        "kein",
+        "keinen",
+        "keine"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "sı",
-      "translations": [
-        "ich",
-        "mir"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "eski",
-      "translations": [
-        "alt",
-        "ehemalig",
-        "altmodisch"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "dir",
-      "translations": [
-        "dir",
-        "zu dir"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom'un Avustralyalı aksanı yok.",
+          "Tom hat keinen australischen Akzent.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

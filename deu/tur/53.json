@@ -1,62 +1,70 @@
 {
-  "sentence": "Evde kaç tane yatak var?",
+  "sentence": "Erken kalkmaktan nefret ediyorum/ederim.",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wie viele Betten gibt es im Haus?"
+    "Ich hasse es, früh aufzustehen."
   ],
   "parts": [
     {
-      "content": "Evde",
+      "content": "erken",
       "translations": [
-        "zu Hause",
-        "im Haus"
+        "früh",
+        "vorzeitig"
       ],
       "usageExamples": []
     },
     {
-      "content": "kaç",
+      "content": "kalkmaktan",
       "translations": [
-        "wie viel",
-        "wie viele"
+        "aufstehen",
+        "sich erheben"
       ],
       "usageExamples": []
     },
     {
-      "content": "tane",
+      "content": "nefret",
       "translations": [
-        "Körper",
-        "Leib"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "var",
-      "translations": [
-        "var",
-        "es gibt",
-        "sind",
-        "hat"
+        "Hass",
+        "Abneigung"
       ],
       "usageExamples": [
         [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bir alternatifin var.",
-          "Du hast eine Alternative.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom'un çok zamanı var.",
-          "Tom hat viel Zeit.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Komşularımdan nefret ediyorum.",
+          "Ich hasse meine Nachbarn.",
+          "Sentence from Tatoeba by blackdove (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "ediyorum",
+      "translations": [
+        "ich mache",
+        "ich tue"
+      ],
+      "usageExamples": [
+        [
+          "Komşularımdan nefret ediyorum.",
+          "Ich hasse meine Nachbarn.",
+          "Sentence from Tatoeba by blackdove (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bunun doğru olmadığını iddia ediyorum.",
+          "Ich behaupte, dass das nicht stimmt.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ederim",
+      "translations": [
+        "ich werde",
+        "ich mache",
+        "ich tue"
+      ],
+      "usageExamples": []
     }
   ]
 }

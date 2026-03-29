@@ -1,39 +1,62 @@
 {
-  "sentence": "Sakın pes etme!",
+  "sentence": "Onun bunu başarması inanılmaz.",
   "credits": [
-    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by odien16 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Nur nicht aufgeben!"
+    "Es ist unwahrscheinlich, dass es ihm gelungen ist."
   ],
   "parts": [
     {
-      "content": "Sakın",
+      "content": "Onun",
       "translations": [
-        "Vorsicht",
-        "Achtung",
-        "Sei vorsichtig",
-        "Pass auf"
+        "seine",
+        "ihr",
+        "Seine"
+      ],
+      "usageExamples": [
+        [
+          "Onun ne dediğini anlayamadım.",
+          "Ich habe nicht verstanden, was er gesagt hat.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Onun bir kedisi ve iki köpeği var.",
+          "Sie hat eine Katze und zwei Hunde.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "bunu",
+      "translations": [
+        "das",
+        "dieses"
       ],
       "usageExamples": []
     },
     {
-      "content": "pes",
+      "content": "başarması",
       "translations": [
-        "Füße",
-        "Beine"
+        "es schaffen",
+        "es gelingen"
       ],
       "usageExamples": []
     },
     {
-      "content": "etme",
+      "content": "inanılmaz",
       "translations": [
-        "tu es nicht",
-        "mach es nicht",
-        "lass es sein"
+        "unglaublich",
+        "unfassbar"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Bence bu inanılmaz.",
+          "Ich denke, es ist unglaublich.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

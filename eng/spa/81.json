@@ -1,68 +1,128 @@
 {
-  "sentence": "Yo también lo creo.",
+  "sentence": "No hay nada más qué decir.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Ploomich (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I also think so."
+    "There's nothing more to be said."
   ],
   "parts": [
     {
-      "content": "Yo",
+      "content": "No",
       "translations": [
-        "I",
-        "Me"
+        "No.",
+        "Not",
+        "Nope."
       ],
       "usageExamples": [
         [
-          "¡Yo vi un ratón!",
-          "I saw a mouse!",
+          "No quiero ir.",
+          "I don't want to go.",
+          ""
+        ],
+        [
+          "No tengo tiempo.",
+          "I'm out of time.",
+          ""
+        ],
+        [
+          "Esta es la forma en que el mundo termina. No con una explosión sino con un gemido.",
+          "This is the way the world ends. Not with a bang but a whimper.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "también",
+      "content": "hay",
       "translations": [
-        "also",
-        "too",
-        "as well"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "lo",
-      "translations": [
-        "the",
-        "it"
+        "there is",
+        "there are",
+        "there exists"
       ],
       "usageExamples": [
         [
-          "Nadie lo diría.",
-          "No one would say it.",
+          "No hay nadie en la entrada.",
+          "There's no one at the entrance.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Todavía no lo tengo.",
-          "I haven't got it yet.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
-          "It's marvelous how quickly the medicine relieved my pain.",
+          "En su círculo de amigos hay dos médicos: un cirujano y un oftalmólogo.",
+          "There are two doctors in his circle of friends, a surgeon and an ophthalmologist.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "creo",
+      "content": "nada",
       "translations": [
-        "I believe",
-        "I think.",
-        "I create"
+        "not"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ella solo finge que no le importa nada.",
+          "She only pretends to not care about anything.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "más",
+      "translations": [
+        "more",
+        "most",
+        "plus"
+      ],
+      "usageExamples": [
+        [
+          "Necesito más tiempo.",
+          "I need more time.",
+          ""
+        ],
+        [
+          "Quiero más comida.",
+          "I want more food.",
+          ""
+        ],
+        [
+          "¿Dónde está la parada de colectivos más cercana?",
+          "Where's the nearest bus stop?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "qué",
+      "translations": [
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "No sé para qué me he levantado tan temprano.",
+          "I don't know why I got up so early.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "decir",
+      "translations": [
+        "to say",
+        "to tell",
+        "to speak"
+      ],
+      "usageExamples": [
+        [
+          "Es difícil decir qué es lo correcto en esta situación.",
+          "It's difficult to determine what is correct in this case.",
+          ""
+        ],
+        [
+          "¿Puedes decirme la hora, por favor?",
+          "Could you let me know the time, please?",
+          ""
+        ]
+      ]
     }
   ]
 }

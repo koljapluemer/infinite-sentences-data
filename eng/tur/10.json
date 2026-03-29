@@ -1,81 +1,90 @@
 {
-  "sentence": "Bu sorunları nasıl düzeltmemiz gerekir?",
+  "sentence": "Biz oraya gidebilsek muhteşem olurdu, değil mi?",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "How are we supposed to fix these issues?"
+    "It would be splendid if we could go there, wouldn't it?"
   ],
   "parts": [
     {
-      "content": "Bu",
+      "content": "Biz",
       "translations": [
-        "This",
-        "It"
+        "We",
+        "Us"
       ],
       "usageExamples": [
         [
-          "Bu sıkıcı.",
-          "This is boring.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bu soba çok fazla tütüyor.",
-          "That stove smokes too much.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bu insanların bize ne yapacağımızı söylemelerine izin veremeyiz.",
-          "We cannot let these people tell us what to do.",
+          "Biz ona birkaç tane elma verdik.",
+          "We gave her some apples.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sorunları",
+      "content": "oraya",
       "translations": [
-        "problems",
-        "issues",
-        "troubles",
-        "challenges"
+        "there",
+        "to that place"
       ],
       "usageExamples": []
     },
     {
-      "content": "nasıl",
+      "content": "gidebilsek",
       "translations": [
-        "how",
-        "what way",
-        "in what manner"
+        "if we could go",
+        "if we can go"
       ],
       "usageExamples": []
     },
     {
-      "content": "düzeltmemiz",
+      "content": "muhteşem",
       "translations": [
-        "we need to correct",
-        "we should fix",
-        "we must amend",
-        "we have to adjust"
+        "amazing"
       ],
       "usageExamples": []
     },
     {
-      "content": "gerekir",
+      "content": "olurdu",
       "translations": [
-        "necessary",
-        "required",
-        "needed",
-        "must"
+        "would happen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "değil",
+      "translations": [
+        "not",
+        "isn't",
+        "doesn't",
+        "is not"
       ],
       "usageExamples": [
         [
-          "Verimli bir şekilde çalışman gerekir.",
-          "You should study in an efficient manner.",
+          "O bir üstat değil.",
+          "He is not a virtuoso.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary benim kız arkadaşım değil.",
+          "Mary isn't my girlfriend.",
+          "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "I",
+        "me"
+      ],
+      "usageExamples": []
     }
   ]
 }

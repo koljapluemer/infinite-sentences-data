@@ -1,39 +1,98 @@
 {
-  "sentence": "Tom bleibt in Boston.",
+  "sentence": "Ich hab auch nicht gewollt, dass es so kommt.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by TR724 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom Boston'da kalıyor."
+    "Ben de böyle olsun istemezdim."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Ich",
       "translations": [
-        "Tom"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bleibt",
-      "translations": [
-        "kaldı",
-        "kalıyor"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "in",
-      "translations": [
-        "dans",
-        "en",
-        "içerisinde"
+        "Ben"
       ],
       "usageExamples": [
         [
-          "Ich bin in Teheran.",
-          "Tahran'dayım.",
+          "Ich schwimme sehr gern.",
+          "Yüzmeyi seviyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich hasse meine Nachbarn.",
+          "Komşularımdan nefret ediyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich bin verwirrt.",
+          "Benim kafam karıştı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hab",
+      "translations": [
+        "bilgi"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "auch",
+      "translations": [
+        "e"
+      ],
+      "usageExamples": [
+        [
+          "Rauch kann auch ohne Feuer entstehen.",
+          "Ateşsiz duman da çıkabilir.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nicht",
+      "translations": [
+        "değil",
+        "ne",
+        "yok"
+      ],
+      "usageExamples": [
+        [
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
+          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich werde nicht fragen, warum du das willst.",
+          "Bunu neden istediğini sormayacağım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gewollt",
+      "translations": [
+        "istendi"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dass",
+      "translations": [
+        "ki",
+        "şu ki"
+      ],
+      "usageExamples": [
+        [
+          "Ich behaupte, dass das nicht stimmt.",
+          "Bunun doğru olmadığını iddia ediyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -42,18 +101,74 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Die Waldfläche war in drei Sektoren unterteilt.",
-          "Orman alanı üç sektöre ayrıldı.",
+          "Wer sagt, dass ich Angst vor Tom hätte?",
+          "Tom'dan korktuğumu kim söylüyor?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Boston",
+      "content": "es",
       "translations": [
-        "Boston"
+        "onu",
+        "Onu",
+        "ona"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "So ist es.",
+          "Aynen",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wie geht es in der Schule?",
+          "Okul nasıl gidiyor?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich denke, es ist unglaublich.",
+          "Bence bu inanılmaz.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "so",
+      "translations": [
+        "böyle",
+        "öyle",
+        "tam"
+      ],
+      "usageExamples": [
+        [
+          "Sollen wir ein Nickerchen machen oder so?",
+          "Şekerleme ya da başka bir şey yapalım mı?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich war einmal so verwirrt.",
+          "Bir zamanlar kafam çok karışıktı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Warum überlegen Sie so lange?",
+          "Neden bu kadar uzun düşünüyorsun?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "kommt",
+      "translations": [
+        "geliyor"
+      ],
+      "usageExamples": [
+        [
+          "Wenn Tom kommt, gehe ich.",
+          "Tom gelince, gidiyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

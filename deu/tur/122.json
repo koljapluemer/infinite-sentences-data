@@ -1,46 +1,45 @@
 {
-  "sentence": "Uçurtma ağaçta asılı kaldı.",
+  "sentence": "Tom'un Avustralyalı aksanı yok.",
   "credits": [
-    "Sentence from Tatoeba by evka (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Der Drachen hängt im Baum fest."
+    "Tom hat keinen australischen Akzent."
   ],
   "parts": [
     {
-      "content": "Uçurtma",
+      "content": "Avustralyalı",
       "translations": [
-        "Drachen",
-        "Luftballon"
+        "Australier",
+        "Australische Person",
+        "australischen"
       ],
       "usageExamples": []
     },
     {
-      "content": "ağaçta",
+      "content": "aksanı",
       "translations": [
-        "auf dem Baum",
-        "im Baum"
+        "Akzent",
+        "Aussprache"
       ],
       "usageExamples": []
     },
     {
-      "content": "asılı",
+      "content": "yok",
       "translations": [
-        "hängend",
-        "aufgehängt"
+        "nicht",
+        "kein",
+        "keinen",
+        "keine"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "kaldı",
-      "translations": [
-        "bleibt",
-        "verbleibt",
-        "übrig",
-        "ist geblieben"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom, buna vaktimiz yok!",
+          "Tom, wir haben dafür keine Zeit!",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

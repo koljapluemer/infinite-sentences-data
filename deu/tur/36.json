@@ -1,11 +1,11 @@
 {
-  "sentence": "Bu şarkı bana birini hatırlatıyor.",
+  "sentence": "Bu pasajı senin için özetlemek istiyorum.",
   "credits": [
-    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Dieses Lied erinnert mich an jemanden."
+    "Ich möchte diese Passage für dich zusammenfassen."
   ],
   "parts": [
     {
@@ -13,7 +13,12 @@
       "translations": [
         "Das",
         "Dieses",
-        "Das hier"
+        "Das hier",
+        "Der",
+        "Dies",
+        "Diesen",
+        "Dieser",
+        "Es"
       ],
       "usageExamples": [
         [
@@ -27,60 +32,86 @@
           "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
         ],
         [
-          "Bu da kim?",
-          "Wer ist das denn?",
+          "Bu sağduyu.",
+          "Das entspricht dem gesunden Menschenverstand.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pasajı",
+      "translations": [
+        "Passage",
+        "Durchgang"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "senin",
+      "translations": [
+        "dein",
+        "deine"
+      ],
+      "usageExamples": [
+        [
+          "Ben senin babanı tanıyorum.",
+          "Ich kenne deinen Vater.",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ],
+        [
+          "Şimdi yazabilirim zamanım var. Ya senin?",
+          "Ich habe jetzt Zeit, um zu schreiben. Und du?",
           "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "şarkı",
+      "content": "için",
       "translations": [
-        "Lied",
-        "Song"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bana",
-      "translations": [
-        "mir",
-        "zu mir"
+        "für",
+        "um zu",
+        "zum",
+        "zur"
       ],
       "usageExamples": [
         [
-          "Tom bana tam tersini söylemişti.",
-          "Tom hat mir genau das Gegenteil gesagt.",
-          "Sentence from Tatoeba by tornado (CC-BY 2.0 FR)"
-        ],
-        [
-          "Son zamanlarda daha az hasta bana geliyor.",
-          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ],
         [
-          "Bana sorunu çözmeme izin veriniz.",
-          "Erlauben Sie mir, das Problem zu lösen.",
+          "Belki sizin için hâlâ umut vardır.",
+          "Vielleicht gibt es ja noch Hoffnung für Sie.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mali desteği, bu projemiz için vazgeçilmezdir.",
+          "Ihre finanzielle Unterstützung ist für dieses Projekt von uns unentbehrlich.",
+          "Sentence from Tatoeba by erayavcih (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "birini",
+      "content": "özetlemek",
       "translations": [
-        "einen",
-        "jemanden"
+        "zusammenfassen",
+        "kurz darstellen"
       ],
       "usageExamples": []
     },
     {
-      "content": "hatırlatıyor",
+      "content": "istiyorum",
       "translations": [
-        "erinnert an",
-        "erinnert",
-        "macht aufmerksam auf"
+        "ich will",
+        "ich möchte"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Size yardım etmek istiyorum.",
+          "Ich will dir helfen.",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

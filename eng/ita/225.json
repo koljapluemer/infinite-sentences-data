@@ -1,64 +1,81 @@
 {
-  "sentence": "Conosce i cavalli.",
+  "sentence": "Bevo solo caffè decaffeinato.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He knows horses."
+    "I only drink decaffeinated coffee."
   ],
   "parts": [
     {
-      "content": "Conosce",
+      "content": "Bevo",
       "translations": [
-        "He/She knows",
-        "You know",
-        "It is known",
-        "They know"
+        "I am drinking",
+        "I consume"
       ],
       "usageExamples": []
     },
     {
-      "content": "i",
+      "content": "solo",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "alone",
+        "only",
+        "just",
+        "single"
       ],
       "usageExamples": [
         [
-          "A Dan non piacciono i dittatori.",
-          "Dan doesn't like dictators.",
+          "Io sono solo curiosa.",
+          "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo articolo ridicolizza i vegetariani.",
-          "This article makes fun of vegetarians.",
+          "Tom venne qui da solo.",
+          "Tom came here alone.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Mary mancavano i suoi figli.",
-          "Mary missed her kids.",
+          "Io sospetto che Tom non faccia i compiti da solo.",
+          "I suspect that Tom doesn't do his homework by himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "cavalli",
+      "content": "caffè",
       "translations": [
-        "horses",
-        "stallions",
-        "cavalry",
-        "equines"
+        "coffee",
+        "café",
+        "espresso",
+        "java"
       ],
       "usageExamples": [
         [
-          "A Hokkaido fanno cavalli di paglia.",
-          "In Hokkaido, they make horses of straw.",
+          "Non bevete il caffè?",
+          "Do you not drink coffee?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Vieni in Albania, dove trovi sempre del caffè ottimo.",
+          "Come to Albania, where we always make good coffee.",
+          "Sentence from Tatoeba by graphite (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary non piace il latte nel suo caffè.",
+          "Mary doesn't like milk in her coffee.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "decaffeinato",
+      "translations": [
+        "decaffeinated",
+        "caffeine-free",
+        "decaf"
+      ],
+      "usageExamples": []
     }
   ]
 }

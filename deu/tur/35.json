@@ -1,11 +1,11 @@
 {
-  "sentence": "Bu ücretsiz ulaşılabilir.",
+  "sentence": "Bu kurallara aykırıdır.",
   "credits": [
-    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Das ist kostenlos erhältlich."
+    "Es ist gegen die Regeln."
   ],
   "parts": [
     {
@@ -13,7 +13,12 @@
       "translations": [
         "Das",
         "Dieses",
-        "Das hier"
+        "Das hier",
+        "Der",
+        "Dies",
+        "Diesen",
+        "Dieser",
+        "Es"
       ],
       "usageExamples": [
         [
@@ -27,25 +32,27 @@
           "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
         ],
         [
-          "Bu kurallara aykırıdır.",
-          "Es ist gegen die Regeln.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Bu ücretsiz ulaşılabilir.",
+          "Das ist kostenlos erhältlich.",
+          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ücretsiz",
+      "content": "kurallara",
       "translations": [
-        "kostenlos",
-        "gratis"
+        "Regeln",
+        "Vorschriften"
       ],
       "usageExamples": []
     },
     {
-      "content": "ulaşılabilir",
+      "content": "aykırıdır",
       "translations": [
-        "erreichbar",
-        "zugänglich"
+        "ist widersprüchlich",
+        "ist unvereinbar",
+        "ist abwegig",
+        "ist unlogisch"
       ],
       "usageExamples": []
     }

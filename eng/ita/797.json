@@ -1,142 +1,84 @@
 {
-  "sentence": "Questa è casa sua adesso.",
+  "sentence": "Potete vedere quella luce tremolante?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by marco87 (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "This is your house now."
+    "Can you see that flickering light?"
   ],
   "parts": [
     {
-      "content": "Questa",
+      "content": "Potete",
       "translations": [
-        "This",
-        "This one",
-        "This thing",
-        "This item"
+        "You can",
+        "You are able to",
+        "You may.",
+        "You are allowed to"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vedere",
+      "translations": [
+        "to see",
+        "to watch",
+        "to look at",
+        "to perceive"
       ],
       "usageExamples": [
         [
-          "Questa è una buona domanda.",
-          "This is a good question.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questa pagina non è mai stata divertente.",
-          "This page was never funny.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Questa mattina Tatoeba non sta funzionando molto bene.",
-          "This morning, Tatoeba isn't working very well.",
+          "Lo zio Ted ci portò allo zoo per farci vedere i panda.",
+          "Uncle Ted took us to the zoo in order to show us the pandas.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "è",
+      "content": "quella",
       "translations": [
-        "it is",
-        "there is",
-        "he is",
-        "she is"
+        "that",
+        "the one",
+        "that one",
+        "the"
       ],
       "usageExamples": [
         [
-          "Tom è famoso.",
-          "Tom's famous.",
+          "Scendi da quella scala.",
+          "Get down from that ladder.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è ovviamente arrabbiato.",
-          "Tom is obviously angry.",
+          "Cos'è quella cosa là?",
+          "What's that thing there?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è americano?",
-          "Are you American?",
+          "Sami sentì quella ragazza.",
+          "Sami heard that girl.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "casa",
+      "content": "luce",
       "translations": [
-        "house",
-        "home",
-        "dwelling",
-        "residence"
+        "light",
+        "brightness",
+        "illumination",
+        "radiance"
       ],
-      "usageExamples": [
-        [
-          "Dov'è la sua casa?",
-          "Where's his home?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "Jack ha un gatto e un pappagallo a casa.",
-          "Jack keeps a cat and a parrot at home.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom disse che aveva nostalgia di casa.",
-          "Tom said that he was homesick.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "sua",
+      "content": "tremolante",
       "translations": [
-        "your",
-        "yours",
-        "his",
-        "her"
+        "trembling",
+        "shaking",
+        "quivering",
+        "vibrating"
       ],
-      "usageExamples": [
-        [
-          "Dov'è la sua casa?",
-          "Where's his home?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "Riuscite a distinguere Jane dalla sua sorella gemella?",
-          "Can you tell Jane from her twin sister?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi mandi la sua posizione.",
-          "Send me your position.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "adesso",
-      "translations": [
-        "now",
-        "right now",
-        "at this moment",
-        "currently"
-      ],
-      "usageExamples": [
-        [
-          "Sono al sicuro adesso?",
-          "Am I safe now?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Sto cucinando adesso.",
-          "I am cooking now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta cenando adesso.",
-          "Tom is having dinner right now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

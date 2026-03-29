@@ -1,59 +1,76 @@
 {
-  "sentence": "Die Polizei ist hier.",
+  "sentence": "Das entspricht dem gesunden Menschenverstand.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Polis burada."
+    "Bu sağduyu."
   ],
   "parts": [
     {
-      "content": "Polizei",
+      "content": "Das",
       "translations": [
-        "Polisin",
-        "Polis"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ist",
-      "translations": [
-        "dır",
-        "olmak"
+        "Bu",
+        "Bunu",
+        "Bunun"
       ],
       "usageExamples": [
-        [
-          "Wo ist deine Mama?",
-          "Annen nerede?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dein Auto ist schnell.",
-          "Senin araban hızlıdır.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
         [
           "Das ist kostenlos erhältlich.",
           "Bu ücretsiz ulaşılabilir.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Das Problem dreht sich um folgende Frage:",
+          "Problem şu soru etrafında dönüyor:",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Das fängt ja gut an!",
+          "İyi bir başlangıç oldu!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "hier",
+      "content": "entspricht",
       "translations": [
-        "burada",
-        "hemen",
-        "her"
+        "uygun"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dem",
+      "translations": [
+        "belirtilen"
       ],
       "usageExamples": [
         [
-          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
-          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
+          "Nach dem Ende der Römerzeit war die romanische Architektur der erste Kunststil, der überall in Europa angewendet wurde.",
+          "Roma döneminden sonra Romanesk tarzının ilk mimarları bu tarzı tüm Avrupa 'da uygulamaya başladı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Die Schiffe wurden vom Wind und dem Regen in Mitleidenschaft gezogen.",
+          "Gemiler rüzgar ve yağmurdan etkilenirler.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "gesunden",
+      "translations": [
+        "sağlıklı"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Menschenverstand",
+      "translations": [
+        "İnsan zekası"
+      ],
+      "usageExamples": []
     }
   ]
 }

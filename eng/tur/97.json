@@ -1,35 +1,83 @@
 {
-  "sentence": "Yarın kiliseye gitmeliyim.",
+  "sentence": "Tom kendisi için karar versin.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I've got to go to church tomorrow."
+    "Let Tom decide for himself."
   ],
   "parts": [
     {
-      "content": "yarın",
+      "content": "Tom",
       "translations": [
-        "tomorrow",
-        "next day"
+        "Tom",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom sigara içmeyi bırakmalı.",
+          "Tom ought to stop smoking.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom annemin erkek kardeşi.",
+          "Tom is my mother's brother.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "kendisi",
+      "translations": [
+        "himself",
+        "herself",
+        "itself"
       ],
       "usageExamples": []
     },
     {
-      "content": "kiliseye",
+      "content": "için",
       "translations": [
-        "to the church",
-        "at the church"
+        "for",
+        "in order to",
+        "to",
+        "because of"
+      ],
+      "usageExamples": [
+        [
+          "En kötüsü için hazırlanıyorum.",
+          "I'm getting ready for the worst.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bunun için bana ne vereceksin?",
+          "What'll you give me for this?",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
+        ],
+        [
+          "O benim için gerçekten eğlenceliydi.",
+          "That was really fun for me.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "karar",
+      "translations": [
+        "decision"
       ],
       "usageExamples": []
     },
     {
-      "content": "gitmeliyim",
+      "content": "versin",
       "translations": [
-        "I must go",
-        "I have to go.",
-        "I should go"
+        "give"
       ],
       "usageExamples": []
     }

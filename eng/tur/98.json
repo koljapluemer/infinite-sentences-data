@@ -1,35 +1,77 @@
 {
-  "sentence": "Öğretmene soralım.",
+  "sentence": "Tom kötü bir golfçü.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's ask the teacher."
+    "Tom is a bad golfer."
   ],
   "parts": [
     {
-      "content": "Öğretmen",
+      "content": "Tom",
       "translations": [
-        "Teacher",
-        "Instructor",
-        "Educator"
+        "Tom",
+        "Tommy"
+      ],
+      "usageExamples": [
+        [
+          "Tom annemin erkek kardeşi.",
+          "Tom is my mother's brother.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sigara içmeyi bırakmalı.",
+          "Tom ought to stop smoking.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom Mary'ye bekleyeceğini söyledi.",
+          "Tom told Mary he'd wait.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "kötü",
+      "translations": [
+        "bad",
+        "evil",
+        "poor",
+        "awful"
       ],
       "usageExamples": []
     },
     {
-      "content": "e",
+      "content": "bir",
       "translations": [
-        "and",
-        "also"
+        "one",
+        "a",
+        "an"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Sadece bir battaniyem var.",
+          "I only have one blanket.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "İyi bir iş istiyorum.",
+          "I want a good job.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bir üstat değil.",
+          "He is not a virtuoso.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "soralım",
+      "content": "golfçü",
       "translations": [
-        "let's ask",
-        "shall we ask"
+        "golfer",
+        "golf player"
       ],
       "usageExamples": []
     }

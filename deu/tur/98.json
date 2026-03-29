@@ -1,40 +1,49 @@
 {
-  "sentence": "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+  "sentence": "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
   "credits": [
-    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich denke nicht, dass ihr euren Job aufgeben solltet."
+    "Hast du gesagt, dass du deine Fehler akzeptieren sollst?"
   ],
   "parts": [
     {
-      "content": "Sizlerin",
+      "content": "Sen",
       "translations": [
-        "euch",
-        "Sie"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "işini",
-      "translations": [
-        "seine Arbeit",
-        "seinen Job"
+        "du",
+        "Sie",
+        "Du"
       ],
       "usageExamples": [
         [
-          "Bugünün işini yarına bırakma.",
-          "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
-          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
+          "Sen hala oğlumsun.",
+          "Du bist noch immer mein Sohn.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bırakmanız",
+      "content": "hatalarını",
       "translations": [
-        "lassen Sie es los",
-        "lassen Sie es fallen"
+        "deine Fehler",
+        "ihre Fehler"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "kabul",
+      "translations": [
+        "akzeptieren",
+        "annehmen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "etmen",
+      "translations": [
+        "essen",
+        "verzehren"
       ],
       "usageExamples": []
     },
@@ -46,19 +55,38 @@
       ],
       "usageExamples": [
         [
-          "Sen, hatalarını kabul etmen gerektiğini söyledin mi?",
-          "Hast du gesagt, dass du deine Fehler akzeptieren sollst?",
-          "Sentence from Tatoeba by Onurkizildag (CC-BY 2.0 FR)"
+          "Sizlerin işini bırakmanız gerektiğini düşünmüyorum.",
+          "Ich denke nicht, dass ihr euren Job aufgeben solltet.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "düşünmüyorum",
+      "content": "söyledin",
       "translations": [
-        "Ich denke nicht",
-        "Ich überlege nicht"
+        "du hast gesagt",
+        "du hast gesprochen"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "mi",
+      "translations": [
+        "ich",
+        "mir"
+      ],
+      "usageExamples": [
+        [
+          "Tom mutsuz, değil mi?",
+          "Tom ist unglücklich, nicht wahr?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Kartla ödeme yapılabilir mi?",
+          "Kann man mit Karte bezahlen?",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

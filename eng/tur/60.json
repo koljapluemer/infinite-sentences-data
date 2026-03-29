@@ -1,61 +1,25 @@
 {
-  "sentence": "Peki, ona ne denir?",
+  "sentence": "O makul görünüyor.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Well, what's it called?"
+    "That seems reasonable."
   ],
   "parts": [
     {
-      "content": "Peki",
+      "content": "O",
       "translations": [
-        "Okay.",
-        "Alright.",
-        "Well",
-        "Fine"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "ona",
-      "translations": [
-        "her",
-        "to her",
-        "that one",
-        "it"
+        "Oh.",
+        "O",
+        "Wow",
+        "Hey."
       ],
       "usageExamples": [
         [
-          "Tom'un ona verdiğin hediyeyi seveceğini düşündüm.",
-          "I thought Tom would love the gift you gave him.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "O ona bir kutu verdi.",
-          "He gave her a box.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Biz ona birkaç tane elma verdik.",
-          "We gave her some apples.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ne",
-      "translations": [
-        "what",
-        "huh",
-        "right",
-        "no way"
-      ],
-      "usageExamples": [
-        [
-          "Şu an ne yiyorsun?",
-          "What are you eating right now?",
+          "O bir üstat değil.",
+          "He is not a virtuoso.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
@@ -64,21 +28,34 @@
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Bunun ne anlama geldiğini biliyorum.",
-          "I know what this means.",
+          "O birkaç haftadır kayıp.",
+          "She had been missing for a couple of weeks.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "denir",
+      "content": "makul",
       "translations": [
-        "it is said",
-        "they say",
-        "one says",
-        "it is told"
+        "reasonable"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "görünüyor",
+      "translations": [
+        "it seems",
+        "it appears",
+        "looks like",
+        "is visible"
+      ],
+      "usageExamples": [
+        [
+          "Tom bir şey arıyor gibi görünüyor.",
+          "Tom seems to be looking for something.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

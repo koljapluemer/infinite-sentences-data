@@ -1,166 +1,74 @@
 {
-  "sentence": "Mi piacciono i cani e i gatti.",
+  "sentence": "Mangia finché è caldo.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I like dogs and cats."
+    "Eat while it's warm."
   ],
   "parts": [
     {
-      "content": "Mi",
+      "content": "Mangia",
       "translations": [
-        "Me",
-        "I",
-        "Myself"
+        "Eat",
+        "Consume",
+        "Devour",
+        "Ingest"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "finché",
+      "translations": [
+        "as long as",
+        "until",
+        "provided that",
+        "so long as"
       ],
       "usageExamples": [
         [
-          "Mi importa di lei.",
-          "I care about her.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "Per piacere, aspetta finché non arriva.",
+          "Please wait until he arrives.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "piacciono",
+      "content": "è",
       "translations": [
-        "they like",
-        "are pleasing to them",
-        "they are liked by them"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
       "usageExamples": [
         [
-          "A Dan non piacciono i dittatori.",
-          "Dan doesn't like dictators.",
+          "Il libro è arrivato.",
+          "The book came.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Maria piacciono i fiori.",
-          "Maria likes flowers.",
+          "Questo è un occhio.",
+          "This is an eye.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Henrietta non piacciono i gatti.",
-          "Henrietta doesn't like cats.",
+          "Questo cane è brutto.",
+          "This dog is ugly.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "i",
+      "content": "caldo",
       "translations": [
-        "item",
-        "element",
-        "point",
-        "thing"
+        "hot",
+        "warm",
+        "heated",
+        "spicy"
       ],
-      "usageExamples": [
-        [
-          "Conosce i cavalli.",
-          "He knows horses.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Leggo un giornale tutti i giorni per tenermi aggiornata.",
-          "I read a newspaper every day so that I may keep up with the time.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary mancano suo marito e i suoi figli.",
-          "Mary misses her husband and children.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "cani",
-      "translations": [
-        "dogs",
-        "canines",
-        "pups",
-        "pooches"
-      ],
-      "usageExamples": [
-        [
-          "A Eva piacciono i cani, però non i gatti.",
-          "Eva likes dogs, but not cats.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non accarezzo i vostri cani.",
-          "I don't pet your dogs.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Eva piacciono i cani, ma non i gatti.",
-          "Eva likes dogs, but not cats.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "e",
-      "translations": [
-        "and",
-        "also",
-        "as well as",
-        "in addition"
-      ],
-      "usageExamples": [
-        [
-          "Rima e Skura sono quasi annegate.",
-          "Rima and Skura almost drowned.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom e Mary studiano il francese ogni sera per trenta minuti.",
-          "Tom and Mary study French every evening for thirty minutes.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Il signor Jones crede nel duro lavoro e nei profitti.",
-          "Mr Jones believes in hard work and profits.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "gatti",
-      "translations": [
-        "cats",
-        "kittens",
-        "felines",
-        "domestic cats"
-      ],
-      "usageExamples": [
-        [
-          "A Eva piacciono i cani, però non i gatti.",
-          "Eva likes dogs, but not cats.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "I gatti non hanno le pulci.",
-          "The cats have fleas.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Eva piacciono i cani, ma non i gatti.",
-          "Eva likes dogs, but not cats.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

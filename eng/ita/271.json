@@ -1,78 +1,161 @@
 {
-  "sentence": "Era occupato ieri?",
+  "sentence": "Cosa può dirci riguardo a questo dipinto?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Were you busy yesterday?"
+    "What can you tell us about this painting?"
   ],
   "parts": [
     {
-      "content": "Era",
+      "content": "Cosa",
       "translations": [
-        "Period",
-        "Age",
-        "Epoch"
+        "Thing",
+        "Item",
+        "Object",
+        "Stuff"
       ],
       "usageExamples": [
         [
-          "Era eroico.",
-          "He was heroic.",
+          "Cosa vorrebbe bere?",
+          "What would you like to drink?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era in ritardo.",
-          "He was late.",
+          "Cosa la sta causando?",
+          "What's causing it?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Era eccellente.",
-          "You were excellent.",
+          "Cosa avete consigliato?",
+          "What did you recommend?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "occupato",
+      "content": "può",
       "translations": [
-        "busy",
-        "occupied",
-        "engaged",
-        "taken"
+        "can",
+        "may",
+        "is able to",
+        "is allowed to"
       ],
       "usageExamples": [
         [
-          "Perché Tom è sempre così occupato?",
-          "Why is Tom always so busy?",
+          "Non le può licenziare.",
+          "You can't fire them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Forse Tom lo può fare.",
+          "Perhaps Tom can do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Camminare regolarmente può aiutarmi a mantenere un peso sano e a prevenire l'aumento di peso.",
+          "Regular walking can help me maintain a healthy weight and prevent weight gain.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dirci",
+      "translations": [
+        "to say to us",
+        "to tell us",
+        "to inform us",
+        "to speak to us"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "riguardo",
+      "translations": [
+        "regarding",
+        "concerning",
+        "in relation to",
+        "about"
+      ],
+      "usageExamples": [
+        [
+          "Tom non sa nulla a riguardo della situazione.",
+          "Tom doesn't know anything about the situation.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sa come si sente Mary a riguardo.",
+          "Tom knows how Mary feels about that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non ho obiezioni a riguardo.",
+          "I don't have any objection to that.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ieri",
+      "content": "a",
       "translations": [
-        "yesterday",
-        "the day before today",
-        "the previous day"
+        "an",
+        "one",
+        "each"
       ],
       "usageExamples": [
         [
-          "Sono andato all'ospedale ieri.",
-          "I went to the hospital yesterday.",
-          "Sentence from Tatoeba by alexmarcelo (CC-BY 2.0 FR)"
+          "Non riusciva a vederla.",
+          "He couldn't see her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Siamo arrivati ieri in treno.",
-          "We arrived yesterday afternoon by train.",
-          "Sentence from Tatoeba by WM3DAS (CC-BY 2.0 FR)"
+          "Devo andare a trovarli.",
+          "I must go and find them.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ci sono andata l'altro ieri.",
-          "I went there the day before yesterday.",
+          "Volate fino a Londra.",
+          "Fly to London.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "questo",
+      "translations": [
+        "this",
+        "this one",
+        "this thing",
+        "this item"
+      ],
+      "usageExamples": [
+        [
+          "Inscatola questo.",
+          "Box this up.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prenda questo denaro.",
+          "Take this money.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Dica questo in ungherese!",
+          "Say this in Hungarian!",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "dipinto",
+      "translations": [
+        "painted",
+        "painting",
+        "depicted",
+        "illustrated"
+      ],
+      "usageExamples": []
     }
   ]
 }

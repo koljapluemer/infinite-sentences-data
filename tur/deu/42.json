@@ -1,78 +1,82 @@
 {
-  "sentence": "Slowenisch ist eine schöne Sprache.",
+  "sentence": "Ich fahre mit keinem Bus.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Slovence güzel bir dildir."
+    "Otobüsle seyahat etmiyorum."
   ],
   "parts": [
     {
-      "content": "Slowenisch",
+      "content": "Ich",
       "translations": [
-        "Slovence"
+        "Ben"
+      ],
+      "usageExamples": [
+        [
+          "Ich schwimme sehr gern.",
+          "Yüzmeyi seviyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich bin verwirrt.",
+          "Benim kafam karıştı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich will dir helfen.",
+          "Size yardım etmek istiyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fahre",
+      "translations": [
+        "sürüş"
       ],
       "usageExamples": []
     },
     {
-      "content": "ist",
+      "content": "mit",
       "translations": [
-        "dır",
-        "olmak"
+        "ile"
       ],
       "usageExamples": [
         [
-          "Wie ist das Wetter?",
-          "Hava nasıl?",
+          "Maria dirigierte das Orchester mit einem Taktstock.",
+          "Mary bir baton kullanarak orkestrayı yönetti.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Dein Auto ist schnell.",
-          "Senin araban hızlıdır.",
+          "Sie tanzt mit einem anderen Mann.",
+          "O başka bir adamla dans ediyor.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Das ist kostenlos erhältlich.",
-          "Bu ücretsiz ulaşılabilir.",
+          "Je mehr Leute du kennst, desto weniger Zeit kannst du mit ihnen verbringen.",
+          "Ne kadar çok insan tanırsanız, onlarla o kadar az zaman geçirebilirsiniz.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "eine",
+      "content": "keinem",
       "translations": [
-        "bir",
-        "bir tane"
+        "hiçbirine"
       ],
-      "usageExamples": [
-        [
-          "Tom hat eine Katze.",
-          "Tom'un bir kedisi var.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Du hast eine Alternative.",
-          "Bir alternatifin var.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wir sind keine Menschen, die hier auf der Welt, eine spirituelle Erfahrung machen, sondern wir sind spirituelle Wesen, die erfahren, Mensch zu sein!",
-          "Biz burada dünyada manevi bir deneyim yapan insanlar değiliz, daha ziyade, insan olmayı öğrenen ruhsal varlıklarız!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "Sprache",
+      "content": "Bus",
       "translations": [
-        "dil",
-        "dildir"
+        "Otobüs"
       ],
       "usageExamples": [
         [
-          "Man kann keine Sprache genug beherrschen.",
-          "Bir dil yeterince iyi öğrenilemez.",
+          "Der Bus war leer.",
+          "Otobüs boştu.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]

@@ -1,50 +1,78 @@
 {
-  "sentence": "Ben hatırlamak istiyordum.",
+  "sentence": "Belki sizin için hâlâ umut vardır.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich wollte mich erinnern."
+    "Vielleicht gibt es ja noch Hoffnung für Sie."
   ],
   "parts": [
     {
-      "content": "Ben",
+      "content": "Belki",
       "translations": [
-        "Ich",
-        "Mir"
-      ],
-      "usageExamples": [
-        [
-          "Ben senin babanı tanıyorum.",
-          "Ich kenne deinen Vater.",
-          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ben olsam iki kere düşünürdüm.",
-          "Ich würde mir das zweimal überlegen.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ben de böyle olsun istemezdim.",
-          "Ich hab auch nicht gewollt, dass es so kommt.",
-          "Sentence from Tatoeba by TR724 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "hatırlamak",
-      "translations": [
-        "erinnern",
-        "sich erinnern"
+        "Vielleicht",
+        "Möglicherweise"
       ],
       "usageExamples": []
     },
     {
-      "content": "istiyordum",
+      "content": "sizin",
       "translations": [
-        "ich wollte",
-        "ich habe gewollt"
+        "deines",
+        "euren",
+        "eurer",
+        "ihrer",
+        "Ihrer"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "için",
+      "translations": [
+        "für",
+        "um zu",
+        "zum",
+        "zur"
+      ],
+      "usageExamples": [
+        [
+          "Öğle yemeği için ne istersin?",
+          "Was möchtest du zu essen?",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sana gitmen için izin veriyorum.",
+          "Ich erlaube dir zu gehen.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
+          "Ich muss für eine Spanienreise Spanisch lernen.",
+          "Sentence from Tatoeba by lilmerman (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hâlâ",
+      "translations": [
+        "immer noch"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "umut",
+      "translations": [
+        "Hoffnung"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "vardır",
+      "translations": [
+        "es gibt",
+        "da ist",
+        "es existiert"
       ],
       "usageExamples": []
     }

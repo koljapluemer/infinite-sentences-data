@@ -1,39 +1,108 @@
 {
-  "sentence": "Anteayer fue miércoles.",
+  "sentence": "Alguien no la ha traducido correctamente.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by araneo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by DJ_Saidez (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "The day before yesterday was Wednesday."
+    "Someone didn't translate it correctly."
   ],
   "parts": [
     {
-      "content": "anteayer",
+      "content": "Alguien",
       "translations": [
-        "the day before yesterday",
-        "two days ago"
+        "someone",
+        "anyone",
+        "somebody"
       ],
       "usageExamples": []
     },
     {
-      "content": "fue",
+      "content": "no",
       "translations": [
-        "was",
-        "has been"
+        "not"
       ],
       "usageExamples": [
+        [
+          "Todavía no lo tengo.",
+          "I haven't got it yet.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No quiero molestarte.",
+          "I don't want to disturb you.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Este gato no persigue ratones.",
+          "This cat doesn't chase mice.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "La casa es grande.",
+          "The house is large.",
+          ""
+        ],
+        [
+          "¿Está buena la limonada?",
+          "Is the lemonade good?",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Esa es la realidad.",
+          "That's the reality.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "ha",
+      "translations": [
+        "has",
+        "there is",
+        "there are"
+      ],
+      "usageExamples": [
+        [
+          "Es grandioso lo rápido que el remedio ha aliviado mi dolor.",
+          "It's marvelous how quickly the medicine relieved my pain.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
         [
           "Ese fue el peor trabajo que Yanni ha tenido nunca.",
           "That was the worst job Yanni had ever had.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Mi intención no fue ofender.",
-          "No offense was meant.",
+          "Ése ha sido mi sueño desde que era una niña pequeña.",
+          "It's been my dream since I was a little girl.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "traducido",
+      "translations": [
+        "translated"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "correctamente",
+      "translations": [
+        "correctly",
+        "properly",
+        "rightly"
+      ],
+      "usageExamples": []
     }
   ]
 }

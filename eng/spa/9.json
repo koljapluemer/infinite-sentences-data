@@ -1,50 +1,52 @@
 {
-  "sentence": "Cantemos y bailemos.",
+  "sentence": "Ayer hizo calor.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's sing and dance."
+    "It was hot yesterday."
   ],
   "parts": [
     {
-      "content": "Cantemos",
+      "content": "Ayer",
       "translations": [
-        "Let's sing.",
-        "We should sing."
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "y",
-      "translations": [
-        "and",
-        "plus"
+        "yesterday",
+        "the day before today"
       ],
       "usageExamples": [
         [
-          "Tenemos un invierno largo y frío, pero sabemos disfrutarlo.",
-          "We have a long and cold winter, but we know how to enjoy it.",
+          "Ayer tuvimos buen tiempo.",
+          "We had nice weather yesterday.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "El gran crítico y el poeta viajan juntos.",
-          "The great critic and the poet are traveling together.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El té sabe muy amargo y no está bueno.",
-          "The tea is really bitter and doesn't taste good.",
+          "Ayer monté a caballo por primera vez.",
+          "I rode a horse for the first time yesterday.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bailemos",
+      "content": "hizo",
       "translations": [
-        "let's dance",
-        "we should dance"
+        "did",
+        "made"
+      ],
+      "usageExamples": [
+        [
+          "Mi hermano lo hizo en mi nombre.",
+          "My brother did it on my behalf.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "calor",
+      "translations": [
+        "heat",
+        "warmth",
+        "hot"
       ],
       "usageExamples": []
     }

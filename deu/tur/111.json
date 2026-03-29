@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom'dan korktuğumu kim söylüyor?",
+  "sentence": "Tom Boston'da kalıyor.",
   "credits": [
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Wer sagt, dass ich Angst vor Tom hätte?"
+    "Tom bleibt in Boston."
   ],
   "parts": [
     {
@@ -15,14 +15,14 @@
       ],
       "usageExamples": [
         [
-          "Tom'u çağırmamı ister misiniz?",
-          "Wollen Sie, dass ich Tom rufe?",
+          "Tom, buna vaktimiz yok!",
+          "Tom, wir haben dafür keine Zeit!",
           "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
         ],
         [
-          "Hangi dilleri konuşabiliyorsun, Tom?",
-          "Welche Sprachen sprichst du, Tom?",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+          "Tom nehirde yüzüyor.",
+          "Tom schwimmt im Fluss.",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
         ],
         [
           "Tom gelince, gidiyorum.",
@@ -32,50 +32,20 @@
       ]
     },
     {
-      "content": "dan",
+      "content": "Boston'da",
       "translations": [
-        "von",
-        "aus"
+        "in Boston",
+        "zu Boston"
       ],
       "usageExamples": []
     },
     {
-      "content": "korktuğumu",
+      "content": "kalıyor",
       "translations": [
-        "ich habe Angst",
-        "ich habe Angst gehabt"
+        "bleibt",
+        "verbleibt"
       ],
       "usageExamples": []
-    },
-    {
-      "content": "kim",
-      "translations": [
-        "wer",
-        "jemand"
-      ],
-      "usageExamples": [
-        [
-          "Bu da kim?",
-          "Wer ist das denn?",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "söylüyor",
-      "translations": [
-        "sagt",
-        "er sagt",
-        "sie sagt",
-        "man sagt"
-      ],
-      "usageExamples": [
-        [
-          "Birçok insan, bunun bir yalan olduğunu söylüyor.",
-          "Es gibt viele Leute, die sagen, das sei eine Lüge.",
-          "Sentence from Tatoeba by yusufbileci (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

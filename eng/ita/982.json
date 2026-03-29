@@ -1,11 +1,11 @@
 {
-  "sentence": "Tom vende funghi psichedelici.",
+  "sentence": "Tom mi chiese se avevo fame.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by shekitten (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by adamtrousers (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom sells psychedelic mushrooms."
+    "Tom asked me whether I was hungry."
   ],
   "parts": [
     {
@@ -17,13 +17,13 @@
       ],
       "usageExamples": [
         [
-          "Nessuno credeva a Tom.",
-          "Nobody believed Tom.",
+          "Tom è un fan.",
+          "Tom is a fan.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "Tom si è divertito.",
+          "Tom enjoyed himself.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -34,34 +34,117 @@
       ]
     },
     {
-      "content": "vende",
+      "content": "mi",
       "translations": [
-        "sell",
-        "to sell",
-        "selling",
-        "sells"
+        "me",
+        "myself",
+        "to me",
+        "for me"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Il bambino mi sorrise.",
+          "The baby smiled at me.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Le sue parole mi resero senza parole.",
+          "His words rendered me speechless.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "funghi",
+      "content": "chiese",
       "translations": [
-        "mushrooms",
-        "fungi",
-        "mushroom",
-        "fungus"
+        "churches",
+        "chapels",
+        "places of worship",
+        "temples"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom chiese a Mary se lei si fidava di John.",
+          "Tom asked Mary if she trusted John.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "psichedelici",
+      "content": "se",
       "translations": [
-        "psychedelics",
-        "psychedelic substances",
-        "psychedelic drugs",
-        "hallucinogens"
+        "himself",
+        "herself",
+        "itself",
+        "themselves"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom chiese a Mary se lei si fidava di John.",
+          "Tom asked Mary if she trusted John.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary importa solo di se stessa.",
+          "Mary only cares about herself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "avevo",
+      "translations": [
+        "I had",
+        "I used to have",
+        "I was having"
+      ],
+      "usageExamples": [
+        [
+          "Non avevo intenzione di metterla in imbarazzo.",
+          "I didn't mean to embarrass you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Avevo gli occhi pieni di lacrime e riescivo a vederlo a malapena.",
+          "My eyes were full of tears and I could barely see him.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "fame",
+      "translations": [
+        "hunger",
+        "appetite",
+        "starvation"
+      ],
+      "usageExamples": [
+        [
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary ha detto che non ha fame.",
+          "Mary said that she's not hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

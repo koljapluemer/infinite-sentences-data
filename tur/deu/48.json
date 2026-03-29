@@ -1,31 +1,46 @@
 {
-  "sentence": "Tom hat eine Katze.",
+  "sentence": "Ich habe die Geschichte nicht gelesen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom'un bir kedisi var."
+    "Hikayeyi okumadım."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Ich",
       "translations": [
-        "Tom"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "hat",
-      "translations": [
-        "var",
-        "sahip",
-        "bulunmak"
+        "Ben"
       ],
       "usageExamples": [
         [
-          "Tom hat viel Zeit.",
-          "Tom'un çok zamanı var.",
+          "Ich bin verwirrt.",
+          "Benim kafam karıştı.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich schwimme sehr gern.",
+          "Yüzmeyi seviyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "habe",
+      "translations": [
+        "sahip olmak",
+        "var olmak"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sizinle sonucu paylaşma niyetinde değilim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
@@ -34,48 +49,74 @@
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Wer sich einmal mit heißer Milch den Mund verbrannt hat, pustet sogar auf Joghurt.",
-          "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
+          "Ich habe die Zugfahrkarten vergessen.",
+          "Tren biletlerini unuttum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "eine",
+      "content": "die",
       "translations": [
-        "bir",
-        "bir tane"
+        "bu",
+        "o"
       ],
       "usageExamples": [
         [
-          "Du hast eine Alternative.",
-          "Bir alternatifin var.",
+          "Tom analysierte die Ergebnisse.",
+          "Tom sonuçları analiz etti.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Nimm eine kalte Dusche und trinke dann einen heißen Tee!",
-          "Soğuk bir duş yap ve sonra sıcak bir çay iç!",
+          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
+          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ich muss für eine Spanienreise Spanisch lernen.",
-          "Bir İspanya gezisi için İspanyolca öğrenmem gerek.",
+          "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
+          "Sizinle sonucu paylaşma niyetinde değilim.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Katze",
+      "content": "Geschichte",
       "translations": [
-        "kedisi"
+        "hikaye"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "nicht",
+      "translations": [
+        "değil",
+        "ne",
+        "yok"
       ],
       "usageExamples": [
         [
-          "Sie hat eine Katze und zwei Hunde.",
-          "Onun bir kedisi ve iki köpeği var.",
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich gehe nicht dorthin zurück.",
+          "Oraya geri dönmeyeceğim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich behaupte, dass das nicht stimmt.",
+          "Bunun doğru olmadığını iddia ediyorum.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "gelesen",
+      "translations": [
+        "okundu"
+      ],
+      "usageExamples": []
     }
   ]
 }

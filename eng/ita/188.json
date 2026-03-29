@@ -1,77 +1,122 @@
 {
-  "sentence": "Beviamo un'altra birra.",
+  "sentence": "A me piacciono i tulipani.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Let's drink another beer.",
-    "Let's have another beer."
+    "I like tulips."
   ],
   "parts": [
     {
-      "content": "Beviamo",
+      "content": "A",
       "translations": [
-        "We drink",
-        "We are drinking"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "un",
-      "translations": [
-        "one",
-        "a",
-        "an"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Vado a trovare un'amica.",
-          "I'm going to visit a friend.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Ti compro un regalo.",
-          "I buy you a present.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "altra",
+      "content": "me",
       "translations": [
-        "other",
-        "another",
-        "further",
-        "additional"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "birra",
-      "translations": [
-        "beer",
-        "brew",
-        "lager",
-        "ale"
+        "myself",
+        "to me",
+        "for me"
       ],
       "usageExamples": [
         [
-          "Posso avere una birra?",
-          "Can I have a beer?",
+          "Sei speciale per me.",
+          "You're special to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "La birra è bevuta fredda.",
-          "Beer is drunk cold.",
+          "È difficile per me dipendere da te.",
+          "It's hard for me to depend on you.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "So che sei ancora arrabbiata con me.",
+          "I know you're still mad at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "piacciono",
+      "translations": [
+        "they like",
+        "are pleasing to them",
+        "they are liked by them"
+      ],
+      "usageExamples": [
+        [
+          "A Inoue non piacciono i computer.",
+          "Inoue doesn't like computers.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary piacciono gli sport, vero?",
+          "Mary likes sports, doesn't she?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Henrietta non piacciono i gatti.",
+          "Henrietta doesn't like cats.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "i",
+      "translations": [
+        "item",
+        "element",
+        "point",
+        "thing"
+      ],
+      "usageExamples": [
+        [
+          "Conosce i cavalli.",
+          "He knows horses.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary vuole che i suoi genitori le comprino un pony.",
+          "Mary wants her parents to buy her a pony.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quelli sono i cani di Tom?",
+          "Are those Tom's dogs?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "tulipani",
+      "translations": [
+        "tulips",
+        "tulip flowers",
+        "tulip plants"
+      ],
+      "usageExamples": []
     }
   ]
 }

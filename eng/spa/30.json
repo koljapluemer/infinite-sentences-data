@@ -1,83 +1,73 @@
 {
-  "sentence": "Esa es la realidad.",
+  "sentence": "Ella me pidió ayuda.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "That's the reality."
+    "She asked me for help."
   ],
   "parts": [
     {
-      "content": "Esa",
+      "content": "Ella",
       "translations": [
-        "that",
-        "that one"
+        "She",
+        "Her"
+      ],
+      "usageExamples": [
+        [
+          "Ella solo finge que no le importa nada.",
+          "She only pretends to not care about anything.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella veía espíritus atravesando paredes.",
+          "She saw spirits going through walls.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ella no pudo entender ni una sola palabra.",
+          "She failed to understand a single word.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "me",
+      "translations": [
+        "me"
+      ],
+      "usageExamples": [
+        [
+          "El ruido me está volviendo loco.",
+          "The noise is driving me crazy.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "No puedo creer que Tom me haría eso.",
+          "I can't believe Tom would do that to me.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Aquí me siento muy solo.",
+          "I feel very lonely here.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pidió",
+      "translations": [
+        "requested"
       ],
       "usageExamples": []
     },
     {
-      "content": "es",
+      "content": "ayuda",
       "translations": [
-        "is",
-        "it is",
-        "to be"
+        "help"
       ],
-      "usageExamples": [
-        [
-          "Tomás es xenofóbico.",
-          "Tom is xenophobic.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Este es el color de las frambuesas.",
-          "This is the color of raspberries.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El carámbano es una columna de hielo.",
-          "An icicle is a pillar of ice.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "la",
-      "translations": [
-        "the"
-      ],
-      "usageExamples": [
-        [
-          "La casa es grande.",
-          "The house is big.",
-          ""
-        ],
-        [
-          "¿Está buena la limonada?",
-          "Is the lemonade good?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "La comida está lista.",
-          "The food is prepared.",
-          ""
-        ]
-      ]
-    },
-    {
-      "content": "realidad",
-      "translations": [
-        "reality",
-        "truth",
-        "fact"
-      ],
-      "usageExamples": [
-        [
-          "En realidad es tu culpa.",
-          "It is in fact your fault.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

@@ -1,178 +1,95 @@
 {
-  "sentence": "Sono sicura che Tom amerà il tuo regalo.",
+  "sentence": "Sei speciale per me.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm sure Tom will love your present."
+    "You're special to me."
   ],
   "parts": [
     {
-      "content": "Sono",
+      "content": "Sei",
       "translations": [
-        "I am.",
-        "We are",
-        "They are.",
-        "You are"
+        "You are",
+        "You exist",
+        "You live",
+        "You are being"
+      ],
+      "usageExamples": [
+        [
+          "Sei stata a Parigi?",
+          "Have you been to Paris?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei pieno di rabbia.",
+          "You're full of anger.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ],
+        [
+          "Sei un testimone.",
+          "You are a witness.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "speciale",
+      "translations": [
+        "special",
+        "specific",
+        "particular",
+        "exceptional"
       ],
       "usageExamples": []
     },
     {
-      "content": "sicura",
+      "content": "per",
       "translations": [
-        "safe",
-        "secure",
-        "sure",
-        "reliable"
+        "for",
+        "by",
+        "through"
       ],
       "usageExamples": [
         [
-          "Io sono sicura che Tom sarà di ritorno.",
-          "I'm sure Tom will be back.",
+          "Lo incontro per colazione.",
+          "I'm meeting him for breakfast.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mandatela per posta aerea.",
+          "Send it by airmail.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hey, grazie per l'aiuto.",
+          "Hey, thanks for the help.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "che",
+      "content": "me",
       "translations": [
-        "that",
-        "which",
-        "who",
-        "what"
+        "myself",
+        "to me",
+        "for me"
       ],
       "usageExamples": [
         [
-          "È quello che sono.",
-          "It's what I am.",
+          "Tu lasceresti tua moglie per me?",
+          "Would you leave your wife for me?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Sembra che sia seria.",
-          "She looks like she's serious.",
+          "Tom non me l'ha restituita.",
+          "Tom didn't give it back to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Disse che lo amava.",
-          "She said that she loved him.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Tom",
-      "translations": [
-        "Thomas",
-        "Tommy",
-        "Tom"
-      ],
-      "usageExamples": [
-        [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Io so com'era Tom.",
-          "I know how Tom used to be.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Scusami, sto cercando Tom.",
-          "Excuse me, I'm looking for Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "amerà",
-      "translations": [
-        "he/she will love",
-        "you will love",
-        "it will love"
-      ],
-      "usageExamples": [
-        [
-          "Tom amerà abitare qua.",
-          "Tom will love living here.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "il",
-      "translations": [
-        "the",
-        "it",
-        "him",
-        "that"
-      ],
-      "usageExamples": [
-        [
-          "Io insegno il berbero.",
-          "I teach Berber.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Non conosco il sistema.",
-          "I don't know the system.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Avete il nostro rispetto.",
-          "You have our respect.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "tuo",
-      "translations": [
-        "your",
-        "yours",
-        "of yours"
-      ],
-      "usageExamples": [
-        [
-          "Riconosco il tuo contributo per tenere pulita la cucina.",
-          "I recognize your contribution to keeping the kitchen clean.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
-        ],
-        [
-          "A te piace il tuo appartamento nuovo?",
-          "Do you like your new apartment?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom sta contando sul tuo aiuto.",
-          "Tom is counting on your help.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "regalo",
-      "translations": [
-        "gift",
-        "present",
-        "offering",
-        "donation"
-      ],
-      "usageExamples": [
-        [
-          "Ti compro un regalo.",
-          "I buy you a present.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Per ringraziarti, ecco un regalo.",
-          "To thank you, here is a gift.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ha ricevuto il mio regalo?",
-          "Did you get my gift?",
+          "So che sei ancora arrabbiata con me.",
+          "I know you're still mad at me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

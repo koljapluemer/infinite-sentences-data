@@ -1,56 +1,109 @@
 {
-  "sentence": "Mi sono tuffato nell'acqua.",
+  "sentence": "Mary ha detto che non ha fame.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by LdjuherTaqvaylit (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CF (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I dived into the water."
+    "Mary said she isn't hungry.",
+    "Mary said she's not hungry.",
+    "Mary said that she isn't hungry.",
+    "Mary said that she's not hungry."
   ],
   "parts": [
     {
-      "content": "Mi",
+      "content": "Mary",
       "translations": [
-        "Me",
-        "I",
-        "Myself"
+        "Maria",
+        "Miriam",
+        "Marie"
       ],
       "usageExamples": [
         [
-          "Mi sto riposando ora.",
-          "I'm resting now.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi importa di lei.",
-          "I care about her.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mi descriva Tom.",
-          "Describe Tom to me.",
+          "A Mary mancavano i suoi figli.",
+          "Mary missed her kids.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sono",
+      "content": "ha",
       "translations": [
-        "I am.",
-        "you are",
-        "they are",
-        "we are",
-        "am"
+        "has",
+        "he has",
+        "there is"
       ],
       "usageExamples": [
         [
-          "Tutte sono felici.",
-          "All are happy.",
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono una patata.",
-          "I am a potato.",
+          "Lei ha già cominciato.",
+          "She has already begun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lei ha già finito?",
+          "Are you through yet?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "detto",
+      "translations": [
+        "said",
+        "so-called",
+        "aforementioned",
+        "referred to as"
+      ],
+      "usageExamples": [
+        [
+          "A Mary fu detto che era troppo bassa.",
+          "Mary was told she was too short.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Hanno detto che Mary era felice.",
+          "They said Mary was happy.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ha detto che mi avrebbe aiutata a farlo.",
+          "She said she'd help me do that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "che",
+      "translations": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "usageExamples": [
+        [
+          "Sembra che sia seria.",
+          "She looks like she's serious.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Disse che lo amava.",
+          "She said she loved him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -61,45 +114,55 @@
       ]
     },
     {
-      "content": "tuffato",
+      "content": "non",
       "translations": [
-        "stewed",
-        "braised",
-        "cooked slowly",
-        "simmered"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "nell'",
-      "translations": [
-        "in the",
-        "at the",
-        "inside the",
-        "within the"
+        "not",
+        "no",
+        "none",
+        "never"
       ],
       "usageExamples": [
         [
-          "Sento la primavera nell'aria.",
-          "I feel spring in the air.",
+          "Perché non stai dormendo?",
+          "Why aren't you asleep?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Stavo pensando di arruolarmi nell'esercito.",
-          "I was thinking about joining the army.",
+          "Yanni non comprende l'Islam.",
+          "Yanni doesn't understand Islam.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non cambia mai.",
+          "Tom never changes.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "acqua",
+      "content": "fame",
       "translations": [
-        "water",
-        "aqua",
-        "H2O",
-        "liquid"
+        "hunger",
+        "appetite",
+        "starvation"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Tom mi chiese se avevo fame.",
+          "Tom asked me whether I was hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mary mi disse che non aveva fame.",
+          "Mary told me that she wasn't hungry.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Non possiamo restare in silenzio vedendo la gente morire di fame.",
+          "We cannot stand quiet and watch people starve.",
+          "Sentence from Tatoeba by Pharamp (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

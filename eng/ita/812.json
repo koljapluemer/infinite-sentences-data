@@ -1,73 +1,106 @@
 {
-  "sentence": "Ridete ogni giorno?",
+  "sentence": "Quali sono i tuoi piani?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you laugh every day?"
+    "What are your plans?",
+    "What're your plans?"
   ],
   "parts": [
     {
-      "content": "Ridete",
+      "content": "Quali",
       "translations": [
-        "You laugh",
-        "Laugh",
-        "You are laughing",
-        "Laughing"
+        "Which",
+        "What kind of",
+        "What type of",
+        "What sort of"
       ],
       "usageExamples": []
     },
     {
-      "content": "ogni",
+      "content": "sono",
       "translations": [
-        "each",
-        "every",
-        "all",
-        "any"
+        "I am.",
+        "you are",
+        "they are",
+        "we are",
+        "am"
       ],
       "usageExamples": [
         [
-          "Tom e Mary studiano il francese ogni sera per trenta minuti.",
-          "Tom and Mary study French every evening for thirty minutes.",
+          "Io sono solo curiosa.",
+          "I'm just curious.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Il mondo cambia ogni giorno.",
-          "The world changes every day.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+          "Perché sono qui?",
+          "Why are they here?",
+          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
         ],
         [
-          "Penso a lei ogni giorno.",
-          "I think about her every day.",
+          "Mi sono tuffato nell'acqua.",
+          "I dived into the water.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "giorno",
+      "content": "i",
       "translations": [
-        "day",
-        "date",
-        "24-hour period"
+        "item",
+        "element",
+        "point",
+        "thing"
       ],
       "usageExamples": [
         [
-          "Penso a lei ogni giorno.",
-          "I think about her every day.",
+          "Conosce i cavalli.",
+          "He knows horses.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "100 euro per tutto il giorno.",
-          "100 euros for the whole day.",
+          "A Marika piacevano i fumetti giapponesi?",
+          "Did Marika like Japanese comic books?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Mia madre mi sconsiglia di sedere al computer tutto il giorno.",
-          "My mother advises me against sitting at my computer all day long.",
-          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+          "Io sospetto che Tom non faccia i compiti da solo.",
+          "I suspect that Tom doesn't do his homework by himself.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "tuoi",
+      "translations": [
+        "your",
+        "yours",
+        "of yours"
+      ],
+      "usageExamples": [
+        [
+          "Hai finito i tuoi compiti?",
+          "Are you done with your homework?",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Prendi in prestito le biro dai tuoi amici.",
+          "You borrow pens from your friends.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piani",
+      "translations": [
+        "plans",
+        "floors",
+        "levels",
+        "schedules"
+      ],
+      "usageExamples": []
     }
   ]
 }

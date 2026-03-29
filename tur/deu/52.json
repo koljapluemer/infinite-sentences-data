@@ -1,87 +1,165 @@
 {
-  "sentence": "Tom hat viel Zeit.",
+  "sentence": "Ich habe nicht die Absicht, Ihnen das Ergebnis mitzuteilen.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by eminyilmazki (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom'un çok zamanı var."
+    "Sizinle sonucu paylaşma niyetinde değilim."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Ich",
       "translations": [
-        "Tom"
+        "Ben"
+      ],
+      "usageExamples": [
+        [
+          "Ich will dir helfen.",
+          "Size yardım etmek istiyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich suche meine Frau.",
+          "Karımı arıyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich muss tanken.",
+          "Benzin almak zorundayım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "habe",
+      "translations": [
+        "sahip olmak",
+        "var olmak"
+      ],
+      "usageExamples": [
+        [
+          "Ich habe mir eine gute Kamera gekauft.",
+          "İyi bir kamera aldım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe Tom seit gestern nicht gesehen.",
+          "Dünden beri Tom'u görmedim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe nicht verstanden, was er gesagt hat.",
+          "Onun ne dediğini anlayamadım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "nicht",
+      "translations": [
+        "değil",
+        "ne",
+        "yok"
+      ],
+      "usageExamples": [
+        [
+          "Nur nicht aufgeben!",
+          "Sakın pes etme!",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich liebe meinen Mann nicht mehr.",
+          "Artık kocamı sevmiyorum.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich habe Tom seit gestern nicht gesehen.",
+          "Dünden beri Tom'u görmedim.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "die",
+      "translations": [
+        "bu",
+        "o"
+      ],
+      "usageExamples": [
+        [
+          "Tom analysierte die Ergebnisse.",
+          "Tom sonuçları analiz etti.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es ist gegen die Regeln.",
+          "Bu kurallara aykırıdır.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
+          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Absicht",
+      "translations": [
+        "Amaç"
       ],
       "usageExamples": []
     },
     {
-      "content": "hat",
+      "content": "Ihnen",
       "translations": [
-        "var",
-        "sahip",
-        "bulunmak"
+        "size",
+        "sana"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "das",
+      "translations": [
+        "bu",
+        "bunu",
+        "onu",
+        "Onu",
+        "ders"
       ],
       "usageExamples": [
         [
-          "Tom hat eine Katze.",
-          "Tom'un bir kedisi var.",
+          "Wer ist das denn?",
+          "Bu da kim?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Sie hat eine Katze und zwei Hunde.",
-          "Onun bir kedisi ve iki köpeği var.",
+          "Wie ist das Wetter?",
+          "Hava nasıl?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Tom hat Mary heute gesehen.",
-          "Bugün Tom, Mary'yi gördü.",
+          "Ich werde nicht fragen, warum du das willst.",
+          "Bunu neden istediğini sormayacağım.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "viel",
+      "content": "Ergebnis",
       "translations": [
-        "çok",
-        "pek"
+        "sonucu",
+        "çıktı"
       ],
-      "usageExamples": [
-        [
-          "Wie viel Abfertigung hast du bekommen?",
-          "Kaç işlem yaptın?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich spreche nicht viel Französisch.",
-          "Çok fazla Fransızca konuşamam.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "Zeit",
+      "content": "mitzuteilen",
       "translations": [
-        "zaman",
-        "zamanı"
+        "bildirmeye"
       ],
-      "usageExamples": [
-        [
-          "Wann hast du Zeit für mich?",
-          "Benim için ne zaman vaktin olur?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "In letzter Zeit kamen immer weniger Patienten zu mir.",
-          "Son zamanlarda daha az hasta bana geliyor.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom, wir haben dafür keine Zeit!",
-          "Tom, buna vaktimiz yok!",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

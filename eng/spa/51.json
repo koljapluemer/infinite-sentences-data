@@ -1,50 +1,46 @@
 {
-  "sentence": "Nadie piensa eso.",
+  "sentence": "Está nevando hoy.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "No one thinks that."
+    "It's snowing today."
   ],
   "parts": [
     {
-      "content": "Nadie",
+      "content": "Está",
       "translations": [
-        "nobody",
-        "no one",
-        "anyone",
-        "naught"
-      ],
-      "usageExamples": [
-        [
-          "Nadie lo diría.",
-          "No one would say it.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "piensa",
-      "translations": [
-        "think",
-        "consider",
-        "believe",
-        "reflect"
+        "It is",
+        "He/She is",
+        "You are"
       ],
       "usageExamples": []
     },
     {
-      "content": "eso",
+      "content": "nevando",
       "translations": [
-        "that",
-        "it"
+        "snowing"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "hoy",
+      "translations": [
+        "today",
+        "this day",
+        "on this day"
       ],
       "usageExamples": [
         [
-          "No puedo creer que Tom me haría eso.",
-          "I can't believe Tom would do that to me.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Hoy es lunes.",
+          "Today is Monday.",
+          ""
+        ],
+        [
+          "Hoy tengo clase.",
+          "I have a lesson today.",
+          ""
         ]
       ]
     }

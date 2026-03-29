@@ -1,14 +1,91 @@
 {
-  "sentence": "Tom ha molti amici?",
+  "sentence": "Ti è piaciuto Tom?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Does Tom have a lot of friends?",
-    "Does Tom have lots of friends?"
+    "Did you like Tom?"
   ],
   "parts": [
+    {
+      "content": "Ti",
+      "translations": [
+        "You",
+        "To you",
+        "For you",
+        "Yourself"
+      ],
+      "usageExamples": [
+        [
+          "Ti ho visto sbadigliare.",
+          "I saw you yawning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti darò questa biro.",
+          "I'll give you this pen.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ti compro un regalo.",
+          "I buy you a present.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "è",
+      "translations": [
+        "it is",
+        "there is",
+        "he is",
+        "she is"
+      ],
+      "usageExamples": [
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had a good time.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "piaciuto",
+      "translations": [
+        "liked",
+        "pleased",
+        "enjoyed",
+        "appreciated"
+      ],
+      "usageExamples": [
+        [
+          "A Marika è piaciuto il suo viaggio in Giappone?",
+          "Did Marika like her trip to Japan?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Marie non è piaciuto quel gioco.",
+          "Marie didn't like that game.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Benedito è piaciuto il suo viaggio in India.",
+          "Benedito enjoyed his trip to India.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
     {
       "content": "Tom",
       "translations": [
@@ -18,85 +95,18 @@
       ],
       "usageExamples": [
         [
-          "Dovresti aiutare Tom.",
-          "You should help Tom.",
+          "Tom si è divertito.",
+          "Tom had some fun.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom è un fan.",
-          "Tom is a fan.",
+          "Mi descriva Tom.",
+          "Describe Tom to me.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Qualcuno sta osservando Tom.",
-          "Someone is watching Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "ha",
-      "translations": [
-        "has",
-        "he has",
-        "there is"
-      ],
-      "usageExamples": [
-        [
-          "Lei ha già finito?",
-          "Have you finished yet?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanti figli ha Tom?",
-          "How many kids does Tom have?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Perché non ha corso?",
-          "Why didn't you run?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "molti",
-      "translations": [
-        "many",
-        "a lot",
-        "numerous",
-        "several"
-      ],
-      "usageExamples": [
-        [
-          "Lui ha molti libri per giovani.",
-          "He has a lot of books for the young.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "amici",
-      "translations": [
-        "friends",
-        "buddies",
-        "companions",
-        "mates"
-      ],
-      "usageExamples": [
-        [
-          "Ho abbastanza amici.",
-          "I have enough friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Mary mancavano i suoi amici.",
-          "Mary missed her friends.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Prendi in prestito le biro dai tuoi amici.",
-          "You borrow pens from your friends.",
+          "Tom è ovviamente arrabbiato.",
+          "Tom is obviously angry.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]

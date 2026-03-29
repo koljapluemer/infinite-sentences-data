@@ -1,28 +1,54 @@
 {
-  "sentence": "Slovence güzel bir dildir.",
+  "sentence": "Seni başlangıçta planlanandan daha çok seviyorum.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Slowenisch ist eine schöne Sprache."
+    "Ich liebe dich ein bisschen mehr als ursprünglich geplant."
   ],
   "parts": [
     {
-      "content": "Slovence",
+      "content": "Seni",
       "translations": [
-        "Slowene",
-        "Slowenisch"
+        "dich",
+        "dir"
       ],
       "usageExamples": []
     },
     {
-      "content": "güzel",
+      "content": "başlangıçta",
       "translations": [
-        "schön",
-        "hübsch"
+        "zu Beginn",
+        "anfangs"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "planlanandan",
+      "translations": [
+        "geplant",
+        "vorgesehen"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "daha",
+      "translations": [
+        "mehr",
+        "noch"
       ],
       "usageExamples": [
+        [
+          "Gerçekten ekonomin doğayı, çevreyi korumaktan daha önemli olduğunu düşünüyorsan, o zaman paranı sayarken nefesini tutmayı bir dene bakalım.",
+          "Wenn du wirklich denkst, die Wirtschaft sei wichtiger als der Umweltschutz, dann versuche mal, den Atem anzuhalten, während du dein Geld zählst.",
+          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
+        ],
+        [
+          "Son zamanlarda daha az hasta bana geliyor.",
+          "In letzter Zeit kamen immer weniger Patienten zu mir.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+        ],
         [
           "Bence daha isabetli ve daha güzel bir sunum olamaz.",
           "Ich glaube, treffender und besser kann man es kaum darstellen.",
@@ -31,37 +57,43 @@
       ]
     },
     {
-      "content": "bir",
+      "content": "çok",
       "translations": [
-        "eins",
-        "ein",
-        "eine"
+        "sehr",
+        "viel"
       ],
       "usageExamples": [
         [
-          "İyi bir kamera aldım.",
-          "Ich habe mir eine gute Kamera gekauft.",
+          "Esperanto öğrenmek çok ilginçtir.",
+          "Esperanto zu lernen ist sehr interessant.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom'un çok zamanı var.",
+          "Tom hat viel Zeit.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!",
+          "Futbola çok ilgim var.",
+          "Ich interessiere mich sehr für Fußball.",
           "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom'un bir kedisi var.",
-          "Tom hat eine Katze.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "dildir",
+      "content": "seviyorum",
       "translations": [
-        "Sprache",
-        "Zunge"
+        "ich liebe dich",
+        "ich mag dich",
+        "liebst"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Yüzmeyi seviyorum.",
+          "Ich schwimme sehr gern.",
+          "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

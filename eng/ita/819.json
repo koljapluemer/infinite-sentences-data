@@ -1,58 +1,115 @@
 {
-  "sentence": "Sa come raggiungerla?",
+  "sentence": "Quanti anni hai, Tom?",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Do you know how to reach her?"
+    "How old are you, Tom?"
   ],
   "parts": [
     {
-      "content": "Sa",
+      "content": "Quanti",
       "translations": [
-        "If",
-        "Whether",
-        "In case",
-        "As long as"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "come",
-      "translations": [
-        "how",
-        "like",
-        "as",
-        "when"
+        "How much?",
+        "How many?",
+        "What is the price?",
+        "What is the cost?"
       ],
       "usageExamples": [
         [
-          "Stavano parlando insieme come vecchi amici.",
-          "They were talking together like old pals.",
-          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "È descritto come un moralista.",
-          "He is described as a moralist.",
+          "Quanti figli ha Tom?",
+          "How many kids does Tom have?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io insegnai a Tom come sopravvivere.",
-          "I taught Tom how to survive.",
+          "Quanti ne hai?",
+          "How many do you have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti anni aveva nella prima foto?",
+          "How old was she in the first photo?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "raggiungerla",
+      "content": "anni",
       "translations": [
-        "to reach her",
-        "to get to her",
-        "to contact her",
-        "to meet her"
+        "years",
+        "ages",
+        "annums",
+        "time periods"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Cookie ha 15 anni.",
+          "Cookie is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A 14 anni, ha iniziato a piantare fragole.",
+          "When he was 14, he started to plant strawberries.",
+          "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)"
+        ],
+        [
+          "Gli alberi pietrificati di Yellowstone sono il risultato di flussi di detriti vulcanici verificatisi circa cinquanta milioni di anni fa.",
+          "Petrified trees in Yellowstone are the result of volcanic debris flows that occurred about 50 million years ago.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "hai",
+      "translations": [
+        "you have",
+        "you've got",
+        "you possess",
+        "you own"
+      ],
+      "usageExamples": [
+        [
+          "Perché li hai attaccati?",
+          "Why did you attack them?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Quanti ne hai?",
+          "How many do you have?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tu hai ordinato qualcosa?",
+          "Did you order something?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tom",
+      "translations": [
+        "Thomas",
+        "Tommy",
+        "Tom"
+      ],
+      "usageExamples": [
+        [
+          "È con Tom, vero?",
+          "You're with Tom, aren't you?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Scusami, sto cercando Tom.",
+          "Excuse me, I'm looking for Tom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom sta gemendo.",
+          "Tom is groaning.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

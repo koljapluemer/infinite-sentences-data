@@ -1,54 +1,59 @@
 {
-  "sentence": "Leyla türbanını çıkarmayı düşünüyordu.",
+  "sentence": "Gaz denizin altında bulundu.",
   "credits": [
-    "Sentence from Tatoeba by SadeceTurkce (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by OsoHombre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Muelisto (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Layla was thinking about taking her hijab off."
+    "Gas has been found below the sea."
   ],
   "parts": [
     {
-      "content": "Leyla",
+      "content": "Gaz",
       "translations": [
-        "Leyla",
-        "Layla"
+        "Gas",
+        "Fuel",
+        "Petrol"
       ],
       "usageExamples": []
     },
     {
-      "content": "türban",
+      "content": "deniz",
       "translations": [
-        "headscarf",
-        "turban"
+        "sea",
+        "ocean"
       ],
       "usageExamples": []
     },
     {
-      "content": "çıkarmak",
+      "content": "altında",
       "translations": [
-        "to take out",
-        "to remove",
-        "to extract",
-        "to issue"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "düşünmek",
-      "translations": [
-        "to think",
-        "to consider",
-        "to reflect",
-        "to ponder"
+        "under",
+        "beneath",
+        "below"
       ],
       "usageExamples": [
         [
-          "Başka bir şey düşünmek zorundayız.",
-          "We have to think of something else.",
+          "Öğretmenler odası ve spor salonu onarım altında.",
+          "The teachers' room and the gym are under renovation.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Güneş altında herhangi bir şey hakkında konuşabilirsiniz.",
+          "You can talk about anything under the sun.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "bulundu",
+      "translations": [
+        "found",
+        "located",
+        "present",
+        "available"
+      ],
+      "usageExamples": []
     }
   ]
 }

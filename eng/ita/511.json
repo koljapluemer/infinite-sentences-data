@@ -1,75 +1,96 @@
 {
-  "sentence": "Lei ci catturerà.",
+  "sentence": "La matematica è divertente.",
   "credits": [
-    "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Amastan (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by PazEr (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Hybrid (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She will catch us.",
-    "You will catch us."
+    "Math is fun."
   ],
   "parts": [
     {
-      "content": "Lei",
+      "content": "La",
       "translations": [
-        "You (formal)",
-        "She",
-        "Mrs.",
-        "Ma'am"
+        "The",
+        "It",
+        "Her",
+        "Them"
       ],
       "usageExamples": [
         [
-          "Lei ha già finito?",
-          "Have you already finished?",
+          "La mangeremo.",
+          "We'll eat it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
+          "La dovete avvertire.",
+          "You've got to warn her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Lei è americano?",
-          "Are you American?",
+          "La ruppe.",
+          "He broke it.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "ci",
+      "content": "matematica",
       "translations": [
-        "us",
-        "to us",
-        "for us",
-        "at us"
+        "mathematics",
+        "math",
+        "arithmetic",
+        "calculations"
       ],
       "usageExamples": [
         [
-          "Loro ci aiutano.",
-          "They help us.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Con chi ci andrà?",
-          "Who are you going with?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Quanto denaro ci dovete?",
-          "How much money do you owe us?",
+          "Voglio studiare matematica.",
+          "I want to study math.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "catturerà",
+      "content": "è",
       "translations": [
-        "will capture",
-        "will seize",
-        "will catch",
-        "will trap"
+        "it is",
+        "there is",
+        "he is",
+        "she is"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Questo è un test?",
+          "Is this a test?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom è un fan.",
+          "Tom is a fan.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom si è divertito.",
+          "Tom had some fun.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "divertente",
+      "translations": [
+        "funny",
+        "entertaining",
+        "amusing",
+        "enjoyable"
+      ],
+      "usageExamples": [
+        [
+          "Questa pagina non è mai stata divertente.",
+          "This page was never funny.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

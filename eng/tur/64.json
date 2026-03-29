@@ -1,36 +1,113 @@
 {
-  "sentence": "Sana anlatmak istemiyorum.",
+  "sentence": "Oh Tanrım, emin değilim ama sanırım çok fazla yedim.",
   "credits": [
-    "Sentence from Tatoeba by Gulo_Luscus (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by gleki (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't want to tell you."
+    "Oh geez, I'm not sure, but I think I ate too much."
   ],
   "parts": [
     {
-      "content": "sana",
+      "content": "Oh",
       "translations": [
-        "to you",
-        "for you",
-        "your",
-        "to your"
+        "Oh.",
+        "Wow",
+        "Ah",
+        "Ouch"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Tanrım",
+      "translations": [
+        "My God",
+        "Oh my God",
+        "God",
+        "Dear God"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "emin",
+      "translations": [
+        "my dear",
+        "my precious",
+        "my beloved"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "değilim",
+      "translations": [
+        "I am not",
+        "I'm not"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ama",
+      "translations": [
+        "but",
+        "however",
+        "yet"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sanırım",
+      "translations": [
+        "I think."
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "çok",
+      "translations": [
+        "very",
+        "a lot",
+        "many",
+        "much"
       ],
       "usageExamples": [
         [
-          "Niçin sana iş vermem gerekiyor?",
-          "Why should I hire you?",
+          "Kendimi çok sıkıyorum.",
+          "I'm really hard on myself.",
+          "Sentence from Tatoeba by soliloquist (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu soba çok fazla tütüyor.",
+          "That stove smokes too much.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom, bunu yapmada Mary'den çok daha iyidir.",
+          "Tom is a lot better at doing that than Mary.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "anlatmak",
+      "content": "fazla",
       "translations": [
-        "to explain",
-        "to narrate",
-        "to describe",
-        "to tell"
+        "too much",
+        "excessive",
+        "a lot",
+        "more than enough"
+      ],
+      "usageExamples": [
+        [
+          "Bu soba çok fazla tütüyor.",
+          "That stove smokes too much.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "yedim",
+      "translations": [
+        "I ate.",
+        "I have eaten."
       ],
       "usageExamples": []
     }

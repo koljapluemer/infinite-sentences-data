@@ -1,108 +1,178 @@
 {
-  "sentence": "Lessi la storia tre volte.",
+  "sentence": "La temperatura minima di oggi era di 3 gradi Celsius.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I read the story three times."
+    "Today's low was 3 degrees Celsius."
   ],
   "parts": [
     {
-      "content": "Lessi",
+      "content": "La",
       "translations": [
-        "I read.",
-        "I have read.",
-        "I was reading."
+        "The",
+        "It",
+        "Her",
+        "Them"
+      ],
+      "usageExamples": [
+        [
+          "La mangeremo.",
+          "We'll eat it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La risposta è complicata.",
+          "The answer is complicated.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "La dovete avvertire.",
+          "You've got to warn her.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "temperatura",
+      "translations": [
+        "temperature",
+        "heat level",
+        "thermal condition",
+        "degree of warmth"
       ],
       "usageExamples": []
     },
     {
-      "content": "la",
+      "content": "minima",
       "translations": [
-        "the",
-        "that",
-        "which",
-        "those"
-      ],
-      "usageExamples": [
-        [
-          "Dov'è la sua casa?",
-          "Where is her house?",
-          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lei è la dottoressa?",
-          "Are you the doctor?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ci serviva la pioggia.",
-          "We needed the rain.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "storia",
-      "translations": [
-        "history",
-        "story",
-        "tale",
-        "narrative"
+        "minimum",
+        "least amount",
+        "smallest",
+        "minimal"
       ],
       "usageExamples": []
     },
     {
-      "content": "tre",
+      "content": "di",
       "translations": [
-        "three",
-        "3",
-        "thrice"
+        "of",
+        "from",
+        "about",
+        "by"
       ],
       "usageExamples": [
         [
-          "Abbiamo scritto tre libri.",
-          "We wrote three books.",
+          "Beve latte di mucca.",
+          "He drinks cow's milk.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Questo ristorante ha tre stelle Michelin.",
-          "This restaurant has three Michelin stars.",
+          "Mi importa di lei.",
+          "I care about her.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Io sono stato un istruttore di sci per tre anni.",
-          "I've been a ski instructor for three years.",
+          "Non scordi di chiamarli.",
+          "Don't forget to call them.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "volte",
+      "content": "oggi",
       "translations": [
-        "turns",
-        "times",
-        "revolutions",
-        "cycles"
+        "today",
+        "this day",
+        "on this day"
       ],
       "usageExamples": [
         [
-          "Tom fa un bagno almeno tre volte a settimana.",
-          "Tom takes a bath at least three times a week.",
-          "Sentence from Tatoeba by Shadd (CC-BY 2.0 FR)"
-        ],
-        [
-          "A volte Mary lo fa e a volte non lo fa.",
-          "Sometimes Mary does that and sometimes she doesn't.",
+          "È andata bene oggi?",
+          "Did it go well today?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A volte, un po' di orgoglio è quello che ci serve.",
-          "Sometimes, a little bit of pride is what we need.",
+          "Voglio andare davvero al parco oggi.",
+          "I really wanna go to the park today.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo devo fare prima di potere andare a casa oggi.",
+          "I have to do that before I can go home today.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "era",
+      "translations": [
+        "was",
+        "used to be",
+        "used to",
+        "was in the process of"
+      ],
+      "usageExamples": [
+        [
+          "Chiese se era invitata.",
+          "She asked if she was invited.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom era creativo.",
+          "Tom was creative.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Chi era qua?",
+          "Who was here?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "3",
+      "translations": [
+        "Item: 3",
+        "Number: 3",
+        "Third item",
+        "3rd"
+      ],
+      "usageExamples": [
+        [
+          "3 per 5 fa 15.",
+          "3 multiplied by 5 is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "5 più 3 fa 8.",
+          "Add 5 to 3 and you have 8.",
+          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "3 moltiplicato per 5 fa 15.",
+          "3 multiplied by 5 is 15.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "gradi",
+      "translations": [
+        "degrees",
+        "gradients",
+        "grades"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Celsius",
+      "translations": [
+        "Centigrade",
+        "Degrees Celsius"
+      ],
+      "usageExamples": []
     }
   ]
 }

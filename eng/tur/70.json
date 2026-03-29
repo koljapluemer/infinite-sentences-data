@@ -1,84 +1,87 @@
 {
-  "sentence": "Tatoeba'da Türkçe ve Estonca cümle yaratıyorsanız, büyük olasılıkla boracaslı'sınızdır.",
+  "sentence": "Onun bir doktor olup olmadığını bilmiyorum.",
   "credits": [
-    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by LittleBoy (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "If you create sentences in Turkish and Estonian on Tatoeba, there's a large chance that you're boracasli."
+    "I don't know if he is a doctor."
   ],
   "parts": [
     {
-      "content": "Tatoeba",
+      "content": "Onun",
       "translations": [
-        "for example",
-        "such as"
+        "his",
+        "her",
+        "its",
+        "His"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
+          "His last album garnered him a fourth Grammy award.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ]
+      ]
     },
     {
-      "content": "Türkçe",
+      "content": "bir",
       "translations": [
-        "Turkish",
-        "in Turkish"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "Estonca",
-      "translations": [
-        "Estonian",
-        "of Estonia"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "cümle",
-      "translations": [
-        "sentence",
-        "clause"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "yaratıyorsanız",
-      "translations": [
-        "if you are creating",
-        "if you are making",
-        "if you are generating"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "büyük",
-      "translations": [
-        "big",
-        "large",
-        "great",
-        "huge"
+        "one",
+        "a",
+        "an"
       ],
       "usageExamples": [
         [
           "Boston büyük bir şehirdir.",
           "Boston is a large city.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O bir üstat değil.",
+          "He is not a virtuoso.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom kötü bir golfçü.",
+          "Tom is a bad golfer.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "olasılıkla",
+      "content": "doktor",
       "translations": [
-        "probably",
-        "likely",
-        "most likely"
+        "doctor",
+        "physician"
       ],
       "usageExamples": []
     },
     {
-      "content": "boracaslı'sınızdır",
+      "content": "olup",
       "translations": [
-        "You are from Borac",
-        "You are a Borac native"
+        "becoming",
+        "happening",
+        "occurring",
+        "taking place"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "olmadığını",
+      "translations": [
+        "that it is not",
+        "that it doesn't exist",
+        "that it isn't",
+        "that there is not"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "bilmiyorum",
+      "translations": [
+        "I don't know.",
+        "I'm not sure."
       ],
       "usageExamples": []
     }

@@ -1,58 +1,68 @@
 {
-  "sentence": "È restato sveglio.",
+  "sentence": "Vorrei una camera.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CH (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Linda_Li (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "He stayed awake."
+    "I would like a room."
   ],
   "parts": [
     {
-      "content": "È",
+      "content": "Vorrei",
       "translations": [
-        "It is",
-        "He is",
-        "She is",
-        "There is"
+        "I would like",
+        "I want",
+        "I would love",
+        "I wish for"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "una",
+      "translations": [
+        "one",
+        "a",
+        "an",
+        "a single"
       ],
       "usageExamples": [
         [
-          "È un ghostwriter.",
-          "He's a ghostwriter.",
-          "Sentence from Tatoeba by riccioberto (CC-BY 2.0 FR)"
-        ],
-        [
-          "È molto bello rivedervi.",
-          "It is very nice to see you again.",
+          "Posso avere una birra?",
+          "Can I have a beer?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "È stata in piedi?",
-          "Did you stand up?",
+          "È una maledizione.",
+          "It's a curse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È stato una delusione.",
+          "It was a disappointment.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "restato",
+      "content": "camera",
       "translations": [
-        "restated",
-        "reiterated",
-        "reaffirmed",
-        "rephrased"
+        "photographic device",
+        "image-capturing device",
+        "photo camera"
       ],
-      "usageExamples": []
-    },
-    {
-      "content": "sveglio",
-      "translations": [
-        "awake",
-        "alert",
-        "smart",
-        "clever"
-      ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "Ho passato tutta la mattina a pulire la mia camera.",
+          "I've spent the entire morning cleaning my room.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom ha la sua propria camera da letto.",
+          "Tom has his own bedroom.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

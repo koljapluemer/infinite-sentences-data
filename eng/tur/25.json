@@ -1,54 +1,120 @@
 {
-  "sentence": "Gerçekten onu ummuyordum.",
+  "sentence": "Doktoru, Tom'a haftanın en az üç gününde alkol içmemesini önerdi.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Konanen (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by patgfisher (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I didn't actually anticipate that."
+    "The doctor advised Tom to have at least three alcohol-free days per week."
   ],
   "parts": [
     {
-      "content": "gerçekten",
+      "content": "Doktoru",
       "translations": [
-        "really",
-        "truly",
-        "actually",
-        "genuinely"
+        "the doctor",
+        "doctor's"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Tom'a",
+      "translations": [
+        "Tom's",
+        "Tom's place",
+        "Tom's house"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "haftanın",
+      "translations": [
+        "of the week",
+        "weekly"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "en",
+      "translations": [
+        "yes",
+        "in agreement"
       ],
       "usageExamples": [
         [
-          "O benim için gerçekten eğlenceliydi.",
-          "That was really fun for me.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+          "Tom en iyi değil.",
+          "Tom isn't the best.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "onu",
+      "content": "az",
       "translations": [
-        "that",
-        "it",
-        "him/her",
-        "him"
+        "low",
+        "few",
+        "little",
+        "less"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "üç",
+      "translations": [
+        "three",
+        "3"
       ],
       "usageExamples": [
         [
-          "Onu yazmamalıydık.",
-          "We shouldn't have written that.",
+          "Soğuk algınlığımı atlatmam üç haftamı aldı.",
+          "It took three weeks for me to get over my cold.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Onu hemen yapman gerekmiyor.",
-          "You don't have to do it right away.",
+          "Tom, Mary'ye üç yüz dolar verdi.",
+          "Tom gave Mary three hundred dollars.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Tom bana aslında onu yapmak istemediğini söyledi.",
-          "Tom told me he didn't actually want to do that.",
+          "Bunu yapmak zorunda kalacak üç adamdan biriyim.",
+          "I'm one of the three guys who'll have to do that.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "gününde",
+      "translations": [
+        "on time",
+        "in due time",
+        "on the day",
+        "in a timely manner"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "alkol",
+      "translations": [
+        "alcohol",
+        "liquor",
+        "spirits"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "içmemesini",
+      "translations": [
+        "not to drink",
+        "to refrain from drinking"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "önerdi",
+      "translations": [
+        "recommended",
+        "suggested"
+      ],
+      "usageExamples": []
     }
   ]
 }

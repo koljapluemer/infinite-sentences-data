@@ -1,92 +1,191 @@
 {
-  "sentence": "Ella está trabajando muy duro.",
+  "sentence": "El hambre llevó al muchacho a robar dinero de la caja registradora.",
   "credits": [
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CC (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by papabear (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "She is very hardworking."
+    "Hunger compelled the boy to steal money from the cash register."
   ],
   "parts": [
     {
-      "content": "Ella",
+      "content": "El",
       "translations": [
-        "She",
-        "Her"
+        "The",
+        "He"
       ],
       "usageExamples": [
         [
-          "Ella me pidió ayuda.",
-          "She asked me for help.",
+          "El tiempo está muy malo.",
+          "The weather is very bad.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ella le escribió una carta larga, pero él no la leyó.",
-          "She wrote him a long letter, but he didn't read it.",
+          "El gran crítico y el poeta viajan juntos.",
+          "The great critic and the poet are traveling together.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ],
         [
-          "Ella eligió un vestido azul claro.",
-          "She chose a light blue dress.",
+          "El carámbano es una columna de hielo.",
+          "An icicle is a pillar of ice.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "está",
+      "content": "hambre",
       "translations": [
-        "is",
-        "are"
+        "hunger",
+        "starvation",
+        "appetite"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "llevó",
+      "translations": [
+        "carried"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "al",
+      "translations": [
+        "to the",
+        "at the",
+        "in the"
       ],
       "usageExamples": [
         [
-          "Aquí está mi equipaje.",
-          "Here is my baggage.",
+          "Le pedí al mayordomo que nos sirviese un café.",
+          "I asked the butler to serve us some coffee.",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Lo llamé al llegar a Tokio.",
+          "On arriving in Tokyo, I called him up.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Repetirás esta oración cinco veces al día.",
+          "You'll repeat this sentence five times a day.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "muchacho",
+      "translations": [
+        "boy"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "a",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Dejemos a Tom.",
+          "Let's ditch Tom.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Escriba a su congresista.",
+          "Write your congressman.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Llegaste a tiempo.",
+          "You arrived on time.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "robar",
+      "translations": [
+        "to steal"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "dinero",
+      "translations": [
+        "money",
+        "cash",
+        "funds",
+        "currency"
+      ],
+      "usageExamples": [
+        [
+          "Dijo que tenía mucho dinero.",
+          "He said that he had a lot of money.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "de",
+      "translations": [
+        "to"
+      ],
+      "usageExamples": [
+        [
+          "Vengo de la playa.",
+          "I just came from the beach.",
+          ""
+        ],
+        [
+          "A veces nuestras plegarias no son respondidas de la manera en la que querríamos.",
+          "Sometimes our prayers aren't answered the way we want them to be.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ],
+        [
+          "Iremos cuando pare de llover.",
+          "We'll go when it quits raining.",
+          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "La casa es grande.",
+          "The house is large.",
+          ""
+        ],
+        [
+          "La comida está lista.",
+          "The food is ready.",
+          ""
         ],
         [
           "¿Está buena la limonada?",
           "Is the lemonade good?",
           "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "El ruido me está volviendo loco.",
-          "The noise is driving me crazy.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "muy",
+      "content": "caja",
       "translations": [
-        "very",
-        "really",
-        "quite"
+        "box",
+        "cash register",
+        "drawer",
+        "case"
       ],
-      "usageExamples": [
-        [
-          "Fue muy decepcionante.",
-          "It was very upsetting.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Me siento muy enfermo.",
-          "I feel very sick.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Aquí me siento muy solo.",
-          "I feel very lonely here.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "duro",
+      "content": "registradora",
       "translations": [
-        "hard",
-        "tough",
-        "stiff"
+        "cashier"
       ],
       "usageExamples": []
     }

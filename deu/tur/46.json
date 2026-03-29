@@ -1,36 +1,30 @@
 {
-  "sentence": "Dokuza çeyrek var.",
+  "sentence": "Ciddi bir konuşmaya başladık.",
   "credits": [
-    "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Es ist Viertel vor neun."
+    "Wir begannen eine ernsthafte Unterhaltung."
   ],
   "parts": [
     {
-      "content": "Dokuza",
+      "content": "Ciddi",
       "translations": [
-        "Neun",
-        "Neun Stück"
+        "ernst",
+        "seriös"
       ],
       "usageExamples": []
     },
     {
-      "content": "çeyrek",
+      "content": "bir",
       "translations": [
-        "Viertel",
-        "Viertelstunde"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "var",
-      "translations": [
-        "var",
-        "es gibt",
-        "sind",
-        "hat"
+        "eins",
+        "ein",
+        "eine",
+        "einem",
+        "einer",
+        "eines"
       ],
       "usageExamples": [
         [
@@ -39,16 +33,33 @@
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Köyde beş inek var.",
-          "Im Dorf gibt es fünf Rinder.",
-          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
+          "İyi bir kamera aldım.",
+          "Ich habe mir eine gute Kamera gekauft.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Bir alternatifin var.",
-          "Du hast eine Alternative.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Slovence güzel bir dildir.",
+          "Slowenisch ist eine schöne Sprache.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
+    },
+    {
+      "content": "konuşma",
+      "translations": [
+        "Gespräch",
+        "Unterhaltung",
+        "Rede"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "başladık",
+      "translations": [
+        "wir haben begonnen",
+        "wir fangen an"
+      ],
+      "usageExamples": []
     }
   ]
 }

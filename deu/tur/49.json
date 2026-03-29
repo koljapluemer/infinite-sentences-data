@@ -1,48 +1,77 @@
 {
-  "sentence": "Dünden beri Tom'u görmedim.",
+  "sentence": "Dolap kapağını sola doğru açın , şişeler oradadır.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by erayavci (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ich habe Tom seit gestern nicht gesehen."
+    "Mach den Schrank auf der linken Seite auf, dort sind die Flaschen."
   ],
   "parts": [
     {
-      "content": "Dünden",
+      "content": "Dolap",
       "translations": [
-        "von gestern",
-        "gestern"
+        "Schrank",
+        "Regal"
       ],
       "usageExamples": []
     },
     {
-      "content": "beri",
+      "content": "kapağı",
       "translations": [
-        "geben",
-        "hergeben",
-        "übergeben"
+        "Deckel",
+        "Kapuze",
+        "Bedeckung"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sola",
+      "translations": [
+        "allein",
+        "einsam",
+        "nur"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "doğru",
+      "translations": [
+        "richtig",
+        "korrekt",
+        "stimmt",
+        "wahr"
       ],
       "usageExamples": [
         [
-          "O zamandan beri onu kimse görmedi.",
-          "Niemand hat ihn mehr gesehen seitdem.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+          "Bunun doğru olmadığını iddia ediyorum.",
+          "Ich behaupte, dass das nicht stimmt.",
+          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Tom'u",
+      "content": "açın",
       "translations": [
-        "Tom"
+        "öffnen",
+        "aufmachen"
       ],
       "usageExamples": []
     },
     {
-      "content": "görmedim",
+      "content": "şişeler",
       "translations": [
-        "Ich habe nicht gesehen",
-        "Ich habe es nicht gesehen"
+        "Flaschen",
+        "Gläser"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "oradadır",
+      "translations": [
+        "da",
+        "dort",
+        "an diesem Ort"
       ],
       "usageExamples": []
     }

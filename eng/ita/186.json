@@ -1,72 +1,140 @@
 {
-  "sentence": "Beh, sicuramente lo richiederò.",
+  "sentence": "A chi non piace quello?",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CM (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Well, I'll surely ask again."
+    "Who doesn't like that?"
   ],
   "parts": [
     {
-      "content": "Beh",
+      "content": "A",
       "translations": [
-        "Well",
-        "So"
+        "Item: A",
+        "Article: A",
+        "Object: A"
       ],
       "usageExamples": [
         [
-          "Beh, eccoci qui alla fine!",
-          "Well, here we are at last!",
+          "A Fadil piaceva scommettere.",
+          "Fadil liked to gamble.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "sicuramente",
+      "content": "chi",
       "translations": [
-        "certainly",
-        "surely",
-        "definitely",
-        "without a doubt"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "lo",
-      "translations": [
-        "the",
-        "it",
-        "him",
+        "who",
+        "whom",
+        "which",
         "that"
       ],
       "usageExamples": [
         [
-          "Disse che lo amava.",
-          "She said she loved him.",
+          "Sai chi intendo.",
+          "You know who I mean.",
+          "Sentence from Tatoeba by Vallysing (CC-BY 2.0 FR)"
+        ],
+        [
+          "Con chi ci andrà?",
+          "Who are you going with?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
+        [
+          "Non sappiamo nemmeno con chi si è sposato Tom.",
+          "We don't even know who Tom got married to.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "non",
+      "translations": [
+        "not",
+        "no",
+        "none",
+        "never"
+      ],
+      "usageExamples": [
         [
           "Certamente non lo odiava.",
           "She certainly did not hate him.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "Tom non lo vorrebbe.",
-          "Tom wouldn't want this.",
+          "Preferirei non farlo.",
+          "I'd rather not do it.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Perché non ha corso?",
+          "Why didn't you run?",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "richiederò",
+      "content": "piace",
       "translations": [
-        "I will request",
-        "I will ask for",
-        "I will demand",
-        "I will require"
+        "to like",
+        "to please",
+        "to be pleasing to"
       ],
-      "usageExamples": []
+      "usageExamples": [
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A Judy piace.",
+          "Judy likes him.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Mi piace il reggae.",
+          "I like reggae.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "quello",
+      "translations": [
+        "that",
+        "the one",
+        "those",
+        "the"
+      ],
+      "usageExamples": [
+        [
+          "È quello che sono.",
+          "It's what I am.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Tom non aveva nulla a che fare con tutto quello.",
+          "Tom had nothing to do with any of that.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "È più freddo di quello che solitamente sperimentiamo.",
+          "It's colder than what we usually experience.",
+          "Sentence from Tatoeba by Nuel (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

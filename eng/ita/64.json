@@ -1,11 +1,11 @@
 {
-  "sentence": "A Ken piace andare in campeggio.",
+  "sentence": "A Felicja piace guardare la TV.",
   "credits": [
     "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by CN (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Ken likes camping."
+    "Felicja enjoys watching TV."
   ],
   "parts": [
     {
@@ -17,46 +17,29 @@
       ],
       "usageExamples": [
         [
-          "A Fadil piaceva sciare.",
-          "Fadil liked to ski.",
-          "Sentence from Tatoeba by dnnywld (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Fadil piaceva scommettere.",
-          "Fadil liked to gamble.",
+          "A Mary manca Boston.",
+          "Mary misses Boston.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
-          "A Judy piace lui.",
-          "Judy likes him.",
+          "A Larry piace l'aragosta.",
+          "Larry likes lobster.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "A John piace l'infermiera.",
+          "John likes the nurse.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "Ken",
+      "content": "Felicja",
       "translations": [
-        "Ken",
-        "Yes.",
-        "Okay."
+        "Felicia",
+        "Happy"
       ],
-      "usageExamples": [
-        [
-          "A Ken mancava Tom.",
-          "Ken missed Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Ken piace davvero Tom.",
-          "Ken does like Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "A Ken piace sul serio Tom.",
-          "Ken does like Tom.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
       "content": "piace",
@@ -67,8 +50,8 @@
       ],
       "usageExamples": [
         [
-          "Mi piace il reggae.",
-          "I like reggae.",
+          "A Lucy piace Mary.",
+          "Lucy likes Mary.",
           "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
         ],
         [
@@ -84,64 +67,53 @@
       ]
     },
     {
-      "content": "andare",
+      "content": "guardare",
       "translations": [
-        "to go",
-        "to walk",
-        "to move",
-        "to travel"
-      ],
-      "usageExamples": [
-        [
-          "Devo andare a trovarli.",
-          "I have to go find them.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vuole andare per prima?",
-          "Do you want to go first?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Lasci andare il ragazzo.",
-          "Let the boy go.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "in",
-      "translations": [
-        "inside",
-        "within",
-        "into"
-      ],
-      "usageExamples": [
-        [
-          "Era in ritardo.",
-          "He was late.",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Domani andiamo in montagna.",
-          "Tomorrow we'll go to the mountains.",
-          "Sentence from Tatoeba by Tore (CC-BY 2.0 FR)"
-        ],
-        [
-          "È stata in piedi?",
-          "Did you stand up?",
-          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "campeggio",
-      "translations": [
-        "camping",
-        "campsite",
-        "campground"
+        "to watch"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "la",
+      "translations": [
+        "the",
+        "that",
+        "which",
+        "those"
+      ],
+      "usageExamples": [
+        [
+          "Dov'è la sua casa?",
+          "Where is her house?",
+          "Sentence from Tatoeba by ver (CC-BY 2.0 FR)"
+        ],
+        [
+          "Cosa la sta causando?",
+          "What's causing it?",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ho ammesso la sconfitta.",
+          "I admitted defeat.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "TV",
+      "translations": [
+        "television",
+        "TV set",
+        "television set",
+        "flat-screen TV"
+      ],
+      "usageExamples": [
+        [
+          "Io guardo la TV quasi ogni sera.",
+          "I watch TV almost every night.",
+          "Sentence from Tatoeba by Guybrush88 (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

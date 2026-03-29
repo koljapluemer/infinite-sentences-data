@@ -1,11 +1,11 @@
 {
-  "sentence": "Bu şehrin nüfusu her yıl azalıyor.",
+  "sentence": "Bu ücretsiz ulaşılabilir.",
   "credits": [
-    "Sentence from Tatoeba by yavuz (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Die Bevölkerung dieser Stadt wird jedes Jahr kleiner."
+    "Das ist kostenlos erhältlich."
   ],
   "parts": [
     {
@@ -13,17 +13,22 @@
       "translations": [
         "Das",
         "Dieses",
-        "Das hier"
+        "Das hier",
+        "Der",
+        "Dies",
+        "Diesen",
+        "Dieser",
+        "Es"
       ],
       "usageExamples": [
         [
-          "Bu ücretsiz ulaşılabilir.",
-          "Das ist kostenlos erhältlich.",
-          "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)"
-        ],
-        [
           "Bu sağduyu.",
           "Das entspricht dem gesunden Menschenverstand.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "Bu kurallara aykırıdır.",
+          "Es ist gegen die Regeln.",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
@@ -34,48 +39,18 @@
       ]
     },
     {
-      "content": "şehrin",
+      "content": "ücretsiz",
       "translations": [
-        "der Stadt",
-        "der Stadtteil"
+        "kostenlos",
+        "gratis"
       ],
       "usageExamples": []
     },
     {
-      "content": "nüfusu",
+      "content": "ulaşılabilir",
       "translations": [
-        "Bevölkerung",
-        "Einwohnerzahl"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "her",
-      "translations": [
-        "hier",
-        "da"
-      ],
-      "usageExamples": [
-        [
-          "Ne yazık ki, her zaman çok fazla veriyorum.",
-          "Ich gebe leider immer zu viel.",
-          "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "yıl",
-      "translations": [
-        "Jahr",
-        "Jahre"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "azalıyor",
-      "translations": [
-        "nimmt ab",
-        "verringert sich"
+        "erreichbar",
+        "zugänglich"
       ],
       "usageExamples": []
     }

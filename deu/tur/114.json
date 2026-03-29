@@ -1,77 +1,52 @@
 {
-  "sentence": "Tom'un bir kedisi var.",
+  "sentence": "Tom gelince, gidiyorum.",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by ruth_tatoeba (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom hat eine Katze."
+    "Wenn Tom kommt, gehe ich."
   ],
   "parts": [
     {
-      "content": "bir",
+      "content": "Tom",
       "translations": [
-        "eins",
-        "ein",
-        "eine"
+        "Tom"
       ],
       "usageExamples": [
         [
-          "Ciddi bir konuşmaya başladık.",
-          "Wir begannen eine ernsthafte Unterhaltung.",
-          "Sentence from Tatoeba by elifcakir (CC-BY 2.0 FR)"
+          "Hangi dilleri konuşabiliyorsun, Tom?",
+          "Welche Sprachen sprichst du, Tom?",
+          "Sentence from Tatoeba by maydoo (CC-BY 2.0 FR)"
         ],
         [
-          "İyi bir başlangıç oldu!",
-          "Das fängt ja gut an!",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
+          "Tom, buna vaktimiz yok!",
+          "Tom, wir haben dafür keine Zeit!",
+          "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)"
         ],
         [
-          "Slovence güzel bir dildir.",
-          "Slowenisch ist eine schöne Sprache.",
+          "Bugün Tom, Mary'yi gördü.",
+          "Tom hat Mary heute gesehen.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "kedisi",
+      "content": "gelince",
       "translations": [
-        "Katze",
-        "Kätzchen"
+        "wenn er/sie kommt",
+        "bei Ankunft",
+        "bei Eintreffen"
       ],
-      "usageExamples": [
-        [
-          "Onun bir kedisi ve iki köpeği var.",
-          "Sie hat eine Katze und zwei Hunde.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "var",
+      "content": "gidiyorum",
       "translations": [
-        "var",
-        "es gibt",
-        "sind",
-        "hat"
+        "Ich gehe",
+        "Ich bin unterwegs"
       ],
-      "usageExamples": [
-        [
-          "Futbola çok ilgim var.",
-          "Ich interessiere mich sehr für Fußball.",
-          "Sentence from Tatoeba by haciahmet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Dokuza çeyrek var.",
-          "Es ist Viertel vor neun.",
-          "Sentence from Tatoeba by Adelpa (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bir alternatifin var.",
-          "Du hast eine Alternative.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     }
   ]
 }

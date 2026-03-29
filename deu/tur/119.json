@@ -1,66 +1,36 @@
 {
-  "sentence": "Tom, buna vaktimiz yok!",
+  "sentence": "Tom'a özellikle güvenmiyoruz.",
   "credits": [
-    "Sentence from Tatoeba by vvv123 (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by dryaco (CC-BY 2.0 FR)",
     "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Tom, wir haben dafür keine Zeit!"
+    "Wir trauen Tom nicht besonders."
   ],
   "parts": [
     {
-      "content": "Tom",
+      "content": "Tom'a",
       "translations": [
         "Tom"
       ],
-      "usageExamples": [
-        [
-          "Tom, Avustralya'da olduğunu söyledi.",
-          "Tom hat gesagt, dass er in Australien ist.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ],
-        [
-          "Tom Boston'da kalıyor.",
-          "Tom bleibt in Boston.",
-          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
-        ],
-        [
-          "Bugün Tom, Mary'yi gördü.",
-          "Tom hat Mary heute gesehen.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ]
-      ]
+      "usageExamples": []
     },
     {
-      "content": "buna",
+      "content": "özellikle",
       "translations": [
-        "das hier",
-        "dieses"
+        "insbesondere",
+        "vor allem",
+        "besonders"
       ],
       "usageExamples": []
     },
     {
-      "content": "vaktimiz",
+      "content": "güvenmiyoruz",
       "translations": [
-        "unsere Zeit",
-        "unser Termin"
+        "Wir vertrauen nicht.",
+        "Wir haben kein Vertrauen."
       ],
       "usageExamples": []
-    },
-    {
-      "content": "yok",
-      "translations": [
-        "nicht",
-        "kein",
-        "keinen"
-      ],
-      "usageExamples": [
-        [
-          "Tom'un Avustralyalı aksanı yok.",
-          "Tom hat keinen australischen Akzent.",
-          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
-        ]
-      ]
     }
   ]
 }

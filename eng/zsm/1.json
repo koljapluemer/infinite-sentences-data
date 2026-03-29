@@ -1,37 +1,68 @@
 {
-  "sentence": "Monyet panjat pokok.",
+  "sentence": "Boleh saya pinjam duit awak?",
   "credits": [
-    "Sentence from Tatoeba by sestersparrow (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by Adou_Fr (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by feudalism (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Monkeys climb trees."
+    "Could I borrow your money?"
   ],
   "parts": [
     {
-      "content": "Monyet",
+      "content": "Boleh",
       "translations": [
-        "monkey",
-        "ape"
+        "Can",
+        "Able to",
+        "May",
+        "Allowed to"
       ],
       "usageExamples": []
     },
     {
-      "content": "panjat",
+      "content": "saya",
       "translations": [
-        "climb",
-        "ascend",
-        "scale"
+        "I",
+        "me"
+      ],
+      "usageExamples": [
+        [
+          "Saya ingin beli baju untuk adik saya.",
+          "I want to buy a shirt for my little brother.",
+          "Sentence from Tatoeba by Adou_Fr (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "pinjam",
+      "translations": [
+        "borrow",
+        "lend"
       ],
       "usageExamples": []
     },
     {
-      "content": "pokok",
+      "content": "duit",
       "translations": [
-        "tree",
-        "plant"
+        "money",
+        "cash",
+        "funds",
+        "currency"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "awak",
+      "translations": [
+        "you",
+        "your"
+      ],
+      "usageExamples": [
+        [
+          "Saya tahu awak akan kata tak boleh.",
+          "I know you're going to say no.",
+          "Sentence from Tatoeba by feudalism (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

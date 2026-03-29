@@ -1,89 +1,80 @@
 {
-  "sentence": "Onun bir doktor olup olmadığını bilmiyorum.",
+  "sentence": "O istasyonun adı ne?",
   "credits": [
-    "Sentence from Tatoeba by duran (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by lukaszpp (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I don't know if he is a doctor."
+    "What's the name of that station?"
   ],
   "parts": [
     {
-      "content": "Onun",
+      "content": "O",
       "translations": [
-        "his",
-        "her",
-        "its",
-        "His"
+        "Oh.",
+        "O",
+        "Wow",
+        "Hey."
       ],
       "usageExamples": [
         [
-          "Onun son albümü, ona dördüncü Grammy ödülünü kazandırdı.",
-          "His last album garnered him a fourth Grammy award.",
+          "O yoga öğretiyor.",
+          "She teaches yoga.",
+          "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
+        ],
+        [
+          "O birkaç haftadır kayıp.",
+          "She had been missing for a couple of weeks.",
+          "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
+        ],
+        [
+          "O kazağı beğeniyorum.",
+          "I like that sweater.",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "bir",
+      "content": "istasyonun",
       "translations": [
-        "one",
-        "a",
-        "an"
+        "the station's",
+        "of the station"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "adı",
+      "translations": [
+        "name",
+        "title"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "ne",
+      "translations": [
+        "what",
+        "huh",
+        "right",
+        "no way"
       ],
       "usageExamples": [
         [
-          "O bir üstat değil.",
-          "He is not a virtuoso.",
+          "Şu an ne yiyorsun?",
+          "What are you eating right now?",
           "Sentence from Tatoeba by deyta (CC-BY 2.0 FR)"
         ],
         [
-          "Ve bu bir plaj.",
-          "And this is a beach.",
+          "Peki, ona ne denir?",
+          "Well, what's it called?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ],
         [
-          "Sen gerçek bir zavallısın.",
-          "You're a real loser.",
+          "Yaralılar ne kadar kan kaybetti?",
+          "How much blood has the injured lost?",
           "Sentence from Tatoeba by duran (CC-BY 2.0 FR)"
         ]
       ]
-    },
-    {
-      "content": "doktor",
-      "translations": [
-        "doctor",
-        "physician"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "olup",
-      "translations": [
-        "becoming",
-        "happening",
-        "occurring",
-        "taking place"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "olmadığını",
-      "translations": [
-        "that it is not",
-        "that it doesn't exist",
-        "that it isn't",
-        "that there is not"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "bilmiyorum",
-      "translations": [
-        "I don't know.",
-        "I'm not sure."
-      ],
-      "usageExamples": []
     }
   ]
 }

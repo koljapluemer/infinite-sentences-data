@@ -1,48 +1,6 @@
 {
-  "apc": {
-    "displayName": "Levantine Arabic",
-    "symbols": [
-      "🇸🇾",
-      "🇱🇧",
-      "ض",
-      "🇵🇸"
-    ],
-    "aiNote": "Ensure to actually produce Levantine Arabic as spoken in Syria, Lebanon or Palestine, not textbook MSA. Return Arabic script. If you want to include a gap in the text, use the (U+0640 TATWEEL) character"
-  },
-  "arq": {
-    "displayName": "Algerian Arabic",
-    "symbols": []
-  },
-  "arz": {
-    "displayName": "Egyptian Arabic",
-    "symbols": [
-      "ض",
-      "🇪🇬"
-    ],
-    "aiNote": "Ensure to actually produce spoken Egyptian Arabic, not textbook MSA. Return Arabic script. If you want to include a gap in the text, use the (U+0640 TATWEEL) character"
-  },
-  "asm": {
-    "displayName": "Assamese",
-    "symbols": []
-  },
-  "ben": {
-    "displayName": "Bangla",
-    "symbols": []
-  },
-  "ber": {
-    "displayName": "Berber languages",
-    "symbols": []
-  },
   "bul": {
     "displayName": "Bulgarian",
-    "symbols": []
-  },
-  "cat": {
-    "displayName": "Catalan",
-    "symbols": []
-  },
-  "cbk": {
-    "displayName": "Chavacano",
     "symbols": []
   },
   "ces": {
@@ -60,10 +18,6 @@
       "🇦🇹",
       "ä"
     ]
-  },
-  "dtp": {
-    "displayName": "Central Dusun",
-    "symbols": []
   },
   "eng": {
     "displayName": "English",
@@ -84,32 +38,8 @@
       "🇨🇩"
     ]
   },
-  "gle": {
-    "displayName": "Irish",
-    "symbols": []
-  },
   "gos": {
     "displayName": "Gronings",
-    "symbols": []
-  },
-  "hin": {
-    "displayName": "Hindi",
-    "symbols": []
-  },
-  "hoc": {
-    "displayName": "Ho",
-    "symbols": []
-  },
-  "hrv": {
-    "displayName": "Croatian",
-    "symbols": []
-  },
-  "hye": {
-    "displayName": "Armenian",
-    "symbols": []
-  },
-  "ina": {
-    "displayName": "Interlingua",
     "symbols": []
   },
   "ita": {
@@ -131,18 +61,6 @@
     "displayName": "Latin",
     "symbols": []
   },
-  "lit": {
-    "displayName": "Lithuanian",
-    "symbols": []
-  },
-  "mar": {
-    "displayName": "Marathi",
-    "symbols": []
-  },
-  "mkd": {
-    "displayName": "Macedonian",
-    "symbols": []
-  },
   "nld": {
     "displayName": "Dutch",
     "symbols": []
@@ -150,20 +68,6 @@
   "nob": {
     "displayName": "Norwegian Bokmål",
     "symbols": []
-  },
-  "nst": {
-    "displayName": "Tase Naga",
-    "symbols": []
-  },
-  "pam": {
-    "displayName": "Pampanga",
-    "symbols": []
-  },
-  "rus": {
-    "displayName": "Russian",
-    "symbols": [
-      "🇷🇺"
-    ]
   },
   "spa": {
     "displayName": "Spanish",
@@ -173,18 +77,6 @@
       "🇪🇸"
     ],
     "aiNote": "Focus on spoken, conventional Spanish. Give South American Spanish the same weight as European Spanish."
-  },
-  "srp": {
-    "displayName": "Serbian",
-    "symbols": []
-  },
-  "tat": {
-    "displayName": "Tatar",
-    "symbols": []
-  },
-  "tgl": {
-    "displayName": "Filipino",
-    "symbols": []
   },
   "tha": {
     "displayName": "Thai",
@@ -199,13 +91,5 @@
     "symbols": [
       "🇹🇷"
     ]
-  },
-  "yid": {
-    "displayName": "Yiddish",
-    "symbols": []
-  },
-  "zsm": {
-    "displayName": "Standard Malay",
-    "symbols": []
   }
 }

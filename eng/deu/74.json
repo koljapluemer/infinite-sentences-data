@@ -1,127 +1,27 @@
 {
-  "sentence": "Sie haben mich nicht verstanden. Ich meinte etwas anderes.",
+  "sentence": "Setzen Sie sich mit meinem Assistenten in Verbindung, wenn Sie Fragen haben.",
   "credits": [
-    "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Dejo (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by raggione (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by Scott (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "You didn't understand me. I meant something else."
+    "Contact my assistant if you have any questions."
   ],
   "parts": [
+    {
+      "content": "Setzen",
+      "translations": [
+        "to set",
+        "to place",
+        "to put",
+        "to establish"
+      ],
+      "usageExamples": []
+    },
     {
       "content": "Sie",
       "translations": [
         "You (formal)"
-      ],
-      "usageExamples": [
-        [
-          "Wir haben von diesen Voraussetzungen abgesehen, damit Sie Ihren Abschluss machen können.",
-          "We waived those requirements so you can graduate.",
-          "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
-        ],
-        [
-          "Brauchen Sie Hilfe beim Wohnungseinzug?",
-          "Do you need assistance with moving into the apartment?",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
-        ],
-        [
-          "Ich bin so froh, dass Sie meinen kleinen Jungen gefunden haben.",
-          "I'm so glad you found my little boy.",
-          "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "haben",
-      "translations": [
-        "to have"
-      ],
-      "usageExamples": [
-        [
-          "Meinen Sie das, was ich glaube, verstanden zu haben?",
-          "Are you saying what I think you're saying?",
-          "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
-        ],
-        [
-          "Wir haben nicht damit gerechnet, dass sie sich ein neues Auto kaufen würden.",
-          "We didn't anticipate their buying a new car.",
-          "Sentence from Tatoeba by jxan (CC-BY 2.0 FR)"
-        ],
-        [
-          "Vergewissern Sie sich noch einmal, daß Sie niemanden vergessen haben!",
-          "Make sure that you haven't forgotten anyone.",
-          "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "mich",
-      "translations": [
-        "me",
-        "myself"
-      ],
-      "usageExamples": [
-        [
-          "Wofür, um alles in der Welt, haben Sie mich gehalten?",
-          "What on earth did you take me for?",
-          "Sentence from Tatoeba by Naina (CC-BY 2.0 FR)"
-        ],
-        [
-          "Meine Freunde haben mich wegen meines dummen Verhaltens ausgeschimpft.",
-          "My friends scolded me for my stupid behavior.",
-          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
-        ],
-        [
-          "Warum hast du mich von deiner Freundesliste runtergeschmissen?",
-          "Why did you unfriend me?",
-          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "nicht",
-      "translations": [
-        "not",
-        "no"
-      ],
-      "usageExamples": [
-        [
-          "Man soll nicht jeden x-beliebigen damit betrauen, auf seine Kinder aufzupassen!",
-          "Don't just trust anyone to babysit your children.",
-          "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
-        ],
-        [
-          "Du kannst dieses Wort nicht in meinem Land sagen.",
-          "You can't say that word in my country!",
-          "Sentence from Tatoeba by bonny37 (CC-BY 2.0 FR)"
-        ],
-        [
-          "Es weiß ja keiner, dass du hier bist. Sorge dich also nicht!",
-          "Nobody knows that you're here, so don't worry.",
-          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "verstanden",
-      "translations": [
-        "understood",
-        "got it",
-        "comprehended",
-        "clear"
-      ],
-      "usageExamples": [
-        [
-          "Meinen Sie das, was ich glaube, verstanden zu haben?",
-          "Are you saying what I think you're saying?",
-          "Sentence from Tatoeba by al_ex_an_der (CC-BY 2.0 FR)"
-        ]
-      ]
-    },
-    {
-      "content": "Ich",
-      "translations": [
-        "I"
       ],
       "usageExamples": [
         [
@@ -130,34 +30,157 @@
           "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
         ],
         [
-          "Ich habe das Handtuch vergessen.",
-          "I forgot my towel.",
-          "Sentence from Tatoeba by unknown (CC-BY 2.0 FR)"
+          "Vergewissern Sie sich noch einmal, daß Sie niemanden vergessen haben!",
+          "Make sure that you haven't forgotten anyone.",
+          "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
         ],
         [
-          "Ich habe dir doch gesagt, dass du nie wieder hierher kommen sollst.",
-          "I've told you never to come here again.",
-          "Sentence from Tatoeba by Yorwba (CC-BY 2.0 FR)"
+          "Sie haben meinen Glauben an die Menschheit wiederhergestellt.",
+          "You have restored my faith in humanity.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "meinte",
+      "content": "sich",
       "translations": [
-        "meant",
-        "thought",
-        "intended",
-        "said"
+        "oneself",
+        "to oneself",
+        "himself",
+        "herself"
+      ],
+      "usageExamples": [
+        [
+          "Seine Mitschüler machen sich immer über diesen Jungen lustig.",
+          "The boy is always mocked by his classmates.",
+          "Sentence from Tatoeba by lilygilder (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wir haben nicht damit gerechnet, dass sie sich ein neues Auto kaufen würden.",
+          "We didn't anticipate their buying a new car.",
+          "Sentence from Tatoeba by jxan (CC-BY 2.0 FR)"
+        ],
+        [
+          "Es wird sich bestimmt sofort ein Mieter für dieses Haus finden.",
+          "This house will rent easily.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "meinem",
+      "translations": [
+        "my",
+        "mine"
+      ],
+      "usageExamples": [
+        [
+          "Dieser Mantel ist im Vergleich zu meinem minderwertiger.",
+          "This overcoat is inferior to mine in quality.",
+          "Sentence from Tatoeba by Tamy (CC-BY 2.0 FR)"
+        ],
+        [
+          "Du kannst dieses Wort nicht in meinem Land sagen.",
+          "You can't say that word in my country!",
+          "Sentence from Tatoeba by bonny37 (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Assistenten",
+      "translations": [
+        "assistants",
+        "aides",
+        "helpers"
       ],
       "usageExamples": []
     },
     {
-      "content": "anderes",
+      "content": "in",
       "translations": [
-        "other",
-        "different"
+        "in"
+      ],
+      "usageExamples": [
+        [
+          "Willst du wirklich Maria in deiner Mannschaft haben?",
+          "Do you really want Mary in your team?",
+          "Sentence from Tatoeba by brauchinet (CC-BY 2.0 FR)"
+        ],
+        [
+          "Johannes reizte Tom mit Absicht, damit dieser in solche Berserkerwut gerate, die Gitterstäbe mit bloßen Händen zu verbiegen. Als er dann frei war, erkannte er die List des Johannes und lachte über dessen Klugheit.",
+          "Mark is unintentionally doing this.",
+          "Sentence from Tatoeba by Waldelfe (CC-BY 2.0 FR)"
+        ],
+        [
+          "Willst du wirklich Tom in deiner Mannschaft haben?",
+          "Do you really want Tom on your team?",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Verbindung",
+      "translations": [
+        "connection",
+        "link",
+        "relationship",
+        "association"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "wenn",
+      "translations": [
+        "if"
+      ],
+      "usageExamples": [
+        [
+          "Seine Wohltäter vergessen, wenn man ihre Hilfe nicht mehr braucht.",
+          "Burn that bridge when one comes to it.",
+          "Sentence from Tatoeba by Ag12x (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wir können froh sein, wenn wir dieses Jahr auf einem mittleren Tabellenplatz landen.",
+          "We'll be lucky to finish mid-table this year.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich warne Sie! Der Chef frisst Sie auf, wenn Sie da jetzt reingehen! Tom hat er eben schon zusammengestaucht und entlassen.",
+          "I'm warning you that you will be eaten.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Fragen",
+      "translations": [
+        "to ask",
+        "questions"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "haben",
+      "translations": [
+        "to have"
+      ],
+      "usageExamples": [
+        [
+          "Wie viele Stunden haben Sie in dieser Woche gearbeitet?",
+          "How many hours did you work this week?",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Ich danke Ihnen, dass Sie sich zu dieser Sitzung eingefunden haben!",
+          "Thank you for attending this meeting.",
+          "Sentence from Tatoeba by Pfirsichbaeumchen (CC-BY 2.0 FR)"
+        ],
+        [
+          "Wir haben nicht damit gerechnet, dass sie sich ein neues Auto kaufen würden.",
+          "We didn't anticipate their buying a new car.",
+          "Sentence from Tatoeba by jxan (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

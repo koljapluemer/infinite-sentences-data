@@ -1,10 +1,22 @@
 {
+  "ara": {
+    "displayName": "Arabic",
+    "symbols": []
+  },
+  "ber": {
+    "displayName": "Berber languages",
+    "symbols": []
+  },
   "bul": {
     "displayName": "Bulgarian",
     "symbols": []
   },
   "ces": {
     "displayName": "Czech",
+    "symbols": []
+  },
+  "cmn": {
+    "displayName": "Mandarin Chinese",
     "symbols": []
   },
   "dan": {
@@ -19,6 +31,10 @@
       "ä"
     ]
   },
+  "ell": {
+    "displayName": "Greek",
+    "symbols": []
+  },
   "eng": {
     "displayName": "English",
     "symbols": [
@@ -30,6 +46,12 @@
     "displayName": "Esperanto",
     "symbols": []
   },
+  "fin": {
+    "displayName": "Finnish (Suomi)",
+    "symbols": [
+      "🇫🇮"
+    ]
+  },
   "fra": {
     "displayName": "French",
     "symbols": [
@@ -40,6 +62,18 @@
   },
   "gos": {
     "displayName": "Gronings",
+    "symbols": []
+  },
+  "heb": {
+    "displayName": "Hebrew",
+    "symbols": []
+  },
+  "hun": {
+    "displayName": "Hungarian",
+    "symbols": []
+  },
+  "ind": {
+    "displayName": "Indonesian",
     "symbols": []
   },
   "ita": {
@@ -57,6 +91,14 @@
     "displayName": "Japanese",
     "symbols": []
   },
+  "kab": {
+    "displayName": "Kabyle",
+    "symbols": []
+  },
+  "kor": {
+    "displayName": "Korean",
+    "symbols": []
+  },
   "lat": {
     "displayName": "Latin",
     "symbols": []
@@ -69,6 +111,25 @@
     "displayName": "Norwegian Bokmål",
     "symbols": []
   },
+  "pol": {
+    "displayName": "Polish",
+    "symbols": [
+      "🇵🇱"
+    ]
+  },
+  "por": {
+    "displayName": "Portugese",
+    "symbols": [
+      "🇧🇷"
+    ],
+    "aiNote": "Focus on spoken, conventional Portugese. Give African and Brazilian the same weight as European Spanish."
+  },
+  "rus": {
+    "displayName": "Russian",
+    "symbols": [
+      "🇷🇺"
+    ]
+  },
   "spa": {
     "displayName": "Spanish",
     "symbols": [
@@ -77,6 +138,10 @@
       "🇪🇸"
     ],
     "aiNote": "Focus on spoken, conventional Spanish. Give South American Spanish the same weight as European Spanish."
+  },
+  "swe": {
+    "displayName": "Swedish",
+    "symbols": []
   },
   "tha": {
     "displayName": "Thai",
@@ -94,6 +159,10 @@
   },
   "uig": {
     "displayName": "Uyghur",
+    "symbols": []
+  },
+  "ukr": {
+    "displayName": "Ukrainian",
     "symbols": []
   },
   "vie": {

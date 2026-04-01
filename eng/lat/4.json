@@ -1,41 +1,118 @@
 {
-  "sentence": "Me solum relinquas!",
+  "sentence": "Lingua qualibet scribere potes. Linguæ omnes in Tatoeba æquæ sunt.",
   "credits": [
-    "Sentence from Tatoeba by CarpeLanam (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by CK (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)",
+    "Sentence from Tatoeba by TRANG (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "Leave me alone!"
+    "You may write in any language you want. On Tatoeba, all languages are equal."
   ],
   "parts": [
     {
-      "content": "Me",
+      "content": "Lingua",
       "translations": [
-        "Me",
-        "Myself",
-        "I"
+        "language",
+        "tongue"
       ],
       "usageExamples": []
     },
     {
-      "content": "solum",
+      "content": "qualibet",
       "translations": [
-        "ground",
-        "soil",
-        "foundation",
-        "land"
+        "anywhere",
+        "in any way",
+        "at any place",
+        "by any means"
       ],
       "usageExamples": []
     },
     {
-      "content": "relinquas",
+      "content": "scribere",
       "translations": [
-        "you leave",
-        "you abandon",
-        "you relinquish",
-        "you forsake"
+        "to write",
+        "writing"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "potes",
+      "translations": [
+        "you can",
+        "you are able"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "Linguæ",
+      "translations": [
+        "of the tongue",
+        "languages",
+        "of language"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "omnes",
+      "translations": [
+        "all",
+        "everyone",
+        "everybody",
+        "everything"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "in",
+      "translations": [
+        "in",
+        "inside",
+        "within",
+        "into"
+      ],
+      "usageExamples": [
+        [
+          "Nolo in ludum ire.",
+          "I don't want to go to school.",
+          "Sentence from Tatoeba by carlosalberto (CC-BY 2.0 FR)"
+        ],
+        [
+          "Insulae in mari sunt.",
+          "There are islands in the sea.",
+          "Sentence from Tatoeba by Balamax (CC-BY 2.0 FR)"
+        ]
+      ]
+    },
+    {
+      "content": "Tatoeba",
+      "translations": [
+        "for example",
+        "such as"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "æquæ",
+      "translations": [
+        "equal",
+        "even",
+        "fair",
+        "just"
+      ],
+      "usageExamples": []
+    },
+    {
+      "content": "sunt",
+      "translations": [
+        "they are",
+        "there are"
+      ],
+      "usageExamples": [
+        [
+          "Insulae in mari sunt.",
+          "There are islands in the sea.",
+          "Sentence from Tatoeba by Balamax (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }

@@ -1,62 +1,55 @@
 {
-  "sentence": "Jeg er så tyk.",
+  "sentence": "Han svarede på spørgsmålet.",
   "credits": [
     "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)",
-    "Sentence from Tatoeba by Zifre (CC-BY 2.0 FR)"
+    "Sentence from Tatoeba by enebi (CC-BY 2.0 FR)"
   ],
   "translations": [
-    "I'm so fat."
+    "He answered the question."
   ],
   "parts": [
     {
-      "content": "Jeg",
+      "content": "Han",
       "translations": [
-        "I",
-        "me"
-      ],
-      "usageExamples": []
-    },
-    {
-      "content": "er",
-      "translations": [
-        "is",
-        "are"
+        "He",
+        "Him"
       ],
       "usageExamples": [
         [
-          "Himlen er blå.",
-          "The sky is blue.",
-          "Sentence from Tatoeba by Zylx (CC-BY 2.0 FR)"
-        ],
-        [
-          "Du kan skrive i hvilket som helst sprog du måtte ønske. I Tatoeba er alle sprog lige.",
-          "You may write in any language you want. On Tatoeba, all languages are equal.",
-          "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
-        ],
-        [
-          "Det er ikke alt guld som glimrer.",
-          "All that glitters is not gold.",
-          "Sentence from Tatoeba by danepo (CC-BY 2.0 FR)"
+          "Han besvarede spørgsmålet.",
+          "He answered the question.",
+          "Sentence from Tatoeba by enebi (CC-BY 2.0 FR)"
         ]
       ]
     },
     {
-      "content": "så",
+      "content": "svarede",
       "translations": [
-        "so",
-        "thus",
-        "therefore",
-        "hence"
+        "answered",
+        "responded"
       ],
       "usageExamples": []
     },
     {
-      "content": "tyk",
+      "content": "på",
       "translations": [
-        "thick",
-        "fat"
+        "in"
       ],
       "usageExamples": []
+    },
+    {
+      "content": "spørgsmålet",
+      "translations": [
+        "the question",
+        "the issue"
+      ],
+      "usageExamples": [
+        [
+          "Han besvarede spørgsmålet.",
+          "He answered the question.",
+          "Sentence from Tatoeba by enebi (CC-BY 2.0 FR)"
+        ]
+      ]
     }
   ]
 }
